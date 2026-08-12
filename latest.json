@@ -1,0 +1,522 @@
+{
+  "schemaVersion": 1,
+  "publishedAt": "2026-08-12T04:10:53.951Z",
+  "issue": {
+    "id": "daily-public-2026-08-12",
+    "date": "2026-08-12",
+    "userId": "public",
+    "cards": [
+      {
+        "id": "draft-cluster-real-mem-cn-1edp8z1",
+        "title": "国家防总、应急管理部针对北京、天津启动防汛四级应急响应",
+        "oneLine": "风险提醒：根据《国家突发地质灾害应急预案》及有关规定，应急管理部于8月11日针对北京启动国家地质灾害四级应急响应。",
+        "importance": "A",
+        "credibility": "官方来源",
+        "tags": [
+          "A",
+          "mustKnow",
+          "risk",
+          "industry",
+          "disaster",
+          "publicSafety",
+          "china"
+        ],
+        "industries": [
+          "generalPublic",
+          "localLife",
+          "operationsGrowth"
+        ],
+        "section": "risk",
+        "body": {
+          "background": "据气象部门预测，受台风 “白海豚”和西风槽共同影响，未来三天，北京部分地区有暴雨或大暴雨，局地特大暴雨。",
+          "keyProgress": "经与自然资源部联合会商研判，北京西南部和东北部部分地区发生地质灾害的风险较高。应急管理部要求，相关地区要增强风险意识、强化底线思维，全面抓实抓细地质灾害防范应对工作，压紧压实责任，强化多部门会商研判、协同联动、信息共享，密切监视雨情汛情和地质灾害灾情险情，严格落实 “灾害点+风险区”双控管理，对山区沟口、临崖陡坡、施工工地、旅游景区、网红打卡点等重点部位加强排查，强化预警叫应，坚决果断实施转移避险，做到应转尽转、应转早转。",
+          "whyItMatters": "这类信息的价值是帮助你提前识别出行、居住和工作场所风险。最需要关注的是影响地区、持续时间、预警等级和官方避险建议。",
+          "userRelevance": "如果你居住、出行或有家人在北京、天津，应及时查看当地预警和交通变化；不在相关地区时，通常无需改变日常安排。",
+          "whatToWatch": "后续重点看影响范围是否扩大、预警等级是否变化，以及是否出现与你所在城市相关的提醒。"
+        },
+        "sourceLinks": [
+          {
+            "title": "应急管理部",
+            "url": "https://www.mem.gov.cn/xw/yjglbgzdt/202608/t20260811_680255.shtml",
+            "sourceId": "mem-cn",
+            "publishedAt": "2026-08-11T00:00:00+08:00"
+          },
+          {
+            "title": "应急管理部",
+            "url": "https://www.mem.gov.cn/xw/yjglbgzdt/202608/t20260811_680209.shtml",
+            "sourceId": "mem-cn",
+            "publishedAt": "2026-08-11T00:00:00+08:00"
+          }
+        ],
+        "images": [],
+        "generatedAt": "2026-08-12T04:10:53.951Z"
+      },
+      {
+        "id": "draft-real-xinhua-world-12m8id7",
+        "title": "特朗普称美方“百分百”控制霍尔木兹海峡",
+        "oneLine": "政策变化：美国总统特朗普10日在白宫对媒体说，美国“百分百”控制霍尔木兹海峡，但伊朗还会“制造麻烦”。",
+        "importance": "B",
+        "credibility": "主流媒体",
+        "tags": [
+          "B",
+          "mustKnow",
+          "industry",
+          "world",
+          "policy"
+        ],
+        "industries": [
+          "generalPublic",
+          "financeInvestment",
+          "operationsGrowth",
+          "contentCreator"
+        ],
+        "section": "front",
+        "body": {
+          "background": "伊朗伊斯兰革命卫队发言人穆赫比9日说，伊朗当前的战略是保持对霍尔木兹海峡的控制，直至敌方接受伊朗的全部条件并承认失败。",
+          "keyProgress": "他还说，美军对伊朗实施海上封锁，“只允许那些我们想放行的船只通过”。美军中央司令部9日称，美国在中东地区部署了20多艘军舰，严格执行针对伊朗的封锁措施。",
+          "whyItMatters": "重要国际变化可能通过能源价格、航运、贸易、汇率和市场预期传导到国内。理解局势变化有助于你判断后续风险，而不只停留在事件本身。",
+          "userRelevance": "即使你不在霍尔木兹海峡，这类局势也可能通过能源价格、国际航运、贸易成本和市场预期间接影响国内生活与工作判断。",
+          "whatToWatch": "后续重点看是否有执行细则、地方落地安排、时间节点或适用人群说明。"
+        },
+        "sourceLinks": [
+          {
+            "title": "新华网国际",
+            "url": "https://www.news.cn/world/20260811/2c894aa435874e67a996b123ab21c9c0/c.html",
+            "sourceId": "xinhua-world",
+            "publishedAt": "2026-08-11T00:00:00+08:00"
+          }
+        ],
+        "images": [],
+        "generatedAt": "2026-08-12T04:10:53.951Z"
+      },
+      {
+        "id": "draft-real-gov-cn-policy-library-qx7bir",
+        "title": "国务院关于出境入境管理的规定",
+        "oneLine": "政策变化：《国务院关于出境入境管理的规定》自2026年9月15日起施行。",
+        "importance": "B",
+        "credibility": "官方来源",
+        "tags": [
+          "B",
+          "mustKnow",
+          "policy",
+          "china"
+        ],
+        "industries": [
+          "generalPublic"
+        ],
+        "section": "front",
+        "body": {
+          "background": "国务院外交、文化和旅游主管部门以及驻外外交机构应当根据有关国家和地区战争或者武装冲突、社会治安、自然灾害、事故灾难、传染病疫情等安全形势，及时公开发布国外安全提醒和旅游目的地安全风险提示。",
+          "keyProgress": "第二条 国家建立和完善中国公民出境安全风险防范制度。中国公民应当关注国外安全提醒和旅游目的地安全风险提示，避免前往及驻留高风险国家或者地区。",
+          "whyItMatters": "政策变化可能影响个人办事、出行、公共服务或行业规则。提前了解适用范围和生效时间，可以减少信息滞后带来的判断偏差。",
+          "userRelevance": "作为中国居民，你需要留意它是否改变办事、出行、公共服务或个人权利义务，并关注正式生效时间。",
+          "whatToWatch": "后续重点看是否有执行细则、地方落地安排、时间节点或适用人群说明。"
+        },
+        "sourceLinks": [
+          {
+            "title": "国务院政策文件库",
+            "url": "https://www.gov.cn/zhengce/content/202607/content_7077172.htm",
+            "sourceId": "gov-cn-policy-library",
+            "publishedAt": "2026-07-31T00:00:00+08:00"
+          }
+        ],
+        "images": [],
+        "generatedAt": "2026-08-12T04:10:53.951Z"
+      },
+      {
+        "id": "draft-real-gov-cn-policy-library-94aehk",
+        "title": "法治宣传教育的第九个五年规划（2026－2030年）发布",
+        "oneLine": "政策变化：到2030年，领导干部依法办事能力水平和公民法治素养持续提升，全社会崇尚法治、恪守规则、尊重契约、维护公正的良好环境进一步形成；",
+        "importance": "B",
+        "credibility": "官方来源",
+        "tags": [
+          "B",
+          "mustKnow",
+          "policy",
+          "china",
+          "education"
+        ],
+        "industries": [
+          "generalPublic",
+          "teacher",
+          "educationResearch"
+        ],
+        "section": "front",
+        "body": {
+          "background": "近日，中共中央、国务院转发了《中央宣传部、司法部关于开展法治宣传教育的第九个五年规划（2026－2030年）》，并发出通知，要求各地区各部门结合实际认真贯彻落实。",
+          "keyProgress": "为加强和改进法治宣传教育，推动尊法学法守法用法在全社会蔚然成风，制定本规划。将习近平法治思想纳入大中小学相关课程，在法学专业开好习近平法治思想必修课，支持有条件的高校在其他专业开设选修课，组织编写《习近平法治思想大学生读本》，用好《习近平法治思想概论》等教材，推动习近平法治思想全方位进教材、进课堂、进头脑。",
+          "whyItMatters": "这类变化可能影响学校治理、教师工作、课程安排和学生发展。教育从业者可以据此提前关注地方执行方式和工作要求。",
+          "userRelevance": "作为中国居民，你需要留意它是否改变办事、出行或公共服务规则；如果你从事教师、教育研究，还应关注行业执行细则。",
+          "whatToWatch": "后续重点看是否有执行细则、地方落地安排、时间节点或适用人群说明。"
+        },
+        "sourceLinks": [
+          {
+            "title": "国务院政策文件库",
+            "url": "https://www.gov.cn/zhengce/202607/content_7076696.htm",
+            "sourceId": "gov-cn-policy-library",
+            "publishedAt": "2026-07-27T00:00:00+08:00"
+          }
+        ],
+        "images": [],
+        "generatedAt": "2026-08-12T04:10:53.951Z"
+      },
+      {
+        "id": "draft-real-gov-cn-policy-library-4jwcqq",
+        "title": "加强新时代社会工作的意见发布",
+        "oneLine": "政策变化：《关于加强新时代社会工作的意见》要求，健全党领导社会工作的体制机制。",
+        "importance": "B",
+        "credibility": "官方来源",
+        "tags": [
+          "B",
+          "mustKnow",
+          "policy",
+          "china"
+        ],
+        "industries": [
+          "generalPublic"
+        ],
+        "section": "front",
+        "body": {
+          "background": "近日，中共中央、国务院印发《关于加强新时代社会工作的意见》（以下简称《意见》），对加强新时代社会工作作出部署。",
+          "keyProgress": "坚持党中央集中统一领导，健全落实党中央关于社会工作决策部署的工作机制。完善学习贯彻党的创新理论制度，把习近平总书记关于社会工作的重要论述作为各级党委（党组）理论学习中心组学习的重要内容，纳入干部教育培训和社会工作者培训内容。",
+          "whyItMatters": "政策变化可能影响个人办事、出行、公共服务或行业规则。提前了解适用范围和生效时间，可以减少信息滞后带来的判断偏差。",
+          "userRelevance": "作为中国居民，你需要留意它是否改变办事、出行、公共服务或个人权利义务，并关注正式生效时间。",
+          "whatToWatch": "后续重点看是否有执行细则、地方落地安排、时间节点或适用人群说明。"
+        },
+        "sourceLinks": [
+          {
+            "title": "国务院政策文件库",
+            "url": "https://www.gov.cn/zhengce/202607/content_7076433.htm",
+            "sourceId": "gov-cn-policy-library",
+            "publishedAt": "2026-07-23T00:00:00+08:00"
+          }
+        ],
+        "images": [],
+        "generatedAt": "2026-08-12T04:10:53.951Z"
+      },
+      {
+        "id": "draft-real-xinhua-tech-1nuyktm",
+        "title": "我国高能量密度一次电池功率获突破",
+        "oneLine": "趋势信号：记者10日从中国科学院大连化学物理研究所获悉，该所能源催化转化全国重点实验室陈忠伟团队成功研制出25安时级软包金属锂一次电池。",
+        "importance": "B",
+        "credibility": "主流媒体",
+        "tags": [
+          "B",
+          "industry",
+          "technology",
+          "ai",
+          "product"
+        ],
+        "industries": [
+          "aiProduct",
+          "aiTechnology",
+          "productManagement",
+          "technologyEngineering",
+          "educationResearch",
+          "operationsGrowth"
+        ],
+        "section": "ai",
+        "body": {
+          "background": "经中国电子技术标准化研究院安全实验室检测，该电池低倍率下能量密度超过750Wh/kg和1285Wh/L，属于一次电池中的高能量密度区间，放电倍率可提高百倍，这一成果标志着我国在高功率一次电池领域迈入国际前列，为高端装备装上自主“电力心脏”。",
+          "keyProgress": "无人机突遇乱流需急刹悬停、机器人在崎岖地形要瞬间发力越障、航天器姿态调整要求数秒大电流冲击、野外地震仪在无人区长年待命却必须“唤醒即用”——这些场景对电池的共同要求，是“耐力”之外更要有“爆发力”。传统锂一次电池虽能贮存多年电力，却在关键时刻“使不上劲”。",
+          "whyItMatters": "这类进展能帮助你判断技术能力是否开始进入真实产品和商业场景，并据此调整产品规划、技术选型、学习重点或职业判断。",
+          "userRelevance": "如果你从事AI 产品、AI 技术、产品管理、技术研发，可以重点判断这项变化是否已经具备产品落地、技术选型或业务合作价值。",
+          "whatToWatch": "后续重点看是否有更多来源确认，以及这件事是否从单点消息发展成持续趋势。"
+        },
+        "sourceLinks": [
+          {
+            "title": "新华网科技",
+            "url": "https://www.news.cn/tech/20260811/df65c778b6464fee9a25e3137c91bc19/c.html",
+            "sourceId": "xinhua-tech",
+            "publishedAt": "2026-08-11T00:00:00+08:00"
+          }
+        ],
+        "images": [],
+        "generatedAt": "2026-08-12T04:10:53.951Z"
+      },
+      {
+        "id": "draft-real-xinhua-tech-9rwjgx",
+        "title": "“AI+汽车”应用再上大台阶",
+        "oneLine": "趋势信号：重庆赛力斯超级工厂（凤凰）总装车间即将下线的新能源汽车。",
+        "importance": "B",
+        "credibility": "主流媒体",
+        "tags": [
+          "B",
+          "industry",
+          "technology",
+          "ai",
+          "product"
+        ],
+        "industries": [
+          "aiProduct",
+          "aiTechnology",
+          "productManagement",
+          "technologyEngineering",
+          "educationResearch",
+          "operationsGrowth"
+        ],
+        "section": "ai",
+        "body": {
+          "background": "近期，我国牵头制定的联合国自动驾驶系统全球技术法规获批发布，标志着中国智能驾驶产业迈入全新发展阶段。",
+          "keyProgress": "新华社记者 王全超摄 当前，人工智能（AI）正在汽车领域加速应用，推动汽车从单一交通工具向“智能终端”和“移动生活空间”演进。华为、腾讯、字节等科技巨头正积极布局，与主流车企加强合作，推动AI深度赋能汽车产业，重塑汽车行业格局。",
+          "whyItMatters": "这类进展能帮助你判断技术能力是否开始进入真实产品和商业场景，并据此调整产品规划、技术选型、学习重点或职业判断。",
+          "userRelevance": "如果你从事AI 产品、AI 技术、产品管理、技术研发，可以重点判断这项变化是否已经具备产品落地、技术选型或业务合作价值。",
+          "whatToWatch": "后续重点看是否有更多来源确认，以及这件事是否从单点消息发展成持续趋势。"
+        },
+        "sourceLinks": [
+          {
+            "title": "新华网科技",
+            "url": "https://www.news.cn/tech/20260812/b78dcbcf6fe0419ea3de34bdfb539f49/c.html",
+            "sourceId": "xinhua-tech",
+            "publishedAt": "2026-08-12T00:00:00+08:00"
+          }
+        ],
+        "images": [
+          {
+            "url": "https://www.news.cn/tech/20260812/b78dcbcf6fe0419ea3de34bdfb539f49/20260812b78dcbcf6fe0419ea3de34bdfb539f49_202608124eaad5b370ab49ef99e56894e7db19b1.jpg",
+            "sourceUrl": "https://www.news.cn/tech/20260812/b78dcbcf6fe0419ea3de34bdfb539f49/c.html"
+          }
+        ],
+        "generatedAt": "2026-08-12T04:10:53.951Z"
+      },
+      {
+        "id": "draft-real-xinhua-tech-9fj5ax",
+        "title": "中国自动驾驶出租车“驶入”阿联酋",
+        "oneLine": "趋势信号：中国自动驾驶出租车“驶入”阿联酋：今年年初获得全无人驾驶测试许可，成为迪拜首个且目前唯一获准开展全无人测试的平台，并从3月启动商业化运营。",
+        "importance": "B",
+        "credibility": "主流媒体",
+        "tags": [
+          "B",
+          "industry",
+          "technology",
+          "ai",
+          "product"
+        ],
+        "industries": [
+          "aiProduct",
+          "aiTechnology",
+          "productManagement",
+          "technologyEngineering",
+          "educationResearch",
+          "operationsGrowth"
+        ],
+        "section": "ai",
+        "body": {
+          "background": "该公司国际传播总监王露迪说，阿联酋消费者对智能汽车和国际品牌的接受度不断提升，政府的支持、完善的数字基础设施和丰富的应用场景，为中国自动驾驶技术落地提供了有利条件。",
+          "keyProgress": "作为最早进入阿联酋市场的中国自动驾驶企业之一，百度旗下的“萝卜快跑”2025年与迪拜公路和运输管理局签署战略合作协议；完善的道路基础设施、旺盛的出行需求以及新能源配套，也为商业化运营创造了有利条件。",
+          "whyItMatters": "这类进展能帮助你判断技术能力是否开始进入真实产品和商业场景，并据此调整产品规划、技术选型、学习重点或职业判断。",
+          "userRelevance": "如果你从事AI 产品、AI 技术、产品管理、技术研发，可以重点判断这项变化是否已经具备产品落地、技术选型或业务合作价值。",
+          "whatToWatch": "后续重点看是否有更多来源确认，以及这件事是否从单点消息发展成持续趋势。"
+        },
+        "sourceLinks": [
+          {
+            "title": "新华网科技",
+            "url": "https://www.news.cn/tech/20260811/cb66934806c7444a961f5512c9aaedbb/c.html",
+            "sourceId": "xinhua-tech",
+            "publishedAt": "2026-08-11T00:00:00+08:00"
+          }
+        ],
+        "images": [
+          {
+            "url": "https://www.news.cn/tech/20260811/cb66934806c7444a961f5512c9aaedbb/20260811cb66934806c7444a961f5512c9aaedbb_202608117b14a2dbe05247d1a6401e825bdc53bc.jpg",
+            "sourceUrl": "https://www.news.cn/tech/20260811/cb66934806c7444a961f5512c9aaedbb/c.html"
+          }
+        ],
+        "generatedAt": "2026-08-12T04:10:53.951Z"
+      },
+      {
+        "id": "draft-real-cac-cn-1rbj2ne",
+        "title": "中华人民共和国反网络暴力法公开征求意见",
+        "oneLine": "政策变化：为了预防、制止和惩治网络暴力，加强反网络暴力工作，保护个人、组织的合法权益，维护国家安全和社会公共利益，按照有关立法规划计划安排，国家互联网信息办公室会同有关部门起草了《中华人民共和国反网络暴力法（征求意见稿）》，现向社会公开征求意见。",
+        "importance": "B",
+        "credibility": "官方来源",
+        "tags": [
+          "B",
+          "industry",
+          "policy",
+          "china",
+          "operations"
+        ],
+        "industries": [
+          "contentCreator",
+          "generalPublic",
+          "operationsGrowth",
+          "productManagement"
+        ],
+        "section": "industry",
+        "body": {
+          "background": "国务院公安部门依据职责开展反网络暴力工作和相关监督管理工作，打击整治网络暴力犯罪。",
+          "keyProgress": "第二条 本法所称网络暴力，是指通过网络对个人、组织集中或者持续实施的侵害名誉权、荣誉权、隐私权、肖像权、个人信息等合法权益的下列活动： （一）集中发布含有侮辱谩骂、造谣诽谤、煽动仇恨、挑动对立、威逼胁迫、歧视偏见等内容的信息（以下简称网络暴力信息）；第三条 防范治理在中华人民共和国境内实施的网络暴力活动，适用本法。",
+          "whyItMatters": "政策变化可能影响个人办事、出行、公共服务或行业规则。提前了解适用范围和生效时间，可以减少信息滞后带来的判断偏差。",
+          "userRelevance": "作为中国居民，你需要留意它是否改变办事、出行或公共服务规则；如果你从事内容创作、运营增长、产品管理，还应关注行业执行细则。",
+          "whatToWatch": "后续重点看是否出现更细的城市、行业、平台或企业动作，以及数据是否连续变化。"
+        },
+        "sourceLinks": [
+          {
+            "title": "中央网信办 / 国家网信办",
+            "url": "https://www.cac.gov.cn/2026-07/29/c_1787072711938509.htm",
+            "sourceId": "cac-cn"
+          }
+        ],
+        "images": [],
+        "generatedAt": "2026-08-12T04:10:53.951Z"
+      },
+      {
+        "id": "draft-real-stats-cn-data-1q2yz9p",
+        "title": "2026年7月份居民消费价格同比上涨0.5%",
+        "oneLine": "经营环境信号：2026 年 7 月份，全国居民消费价格同比上涨 0.5% 。7 月份，全国居民消费价格环比下降 0.1% 。",
+        "importance": "B",
+        "credibility": "官方来源",
+        "tags": [
+          "B",
+          "industry",
+          "china",
+          "consumer",
+          "operations"
+        ],
+        "industries": [
+          "operationsGrowth",
+          "consumerBrand",
+          "financeInvestment",
+          "ecommerceRetail",
+          "generalPublic"
+        ],
+        "section": "industry",
+        "body": {
+          "background": "数据来源于全国 31 个省（区、市）约 500 个市县、近 12 万家价格调查点，包括商场（店）、超市、农贸（生鲜）市场、服务网点和互联网电商等。",
+          "keyProgress": "食品价格下降 1.5% ，非食品价格上涨 0.9% ；消费品价格上涨 0.2% ，服务价格上涨 0.7% 。",
+          "whyItMatters": "消费和经营数据能反映需求、成本与市场节奏的变化。它不一定马上改变日常生活，但会影响选品、定价、投放、库存和内容方向。",
+          "userRelevance": "如果你从事运营增长、消费品牌、金融投资、电商零售，这些数据可用于观察需求和成本变化，并辅助定价、选品、投放或经营节奏判断。",
+          "whatToWatch": "后续重点看是否出现更细的城市、行业、平台或企业动作，以及数据是否连续变化。"
+        },
+        "sourceLinks": [
+          {
+            "title": "国家统计局数据发布",
+            "url": "https://www.stats.gov.cn/sj/zxfb/202608/t20260809_1965008.html",
+            "sourceId": "stats-cn-data",
+            "publishedAt": "2026-08-09T00:00:00+08:00"
+          }
+        ],
+        "images": [
+          {
+            "url": "https://www.stats.gov.cn/sj/zxfb/202608/W020260809325110436977_ORIGIN.jpg",
+            "sourceUrl": "https://www.stats.gov.cn/sj/zxfb/202608/t20260809_1965008.html"
+          },
+          {
+            "url": "https://www.stats.gov.cn/sj/zxfb/202608/W020260809325110715139_ORIGIN.jpg",
+            "sourceUrl": "https://www.stats.gov.cn/sj/zxfb/202608/t20260809_1965008.html"
+          },
+          {
+            "url": "https://www.stats.gov.cn/sj/zxfb/202608/W020260809325110911914_ORIGIN.jpg",
+            "sourceUrl": "https://www.stats.gov.cn/sj/zxfb/202608/t20260809_1965008.html"
+          }
+        ],
+        "generatedAt": "2026-08-12T04:10:53.951Z"
+      },
+      {
+        "id": "draft-real-stats-cn-data-1xml715",
+        "title": "2026年7月份工业生产者出厂价格同比上涨3.5%",
+        "oneLine": "经营环境信号：2026 年 7 月份，全国工业生产者出厂价格同比上涨 3.5% ，环比下降 0.7% 。工业生产者购进价格同比上涨 5.5% ，环比下降 1.0% 。",
+        "importance": "B",
+        "credibility": "官方来源",
+        "tags": [
+          "B",
+          "industry",
+          "china",
+          "consumer",
+          "operations"
+        ],
+        "industries": [
+          "operationsGrowth",
+          "consumerBrand",
+          "financeInvestment",
+          "ecommerceRetail",
+          "generalPublic"
+        ],
+        "section": "industry",
+        "body": {
+          "background": "按照统计制度安排， 2026 年 1 月起，我国 PPI 开始编制和发布以 2025 年为基期的价格指数。",
+          "keyProgress": "生活资料价格下降 0.8% ，影响工业生产者出厂价格总水平下降约 0.17 个百分点。建筑材料及非金属类价格下降 4.1% ，农副产品类价格下降 0.8% 。",
+          "whyItMatters": "消费和经营数据能反映需求、成本与市场节奏的变化。它不一定马上改变日常生活，但会影响选品、定价、投放、库存和内容方向。",
+          "userRelevance": "如果你从事运营增长、消费品牌、金融投资、电商零售，这些数据可用于观察需求和成本变化，并辅助定价、选品、投放或经营节奏判断。",
+          "whatToWatch": "后续重点看是否出现更细的城市、行业、平台或企业动作，以及数据是否连续变化。"
+        },
+        "sourceLinks": [
+          {
+            "title": "国家统计局数据发布",
+            "url": "https://www.stats.gov.cn/sj/zxfb/202608/t20260809_1965007.html",
+            "sourceId": "stats-cn-data",
+            "publishedAt": "2026-08-09T00:00:00+08:00"
+          }
+        ],
+        "images": [
+          {
+            "url": "https://www.stats.gov.cn/sj/zxfb/202608/W020260809323920495816_ORIGIN.jpg",
+            "sourceUrl": "https://www.stats.gov.cn/sj/zxfb/202608/t20260809_1965007.html"
+          },
+          {
+            "url": "https://www.stats.gov.cn/sj/zxfb/202608/W020260809323920834275_ORIGIN.jpg",
+            "sourceUrl": "https://www.stats.gov.cn/sj/zxfb/202608/t20260809_1965007.html"
+          },
+          {
+            "url": "https://www.stats.gov.cn/sj/zxfb/202608/W020260809323921057075_ORIGIN.jpg",
+            "sourceUrl": "https://www.stats.gov.cn/sj/zxfb/202608/t20260809_1965007.html"
+          },
+          {
+            "url": "https://www.stats.gov.cn/sj/zxfb/202608/W020260809323921256867_ORIGIN.jpg",
+            "sourceUrl": "https://www.stats.gov.cn/sj/zxfb/202608/t20260809_1965007.html"
+          }
+        ],
+        "generatedAt": "2026-08-12T04:10:53.951Z"
+      },
+      {
+        "id": "draft-real-stats-cn-data-1ujku96",
+        "title": "2026年7月下旬流通领域重要生产资料市场价格变动情况",
+        "oneLine": "经营环境信号：据对全国流通领域 9 大类 50 种重要生产资料市场价格的监测显示， 2026 年 7 月下旬与 7 月中旬相比， 20 种产品价格上涨， 27 种下降， 3 种持平。",
+        "importance": "B",
+        "credibility": "官方来源",
+        "tags": [
+          "B",
+          "industry",
+          "china",
+          "consumer",
+          "operations"
+        ],
+        "industries": [
+          "operationsGrowth",
+          "consumerBrand",
+          "financeInvestment",
+          "ecommerceRetail",
+          "generalPublic"
+        ],
+        "section": "industry",
+        "body": {
+          "background": "流通领域重要生产资料市场价格，是指重要生产资料经营企业的批发和销售价格。",
+          "keyProgress": "与出厂价格不同，生产资料市场价格既包含出厂价格，也包含有经营企业的流通费用、利润和税费等。出厂价格与市场价格互相影响，存在时滞，两者的变动趋势在某一时间段内有可能会出现不完全一致的情况。",
+          "whyItMatters": "消费和经营数据能反映需求、成本与市场节奏的变化。它不一定马上改变日常生活，但会影响选品、定价、投放、库存和内容方向。",
+          "userRelevance": "如果你从事运营增长、消费品牌、金融投资、电商零售，这些数据可用于观察需求和成本变化，并辅助定价、选品、投放或经营节奏判断。",
+          "whatToWatch": "后续重点看是否出现更细的城市、行业、平台或企业动作，以及数据是否连续变化。"
+        },
+        "sourceLinks": [
+          {
+            "title": "国家统计局数据发布",
+            "url": "https://www.stats.gov.cn/sj/zxfb/202608/t20260803_1964273.html",
+            "sourceId": "stats-cn-data",
+            "publishedAt": "2026-08-03T00:00:00+08:00"
+          }
+        ],
+        "images": [],
+        "generatedAt": "2026-08-12T04:10:53.951Z"
+      }
+    ],
+    "estimatedReadMinutes": 11,
+    "pageCount": 3,
+    "topCardId": "draft-cluster-real-mem-cn-1edp8z1",
+    "generatedAt": "2026-08-12T04:10:53.951Z",
+    "pushSlots": [
+      "08:30",
+      "12:30",
+      "21:30"
+    ]
+  }
+}

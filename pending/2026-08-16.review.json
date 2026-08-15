@@ -1,0 +1,100 @@
+{
+  "version": 1,
+  "date": "2026-08-16",
+  "generatedAt": "2026-08-15T16:36:40.712Z",
+  "status": "blocked",
+  "candidateSha256": "f332b1973d788284a28fa60fe25797b18948426fb350d69c1178d203931256b8",
+  "counts": {
+    "cards": 14,
+    "pages": 3,
+    "rawItems": 100,
+    "freshCandidates": 46,
+    "publishableCards": 16,
+    "rejectedCards": 26,
+    "blockers": 2,
+    "warnings": 13
+  },
+  "findings": [
+    {
+      "level": "blocker",
+      "code": "too-few-cards",
+      "message": "当前只有 14 条，低于 15 条最低阅读量。"
+    },
+    {
+      "level": "warning",
+      "code": "title-lead-low-overlap",
+      "message": "标题和一句话导读的共同信息偏少，需要人工确认是否讲的是同一件事。",
+      "cardId": "draft-cluster-real-mem-cn-1y6yfeg",
+      "cardTitle": "应急管理部紧急调派中国安能工程救援力量 驰援河南周口执行贾鲁河溃口险情处置任务"
+    },
+    {
+      "level": "warning",
+      "code": "title-lead-low-overlap",
+      "message": "标题和一句话导读的共同信息偏少，需要人工确认是否讲的是同一件事。",
+      "cardId": "draft-real-xinhua-tech-16eq0un",
+      "cardTitle": "我国陆上大兆瓦风电铸件领域取得关键性技术突破"
+    },
+    {
+      "level": "blocker",
+      "code": "truncated-title",
+      "message": "标题仍有截断符号，需要改成完整标题。",
+      "cardId": "draft-real-moe-cn-ufx79v",
+      "cardTitle": "教育科技人才“三位一体”的强国策(深入学习贯彻习近平新时代中国特色社会主义思想·《习近平谈治国理政》第一至..."
+    },
+    {
+      "level": "warning",
+      "code": "older-content-present",
+      "message": "共有 4 个来源超过近三日范围，需要确认它们仍值得进入今天的日报。"
+    },
+    {
+      "level": "warning",
+      "code": "repeated-why",
+      "message": "有 3 张卡片使用了完全相同的“为什么重要”文案，可能显得模板化。"
+    },
+    {
+      "level": "warning",
+      "code": "repeated-why",
+      "message": "有 7 张卡片使用了完全相同的“为什么重要”文案，可能显得模板化。"
+    },
+    {
+      "level": "warning",
+      "code": "repeated-why",
+      "message": "有 3 张卡片使用了完全相同的“为什么重要”文案，可能显得模板化。"
+    },
+    {
+      "level": "warning",
+      "code": "repeated-relevance",
+      "message": "有 3 张卡片使用了完全相同的“和你有什么关系”文案，可能显得模板化。"
+    },
+    {
+      "level": "warning",
+      "code": "repeated-relevance",
+      "message": "有 3 张卡片使用了完全相同的“和你有什么关系”文案，可能显得模板化。"
+    },
+    {
+      "level": "warning",
+      "code": "repeated-relevance",
+      "message": "有 3 张卡片使用了完全相同的“和你有什么关系”文案，可能显得模板化。"
+    },
+    {
+      "level": "warning",
+      "code": "repeated-watch",
+      "message": "有 6 张卡片使用了完全相同的“接下来关注什么”文案，可能显得模板化。"
+    },
+    {
+      "level": "warning",
+      "code": "repeated-watch",
+      "message": "有 3 张卡片使用了完全相同的“接下来关注什么”文案，可能显得模板化。"
+    },
+    {
+      "level": "warning",
+      "code": "repeated-watch",
+      "message": "有 3 张卡片使用了完全相同的“接下来关注什么”文案，可能显得模板化。"
+    },
+    {
+      "level": "warning",
+      "code": "source-fetch-failures",
+      "message": "有 2 个来源抓取失败，需要确认是否影响当天覆盖面。"
+    }
+  ]
+}

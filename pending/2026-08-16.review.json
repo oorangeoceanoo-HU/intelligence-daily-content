@@ -1,14 +1,14 @@
 {
   "version": 1,
   "date": "2026-08-16",
-  "generatedAt": "2026-08-15T16:36:40.712Z",
+  "generatedAt": "2026-08-15T23:42:59.603Z",
   "status": "blocked",
-  "candidateSha256": "f332b1973d788284a28fa60fe25797b18948426fb350d69c1178d203931256b8",
+  "candidateSha256": "22e108f44666797f004dd70e425f9293f36a9347d8a67e756de5680ba402bc29",
   "counts": {
     "cards": 14,
     "pages": 3,
     "rawItems": 100,
-    "freshCandidates": 46,
+    "freshCandidates": 45,
     "publishableCards": 16,
     "rejectedCards": 26,
     "blockers": 2,

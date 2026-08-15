@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "publishedAt": "2026-08-15T16:35:34.619Z",
+  "publishedAt": "2026-08-15T23:41:55.567Z",
   "issue": {
     "id": "daily-public-2026-08-16",
     "date": "2026-08-16",
@@ -57,7 +57,7 @@
             "sourceUrl": "https://www.news.cn/world/20260815/a0ab32288ff048d3ab9c490d3d136b35/c.html"
           }
         ],
-        "generatedAt": "2026-08-15T16:35:34.619Z"
+        "generatedAt": "2026-08-15T23:41:55.567Z"
       },
       {
         "id": "draft-cluster-real-mem-cn-1y6yfeg",
@@ -102,7 +102,7 @@
           }
         ],
         "images": [],
-        "generatedAt": "2026-08-15T16:35:34.619Z"
+        "generatedAt": "2026-08-15T23:41:55.567Z"
       },
       {
         "id": "draft-real-xinhua-world-1snk3ea",
@@ -140,7 +140,7 @@
           }
         ],
         "images": [],
-        "generatedAt": "2026-08-15T16:35:34.619Z"
+        "generatedAt": "2026-08-15T23:41:55.567Z"
       },
       {
         "id": "draft-cluster-real-mem-cn-1uqjmzc",
@@ -184,7 +184,7 @@
           }
         ],
         "images": [],
-        "generatedAt": "2026-08-15T16:35:34.619Z"
+        "generatedAt": "2026-08-15T23:41:55.567Z"
       },
       {
         "id": "draft-real-xinhua-tech-16eq0un",
@@ -224,7 +224,7 @@
           }
         ],
         "images": [],
-        "generatedAt": "2026-08-15T16:35:34.619Z"
+        "generatedAt": "2026-08-15T23:41:55.567Z"
       },
       {
         "id": "draft-real-xinhua-tech-15le4c2",
@@ -273,7 +273,7 @@
             "sourceUrl": "https://www.news.cn/tech/20260814/52c94790f5b14954bb18bbc31c972f00/c.html"
           }
         ],
-        "generatedAt": "2026-08-15T16:35:34.619Z"
+        "generatedAt": "2026-08-15T23:41:55.567Z"
       },
       {
         "id": "draft-real-xinhua-tech-1nzj4tj",
@@ -313,7 +313,7 @@
           }
         ],
         "images": [],
-        "generatedAt": "2026-08-15T16:35:34.619Z"
+        "generatedAt": "2026-08-15T23:41:55.567Z"
       },
       {
         "id": "draft-real-cas-science-news-k6oktk",
@@ -354,7 +354,7 @@
             "sourceUrl": "https://www.cas.cn/syky/202608/t20260812_5118252.shtml"
           }
         ],
-        "generatedAt": "2026-08-15T16:35:34.619Z"
+        "generatedAt": "2026-08-15T23:41:55.567Z"
       },
       {
         "id": "draft-real-cas-science-news-1vkfwcm",
@@ -390,7 +390,7 @@
           }
         ],
         "images": [],
-        "generatedAt": "2026-08-15T16:35:34.619Z"
+        "generatedAt": "2026-08-15T23:41:55.567Z"
       },
       {
         "id": "draft-real-cas-science-news-1d7exud",
@@ -431,7 +431,7 @@
             "sourceUrl": "https://www.cas.cn/syky/202608/t20260813_5118295.shtml"
           }
         ],
-        "generatedAt": "2026-08-15T16:35:34.619Z"
+        "generatedAt": "2026-08-15T23:41:55.567Z"
       },
       {
         "id": "draft-real-stats-cn-data-153i873",
@@ -470,7 +470,7 @@
           }
         ],
         "images": [],
-        "generatedAt": "2026-08-15T16:35:34.619Z"
+        "generatedAt": "2026-08-15T23:41:55.567Z"
       },
       {
         "id": "draft-real-moe-cn-ufx79v",
@@ -516,7 +516,7 @@
             "sourceUrl": "https://www.moe.gov.cn/jyb_xwfb/s5147/202608/t20260814_1446859.html"
           }
         ],
-        "generatedAt": "2026-08-15T16:35:34.619Z"
+        "generatedAt": "2026-08-15T23:41:55.567Z"
       },
       {
         "id": "draft-real-stats-cn-data-1pszdkq",
@@ -568,7 +568,7 @@
             "sourceUrl": "https://www.stats.gov.cn/sj/zxfb/202608/t20260809_1965008.html"
           }
         ],
-        "generatedAt": "2026-08-15T16:35:34.619Z"
+        "generatedAt": "2026-08-15T23:41:55.567Z"
       },
       {
         "id": "draft-real-stats-cn-data-1wsmdy8",
@@ -624,13 +624,13 @@
             "sourceUrl": "https://www.stats.gov.cn/sj/zxfb/202608/t20260809_1965007.html"
           }
         ],
-        "generatedAt": "2026-08-15T16:35:34.619Z"
+        "generatedAt": "2026-08-15T23:41:55.567Z"
       }
     ],
     "estimatedReadMinutes": 14,
     "pageCount": 3,
     "topCardId": "draft-real-xinhua-world-ckufoh",
-    "generatedAt": "2026-08-15T16:35:34.619Z",
+    "generatedAt": "2026-08-15T23:41:55.567Z",
     "pushSlots": [
       "08:30",
       "12:30",

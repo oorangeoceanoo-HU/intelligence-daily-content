@@ -1,0 +1,94 @@
+name: Prepare Daily Review
+
+on:
+  workflow_dispatch:
+    inputs:
+      date:
+        description: Optional issue date in YYYY-MM-DD; blank uses Asia/Shanghai today
+        required: false
+        type: string
+  schedule:
+    # 07:30 Asia/Shanghai. The result is only a pending draft, never latest.json.
+    - cron: "30 23 * * *"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: prepare-daily-review
+  cancel-in-progress: false
+
+jobs:
+  prepare:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out content repository
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Resolve issue date
+        id: issue-date
+        env:
+          REQUESTED_DATE: ${{ inputs.date }}
+          TZ: Asia/Shanghai
+        run: |
+          if [ -n "$REQUESTED_DATE" ]; then
+            DATE="$REQUESTED_DATE"
+          else
+            DATE="$(date +%F)"
+          fi
+          if ! [[ "$DATE" =~ ^[0-9]{4}-[0-9]{2}-[0-9]{2}$ ]]; then
+            echo "Invalid date: $DATE" >&2
+            exit 1
+          fi
+          echo "date=$DATE" >> "$GITHUB_OUTPUT"
+
+      - name: Generate pending issue
+        env:
+          DATE: ${{ steps.issue-date.outputs.date }}
+        run: |
+          mkdir -p tmp
+          node generator/scripts/generateDailyIssue.js \
+            --publish \
+            --profile public \
+            --source-limit 10 \
+            --cards 30 \
+            --date "$DATE" \
+            --output "tmp/review-$DATE.json"
+          node generator/scripts/createDailyReviewSummary.js \
+            --date "$DATE" \
+            --review-input "tmp/review-$DATE.json" \
+            --candidate-input "outputs/publish/issues/$DATE.json" \
+            --pending-output "pending/$DATE.json" \
+            --summary-output "pending/$DATE.md" \
+            --report-output "pending/$DATE.review.json"
+
+      - name: Show review summary
+        env:
+          DATE: ${{ steps.issue-date.outputs.date }}
+        run: cat "pending/$DATE.md" >> "$GITHUB_STEP_SUMMARY"
+
+      - name: Save private diagnostic artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: daily-review-${{ steps.issue-date.outputs.date }}
+          path: tmp/review-${{ steps.issue-date.outputs.date }}.json
+          retention-days: 7
+
+      - name: Commit pending draft
+        env:
+          DATE: ${{ steps.issue-date.outputs.date }}
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add "pending/$DATE.json" "pending/$DATE.md" "pending/$DATE.review.json"
+          if git diff --cached --quiet; then
+            echo "Pending draft already matches the generated result."
+            exit 0
+          fi
+          git commit -m "Prepare daily review $DATE"
+          git push origin HEAD:main

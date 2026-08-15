@@ -1,0 +1,193 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
+exports.dedupeCandidateItems = dedupeCandidateItems;
+const unique = (items) => Array.from(new Set(items));
+const hasAny = (items, targets) => items.some((item) => targets.includes(item));
+const normalizeText = (value) => value
+    .toLowerCase()
+    .replace(/https?:\/\/\S+/g, " ")
+    .replace(/[^\p{L}\p{N}\s-]/gu, " ")
+    .replace(/\s+/g, " ")
+    .trim();
+const compactKey = (value) => normalizeText(value)
+    .replace(/\s+/g, "-")
+    .slice(0, 70);
+const dayBucket = (value) => {
+    const date = new Date(value ?? Date.now());
+    if (Number.isNaN(date.getTime())) {
+        return "unknown-day";
+    }
+    return date.toISOString().slice(0, 10);
+};
+const candidatePriority = (candidate) => candidate.impactScore * 0.34 +
+    candidate.severityScore * 0.26 +
+    candidate.freshnessScore * 0.2 +
+    candidate.trendScore * 0.2;
+const disasterType = (candidate) => {
+    const text = normalizeText(`${candidate.title} ${candidate.body.keyProgress}`);
+    if (/\bearthquake\b/.test(text) || text.includes("地震")) {
+        return "earthquake";
+    }
+    if (/\bvolcan/.test(text) || text.includes("火山")) {
+        return "volcano";
+    }
+    if (/\bflood\b/.test(text) || text.includes("洪水")) {
+        return "flood";
+    }
+    if (/\bcyclone\b|\bhurricane\b|\btyphoon\b|\bstorm\b/.test(text) || text.includes("台风")) {
+        return "storm";
+    }
+    if (/\bwildfire\b|\bfire\b/.test(text) || text.includes("山火")) {
+        return "wildfire";
+    }
+    return "risk";
+};
+const locationFromTitle = (candidate) => {
+    if (candidate.locations.length) {
+        return candidate.locations[0];
+    }
+    const normalized = normalizeText(candidate.title);
+    const inMatch = normalized.match(/\bin\s+([a-z][a-z\s-]+?)(?:\s+\d{2}\/|\s+\d{4}|\s+\[|,|$)/i);
+    if (inMatch) {
+        return inMatch[1].trim();
+    }
+    return candidate.regions[0] ?? "global";
+};
+const titleTokens = (candidate) => normalizeText(candidate.title)
+    .split(/\s+/)
+    .filter((token) => token.length >= 4)
+    .filter((token) => !["with", "from", "this", "that", "into", "across", "using", "based"].includes(token));
+const tokenSimilarity = (a, b) => {
+    const aTokens = new Set(titleTokens(a));
+    const bTokens = new Set(titleTokens(b));
+    if (!aTokens.size || !bTokens.size) {
+        return 0;
+    }
+    const intersection = [...aTokens].filter((token) => bTokens.has(token)).length;
+    const union = new Set([...aTokens, ...bTokens]).size;
+    return intersection / union;
+};
+const riskClusterKey = (candidate) => `risk:${disasterType(candidate)}:${compactKey(locationFromTitle(candidate))}:${dayBucket(candidate.publishedAt)}`;
+const exactTitleKey = (candidate) => `title:${compactKey(candidate.title)}:${dayBucket(candidate.publishedAt)}`;
+const baseClusterKey = (candidate) => {
+    if (hasAny(candidate.categories, ["disaster", "publicSafety"])) {
+        return riskClusterKey(candidate);
+    }
+    return exactTitleKey(candidate);
+};
+const shouldJoinCluster = (candidate, cluster) => {
+    const first = cluster[0];
+    if (!first) {
+        return false;
+    }
+    if (baseClusterKey(candidate) === baseClusterKey(first)) {
+        return true;
+    }
+    if (dayBucket(candidate.publishedAt) !== dayBucket(first.publishedAt)) {
+        return false;
+    }
+    const bothRisk = hasAny(candidate.categories, ["disaster", "publicSafety"]) &&
+        hasAny(first.categories, ["disaster", "publicSafety"]);
+    if (bothRisk) {
+        return (disasterType(candidate) === disasterType(first) &&
+            compactKey(locationFromTitle(candidate)) === compactKey(locationFromTitle(first)));
+    }
+    return tokenSimilarity(candidate, first) >= 0.72;
+};
+const uniqueLinks = (links) => {
+    const seen = new Set();
+    return links.filter((link) => {
+        const key = `${link.sourceId}:${link.url}`;
+        if (seen.has(key)) {
+            return false;
+        }
+        seen.add(key);
+        return true;
+    });
+};
+const uniqueImages = (images) => {
+    const seen = new Set();
+    return images.filter((image) => {
+        if (seen.has(image.url)) {
+            return false;
+        }
+        seen.add(image.url);
+        return true;
+    });
+};
+const mergeCluster = (cluster) => {
+    const representative = [...cluster].sort((a, b) => candidatePriority(b) - candidatePriority(a))[0];
+    if (!representative || cluster.length === 1) {
+        return representative ?? cluster[0];
+    }
+    const sourceIds = unique(cluster.flatMap((candidate) => candidate.sourceIds));
+    const categories = unique(cluster.flatMap((candidate) => candidate.categories));
+    const industries = unique(cluster.flatMap((candidate) => candidate.industries));
+    const locations = unique(cluster.flatMap((candidate) => candidate.locations));
+    const sourceLinks = uniqueLinks(cluster.flatMap((candidate) => candidate.sourceLinks));
+    const images = uniqueImages(cluster.flatMap((candidate) => candidate.images));
+    const relatedCount = cluster.length - 1;
+    return {
+        ...representative,
+        id: `cluster-${representative.id}`,
+        sourceIds,
+        categories,
+        industries,
+        locations,
+        sourceLinks,
+        images,
+        impactScore: Math.max(...cluster.map((candidate) => candidate.impactScore)),
+        severityScore: Math.max(...cluster.map((candidate) => candidate.severityScore)),
+        freshnessScore: Math.max(...cluster.map((candidate) => candidate.freshnessScore)),
+        trendScore: Math.max(...cluster.map((candidate) => candidate.trendScore)),
+        body: {
+            ...representative.body,
+            whatToWatch: `${representative.body.whatToWatch ?? ""}${representative.body.whatToWatch ? " " : ""}已合并 ${relatedCount} 条相近候选，正式展示前仍需确认是否属于同一事件。`
+        }
+    };
+};
+const clusterReason = (cluster) => {
+    const first = cluster[0];
+    if (!first) {
+        return "空聚合";
+    }
+    if (hasAny(first.categories, ["disaster", "publicSafety"])) {
+        return `同一日期、同一灾害类型和相近地区：${disasterType(first)} / ${locationFromTitle(first)}`;
+    }
+    return "标题高度相似或来自同一候选事件";
+};
+const clusterPreview = (cluster) => {
+    const merged = mergeCluster(cluster);
+    return {
+        id: merged.id,
+        title: merged.title,
+        representativeId: cluster
+            .slice()
+            .sort((a, b) => candidatePriority(b) - candidatePriority(a))[0]?.id ?? merged.id,
+        candidateIds: cluster.map((candidate) => candidate.id),
+        sourceIds: unique(cluster.flatMap((candidate) => candidate.sourceIds)),
+        categories: unique(cluster.flatMap((candidate) => candidate.categories)),
+        industries: unique(cluster.flatMap((candidate) => candidate.industries)),
+        locations: unique(cluster.flatMap((candidate) => candidate.locations)),
+        reason: clusterReason(cluster)
+    };
+};
+function dedupeCandidateItems(candidates) {
+    const clusters = [];
+    candidates.forEach((candidate) => {
+        const matchedCluster = clusters.find((cluster) => shouldJoinCluster(candidate, cluster));
+        if (matchedCluster) {
+            matchedCluster.push(candidate);
+        }
+        else {
+            clusters.push([candidate]);
+        }
+    });
+    const mergedCandidates = clusters.map(mergeCluster);
+    const clusterPreviews = clusters.filter((cluster) => cluster.length > 1).map(clusterPreview);
+    return {
+        candidates: mergedCandidates,
+        clusters: clusterPreviews,
+        removedCount: candidates.length - mergedCandidates.length
+    };
+}

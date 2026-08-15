@@ -25,10 +25,17 @@ jobs:
         uses: actions/checkout@v4
       - name: Configure Pages
         uses: actions/configure-pages@v5
+      - name: Prepare public files
+        run: |
+          mkdir -p site/issues
+          cp latest.json site/latest.json
+          cp issues/*.json site/issues/
+          touch site/.nojekyll
+          printf '<!doctype html><meta charset="utf-8"><title>Intelligence Daily Content</title>' > site/index.html
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: .
+          path: site
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4

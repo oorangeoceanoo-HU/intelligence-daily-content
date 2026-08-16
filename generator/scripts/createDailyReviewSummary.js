@@ -22,7 +22,9 @@ function parseArgs(argv) {
         candidateInput: values.get("candidate-input") ?? `outputs/publish/issues/${date}.json`,
         pendingOutput: values.get("pending-output") ?? `pending/${date}.json`,
         summaryOutput: values.get("summary-output") ?? `pending/${date}.md`,
-        reportOutput: values.get("report-output") ?? `pending/${date}.review.json`
+        reportOutput: values.get("report-output") ?? `pending/${date}.review.json`,
+        recheckInput: values.get("recheck-input"),
+        previousReportInput: values.get("previous-report-input")
     };
 }
 const calendarDay = (value) => {
@@ -124,7 +126,13 @@ function inspectIssue(expectedDate, review, candidate) {
                 olderThanThreeDays += 1;
             }
         });
-        if ((0, textSimilarity_1.textSimilarity)(card.title, card.oneLine) < 0.05) {
+        const titleContent = [card.oneLine, card.body.background, card.body.keyProgress].join(" ");
+        const titleContentCoverage = (0, textSimilarity_1.textContainment)(card.title, titleContent);
+        if (titleContentCoverage < 0.14) {
+            addFinding(findings, "blocker", "title-content-mismatch", "标题与导读、背景和进展缺少共同事件信息，不能确认它们讲的是同一件事。", card);
+        }
+        else if ((0, textSimilarity_1.textSimilarity)(card.title, card.oneLine) < 0.05 &&
+            (0, textSimilarity_1.textContainment)(card.title, card.oneLine) < 0.14) {
             addFinding(findings, "warning", "title-lead-low-overlap", "标题和一句话导读的共同信息偏少，需要人工确认是否讲的是同一件事。", card);
         }
         if ((0, textSimilarity_1.textSimilarity)(card.oneLine, card.body.background) > 0.64) {
@@ -190,10 +198,33 @@ function buildMarkdown(report, candidate) {
 }
 async function main() {
     const options = parseArgs(process.argv.slice(2));
-    const review = await readJson(options.reviewInput);
-    const candidate = await readJson(options.candidateInput);
+    const previousReport = options.recheckInput
+        ? await readJson(options.previousReportInput ?? `pending/${options.date}.review.json`)
+        : undefined;
+    const candidate = await readJson(options.recheckInput ?? options.candidateInput);
+    const review = options.recheckInput
+        ? {
+            issue: candidate.issue,
+            meta: {
+                rawItemCount: previousReport?.counts.rawItems ?? 0,
+                freshCandidateCount: previousReport?.counts.freshCandidates ?? 0,
+                publishableCardCount: previousReport?.counts.publishableCards ?? candidate.issue.cards.length,
+                rejectedCardCount: previousReport?.counts.rejectedCards ?? 0
+            }
+        }
+        : await readJson(options.reviewInput);
     const candidateText = `${JSON.stringify(candidate, null, 2)}\n`;
     const findings = inspectIssue(options.date, review, candidate);
+    const persistentFindingCodes = new Set(["source-fetch-failures"]);
+    if (previousReport) {
+        previousReport.findings
+            .filter((finding) => persistentFindingCodes.has(finding.code))
+            .forEach((finding) => {
+            if (!findings.some((item) => item.code === finding.code)) {
+                findings.push(finding);
+            }
+        });
+    }
     const blockers = findings.filter((finding) => finding.level === "blocker").length;
     const warnings = findings.filter((finding) => finding.level === "warning").length;
     const report = {
@@ -201,6 +232,7 @@ async function main() {
         date: options.date,
         generatedAt: new Date().toISOString(),
         status: blockers ? "blocked" : warnings ? "review" : "ready",
+        reviewMode: options.recheckInput ? "edited-recheck" : "generated",
         candidateSha256: sha256(candidateText),
         counts: {
             cards: candidate.issue.cards.length,

@@ -1,6 +1,6 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
-exports.textSimilarity = void 0;
+exports.textContainment = exports.textSimilarity = void 0;
 const normalizeForSimilarity = (value) => value
     .toLowerCase()
     .replace(/[^\p{L}\p{N}]+/gu, "")
@@ -30,3 +30,16 @@ const textSimilarity = (a, b) => {
     return intersection / union;
 };
 exports.textSimilarity = textSimilarity;
+const textContainment = (needle, haystack) => {
+    if (!needle || !haystack) {
+        return 0;
+    }
+    const needleSet = bigrams(needle);
+    const haystackSet = bigrams(haystack);
+    if (!needleSet.size || !haystackSet.size) {
+        return 0;
+    }
+    const intersection = [...needleSet].filter((item) => haystackSet.has(item)).length;
+    return intersection / needleSet.size;
+};
+exports.textContainment = textContainment;

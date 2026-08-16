@@ -69,6 +69,10 @@ function evaluateCardDraftQuality(card, detail) {
         else if (detail.charCount < 500 && !["官方来源", "主流媒体"].includes(card.credibility)) {
             addIssue(issues, "warning", "detail-limited-unverified", "原文篇幅较短且不是官方或主流来源，需要发布前复核。");
         }
+        if (detail.status === "fetched" &&
+            (0, textSimilarity_1.textContainment)(card.title, `${detail.title} ${detail.text.slice(0, 900)}`) < 0.12) {
+            addIssue(issues, "error", "detail-title-mismatch", "标题与抓取到的原文正文缺少共同事件信息，可能串到了另一条新闻。");
+        }
     }
     if (fieldLength(card.title) < 8) {
         addIssue(issues, "error", "title-too-short", "标题过短，无法说明事件。");

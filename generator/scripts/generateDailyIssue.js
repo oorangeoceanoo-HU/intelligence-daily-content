@@ -141,7 +141,7 @@ function parseArgs(argv) {
         }
         if (arg === "--cards" || arg === "-c") {
             const parsed = Number(argv[index + 1]);
-            options.cardLimit = Number.isFinite(parsed) && parsed > 0 ? Math.min(parsed, 24) : options.cardLimit;
+            options.cardLimit = Number.isFinite(parsed) && parsed > 0 ? Math.min(parsed, 30) : options.cardLimit;
             index += 1;
         }
     }

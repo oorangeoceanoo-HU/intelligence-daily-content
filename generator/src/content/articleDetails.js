@@ -350,6 +350,12 @@ const removeTitlePrefix = (sentence, title) => {
 const editorialTitle = (candidate, detail) => {
     let title = candidate.title.replace(/\s+/g, " ").trim();
     const sourceId = detail.sourceLink.sourceId;
+    const detailTitle = detail.title.replace(/\s+/g, " ").trim();
+    if (/\.{3,}|…/u.test(title) &&
+        detailTitle.length >= 8 &&
+        !/\.{3,}|…/u.test(detailTitle)) {
+        title = detailTitle;
+    }
     if (sourceId === "gov-cn-policy-library") {
         const issuedPlan = title.match(/(?:转发|印发)《(.+?)》(?:的通知)?$/u)?.[1];
         if (issuedPlan) {
@@ -378,6 +384,12 @@ const editorialTitle = (candidate, detail) => {
     if (sourceId === "xinhua-world" || sourceId === "xinhua-tech") {
         title = title.replace(/^通讯[｜|]/u, "").trim();
     }
+    if (title.length > 68) {
+        const completeMainTitle = title.split(/[（(]/u)[0]?.trim();
+        if (completeMainTitle && completeMainTitle.length >= 8 && completeMainTitle.length <= 68) {
+            title = completeMainTitle;
+        }
+    }
     return title;
 };
 const industryLabels = {
@@ -403,111 +415,181 @@ const industryLabels = {
     generalPublic: "公共信息"
 };
 const hasCategory = (candidate, categories) => candidate.categories.some((category) => categories.includes(category));
+const eventTopic = (candidate) => {
+    const title = candidate.title
+        .replace(/[（(][^）)]*(?:[）)]|$)/gu, "")
+        .replace(/[。！？；]+$/u, "")
+        .trim();
+    if (title.length <= 48) {
+        return title;
+    }
+    const firstClause = title.split(/[：:，,；;]/u)[0]?.trim();
+    if (firstClause && firstClause.length >= 10 && firstClause.length <= 48) {
+        return firstClause;
+    }
+    return title.slice(0, 48).replace(/[，,、：:；;]+$/u, "").trim();
+};
+const eventFocus = (candidate) => {
+    const text = candidate.title;
+    const patterns = [
+        [/霍尔木兹/u, "霍尔木兹海峡局势"],
+        [/桂河大桥|死亡铁路/u, "桂河大桥与死亡铁路历史"],
+        [/防汛|洪水|溃口/u, "防汛与洪涝风险"],
+        [/全国自然灾害情况/u, "全国自然灾害月度情况"],
+        [/风电/u, "大兆瓦风电装备"],
+        [/人形机器人运动会/u, "人形机器人技术验证"],
+        [/机器人.*出海|国产机器人/u, "国产机器人出海"],
+        [/开源.*人工智能|开源.*模型/u, "人工智能开源生态"],
+        [/高温超导|REBCO/iu, "高温超导材料"],
+        [/锌碘电池|电池/u, "水系储能电池"],
+        [/高寒草地|生产力稳定性/u, "气候变化与高寒草地生态"],
+        [/生产资料.*价格/u, "生产资料价格变化"],
+        [/城市更新/u, "城市更新行动"],
+        [/教育科技人才|三位一体/u, "教育科技人才协同"],
+        [/居民消费价格|CPI/iu, "居民消费价格变化"],
+        [/工业生产者出厂价格|PPI/iu, "工业品出厂价格变化"]
+    ];
+    const matched = patterns.find(([pattern]) => pattern.test(text));
+    return matched?.[1] ?? eventTopic(candidate).replace(/[“”《》]/gu, "");
+};
+const isResearchCandidate = (candidate) => candidate.industries.includes("communicationsResearch") ||
+    candidate.sourceIds.some((sourceId) => ["arxiv-cs-api", "cas-science-news"].includes(sourceId));
 const whyTemplate = (candidate) => {
+    const topic = eventFocus(candidate);
+    if (/全国自然灾害情况/u.test(candidate.title)) {
+        return "全国自然灾害月度统计用于看清灾害类型、受灾规模和区域分布，不代表今天仍有同等风险。它的价值是帮助你形成长期风险认知，而不是制造即时焦虑。";
+    }
     if (hasCategory(candidate, ["disaster", "publicSafety"])) {
-        return "这类信息的价值是帮助你提前识别出行、居住和工作场所风险。最需要关注的是影响地区、持续时间、预警等级和官方避险建议。";
+        return `“${topic}”的直接价值是帮助你判断是否需要调整出行、居住或工作安排。影响地区、持续时间、预警等级和官方避险建议比事件热度更重要。`;
+    }
+    if (hasCategory(candidate, ["lightTrend"])) {
+        return `“${topic}”提供的是历史与公共记忆背景。它的价值在于理解战争遗产、和平议题和文化保护，不需要被当成即时风险或行动信号。`;
     }
     if (hasCategory(candidate, ["world"])) {
-        return "重要国际变化可能通过能源价格、航运、贸易、汇率和市场预期传导到国内。理解局势变化有助于你判断后续风险，而不只停留在事件本身。";
+        return `“${topic}”如果继续发展，可能通过能源价格、航运、贸易、汇率或市场预期传导到国内。了解它的意义在于判断后续风险，而不只停留在事件本身。`;
     }
     if (/公积金|住房消费/u.test(candidate.title)) {
-        return "住房公积金和住房消费政策会直接影响贷款、购房和居住安排。需要重点看适用人群、办理条件、额度变化和地方执行方式。";
+        return `“${topic}”可能直接影响贷款、购房和居住安排。真正需要核对的是适用人群、办理条件、额度变化和所在城市的执行方式。`;
     }
     if (candidate.industries.includes("architectureBuiltEnvironment")) {
-        return "建筑与城市更新会改变项目机会、技术标准、公共空间和居住体验。建筑、工程与规划从业者需要重点看适用地区、实施范围和地方配套安排。";
+        return `“${topic}”可能改变项目机会、技术标准、公共空间或居住体验。建筑、工程与规划从业者应重点看适用地区、实施范围和地方配套安排。`;
     }
-    if (candidate.industries.includes("communicationsResearch") || hasCategory(candidate, ["education", "technology"])) {
-        return "这类研究能帮助你判断某个学术或工程方向的新进展是否可靠，以及它是否值得继续跟进论文、实验指标、开源材料或真实应用。";
+    if (isResearchCandidate(candidate)) {
+        return `“${topic}”提供了一个具体的研究进展信号。它是否重要，要看实验指标、可复现性、开源材料和真实应用，而不能只看论文标题。`;
     }
     if (hasCategory(candidate, ["education"])) {
-        return "这类变化可能影响学校治理、教师工作、课程安排和学生发展。教育从业者可以据此提前关注地方执行方式和工作要求。";
+        return `“${topic}”可能影响学校治理、教师工作、课程安排或学生发展。教育从业者可以据此提前关注具体对象、地方执行方式和工作要求。`;
     }
     if (hasCategory(candidate, ["hr"])) {
-        return "这类信息会影响招聘节奏、人才供给、就业服务和用工判断。对 HR、招聘、求职和关注城市人才政策的人更有参考价值。";
+        return `“${topic}”可能影响招聘节奏、人才供给、就业服务或用工判断。对 HR、招聘、求职和关注城市人才政策的人更有参考价值。`;
     }
     if (hasCategory(candidate, ["ai", "technology", "product"])) {
-        return "这类进展能帮助你判断技术能力是否开始进入真实产品和商业场景，并据此调整产品规划、技术选型、学习重点或职业判断。";
+        return `“${topic}”能帮助你判断这项能力是否已经进入工程、产品或商业场景，并据此调整技术选型、产品规划、学习重点或职业判断。`;
     }
     if (hasCategory(candidate, ["policy"])) {
-        return "政策变化可能影响个人办事、出行、公共服务或行业规则。提前了解适用范围和生效时间，可以减少信息滞后带来的判断偏差。";
+        return `“${topic}”可能改变个人办事、出行、公共服务或行业规则。提前确认适用范围和生效时间，可以减少信息滞后带来的判断偏差。`;
     }
     if (hasCategory(candidate, ["operations", "consumer", "ecommerce"])) {
-        return "消费和经营数据能反映需求、成本与市场节奏的变化。它不一定马上改变日常生活，但会影响选品、定价、投放、库存和内容方向。";
+        return `“${topic}”反映了需求、成本或市场节奏的一次变化。它不一定马上改变日常生活，但会影响选品、定价、投放、库存和内容方向。`;
     }
-    return "这条信息能帮助你补齐对外部变化的基本认识，并判断它是否会继续影响生活、工作或近期决策。";
+    return `“${topic}”能帮助你补齐对这项外部变化的基本认识，并判断它是否会继续影响生活、工作或近期决策。`;
 };
 const userRelevanceTemplate = (candidate) => {
+    const topic = eventFocus(candidate);
     const industries = candidate.industries
         .filter((industry) => industry !== "generalPublic")
         .slice(0, 4)
         .map((industry) => industryLabels[industry])
         .join("、");
     const locations = candidate.locations.slice(0, 3).join("、");
+    if (/全国自然灾害情况/u.test(candidate.title)) {
+        return "作为中国居民，你可以用这份月度统计了解近期主要灾害类型；是否需要调整个人安排，仍应以你所在城市当天发布的预警和交通通知为准。";
+    }
     if (hasCategory(candidate, ["disaster", "publicSafety"])) {
         if (hasCategory(candidate, ["china", "local"])) {
             return locations
-                ? `如果你居住、出行或有家人在${locations}，应及时查看当地预警和交通变化；不在相关地区时，通常无需改变日常安排。`
-                : "如果你所在地区出现同类预警，应优先确认当地通知、交通变化和避险要求；其他地区通常无需因此改变日常安排。";
+                ? `对于“${topic}”，如果你居住、出行或有家人在${locations}，应及时查看当地预警和交通变化；不在相关地区时，通常无需改变日常安排。`
+                : `对于“${topic}”，如果你所在地区出现同类预警，应优先确认当地通知、交通变化和避险要求；其他地区通常无需因此改变日常安排。`;
         }
-        return "如果你近期计划前往事发地区或与当地有工作、家人联系，需要留意后续预警；没有直接联系时，可把它作为区域风险背景了解。";
+        return `对于“${topic}”，如果你近期计划前往事发地区或与当地有工作、家人联系，需要留意后续预警；没有直接联系时，可把它作为区域风险背景了解。`;
+    }
+    if (hasCategory(candidate, ["lightTrend"])) {
+        return `“${topic}”更适合作为低压力的历史背景阅读。如果你关注东南亚旅行、二战史或世界遗产，可以继续阅读；否则无需据此调整生活安排。`;
     }
     if (hasCategory(candidate, ["world"])) {
-        return `即使你不在${locations || "事发地区"}，这类局势也可能通过能源价格、国际航运、贸易成本和市场预期间接影响国内生活与工作判断。`;
+        return `即使你不在${locations || "事发地区"}，“${topic}”也可能通过能源价格、国际航运、贸易成本和市场预期间接影响国内生活与工作判断。`;
     }
     if (/公积金|住房消费/u.test(candidate.title)) {
-        return "如果你正在购房、租房或关注住房政策，需要重点核对自己所在城市的办理条件和执行细则；建筑从业者也可把它作为住房市场需求变化的参考。";
+        return `如果你正在购房、租房或关注住房政策，需要核对“${topic}”在所在城市的办理条件和执行细则；建筑从业者也可把它作为住房市场需求变化的参考。`;
     }
     if (candidate.industries.includes("architectureBuiltEnvironment")) {
         return locations
-            ? `如果你从事建筑、工程或城市规划，或者居住在${locations}，可以重点关注项目范围、建设标准和公共空间变化。`
-            : "如果你从事建筑、工程或城市规划，可以重点关注项目范围、建设标准和城市更新机会；普通居民可留意它对居住环境和公共服务的影响。";
+            ? `如果你从事建筑、工程或城市规划，或者居住在${locations}，可以重点关注“${topic}”涉及的项目范围、建设标准和公共空间变化。`
+            : `如果你从事建筑、工程或城市规划，可以重点关注“${topic}”带来的建设标准和城市更新机会；普通居民可留意它对居住环境和公共服务的影响。`;
     }
-    if (candidate.industries.includes("communicationsResearch")) {
-        return "如果你是博士生、通信研究人员或工程师，可以重点查看论文方法、实验条件和指标是否可复现；其他用户无需把单篇研究直接理解为成熟产品。";
+    if (isResearchCandidate(candidate)) {
+        return candidate.industries.includes("communicationsResearch")
+            ? `如果你是博士生、通信研究人员或工程师，可以重点查看“${topic}”的方法、实验条件和指标是否可复现；其他用户无需把单篇研究直接理解为成熟产品。`
+            : `如果你从事科研、工程或正在攻读相关学位，可以重点查看“${topic}”的实验条件、指标和可复现性；其他用户可把它作为技术趋势背景了解。`;
     }
     if (hasCategory(candidate, ["education"])) {
-        return "如果你从事教师、教育研究或学校管理，可以重点关注具体执行方式、适用对象和地方落地节奏；其他用户无需据此改变日常安排。";
+        return `如果你从事教师、教育研究或学校管理，可以重点关注“${topic}”的具体对象、执行方式和地方落地节奏；其他用户可把它作为教育环境背景了解。`;
     }
     if (hasCategory(candidate, ["hr"])) {
-        return "如果你从事 HR、招聘或求职相关工作，可以重点关注岗位要求、人才供给和地方执行安排；其他用户可把它作为就业环境背景了解。";
+        return `如果你从事 HR、招聘或求职相关工作，可以重点关注“${topic}”涉及的岗位要求、人才供给和地方执行安排；其他用户可把它作为就业环境背景了解。`;
     }
     if (hasCategory(candidate, ["ai", "technology", "product"])) {
         return industries
-            ? `如果你从事${industries}，可以重点判断这项变化是否已经具备产品落地、技术选型或业务合作价值。`
-            : "如果你的工作涉及产品或技术，可以重点判断这项变化是否已经具备落地和业务合作价值。";
+            ? `如果你从事${industries}，可以重点判断“${topic}”是否已经具备产品落地、技术选型或业务合作价值。`
+            : `如果你的工作涉及产品或技术，可以重点判断“${topic}”是否已经具备落地和业务合作价值。`;
     }
     if (hasCategory(candidate, ["policy"]) && hasCategory(candidate, ["china"])) {
         return industries
-            ? `作为中国居民，你需要留意它是否改变办事、出行或公共服务规则；如果你从事${industries}，还应关注行业执行细则。`
-            : "作为中国居民，你需要留意它是否改变办事、出行、公共服务或个人权利义务，并关注正式生效时间。";
+            ? `作为中国居民，你需要留意“${topic}”是否改变办事、出行或公共服务规则；如果你从事${industries}，还应关注行业执行细则。`
+            : `作为中国居民，你需要留意“${topic}”是否改变办事、出行、公共服务或个人权利义务，并关注正式生效时间。`;
     }
     if (hasCategory(candidate, ["operations", "consumer", "ecommerce", "finance"])) {
         return industries
-            ? `如果你从事${industries}，这些数据可用于观察需求和成本变化，并辅助定价、选品、投放或经营节奏判断。`
-            : "这些数据可用于观察需求和成本变化，并辅助近期消费或经营判断。";
+            ? `如果你从事${industries}，“${topic}”可用于观察需求和成本变化，并辅助定价、选品、投放或经营节奏判断。`
+            : `“${topic}”可用于观察需求和成本变化，并辅助近期消费或经营判断。`;
     }
     if (locations && industries) {
-        return `如果你的生活或工作与${locations}、${industries}有关，这条变化可能影响近期安排和判断，值得继续观察后续落地。`;
+        return `如果你的生活或工作与${locations}、${industries}有关，“${topic}”可能影响近期安排和判断，值得继续观察后续落地。`;
     }
     if (locations) {
-        return `如果你居住、出行或有家人在${locations}，可以关注后续是否出现更具体的本地影响和行动建议。`;
+        return `如果你居住、出行或有家人在${locations}，可以关注“${topic}”是否出现更具体的本地影响和行动建议。`;
     }
     if (industries) {
-        return `如果你从事${industries}，这条变化可以作为近期工作和行业判断的一项参考。`;
+        return `如果你从事${industries}，“${topic}”可以作为近期工作和行业判断的一项参考。`;
     }
-    return "它与你的直接关系取决于后续影响范围；目前可以先用来补齐背景，不必立即调整个人安排。";
+    return `“${topic}”与你的直接关系取决于后续影响范围；目前可以先用来补齐背景，不必立即调整个人安排。`;
 };
 const whatToWatchTemplate = (candidate) => {
-    if (hasCategory(candidate, ["operations", "consumer", "ecommerce", "finance"])) {
-        return "后续重点看是否出现更细的城市、行业、平台或企业动作，以及数据是否连续变化。";
-    }
-    if (hasCategory(candidate, ["education", "hr", "policy"])) {
-        return "后续重点看是否有执行细则、地方落地安排、时间节点或适用人群说明。";
+    const topic = eventFocus(candidate);
+    if (/全国自然灾害情况/u.test(candidate.title)) {
+        return "后续可对比下一月的受灾人数、直接经济损失和主要灾害类型，并单独查看居住城市发布的实时预警。";
     }
     if (hasCategory(candidate, ["disaster", "publicSafety"])) {
-        return "后续重点看影响范围是否扩大、预警等级是否变化，以及是否出现与你所在城市相关的提醒。";
+        return `接下来要看“${topic}”的影响范围是否扩大、预警等级是否变化，以及是否出现与你所在城市相关的提醒。`;
     }
-    return "后续重点看是否有更多来源确认，以及这件事是否从单点消息发展成持续趋势。";
+    if (hasCategory(candidate, ["lightTrend"])) {
+        return `接下来可关注“${topic}”申报世界遗产的进展，以及相关国家是否公布新的保护、纪念或开放安排。`;
+    }
+    if (isResearchCandidate(candidate)) {
+        return `接下来要看“${topic}”是否公开论文全文、代码或完整实验条件，以及是否得到独立复现和实际应用。`;
+    }
+    if (hasCategory(candidate, ["operations", "consumer", "ecommerce", "finance"])) {
+        return `接下来要看“${topic}”是否出现更细的城市、行业、平台或企业数据，以及这一变化能否连续保持。`;
+    }
+    if (hasCategory(candidate, ["world"])) {
+        return /霍尔木兹/u.test(candidate.title)
+            ? "接下来要看霍尔木兹海峡实际通航量、油价和保险成本是否继续变化，以及美伊双方是否出现新的正式行动。"
+            : `接下来要看“${topic}”是否出现新的官方信息、后续行动，以及它与中国出行、贸易或公共判断的关联是否扩大。`;
+    }
+    if (hasCategory(candidate, ["education", "hr", "policy"])) {
+        return `接下来要看“${topic}”是否补充执行细则、地方落地安排、时间节点或适用人群说明。`;
+    }
+    return `接下来要看“${topic}”是否有更多可靠来源、量产或应用进展，以及它会不会从单点消息发展成持续趋势。`;
 };
 const oneLineFromDetail = (candidate, sentences) => {
     const cleanedSentences = sentences
@@ -562,7 +644,9 @@ const oneLineFromDetail = (candidate, sentences) => {
             }
         }
         if (hasCategory(candidate, ["disaster", "publicSafety"])) {
-            return `风险提醒：${lead}`;
+            return /全国自然灾害情况/u.test(candidate.title)
+                ? `风险概览：${lead}`
+                : `风险提醒：${lead}`;
         }
         if (hasCategory(candidate, ["policy"])) {
             return `政策变化：${lead}`;
@@ -608,17 +692,18 @@ function buildBodyFromArticleDetail(candidate, detail, lead = candidate.oneLine)
 }
 function enrichCandidateWithArticleDetail(candidate, detail) {
     const sentences = splitSentences(detail.text);
+    const title = editorialTitle(candidate, detail);
+    const titledCandidate = { ...candidate, title };
     const detailImages = detail.imageUrls.map((url) => ({
         url,
         sourceUrl: detail.sourceLink.url
     }));
     const images = candidate.images.length ? candidate.images : detailImages;
-    const oneLine = oneLineFromDetail(candidate, sentences);
+    const oneLine = oneLineFromDetail(titledCandidate, sentences);
     return {
-        ...candidate,
-        title: editorialTitle(candidate, detail),
+        ...titledCandidate,
         oneLine,
-        body: buildBodyFromArticleDetail(candidate, detail, oneLine),
+        body: buildBodyFromArticleDetail(titledCandidate, detail, oneLine),
         images
     };
 }

@@ -115,6 +115,13 @@ const canAddCard = (card, sectionCounts, importanceCounts, sourceCounts) => {
     }
     return true;
 };
+const canAddMinimumFallback = (card, sectionCounts, importanceCounts, sourceCounts) => {
+    const primarySourceId = card.sourceLinks[0]?.sourceId ?? "unknown";
+    return (card.section !== "friends" &&
+        (sourceCounts[primarySourceId] ?? 0) < 4 &&
+        (card.importance !== "C" || importanceCounts.C < 3) &&
+        sectionCounts[card.section] < 10);
+};
 const selectIssueCards = (items, sizingOverrides = {}) => {
     const sizingRules = normalizeSizingRules(sizingOverrides);
     const sectionCounts = emptySectionCounts();
@@ -148,6 +155,21 @@ const selectIssueCards = (items, sizingOverrides = {}) => {
         const primarySourceId = item.card.sourceLinks[0]?.sourceId ?? "unknown";
         sourceCounts[primarySourceId] = (sourceCounts[primarySourceId] ?? 0) + 1;
     });
+    if (selected.length < sizingRules.minimumCards) {
+        [...skipped].forEach((item) => {
+            if (selected.length >= sizingRules.minimumCards ||
+                !canAddMinimumFallback(item.card, sectionCounts, importanceCounts, sourceCounts)) {
+                return;
+            }
+            selected.push(item);
+            sizing.minimumBandCount += 1;
+            sectionCounts[item.card.section] += 1;
+            importanceCounts[item.card.importance] += 1;
+            const primarySourceId = item.card.sourceLinks[0]?.sourceId ?? "unknown";
+            sourceCounts[primarySourceId] = (sourceCounts[primarySourceId] ?? 0) + 1;
+            skipped.splice(skipped.indexOf(item), 1);
+        });
+    }
     return {
         selected,
         skipped,

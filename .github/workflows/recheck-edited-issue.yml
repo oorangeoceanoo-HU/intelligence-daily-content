@@ -1,0 +1,74 @@
+name: Recheck Edited Issue
+
+on:
+  workflow_dispatch:
+    inputs:
+      date:
+        description: Edited pending issue date in YYYY-MM-DD
+        required: true
+        type: string
+
+permissions:
+  contents: write
+
+concurrency:
+  group: recheck-edited-issue
+  cancel-in-progress: false
+
+jobs:
+  recheck:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out content repository
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Validate issue date
+        id: issue-date
+        env:
+          REQUESTED_DATE: ${{ inputs.date }}
+        run: |
+          DATE="$REQUESTED_DATE"
+          if ! [[ "$DATE" =~ ^[0-9]{4}-[0-9]{2}-[0-9]{2}$ ]]; then
+            echo "Invalid date: $DATE" >&2
+            exit 1
+          fi
+          test -f "pending/$DATE.json"
+          test -f "pending/$DATE.review.json"
+          echo "date=$DATE" >> "$GITHUB_OUTPUT"
+
+      - name: Recheck edited pending issue
+        env:
+          DATE: ${{ steps.issue-date.outputs.date }}
+        run: |
+          node generator/scripts/createDailyReviewSummary.js \
+            --date "$DATE" \
+            --recheck-input "pending/$DATE.json" \
+            --previous-report-input "pending/$DATE.review.json" \
+            --pending-output "pending/$DATE.json" \
+            --summary-output "pending/$DATE.md" \
+            --report-output "pending/$DATE.review.json"
+
+      - name: Show review summary
+        env:
+          DATE: ${{ steps.issue-date.outputs.date }}
+        run: cat "pending/$DATE.md" >> "$GITHUB_STEP_SUMMARY"
+
+      - name: Commit refreshed review
+        env:
+          DATE: ${{ steps.issue-date.outputs.date }}
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add "pending/$DATE.json" "pending/$DATE.md" "pending/$DATE.review.json"
+          if git diff --cached --quiet; then
+            echo "Review already matches the edited pending issue."
+            exit 0
+          fi
+          git commit -m "Recheck edited daily issue $DATE"
+          git push origin HEAD:main
+

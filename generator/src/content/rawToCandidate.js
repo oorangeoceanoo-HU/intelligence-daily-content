@@ -499,14 +499,30 @@ const xinhuaWorldProfile = (item) => {
     const text = textOf(item);
     const locations = extractLocations(item);
     const categories = ["world"];
+    const historicalFeature = hasAny(text, [
+        "周年",
+        "重访",
+        "历史",
+        "遗址",
+        "纪念",
+        "博物馆",
+        "死亡铁路"
+    ]);
+    const activePublicRisk = !historicalFeature &&
+        /地震|洪水|台风|山火|爆炸|危机|干旱|已致\d+人死亡|造成\d+人(?:死亡|受伤)|多人(?:死亡|受伤)/u.test(text);
     let impactScore = 74;
     let severityScore = 55;
-    if (hasAny(text, ["战争", "冲突", "停火", "袭击", "军事", "防务", "制裁", "关税", "法案", "政府", "选举"])) {
+    if (historicalFeature) {
+        categories.push("lightTrend");
+        impactScore = 56;
+        severityScore = 18;
+    }
+    else if (hasAny(text, ["战争", "冲突", "停火", "袭击", "军事", "防务", "制裁", "关税", "法案", "政府", "选举"])) {
         categories.push("policy");
         impactScore = 82;
         severityScore = 68;
     }
-    if (hasAny(text, ["地震", "洪水", "台风", "死亡", "受伤", "爆炸", "危机", "干旱"])) {
+    if (activePublicRisk) {
         categories.push("disaster", "publicSafety");
         impactScore = 86;
         severityScore = 82;
@@ -531,23 +547,47 @@ const xinhuaWorldProfile = (item) => {
         }
     };
 };
-const xinhuaTechProfile = (item) => ({
-    categories: ["technology", "ai", "product"],
-    industries: ["aiProduct", "aiTechnology", "productManagement", "technologyEngineering", "educationResearch", "operationsGrowth"],
-    regions: ["中国", "全球"],
-    locations: extractLocations(item),
-    impactScore: /突破|首次|发布|商业化|量产|全球/.test(item.title) ? 78 : 70,
-    severityScore: 18,
-    trendScore: /AI|人工智能|大模型|机器人|芯片|6G|量子|脑机|自动驾驶/.test(item.title) ? 88 : 78,
-    oneLine: "这是一条 AI 或科技产业候选，需要区分真实技术进展、产品落地和普通宣传信息。",
-    body: {
-        background: "新华网科技用于补充 AI、机器人、芯片、自动驾驶、科研突破和科技产业的中文主流媒体信息。",
-        keyProgress: compact(item.title),
-        whyItMatters: "技术突破、产品量产和产业应用会影响 AI 产品、技术研发、产品规划和职业方向判断。",
-        userRelevance: "对 AI 产品、产品经理、技术研发、教育研究和运营用户更相关。",
-        whatToWatch: "后续重点看是否有可验证指标、真实产品、量产计划、用户场景或权威机构进一步确认。"
+const xinhuaTechProfile = (item) => {
+    const text = textOf(item);
+    const sourceText = item.title;
+    const aiRelated = /\bAI\b/i.test(sourceText) || hasAny(sourceText.toLowerCase(), [
+        "人工智能",
+        "大模型",
+        "机器人",
+        "芯片",
+        "6g",
+        "量子",
+        "脑机",
+        "自动驾驶"
+    ]);
+    const categories = ["technology"];
+    const industries = ["technologyEngineering", "educationResearch"];
+    if (aiRelated) {
+        categories.push("ai", "product");
+        industries.push("aiProduct", "aiTechnology", "productManagement", "operationsGrowth");
     }
-});
+    return {
+        categories,
+        industries: unique(industries),
+        regions: ["中国", "全球"],
+        locations: extractLocations(item),
+        impactScore: /突破|首次|发布|商业化|量产|全球/.test(item.title) ? 78 : 70,
+        severityScore: 18,
+        trendScore: aiRelated ? 88 : 74,
+        oneLine: aiRelated
+            ? "这是一条 AI 或科技产业候选，需要区分真实技术进展、产品落地和普通宣传信息。"
+            : "这是一条工程或科技产业候选，重点看可验证的技术指标、制造进展和实际应用。",
+        body: {
+            background: "新华网科技用于补充科研突破、工程制造和科技产业的中文主流媒体信息。",
+            keyProgress: compact(item.title),
+            whyItMatters: "技术突破、产品量产和产业应用会影响工程研发、产业规划和职业方向判断。",
+            userRelevance: aiRelated
+                ? "对 AI 产品、产品经理、技术研发、教育研究和运营用户更相关。"
+                : "对技术研发、工程师、教育研究和关注产业升级的用户更相关。",
+            whatToWatch: "后续重点看是否有可验证指标、真实产品、量产计划、用户场景或权威机构进一步确认。"
+        }
+    };
+};
 const reliefWebProfile = (item) => ({
     categories: ["disaster", "publicSafety", "world"],
     industries: ["generalPublic", "localLife", "operationsGrowth"],
@@ -570,9 +610,21 @@ const profileForRawItem = (item) => {
         return arxivProfile(item);
     }
     if (item.sourceId === "cas-science-news") {
+        const communicationRelated = hasAny(textOf(item), [
+            "通信",
+            "无线",
+            "网络",
+            "信号",
+            "频谱",
+            "信道",
+            "mimo",
+            "6g"
+        ]);
         return {
             categories: ["technology", "education"],
-            industries: ["technologyEngineering", "educationResearch", "communicationsResearch"],
+            industries: communicationRelated
+                ? ["technologyEngineering", "educationResearch", "communicationsResearch"]
+                : ["technologyEngineering", "educationResearch"],
             regions: ["中国"],
             locations: extractLocations(item),
             impactScore: 68,

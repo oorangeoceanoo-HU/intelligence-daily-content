@@ -1,6 +1,7 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
 exports.dedupeCandidateItems = dedupeCandidateItems;
+const textSimilarity_1 = require("./textSimilarity");
 const unique = (items) => Array.from(new Set(items));
 const hasAny = (items, targets) => items.some((item) => targets.includes(item));
 const normalizeText = (value) => value
@@ -43,6 +44,14 @@ const disasterType = (candidate) => {
     return "risk";
 };
 const locationFromTitle = (candidate) => {
+    const titleLocation = candidate.locations.find((location) => !["中国", "全球"].includes(location) && candidate.title.includes(location));
+    if (titleLocation) {
+        return titleLocation;
+    }
+    const specificLocation = candidate.locations.find((location) => !["中国", "全球"].includes(location));
+    if (specificLocation) {
+        return specificLocation;
+    }
     if (candidate.locations.length) {
         return candidate.locations[0];
     }
@@ -67,6 +76,13 @@ const tokenSimilarity = (a, b) => {
     const union = new Set([...aTokens, ...bTokens]).size;
     return intersection / union;
 };
+const titleEventSimilarity = (a, b) => Math.max(tokenSimilarity(a, b), (0, textSimilarity_1.textSimilarity)(a.title, b.title), Math.min((0, textSimilarity_1.textContainment)(a.title, b.title), (0, textSimilarity_1.textContainment)(b.title, a.title)));
+const disasterEventSignature = (candidate) => {
+    const text = candidate.title;
+    const magnitude = text.match(/Magnitude\s*([\d.]+)M?/i)?.[1];
+    const timestamp = text.match(/(\d{2}\/\d{2}\/\d{4}\s+\d{2}:\d{2})/i)?.[1];
+    return magnitude && timestamp ? `${magnitude}:${timestamp}` : undefined;
+};
 const riskClusterKey = (candidate) => `risk:${disasterType(candidate)}:${compactKey(locationFromTitle(candidate))}:${dayBucket(candidate.publishedAt)}`;
 const exactTitleKey = (candidate) => `title:${compactKey(candidate.title)}:${dayBucket(candidate.publishedAt)}`;
 const baseClusterKey = (candidate) => {
@@ -80,19 +96,27 @@ const shouldJoinCluster = (candidate, cluster) => {
     if (!first) {
         return false;
     }
-    if (baseClusterKey(candidate) === baseClusterKey(first)) {
+    const bothRisk = hasAny(candidate.categories, ["disaster", "publicSafety"]) &&
+        hasAny(first.categories, ["disaster", "publicSafety"]);
+    const sameBaseKey = baseClusterKey(candidate) === baseClusterKey(first);
+    if (sameBaseKey && !bothRisk) {
         return true;
     }
     if (dayBucket(candidate.publishedAt) !== dayBucket(first.publishedAt)) {
         return false;
     }
-    const bothRisk = hasAny(candidate.categories, ["disaster", "publicSafety"]) &&
-        hasAny(first.categories, ["disaster", "publicSafety"]);
     if (bothRisk) {
+        const candidateSignature = disasterEventSignature(candidate);
+        const firstSignature = disasterEventSignature(first);
+        if (candidateSignature && firstSignature) {
+            return candidateSignature === firstSignature;
+        }
         return (disasterType(candidate) === disasterType(first) &&
-            compactKey(locationFromTitle(candidate)) === compactKey(locationFromTitle(first)));
+            compactKey(locationFromTitle(candidate)) === compactKey(locationFromTitle(first)) &&
+            titleEventSimilarity(candidate, first) >= 0.2);
     }
-    return tokenSimilarity(candidate, first) >= 0.72;
+    return (candidate.categories.some((category) => first.categories.includes(category)) &&
+        titleEventSimilarity(candidate, first) >= 0.24);
 };
 const uniqueLinks = (links) => {
     const seen = new Set();
@@ -120,13 +144,16 @@ const mergeCluster = (cluster) => {
     if (!representative || cluster.length === 1) {
         return representative ?? cluster[0];
     }
-    const sourceIds = unique(cluster.flatMap((candidate) => candidate.sourceIds));
-    const categories = unique(cluster.flatMap((candidate) => candidate.categories));
-    const industries = unique(cluster.flatMap((candidate) => candidate.industries));
-    const locations = unique(cluster.flatMap((candidate) => candidate.locations));
-    const sourceLinks = uniqueLinks(cluster.flatMap((candidate) => candidate.sourceLinks));
-    const images = uniqueImages(cluster.flatMap((candidate) => candidate.images));
-    const relatedCount = cluster.length - 1;
+    const orderedCluster = [
+        representative,
+        ...cluster.filter((candidate) => candidate.id !== representative.id)
+    ];
+    const sourceIds = unique(orderedCluster.flatMap((candidate) => candidate.sourceIds));
+    const categories = unique(orderedCluster.flatMap((candidate) => candidate.categories));
+    const industries = unique(orderedCluster.flatMap((candidate) => candidate.industries));
+    const locations = unique(orderedCluster.flatMap((candidate) => candidate.locations));
+    const sourceLinks = uniqueLinks(orderedCluster.flatMap((candidate) => candidate.sourceLinks));
+    const images = uniqueImages(orderedCluster.flatMap((candidate) => candidate.images));
     return {
         ...representative,
         id: `cluster-${representative.id}`,
@@ -140,10 +167,7 @@ const mergeCluster = (cluster) => {
         severityScore: Math.max(...cluster.map((candidate) => candidate.severityScore)),
         freshnessScore: Math.max(...cluster.map((candidate) => candidate.freshnessScore)),
         trendScore: Math.max(...cluster.map((candidate) => candidate.trendScore)),
-        body: {
-            ...representative.body,
-            whatToWatch: `${representative.body.whatToWatch ?? ""}${representative.body.whatToWatch ? " " : ""}已合并 ${relatedCount} 条相近候选，正式展示前仍需确认是否属于同一事件。`
-        }
+        body: { ...representative.body }
     };
 };
 const clusterReason = (cluster) => {

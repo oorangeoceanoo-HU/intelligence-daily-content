@@ -1,0 +1,390 @@
+{
+  "schemaVersion": 2,
+  "publishedAt": "2026-08-17T11:53:46.147Z",
+  "issue": {
+    "id": "daily-public-2026-08-17",
+    "date": "2026-08-17",
+    "userId": "public",
+    "cards": [
+      {
+        "id": "draft-cluster-real-npr-world-rss-qk4nfx",
+        "title": "乌克兰发动战争中最大规模的空袭之一，造成俄罗斯至少6人死亡",
+        "oneLine": "政策变化：乌克兰周日在俄罗斯境内发射了数百架无人机，这是基辅战争中最大规模的空袭之一，造成至少六人死亡。",
+        "importance": "S",
+        "credibility": "多源确认",
+        "tags": [
+          "S",
+          "mustKnow",
+          "world",
+          "policy"
+        ],
+        "industries": [
+          "generalPublic"
+        ],
+        "section": "front",
+        "body": {
+          "background": "乌克兰总统泽伦斯基周日在社交媒体上写道，俄罗斯对乌克兰克里沃罗格的导弹袭击造成两人死亡、十四人受伤。",
+          "keyProgress": "俄罗斯国防部表示，一夜之间摧毁了822架乌克兰无人机。莫斯科市长谢尔盖·索比亚宁 (Sergei Sobyanin) 表示，检测到约 600 架无人机飞向俄罗斯首都，其中第三架在莫斯科地区上空被摧毁。",
+          "whyItMatters": "“乌克兰发动战争中最大规模的空袭之一，造成俄罗斯至少6人死亡”如果继续发展，可能通过能源价格、航运、贸易、汇率或市场预期传导到国内。了解它的意义在于判断后续风险，而不只停留在事件本身。",
+          "userRelevance": "即使你不在乌克兰、俄罗斯、西班牙，“乌克兰发动战争中最大规模的空袭之一，造成俄罗斯至少6人死亡”也可能通过能源价格、国际航运、贸易成本和市场预期间接影响国内生活与工作判断。",
+          "whatToWatch": "接下来要看“乌克兰发动战争中最大规模的空袭之一，造成俄罗斯至少6人死亡”是否出现新的官方信息、后续行动，以及它与中国出行、贸易或公共判断的关联是否扩大。"
+        },
+        "sourceLinks": [
+          {
+            "title": "NPR World RSS",
+            "url": "https://www.npr.org/2026/08/16/nx-s1-5933006/ukraine-aerial-attack-6-dead-russia",
+            "sourceId": "npr-world-rss",
+            "publishedAt": "2026-08-16T10:12:09.000Z",
+            "language": "zh",
+            "originalLanguage": "en",
+            "translationStatus": "translated"
+          },
+          {
+            "title": "Sky News World RSS",
+            "url": "https://news.sky.com/story/two-die-in-spain-mudslide-as-belgium-battles-largest-ever-wildfire-13573708",
+            "sourceId": "sky-world-rss",
+            "publishedAt": "2026-08-16T13:33:00.000Z",
+            "language": "zh",
+            "originalLanguage": "en",
+            "translationStatus": "translated"
+          }
+        ],
+        "images": [
+          {
+            "url": "https://e3.365dm.com/26/08/1920x1080/skynews-landslide-spain_7323241.jpg?20260816143221",
+            "sourceUrl": "https://news.sky.com/story/two-die-in-spain-mudslide-as-belgium-battles-largest-ever-wildfire-13573708"
+          }
+        ],
+        "generatedAt": "2026-08-17T11:53:46.147Z"
+      },
+      {
+        "id": "draft-cluster-real-npr-world-rss-108om18",
+        "title": "库什纳在与内塔尼亚胡会谈之前会见哈马斯，讨论加沙路线图",
+        "oneLine": "最新进展：库什纳在与内塔尼亚胡会谈之前会见哈马斯，讨论加沙路线图。",
+        "importance": "A",
+        "credibility": "多源确认",
+        "tags": [
+          "A",
+          "mustKnow",
+          "world",
+          "policy"
+        ],
+        "industries": [
+          "generalPublic"
+        ],
+        "section": "front",
+        "body": {
+          "background": "自停火结束重大军事行动十个多月以来，加沙约 200 万人的生命以及目前主要由以色列军队控制的拥挤飞地的重建受到威胁。",
+          "keyProgress": "开罗——周日，美国谈判代表、唐纳德·特朗普总统的女婿贾里德·库什纳与哈马斯领导人举行了一次罕见的会面，这是一项新的外交努力，旨在推动陷入僵局的加沙停火取得进展。各国外交部长的声明还呼吁和平委员会和美国采取“立即和具体措施”，防止任何一方阻碍该计划的实施。",
+          "whyItMatters": "“库什纳在与内塔尼亚胡会谈之前会见哈马斯，讨论加沙路线图”如果继续发展，可能通过能源价格、航运、贸易、汇率或市场预期传导到国内。了解它的意义在于判断后续风险，而不只停留在事件本身。",
+          "userRelevance": "即使你不在加沙、美国，“库什纳在与内塔尼亚胡会谈之前会见哈马斯，讨论加沙路线图”也可能通过能源价格、国际航运、贸易成本和市场预期间接影响国内生活与工作判断。",
+          "whatToWatch": "接下来要看“库什纳在与内塔尼亚胡会谈之前会见哈马斯，讨论加沙路线图”是否出现新的官方信息、后续行动，以及它与中国出行、贸易或公共判断的关联是否扩大。"
+        },
+        "sourceLinks": [
+          {
+            "title": "NPR World RSS",
+            "url": "https://www.npr.org/2026/08/16/g-s1-138948/kushner-gaza-hamas-netanyahu-egypt-talks",
+            "sourceId": "npr-world-rss",
+            "publishedAt": "2026-08-16T20:20:22.000Z",
+            "language": "zh",
+            "originalLanguage": "en",
+            "translationStatus": "translated"
+          },
+          {
+            "title": "France 24 Middle East RSS",
+            "url": "https://www.france24.com/en/middle-east/20260816-hamas-begins-crucial-talks-with-egypt-on-trump-s-gaza-peace-plan",
+            "sourceId": "france24-middle-east-rss",
+            "publishedAt": "2026-08-16T11:33:32.000Z",
+            "language": "zh",
+            "originalLanguage": "en",
+            "translationStatus": "translated"
+          }
+        ],
+        "images": [
+          {
+            "url": "https://s.france24.com/media/display/64f693de-9964-11f1-94e0-005056a97e36/w:1024/p:16x9/2026-07-20T122458Z-1821028812-RC2OHMA50977-RTRMADP-3-ISRAEL-PALESTINIANS-HAMAS-HAYYA.jpg",
+            "sourceUrl": "https://www.france24.com/en/middle-east/20260816-hamas-begins-crucial-talks-with-egypt-on-trump-s-gaza-peace-plan"
+          }
+        ],
+        "generatedAt": "2026-08-17T11:53:46.147Z"
+      },
+      {
+        "id": "draft-real-xinhua-world-3yyqw3",
+        "title": "俄罗斯史学家：日本“再军事化”威胁巨大",
+        "oneLine": "政策变化：“近期，日本国内掀起反对高市内阁‘再军事化’政策的抗议浪潮，抗议人士要求高市尽快辞去首相职务。",
+        "importance": "B",
+        "credibility": "主流媒体",
+        "tags": [
+          "B",
+          "mustKnow",
+          "industry",
+          "world",
+          "policy"
+        ],
+        "industries": [
+          "generalPublic",
+          "financeInvestment",
+          "operationsGrowth",
+          "contentCreator"
+        ],
+        "section": "front",
+        "body": {
+          "background": "俄罗斯二战史学家协会执行理事会成员阿纳托利·科什金日前在接受新华社记者专访时说。",
+          "keyProgress": "日本推进‘再军事化’是巨大威胁，可能给日本自身和东亚、东南亚国家带来严重后果。科什金说，日本不仅解禁杀伤性武器出口、加速军备扩张，其国内更有人蓄意推翻“无核三原则”，甚至被曝密谋从他国引进核武器。",
+          "whyItMatters": "“俄罗斯史学家：日本再军事化威胁巨大”如果继续发展，可能通过能源价格、航运、贸易、汇率或市场预期传导到国内。了解它的意义在于判断后续风险，而不只停留在事件本身。",
+          "userRelevance": "即使你不在日本、俄罗斯，“俄罗斯史学家：日本再军事化威胁巨大”也可能通过能源价格、国际航运、贸易成本和市场预期间接影响国内生活与工作判断。",
+          "whatToWatch": "接下来要看“俄罗斯史学家：日本再军事化威胁巨大”是否出现新的官方信息、后续行动，以及它与中国出行、贸易或公共判断的关联是否扩大。"
+        },
+        "sourceLinks": [
+          {
+            "title": "新华网国际",
+            "url": "https://www.news.cn/world/20260816/4674630bd0214e3fba0b395e2aae00d6/c.html",
+            "sourceId": "xinhua-world",
+            "publishedAt": "2026-08-16T00:00:00+08:00",
+            "language": "zh",
+            "originalLanguage": "zh",
+            "translationStatus": "not-needed"
+          }
+        ],
+        "images": [],
+        "generatedAt": "2026-08-17T11:53:46.147Z"
+      },
+      {
+        "id": "draft-real-techcrunch-ai-rss-8dkukp",
+        "title": "据报道，Stripe 将以 70亿美元以上收购人工智能网关初创公司 OpenRouter",
+        "oneLine": "趋势信号：据彭博社最新报道，Stripe 已敲定收购 OpenRouter 的交易。",
+        "importance": "B",
+        "credibility": "主流媒体",
+        "tags": [
+          "B",
+          "industry",
+          "ai",
+          "technology",
+          "product"
+        ],
+        "industries": [
+          "aiProduct",
+          "aiTechnology",
+          "productManagement",
+          "technologyEngineering",
+          "educationResearch"
+        ],
+        "section": "ai",
+        "body": {
+          "background": "（投资者包括红杉资本、Andreessen Horowitz、Menlo Ventures 和 Alphabet 的 Capital G。",
+          "keyProgress": "OpenRouter帮助客户根据自己的具体需求和预算选择不同的AI模型来执行不同的任务。）当时，OpenRouter 首席执行官 Alex Atallah 将该公司描述为 AI 领域的 Stripe，因为它为客户提供了不同系统的单一接入点并防止锁定。",
+          "whyItMatters": "“据报道，Stripe 将以 70亿美元以上收购人工智能网关初创公司 OpenRouter”能帮助你判断这项能力是否已经进入工程、产品或商业场景，并据此调整技术选型、产品规划、学习重点或职业判断。",
+          "userRelevance": "如果你从事AI 产品、AI 技术、产品管理、技术研发，可以重点判断“据报道，Stripe 将以 70亿美元以上收购人工智能网关初创公司 OpenRouter”是否已经具备产品落地、技术选型或业务合作价值。",
+          "whatToWatch": "接下来要看“据报道，Stripe 将以 70亿美元以上收购人工智能网关初创公司 OpenRouter”是否有更多可靠来源、量产或应用进展，以及它会不会从单点消息发展成持续趋势。"
+        },
+        "sourceLinks": [
+          {
+            "title": "TechCrunch AI RSS",
+            "url": "https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/",
+            "sourceId": "techcrunch-ai-rss",
+            "publishedAt": "2026-08-16T20:57:04.000Z",
+            "language": "zh",
+            "originalLanguage": "en",
+            "translationStatus": "translated"
+          }
+        ],
+        "images": [],
+        "generatedAt": "2026-08-17T11:53:46.147Z"
+      },
+      {
+        "id": "draft-real-techcrunch-ai-rss-wm5uu1",
+        "title": "为什么人们不相信马克·扎克伯格的人工智能未来",
+        "oneLine": "趋势信号：Meta 首席执行官马克·扎克伯格 (Mark Zuckerberg) 本周发表了一篇 6,500 字的文章，宣称“未来属于每个人”，并描绘了一幅由人工智能驱动的未来的乐观图景，其中“每个人都将拥有一位非常有能力的个人代理人，他了解你、你的目标以及你关心的一切。",
+        "importance": "B",
+        "credibility": "主流媒体",
+        "tags": [
+          "B",
+          "industry",
+          "ai",
+          "technology",
+          "product"
+        ],
+        "industries": [
+          "aiProduct",
+          "aiTechnology",
+          "productManagement",
+          "technologyEngineering",
+          "educationResearch"
+        ],
+        "section": "ai",
+        "body": {
+          "background": "在最新一期的 TechCrunch 股票播客中，克尔斯滕·科罗塞克 (Kirsten Korosec)、丽贝卡·贝兰 (Rebecca Bellan) 和我讨论了为什么不是每个人都认同扎克伯格的愿景——包括我们的同事拉塞尔·布兰登 (Russell Brandom)，他写道，这份宣言“正是人们不喜欢人工智能的原因”。",
+          "keyProgress": "将扎克伯格与 Anthropic 首席执行官达里奥·阿莫迪（Dario Amodei）（他整个周末都在反对他是人工智能毁灭者的观点）进行比较，丽贝卡表示，Meta 首席执行官似乎将自己定位为“几乎像一个反达里奥”。他试图提供人们在自己的个人设备上用于个人人工智能的模型。",
+          "whyItMatters": "“为什么人们不相信马克·扎克伯格的人工智能未来”能帮助你判断这项能力是否已经进入工程、产品或商业场景，并据此调整技术选型、产品规划、学习重点或职业判断。",
+          "userRelevance": "如果你从事AI 产品、AI 技术、产品管理、技术研发，可以重点判断“为什么人们不相信马克·扎克伯格的人工智能未来”是否已经具备产品落地、技术选型或业务合作价值。",
+          "whatToWatch": "接下来要看“为什么人们不相信马克·扎克伯格的人工智能未来”是否有更多可靠来源、量产或应用进展，以及它会不会从单点消息发展成持续趋势。"
+        },
+        "sourceLinks": [
+          {
+            "title": "TechCrunch AI RSS",
+            "url": "https://techcrunch.com/2026/08/16/why-people-arent-buying-mark-zuckerbergs-ai-future/",
+            "sourceId": "techcrunch-ai-rss",
+            "publishedAt": "2026-08-16T20:32:01.000Z",
+            "language": "zh",
+            "originalLanguage": "en",
+            "translationStatus": "translated"
+          }
+        ],
+        "images": [],
+        "generatedAt": "2026-08-17T11:53:46.147Z"
+      },
+      {
+        "id": "draft-real-techcrunch-ai-rss-1gr9e3k",
+        "title": "Anthropic首席执行官表示，人工智能的强烈反对“从根本上来说是一场信任危机”",
+        "oneLine": "趋势信号：Anthropic 首席执行官达里奥·阿莫迪 (Dario Amodei) 最近反驳了这样的观点，即他一直在描绘人工智能及其如何塑造未来的过于悲观的图景。",
+        "importance": "B",
+        "credibility": "主流媒体",
+        "tags": [
+          "B",
+          "industry",
+          "ai",
+          "technology",
+          "product"
+        ],
+        "industries": [
+          "aiProduct",
+          "aiTechnology",
+          "productManagement",
+          "technologyEngineering",
+          "educationResearch"
+        ],
+        "section": "ai",
+        "body": {
+          "background": "贝克写道，声称阿莫迪在人工智能监管方面“输了”（Anthropic 主张制定一些法规，包括一项对大型人工智能公司施加透明度要求的加州法案），并考虑到“他即将成为世界上最重要的公司之一的首席执行官”，“我恭敬地认为他应该努力成为自己行业的更积极的倡导者。",
+          "keyProgress": "相反，他说他的写作“在风险和收益之间保持了平衡”，他写了《爱的机器》这篇文章，因为他“认为人工智能行业没有描绘出一幅足够鼓舞人心的图景，说明这项技术如何从根本上改变世界，让世界变得更美好。他不同意的观点是，这种消极情绪“主要是由阿莫迪”或任何其他警告人工智能风险的人工智能领导者造成的。",
+          "whyItMatters": "“Anthropic首席执行官表示，人工智能的强烈反对从根本上来说是一场信任危机”能帮助你判断这项能力是否已经进入工程、产品或商业场景，并据此调整技术选型、产品规划、学习重点或职业判断。",
+          "userRelevance": "如果你从事AI 产品、AI 技术、产品管理、技术研发，可以重点判断“Anthropic首席执行官表示，人工智能的强烈反对从根本上来说是一场信任危机”是否已经具备产品落地、技术选型或业务合作价值。",
+          "whatToWatch": "接下来要看“Anthropic首席执行官表示，人工智能的强烈反对从根本上来说是一场信任危机”是否有更多可靠来源、量产或应用进展，以及它会不会从单点消息发展成持续趋势。"
+        },
+        "sourceLinks": [
+          {
+            "title": "TechCrunch AI RSS",
+            "url": "https://techcrunch.com/2026/08/16/anthropic-ceo-says-ai-backlash-is-fundamentally-a-crisis-of-trust/",
+            "sourceId": "techcrunch-ai-rss",
+            "publishedAt": "2026-08-16T16:53:51.000Z",
+            "language": "zh",
+            "originalLanguage": "en",
+            "translationStatus": "translated"
+          }
+        ],
+        "images": [],
+        "generatedAt": "2026-08-17T11:53:46.147Z"
+      },
+      {
+        "id": "draft-real-theverge-ai-rss-1xo4sje",
+        "title": "据报道 OpenAI 解散了其准备团队",
+        "oneLine": "趋势信号：据英国《金融时报》报道，OpenAI 于上月底解散了其准备团队。",
+        "importance": "B",
+        "credibility": "主流媒体",
+        "tags": [
+          "B",
+          "industry",
+          "ai",
+          "technology",
+          "product"
+        ],
+        "industries": [
+          "aiProduct",
+          "aiTechnology",
+          "productManagement",
+          "technologyEngineering",
+          "educationResearch"
+        ],
+        "section": "ai",
+        "body": {
+          "background": "准备团队的工作是评估模型是否会带来严重风险，并制定减轻这些风险的方法。",
+          "keyProgress": "道德主管 Chloé Bakalar、首席未来学家 Josh Achiam 和安全主管 Johannes Heidecke 最近也全部离职，导致一些批评者（例如 2024 年从 OpenAI 辞职的 Jan Leike）告诉英国《金融时报》，该公司为了创造“闪亮的产品”而忽视了安全。（你知道，就像它可能会失控并攻击另一家公司一样。",
+          "whyItMatters": "“据报道 OpenAI 解散了其准备团队”能帮助你判断这项能力是否已经进入工程、产品或商业场景，并据此调整技术选型、产品规划、学习重点或职业判断。",
+          "userRelevance": "如果你从事AI 产品、AI 技术、产品管理、技术研发，可以重点判断“据报道 OpenAI 解散了其准备团队”是否已经具备产品落地、技术选型或业务合作价值。",
+          "whatToWatch": "接下来要看“据报道 OpenAI 解散了其准备团队”是否有更多可靠来源、量产或应用进展，以及它会不会从单点消息发展成持续趋势。"
+        },
+        "sourceLinks": [
+          {
+            "title": "The Verge AI RSS",
+            "url": "https://www.theverge.com/ai-artificial-intelligence/980817/openai-disbands-preparedness-team",
+            "sourceId": "theverge-ai-rss",
+            "publishedAt": "2026-08-16T21:32:56.000Z",
+            "language": "zh",
+            "originalLanguage": "en",
+            "translationStatus": "translated"
+          }
+        ],
+        "images": [],
+        "generatedAt": "2026-08-17T11:53:46.147Z"
+      },
+      {
+        "id": "draft-real-theverge-ai-rss-1chpw8h",
+        "title": "ChatGPT 的计算机历史记录跟踪您的点击和击键",
+        "oneLine": "趋势信号：ChatGPT 在 macOS 上的桌面应用程序有一个名为“计算机历史记录”的新功能，可以将您的操作转化为训练数据，了解您的工作方式，建议自动化，甚至拾取您未完成的任务。",
+        "importance": "B",
+        "credibility": "主流媒体",
+        "tags": [
+          "B",
+          "industry",
+          "ai",
+          "technology",
+          "product"
+        ],
+        "industries": [
+          "aiProduct",
+          "aiTechnology",
+          "productManagement",
+          "technologyEngineering",
+          "educationResearch"
+        ],
+        "section": "ai",
+        "body": {
+          "background": "该功能肯定会让人想起Windows Recall，但微软备受争议的人工智能功能严重依赖于屏幕截图，而 OpenAI 表示，计算机历史记录不会捕获图像、视频或音频，而是依赖于“事件”。",
+          "keyProgress": "OpenAI 产品和工程经理 Ari Weinstein 在 X 上表示，计算机历史记录会自动忽略隐身或私人浏览器选项卡中的内容。在一段简短的演示视频中，OpenAI 开发者体验团队的成员 Dominik Ku​​ndel 展示了该应用程序查找他编辑的最后一个文档，检查该文档是否通过 Slack 与其他人共享，并回顾了他如何度过了一个上午。",
+          "whyItMatters": "“ChatGPT 的计算机历史记录跟踪您的点击和击键”能帮助你判断这项能力是否已经进入工程、产品或商业场景，并据此调整技术选型、产品规划、学习重点或职业判断。",
+          "userRelevance": "如果你从事AI 产品、AI 技术、产品管理、技术研发，可以重点判断“ChatGPT 的计算机历史记录跟踪您的点击和击键”是否已经具备产品落地、技术选型或业务合作价值。",
+          "whatToWatch": "接下来要看“ChatGPT 的计算机历史记录跟踪您的点击和击键”是否有更多可靠来源、量产或应用进展，以及它会不会从单点消息发展成持续趋势。"
+        },
+        "sourceLinks": [
+          {
+            "title": "The Verge AI RSS",
+            "url": "https://www.theverge.com/ai-artificial-intelligence/980742/chatgpts-computer-history-tracks-your-clicks-and-keystrokes",
+            "sourceId": "theverge-ai-rss",
+            "publishedAt": "2026-08-16T14:56:40.000Z",
+            "language": "zh",
+            "originalLanguage": "en",
+            "translationStatus": "translated"
+          }
+        ],
+        "images": [],
+        "generatedAt": "2026-08-17T11:53:46.147Z"
+      }
+    ],
+    "estimatedReadMinutes": 10,
+    "pageCount": 1,
+    "topCardId": "draft-cluster-real-npr-world-rss-qk4nfx",
+    "generatedAt": "2026-08-17T11:53:46.147Z",
+    "pushSlots": [
+      "07:30",
+      "12:30",
+      "21:30"
+    ],
+    "edition": "morning",
+    "editionLabel": "晨报",
+    "coverageWindow": {
+      "start": "2026-08-16T07:10:00+08:00",
+      "end": "2026-08-17T07:10:00+08:00"
+    },
+    "editionCardIds": [
+      "draft-cluster-real-npr-world-rss-qk4nfx",
+      "draft-cluster-real-npr-world-rss-108om18",
+      "draft-real-xinhua-world-3yyqw3",
+      "draft-real-techcrunch-ai-rss-8dkukp",
+      "draft-real-techcrunch-ai-rss-wm5uu1",
+      "draft-real-techcrunch-ai-rss-1gr9e3k",
+      "draft-real-theverge-ai-rss-1xo4sje",
+      "draft-real-theverge-ai-rss-1chpw8h"
+    ],
+    "carriedCardIds": []
+  }
+}

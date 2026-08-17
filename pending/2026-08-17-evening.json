@@ -1,73 +1,17 @@
 {
   "schemaVersion": 2,
-  "publishedAt": "2026-08-17T13:48:09.281Z",
+  "publishedAt": "2026-08-17T14:46:31.794Z",
   "issue": {
     "id": "daily-public-2026-08-17",
     "date": "2026-08-17",
     "userId": "public",
     "cards": [
       {
-        "id": "draft-cluster-real-cnbc-world-rss-17dvnyl",
-        "title": "特朗普威胁称，如果阿曼在美伊停火到期后“妨碍”，他将“轰炸”阿曼",
-        "oneLine": "政策变化：美国总统唐纳德·特朗普周一在这篇文章中表示，如果阿曼“妨碍”，美国将“轰炸”阿曼，因为华盛顿与伊朗的 60 天停火期即将到期，且看不到任何正式谈判或协议。",
-        "importance": "S",
-        "credibility": "多源确认",
-        "tags": [
-          "S",
-          "mustKnow",
-          "industry",
-          "world",
-          "policy",
-          "finance"
-        ],
-        "industries": [
-          "generalPublic",
-          "financeInvestment",
-          "operationsGrowth",
-          "ecommerceRetail"
-        ],
-        "section": "front",
-        "body": {
-          "background": "此前，在周一美国和伊朗之间 60 天停火期到期之前，通过霍尔木兹海峡的航运交通在周末放缓至停止状态，目前还看不到正式谈判或达成协议的迹象。",
-          "keyProgress": "汇丰银行航运专家帕拉什·杰恩 (Parash Jain) 周一早上告诉 CNBC 的 Squawk Box Europe，投资者应该了解该行业“混乱是常态”，并将其纳入他们的基本假设中。由于美国维持对伊朗港口的封锁，阿曼已与德黑兰就霍尔木兹海峡问题进行谈判，以重新开放这条具有战略意义的商业运输航道。",
-          "whyItMatters": "“特朗普威胁称，如果阿曼在美伊停火到期后妨碍，他将轰炸阿曼”如果继续发展，可能通过能源价格、航运、贸易、汇率或市场预期传导到国内。了解它的意义在于判断后续风险，而不只停留在事件本身。",
-          "userRelevance": "即使你不在美国、伊朗、霍尔木兹海峡，“特朗普威胁称，如果阿曼在美伊停火到期后妨碍，他将轰炸阿曼”也可能通过能源价格、国际航运、贸易成本和市场预期间接影响国内生活与工作判断。",
-          "whatToWatch": "接下来要看“特朗普威胁称，如果阿曼在美伊停火到期后妨碍，他将轰炸阿曼”是否出现更细的城市、行业、平台或企业数据，以及这一变化能否连续保持。"
-        },
-        "sourceLinks": [
-          {
-            "title": "CNBC World News RSS",
-            "url": "https://www.cnbc.com/2026/08/17/us-iran-war-trump-hormuz.html",
-            "sourceId": "cnbc-world-rss",
-            "publishedAt": "2026-08-17T12:34:07.000Z",
-            "language": "zh",
-            "originalLanguage": "en",
-            "translationStatus": "translated"
-          },
-          {
-            "title": "France 24 Middle East RSS",
-            "url": "https://www.france24.com/en/middle-east/20260817-middle-east-live-us-envoy-kushner-to-meet-netanyahu-after-talks-with-hamas",
-            "sourceId": "france24-middle-east-rss",
-            "publishedAt": "2026-08-17T04:45:34.000Z",
-            "language": "zh",
-            "originalLanguage": "en",
-            "translationStatus": "translated"
-          }
-        ],
-        "images": [
-          {
-            "url": "https://s.france24.com/media/display/f40e3e8a-8f7f-11f1-8ccc-005056a90284/w:1024/p:16x9/2026-08-03T185319Z-684638-RC22RMA599HN-RTRMADP-3-USA-TRUMP.jpg",
-            "sourceUrl": "https://www.france24.com/en/middle-east/20260817-middle-east-live-us-envoy-kushner-to-meet-netanyahu-after-talks-with-hamas"
-          }
-        ],
-        "generatedAt": "2026-08-17T13:48:09.281Z"
-      },
-      {
-        "id": "draft-real-cnbc-world-rss-1kto84i",
+        "id": "draft-real-cnbc-world-rss-1l3ntth",
         "title": "乌克兰战争中最大规模的空袭之一后，俄罗斯瞄准多瑙河港口",
         "oneLine": "政策变化：乌克兰当局周一表示，在乌克兰战争期间最大规模的空袭之一之后，俄罗斯连夜对乌克兰敖德萨南部地区的港口基础设施发动了袭击。",
         "importance": "S",
-        "credibility": "主流媒体",
+        "credibility": "待确认",
         "tags": [
           "S",
           "mustKnow",
@@ -98,18 +42,21 @@
             "publishedAt": "2026-08-17T09:46:08.000Z",
             "language": "zh",
             "originalLanguage": "en",
-            "translationStatus": "translated"
+            "translationStatus": "translated",
+            "fetchedAt": "2026-08-17T14:46:35.172Z",
+            "sourceMethod": "rss",
+            "verificationStatus": "pending"
           }
         ],
         "images": [],
-        "generatedAt": "2026-08-17T13:48:09.281Z"
+        "generatedAt": "2026-08-17T14:46:31.794Z"
       },
       {
-        "id": "draft-real-cnbc-world-rss-1vjk9mq",
+        "id": "draft-real-cnbc-world-rss-1vtjvbp",
         "title": "日本汽车制造商容易受到伊朗战争的双重冲击和日元升值的影响",
         "oneLine": "政策变化：在这篇文章中，日本汽车制造商似乎很容易受到伊朗战争和日元汇率好转的影响。",
         "importance": "S",
-        "credibility": "主流媒体",
+        "credibility": "待确认",
         "tags": [
           "S",
           "mustKnow",
@@ -140,69 +87,21 @@
             "publishedAt": "2026-08-17T05:18:44.000Z",
             "language": "zh",
             "originalLanguage": "en",
-            "translationStatus": "translated"
+            "translationStatus": "translated",
+            "fetchedAt": "2026-08-17T14:46:35.172Z",
+            "sourceMethod": "rss",
+            "verificationStatus": "pending"
           }
         ],
         "images": [],
-        "generatedAt": "2026-08-17T13:48:09.281Z"
+        "generatedAt": "2026-08-17T14:46:31.794Z"
       },
       {
-        "id": "draft-cluster-real-npr-world-rss-108om18",
-        "title": "库什纳在与内塔尼亚胡会谈之前会见哈马斯，讨论加沙路线图",
-        "oneLine": "最新进展：库什纳在与内塔尼亚胡会谈之前会见哈马斯，讨论加沙路线图。",
-        "importance": "A",
-        "credibility": "多源确认",
-        "tags": [
-          "A",
-          "mustKnow",
-          "world",
-          "policy"
-        ],
-        "industries": [
-          "generalPublic"
-        ],
-        "section": "front",
-        "body": {
-          "background": "自停火结束重大军事行动十个多月以来，加沙约 200 万人的生命以及目前主要由以色列军队控制的拥挤飞地的重建受到威胁。",
-          "keyProgress": "开罗——周日，美国谈判代表、唐纳德·特朗普总统的女婿贾里德·库什纳与哈马斯领导人举行了一次罕见的会面，这是一项新的外交努力，旨在推动陷入僵局的加沙停火取得进展。各国外交部长的声明还呼吁和平委员会和美国采取“立即和具体措施”，防止任何一方阻碍该计划的实施。",
-          "whyItMatters": "“库什纳在与内塔尼亚胡会谈之前会见哈马斯，讨论加沙路线图”如果继续发展，可能通过能源价格、航运、贸易、汇率或市场预期传导到国内。了解它的意义在于判断后续风险，而不只停留在事件本身。",
-          "userRelevance": "即使你不在加沙、美国，“库什纳在与内塔尼亚胡会谈之前会见哈马斯，讨论加沙路线图”也可能通过能源价格、国际航运、贸易成本和市场预期间接影响国内生活与工作判断。",
-          "whatToWatch": "接下来要看“库什纳在与内塔尼亚胡会谈之前会见哈马斯，讨论加沙路线图”是否出现新的官方信息、后续行动，以及它与中国出行、贸易或公共判断的关联是否扩大。"
-        },
-        "sourceLinks": [
-          {
-            "title": "NPR World RSS",
-            "url": "https://www.npr.org/2026/08/16/g-s1-138948/kushner-gaza-hamas-netanyahu-egypt-talks",
-            "sourceId": "npr-world-rss",
-            "publishedAt": "2026-08-16T20:20:22.000Z",
-            "language": "zh",
-            "originalLanguage": "en",
-            "translationStatus": "translated"
-          },
-          {
-            "title": "France 24 Middle East RSS",
-            "url": "https://www.france24.com/en/middle-east/20260816-hamas-begins-crucial-talks-with-egypt-on-trump-s-gaza-peace-plan",
-            "sourceId": "france24-middle-east-rss",
-            "publishedAt": "2026-08-16T11:33:32.000Z",
-            "language": "zh",
-            "originalLanguage": "en",
-            "translationStatus": "translated"
-          }
-        ],
-        "images": [
-          {
-            "url": "https://s.france24.com/media/display/64f693de-9964-11f1-94e0-005056a97e36/w:1024/p:16x9/2026-07-20T122458Z-1821028812-RC2OHMA50977-RTRMADP-3-ISRAEL-PALESTINIANS-HAMAS-HAYYA.jpg",
-            "sourceUrl": "https://www.france24.com/en/middle-east/20260816-hamas-begins-crucial-talks-with-egypt-on-trump-s-gaza-peace-plan"
-          }
-        ],
-        "generatedAt": "2026-08-17T11:53:46.147Z"
-      },
-      {
-        "id": "draft-real-cnbc-world-rss-7jj1x1",
+        "id": "draft-real-cnbc-world-rss-79jg82",
         "title": "亿万富翁 Peter Thiel 收购阿根廷页岩油生产商 Vista Energy 股份后股价上涨 4%",
         "oneLine": "政策变化：在这篇文章中，石油生产商 Vista Energy 在亿万富翁 Peter Thiel 的对冲基金收购了这家阿根廷公司的股份后，周一在盘前股价上涨。",
         "importance": "B",
-        "credibility": "主流媒体",
+        "credibility": "待确认",
         "tags": [
           "B",
           "mustKnow",
@@ -233,18 +132,71 @@
             "publishedAt": "2026-08-17T13:02:32.000Z",
             "language": "zh",
             "originalLanguage": "en",
-            "translationStatus": "translated"
+            "translationStatus": "translated",
+            "fetchedAt": "2026-08-17T14:46:35.172Z",
+            "sourceMethod": "rss",
+            "verificationStatus": "pending"
           }
         ],
         "images": [],
-        "generatedAt": "2026-08-17T13:48:09.281Z"
+        "generatedAt": "2026-08-17T14:46:31.794Z"
+      },
+      {
+        "id": "draft-real-cnbc-world-rss-1ii07ou",
+        "title": "7月中国经济进一步放缓，零售额几乎没有增长，投资下滑加剧",
+        "oneLine": "政策变化：7月份，中国经济全面失去动力，消费者支出停滞，城市投资收缩加快，失业率上升，加大了北京下半年加大支持力度的压力。",
+        "importance": "B",
+        "credibility": "待确认",
+        "tags": [
+          "B",
+          "mustKnow",
+          "industry",
+          "world",
+          "policy",
+          "finance"
+        ],
+        "industries": [
+          "generalPublic",
+          "financeInvestment",
+          "operationsGrowth",
+          "ecommerceRetail"
+        ],
+        "section": "front",
+        "body": {
+          "background": "据国家统计局周一公布的数据，社会消费品零售总额同比增长 0.6%，低于路透调查预计的 1.5% 增幅，且较 6 月份的 1% 增速有所放缓。",
+          "keyProgress": "7 月份工业产出增长 4.5%，低于预期的 4.8% 增幅，且较 6 月份的 5.3% 增幅有所放缓。与全球人工智能投资热潮相关的工业生产和出口有助于缓解疲软的消费和私人投资，但 7 月份的数据表明，这种支持可能正在减弱。",
+          "whyItMatters": "“7月中国经济进一步放缓，零售额几乎没有增长，投资下滑加剧”如果继续发展，可能通过能源价格、航运、贸易、汇率或市场预期传导到国内。了解它的意义在于判断后续风险，而不只停留在事件本身。",
+          "userRelevance": "即使你不在中国，“7月中国经济进一步放缓，零售额几乎没有增长，投资下滑加剧”也可能通过能源价格、国际航运、贸易成本和市场预期间接影响国内生活与工作判断。",
+          "whatToWatch": "接下来要看“7月中国经济进一步放缓，零售额几乎没有增长，投资下滑加剧”是否出现更细的城市、行业、平台或企业数据，以及这一变化能否连续保持。"
+        },
+        "sourceLinks": [
+          {
+            "title": "CNBC World News RSS",
+            "url": "https://www.cnbc.com/2026/08/17/china-economy-sales-investment-july-.html",
+            "sourceId": "cnbc-world-rss",
+            "publishedAt": "2026-08-17T08:26:04.000Z",
+            "language": "zh",
+            "originalLanguage": "en",
+            "translationStatus": "translated",
+            "fetchedAt": "2026-08-17T14:46:35.172Z",
+            "sourceMethod": "rss",
+            "verificationStatus": "pending"
+          }
+        ],
+        "images": [
+          {
+            "url": "https://image.cnbcfm.com/api/v1/image/108346423-17860765311786076528-47623998293-1080pnbcnews.jpg?v=1786076530&amp;w=750&amp;h=422&amp;vtcrop=y",
+            "sourceUrl": "https://www.cnbc.com/2026/08/17/china-economy-sales-investment-july-.html"
+          }
+        ],
+        "generatedAt": "2026-08-17T14:46:31.794Z"
       },
       {
         "id": "draft-real-theverge-ai-rss-16s9u6o",
         "title": "Anthropic 解释了克劳德的隐形文本水印的工作原理",
         "oneLine": "趋势信号：Anthropic 已阐明其计划如何将隐形水印应用于 Claude 生成的文本，以遵守欧洲的人工智能透明度规则。",
         "importance": "B",
-        "credibility": "主流媒体",
+        "credibility": "待确认",
         "tags": [
           "B",
           "industry",
@@ -275,268 +227,117 @@
             "publishedAt": "2026-08-17T10:57:13.000Z",
             "language": "zh",
             "originalLanguage": "en",
-            "translationStatus": "translated"
+            "translationStatus": "translated",
+            "fetchedAt": "2026-08-17T14:46:37.655Z",
+            "sourceMethod": "rss",
+            "verificationStatus": "pending"
           }
         ],
         "images": [],
-        "generatedAt": "2026-08-17T13:48:09.281Z"
+        "generatedAt": "2026-08-17T14:46:31.794Z"
       },
       {
-        "id": "draft-real-xinhua-world-3yyqw3",
-        "title": "俄罗斯史学家：日本“再军事化”威胁巨大",
-        "oneLine": "政策变化：“近期，日本国内掀起反对高市内阁‘再军事化’政策的抗议浪潮，抗议人士要求高市尽快辞去首相职务。",
+        "id": "draft-real-cnbc-world-rss-18lgvc4",
+        "title": "“不要太舒服”：华尔街的“恐惧指标”触及 2026 年低点——这就是为什么它不太可能持续下去",
+        "oneLine": "政策变化：华尔街所谓的“恐惧指标”已降至 2026 年迄今为止的最低水平，反映出在地缘政治动荡的一年中市场相对平静，但这种平静似乎不太可能持续下去。",
         "importance": "B",
-        "credibility": "主流媒体",
+        "credibility": "待确认",
         "tags": [
           "B",
-          "mustKnow",
           "industry",
           "world",
-          "policy"
+          "policy",
+          "finance"
         ],
         "industries": [
           "generalPublic",
           "financeInvestment",
           "operationsGrowth",
-          "contentCreator"
+          "ecommerceRetail"
         ],
-        "section": "front",
+        "section": "industry",
         "body": {
-          "background": "俄罗斯二战史学家协会执行理事会成员阿纳托利·科什金日前在接受新华社记者专访时说。",
-          "keyProgress": "日本推进‘再军事化’是巨大威胁，可能给日本自身和东亚、东南亚国家带来严重后果。科什金说，日本不仅解禁杀伤性武器出口、加速军备扩张，其国内更有人蓄意推翻“无核三原则”，甚至被曝密谋从他国引进核武器。",
-          "whyItMatters": "“俄罗斯史学家：日本再军事化威胁巨大”如果继续发展，可能通过能源价格、航运、贸易、汇率或市场预期传导到国内。了解它的意义在于判断后续风险，而不只停留在事件本身。",
-          "userRelevance": "即使你不在日本、俄罗斯，“俄罗斯史学家：日本再军事化威胁巨大”也可能通过能源价格、国际航运、贸易成本和市场预期间接影响国内生活与工作判断。",
-          "whatToWatch": "接下来要看“俄罗斯史学家：日本再军事化威胁巨大”是否出现新的官方信息、后续行动，以及它与中国出行、贸易或公共判断的关联是否扩大。"
+          "background": "策略师警告称，正当市场进入历史性的8月中旬至10月中旬的暴风雨时期时，触底波动、股市新高以及尚未解决的地缘政治风险正在汇聚在一起。",
+          "keyProgress": "芝加哥期权交易所 (CBOE) 的波动率指数 (VIX) 使用标准普尔 500 指数期权价格衡量未来 30 天内的预期市场波动性。作为股市波动的关键跟踪指标，该指数在市场趋于平静时走低。",
+          "whyItMatters": "“不要太舒服：华尔街的恐惧指标触及 2026 年低点——这就是为什么它不太可能持续下去”如果继续发展，可能通过能源价格、航运、贸易、汇率或市场预期传导到国内。了解它的意义在于判断后续风险，而不只停留在事件本身。",
+          "userRelevance": "即使你不在事发地区，“不要太舒服：华尔街的恐惧指标触及 2026 年低点——这就是为什么它不太可能持续下去”也可能通过能源价格、国际航运、贸易成本和市场预期间接影响国内生活与工作判断。",
+          "whatToWatch": "接下来要看“不要太舒服：华尔街的恐惧指标触及 2026 年低点——这就是为什么它不太可能持续下去”是否出现更细的城市、行业、平台或企业数据，以及这一变化能否连续保持。"
         },
         "sourceLinks": [
           {
-            "title": "新华网国际",
-            "url": "https://www.news.cn/world/20260816/4674630bd0214e3fba0b395e2aae00d6/c.html",
-            "sourceId": "xinhua-world",
-            "publishedAt": "2026-08-16T00:00:00+08:00",
+            "title": "CNBC World News RSS",
+            "url": "https://www.cnbc.com/2026/08/17/stock-market-volatility-vix-wall-street.html",
+            "sourceId": "cnbc-world-rss",
+            "publishedAt": "2026-08-17T12:41:58.000Z",
             "language": "zh",
-            "originalLanguage": "zh",
-            "translationStatus": "not-needed"
+            "originalLanguage": "en",
+            "translationStatus": "translated",
+            "fetchedAt": "2026-08-17T14:46:35.172Z",
+            "sourceMethod": "rss",
+            "verificationStatus": "pending"
           }
         ],
         "images": [],
-        "generatedAt": "2026-08-17T11:53:46.147Z"
+        "generatedAt": "2026-08-17T14:46:31.794Z"
       },
       {
-        "id": "draft-real-theverge-ai-rss-1xo4sje",
-        "title": "据报道 OpenAI 解散了其准备团队",
-        "oneLine": "趋势信号：据英国《金融时报》报道，OpenAI 于上月底解散了其准备团队。",
+        "id": "draft-real-cnbc-world-rss-1b1r6jd",
+        "title": "阿里巴巴通过新的笔记本电脑就绪模型应对 Meta 的人工智能挑战",
+        "oneLine": "政策变化：《阿里巴巴通过新的笔记本电脑就绪模型应对 Meta 的人工智能挑战》在本文中，Meta 希望引领开源人工智能领域。",
         "importance": "B",
-        "credibility": "主流媒体",
+        "credibility": "待确认",
         "tags": [
           "B",
           "industry",
-          "ai",
-          "technology",
-          "product"
+          "world",
+          "policy",
+          "finance"
         ],
         "industries": [
-          "aiProduct",
-          "aiTechnology",
-          "productManagement",
-          "technologyEngineering",
-          "educationResearch"
+          "generalPublic",
+          "financeInvestment",
+          "operationsGrowth",
+          "ecommerceRetail"
         ],
-        "section": "ai",
+        "section": "industry",
         "body": {
-          "background": "准备团队的工作是评估模型是否会带来严重风险，并制定减轻这些风险的方法。",
-          "keyProgress": "道德主管 Chloé Bakalar、首席未来学家 Josh Achiam 和安全主管 Johannes Heidecke 最近也全部离职，导致一些批评者（例如 2024 年从 OpenAI 辞职的 Jan Leike）告诉英国《金融时报》，该公司为了创造“闪亮的产品”而忽视了安全。（你知道，就像它可能会失控并攻击另一家公司一样。",
-          "whyItMatters": "“据报道 OpenAI 解散了其准备团队”能帮助你判断这项能力是否已经进入工程、产品或商业场景，并据此调整技术选型、产品规划、学习重点或职业判断。",
-          "userRelevance": "如果你从事AI 产品、AI 技术、产品管理、技术研发，可以重点判断“据报道 OpenAI 解散了其准备团队”是否已经具备产品落地、技术选型或业务合作价值。",
-          "whatToWatch": "接下来要看“据报道 OpenAI 解散了其准备团队”是否有更多可靠来源、量产或应用进展，以及它会不会从单点消息发展成持续趋势。"
+          "background": "此前，Meta 上周宣布计划开源其最强大的人工智能模型，并推出旨在在笔记本电脑上运行的新模型，旨在超越使用更专有方法的前沿实验室 OpenAI 和 Anthropic，成为中国技术的美国替代品。",
+          "keyProgress": "中国阿里巴巴刚刚提醒美国科技巨头市场竞争有多么激烈。周一，这家中国科技巨头推出了一款人工智能模型，旨在在笔记本电脑等消费类硬件上运行——这是人工智能模型开发人员的新战场——并公开了其最强大模型的权重，以保持其在开源技术领域的领先地位。",
+          "whyItMatters": "“阿里巴巴通过新的笔记本电脑就绪模型应对 Meta 的人工智能挑战”如果继续发展，可能通过能源价格、航运、贸易、汇率或市场预期传导到国内。了解它的意义在于判断后续风险，而不只停留在事件本身。",
+          "userRelevance": "即使你不在事发地区，“阿里巴巴通过新的笔记本电脑就绪模型应对 Meta 的人工智能挑战”也可能通过能源价格、国际航运、贸易成本和市场预期间接影响国内生活与工作判断。",
+          "whatToWatch": "接下来要看“阿里巴巴通过新的笔记本电脑就绪模型应对 Meta 的人工智能挑战”是否出现更细的城市、行业、平台或企业数据，以及这一变化能否连续保持。"
         },
         "sourceLinks": [
           {
-            "title": "The Verge AI RSS",
-            "url": "https://www.theverge.com/ai-artificial-intelligence/980817/openai-disbands-preparedness-team",
-            "sourceId": "theverge-ai-rss",
-            "publishedAt": "2026-08-16T21:32:56.000Z",
+            "title": "CNBC World News RSS",
+            "url": "https://www.cnbc.com/2026/08/17/alibaba-meta-qwen-open-weight-ai-laptop-models.html",
+            "sourceId": "cnbc-world-rss",
+            "publishedAt": "2026-08-17T11:24:23.000Z",
             "language": "zh",
             "originalLanguage": "en",
-            "translationStatus": "translated"
+            "translationStatus": "translated",
+            "fetchedAt": "2026-08-17T14:46:35.172Z",
+            "sourceMethod": "rss",
+            "verificationStatus": "pending"
           }
         ],
-        "images": [],
-        "generatedAt": "2026-08-17T11:53:46.147Z"
-      },
-      {
-        "id": "draft-real-techcrunch-ai-rss-8dkukp",
-        "title": "据报道，Stripe 将以 70亿美元以上收购人工智能网关初创公司 OpenRouter",
-        "oneLine": "趋势信号：据彭博社最新报道，Stripe 已敲定收购 OpenRouter 的交易。",
-        "importance": "B",
-        "credibility": "主流媒体",
-        "tags": [
-          "B",
-          "industry",
-          "ai",
-          "technology",
-          "product"
-        ],
-        "industries": [
-          "aiProduct",
-          "aiTechnology",
-          "productManagement",
-          "technologyEngineering",
-          "educationResearch"
-        ],
-        "section": "ai",
-        "body": {
-          "background": "（投资者包括红杉资本、Andreessen Horowitz、Menlo Ventures 和 Alphabet 的 Capital G。",
-          "keyProgress": "OpenRouter帮助客户根据自己的具体需求和预算选择不同的AI模型来执行不同的任务。）当时，OpenRouter 首席执行官 Alex Atallah 将该公司描述为 AI 领域的 Stripe，因为它为客户提供了不同系统的单一接入点并防止锁定。",
-          "whyItMatters": "“据报道，Stripe 将以 70亿美元以上收购人工智能网关初创公司 OpenRouter”能帮助你判断这项能力是否已经进入工程、产品或商业场景，并据此调整技术选型、产品规划、学习重点或职业判断。",
-          "userRelevance": "如果你从事AI 产品、AI 技术、产品管理、技术研发，可以重点判断“据报道，Stripe 将以 70亿美元以上收购人工智能网关初创公司 OpenRouter”是否已经具备产品落地、技术选型或业务合作价值。",
-          "whatToWatch": "接下来要看“据报道，Stripe 将以 70亿美元以上收购人工智能网关初创公司 OpenRouter”是否有更多可靠来源、量产或应用进展，以及它会不会从单点消息发展成持续趋势。"
-        },
-        "sourceLinks": [
+        "images": [
           {
-            "title": "TechCrunch AI RSS",
-            "url": "https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/",
-            "sourceId": "techcrunch-ai-rss",
-            "publishedAt": "2026-08-16T20:57:04.000Z",
-            "language": "zh",
-            "originalLanguage": "en",
-            "translationStatus": "translated"
-          }
-        ],
-        "images": [],
-        "generatedAt": "2026-08-17T11:53:46.147Z"
-      },
-      {
-        "id": "draft-real-techcrunch-ai-rss-wm5uu1",
-        "title": "为什么人们不相信马克·扎克伯格的人工智能未来",
-        "oneLine": "趋势信号：Meta 首席执行官马克·扎克伯格 (Mark Zuckerberg) 本周发表了一篇 6,500 字的文章，宣称“未来属于每个人”，并描绘了一幅由人工智能驱动的未来的乐观图景，其中“每个人都将拥有一位非常有能力的个人代理人，他了解你、你的目标以及你关心的一切。",
-        "importance": "B",
-        "credibility": "主流媒体",
-        "tags": [
-          "B",
-          "industry",
-          "ai",
-          "technology",
-          "product"
-        ],
-        "industries": [
-          "aiProduct",
-          "aiTechnology",
-          "productManagement",
-          "technologyEngineering",
-          "educationResearch"
-        ],
-        "section": "ai",
-        "body": {
-          "background": "在最新一期的 TechCrunch 股票播客中，克尔斯滕·科罗塞克 (Kirsten Korosec)、丽贝卡·贝兰 (Rebecca Bellan) 和我讨论了为什么不是每个人都认同扎克伯格的愿景——包括我们的同事拉塞尔·布兰登 (Russell Brandom)，他写道，这份宣言“正是人们不喜欢人工智能的原因”。",
-          "keyProgress": "将扎克伯格与 Anthropic 首席执行官达里奥·阿莫迪（Dario Amodei）（他整个周末都在反对他是人工智能毁灭者的观点）进行比较，丽贝卡表示，Meta 首席执行官似乎将自己定位为“几乎像一个反达里奥”。他试图提供人们在自己的个人设备上用于个人人工智能的模型。",
-          "whyItMatters": "“为什么人们不相信马克·扎克伯格的人工智能未来”能帮助你判断这项能力是否已经进入工程、产品或商业场景，并据此调整技术选型、产品规划、学习重点或职业判断。",
-          "userRelevance": "如果你从事AI 产品、AI 技术、产品管理、技术研发，可以重点判断“为什么人们不相信马克·扎克伯格的人工智能未来”是否已经具备产品落地、技术选型或业务合作价值。",
-          "whatToWatch": "接下来要看“为什么人们不相信马克·扎克伯格的人工智能未来”是否有更多可靠来源、量产或应用进展，以及它会不会从单点消息发展成持续趋势。"
-        },
-        "sourceLinks": [
+            "url": "https://image.cnbcfm.com/api/v1/image/108349288-17866419451786641942-47749039550-1080pnbcnews.jpg?v=1786641944&amp;w=750&amp;h=422&amp;vtcrop=y",
+            "sourceUrl": "https://www.cnbc.com/2026/08/17/alibaba-meta-qwen-open-weight-ai-laptop-models.html"
+          },
           {
-            "title": "TechCrunch AI RSS",
-            "url": "https://techcrunch.com/2026/08/16/why-people-arent-buying-mark-zuckerbergs-ai-future/",
-            "sourceId": "techcrunch-ai-rss",
-            "publishedAt": "2026-08-16T20:32:01.000Z",
-            "language": "zh",
-            "originalLanguage": "en",
-            "translationStatus": "translated"
+            "url": "https://image.cnbcfm.com/api/v1/image/108350162-17869454691786945466-47816238433-1080pnbcnews.jpg?v=1786945468&amp;w=750&amp;h=422&amp;vtcrop=y",
+            "sourceUrl": "https://www.cnbc.com/2026/08/17/alibaba-meta-qwen-open-weight-ai-laptop-models.html"
           }
         ],
-        "images": [],
-        "generatedAt": "2026-08-17T11:53:46.147Z"
-      },
-      {
-        "id": "draft-real-techcrunch-ai-rss-1gr9e3k",
-        "title": "Anthropic首席执行官表示，人工智能的强烈反对“从根本上来说是一场信任危机”",
-        "oneLine": "趋势信号：Anthropic 首席执行官达里奥·阿莫迪 (Dario Amodei) 最近反驳了这样的观点，即他一直在描绘人工智能及其如何塑造未来的过于悲观的图景。",
-        "importance": "B",
-        "credibility": "主流媒体",
-        "tags": [
-          "B",
-          "industry",
-          "ai",
-          "technology",
-          "product"
-        ],
-        "industries": [
-          "aiProduct",
-          "aiTechnology",
-          "productManagement",
-          "technologyEngineering",
-          "educationResearch"
-        ],
-        "section": "ai",
-        "body": {
-          "background": "贝克写道，声称阿莫迪在人工智能监管方面“输了”（Anthropic 主张制定一些法规，包括一项对大型人工智能公司施加透明度要求的加州法案），并考虑到“他即将成为世界上最重要的公司之一的首席执行官”，“我恭敬地认为他应该努力成为自己行业的更积极的倡导者。",
-          "keyProgress": "相反，他说他的写作“在风险和收益之间保持了平衡”，他写了《爱的机器》这篇文章，因为他“认为人工智能行业没有描绘出一幅足够鼓舞人心的图景，说明这项技术如何从根本上改变世界，让世界变得更美好。他不同意的观点是，这种消极情绪“主要是由阿莫迪”或任何其他警告人工智能风险的人工智能领导者造成的。",
-          "whyItMatters": "“Anthropic首席执行官表示，人工智能的强烈反对从根本上来说是一场信任危机”能帮助你判断这项能力是否已经进入工程、产品或商业场景，并据此调整技术选型、产品规划、学习重点或职业判断。",
-          "userRelevance": "如果你从事AI 产品、AI 技术、产品管理、技术研发，可以重点判断“Anthropic首席执行官表示，人工智能的强烈反对从根本上来说是一场信任危机”是否已经具备产品落地、技术选型或业务合作价值。",
-          "whatToWatch": "接下来要看“Anthropic首席执行官表示，人工智能的强烈反对从根本上来说是一场信任危机”是否有更多可靠来源、量产或应用进展，以及它会不会从单点消息发展成持续趋势。"
-        },
-        "sourceLinks": [
-          {
-            "title": "TechCrunch AI RSS",
-            "url": "https://techcrunch.com/2026/08/16/anthropic-ceo-says-ai-backlash-is-fundamentally-a-crisis-of-trust/",
-            "sourceId": "techcrunch-ai-rss",
-            "publishedAt": "2026-08-16T16:53:51.000Z",
-            "language": "zh",
-            "originalLanguage": "en",
-            "translationStatus": "translated"
-          }
-        ],
-        "images": [],
-        "generatedAt": "2026-08-17T11:53:46.147Z"
-      },
-      {
-        "id": "draft-real-theverge-ai-rss-1chpw8h",
-        "title": "ChatGPT 的计算机历史记录跟踪您的点击和击键",
-        "oneLine": "趋势信号：ChatGPT 在 macOS 上的桌面应用程序有一个名为“计算机历史记录”的新功能，可以将您的操作转化为训练数据，了解您的工作方式，建议自动化，甚至拾取您未完成的任务。",
-        "importance": "B",
-        "credibility": "主流媒体",
-        "tags": [
-          "B",
-          "industry",
-          "ai",
-          "technology",
-          "product"
-        ],
-        "industries": [
-          "aiProduct",
-          "aiTechnology",
-          "productManagement",
-          "technologyEngineering",
-          "educationResearch"
-        ],
-        "section": "ai",
-        "body": {
-          "background": "该功能肯定会让人想起Windows Recall，但微软备受争议的人工智能功能严重依赖于屏幕截图，而 OpenAI 表示，计算机历史记录不会捕获图像、视频或音频，而是依赖于“事件”。",
-          "keyProgress": "OpenAI 产品和工程经理 Ari Weinstein 在 X 上表示，计算机历史记录会自动忽略隐身或私人浏览器选项卡中的内容。在一段简短的演示视频中，OpenAI 开发者体验团队的成员 Dominik Ku​​ndel 展示了该应用程序查找他编辑的最后一个文档，检查该文档是否通过 Slack 与其他人共享，并回顾了他如何度过了一个上午。",
-          "whyItMatters": "“ChatGPT 的计算机历史记录跟踪您的点击和击键”能帮助你判断这项能力是否已经进入工程、产品或商业场景，并据此调整技术选型、产品规划、学习重点或职业判断。",
-          "userRelevance": "如果你从事AI 产品、AI 技术、产品管理、技术研发，可以重点判断“ChatGPT 的计算机历史记录跟踪您的点击和击键”是否已经具备产品落地、技术选型或业务合作价值。",
-          "whatToWatch": "接下来要看“ChatGPT 的计算机历史记录跟踪您的点击和击键”是否有更多可靠来源、量产或应用进展，以及它会不会从单点消息发展成持续趋势。"
-        },
-        "sourceLinks": [
-          {
-            "title": "The Verge AI RSS",
-            "url": "https://www.theverge.com/ai-artificial-intelligence/980742/chatgpts-computer-history-tracks-your-clicks-and-keystrokes",
-            "sourceId": "theverge-ai-rss",
-            "publishedAt": "2026-08-16T14:56:40.000Z",
-            "language": "zh",
-            "originalLanguage": "en",
-            "translationStatus": "translated"
-          }
-        ],
-        "images": [],
-        "generatedAt": "2026-08-17T11:53:46.147Z"
+        "generatedAt": "2026-08-17T14:46:31.794Z"
       }
     ],
-    "estimatedReadMinutes": 15,
-    "pageCount": 2,
-    "topCardId": "draft-cluster-real-cnbc-world-rss-17dvnyl",
-    "generatedAt": "2026-08-17T13:48:09.281Z",
+    "estimatedReadMinutes": 9,
+    "pageCount": 1,
+    "topCardId": "draft-real-cnbc-world-rss-1l3ntth",
+    "generatedAt": "2026-08-17T14:46:31.794Z",
     "pushSlots": [
       "07:30",
       "12:30",
@@ -548,22 +349,15 @@
       "start": "2026-08-17T12:10:00+08:00",
       "end": "2026-08-17T21:10:00+08:00"
     },
-    "basedOnGeneratedAt": "2026-08-17T11:53:46.147Z",
     "editionCardIds": [
-      "draft-cluster-real-cnbc-world-rss-17dvnyl",
-      "draft-real-cnbc-world-rss-1kto84i",
-      "draft-real-cnbc-world-rss-1vjk9mq",
-      "draft-real-cnbc-world-rss-7jj1x1",
-      "draft-real-theverge-ai-rss-16s9u6o"
+      "draft-real-cnbc-world-rss-1l3ntth",
+      "draft-real-cnbc-world-rss-1vtjvbp",
+      "draft-real-cnbc-world-rss-79jg82",
+      "draft-real-cnbc-world-rss-1ii07ou",
+      "draft-real-theverge-ai-rss-16s9u6o",
+      "draft-real-cnbc-world-rss-18lgvc4",
+      "draft-real-cnbc-world-rss-1b1r6jd"
     ],
-    "carriedCardIds": [
-      "draft-cluster-real-npr-world-rss-108om18",
-      "draft-real-xinhua-world-3yyqw3",
-      "draft-real-theverge-ai-rss-1xo4sje",
-      "draft-real-techcrunch-ai-rss-8dkukp",
-      "draft-real-techcrunch-ai-rss-wm5uu1",
-      "draft-real-techcrunch-ai-rss-1gr9e3k",
-      "draft-real-theverge-ai-rss-1chpw8h"
-    ]
+    "carriedCardIds": []
   }
 }

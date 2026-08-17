@@ -1,56 +1,15 @@
 {
   "schemaVersion": 2,
-  "publishedAt": "2026-08-17T11:45:49.971Z",
+  "publishedAt": "2026-08-17T11:57:49.471Z",
   "issue": {
     "id": "daily-public-2026-08-17",
     "date": "2026-08-17",
     "userId": "public",
     "cards": [
       {
-        "id": "draft-real-xinhua-world-16ac8kt",
-        "title": "尼日利亚各界人士热议中国对非零关税机遇",
-        "oneLine": "政策变化：尼日利亚中国研究中心14日举办“中国零关税举措与非洲经济结构转型”主题研讨会，近500名代表出席。",
-        "importance": "S",
-        "credibility": "主流媒体",
-        "tags": [
-          "S",
-          "mustKnow",
-          "industry",
-          "world",
-          "policy"
-        ],
-        "industries": [
-          "generalPublic",
-          "financeInvestment",
-          "operationsGrowth",
-          "contentCreator"
-        ],
-        "section": "front",
-        "body": {
-          "background": "他说，在全球贸易保护主义抬头的背景下，中国对53个非洲建交国全面实施零关税举措。",
-          "keyProgress": "中国驻尼日利亚大使于敦海在致辞中指出，零关税政策实施3个半月以来，政策红利快速显现。今年是中国和非洲开启外交关系70周年，也是中国和尼日利亚建立外交关系55周年。",
-          "whyItMatters": "“尼日利亚各界人士热议中国对非零关税机遇”如果继续发展，可能通过能源价格、航运、贸易、汇率或市场预期传导到国内。了解它的意义在于判断后续风险，而不只停留在事件本身。",
-          "userRelevance": "即使你不在中国，“尼日利亚各界人士热议中国对非零关税机遇”也可能通过能源价格、国际航运、贸易成本和市场预期间接影响国内生活与工作判断。",
-          "whatToWatch": "接下来要看“尼日利亚各界人士热议中国对非零关税机遇”是否出现新的官方信息、后续行动，以及它与中国出行、贸易或公共判断的关联是否扩大。"
-        },
-        "sourceLinks": [
-          {
-            "title": "新华网国际",
-            "url": "https://www.news.cn/silkroad/20260817/3cf54b651551411abf42d540c77349de/c.html",
-            "sourceId": "xinhua-world",
-            "publishedAt": "2026-08-17T00:00:00+08:00",
-            "language": "zh",
-            "originalLanguage": "zh",
-            "translationStatus": "not-needed"
-          }
-        ],
-        "images": [],
-        "generatedAt": "2026-08-17T11:45:49.971Z"
-      },
-      {
         "id": "draft-real-cnbc-world-rss-17dvnyl",
-        "title": "美伊停火到期前霍尔木兹海峡航运陷入停滞",
-        "oneLine": "政策变化：在美国和伊朗之间的 60 天停火期限周一到期之前，通过霍尔木兹海峡的航运交通在周末放缓至停止状态，目前还看不到任何正式谈判或协议。",
+        "title": "特朗普威胁称，如果阿曼在美伊停火到期后“妨碍”，他将“轰炸”阿曼",
+        "oneLine": "政策变化：美国总统唐纳德·特朗普周一在这篇文章中表示，如果阿曼“妨碍”，美国将“轰炸”阿曼，因为华盛顿与伊朗的 60 天停火期即将到期，且看不到任何正式谈判或协议。",
         "importance": "S",
         "credibility": "主流媒体",
         "tags": [
@@ -69,25 +28,25 @@
         ],
         "section": "front",
         "body": {
-          "background": "据路透社援引Kpler的数据，周六只有五艘货船通过该关键石油通道，而周日则没有船舶登记通过该通道。",
+          "background": "此前，在周一美国和伊朗之间 60 天停火期到期之前，通过霍尔木兹海峡的航运交通在周末放缓至停止状态，目前还看不到正式谈判或达成协议的迹象。",
           "keyProgress": "总体而言，自 2 月 28 日战争爆发前以来，航运量下降了 90%，霍尔木兹海峡运送了世界上约五分之一的石油，平均每天约有 130 艘船只过境。汇丰银行 (HSBC) 航运专家帕拉什·杰恩 (Parash Jain) 周一上午对 CNBC 的 Squawk Box Europe 表示，投资者应该了解该行业“混乱是常态”，并将其纳入他们的基本假设中。",
-          "whyItMatters": "“霍尔木兹海峡局势”如果继续发展，可能通过能源价格、航运、贸易、汇率或市场预期传导到国内。了解它的意义在于判断后续风险，而不只停留在事件本身。",
-          "userRelevance": "即使你不在美国、伊朗、霍尔木兹海峡，“霍尔木兹海峡局势”也可能通过能源价格、国际航运、贸易成本和市场预期间接影响国内生活与工作判断。",
-          "whatToWatch": "接下来要看“霍尔木兹海峡局势”是否出现更细的城市、行业、平台或企业数据，以及这一变化能否连续保持。"
+          "whyItMatters": "“特朗普威胁称，如果阿曼在美伊停火到期后妨碍，他将轰炸阿曼”如果继续发展，可能通过能源价格、航运、贸易、汇率或市场预期传导到国内。了解它的意义在于判断后续风险，而不只停留在事件本身。",
+          "userRelevance": "即使你不在美国、伊朗、霍尔木兹海峡，“特朗普威胁称，如果阿曼在美伊停火到期后妨碍，他将轰炸阿曼”也可能通过能源价格、国际航运、贸易成本和市场预期间接影响国内生活与工作判断。",
+          "whatToWatch": "接下来要看“特朗普威胁称，如果阿曼在美伊停火到期后妨碍，他将轰炸阿曼”是否出现更细的城市、行业、平台或企业数据，以及这一变化能否连续保持。"
         },
         "sourceLinks": [
           {
             "title": "CNBC World News RSS",
             "url": "https://www.cnbc.com/2026/08/17/us-iran-war-trump-hormuz.html",
             "sourceId": "cnbc-world-rss",
-            "publishedAt": "2026-08-17T08:06:38.000Z",
+            "publishedAt": "2026-08-17T11:55:48.000Z",
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated"
           }
         ],
         "images": [],
-        "generatedAt": "2026-08-17T11:45:49.971Z"
+        "generatedAt": "2026-08-17T11:57:49.471Z"
       },
       {
         "id": "draft-real-cnbc-world-rss-1jzpf1l",
@@ -129,7 +88,7 @@
           }
         ],
         "images": [],
-        "generatedAt": "2026-08-17T11:45:49.971Z"
+        "generatedAt": "2026-08-17T11:57:49.471Z"
       },
       {
         "id": "draft-real-cnbc-world-rss-16k6af3",
@@ -171,7 +130,48 @@
           }
         ],
         "images": [],
-        "generatedAt": "2026-08-17T11:45:49.971Z"
+        "generatedAt": "2026-08-17T11:57:49.471Z"
+      },
+      {
+        "id": "draft-real-xinhua-world-16ac8kt",
+        "title": "尼日利亚各界人士热议中国对非零关税机遇",
+        "oneLine": "政策变化：尼日利亚中国研究中心14日举办“中国零关税举措与非洲经济结构转型”主题研讨会，近500名代表出席。",
+        "importance": "S",
+        "credibility": "主流媒体",
+        "tags": [
+          "S",
+          "mustKnow",
+          "industry",
+          "world",
+          "policy"
+        ],
+        "industries": [
+          "generalPublic",
+          "financeInvestment",
+          "operationsGrowth",
+          "contentCreator"
+        ],
+        "section": "front",
+        "body": {
+          "background": "他说，在全球贸易保护主义抬头的背景下，中国对53个非洲建交国全面实施零关税举措。",
+          "keyProgress": "中国驻尼日利亚大使于敦海在致辞中指出，零关税政策实施3个半月以来，政策红利快速显现。今年是中国和非洲开启外交关系70周年，也是中国和尼日利亚建立外交关系55周年。",
+          "whyItMatters": "“尼日利亚各界人士热议中国对非零关税机遇”如果继续发展，可能通过能源价格、航运、贸易、汇率或市场预期传导到国内。了解它的意义在于判断后续风险，而不只停留在事件本身。",
+          "userRelevance": "即使你不在中国，“尼日利亚各界人士热议中国对非零关税机遇”也可能通过能源价格、国际航运、贸易成本和市场预期间接影响国内生活与工作判断。",
+          "whatToWatch": "接下来要看“尼日利亚各界人士热议中国对非零关税机遇”是否出现新的官方信息、后续行动，以及它与中国出行、贸易或公共判断的关联是否扩大。"
+        },
+        "sourceLinks": [
+          {
+            "title": "新华网国际",
+            "url": "https://www.news.cn/silkroad/20260817/3cf54b651551411abf42d540c77349de/c.html",
+            "sourceId": "xinhua-world",
+            "publishedAt": "2026-08-17T00:00:00+08:00",
+            "language": "zh",
+            "originalLanguage": "zh",
+            "translationStatus": "not-needed"
+          }
+        ],
+        "images": [],
+        "generatedAt": "2026-08-17T11:57:49.471Z"
       },
       {
         "id": "draft-real-xinhua-world-54wodt",
@@ -214,7 +214,7 @@
           }
         ],
         "images": [],
-        "generatedAt": "2026-08-17T11:45:49.971Z"
+        "generatedAt": "2026-08-17T11:57:49.471Z"
       },
       {
         "id": "draft-real-xinhua-world-rll09d",
@@ -255,48 +255,58 @@
           }
         ],
         "images": [],
-        "generatedAt": "2026-08-17T11:45:49.971Z"
+        "generatedAt": "2026-08-17T11:57:49.471Z"
       },
       {
-        "id": "draft-real-gov-cn-policy-library-k1akam",
-        "title": "国务院关于《特殊教育发展提升“十五五”行动计划》的批复",
-        "oneLine": "政策变化：二、《行动计划》实施要坚持以习近平新时代中国特色社会主义思想为指导，深入贯彻党的二十大和二十届历次全会精神，认真落实四中全会部署，深入落实全国教育大会精神和《教育强国建设规划纲要（2024—2035年）》要求，全面贯彻党的教育方针，落实立德树人根本任务，加快建设高质量特殊教育体系，充分保障残疾儿童青。",
-        "importance": "B",
-        "credibility": "官方来源",
+        "id": "draft-cluster-real-npr-world-rss-108om18",
+        "title": "库什纳在与内塔尼亚胡会谈之前会见哈马斯，讨论加沙路线图",
+        "oneLine": "最新进展：库什纳在与内塔尼亚胡会谈之前会见哈马斯，讨论加沙路线图。",
+        "importance": "A",
+        "credibility": "多源确认",
         "tags": [
-          "B",
+          "A",
           "mustKnow",
-          "industry",
-          "policy",
-          "china",
-          "education"
+          "world",
+          "policy"
         ],
         "industries": [
-          "generalPublic",
-          "teacher",
-          "educationResearch"
+          "generalPublic"
         ],
         "section": "front",
         "body": {
-          "background": "国务院关于《特殊教育发展提升 “十五五”行动计划》的批复 教育部、国家发展改革委、民政部、财政部、人力资源社会保障部、国家卫生健康委，中国残联： 《教育部关于报送〈特殊教育发展提升“十五五”行动计划（送审稿）〉的请示》（教基〔2026〕7号）收悉。",
-          "keyProgress": "现批复如下： 一、原则同意《特殊教育发展提升“十五五”行动计划》（以下简称《行动计划》），请认真组织实施。《行动计划》实施涉及的重要政策、重大工程、重点项目要按程序报批。",
-          "whyItMatters": "“国务院关于特殊教育发展提升十五五行动计划的批复”可能影响学校治理、教师工作、课程安排或学生发展。教育从业者可以据此提前关注具体对象、地方执行方式和工作要求。",
-          "userRelevance": "如果你从事教师、教育研究或学校管理，可以重点关注“国务院关于特殊教育发展提升十五五行动计划的批复”的具体对象、执行方式和地方落地节奏；其他用户可把它作为教育环境背景了解。",
-          "whatToWatch": "接下来要看“国务院关于特殊教育发展提升十五五行动计划的批复”是否补充执行细则、地方落地安排、时间节点或适用人群说明。"
+          "background": "自停火结束重大军事行动十个多月以来，加沙约 200 万人的生命以及目前主要由以色列军队控制的拥挤飞地的重建受到威胁。",
+          "keyProgress": "开罗——周日，美国谈判代表、唐纳德·特朗普总统的女婿贾里德·库什纳与哈马斯领导人举行了一次罕见的会面，这是一项新的外交努力，旨在推动陷入僵局的加沙停火取得进展。各国外交部长的声明还呼吁和平委员会和美国采取“立即和具体措施”，防止任何一方阻碍该计划的实施。",
+          "whyItMatters": "“库什纳在与内塔尼亚胡会谈之前会见哈马斯，讨论加沙路线图”如果继续发展，可能通过能源价格、航运、贸易、汇率或市场预期传导到国内。了解它的意义在于判断后续风险，而不只停留在事件本身。",
+          "userRelevance": "即使你不在加沙、美国，“库什纳在与内塔尼亚胡会谈之前会见哈马斯，讨论加沙路线图”也可能通过能源价格、国际航运、贸易成本和市场预期间接影响国内生活与工作判断。",
+          "whatToWatch": "接下来要看“库什纳在与内塔尼亚胡会谈之前会见哈马斯，讨论加沙路线图”是否出现新的官方信息、后续行动，以及它与中国出行、贸易或公共判断的关联是否扩大。"
         },
         "sourceLinks": [
           {
-            "title": "国务院政策文件库",
-            "url": "https://www.gov.cn/zhengce/content/202608/content_7078320.htm",
-            "sourceId": "gov-cn-policy-library",
-            "publishedAt": "2026-08-17T00:00:00+08:00",
+            "title": "NPR World RSS",
+            "url": "https://www.npr.org/2026/08/16/g-s1-138948/kushner-gaza-hamas-netanyahu-egypt-talks",
+            "sourceId": "npr-world-rss",
+            "publishedAt": "2026-08-16T20:20:22.000Z",
             "language": "zh",
-            "originalLanguage": "zh",
-            "translationStatus": "not-needed"
+            "originalLanguage": "en",
+            "translationStatus": "translated"
+          },
+          {
+            "title": "France 24 Middle East RSS",
+            "url": "https://www.france24.com/en/middle-east/20260816-hamas-begins-crucial-talks-with-egypt-on-trump-s-gaza-peace-plan",
+            "sourceId": "france24-middle-east-rss",
+            "publishedAt": "2026-08-16T11:33:32.000Z",
+            "language": "zh",
+            "originalLanguage": "en",
+            "translationStatus": "translated"
           }
         ],
-        "images": [],
-        "generatedAt": "2026-08-17T11:45:49.971Z"
+        "images": [
+          {
+            "url": "https://s.france24.com/media/display/64f693de-9964-11f1-94e0-005056a97e36/w:1024/p:16x9/2026-07-20T122458Z-1821028812-RC2OHMA50977-RTRMADP-3-ISRAEL-PALESTINIANS-HAMAS-HAYYA.jpg",
+            "sourceUrl": "https://www.france24.com/en/middle-east/20260816-hamas-begins-crucial-talks-with-egypt-on-trump-s-gaza-peace-plan"
+          }
+        ],
+        "generatedAt": "2026-08-17T11:53:46.147Z"
       },
       {
         "id": "draft-real-cnbc-world-rss-65l1g6",
@@ -338,7 +348,48 @@
           }
         ],
         "images": [],
-        "generatedAt": "2026-08-17T11:45:49.971Z"
+        "generatedAt": "2026-08-17T11:57:49.471Z"
+      },
+      {
+        "id": "draft-real-gov-cn-policy-library-k1akam",
+        "title": "国务院关于《特殊教育发展提升“十五五”行动计划》的批复",
+        "oneLine": "政策变化：二、《行动计划》实施要坚持以习近平新时代中国特色社会主义思想为指导，深入贯彻党的二十大和二十届历次全会精神，认真落实四中全会部署，深入落实全国教育大会精神和《教育强国建设规划纲要（2024—2035年）》要求，全面贯彻党的教育方针，落实立德树人根本任务，加快建设高质量特殊教育体系，充分保障残疾儿童青。",
+        "importance": "B",
+        "credibility": "官方来源",
+        "tags": [
+          "B",
+          "mustKnow",
+          "industry",
+          "policy",
+          "china",
+          "education"
+        ],
+        "industries": [
+          "generalPublic",
+          "teacher",
+          "educationResearch"
+        ],
+        "section": "front",
+        "body": {
+          "background": "国务院关于《特殊教育发展提升 “十五五”行动计划》的批复 教育部、国家发展改革委、民政部、财政部、人力资源社会保障部、国家卫生健康委，中国残联： 《教育部关于报送〈特殊教育发展提升“十五五”行动计划（送审稿）〉的请示》（教基〔2026〕7号）收悉。",
+          "keyProgress": "现批复如下： 一、原则同意《特殊教育发展提升“十五五”行动计划》（以下简称《行动计划》），请认真组织实施。《行动计划》实施涉及的重要政策、重大工程、重点项目要按程序报批。",
+          "whyItMatters": "“国务院关于特殊教育发展提升十五五行动计划的批复”可能影响学校治理、教师工作、课程安排或学生发展。教育从业者可以据此提前关注具体对象、地方执行方式和工作要求。",
+          "userRelevance": "如果你从事教师、教育研究或学校管理，可以重点关注“国务院关于特殊教育发展提升十五五行动计划的批复”的具体对象、执行方式和地方落地节奏；其他用户可把它作为教育环境背景了解。",
+          "whatToWatch": "接下来要看“国务院关于特殊教育发展提升十五五行动计划的批复”是否补充执行细则、地方落地安排、时间节点或适用人群说明。"
+        },
+        "sourceLinks": [
+          {
+            "title": "国务院政策文件库",
+            "url": "https://www.gov.cn/zhengce/content/202608/content_7078320.htm",
+            "sourceId": "gov-cn-policy-library",
+            "publishedAt": "2026-08-17T00:00:00+08:00",
+            "language": "zh",
+            "originalLanguage": "zh",
+            "translationStatus": "not-needed"
+          }
+        ],
+        "images": [],
+        "generatedAt": "2026-08-17T11:57:49.471Z"
       },
       {
         "id": "draft-real-xinhua-tech-18vqeb9",
@@ -386,7 +437,7 @@
             "sourceUrl": "https://www.news.cn/tech/20260817/da7a68094c054e1081f464630a8c564e/c.html"
           }
         ],
-        "generatedAt": "2026-08-17T11:45:49.971Z"
+        "generatedAt": "2026-08-17T11:57:49.471Z"
       },
       {
         "id": "draft-real-xinhua-tech-1co3y72",
@@ -429,7 +480,7 @@
           }
         ],
         "images": [],
-        "generatedAt": "2026-08-17T11:45:49.971Z"
+        "generatedAt": "2026-08-17T11:57:49.471Z"
       },
       {
         "id": "draft-real-xinhua-tech-8qn5rg",
@@ -472,7 +523,7 @@
           }
         ],
         "images": [],
-        "generatedAt": "2026-08-17T11:45:49.971Z"
+        "generatedAt": "2026-08-17T11:57:49.471Z"
       },
       {
         "id": "draft-real-xinhua-tech-u0cqsw",
@@ -515,13 +566,264 @@
           }
         ],
         "images": [],
-        "generatedAt": "2026-08-17T11:45:49.971Z"
+        "generatedAt": "2026-08-17T11:57:49.471Z"
+      },
+      {
+        "id": "draft-real-xinhua-world-3yyqw3",
+        "title": "俄罗斯史学家：日本“再军事化”威胁巨大",
+        "oneLine": "政策变化：“近期，日本国内掀起反对高市内阁‘再军事化’政策的抗议浪潮，抗议人士要求高市尽快辞去首相职务。",
+        "importance": "B",
+        "credibility": "主流媒体",
+        "tags": [
+          "B",
+          "mustKnow",
+          "industry",
+          "world",
+          "policy"
+        ],
+        "industries": [
+          "generalPublic",
+          "financeInvestment",
+          "operationsGrowth",
+          "contentCreator"
+        ],
+        "section": "front",
+        "body": {
+          "background": "俄罗斯二战史学家协会执行理事会成员阿纳托利·科什金日前在接受新华社记者专访时说。",
+          "keyProgress": "日本推进‘再军事化’是巨大威胁，可能给日本自身和东亚、东南亚国家带来严重后果。科什金说，日本不仅解禁杀伤性武器出口、加速军备扩张，其国内更有人蓄意推翻“无核三原则”，甚至被曝密谋从他国引进核武器。",
+          "whyItMatters": "“俄罗斯史学家：日本再军事化威胁巨大”如果继续发展，可能通过能源价格、航运、贸易、汇率或市场预期传导到国内。了解它的意义在于判断后续风险，而不只停留在事件本身。",
+          "userRelevance": "即使你不在日本、俄罗斯，“俄罗斯史学家：日本再军事化威胁巨大”也可能通过能源价格、国际航运、贸易成本和市场预期间接影响国内生活与工作判断。",
+          "whatToWatch": "接下来要看“俄罗斯史学家：日本再军事化威胁巨大”是否出现新的官方信息、后续行动，以及它与中国出行、贸易或公共判断的关联是否扩大。"
+        },
+        "sourceLinks": [
+          {
+            "title": "新华网国际",
+            "url": "https://www.news.cn/world/20260816/4674630bd0214e3fba0b395e2aae00d6/c.html",
+            "sourceId": "xinhua-world",
+            "publishedAt": "2026-08-16T00:00:00+08:00",
+            "language": "zh",
+            "originalLanguage": "zh",
+            "translationStatus": "not-needed"
+          }
+        ],
+        "images": [],
+        "generatedAt": "2026-08-17T11:53:46.147Z"
+      },
+      {
+        "id": "draft-real-theverge-ai-rss-1xo4sje",
+        "title": "据报道 OpenAI 解散了其准备团队",
+        "oneLine": "趋势信号：据英国《金融时报》报道，OpenAI 于上月底解散了其准备团队。",
+        "importance": "B",
+        "credibility": "主流媒体",
+        "tags": [
+          "B",
+          "industry",
+          "ai",
+          "technology",
+          "product"
+        ],
+        "industries": [
+          "aiProduct",
+          "aiTechnology",
+          "productManagement",
+          "technologyEngineering",
+          "educationResearch"
+        ],
+        "section": "ai",
+        "body": {
+          "background": "准备团队的工作是评估模型是否会带来严重风险，并制定减轻这些风险的方法。",
+          "keyProgress": "道德主管 Chloé Bakalar、首席未来学家 Josh Achiam 和安全主管 Johannes Heidecke 最近也全部离职，导致一些批评者（例如 2024 年从 OpenAI 辞职的 Jan Leike）告诉英国《金融时报》，该公司为了创造“闪亮的产品”而忽视了安全。（你知道，就像它可能会失控并攻击另一家公司一样。",
+          "whyItMatters": "“据报道 OpenAI 解散了其准备团队”能帮助你判断这项能力是否已经进入工程、产品或商业场景，并据此调整技术选型、产品规划、学习重点或职业判断。",
+          "userRelevance": "如果你从事AI 产品、AI 技术、产品管理、技术研发，可以重点判断“据报道 OpenAI 解散了其准备团队”是否已经具备产品落地、技术选型或业务合作价值。",
+          "whatToWatch": "接下来要看“据报道 OpenAI 解散了其准备团队”是否有更多可靠来源、量产或应用进展，以及它会不会从单点消息发展成持续趋势。"
+        },
+        "sourceLinks": [
+          {
+            "title": "The Verge AI RSS",
+            "url": "https://www.theverge.com/ai-artificial-intelligence/980817/openai-disbands-preparedness-team",
+            "sourceId": "theverge-ai-rss",
+            "publishedAt": "2026-08-16T21:32:56.000Z",
+            "language": "zh",
+            "originalLanguage": "en",
+            "translationStatus": "translated"
+          }
+        ],
+        "images": [],
+        "generatedAt": "2026-08-17T11:53:46.147Z"
+      },
+      {
+        "id": "draft-real-techcrunch-ai-rss-8dkukp",
+        "title": "据报道，Stripe 将以 70亿美元以上收购人工智能网关初创公司 OpenRouter",
+        "oneLine": "趋势信号：据彭博社最新报道，Stripe 已敲定收购 OpenRouter 的交易。",
+        "importance": "B",
+        "credibility": "主流媒体",
+        "tags": [
+          "B",
+          "industry",
+          "ai",
+          "technology",
+          "product"
+        ],
+        "industries": [
+          "aiProduct",
+          "aiTechnology",
+          "productManagement",
+          "technologyEngineering",
+          "educationResearch"
+        ],
+        "section": "ai",
+        "body": {
+          "background": "（投资者包括红杉资本、Andreessen Horowitz、Menlo Ventures 和 Alphabet 的 Capital G。",
+          "keyProgress": "OpenRouter帮助客户根据自己的具体需求和预算选择不同的AI模型来执行不同的任务。）当时，OpenRouter 首席执行官 Alex Atallah 将该公司描述为 AI 领域的 Stripe，因为它为客户提供了不同系统的单一接入点并防止锁定。",
+          "whyItMatters": "“据报道，Stripe 将以 70亿美元以上收购人工智能网关初创公司 OpenRouter”能帮助你判断这项能力是否已经进入工程、产品或商业场景，并据此调整技术选型、产品规划、学习重点或职业判断。",
+          "userRelevance": "如果你从事AI 产品、AI 技术、产品管理、技术研发，可以重点判断“据报道，Stripe 将以 70亿美元以上收购人工智能网关初创公司 OpenRouter”是否已经具备产品落地、技术选型或业务合作价值。",
+          "whatToWatch": "接下来要看“据报道，Stripe 将以 70亿美元以上收购人工智能网关初创公司 OpenRouter”是否有更多可靠来源、量产或应用进展，以及它会不会从单点消息发展成持续趋势。"
+        },
+        "sourceLinks": [
+          {
+            "title": "TechCrunch AI RSS",
+            "url": "https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/",
+            "sourceId": "techcrunch-ai-rss",
+            "publishedAt": "2026-08-16T20:57:04.000Z",
+            "language": "zh",
+            "originalLanguage": "en",
+            "translationStatus": "translated"
+          }
+        ],
+        "images": [],
+        "generatedAt": "2026-08-17T11:53:46.147Z"
+      },
+      {
+        "id": "draft-real-techcrunch-ai-rss-wm5uu1",
+        "title": "为什么人们不相信马克·扎克伯格的人工智能未来",
+        "oneLine": "趋势信号：Meta 首席执行官马克·扎克伯格 (Mark Zuckerberg) 本周发表了一篇 6,500 字的文章，宣称“未来属于每个人”，并描绘了一幅由人工智能驱动的未来的乐观图景，其中“每个人都将拥有一位非常有能力的个人代理人，他了解你、你的目标以及你关心的一切。",
+        "importance": "B",
+        "credibility": "主流媒体",
+        "tags": [
+          "B",
+          "industry",
+          "ai",
+          "technology",
+          "product"
+        ],
+        "industries": [
+          "aiProduct",
+          "aiTechnology",
+          "productManagement",
+          "technologyEngineering",
+          "educationResearch"
+        ],
+        "section": "ai",
+        "body": {
+          "background": "在最新一期的 TechCrunch 股票播客中，克尔斯滕·科罗塞克 (Kirsten Korosec)、丽贝卡·贝兰 (Rebecca Bellan) 和我讨论了为什么不是每个人都认同扎克伯格的愿景——包括我们的同事拉塞尔·布兰登 (Russell Brandom)，他写道，这份宣言“正是人们不喜欢人工智能的原因”。",
+          "keyProgress": "将扎克伯格与 Anthropic 首席执行官达里奥·阿莫迪（Dario Amodei）（他整个周末都在反对他是人工智能毁灭者的观点）进行比较，丽贝卡表示，Meta 首席执行官似乎将自己定位为“几乎像一个反达里奥”。他试图提供人们在自己的个人设备上用于个人人工智能的模型。",
+          "whyItMatters": "“为什么人们不相信马克·扎克伯格的人工智能未来”能帮助你判断这项能力是否已经进入工程、产品或商业场景，并据此调整技术选型、产品规划、学习重点或职业判断。",
+          "userRelevance": "如果你从事AI 产品、AI 技术、产品管理、技术研发，可以重点判断“为什么人们不相信马克·扎克伯格的人工智能未来”是否已经具备产品落地、技术选型或业务合作价值。",
+          "whatToWatch": "接下来要看“为什么人们不相信马克·扎克伯格的人工智能未来”是否有更多可靠来源、量产或应用进展，以及它会不会从单点消息发展成持续趋势。"
+        },
+        "sourceLinks": [
+          {
+            "title": "TechCrunch AI RSS",
+            "url": "https://techcrunch.com/2026/08/16/why-people-arent-buying-mark-zuckerbergs-ai-future/",
+            "sourceId": "techcrunch-ai-rss",
+            "publishedAt": "2026-08-16T20:32:01.000Z",
+            "language": "zh",
+            "originalLanguage": "en",
+            "translationStatus": "translated"
+          }
+        ],
+        "images": [],
+        "generatedAt": "2026-08-17T11:53:46.147Z"
+      },
+      {
+        "id": "draft-real-techcrunch-ai-rss-1gr9e3k",
+        "title": "Anthropic首席执行官表示，人工智能的强烈反对“从根本上来说是一场信任危机”",
+        "oneLine": "趋势信号：Anthropic 首席执行官达里奥·阿莫迪 (Dario Amodei) 最近反驳了这样的观点，即他一直在描绘人工智能及其如何塑造未来的过于悲观的图景。",
+        "importance": "B",
+        "credibility": "主流媒体",
+        "tags": [
+          "B",
+          "industry",
+          "ai",
+          "technology",
+          "product"
+        ],
+        "industries": [
+          "aiProduct",
+          "aiTechnology",
+          "productManagement",
+          "technologyEngineering",
+          "educationResearch"
+        ],
+        "section": "ai",
+        "body": {
+          "background": "贝克写道，声称阿莫迪在人工智能监管方面“输了”（Anthropic 主张制定一些法规，包括一项对大型人工智能公司施加透明度要求的加州法案），并考虑到“他即将成为世界上最重要的公司之一的首席执行官”，“我恭敬地认为他应该努力成为自己行业的更积极的倡导者。",
+          "keyProgress": "相反，他说他的写作“在风险和收益之间保持了平衡”，他写了《爱的机器》这篇文章，因为他“认为人工智能行业没有描绘出一幅足够鼓舞人心的图景，说明这项技术如何从根本上改变世界，让世界变得更美好。他不同意的观点是，这种消极情绪“主要是由阿莫迪”或任何其他警告人工智能风险的人工智能领导者造成的。",
+          "whyItMatters": "“Anthropic首席执行官表示，人工智能的强烈反对从根本上来说是一场信任危机”能帮助你判断这项能力是否已经进入工程、产品或商业场景，并据此调整技术选型、产品规划、学习重点或职业判断。",
+          "userRelevance": "如果你从事AI 产品、AI 技术、产品管理、技术研发，可以重点判断“Anthropic首席执行官表示，人工智能的强烈反对从根本上来说是一场信任危机”是否已经具备产品落地、技术选型或业务合作价值。",
+          "whatToWatch": "接下来要看“Anthropic首席执行官表示，人工智能的强烈反对从根本上来说是一场信任危机”是否有更多可靠来源、量产或应用进展，以及它会不会从单点消息发展成持续趋势。"
+        },
+        "sourceLinks": [
+          {
+            "title": "TechCrunch AI RSS",
+            "url": "https://techcrunch.com/2026/08/16/anthropic-ceo-says-ai-backlash-is-fundamentally-a-crisis-of-trust/",
+            "sourceId": "techcrunch-ai-rss",
+            "publishedAt": "2026-08-16T16:53:51.000Z",
+            "language": "zh",
+            "originalLanguage": "en",
+            "translationStatus": "translated"
+          }
+        ],
+        "images": [],
+        "generatedAt": "2026-08-17T11:53:46.147Z"
+      },
+      {
+        "id": "draft-real-theverge-ai-rss-1chpw8h",
+        "title": "ChatGPT 的计算机历史记录跟踪您的点击和击键",
+        "oneLine": "趋势信号：ChatGPT 在 macOS 上的桌面应用程序有一个名为“计算机历史记录”的新功能，可以将您的操作转化为训练数据，了解您的工作方式，建议自动化，甚至拾取您未完成的任务。",
+        "importance": "B",
+        "credibility": "主流媒体",
+        "tags": [
+          "B",
+          "industry",
+          "ai",
+          "technology",
+          "product"
+        ],
+        "industries": [
+          "aiProduct",
+          "aiTechnology",
+          "productManagement",
+          "technologyEngineering",
+          "educationResearch"
+        ],
+        "section": "ai",
+        "body": {
+          "background": "该功能肯定会让人想起Windows Recall，但微软备受争议的人工智能功能严重依赖于屏幕截图，而 OpenAI 表示，计算机历史记录不会捕获图像、视频或音频，而是依赖于“事件”。",
+          "keyProgress": "OpenAI 产品和工程经理 Ari Weinstein 在 X 上表示，计算机历史记录会自动忽略隐身或私人浏览器选项卡中的内容。在一段简短的演示视频中，OpenAI 开发者体验团队的成员 Dominik Ku​​ndel 展示了该应用程序查找他编辑的最后一个文档，检查该文档是否通过 Slack 与其他人共享，并回顾了他如何度过了一个上午。",
+          "whyItMatters": "“ChatGPT 的计算机历史记录跟踪您的点击和击键”能帮助你判断这项能力是否已经进入工程、产品或商业场景，并据此调整技术选型、产品规划、学习重点或职业判断。",
+          "userRelevance": "如果你从事AI 产品、AI 技术、产品管理、技术研发，可以重点判断“ChatGPT 的计算机历史记录跟踪您的点击和击键”是否已经具备产品落地、技术选型或业务合作价值。",
+          "whatToWatch": "接下来要看“ChatGPT 的计算机历史记录跟踪您的点击和击键”是否有更多可靠来源、量产或应用进展，以及它会不会从单点消息发展成持续趋势。"
+        },
+        "sourceLinks": [
+          {
+            "title": "The Verge AI RSS",
+            "url": "https://www.theverge.com/ai-artificial-intelligence/980742/chatgpts-computer-history-tracks-your-clicks-and-keystrokes",
+            "sourceId": "theverge-ai-rss",
+            "publishedAt": "2026-08-16T14:56:40.000Z",
+            "language": "zh",
+            "originalLanguage": "en",
+            "translationStatus": "translated"
+          }
+        ],
+        "images": [],
+        "generatedAt": "2026-08-17T11:53:46.147Z"
       }
     ],
-    "estimatedReadMinutes": 13,
-    "pageCount": 2,
-    "topCardId": "draft-real-xinhua-world-16ac8kt",
-    "generatedAt": "2026-08-17T11:45:49.971Z",
+    "estimatedReadMinutes": 22,
+    "pageCount": 3,
+    "topCardId": "draft-real-cnbc-world-rss-17dvnyl",
+    "generatedAt": "2026-08-17T11:57:49.471Z",
     "pushSlots": [
       "07:30",
       "12:30",
@@ -533,6 +835,7 @@
       "start": "2026-08-17T12:10:00+08:00",
       "end": "2026-08-17T21:10:00+08:00"
     },
+    "basedOnGeneratedAt": "2026-08-17T11:53:46.147Z",
     "editionCardIds": [
       "draft-real-xinhua-world-16ac8kt",
       "draft-real-cnbc-world-rss-17dvnyl",
@@ -547,6 +850,14 @@
       "draft-real-xinhua-tech-8qn5rg",
       "draft-real-xinhua-tech-u0cqsw"
     ],
-    "carriedCardIds": []
+    "carriedCardIds": [
+      "draft-cluster-real-npr-world-rss-108om18",
+      "draft-real-xinhua-world-3yyqw3",
+      "draft-real-theverge-ai-rss-1xo4sje",
+      "draft-real-techcrunch-ai-rss-8dkukp",
+      "draft-real-techcrunch-ai-rss-wm5uu1",
+      "draft-real-techcrunch-ai-rss-1gr9e3k",
+      "draft-real-theverge-ai-rss-1chpw8h"
+    ]
   }
 }

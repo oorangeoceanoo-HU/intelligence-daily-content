@@ -1,26 +1,26 @@
 {
   "version": 1,
   "date": "2026-08-17",
-  "generatedAt": "2026-08-17T11:54:52.222Z",
-  "status": "review",
+  "generatedAt": "2026-08-17T14:42:36.883Z",
+  "status": "blocked",
   "reviewMode": "generated",
-  "candidateSha256": "937c1d06428e484e9158c040ea5a7a7566d7b082ed5c4e350cc497c71d505dfd",
+  "candidateSha256": "2fccafb972fc26289e06c31e0f4e1875fdea854f351b63d2f7beaaa19e69e255",
   "counts": {
-    "cards": 8,
+    "cards": 5,
     "pages": 1,
-    "rawItems": 33,
-    "freshCandidates": 30,
-    "publishableCards": 8,
-    "reviewableCards": 5,
+    "rawItems": 32,
+    "freshCandidates": 29,
+    "publishableCards": 5,
+    "reviewableCards": 8,
     "rejectedCards": 2,
-    "blockers": 0,
-    "warnings": 11
+    "blockers": 1,
+    "warnings": 14
   },
   "findings": [
     {
-      "level": "warning",
-      "code": "lower-than-usual-card-count",
-      "message": "当前只有 8 条。系统不会用低相关性内容凑数，但应检查是否有来源或时间窗口缺口。"
+      "level": "blocker",
+      "code": "too-few-cards",
+      "message": "当前只有 5 条，无法形成每版约 5 条的三版完整日报；系统会保留上一份合格日报，不会用旧闻或未核实内容凑数。"
     },
     {
       "level": "warning",
@@ -57,7 +57,7 @@
       "level": "warning",
       "code": "card-needs-human-review",
       "message": "官方风险简报篇幅较短，但事实和处置动作完整，需要人工确认是否保留。",
-      "cardId": "draft-real-mem-cn-1e7gx82",
+      "cardId": "draft-real-mem-cn-1ehgix1",
       "cardTitle": "应急管理部调派13支排涝队伍在河南周口开展排涝作业"
     },
     {
@@ -80,6 +80,34 @@
       "message": "没有抓到完整正文，目前使用候选摘要回退。",
       "cardId": "draft-real-france24-middle-east-rss-5c6uof",
       "cardTitle": "西岸：活动人士讲述库斯拉定居者围困下的生活"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "原文篇幅较短且不是官方或主流来源，需要发布前复核。",
+      "cardId": "draft-real-france24-middle-east-rss-5c6uof",
+      "cardTitle": "西岸：活动人士讲述库斯拉定居者围困下的生活"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "原文篇幅较短且不是官方或主流来源，需要发布前复核。",
+      "cardId": "draft-real-techcrunch-ai-rss-83l8vq",
+      "cardTitle": "据报道，Stripe 将以 70亿美元以上收购人工智能网关初创公司 OpenRouter"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "原文篇幅较短且不是官方或主流来源，需要发布前复核。",
+      "cardId": "draft-real-theverge-ai-rss-1xo4sje",
+      "cardTitle": "据报道 OpenAI 解散了其准备团队"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "原文篇幅较短且不是官方或主流来源，需要发布前复核。",
+      "cardId": "draft-real-theverge-ai-rss-1chpw8h",
+      "cardTitle": "ChatGPT 的计算机历史记录跟踪您的点击和击键"
     },
     {
       "level": "warning",

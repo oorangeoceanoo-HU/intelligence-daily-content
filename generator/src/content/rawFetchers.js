@@ -237,6 +237,22 @@ const fetchTextWithLegacyTls = async (url, timeoutMs = defaultTimeoutMs) => new 
     });
 });
 exports.fetchTextWithLegacyTls = fetchTextWithLegacyTls;
+const fetchChinesePage = async (url) => {
+    try {
+        return await fetchText(url);
+    }
+    catch (firstError) {
+        try {
+            return await (0, exports.fetchTextWithLegacyTls)(url);
+        }
+        catch (secondError) {
+            const message = (error) => error instanceof Error
+                ? `${error.name}: ${error.message || "request failed without a message"}`
+                : String(error);
+            throw new Error(`${message(firstError)}; legacy TLS fallback: ${message(secondError)}`);
+        }
+    }
+};
 const absoluteUrl = (href, baseUrl) => {
     try {
         return new URL(href, baseUrl).toString();
@@ -385,7 +401,7 @@ async function fetchMohurdConstructionRawItems(limit) {
         editType: "null",
         pageId: "919e942639b5477d96e4c97471c61d9f"
     }).toString();
-    const responseText = await fetchText(apiUrl.toString());
+    const responseText = await fetchChinesePage(apiUrl.toString());
     const response = JSON.parse(responseText);
     const html = response.data?.html ?? "";
     const fetchedAt = new Date().toISOString();
@@ -459,7 +475,7 @@ async function fetchGovPolicyRawItems(limit) {
 async function fetchMemRawItems(limit) {
     const sourceId = "mem-cn";
     const listUrl = sourceUrl(sourceId);
-    const html = await fetchText(listUrl);
+    const html = await fetchChinesePage(listUrl);
     const fetchedAt = new Date().toISOString();
     const links = uniqueByUrl(htmlLinks(html, listUrl)
         .filter((link) => /\/xw\/yjglbgzdt\/20\d{4}\/t20\d{6}_\d+\.shtml$/.test(link.url))
@@ -481,7 +497,7 @@ async function fetchMemRawItems(limit) {
 async function fetchCacRawItems(limit) {
     const sourceId = "cac-cn";
     const listUrl = sourceUrl(sourceId);
-    const html = await fetchText(listUrl);
+    const html = await fetchChinesePage(listUrl);
     const fetchedAt = new Date().toISOString();
     const links = uniqueByUrl(htmlLinks(html, listUrl)
         .filter((link) => /www\.cac\.gov\.cn\/20\d{2}-\d{2}\/\d{2}\/c_\d+\.htm$/.test(link.url))
@@ -895,7 +911,7 @@ async function fetchMoeRawItems(limit) {
 async function fetchChrmRawItems(limit) {
     const sourceId = "chrm-mohrss";
     const listUrl = sourceUrl(sourceId);
-    const html = await (0, exports.fetchTextWithLegacyTls)(listUrl);
+    const html = await fetchChinesePage(listUrl);
     const fetchedAt = new Date().toISOString();
     const links = htmlLinks(html, listUrl)
         .filter((link) => link.url.includes("/announcement/") && /20\d{2}-\d{2}-\d{2}/.test(link.title))
@@ -916,7 +932,7 @@ async function fetchChrmRawItems(limit) {
 async function fetchStatsDataRawItems(limit) {
     const sourceId = "stats-cn-data";
     const listUrl = sourceUrl(sourceId);
-    const html = await fetchText(listUrl);
+    const html = await fetchChinesePage(listUrl);
     const fetchedAt = new Date().toISOString();
     const links = uniqueByUrl(htmlLinks(html, listUrl)
         .filter((link) => /\/sj\/zxfb\/20\d{4}\/t20\d{6}_\d+\.html$/.test(link.url))
@@ -937,7 +953,7 @@ async function fetchStatsDataRawItems(limit) {
 async function fetchMofcomConsumptionRawItems(limit) {
     const sourceId = "mofcom-consumption";
     const listUrl = sourceUrl(sourceId);
-    const html = await fetchText(listUrl);
+    const html = await fetchChinesePage(listUrl);
     const fetchedAt = new Date().toISOString();
     const links = uniqueByUrl(htmlLinks(html, listUrl)
         .filter((link) => /\/(gzdt|gztz|zcfg)\/art\/20\d{2}\/art_[^/]+\.html$/.test(link.url))

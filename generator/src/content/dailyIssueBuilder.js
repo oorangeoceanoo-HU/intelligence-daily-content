@@ -1,6 +1,6 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
-exports.getDailyIssueSelectionBand = exports.defaultDailyIssueSizingRules = void 0;
+exports.calculateDailyIssuePageCount = exports.getDailyIssueSelectionBand = exports.defaultDailyIssueSizingRules = void 0;
 exports.buildDailyIssue = buildDailyIssue;
 const importanceWeight = {
     S: 400,
@@ -22,8 +22,8 @@ const sectionWeight = {
 };
 exports.defaultDailyIssueSizingRules = {
     minimumCards: 15,
-    comfortableMaxCards: 24,
-    absoluteMaxCards: 30,
+    comfortableMaxCards: 20,
+    absoluteMaxCards: 24,
     standardMinScore: 52,
     exceptionalMinScore: 68
 };
@@ -220,6 +220,18 @@ const orderedForReading = (cards) => [...cards].sort((a, b) => {
     }
     return sectionWeight[b.section] - sectionWeight[a.section];
 });
+const calculateDailyIssuePageCount = (cardCount) => {
+    if (cardCount <= 0) {
+        return 0;
+    }
+    // Prefer five to eight cards per page. A nine-card quiet day stays on one
+    // page rather than creating a sparse second page with only four cards.
+    if (cardCount <= 9) {
+        return 1;
+    }
+    return Math.min(3, Math.max(2, Math.ceil(cardCount / 8)));
+};
+exports.calculateDailyIssuePageCount = calculateDailyIssuePageCount;
 function buildDailyIssue(params) {
     const generatedAt = params.generatedAt ?? new Date().toISOString();
     const explicitMaxCards = params.maxCards
@@ -238,8 +250,7 @@ function buildDailyIssue(params) {
     const cards = orderedForReading(selectedResult.selected.map((item) => markBackgroundFiller(item.card, params.date)));
     const totalChars = cards.reduce((sum, card) => sum + cardTextLength(card), 0);
     const estimatedReadMinutes = cards.length ? Math.max(1, Math.ceil(totalChars / 450)) : 0;
-    // Keep up to three balanced newspaper pages while allowing the daily total to vary.
-    const pageCount = cards.length ? Math.min(3, Math.max(1, Math.ceil(cards.length / 6))) : 0;
+    const pageCount = (0, exports.calculateDailyIssuePageCount)(cards.length);
     const topCard = cards.find((card) => card.importance === "S") ?? cards[0];
     return {
         issue: {
@@ -251,7 +262,11 @@ function buildDailyIssue(params) {
             pageCount,
             topCardId: topCard?.id,
             generatedAt,
-            pushSlots: params.pushSlots ?? ["08:30", "12:30", "21:30"]
+            pushSlots: params.pushSlots ?? ["07:30", "12:30", "21:30"],
+            edition: params.edition,
+            editionLabel: params.editionLabel,
+            coverageWindow: params.coverageWindow,
+            basedOnGeneratedAt: params.basedOnGeneratedAt
         },
         stats: {
             inputCardCount: params.publishableCards.length,

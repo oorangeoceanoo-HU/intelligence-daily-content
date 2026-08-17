@@ -1,6 +1,6 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
-exports.fetchXinhuaTechRawItems = exports.fetchXinhuaWorldRawItems = exports.normalizeRawFetchSourceId = void 0;
+exports.isUsefulCityDiscoveryItem = exports.fetchXinhuaTechRawItems = exports.fetchXinhuaWorldRawItems = exports.normalizeRawFetchSourceId = exports.fetchTextWithLegacyTls = void 0;
 exports.fetchArxivRawItems = fetchArxivRawItems;
 exports.fetchCasScienceRawItems = fetchCasScienceRawItems;
 exports.fetchMohurdConstructionRawItems = fetchMohurdConstructionRawItems;
@@ -8,6 +8,11 @@ exports.fetchGdacsRawItems = fetchGdacsRawItems;
 exports.fetchGovPolicyRawItems = fetchGovPolicyRawItems;
 exports.fetchMemRawItems = fetchMemRawItems;
 exports.fetchCacRawItems = fetchCacRawItems;
+exports.fetchRssRawItems = fetchRssRawItems;
+exports.fetchCityNewsRawItems = fetchCityNewsRawItems;
+exports.fetchCityContentSource = fetchCityContentSource;
+exports.fetchMfaRawItems = fetchMfaRawItems;
+exports.fetchMofcomTradeRawItems = fetchMofcomTradeRawItems;
 exports.fetchMoeRawItems = fetchMoeRawItems;
 exports.fetchChrmRawItems = fetchChrmRawItems;
 exports.fetchStatsDataRawItems = fetchStatsDataRawItems;
@@ -17,8 +22,10 @@ exports.fetchReliefWebRawItems = fetchReliefWebRawItems;
 exports.fetchRawContentSource = fetchRawContentSource;
 exports.fetchRawContentSources = fetchRawContentSources;
 const sourceRegistry_1 = require("./sourceRegistry");
-const userAgent = "intelligence-daily-app/0.1 local-prototype";
+const userAgent = "Mozilla/5.0";
 const defaultTimeoutMs = 45000;
+const delay = (milliseconds) => new Promise((resolve) => setTimeout(resolve, milliseconds));
+const env = (name) => process.env?.[name]?.trim() || undefined;
 const sourceAliases = {
     arxiv: "arxiv-cs-api",
     cas: "cas-science-news",
@@ -34,6 +41,23 @@ const sourceAliases = {
     cyberspace: "cac-cn",
     world: "xinhua-world",
     xinhua: "xinhua-world",
+    bbc: "bbc-world-rss",
+    "bbc-world": "bbc-world-rss",
+    "bbc-business": "bbc-business-rss",
+    "bbc-tech": "bbc-technology-rss",
+    npr: "npr-world-rss",
+    sky: "sky-world-rss",
+    "france24-middle-east": "france24-middle-east-rss",
+    "france24-asia": "france24-asia-pacific-rss",
+    wsj: "wsj-world-rss",
+    cnbc: "cnbc-world-rss",
+    un: "un-news-rss",
+    "un-news": "un-news-rss",
+    mfa: "mfa-cn-news",
+    foreign: "mfa-cn-news",
+    trade: "mofcom-trade",
+    openai: "openai-news",
+    deepmind: "deepmind-blog",
     tech: "xinhua-tech",
     education: "moe-cn",
     moe: "moe-cn",
@@ -45,6 +69,13 @@ const sourceAliases = {
     consumer: "mofcom-consumption",
     consumption: "mofcom-consumption",
     mofcom: "mofcom-consumption",
+    huggingface: "huggingface-blog",
+    "huggingface-blog": "huggingface-blog",
+    techcrunch: "techcrunch-ai-rss",
+    "techcrunch-ai": "techcrunch-ai-rss",
+    "techcrunch-ai-rss": "techcrunch-ai-rss",
+    theverge: "theverge-ai-rss",
+    "theverge-ai": "theverge-ai-rss",
     gdelt: "gdelt-doc-api",
     reliefweb: "reliefweb-api",
     "arxiv-cs-api": "arxiv-cs-api",
@@ -56,10 +87,25 @@ const sourceAliases = {
     "cac-cn": "cac-cn",
     "xinhua-world": "xinhua-world",
     "xinhua-tech": "xinhua-tech",
+    "bbc-world-rss": "bbc-world-rss",
+    "bbc-business-rss": "bbc-business-rss",
+    "bbc-technology-rss": "bbc-technology-rss",
+    "npr-world-rss": "npr-world-rss",
+    "sky-world-rss": "sky-world-rss",
+    "france24-middle-east-rss": "france24-middle-east-rss",
+    "france24-asia-pacific-rss": "france24-asia-pacific-rss",
+    "wsj-world-rss": "wsj-world-rss",
+    "cnbc-world-rss": "cnbc-world-rss",
+    "un-news-rss": "un-news-rss",
+    "mfa-cn-news": "mfa-cn-news",
+    "mofcom-trade": "mofcom-trade",
+    "openai-news": "openai-news",
+    "deepmind-blog": "deepmind-blog",
     "moe-cn": "moe-cn",
     "chrm-mohrss": "chrm-mohrss",
     "stats-cn-data": "stats-cn-data",
     "mofcom-consumption": "mofcom-consumption",
+    "theverge-ai-rss": "theverge-ai-rss",
     "gdelt-doc-api": "gdelt-doc-api",
     "reliefweb-api": "reliefweb-api"
 };
@@ -88,6 +134,10 @@ const tagRawText = (block, tagName) => {
     const match = block.match(pattern);
     return match ? decodeXmlEntities(match[1]).replace(/\s+/g, " ").trim() : undefined;
 };
+const tagAttribute = (block, tagName, attribute) => {
+    const pattern = new RegExp(`<${escapeRegExp(tagName)}\\b[^>]*\\b${escapeRegExp(attribute)}=["']([^"']+)["'][^>]*>`, "i");
+    return pattern.exec(block)?.[1];
+};
 const blocksByTag = (xml, tagName) => {
     const pattern = new RegExp(`<${escapeRegExp(tagName)}(?:\\s[^>]*)?>[\\s\\S]*?<\\/${escapeRegExp(tagName)}>`, "gi");
     return xml.replace(/^\uFEFF/, "").match(pattern) ?? [];
@@ -112,7 +162,16 @@ const compactText = (value, maxLength = 600) => {
     }
     return `${normalized.slice(0, maxLength).trim()}...`;
 };
-const sourceName = (sourceId) => sourceRegistry_1.sourceRegistry.find((source) => source.id === sourceId)?.name ?? sourceId;
+const sourceName = (sourceId) => {
+    const configured = sourceRegistry_1.sourceRegistry.find((source) => source.id === sourceId)?.name;
+    if (configured) {
+        return configured;
+    }
+    if (sourceId.startsWith("city-news-rss:")) {
+        return `城市新闻发现：${decodeURIComponent(sourceId.slice("city-news-rss:".length))}`;
+    }
+    return sourceId;
+};
 const sourceUrl = (sourceId) => sourceRegistry_1.sourceRegistry.find((source) => source.id === sourceId)?.url ?? "";
 const stableHash = (value) => {
     let hash = 2166136261;
@@ -177,6 +236,7 @@ const fetchTextWithLegacyTls = async (url, timeoutMs = defaultTimeoutMs) => new 
         request.destroy(new Error("Request timed out"));
     });
 });
+exports.fetchTextWithLegacyTls = fetchTextWithLegacyTls;
 const absoluteUrl = (href, baseUrl) => {
     try {
         return new URL(href, baseUrl).toString();
@@ -220,6 +280,13 @@ const dateFromCompactUrl = (url) => {
         return undefined;
     }
     return `${match[1]}-${match[2]}-${match[3]}T00:00:00+08:00`;
+};
+const dateFromSlashUrl = (url) => {
+    const match = url.match(/\/(20\d{2})\/(\d{1,2})\/(\d{1,2})(?:\/|_|\.|$)/);
+    if (!match) {
+        return undefined;
+    }
+    return `${match[1]}-${match[2].padStart(2, "0")}-${match[3].padStart(2, "0")}T00:00:00+08:00`;
 };
 const uniqueByUrl = (items) => {
     const seen = new Set();
@@ -484,6 +551,325 @@ const fetchXinhuaWorldRawItems = (limit) => fetchXinhuaListRawItems("xinhua-worl
 exports.fetchXinhuaWorldRawItems = fetchXinhuaWorldRawItems;
 const fetchXinhuaTechRawItems = (limit) => fetchXinhuaListRawItems("xinhua-tech", limit, /AI|人工智能|大模型|模型|机器人|自动驾驶|芯片|6G|量子|脑机|视频|产品|技术|科研|研发|应用|数据|电池|新药|具身智能/);
 exports.fetchXinhuaTechRawItems = fetchXinhuaTechRawItems;
+const rssSourceIds = [
+    "bbc-world-rss",
+    "bbc-business-rss",
+    "bbc-technology-rss",
+    "npr-world-rss",
+    "sky-world-rss",
+    "france24-middle-east-rss",
+    "france24-asia-pacific-rss",
+    "wsj-world-rss",
+    "cnbc-world-rss",
+    "un-news-rss",
+    "huggingface-blog",
+    "techcrunch-ai-rss",
+    "theverge-ai-rss",
+    "openai-news",
+    "deepmind-blog"
+];
+const rssLanguage = {
+    "bbc-world-rss": "en",
+    "bbc-business-rss": "en",
+    "bbc-technology-rss": "en",
+    "npr-world-rss": "en",
+    "sky-world-rss": "en",
+    "france24-middle-east-rss": "en",
+    "france24-asia-pacific-rss": "en",
+    "wsj-world-rss": "en",
+    "cnbc-world-rss": "en",
+    "un-news-rss": "en",
+    "huggingface-blog": "en",
+    "techcrunch-ai-rss": "en",
+    "theverge-ai-rss": "en",
+    "openai-news": "en",
+    "deepmind-blog": "en"
+};
+async function fetchRssRawItems(sourceId, limit) {
+    let xml;
+    try {
+        xml = await fetchText(sourceUrl(sourceId));
+    }
+    catch (error) {
+        if (!sourceId.startsWith("bbc-") && sourceId !== "huggingface-blog") {
+            throw error;
+        }
+        xml = await (0, exports.fetchTextWithLegacyTls)(sourceUrl(sourceId));
+    }
+    const fetchedAt = new Date().toISOString();
+    const blocks = blocksByTag(xml, "item");
+    const entries = blocks.length ? blocks : blocksByTag(xml, "entry");
+    return entries.slice(0, limit).map((entry, index) => {
+        const title = tagText(entry, "title") ?? `Untitled ${sourceName(sourceId)} item`;
+        const url = tagText(entry, "link") ??
+            tagAttribute(entry, "link", "href") ??
+            tagText(entry, "guid") ??
+            sourceUrl(sourceId);
+        const description = tagRawText(entry, "description") ??
+            tagRawText(entry, "summary") ??
+            tagRawText(entry, "content:encoded") ??
+            tagRawText(entry, "content");
+        const imageUrl = tagAttribute(entry, "media:content", "url") ??
+            tagAttribute(entry, "media:thumbnail", "url") ??
+            tagAttribute(entry, "enclosure", "url");
+        return {
+            id: makeId(sourceId, url || title, index),
+            sourceId,
+            title,
+            url,
+            publishedAt: asIsoDate(tagText(entry, "pubDate") ??
+                tagText(entry, "published") ??
+                tagText(entry, "dc:date") ??
+                tagText(entry, "updated")),
+            updatedAt: asIsoDate(tagText(entry, "updated")),
+            language: rssLanguage[sourceId],
+            summaryFromSource: compactText(stripTags(description ?? "")),
+            rawText: stripTags(description ?? ""),
+            imageUrls: imageUrl ? [imageUrl] : [],
+            fetchedAt
+        };
+    }).filter((item) => !(sourceId === "cnbc-world-rss" &&
+        /\bCNBC\s+Daily\s+Open\b/iu.test(item.title)));
+}
+const citySourceIdFor = (country, city) => `city-news-rss:${encodeURIComponent(`${country}-${city}`)}`;
+const fetchNewsRssText = async (url) => {
+    const controller = new AbortController();
+    const timeoutId = setTimeout(() => controller.abort(), defaultTimeoutMs);
+    try {
+        const response = await fetch(url, {
+            headers: { "User-Agent": userAgent },
+            signal: controller.signal
+        });
+        const text = await response.text();
+        if (!response.ok) {
+            throw new Error(`HTTP ${response.status}: ${compactText(text, 160) ?? response.statusText}`);
+        }
+        return text;
+    }
+    finally {
+        clearTimeout(timeoutId);
+    }
+};
+const isUsefulCityDiscoveryItem = (title, url, city) => {
+    const normalizedTitle = title.replace(/\s+/gu, " ").trim();
+    const blocked = /百科|旅游|景点|攻略|地图|天气|知乎|小红书|博客|招聘|课程/iu.test(normalizedTitle) ||
+        /baike\.baidu|map\.baidu|zhihu\.com|xiaohongshu\.com|weather\.com/iu.test(url);
+    if (blocked) {
+        return false;
+    }
+    const decisionRelevant = /政策|规划|条例|办法|通知|试点|项目|建设|开通|高速|交通|地铁|道路|医院|医疗|教育|学校|就业|人才|社保|住房|服务业|消费|产业|企业|营商|治理|环保|污水|公共服务|台风|暴雨|洪水|地震|山火|预警|应急响应|事故|停水|停电|道路封闭/iu.test(normalizedTitle);
+    return normalizedTitle.includes(city) && normalizedTitle.length >= 8 && normalizedTitle.length <= 90 && decisionRelevant;
+};
+exports.isUsefulCityDiscoveryItem = isUsefulCityDiscoveryItem;
+const cityOfficialPageUrls = (city) => {
+    const configured = env("CONTENT_CITY_OFFICIAL_URLS_JSON");
+    if (configured) {
+        try {
+            const map = JSON.parse(configured);
+            if (Array.isArray(map[city])) {
+                return map[city];
+            }
+        }
+        catch {
+            // Ignore malformed optional configuration and use the built-in defaults.
+        }
+    }
+    return {
+        上海: ["https://www.shanghai.gov.cn/"],
+        杭州: ["https://www.hangzhou.gov.cn/"]
+    }[city] ?? [];
+};
+const dateFromPageText = (value) => {
+    const match = value.match(/(20\d{2})[年\-/](\d{1,2})[月\-/](\d{1,2})/u);
+    if (!match) {
+        return undefined;
+    }
+    return `${match[1]}-${match[2].padStart(2, "0")}-${match[3].padStart(2, "0")}T00:00:00+08:00`;
+};
+const fetchCityOfficialRawItems = async (country, city, limit, sourceId) => {
+    if (country !== "中国") {
+        return [];
+    }
+    const links = [];
+    for (const pageUrl of cityOfficialPageUrls(city)) {
+        try {
+            const html = await fetchText(pageUrl);
+            links.push(...htmlLinks(html, pageUrl)
+                .filter((link) => (0, exports.isUsefulCityDiscoveryItem)(link.title, link.url, city)));
+        }
+        catch {
+            continue;
+        }
+    }
+    const selectedLinks = uniqueByUrl(links).slice(0, Math.min(limit, 10));
+    return Promise.all(selectedLinks.map(async (link, index) => {
+        let publishedAt = dateFromCompactUrl(link.url) ?? dateFromSlashUrl(link.url) ?? dateFromPageText(link.title);
+        let summary = link.title;
+        if (!publishedAt) {
+            try {
+                const article = await fetchText(link.url);
+                publishedAt = dateFromPageText(article);
+                summary = compactText(stripTags(article)) ?? link.title;
+            }
+            catch {
+                // The link remains a discovery result but is excluded from edition filtering without a date.
+            }
+        }
+        return {
+            id: makeId(sourceId, link.url, index),
+            sourceId,
+            title: link.title,
+            url: link.url,
+            publishedAt,
+            language: "zh",
+            summaryFromSource: compactText(summary),
+            rawText: summary,
+            imageUrls: [],
+            fetchedAt: new Date().toISOString(),
+            localCity: city,
+            originalLanguage: "zh",
+            translationStatus: "not-needed"
+        };
+    })).then((items) => items.filter((item) => Boolean(item.publishedAt)));
+};
+async function fetchCityNewsRawItems(country, city, limit) {
+    const sourceId = citySourceIdFor(country, city);
+    const query = `${country} ${city} 政策 灾害 交通 公共服务`;
+    const template = env("CONTENT_CITY_NEWS_RSS_TEMPLATE");
+    const configuredUrl = template
+        ?.replaceAll("{query}", encodeURIComponent(query))
+        .replaceAll("{country}", encodeURIComponent(country))
+        .replaceAll("{city}", encodeURIComponent(city));
+    const urls = configuredUrl
+        ? [configuredUrl]
+        : [
+            `https://www.bing.com/search?q=${encodeURIComponent(query)}&format=rss&setlang=zh-cn`,
+            `https://news.google.com/rss/search?q=${encodeURIComponent(query)}&hl=zh-CN&gl=CN&ceid=CN:zh-Hans`
+        ];
+    const fetchedAt = new Date().toISOString();
+    const officialItems = await fetchCityOfficialRawItems(country, city, limit, sourceId);
+    const entries = [];
+    const errors = [];
+    for (const url of urls) {
+        try {
+            let xml;
+            try {
+                xml = await fetchNewsRssText(url);
+            }
+            catch {
+                xml = await (0, exports.fetchTextWithLegacyTls)(url);
+            }
+            entries.push(...blocksByTag(xml, "item"));
+            if (entries.length >= Math.min(limit, 5)) {
+                break;
+            }
+        }
+        catch (error) {
+            errors.push(error instanceof Error ? error.message : String(error));
+        }
+    }
+    if (!entries.length && !officialItems.length && errors.length) {
+        throw new Error(`All city-news discovery feeds failed: ${errors.join(" | ")}`);
+    }
+    const searchItems = entries
+        .map((entry, index) => {
+        const title = tagText(entry, "title") ?? `${city}本地新闻`;
+        const link = tagText(entry, "link") ?? urls[0];
+        const description = tagRawText(entry, "description");
+        return {
+            id: makeId(sourceId, link || title, index),
+            sourceId,
+            title,
+            url: link,
+            publishedAt: asIsoDate(tagText(entry, "pubDate")),
+            language: "zh",
+            summaryFromSource: compactText(stripTags(description ?? "")),
+            rawText: stripTags(description ?? ""),
+            imageUrls: [],
+            fetchedAt,
+            localCity: city,
+            originalLanguage: "zh",
+            translationStatus: "not-needed"
+        };
+    })
+        .filter((item) => (0, exports.isUsefulCityDiscoveryItem)(item.title, item.url, city));
+    return uniqueByUrl([...officialItems, ...searchItems]).slice(0, limit);
+}
+async function fetchCityContentSource(country, city, limit) {
+    const sourceId = citySourceIdFor(country, city);
+    const fetchedAt = new Date().toISOString();
+    try {
+        return {
+            sourceId,
+            sourceName: `城市新闻发现：${city}`,
+            ok: true,
+            fetchedAt,
+            items: await fetchCityNewsRawItems(country, city, limit),
+            note: "城市新闻发现源；政策和风险内容仍需官方或主流来源确认。"
+        };
+    }
+    catch (error) {
+        return {
+            sourceId,
+            sourceName: `城市新闻发现：${city}`,
+            ok: false,
+            fetchedAt,
+            items: [],
+            error: error instanceof Error ? error.message : String(error),
+            note: "城市发现源暂时不可用，不能把城市字段当作已完成覆盖。"
+        };
+    }
+}
+async function fetchMfaRawItems(limit) {
+    const sourceId = "mfa-cn-news";
+    const listUrl = sourceUrl(sourceId);
+    const html = await fetchText(listUrl);
+    const fetchedAt = new Date().toISOString();
+    const links = uniqueByUrl(htmlLinks(html, listUrl)
+        .filter((link) => /\/fyrbt_674889\/20\d{4}\/t20\d{6}_\d+\.shtml$/u.test(link.url))).slice(0, limit);
+    return links.map((link, index) => ({
+        id: makeId(sourceId, link.url, index),
+        sourceId,
+        title: link.title,
+        url: link.url,
+        publishedAt: dateFromMoeUrl(link.url),
+        language: "zh",
+        summaryFromSource: "中国外交部官方信息，用于核对国际重大事件中的中国立场、领事提醒和外交政策变化。",
+        rawText: link.title,
+        imageUrls: [],
+        fetchedAt
+    }));
+}
+async function fetchMofcomTradeRawItems(limit) {
+    const sourceId = "mofcom-trade";
+    const listUrl = sourceUrl(sourceId);
+    const html = await fetchText(listUrl);
+    const fetchedAt = new Date().toISOString();
+    const links = [...html.matchAll(/<li\b[^>]*>[\s\S]*?<a\b[^>]*href=["'](?<href>[^"']+)["'][^>]*>(?<title>[\s\S]*?)<\/a>\s*<span[^>]*>\[?(?<date>20\d{2}-\d{2}-\d{2})\]?<\/span>[\s\S]*?<\/li>/giu)]
+        .map((match) => ({
+        title: stripTags(match.groups?.title ?? ""),
+        url: absoluteUrl(match.groups?.href ?? "", listUrl) ?? listUrl,
+        date: match.groups?.date
+    }))
+        .filter((link) => /\/xwfb\/[^?#]*\/art\/20\d{2}\/[^?#]*\.html$/u.test(link.url))
+        .filter((link) => /关税|外贸|贸易|出口|进口|制裁|投资|经贸|跨境|海关|航运|能源|市场|谈判|管制|实体清单|新闻发布会/u.test(link.title))
+        .sort((left, right) => (right.date ?? "").localeCompare(left.date ?? ""))
+        .slice(0, limit);
+    return links.map((link, index) => ({
+        id: makeId(sourceId, link.url, index),
+        sourceId,
+        title: link.title,
+        url: link.url,
+        publishedAt: link.date
+            ? `${link.date}T00:00:00+08:00`
+            : dateFromSlashUrl(link.url) ?? dateFromChineseListText(link.title),
+        language: "zh",
+        summaryFromSource: "商务部官方信息，用于确认关税、外贸、出口管制、跨境电商和对外经贸政策。",
+        rawText: link.title,
+        imageUrls: [],
+        fetchedAt
+    }));
+}
 async function fetchMoeRawItems(limit) {
     const sourceId = "moe-cn";
     const listUrl = "https://www.moe.gov.cn/jyb_xwfb/s5147/";
@@ -509,7 +895,7 @@ async function fetchMoeRawItems(limit) {
 async function fetchChrmRawItems(limit) {
     const sourceId = "chrm-mohrss";
     const listUrl = sourceUrl(sourceId);
-    const html = await fetchTextWithLegacyTls(listUrl);
+    const html = await (0, exports.fetchTextWithLegacyTls)(listUrl);
     const fetchedAt = new Date().toISOString();
     const links = htmlLinks(html, listUrl)
         .filter((link) => link.url.includes("/announcement/") && /20\d{2}-\d{2}-\d{2}/.test(link.title))
@@ -572,22 +958,49 @@ async function fetchMofcomConsumptionRawItems(limit) {
         };
     });
 }
-async function fetchGdeltRawItems(limit, query = "\"artificial intelligence\"") {
+async function fetchGdeltRawItems(limit) {
     const sourceId = "gdelt-doc-api";
-    const params = new URLSearchParams({
-        query,
-        mode: "ArtList",
-        format: "json",
-        maxrecords: String(limit),
-        sort: "datedesc"
-    });
-    const text = await fetchText(`${sourceUrl(sourceId)}?${params.toString()}`);
     const fetchedAt = new Date().toISOString();
-    if (!text.trim().startsWith("{")) {
-        throw new Error(compactText(text, 180) ?? "GDELT returned a non-JSON response");
+    const queries = [
+        "(war OR conflict OR ceasefire OR sanctions OR tariff OR election OR president OR shipping OR Hormuz)",
+        "(China AND (trade OR customs OR tariff OR export OR sanctions OR shipping OR policy))",
+        "(earthquake OR typhoon OR flood OR wildfire OR disaster)",
+        "(artificial intelligence OR AI OR model OR semiconductor OR chip)"
+    ];
+    const responses = [];
+    for (const [index, query] of queries.entries()) {
+        if (index > 0) {
+            await delay(5200);
+        }
+        try {
+            const params = new URLSearchParams({
+                query,
+                mode: "ArtList",
+                format: "json",
+                maxrecords: String(limit),
+                sort: "datedesc"
+            });
+            const text = await fetchText(`${sourceUrl(sourceId)}?${params.toString()}`);
+            if (!text.trim().startsWith("{")) {
+                throw new Error(compactText(text, 180) ?? "GDELT returned a non-JSON response");
+            }
+            const json = JSON.parse(text);
+            responses.push({ status: "fulfilled", value: json.articles ?? [] });
+        }
+        catch (error) {
+            responses.push({ status: "rejected", reason: error });
+        }
     }
-    const json = JSON.parse(text);
-    return (json.articles ?? []).slice(0, limit).map((article, index) => {
+    const articles = responses
+        .filter((result) => result.status === "fulfilled")
+        .flatMap((result) => result.value);
+    if (!articles.length) {
+        const firstFailure = responses.find((result) => result.status === "rejected");
+        throw firstFailure?.reason instanceof Error
+            ? firstFailure.reason
+            : new Error("GDELT returned no articles for any discovery query");
+    }
+    const items = articles.map((article, index) => {
         const title = article.title ?? "Untitled GDELT article";
         const url = article.url ?? sourceUrl(sourceId);
         return {
@@ -602,11 +1015,16 @@ async function fetchGdeltRawItems(limit, query = "\"artificial intelligence\"") 
             fetchedAt
         };
     });
+    return uniqueByUrl(items);
 }
 async function fetchReliefWebRawItems(limit) {
     const sourceId = "reliefweb-api";
+    const appName = env("CONTENT_RELIEFWEB_APPNAME");
+    if (!appName) {
+        throw new Error("ReliefWeb requires an approved CONTENT_RELIEFWEB_APPNAME");
+    }
     const params = new URLSearchParams({
-        appname: "intelligence-daily-app",
+        appname: appName,
         limit: String(limit),
         preset: "latest",
         profile: "list"
@@ -645,14 +1063,54 @@ async function fetchRawContentSource(sourceId, limit) {
             "cac-cn": fetchCacRawItems,
             "xinhua-world": exports.fetchXinhuaWorldRawItems,
             "xinhua-tech": exports.fetchXinhuaTechRawItems,
+            "bbc-world-rss": (itemLimit) => fetchRssRawItems("bbc-world-rss", itemLimit),
+            "bbc-business-rss": (itemLimit) => fetchRssRawItems("bbc-business-rss", itemLimit),
+            "bbc-technology-rss": (itemLimit) => fetchRssRawItems("bbc-technology-rss", itemLimit),
+            "npr-world-rss": (itemLimit) => fetchRssRawItems("npr-world-rss", itemLimit),
+            "sky-world-rss": (itemLimit) => fetchRssRawItems("sky-world-rss", itemLimit),
+            "france24-middle-east-rss": (itemLimit) => fetchRssRawItems("france24-middle-east-rss", itemLimit),
+            "france24-asia-pacific-rss": (itemLimit) => fetchRssRawItems("france24-asia-pacific-rss", itemLimit),
+            "wsj-world-rss": (itemLimit) => fetchRssRawItems("wsj-world-rss", itemLimit),
+            "cnbc-world-rss": (itemLimit) => fetchRssRawItems("cnbc-world-rss", itemLimit),
+            "un-news-rss": (itemLimit) => fetchRssRawItems("un-news-rss", itemLimit),
+            "mfa-cn-news": fetchMfaRawItems,
+            "mofcom-trade": fetchMofcomTradeRawItems,
+            "openai-news": (itemLimit) => fetchRssRawItems("openai-news", itemLimit),
+            "deepmind-blog": (itemLimit) => fetchRssRawItems("deepmind-blog", itemLimit),
             "moe-cn": fetchMoeRawItems,
             "chrm-mohrss": fetchChrmRawItems,
             "stats-cn-data": fetchStatsDataRawItems,
             "mofcom-consumption": fetchMofcomConsumptionRawItems,
+            "huggingface-blog": (itemLimit) => fetchRssRawItems("huggingface-blog", itemLimit),
+            "techcrunch-ai-rss": (itemLimit) => fetchRssRawItems("techcrunch-ai-rss", itemLimit),
+            "theverge-ai-rss": (itemLimit) => fetchRssRawItems("theverge-ai-rss", itemLimit),
             "gdelt-doc-api": fetchGdeltRawItems,
             "reliefweb-api": fetchReliefWebRawItems
         };
-        const items = await fetchers[sourceId](limit);
+        const fetcher = fetchers[sourceId];
+        let items;
+        let lastError;
+        // Some international feeds reset a connection under concurrent access but
+        // succeed in isolation. Retry those transient failures before declaring a
+        // lane unavailable in the audit report.
+        for (let attempt = 0; attempt < 3; attempt += 1) {
+            try {
+                items = await fetcher(limit);
+                break;
+            }
+            catch (error) {
+                lastError = error;
+                const message = error instanceof Error ? error.message : String(error);
+                const transientNetworkFailure = /timed out|fetch failed|socket|network|ECONN|ENOTFOUND/iu.test(message);
+                if (!transientNetworkFailure || attempt === 2) {
+                    throw error;
+                }
+                await delay(700 * (attempt + 1));
+            }
+        }
+        if (!items) {
+            throw lastError instanceof Error ? lastError : new Error(String(lastError ?? "Source returned no result"));
+        }
         return {
             sourceId,
             sourceName: sourceName(sourceId),
@@ -673,9 +1131,16 @@ async function fetchRawContentSource(sourceId, limit) {
     }
 }
 async function fetchRawContentSources(sourceIds, limit) {
-    const results = [];
-    for (const sourceId of sourceIds) {
-        results.push(await fetchRawContentSource(sourceId, limit));
-    }
+    const results = new Array(sourceIds.length);
+    let nextIndex = 0;
+    const concurrency = Math.min(4, sourceIds.length);
+    const worker = async () => {
+        while (nextIndex < sourceIds.length) {
+            const index = nextIndex;
+            nextIndex += 1;
+            results[index] = await fetchRawContentSource(sourceIds[index], limit);
+        }
+    };
+    await Promise.all(Array.from({ length: concurrency }, worker));
     return results;
 }

@@ -115,6 +115,14 @@ const trustComponent = (candidate) => {
     const multiSourceBonus = sources.length > 1 ? 8 : 0;
     return clampScore(trustAverage * 16 + multiSourceBonus);
 };
+const majorEventSignal = (candidate) => {
+    const text = `${candidate.title} ${candidate.oneLine} ${candidate.body.keyProgress}`.toLowerCase();
+    const isInternational = candidate.categories.includes("world");
+    const systemicKeyword = /战争|冲突升级|停火破裂|霍尔木兹|海峡通航|关税|制裁|总统(?:辞职|下台|更迭)|政变|核设施|能源供应|航运中断|\bwar\b|\bconflict\b|ceasefire|strait of hormuz|tariff|sanction|coup|nuclear/u.test(text);
+    const majorDisaster = candidate.categories.includes("disaster") &&
+        (candidate.impactScore >= 85 || candidate.severityScore >= 82);
+    return (isInternational && systemicKeyword && candidate.impactScore >= 80) || majorDisaster;
+};
 const levelFromScore = (score) => {
     if (score >= 82) {
         return "S";
@@ -129,12 +137,14 @@ const levelFromScore = (score) => {
 };
 const scoreImportance = (candidate, relevanceScore) => {
     const sourceTrust = trustComponent(candidate);
-    const total = clampScore(candidate.impactScore * 0.28 +
+    const baseTotal = clampScore(candidate.impactScore * 0.28 +
         candidate.severityScore * 0.18 +
         relevanceScore.total * 0.22 +
         sourceTrust * 0.16 +
         candidate.freshnessScore * 0.1 +
         candidate.trendScore * 0.06);
+    const isMajorEvent = majorEventSignal(candidate);
+    const total = isMajorEvent ? Math.max(84, baseTotal) : baseTotal;
     const reasons = [
         `影响范围分 ${candidate.impactScore}`,
         `事件严重性分 ${candidate.severityScore}`,
@@ -142,6 +152,9 @@ const scoreImportance = (candidate, relevanceScore) => {
     ];
     if (candidate.trendScore >= 75) {
         reasons.push("具备趋势观察价值");
+    }
+    if (isMajorEvent) {
+        reasons.push("命中重大国际事件或重大灾害保底规则");
     }
     return {
         total,
@@ -182,6 +195,10 @@ const targetSectionForCandidate = (candidate, matchedLaneIds) => {
 };
 const credibilityForCandidate = (candidate) => {
     const sources = candidateSources(candidate);
+    const hasGovernmentLink = candidate.sourceLinks.some((source) => /^https?:\/\/(?:[\w-]+\.)*gov\.cn(?:\/|$)/iu.test(source.url));
+    if (hasGovernmentLink) {
+        return "官方来源";
+    }
     if (sources.some((source) => source.tier === "T0") && sources.length === 1) {
         return "官方来源";
     }

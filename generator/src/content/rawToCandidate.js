@@ -510,6 +510,19 @@ const xinhuaWorldProfile = (item) => {
     ]);
     const activePublicRisk = !historicalFeature &&
         /地震|洪水|台风|山火|爆炸|危机|干旱|已致\d+人死亡|造成\d+人(?:死亡|受伤)|多人(?:死亡|受伤)/u.test(text);
+    const systemicInternationalEvent = hasAny(text, [
+        "战争",
+        "冲突升级",
+        "霍尔木兹",
+        "海峡通航",
+        "关税",
+        "制裁",
+        "总统更迭",
+        "政变",
+        "核设施",
+        "能源供应",
+        "航运中断"
+    ]);
     let impactScore = 74;
     let severityScore = 55;
     if (historicalFeature) {
@@ -517,10 +530,10 @@ const xinhuaWorldProfile = (item) => {
         impactScore = 56;
         severityScore = 18;
     }
-    else if (hasAny(text, ["战争", "冲突", "停火", "袭击", "军事", "防务", "制裁", "关税", "法案", "政府", "选举"])) {
+    else if (hasAny(text, ["战争", "冲突", "停火", "袭击", "军事", "防务", "制裁", "关税", "法案", "政府", "选举", "霍尔木兹", "海峡"])) {
         categories.push("policy");
-        impactScore = 82;
-        severityScore = 68;
+        impactScore = systemicInternationalEvent ? 92 : 82;
+        severityScore = systemicInternationalEvent ? 78 : 68;
     }
     if (activePublicRisk) {
         categories.push("disaster", "publicSafety");
@@ -544,6 +557,160 @@ const xinhuaWorldProfile = (item) => {
                 ? `当前事件涉及：${locations.join("、")}。系统还需判断其与中国及用户关注方向的关联。`
                 : "这是一条全球性信息，是否展示主要取决于影响范围和严重程度。",
             whatToWatch: "后续关注官方表态、局势是否升级、多方确认和对中国外交、贸易或出行的影响。"
+        }
+    };
+};
+const internationalRssProfile = (item) => {
+    const text = textOf(item);
+    const locations = extractLocations(item);
+    const businessSource = item.sourceId === "bbc-business-rss" || item.sourceId === "cnbc-world-rss";
+    const officialMultilateral = item.sourceId === "un-news-rss";
+    const majorConflict = hasAny(text, [
+        "war",
+        "conflict",
+        "invasion",
+        "ceasefire",
+        "airstrike",
+        "missile",
+        "nuclear",
+        "strait of hormuz",
+        "regime",
+        "president resigns",
+        "coup",
+        "战争",
+        "冲突",
+        "停火",
+        "空袭",
+        "导弹",
+        "核设施",
+        "霍尔木兹",
+        "政权更迭",
+        "总统辞职",
+        "政变"
+    ]);
+    const chinaImpact = hasAny(text, [
+        "china",
+        "chinese",
+        "tariff",
+        "sanction",
+        "export control",
+        "shipping",
+        "oil price",
+        "energy",
+        "customs",
+        "trade",
+        "中国",
+        "关税",
+        "制裁",
+        "出口管制",
+        "航运",
+        "油价",
+        "能源",
+        "海关",
+        "贸易"
+    ]);
+    const disaster = hasAny(text, [
+        "earthquake",
+        "typhoon",
+        "cyclone",
+        "flood",
+        "wildfire",
+        "tsunami",
+        "humanitarian crisis",
+        "地震",
+        "台风",
+        "气旋",
+        "洪水",
+        "山火",
+        "海啸",
+        "人道危机"
+    ]);
+    const categories = ["world"];
+    if (majorConflict || chinaImpact || businessSource) {
+        categories.push("policy");
+    }
+    if (businessSource || chinaImpact) {
+        categories.push("finance", "operations");
+    }
+    if (disaster) {
+        categories.push("disaster", "publicSafety");
+    }
+    const industries = ["generalPublic"];
+    if (businessSource || chinaImpact) {
+        industries.push("financeInvestment", "operationsGrowth", "ecommerceRetail");
+    }
+    if (disaster) {
+        industries.push("localLife");
+    }
+    return {
+        categories: unique(categories),
+        industries: unique(industries),
+        regions: ["全球"],
+        locations,
+        impactScore: majorConflict ? 92 : chinaImpact ? 86 : disaster ? 84 : officialMultilateral ? 78 : 72,
+        severityScore: majorConflict ? 82 : disaster ? 80 : chinaImpact ? 58 : 45,
+        trendScore: businessSource || chinaImpact ? 72 : 54,
+        oneLine: "国际最新进展：这条英文来源需要完整整理为中文，并优先说明发生了什么变化、与中国的关系及后续风险。",
+        body: {
+            background: officialMultilateral
+                ? "联合国官方信息用于确认战争、人道危机、国际决议和跨国公共风险。"
+                : "国际主流媒体 RSS 用于补充全球突发、政策、贸易、能源和科技事件，不能单独替代事实确认。",
+            keyProgress: compact(item.summaryFromSource || item.rawText || item.title),
+            whyItMatters: "重大国际变化可能通过外交、贸易、关税、能源、航运、安全或市场预期影响中国用户。",
+            userRelevance: chinaImpact
+                ? "这条信息已经命中中国、贸易、关税、能源或航运关联，需要进入中国用户的重点复核。"
+                : "是否推送取决于事件影响范围、严重程度，以及它是否会影响中国或形成全球共同认知。",
+            whatToWatch: "继续核对官方表态和第二个可靠来源，并关注局势变化、政策生效时间及对中国的传导路径。"
+        }
+    };
+};
+const technologyRssProfile = (item) => {
+    const official = item.sourceId === "openai-news" || item.sourceId === "deepmind-blog";
+    return {
+        categories: ["ai", "technology", "product"],
+        industries: ["aiProduct", "aiTechnology", "productManagement", "technologyEngineering", "educationResearch"],
+        regions: ["全球"],
+        locations: extractLocations(item),
+        impactScore: official ? 80 : 72,
+        severityScore: 20,
+        trendScore: official ? 90 : 80,
+        oneLine: "AI 与科技最新动态：重点区分正式产品发布、模型能力变化、研究进展和普通行业讨论。",
+        body: {
+            background: official
+                ? "这是 AI 机构官方发布渠道，可用于确认产品、模型、研究和政策信息。"
+                : "国际科技主流媒体用于发现 AI、芯片、平台和科技产品变化。",
+            keyProgress: compact(item.summaryFromSource || item.rawText || item.title),
+            whyItMatters: "正式产品和技术变化可能影响 AI 产品设计、技术选型、行业竞争和职业判断。",
+            userRelevance: "对 AI 产品经理、产品经理、技术研发、科研和关注 AI 行业的用户更相关。",
+            whatToWatch: "后续核对官方文档、能力边界、发布时间、开放范围和真实用户影响。"
+        }
+    };
+};
+const chinaImpactOfficialProfile = (item) => {
+    const tradeRelated = item.sourceId === "mofcom-trade";
+    return {
+        categories: tradeRelated
+            ? ["world", "china", "policy", "finance", "operations", "ecommerce"]
+            : ["world", "china", "policy"],
+        industries: tradeRelated
+            ? ["generalPublic", "financeInvestment", "operationsGrowth", "ecommerceRetail", "consumerBrand"]
+            : ["generalPublic", "financeInvestment", "operationsGrowth"],
+        regions: ["中国", "全球"],
+        locations: extractLocations(item),
+        impactScore: tradeRelated ? 84 : 82,
+        severityScore: 48,
+        trendScore: 72,
+        oneLine: tradeRelated
+            ? "中国关联确认：商务部发布了对外贸易或经贸政策信息，重点看适用范围、生效时间和行业影响。"
+            : "中国关联确认：外交部发布了中国立场或领事信息，重点看它如何改变中国用户对国际事件的判断。",
+        body: {
+            background: tradeRelated
+                ? "商务部官方发布用于确认关税、外贸、出口管制、跨境电商和对外经贸政策。"
+                : "外交部官方发布用于确认重大国际事件中的中国立场、外交政策和领事提醒。",
+            keyProgress: compact(item.summaryFromSource || item.rawText || item.title),
+            whyItMatters: "这是判断国际事件是否会直接影响中国、贸易、行业经营或出行安全的重要确认来源。",
+            userRelevance: "作为中国用户，可据此判断事件与国内政策、贸易成本、企业经营或个人出行是否存在直接关联。",
+            whatToWatch: "继续关注后续正式文件、执行时间、适用对象和相关部门配套说明。"
         }
     };
 };
@@ -606,6 +773,44 @@ const reliefWebProfile = (item) => ({
     }
 });
 const profileForRawItem = (item) => {
+    if (item.sourceId.startsWith("city-news-rss:")) {
+        const text = textOf(item);
+        const isPublicRisk = hasAny(text, [
+            "灾害",
+            "台风",
+            "暴雨",
+            "洪水",
+            "地震",
+            "山火",
+            "预警",
+            "应急响应",
+            "事故",
+            "停水",
+            "停电",
+            "道路封闭"
+        ]);
+        const categories = ["local", "policy", "china"];
+        if (isPublicRisk) {
+            categories.push("publicSafety", "disaster");
+        }
+        return {
+            categories,
+            industries: ["localLife", "generalPublic", "operationsGrowth"],
+            regions: ["中国"],
+            locations: item.localCity ? [item.localCity] : [],
+            impactScore: isPublicRisk ? 76 : 64,
+            severityScore: isPublicRisk ? 68 : 24,
+            trendScore: 42,
+            oneLine: "本地变化：这条信息来自用户所在城市或家乡城市的新闻发现源，重点看是否存在政策、公共服务、交通或风险变化。",
+            body: {
+                background: `${item.localCity ?? "相关城市"}的本地新闻发现源汇总了近期公开报道，当前先用于发现可能影响居民和工作安排的变化。`,
+                keyProgress: compact(item.summaryFromSource || item.rawText || item.title),
+                whyItMatters: "城市政策、交通和公共安全变化可能直接影响出行、居住与工作安排；发现源只负责找到线索，正式判断还要看当地政府或主流媒体的原文。",
+                userRelevance: `如果你居住在${item.localCity ?? "该城市"}，或近期需要前往这里，可以优先确认这条消息是否涉及你的出行、居住、工作或家人安排。`,
+                whatToWatch: "后续重点确认当地政府、应急部门或主流媒体是否发布同一事件的正式信息。"
+            }
+        };
+    }
     if (item.sourceId === "arxiv-cs-api") {
         return arxivProfile(item);
     }
@@ -674,6 +879,25 @@ const profileForRawItem = (item) => {
     if (item.sourceId === "xinhua-world") {
         return xinhuaWorldProfile(item);
     }
+    if ([
+        "bbc-world-rss",
+        "bbc-business-rss",
+        "npr-world-rss",
+        "sky-world-rss",
+        "france24-middle-east-rss",
+        "france24-asia-pacific-rss",
+        "wsj-world-rss",
+        "cnbc-world-rss",
+        "un-news-rss"
+    ].includes(item.sourceId)) {
+        return internationalRssProfile(item);
+    }
+    if (["bbc-technology-rss", "openai-news", "deepmind-blog", "huggingface-blog", "techcrunch-ai-rss", "theverge-ai-rss"].includes(item.sourceId)) {
+        return technologyRssProfile(item);
+    }
+    if (item.sourceId === "mfa-cn-news" || item.sourceId === "mofcom-trade") {
+        return chinaImpactOfficialProfile(item);
+    }
     if (item.sourceId === "xinhua-tech") {
         return xinhuaTechProfile(item);
     }
@@ -730,10 +954,13 @@ function rawItemToCandidate(item) {
         publishedAt: item.publishedAt ?? item.updatedAt ?? "",
         sourceLinks: [
             {
-                title: sourceName(item.sourceId),
+                title: item.localCity ? `${item.localCity}本地公开信息` : sourceName(item.sourceId),
                 url: item.url,
                 sourceId: item.sourceId,
-                publishedAt: item.publishedAt
+                publishedAt: item.publishedAt,
+                language: item.language,
+                originalLanguage: item.originalLanguage ?? item.language,
+                translationStatus: item.translationStatus
             }
         ],
         images,
@@ -746,5 +973,7 @@ function rawItemToCandidate(item) {
     };
 }
 function rawItemsToCandidates(items) {
-    return items.map(rawItemToCandidate);
+    return items
+        .filter((item) => sourceRegistry_1.sourceRegistry.find((source) => source.id === item.sourceId)?.standaloneCandidate !== false)
+        .map(rawItemToCandidate);
 }

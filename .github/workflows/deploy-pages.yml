@@ -28,8 +28,10 @@ jobs:
       - name: Prepare public files
         run: |
           mkdir -p site/issues
+          mkdir -p site/editions
           cp latest.json site/latest.json
           cp issues/*.json site/issues/
+          cp -r editions/* site/editions/ 2>/dev/null || true
           node generator/scripts/createIssueManifest.js \
             --issues-directory issues \
             --output site/manifest.json

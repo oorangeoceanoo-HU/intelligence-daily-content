@@ -103,10 +103,7 @@ const repairRepetitionOrList = (card, actions) => {
     setTextField(actions, card.body, "keyProgress", contextualProgress(card), "改写关键进展");
 };
 const repairLeadBackground = (card, detail, actions) => {
-    if (!detail?.text) {
-        return;
-    }
-    const replacement = detail.text
+    const replacement = detail?.text
         .replace(/\s+/g, " ")
         .split(/(?<=[。！？；])/u)
         .map((sentence) => sentence.trim())
@@ -116,7 +113,17 @@ const repairLeadBackground = (card, detail, actions) => {
         .find((sentence) => !/^(一是|二是|三是|四是|五是|第[一二三四五六七八九十]+条)/.test(sentence));
     if (replacement) {
         setTextField(actions, card.body, "background", shortenToCompleteSentence(replacement, 220), "改用与导读不同的背景信息");
+        return;
     }
+    const officialRisk = card.credibility === "官方来源" && card.tags.some((tag) => ["risk", "disaster", "publicSafety"].includes(tag));
+    const location = card.title.match(/在([^开展处置支援]{2,16})(?:开展|处置|支援)/u)?.[1] ??
+        card.title.match(/支援([^，。；、]{2,16})/u)?.[1];
+    if (officialRisk && location) {
+        setTextField(actions, card.body, "background", `官方采取跨地区调派专业力量的方式支援${location}，当地排涝处置仍在持续推进。`, "压缩重复的官方风险背景");
+    }
+};
+const repairTitleLeadOverlap = (card, actions) => {
+    setTextField(actions, card, "oneLine", `最新进展：${stripFinalPunctuation(card.title)}。`, "补足导读与标题的事件对应关系");
 };
 const repairImages = (images, actions) => {
     const filtered = images.filter((image) => !noisyImagePattern.test(image.url));
@@ -142,13 +149,19 @@ function repairCardDraft(card, report, detail) {
     if (hasIssue(report, "list-fragment") || hasIssue(report, "body-repetition")) {
         repairRepetitionOrList(repairedCard, actions);
     }
-    if (hasIssue(report, "lead-background-repetition")) {
-        repairLeadBackground(repairedCard, detail, actions);
-    }
     if (hasIssue(report, "one-line-too-short") ||
         hasIssue(report, "background-too-short") ||
         hasIssue(report, "key-progress-too-short")) {
         repairShortFields(repairedCard, actions);
+    }
+    const reportAfterShortFieldRepair = actions.length
+        ? (0, cardDraftQuality_1.evaluateCardDraftQuality)(repairedCard, detail)
+        : report;
+    if (hasIssue(reportAfterShortFieldRepair, "lead-background-repetition")) {
+        repairLeadBackground(repairedCard, detail, actions);
+    }
+    if (hasIssue(reportAfterShortFieldRepair, "title-lead-low-overlap")) {
+        repairTitleLeadOverlap(repairedCard, actions);
     }
     if (hasIssue(report, "noisy-image")) {
         repairedCard.images = repairImages(repairedCard.images, actions);

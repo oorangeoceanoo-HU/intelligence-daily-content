@@ -62,11 +62,19 @@ const normalizeLine = (value) => stripTags(value)
     .replace(/[\u3000\xa0]/g, " ")
     .replace(/\s+/g, " ")
     .trim();
+const removeEmbeddedCaption = (line) => line
+    .replace(/^[^.!?]{0,180}\b(?:hide|toggle)\s+caption\b\s*/iu, "")
+    .replace(/^\s*(?:photo|image)\s*:\s*[^.!?]{0,140}[.!?]\s*/iu, "")
+    .replace(/^Posts from this author will be added to your daily email digest and your homepage feed\.\s*See All by\s+[^.]{1,120}\.?\s*/iu, "")
+    .trim();
 const isNoiseLine = (line) => {
     if (!line) {
         return true;
     }
     if (line.length < 12) {
+        return true;
+    }
+    if (/\b(?:hide|toggle)\s+caption\b|\badvertisement\b/iu.test(line)) {
         return true;
     }
     return /责任编辑|打印本页|关闭窗口|分享到|扫一扫|ICP备|网站地图|版权所有|上一篇|下一篇|相关链接|字体：|字号|来源：|发布时间：|浏览次数/.test(line);
@@ -76,7 +84,7 @@ const extractParagraphs = (html) => {
     const cleaned = removeNoisyBlocks(html);
     const paragraphMatches = [...cleaned.matchAll(/<(p|li)\b[^>]*>([\s\S]*?)<\/\1>/gi)];
     const paragraphLines = paragraphMatches
-        .map((match) => normalizeLine(match[2] ?? ""))
+        .map((match) => removeEmbeddedCaption(normalizeLine(match[2] ?? "")))
         .filter((line) => !isNoiseLine(line));
     if (paragraphLines.length >= 2) {
         return unique(paragraphLines);
@@ -116,7 +124,83 @@ const sliceFromIdToMarker = (html, id, endMarkers) => {
     const endIndex = endIndexes.length ? Math.min(...endIndexes) : remainder.length;
     return remainder.slice(0, endIndex);
 };
+const sliceElementByClassOrId = (html, value) => {
+    const escaped = value.replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
+    const startPattern = new RegExp(`<(?<tag>[a-z][a-z0-9]*)\\b[^>]*(?:class=["'][^"']*\\b${escaped}\\b[^"']*["']|id=["']${escaped}["'])[^>]*>`, "i");
+    const start = startPattern.exec(html);
+    const tag = start?.groups?.tag;
+    if (!start || !tag) {
+        return undefined;
+    }
+    const tokenPattern = new RegExp(`<\\/?${tag}\\b[^>]*>`, "gi");
+    tokenPattern.lastIndex = start.index;
+    let depth = 0;
+    let token;
+    while ((token = tokenPattern.exec(html))) {
+        const closing = token[0].startsWith("</");
+        const selfClosing = /\/\s*>$/u.test(token[0]);
+        if (closing) {
+            depth -= 1;
+            if (depth === 0) {
+                return html.slice(start.index, tokenPattern.lastIndex);
+            }
+        }
+        else if (!selfClosing) {
+            depth += 1;
+        }
+    }
+    return html.slice(start.index);
+};
+const sliceElementsByClass = (html, value) => {
+    const escaped = value.replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
+    const startPattern = new RegExp(`<(?<tag>[a-z][a-z0-9]*)\\b[^>]*class=["'][^"']*\\b${escaped}\\b[^"']*["'][^>]*>`, "gi");
+    const fragments = [];
+    let start;
+    while ((start = startPattern.exec(html))) {
+        const tag = start.groups?.tag;
+        if (!tag) {
+            continue;
+        }
+        const tokenPattern = new RegExp(`<\\/?${tag}\\b[^>]*>`, "gi");
+        tokenPattern.lastIndex = start.index;
+        let depth = 0;
+        let token;
+        while ((token = tokenPattern.exec(html))) {
+            const closing = token[0].startsWith("</");
+            const selfClosing = /\/\s*>$/u.test(token[0]);
+            if (closing) {
+                depth -= 1;
+                if (depth === 0) {
+                    fragments.push(html.slice(start.index, tokenPattern.lastIndex));
+                    startPattern.lastIndex = tokenPattern.lastIndex;
+                    break;
+                }
+            }
+            else if (!selfClosing) {
+                depth += 1;
+            }
+        }
+    }
+    return fragments.length ? fragments.join("\n") : undefined;
+};
 const articleHtmlForSource = (html, sourceId) => {
+    if (sourceId === "cnbc-world-rss") {
+        return sliceElementByClassOrId(html, "ArticleBody-articleBody") ?? html;
+    }
+    if (sourceId === "npr-world-rss") {
+        return sliceElementByClassOrId(html, "storytext") ?? html;
+    }
+    if (sourceId === "techcrunch-ai-rss") {
+        return sliceElementByClassOrId(html, "entry-content") ?? html;
+    }
+    if (sourceId === "theverge-ai-rss") {
+        return sliceElementsByClass(html, "duet--article--article-body-component") ??
+            sliceElementByClassOrId(html, "duet--layout--entry-body") ??
+            html;
+    }
+    if (["france24-middle-east-rss", "france24-asia-pacific-rss"].includes(sourceId)) {
+        return sliceElementByClassOrId(html, "t-content__main") ?? html;
+    }
     if (sourceId === "mem-cn") {
         return sliceFromClassToMarker(html, "zhenwen_neir", [
             '<div[^>]+class=["\'][^"\']*erweima',
@@ -160,6 +244,29 @@ const articleHtmlForSource = (html, sourceId) => {
         ]);
     }
     return html;
+};
+const isBoilerplateText = (text) => {
+    const head = text.slice(0, 900);
+    const navigationTerms = [
+        "跳到主要内容",
+        "打开导航菜单",
+        "美国市场",
+        "欧洲市场",
+        "亚洲市场",
+        "预测市场",
+        "个人理财",
+        "最新视频",
+        "播客和节目",
+        "其他印地语",
+        "和平与安全",
+        "经济发展",
+        "人道主义援助",
+        "秘书长发言人",
+        "keyboard shortcuts for audio player",
+        "open navigation menu"
+    ];
+    const hits = navigationTerms.filter((term) => head.toLowerCase().includes(term.toLowerCase())).length;
+    return hits >= 3;
 };
 const extractTitle = (html, fallback) => {
     const titleMatch = html.match(/<title\b[^>]*>([\s\S]*?)<\/title>/i);
@@ -275,11 +382,19 @@ async function fetchArticleDetail(candidate) {
         }
         try {
             const html = await fetchSourceHtml(sourceLink);
+            if (["france24-middle-east-rss", "france24-asia-pacific-rss"].includes(sourceLink.sourceId) &&
+                /\bt-content--video\b/iu.test(html)) {
+                return fallbackDetail(candidate, sourceLink, "fallback", "France 24 video page has no reliable article body");
+            }
             const articleHtml = articleHtmlForSource(html, sourceLink.sourceId);
             const paragraphs = extractParagraphs(articleHtml);
             const text = paragraphs.join("\n").trim();
             if (text.length < 80) {
                 lastError = "正文文本过短，已回退到候选摘要";
+                continue;
+            }
+            if (isBoilerplateText(text)) {
+                lastError = "正文提取结果包含大量页面导航，已回退到候选摘要";
                 continue;
             }
             return {

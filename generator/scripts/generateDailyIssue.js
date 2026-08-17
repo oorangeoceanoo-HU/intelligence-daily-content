@@ -4,9 +4,14 @@ const cardDraftPipeline_1 = require("../src/content/cardDraftPipeline");
 const candidatePreviewProfiles_1 = require("../src/content/candidatePreviewProfiles");
 const candidateDeduper_1 = require("../src/content/candidateDeduper");
 const dailyIssueBuilder_1 = require("../src/content/dailyIssueBuilder");
+const editionIssueMerger_1 = require("../src/content/editionIssueMerger");
 const rawFetchers_1 = require("../src/content/rawFetchers");
 const rawToCandidate_1 = require("../src/content/rawToCandidate");
 const candidateFreshness_1 = require("../src/content/candidateFreshness");
+const sourceCoverage_1 = require("../src/content/sourceCoverage");
+const editionFreshness_1 = require("../src/content/editionFreshness");
+const translation_1 = require("../src/content/translation");
+const rawFetchers_2 = require("../src/content/rawFetchers");
 const stableSources = [
     "arxiv-cs-api",
     "cas-science-news",
@@ -17,6 +22,18 @@ const stableSources = [
     "cac-cn",
     "xinhua-world",
     "xinhua-tech",
+    "npr-world-rss",
+    "sky-world-rss",
+    "france24-middle-east-rss",
+    "france24-asia-pacific-rss",
+    "cnbc-world-rss",
+    "un-news-rss",
+    "mfa-cn-news",
+    "mofcom-trade",
+    "openai-news",
+    "deepmind-blog",
+    "techcrunch-ai-rss",
+    "theverge-ai-rss",
     "moe-cn",
     "chrm-mohrss",
     "stats-cn-data",
@@ -32,12 +49,22 @@ const allSources = [
     "cac-cn",
     "xinhua-world",
     "xinhua-tech",
+    "npr-world-rss",
+    "sky-world-rss",
+    "france24-middle-east-rss",
+    "france24-asia-pacific-rss",
+    "cnbc-world-rss",
+    "un-news-rss",
+    "mfa-cn-news",
+    "mofcom-trade",
+    "openai-news",
+    "deepmind-blog",
+    "techcrunch-ai-rss",
+    "theverge-ai-rss",
     "moe-cn",
     "chrm-mohrss",
     "stats-cn-data",
-    "mofcom-consumption",
-    "gdelt-doc-api",
-    "reliefweb-api"
+    "mofcom-consumption"
 ];
 const shortSourceNames = {
     "arxiv-cs-api": "arxiv",
@@ -49,6 +76,23 @@ const shortSourceNames = {
     "cac-cn": "cac",
     "xinhua-world": "xinhua-world",
     "xinhua-tech": "xinhua-tech",
+    "bbc-world-rss": "bbc-world",
+    "bbc-business-rss": "bbc-business",
+    "bbc-technology-rss": "bbc-tech",
+    "npr-world-rss": "npr-world",
+    "sky-world-rss": "sky-world",
+    "france24-middle-east-rss": "france24-middle-east",
+    "france24-asia-pacific-rss": "france24-asia",
+    "wsj-world-rss": "wsj-world",
+    "cnbc-world-rss": "cnbc-world",
+    "un-news-rss": "un-news",
+    "mfa-cn-news": "mfa",
+    "mofcom-trade": "mofcom-trade",
+    "openai-news": "openai",
+    "deepmind-blog": "deepmind",
+    "huggingface-blog": "huggingface",
+    "techcrunch-ai-rss": "techcrunch-ai",
+    "theverge-ai-rss": "theverge-ai",
     "moe-cn": "moe",
     "chrm-mohrss": "chrm",
     "stats-cn-data": "stats",
@@ -68,14 +112,17 @@ const today = () => {
 };
 function parseArgs(argv) {
     const options = {
-        sources: stableSources,
-        sourceLimit: 5,
-        cardLimit: 30,
+        sources: allSources,
+        sourceLimit: 18,
+        cardLimit: 24,
         date: today(),
         appPreview: false,
         publish: false,
         json: false,
-        help: false
+        help: false,
+        edition: "morning",
+        baseIssue: undefined,
+        asOf: undefined
     };
     for (let index = 0; index < argv.length; index += 1) {
         const arg = argv[index];
@@ -93,6 +140,27 @@ function parseArgs(argv) {
         }
         if (arg === "--publish") {
             options.publish = true;
+            continue;
+        }
+        if (arg === "--edition") {
+            const edition = argv[index + 1];
+            if (edition === "morning" || edition === "midday" || edition === "evening") {
+                options.edition = edition;
+            }
+            index += 1;
+            continue;
+        }
+        if (arg === "--base-issue") {
+            options.baseIssue = argv[index + 1];
+            index += 1;
+            continue;
+        }
+        if (arg === "--as-of") {
+            const value = argv[index + 1];
+            if (value && Number.isFinite(new Date(value).getTime())) {
+                options.asOf = value;
+            }
+            index += 1;
             continue;
         }
         if (arg === "--all") {
@@ -135,13 +203,13 @@ function parseArgs(argv) {
         }
         if (arg === "--source-limit" || arg === "-l") {
             const parsed = Number(argv[index + 1]);
-            options.sourceLimit = Number.isFinite(parsed) && parsed > 0 ? Math.min(parsed, 10) : options.sourceLimit;
+            options.sourceLimit = Number.isFinite(parsed) && parsed > 0 ? Math.min(parsed, 30) : options.sourceLimit;
             index += 1;
             continue;
         }
         if (arg === "--cards" || arg === "-c") {
             const parsed = Number(argv[index + 1]);
-            options.cardLimit = Number.isFinite(parsed) && parsed > 0 ? Math.min(parsed, 30) : options.cardLimit;
+            options.cardLimit = Number.isFinite(parsed) && parsed > 0 ? Math.min(parsed, 24) : options.cardLimit;
             index += 1;
         }
     }
@@ -156,6 +224,8 @@ function printHelp() {
   pnpm generate:daily-issue -- --profile "教师用户" --source moe --source-limit 2 --cards 6
   pnpm generate:app-preview -- --profile "AI 产品用户"
   pnpm generate:publish -- --profile "AI 产品用户"
+  pnpm generate:publish -- --profile public --edition midday
+  pnpm generate:publish -- --profile public --edition midday --base-issue latest.json
   pnpm generate:daily-issue -- --json
 
 说明：
@@ -166,6 +236,35 @@ const safeFileName = (value) => value
     .replace(/[\\/:*?"<>|]/g, "-")
     .replace(/\s+/g, "-")
     .slice(0, 80);
+const editionLabels = {
+    morning: "晨报",
+    midday: "午间更新",
+    evening: "晚间更新"
+};
+const sourceAuditFor = (results, issueDate, edition, asOf) => results.map((result) => {
+    const datedItems = result.items.filter((item) => item.publishedAt || item.updatedAt);
+    const inEditionItems = datedItems.filter((item) => (0, editionFreshness_1.assessEditionFreshness)(item, issueDate, edition, asOf).eligible);
+    const publishedTimes = datedItems
+        .map((item) => item.publishedAt ?? item.updatedAt)
+        .filter((value) => Boolean(value))
+        .map((value) => new Date(value).getTime())
+        .filter((value) => Number.isFinite(value));
+    return {
+        sourceId: result.sourceId,
+        sourceName: result.sourceName,
+        ok: result.ok,
+        rawItemCount: result.items.length,
+        datedItemCount: datedItems.length,
+        inEditionItemCount: inEditionItems.length,
+        newestPublishedAt: publishedTimes.length
+            ? new Date(Math.max(...publishedTimes)).toISOString()
+            : undefined,
+        oldestPublishedAt: publishedTimes.length
+            ? new Date(Math.min(...publishedTimes)).toISOString()
+            : undefined,
+        error: result.error
+    };
+});
 const nodeRequire = typeof require === "function" ? require : undefined;
 async function writeJsonFile(filePath, value) {
     if (!nodeRequire) {
@@ -177,6 +276,42 @@ async function writeJsonFile(filePath, value) {
     await fs.mkdir(path.dirname(resolved), { recursive: true });
     await fs.writeFile(resolved, `${JSON.stringify(value, null, 2)}\n`, "utf-8");
     return resolved;
+}
+async function readJsonFileIfExists(filePath) {
+    if (!nodeRequire) {
+        return undefined;
+    }
+    const fs = nodeRequire("node:fs/promises");
+    const path = nodeRequire("node:path");
+    try {
+        return JSON.parse(await fs.readFile(path.resolve(filePath), "utf8"));
+    }
+    catch (error) {
+        if (error.code === "ENOENT") {
+            return undefined;
+        }
+        throw error;
+    }
+}
+const editionOrder = { morning: 1, midday: 2, evening: 3 };
+async function findBaseIssue(options) {
+    if (options.edition === "morning") {
+        return undefined;
+    }
+    const paths = [
+        options.baseIssue,
+        "latest.json",
+        "outputs/publish/latest.json"
+    ].filter((value) => Boolean(value));
+    for (const filePath of paths) {
+        const payload = await readJsonFileIfExists(filePath);
+        if (payload?.issue.date === options.date &&
+            payload.issue.edition &&
+            editionOrder[payload.issue.edition] < editionOrder[options.edition]) {
+            return { filePath, payload };
+        }
+    }
+    return undefined;
 }
 async function main() {
     const options = parseArgs(process.argv.slice(2));
@@ -204,12 +339,31 @@ async function main() {
         process.exitCode = 1;
         return;
     }
-    const generatedAt = new Date().toISOString();
-    const fetchResults = await (0, rawFetchers_1.fetchRawContentSources)(options.sources, options.sourceLimit);
-    const rawItems = fetchResults.flatMap((result) => result.items);
+    const generatedAt = options.asOf
+        ? new Date(options.asOf).toISOString()
+        : new Date().toISOString();
+    const baseFetchResults = await (0, rawFetchers_1.fetchRawContentSources)(options.sources, options.sourceLimit);
+    const cityNames = Array.from(new Set([
+        profileConfig.profile.livingCity,
+        profileConfig.profile.hometownCity
+    ].map((city) => city.trim()).filter(Boolean)));
+    const cityFetchResults = await Promise.all(cityNames.map((city) => (0, rawFetchers_2.fetchCityContentSource)(profileConfig.profile.country, city, Math.min(options.sourceLimit, 8))));
+    const fetchResults = [...baseFetchResults, ...cityFetchResults];
+    const sourceCoverage = (0, sourceCoverage_1.assessSourceCoverage)(fetchResults, {
+        localSourceIds: cityFetchResults.map((result) => result.sourceId),
+        localCities: cityNames,
+        issueDate: options.date,
+        edition: options.edition,
+        asOf: generatedAt
+    });
+    const fetchedRawItems = fetchResults.flatMap((result) => result.items);
+    const rawItemsInEdition = (0, editionFreshness_1.filterRawItemsForEdition)(fetchedRawItems, options.date, options.edition, generatedAt);
+    const translationResult = await (0, translation_1.translateRawContentItems)(rawItemsInEdition);
+    const rawItems = translationResult.items;
     const rawCandidates = (0, rawToCandidate_1.rawItemsToCandidates)(rawItems);
     const dedupeResult = (0, candidateDeduper_1.dedupeCandidateItems)(rawCandidates);
-    const freshCandidates = (0, candidateFreshness_1.filterFreshCandidates)(dedupeResult.candidates, options.date);
+    const recentCandidates = (0, candidateFreshness_1.filterFreshCandidates)(dedupeResult.candidates, options.date);
+    const freshCandidates = (0, editionFreshness_1.filterCandidatesForEdition)(recentCandidates, options.date, options.edition, generatedAt);
     const candidateReviewLimit = Math.min(freshCandidates.length, options.cardLimit + 30);
     const cardPipeline = await (0, cardDraftPipeline_1.buildCardDraftsForProfile)({
         profileName: profileConfig.name,
@@ -220,31 +374,69 @@ async function main() {
     });
     const reviewableCards = cardPipeline.rejectedCards.filter((item) => item.finalReport.level === "review");
     const blockedCards = cardPipeline.rejectedCards.filter((item) => item.finalReport.level === "blocked");
-    const eligibleCards = [...cardPipeline.publishableCards, ...reviewableCards];
-    const issueResult = (0, dailyIssueBuilder_1.buildDailyIssue)({
+    const eligibleCards = [...cardPipeline.publishableCards];
+    const incrementalIssueResult = (0, dailyIssueBuilder_1.buildDailyIssue)({
         userId: profileConfig.profile.phone.replace(/\s+/g, ""),
         date: options.date,
         publishableCards: eligibleCards,
         maxCards: options.cardLimit,
-        generatedAt
+        sizingRules: {
+            minimumCards: options.edition === "morning" ? 15 : 1,
+            comfortableMaxCards: options.edition === "morning" ? 20 : 12,
+            absoluteMaxCards: options.cardLimit
+        },
+        generatedAt,
+        edition: options.edition,
+        editionLabel: editionLabels[options.edition],
+        coverageWindow: (0, editionFreshness_1.coverageWindowFor)(options.date, options.edition)
     });
+    const baseIssue = await findBaseIssue(options);
+    const mergeResult = baseIssue
+        ? (0, editionIssueMerger_1.mergeEditionIssue)({
+            baseIssue: baseIssue.payload.issue,
+            incrementalIssue: incrementalIssueResult.issue,
+            maxCards: options.cardLimit
+        })
+        : undefined;
+    const issue = mergeResult?.issue ?? {
+        ...incrementalIssueResult.issue,
+        editionCardIds: incrementalIssueResult.issue.cards.map((card) => card.id),
+        carriedCardIds: []
+    };
+    await (0, translation_1.flushTranslationCache)();
     const output = {
-        issue: issueResult.issue,
+        issue,
         meta: {
             profileName: profileConfig.name,
             generatedAt,
+            edition: options.edition,
+            sourceCoverage,
             sources: options.sources,
             sourceNames: options.sources.map((sourceId) => shortSourceNames[sourceId]),
+            fetchedRawItemCount: fetchedRawItems.length,
             rawItemCount: rawItems.length,
             rawCandidateCount: rawCandidates.length,
             dedupedCandidateCount: dedupeResult.candidates.length,
+            recentCandidateCount: recentCandidates.length,
             freshCandidateCount: freshCandidates.length,
+            translation: translationResult.stats,
             selectedCandidateCount: cardPipeline.selectedCandidates.length,
             publishableCardCount: cardPipeline.publishableCards.length,
             reviewableCardCount: reviewableCards.length,
             rejectedCardCount: blockedCards.length,
-            skippedPublishableCardCount: issueResult.stats.skippedCardCount,
-            stats: issueResult.stats,
+            skippedPublishableCardCount: incrementalIssueResult.stats.skippedCardCount,
+            stats: incrementalIssueResult.stats,
+            editionMerge: {
+                required: options.edition !== "morning",
+                baseFound: Boolean(baseIssue),
+                basePath: baseIssue?.filePath,
+                basedOnGeneratedAt: baseIssue?.payload.issue.generatedAt,
+                incrementalCardCount: incrementalIssueResult.issue.cards.length,
+                addedCardCount: mergeResult?.addedCardIds.length ?? incrementalIssueResult.issue.cards.length,
+                carriedCardCount: mergeResult?.carriedCardIds.length ?? 0,
+                replacedCardCount: mergeResult?.replacedCardIds.length ?? 0
+            },
+            sourceAudit: sourceAuditFor(fetchResults, options.date, options.edition, generatedAt),
             fetchFailures: fetchResults
                 .filter((result) => !result.ok)
                 .map((result) => ({
@@ -252,9 +444,7 @@ async function main() {
                 sourceName: result.sourceName,
                 error: result.error
             })),
-            cardReviewFindings: reviewableCards
-                .filter((item) => issueResult.issue.cards.some((card) => card.id === item.card.id))
-                .map((item) => ({
+            cardReviewFindings: reviewableCards.map((item) => ({
                 cardId: item.card.id,
                 cardTitle: item.card.title,
                 issues: item.finalReport.issues.map((issue) => issue.message)
@@ -274,7 +464,7 @@ async function main() {
             finalScore: item.finalReport.score,
             issues: item.finalReport.issues.map((issue) => issue.message)
         })),
-        skippedCards: issueResult.skippedCards.map((card) => ({
+        skippedCards: incrementalIssueResult.skippedCards.map((card) => ({
             id: card.id,
             title: card.title,
             importance: card.importance,
@@ -287,12 +477,12 @@ async function main() {
         ? await writeJsonFile("src/data/generatedDailyIssue.json", output)
         : undefined;
     const publicIssue = {
-        ...issueResult.issue,
+        ...issue,
         id: `daily-public-${options.date}`,
         userId: "public"
     };
     const publicPayload = {
-        schemaVersion: 1,
+        schemaVersion: 2,
         publishedAt: generatedAt,
         issue: publicIssue
     };
@@ -302,16 +492,25 @@ async function main() {
     const publishArchivePath = options.publish
         ? await writeJsonFile(`outputs/publish/issues/${options.date}.json`, publicPayload)
         : undefined;
+    const publishEditionPath = options.publish
+        ? await writeJsonFile(`outputs/publish/editions/${options.date}/${options.edition}.json`, publicPayload)
+        : undefined;
     if (options.json) {
-        console.log(JSON.stringify({ ...output, outputPath, appPreviewPath, publishLatestPath, publishArchivePath }, null, 2));
+        console.log(JSON.stringify({ ...output, outputPath, appPreviewPath, publishLatestPath, publishArchivePath, publishEditionPath }, null, 2));
         return;
     }
     console.log("今日报纸数据已生成");
     console.log(`画像：${profileConfig.name}`);
     console.log(`来源：${options.sources.map((sourceId) => shortSourceNames[sourceId]).join("、")}`);
+    console.log(`时段：${editionLabels[options.edition]}；来源可用：${sourceCoverage.sourceAvailabilityReady ? "通过" : "未通过"}；当期输入：${sourceCoverage.currentCoverageReady ? "通过" : "待复核"}`);
     console.log(`候选：${rawCandidates.length} 条原始候选 -> ${dedupeResult.candidates.length} 条去重后候选`);
     console.log(`卡片：${cardPipeline.publishableCards.length} 张自动通过，${reviewableCards.length} 张进入人工复核，${blockedCards.length} 张被拦截`);
-    console.log(`日报：${issueResult.issue.cards.length} 张卡片，约 ${issueResult.issue.estimatedReadMinutes} 分钟读完，${issueResult.issue.pageCount} 版`);
+    console.log(`日报：${issue.cards.length} 张卡片，约 ${issue.estimatedReadMinutes} 分钟读完，${issue.pageCount} 版`);
+    if (options.edition !== "morning") {
+        console.log(baseIssue
+            ? `增量合并：新增 ${mergeResult?.addedCardIds.length ?? 0} 条，沿用 ${mergeResult?.carriedCardIds.length ?? 0} 条`
+            : "增量合并：没有找到当天更早且已批准的版次，本稿会被审稿规则阻止发布");
+    }
     console.log(`输出：${outputPath}`);
     if (appPreviewPath) {
         console.log(`手机预览：${appPreviewPath}`);
@@ -321,6 +520,9 @@ async function main() {
     }
     if (publishArchivePath) {
         console.log(`公开归档：${publishArchivePath}`);
+    }
+    if (publishEditionPath) {
+        console.log(`分时归档：${publishEditionPath}`);
     }
 }
 main().catch((error) => {

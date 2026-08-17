@@ -7,6 +7,8 @@ const stableSources = [
     "cac-cn",
     "xinhua-world",
     "xinhua-tech",
+    "france24-middle-east-rss",
+    "france24-asia-pacific-rss",
     "moe-cn",
     "chrm-mohrss",
     "stats-cn-data",
@@ -24,8 +26,8 @@ const allSources = [
     "chrm-mohrss",
     "stats-cn-data",
     "mofcom-consumption",
-    "gdelt-doc-api",
-    "reliefweb-api"
+    "techcrunch-ai-rss",
+    "theverge-ai-rss"
 ];
 const sourceShortNames = {
     "arxiv-cs-api": "arxiv",
@@ -37,10 +39,15 @@ const sourceShortNames = {
     "cac-cn": "cac",
     "xinhua-world": "xinhua-world",
     "xinhua-tech": "xinhua-tech",
+    "france24-middle-east-rss": "france24-middle-east",
+    "france24-asia-pacific-rss": "france24-asia",
     "moe-cn": "moe",
     "chrm-mohrss": "chrm",
     "stats-cn-data": "stats",
     "mofcom-consumption": "mofcom",
+    "huggingface-blog": "huggingface",
+    "techcrunch-ai-rss": "techcrunch-ai",
+    "theverge-ai-rss": "theverge-ai",
     "gdelt-doc-api": "gdelt",
     "reliefweb-api": "reliefweb"
 };
@@ -126,7 +133,7 @@ const compact = (value, max = 120) => {
 function formatResult(result) {
     const lines = [];
     lines.push("=".repeat(34));
-    lines.push(`${result.sourceName} (${sourceShortNames[result.sourceId]})`);
+    lines.push(`${result.sourceName} (${sourceShortNames[result.sourceId] ?? result.sourceId})`);
     lines.push(result.ok ? `状态：成功，抓到 ${result.items.length} 条候选` : `状态：失败，${result.error ?? "未知错误"}`);
     if (result.items.length) {
         result.items.forEach((item, index) => {
@@ -153,7 +160,7 @@ async function main() {
         return;
     }
     console.log("真实来源候选试抓");
-    console.log(`来源：${options.sources.map((sourceId) => sourceShortNames[sourceId]).join("、")}`);
+    console.log(`来源：${options.sources.map((sourceId) => sourceShortNames[sourceId] ?? sourceId).join("、")}`);
     console.log(`每个来源最多 ${options.limit} 条`);
     console.log("");
     console.log(results.map(formatResult).join("\n\n"));

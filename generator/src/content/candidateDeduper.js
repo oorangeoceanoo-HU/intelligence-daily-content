@@ -20,10 +20,22 @@ const dayBucket = (value) => {
     }
     return date.toISOString().slice(0, 10);
 };
+const representativeTitleQuality = (candidate) => {
+    const title = candidate.title.toLowerCase();
+    let score = 0;
+    if (/最新|进展|宣布|回应|升至|生效|达成|中断|恢复|袭击|停火|制裁|关税|通航|部署|resigns|announces|agrees|halts|strikes|ceasefire/u.test(title)) {
+        score += 22;
+    }
+    if (/热点问答|问答|评论|观察|解读|能实现吗|为什么|怎么看|analysis|opinion|explainer/u.test(title)) {
+        score -= 24;
+    }
+    return score;
+};
 const candidatePriority = (candidate) => candidate.impactScore * 0.34 +
     candidate.severityScore * 0.26 +
     candidate.freshnessScore * 0.2 +
-    candidate.trendScore * 0.2;
+    candidate.trendScore * 0.2 +
+    representativeTitleQuality(candidate);
 const disasterType = (candidate) => {
     const text = normalizeText(`${candidate.title} ${candidate.body.keyProgress}`);
     if (/\bearthquake\b/.test(text) || text.includes("地震")) {
@@ -102,7 +114,7 @@ const shouldJoinCluster = (candidate, cluster) => {
     if (sameBaseKey && !bothRisk) {
         return true;
     }
-    if (dayBucket(candidate.publishedAt) !== dayBucket(first.publishedAt)) {
+    if (dayBucket(candidate.publishedAt) !== dayBucket(first.publishedAt) && !bothRisk) {
         return false;
     }
     if (bothRisk) {

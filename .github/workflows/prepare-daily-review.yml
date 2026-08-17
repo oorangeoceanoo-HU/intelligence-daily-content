@@ -7,10 +7,21 @@ on:
         description: Optional issue date in YYYY-MM-DD; blank uses Asia/Shanghai today
         required: false
         type: string
+      edition:
+        description: Publication window
+        required: false
+        default: auto
+        type: choice
+        options:
+          - auto
+          - morning
+          - midday
+          - evening
   schedule:
-    # 10:00 Asia/Shanghai, after the main Chinese sources have completed their morning updates.
-    # The result is only a pending draft, never latest.json.
-    - cron: "0 2 * * *"
+    # 07:10, 12:10 and 21:10 Asia/Shanghai. These create pending drafts only.
+    - cron: "10 23 * * *"
+    - cron: "10 4 * * *"
+    - cron: "10 13 * * *"
 
 permissions:
   contents: write
@@ -31,6 +42,14 @@ jobs:
         with:
           node-version: 22
 
+      - name: Restore translation cache
+        uses: actions/cache@v4
+        with:
+          path: .cache/content-translations.json
+          key: translation-cache-${{ github.run_id }}
+          restore-keys: |
+            translation-cache-
+
       - name: Resolve issue date
         id: issue-date
         env:
@@ -48,48 +67,76 @@ jobs:
           fi
           echo "date=$DATE" >> "$GITHUB_OUTPUT"
 
+      - name: Resolve edition
+        id: issue-edition
+        env:
+          REQUESTED_EDITION: ${{ inputs.edition }}
+          TZ: Asia/Shanghai
+        run: |
+          if [ "$REQUESTED_EDITION" = "morning" ] || [ "$REQUESTED_EDITION" = "midday" ] || [ "$REQUESTED_EDITION" = "evening" ]; then
+            EDITION="$REQUESTED_EDITION"
+          else
+            HOUR="$(date +%H)"
+            if [ "$HOUR" -lt 10 ]; then EDITION="morning"; elif [ "$HOUR" -lt 17 ]; then EDITION="midday"; else EDITION="evening"; fi
+          fi
+          echo "edition=$EDITION" >> "$GITHUB_OUTPUT"
+
       - name: Generate pending issue
         env:
           DATE: ${{ steps.issue-date.outputs.date }}
+          EDITION: ${{ steps.issue-edition.outputs.edition }}
+          CONTENT_TRANSLATION_PROVIDER: ${{ vars.CONTENT_TRANSLATION_PROVIDER || 'google-free' }}
+          CONTENT_TRANSLATION_ENDPOINT: ${{ secrets.CONTENT_TRANSLATION_ENDPOINT }}
+          CONTENT_TRANSLATION_API_KEY: ${{ secrets.CONTENT_TRANSLATION_API_KEY }}
+          CONTENT_TRANSLATION_MODEL: ${{ vars.CONTENT_TRANSLATION_MODEL }}
+          CONTENT_TRANSLATION_CONTACT_EMAIL: ${{ vars.CONTENT_TRANSLATION_CONTACT_EMAIL }}
+          CONTENT_TRANSLATION_CACHE_FILE: .cache/content-translations.json
+          CONTENT_CITY_OFFICIAL_URLS_JSON: ${{ vars.CONTENT_CITY_OFFICIAL_URLS_JSON }}
+          CONTENT_CITY_NEWS_RSS_TEMPLATE: ${{ secrets.CONTENT_CITY_NEWS_RSS_TEMPLATE }}
+          CONTENT_RELIEFWEB_APPNAME: ${{ secrets.CONTENT_RELIEFWEB_APPNAME }}
         run: |
           mkdir -p tmp
           node generator/scripts/generateDailyIssue.js \
             --publish \
             --profile public \
-            --source-limit 10 \
-            --cards 30 \
+            --all \
+            --source-limit 18 \
+            --cards 24 \
+            --edition "$EDITION" \
             --date "$DATE" \
-            --output "tmp/review-$DATE.json"
+            --output "tmp/review-$DATE-$EDITION.json"
           node generator/scripts/createDailyReviewSummary.js \
             --date "$DATE" \
-            --review-input "tmp/review-$DATE.json" \
-            --candidate-input "outputs/publish/issues/$DATE.json" \
-            --pending-output "pending/$DATE.json" \
-            --summary-output "pending/$DATE.md" \
-            --report-output "pending/$DATE.review.json"
+            --review-input "tmp/review-$DATE-$EDITION.json" \
+            --candidate-input "outputs/publish/editions/$DATE/$EDITION.json" \
+            --pending-output "pending/$DATE-$EDITION.json" \
+            --summary-output "pending/$DATE-$EDITION.md" \
+            --report-output "pending/$DATE-$EDITION.review.json"
 
       - name: Show review summary
         env:
           DATE: ${{ steps.issue-date.outputs.date }}
-        run: cat "pending/$DATE.md" >> "$GITHUB_STEP_SUMMARY"
+          EDITION: ${{ steps.issue-edition.outputs.edition }}
+        run: cat "pending/$DATE-$EDITION.md" >> "$GITHUB_STEP_SUMMARY"
 
       - name: Save private diagnostic artifact
         uses: actions/upload-artifact@v4
         with:
-          name: daily-review-${{ steps.issue-date.outputs.date }}
-          path: tmp/review-${{ steps.issue-date.outputs.date }}.json
+          name: daily-review-${{ steps.issue-date.outputs.date }}-${{ steps.issue-edition.outputs.edition }}
+          path: tmp/review-${{ steps.issue-date.outputs.date }}-${{ steps.issue-edition.outputs.edition }}.json
           retention-days: 7
 
       - name: Commit pending draft
         env:
           DATE: ${{ steps.issue-date.outputs.date }}
+          EDITION: ${{ steps.issue-edition.outputs.edition }}
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add "pending/$DATE.json" "pending/$DATE.md" "pending/$DATE.review.json"
+          git add "pending/$DATE-$EDITION.json" "pending/$DATE-$EDITION.md" "pending/$DATE-$EDITION.review.json"
           if git diff --cached --quiet; then
             echo "Pending draft already matches the generated result."
             exit 0
           fi
-          git commit -m "Prepare daily review $DATE"
+          git commit -m "Prepare $EDITION daily review $DATE"
           git push origin HEAD:main

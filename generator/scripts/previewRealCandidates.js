@@ -11,6 +11,8 @@ const stableSources = [
     "cac-cn",
     "xinhua-world",
     "xinhua-tech",
+    "france24-middle-east-rss",
+    "france24-asia-pacific-rss",
     "moe-cn",
     "chrm-mohrss",
     "stats-cn-data",
@@ -28,6 +30,8 @@ const allSources = [
     "chrm-mohrss",
     "stats-cn-data",
     "mofcom-consumption",
+    "techcrunch-ai-rss",
+    "theverge-ai-rss",
     "gdelt-doc-api",
     "reliefweb-api"
 ];
@@ -41,10 +45,14 @@ const shortSourceNames = {
     "cac-cn": "cac",
     "xinhua-world": "xinhua-world",
     "xinhua-tech": "xinhua-tech",
+    "france24-middle-east-rss": "france24-middle-east",
+    "france24-asia-pacific-rss": "france24-asia",
     "moe-cn": "moe",
     "chrm-mohrss": "chrm",
     "stats-cn-data": "stats",
     "mofcom-consumption": "mofcom",
+    "techcrunch-ai-rss": "techcrunch-ai",
+    "theverge-ai-rss": "theverge-ai",
     "gdelt-doc-api": "gdelt",
     "reliefweb-api": "reliefweb"
 };
@@ -213,7 +221,7 @@ async function main() {
         return;
     }
     console.log("真实候选排序预览");
-    console.log(`来源：${options.sources.map((sourceId) => shortSourceNames[sourceId]).join("、")}`);
+    console.log(`来源：${options.sources.map((sourceId) => shortSourceNames[sourceId] ?? sourceId).join("、")}`);
     console.log(`抓取成功：${fetchResults.filter((result) => result.ok).length}/${fetchResults.length}`);
     console.log(`去重：${rawCandidates.length} 条原始候选 -> ${candidates.length} 条候选，合并 ${dedupeResult.removedCount} 条`);
     fetchResults

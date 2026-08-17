@@ -5,6 +5,7 @@ const articleDetails_1 = require("./articleDetails");
 const candidateGenerator_1 = require("./candidateGenerator");
 const cardDraftQuality_1 = require("./cardDraftQuality");
 const cardDraftRepair_1 = require("./cardDraftRepair");
+const translation_1 = require("./translation");
 const detailForCandidate = (details, candidate) => details.find((detail) => detail.candidateId === candidate.id);
 const finalCardForRepair = (card, repairResult) => (repairResult.changed ? repairResult.card : card);
 const finalReportForRepair = (report, repairResult) => (repairResult.changed ? repairResult.repairedReport : report);
@@ -12,7 +13,8 @@ async function buildCardDraftsForProfile(params) {
     const generatedAt = params.generatedAt ?? new Date().toISOString();
     const issuePreview = (0, candidateGenerator_1.buildCandidateIssuePreview)(params.profileName, params.profile, params.candidates, params.limit);
     const selectedCandidates = issuePreview.selectedCandidates.slice(0, params.limit);
-    const details = await (0, articleDetails_1.fetchArticleDetails)(selectedCandidates.map((ranked) => ranked.candidate));
+    const fetchedDetails = await (0, articleDetails_1.fetchArticleDetails)(selectedCandidates.map((ranked) => ranked.candidate));
+    const details = await (0, translation_1.translateArticleDetails)(fetchedDetails);
     const cards = selectedCandidates.map((ranked) => {
         const detail = detailForCandidate(details, ranked.candidate);
         const enrichedCandidate = detail
@@ -31,7 +33,7 @@ async function buildCardDraftsForProfile(params) {
         const repairResult = repairResults[index];
         const originalReport = qualityReports[index];
         const finalReport = finalReportForRepair(originalReport, repairResult);
-        const finalCard = finalCardForRepair(card, repairResult);
+        const finalCard = (0, translation_1.normalizeBriefingCardChinese)(finalCardForRepair(card, repairResult));
         const item = {
             card: finalCard,
             rankedCandidate: selectedCandidates[index],

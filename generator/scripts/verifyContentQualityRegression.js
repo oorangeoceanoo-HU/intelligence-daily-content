@@ -2,13 +2,19 @@
 Object.defineProperty(exports, "__esModule", { value: true });
 const articleDetails_1 = require("../src/content/articleDetails");
 const cardDraftQuality_1 = require("../src/content/cardDraftQuality");
+const cardDraftRepair_1 = require("../src/content/cardDraftRepair");
 const candidateDeduper_1 = require("../src/content/candidateDeduper");
 const rawToCandidate_1 = require("../src/content/rawToCandidate");
+const candidateGenerator_1 = require("../src/content/candidateGenerator");
+const candidatePreviewProfiles_1 = require("../src/content/candidatePreviewProfiles");
+const rawFetchers_1 = require("../src/content/rawFetchers");
+const translation_1 = require("../src/content/translation");
 const nodeRequire = typeof require === "function" ? require : undefined;
 if (!nodeRequire) {
     throw new Error("Node runtime is required");
 }
 const assert = nodeRequire("node:assert/strict");
+assert.equal((0, translation_1.normalizeChineseTranslation)("Japanese automakers face a 一二拳 and a 7B+美元 deal"), "Japanese automakers face a 双重冲击 and a 70亿美元以上 deal", "literal machine translations are normalized before becoming card text");
 const source = (id, url) => ({
     title: id,
     url,
@@ -85,9 +91,17 @@ const hormuzStatement = candidate({
     id: "hormuz-statement",
     title: "特朗普：击败伊朗后会宣布霍尔木兹海峡为美国领土",
     sourceLink: source("xinhua-world", "https://example.com/hormuz-statement"),
-    categories: ["world", "policy"]
+    categories: ["world", "policy"],
+    impactScore: 92
 });
 assert.equal((0, candidateDeduper_1.dedupeCandidateItems)([hormuzQuestion, hormuzStatement]).candidates.length, 1, "同一天同一国际事件的问答和快讯不能重复进入日报");
+const publicProfile = candidatePreviewProfiles_1.candidatePreviewProfiles.find((item) => item.name === "多职业公共版")?.profile;
+if (!publicProfile) {
+    throw new Error("必须存在公共版画像用于重大事件回归检查");
+}
+const hormuzMerged = (0, candidateDeduper_1.dedupeCandidateItems)([hormuzQuestion, hormuzStatement]).candidates[0];
+assert.ok(hormuzMerged.title.includes("击败伊朗"), "重大国际事件应优先保留局势变化标题，而不是问答标题");
+assert.equal((0, candidateGenerator_1.rankCandidateForProfile)(hormuzMerged, publicProfile).importanceScore.level, "S", "涉及战争与霍尔木兹海峡的国际事件必须触发重大事件保底等级");
 const rescueFollowUp = candidate({
     id: "rescue-follow-up",
     title: "救援力量驰援河南周口处置贾鲁河溃口险情",
@@ -108,6 +122,7 @@ const repairedTitleCard = (0, articleDetails_1.enrichCandidateWithArticleDetail)
 assert.equal(repairedTitleCard.title, educationDetail.title, "截断标题应改用网页中的完整标题");
 assert.ok(!/\.{3,}|…/u.test(repairedTitleCard.title), "完整标题不能保留截断符号");
 const rawItem = (params) => ({
+    ...params,
     id: params.id,
     sourceId: params.sourceId,
     title: params.title,
@@ -118,6 +133,56 @@ const rawItem = (params) => ({
     rawText: params.rawText,
     fetchedAt: params.fetchedAt ?? "2026-08-17T00:00:00.000Z"
 });
+const translatedHormuz = rawItem({
+    id: "translated-hormuz",
+    sourceId: "cnbc-world-rss",
+    title: "美伊停火到期前霍尔木兹海峡航运陷入停滞",
+    summaryFromSource: "霍尔木兹海峡商业航运几乎停止，市场关注能源供应与停火是否延续。",
+    rawText: "美伊停火期限临近，航运、油价和地区冲突风险同步上升。",
+    publishedAt: "2026-08-17T13:30:00+08:00",
+    language: "zh",
+    originalLanguage: "en",
+    translationStatus: "translated"
+});
+const translatedHormuzCandidate = (0, rawToCandidate_1.rawItemToCandidate)(translatedHormuz);
+assert.ok(translatedHormuzCandidate, "翻译后的重大英文新闻仍应生成候选");
+assert.equal((0, candidateGenerator_1.rankCandidateForProfile)(translatedHormuzCandidate, publicProfile).importanceScore.level, "S", "英文来源翻译成中文后，重大冲突和霍尔木兹关键词仍必须触发 S 级保底");
+const cityServiceCandidate = (0, rawToCandidate_1.rawItemToCandidate)(rawItem({
+    id: "hangzhou-service",
+    sourceId: "city-news-rss:%E4%B8%AD%E5%9B%BD-%E6%9D%AD%E5%B7%9E",
+    title: "杭州加快推进农村生活污水治理扩面提质",
+    summaryFromSource: "杭州公布农村生活污水治理进度，重点涉及设施改造和长效运维。",
+    localCity: "杭州"
+}));
+assert.ok(!cityServiceCandidate.categories.includes("publicSafety"), "普通城市发展消息不能默认标成公共安全风险");
+assert.equal((0, candidateGenerator_1.rankCandidateForProfile)(cityServiceCandidate, publicProfile).targetSection, "local", "普通城市发展消息应进入本地板块");
+const cityRiskCandidate = (0, rawToCandidate_1.rawItemToCandidate)(rawItem({
+    id: "hangzhou-typhoon",
+    sourceId: "city-news-rss:%E4%B8%AD%E5%9B%BD-%E6%9D%AD%E5%B7%9E",
+    title: "杭州发布台风暴雨橙色预警",
+    summaryFromSource: "杭州气象部门发布台风暴雨预警，部分道路可能临时封闭。",
+    localCity: "杭州"
+}));
+assert.ok(cityRiskCandidate.categories.includes("publicSafety"), "真正的城市预警仍应进入风险通道");
+assert.equal((0, candidateGenerator_1.rankCandidateForProfile)(cityRiskCandidate, publicProfile).targetSection, "risk", "城市灾害预警应进入风险板块");
+assert.equal((0, rawFetchers_1.isUsefulCityDiscoveryItem)("16省青年“行走杭州”掀起实践热潮", "https://example.com/hangzhou-youth", "杭州"), false, "普通城市活动不应占用本地政策和风险日报位置");
+assert.equal((0, rawFetchers_1.isUsefulCityDiscoveryItem)("杭州加快推进农村生活污水治理扩面提质", "https://example.com/hangzhou-water", "杭州"), true, "城市治理和公共服务变化应保留在本地候选池");
+const cityOfficialCandidate = (0, rawToCandidate_1.rawItemToCandidate)(rawItem({
+    id: "hangzhou-highway",
+    sourceId: "city-news-rss:%E4%B8%AD%E5%9B%BD-%E6%9D%AD%E5%B7%9E",
+    title: "杭淳开高速公路杭州段迎来新进展",
+    url: "https://www.hangzhou.gov.cn/col/col812269/art/2026/example.html",
+    summaryFromSource: "杭州市政府公布高速项目施工进展。",
+    localCity: "杭州"
+}));
+assert.equal((0, candidateGenerator_1.rankedCandidateToCard)((0, candidateGenerator_1.rankCandidateForProfile)(cityOfficialCandidate, publicProfile), "2026-08-17T00:00:00.000Z").credibility, "官方来源", "来自政府官网的城市动态应显示为官方来源");
+const cultureCandidate = (0, rawToCandidate_1.rawItemToCandidate)(rawItem({
+    id: "italian-art",
+    sourceId: "npr-world-rss",
+    title: "对于意大利艺术警察和博物馆保安来说，这是好事和坏事的一周",
+    summaryFromSource: "意大利博物馆发生艺术品失窃和找回事件。"
+}));
+assert.ok(!(0, candidateGenerator_1.rankCandidateForProfile)(cultureCandidate, publicProfile).matchedLaneIds.includes("industry"), "普通国际文化报道不能仅因为公共版包含运营标签就被当成行业信息");
 const historyCandidate = (0, rawToCandidate_1.rawItemToCandidate)(rawItem({
     id: "death-railway",
     sourceId: "xinhua-world",
@@ -195,4 +260,109 @@ const conciseOfficialRiskDetail = detail(candidate({
 const conciseOfficialRiskReport = (0, cardDraftQuality_1.evaluateCardDraftQuality)(conciseOfficialRiskCard, conciseOfficialRiskDetail);
 assert.equal(conciseOfficialRiskReport.level, "review", "完整的官方风险简报应进入人工复核而不是直接拦截");
 assert.ok(!conciseOfficialRiskReport.issues.some((issue) => issue.code === "detail-too-short"), "官方风险简报不应被普通短正文规则直接拦截");
+const repeatedOfficialRiskCard = {
+    ...conciseOfficialRiskCard,
+    id: "repeated-official-risk",
+    oneLine: conciseOfficialRiskCard.body.background,
+    body: {
+        ...conciseOfficialRiskCard.body,
+        background: conciseOfficialRiskCard.body.background
+    }
+};
+const repeatedOfficialRiskReport = (0, cardDraftQuality_1.evaluateCardDraftQuality)(repeatedOfficialRiskCard);
+assert.ok(repeatedOfficialRiskReport.issues.some((issue) => issue.code === "lead-background-repetition"), "官方风险简报的导读与背景重复必须被识别");
+const repairedOfficialRisk = (0, cardDraftRepair_1.repairCardDraft)(repeatedOfficialRiskCard, repeatedOfficialRiskReport);
+assert.ok(repairedOfficialRisk.changed, "重复的官方风险简报应自动压缩背景");
+assert.ok(!repairedOfficialRisk.repairedReport.issues.some((issue) => issue.code === "lead-background-repetition"), "压缩后不应保留导读与背景重复问题");
+const lowOverlapLeadCard = {
+    ...conciseOfficialRiskCard,
+    id: "low-overlap-lead",
+    title: "库什纳在与内塔尼亚胡会谈之前会见哈马斯，讨论加沙路线图",
+    oneLine: "政策变化：一名地区官员证实了在埃及举行的罕见会面。",
+    body: {
+        ...conciseOfficialRiskCard.body,
+        background: "加沙停火谈判长期陷入僵局，重建与人道援助仍受局势影响。",
+        keyProgress: "美国谈判代表库什纳在埃及会见哈马斯领导人，尝试推动加沙停火计划取得进展。"
+    }
+};
+const lowOverlapLeadReport = (0, cardDraftQuality_1.evaluateCardDraftQuality)(lowOverlapLeadCard);
+assert.ok(lowOverlapLeadReport.issues.some((issue) => issue.code === "title-lead-low-overlap"), "标题与导读的事件对应关系不足时必须进入修复流程");
+const repairedLowOverlapLead = (0, cardDraftRepair_1.repairCardDraft)(lowOverlapLeadCard, lowOverlapLeadReport);
+assert.match(repairedLowOverlapLead.card.oneLine, /库什纳/u, "修复后的导读必须明确标题中的事件主体");
+const newsletterCard = {
+    ...conciseOfficialRiskCard,
+    id: "newsletter-intro",
+    title: "CNBC每日开盘：美伊停火即将到期",
+    oneLine: "政策变化：大家好，我是编辑，从伦敦为您整理今天的市场开盘信息。",
+    sourceLinks: [source("cnbc-world-rss", "https://example.com/newsletter-intro")]
+};
+const newsletterReport = (0, cardDraftQuality_1.evaluateCardDraftQuality)(newsletterCard, detail(candidate({
+    id: newsletterCard.id,
+    title: newsletterCard.title,
+    sourceLink: newsletterCard.sourceLinks[0]
+}), newsletterCard.title, "这是一份每日简报的主持人开场，随后罗列多个市场主题，但没有围绕一个具体新闻事件说明事实、变化和影响。正文长度足够，但不应代替一张事件卡片进入日报。"));
+assert.ok(newsletterReport.issues.some((issue) => issue.code === "newsletter-or-host-intro"), "新闻简报开场白必须被内容质量门识别");
+const navigationNoiseCard = {
+    ...conciseOfficialRiskCard,
+    id: "navigation-noise",
+    title: "叙利亚居民开始清理废墟并重建生活",
+    oneLine: "国际进展：其他印地语、和平与安全、经济发展、人道主义援助、秘书长发言人等导航文字混入了正文。",
+    sourceLinks: [source("un-news-rss", "https://example.com/navigation-noise")]
+};
+const navigationNoiseReport = (0, cardDraftQuality_1.evaluateCardDraftQuality)(navigationNoiseCard, detail(candidate({
+    id: navigationNoiseCard.id,
+    title: navigationNoiseCard.title,
+    sourceLink: navigationNoiseCard.sourceLinks[0]
+}), navigationNoiseCard.title, "叙利亚当地居民参与清理废墟和恢复社区服务。报道记录了住房、供水和教育设施的重建情况，并说明仍有大量基础设施需要修复。后续需要关注人道援助和地方治理能否持续。"));
+assert.ok(navigationNoiseReport.issues.some((issue) => issue.code === "obvious-web-noise"), "联合国页面导航文字不能进入正式卡片");
+const mediaChromeNoiseCard = {
+    ...conciseOfficialRiskCard,
+    id: "media-chrome-noise",
+    title: "一家 AI 公司宣布新的模型安全调整",
+    oneLine: "趋势信号：TechCrunch 品牌工作室、图片说明和网站导航文字混入了事件摘要。",
+    body: {
+        ...conciseOfficialRiskCard.body,
+        background: "文章正文应只保留这家公司公布的模型安全调整和实际影响。",
+        keyProgress: "hide caption 网站图片说明不应与新闻事实一起进入日报。"
+    }
+};
+assert.ok((0, cardDraftQuality_1.evaluateCardDraftQuality)(mediaChromeNoiseCard).issues.some((issue) => issue.code === "obvious-web-noise"), "媒体品牌栏目和图片说明噪音必须在发布前被拦截");
+const playerPromptNoiseCard = {
+    ...conciseOfficialRiskCard,
+    id: "player-prompt-noise",
+    title: "中东局势出现新的外交进展",
+    oneLine: "风险提醒：Manage my choices. Your browser extension is blocking the video player.",
+    body: {
+        ...conciseOfficialRiskCard.body,
+        background: "播放器隐私提示不能作为国际新闻的背景。",
+        keyProgress: "启用广告跟踪后才能观看视频播放器。"
+    }
+};
+assert.ok((0, cardDraftQuality_1.evaluateCardDraftQuality)(playerPromptNoiseCard).issues.some((issue) => issue.code === "obvious-web-noise"), "视频播放器或隐私设置提示必须在发布前被拦截");
+const narrativeFeatureCard = {
+    ...conciseOfficialRiskCard,
+    id: "narrative-feature",
+    title: "第一人称：叙利亚人带头清理废墟并重建生活",
+    oneLine: "国际进展：当地居民正在参与清理废墟和恢复社区生活。",
+    body: {
+        ...conciseOfficialRiskCard.body,
+        background: "报道记录了当地居民在冲突过后参与社区清理和恢复基础服务的经历。",
+        keyProgress: "这是一篇以个人经历为主的背景专题，缺少当天发生的新政策、新风险或局势变化。"
+    }
+};
+assert.ok((0, cardDraftQuality_1.evaluateCardDraftQuality)(narrativeFeatureCard).issues.some((issue) => issue.code === "narrative-feature"), "第一人称背景专题不能作为当日新闻事件进入日报");
+const translatedMismatchCard = {
+    ...conciseOfficialRiskCard,
+    id: "translated-title-mismatch",
+    title: "休达到底发生了什么？为什么我们可能永远不会发现",
+    oneLine: "核心信息：摩洛哥和西班牙边境部署了大量警察和军队。",
+    body: {
+        ...conciseOfficialRiskCard.body,
+        background: "边境发生的事件总是有原因的。",
+        keyProgress: "西班牙正试图结束这一章。"
+    }
+};
+const translatedMismatchReport = (0, cardDraftQuality_1.evaluateCardDraftQuality)(translatedMismatchCard);
+assert.equal(translatedMismatchReport.level, "blocked", "中文化后标题与正文不一致的卡片必须拦截");
+assert.ok(translatedMismatchReport.issues.some((issue) => issue.code === "title-content-mismatch"), "中文化后标题与正文不一致的问题必须被明确记录");
 console.log("Content quality regression checks passed.");

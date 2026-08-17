@@ -1,12 +1,16 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
 const textSimilarity_1 = require("../src/content/textSimilarity");
+const editionFreshness_1 = require("../src/content/editionFreshness");
 const nodeRequire = typeof require === "function" ? require : undefined;
 const DAY_MS = 24 * 60 * 60 * 1000;
 function parseArgs(argv) {
     const values = new Map();
     for (let index = 0; index < argv.length; index += 1) {
         const arg = argv[index];
+        if (arg === "--") {
+            continue;
+        }
         if (arg.startsWith("--") && argv[index + 1]) {
             values.set(arg.slice(2), argv[index + 1]);
             index += 1;
@@ -90,8 +94,8 @@ function inspectIssue(expectedDate, review, candidate) {
     if (issue.cards.length < 15) {
         addFinding(findings, "blocker", "too-few-cards", `当前只有 ${issue.cards.length} 条，低于 15 条最低阅读量。`);
     }
-    if (issue.cards.length > 30) {
-        addFinding(findings, "blocker", "too-many-cards", `当前有 ${issue.cards.length} 条，超过 30 条绝对上限。`);
+    if (issue.cards.length > 24) {
+        addFinding(findings, "blocker", "too-many-cards", `当前有 ${issue.cards.length} 条，超过 24 条绝对上限。`);
     }
     const largestPage = issue.pageCount ? Math.ceil(issue.cards.length / issue.pageCount) : issue.cards.length;
     if (!issue.pageCount || largestPage > 10) {
@@ -99,6 +103,18 @@ function inspectIssue(expectedDate, review, candidate) {
     }
     const issueDay = calendarDay(expectedDate);
     let olderThanThreeDays = 0;
+    if ((review.meta?.translation?.failed ?? 0) > 0) {
+        addFinding(findings, "blocker", "translation-failures", `有 ${review.meta?.translation?.failed} 条英文或多语言来源没有完成中文化，当前翻译通道为 ${review.meta?.translation?.provider ?? "unknown"}，不能按期发布。`);
+    }
+    if (review.meta?.editionMerge?.required && !review.meta.editionMerge.baseFound) {
+        addFinding(findings, "blocker", "missing-base-edition", "午间或晚间更新没有找到当天更早且已批准的版次，不能把一小段增量内容当作完整日报发布。");
+    }
+    if (issue.edition !== "morning" &&
+        issue.editionCardIds &&
+        issue.editionCardIds.length === 0) {
+        addFinding(findings, "blocker", "empty-edition-update", "本时段没有新增或替换任何信息，不需要发布一份内容不变的更新。");
+    }
+    const editionCardIds = new Set(issue.editionCardIds ?? issue.cards.map((card) => card.id));
     issue.cards.forEach((card) => {
         if (/\.\.\.|…/u.test(card.title)) {
             addFinding(findings, "blocker", "truncated-title", "标题仍有截断符号，需要改成完整标题。", card);
@@ -126,6 +142,13 @@ function inspectIssue(expectedDate, review, candidate) {
                 olderThanThreeDays += 1;
             }
         });
+        const primarySource = card.sourceLinks[0];
+        if (primarySource && candidate.issue.edition && editionCardIds.has(card.id)) {
+            const freshness = (0, editionFreshness_1.assessEditionFreshness)(primarySource, expectedDate, candidate.issue.edition, candidate.issue.generatedAt);
+            if (!freshness.eligible) {
+                addFinding(findings, "blocker", "source-outside-edition-window", `主来源不在本版次时间窗口内：${freshness.reason}`, card);
+            }
+        }
         const titleContent = [card.oneLine, card.body.background, card.body.keyProgress].join(" ");
         const titleContentCoverage = (0, textSimilarity_1.textContainment)(card.title, titleContent);
         if (titleContentCoverage < 0.14) {
@@ -155,6 +178,19 @@ function inspectIssue(expectedDate, review, candidate) {
     if (review.meta?.fetchFailures?.length) {
         addFinding(findings, "warning", "source-fetch-failures", `有 ${review.meta.fetchFailures.length} 个来源抓取失败，需要确认是否影响当天覆盖面。`);
     }
+    review.meta?.sourceCoverage?.lanes.forEach((lane) => {
+        if (lane.required && !lane.ready) {
+            addFinding(findings, "blocker", `coverage-${lane.id}`, `${lane.label}来源覆盖不足：需要至少 ${lane.minimumSuccessfulSources} 个有内容的来源，当前只有 ${lane.successfulSourceIds.length} 个。`);
+        }
+        else if (!lane.required && !lane.ready) {
+            addFinding(findings, "warning", `coverage-${lane.id}`, `${lane.label}尚未形成真实来源覆盖：${lane.note}`);
+        }
+        if (lane.currentWindowChecked && !lane.currentReady) {
+            addFinding(findings, lane.currentInputRequired ? "blocker" : "warning", `current-coverage-${lane.id}`, lane.currentInputRequired
+                ? `${lane.label}在本时段没有足够的新输入：需要至少 ${lane.minimumCurrentSources} 个来源，当前为 ${lane.currentSourceIds.length} 个。`
+                : `${lane.label}在本时段没有新的可用条目：已监测 ${lane.successfulSourceIds.length} 个可访问来源，但当前只命中 ${lane.currentSourceIds.length} 个。${lane.note}`);
+        }
+    });
     review.meta?.cardReviewFindings?.forEach((item) => {
         item.issues.forEach((message) => {
             findings.push({
@@ -180,6 +216,7 @@ function buildMarkdown(report, candidate) {
         `状态：**${statusText(report.status)}**`,
         "",
         `- 内容数量：${report.counts.cards} 条，共 ${report.counts.pages} 版`,
+        `- 出版时段：${candidate.issue.editionLabel ?? candidate.issue.edition ?? "未标记"}`,
         `- 原始候选：${report.counts.rawItems} 条`,
         `- 近七日候选：${report.counts.freshCandidates} 条`,
         `- 自动复检通过：${report.counts.publishableCards} 条`,
@@ -190,6 +227,13 @@ function buildMarkdown(report, candidate) {
         "## 今日内容",
         ""
     ];
+    const coverage = candidate.issue.coverageWindow;
+    if (coverage) {
+        lines.splice(6, 0, `- 覆盖窗口：${coverage.start} 至 ${coverage.end}`);
+    }
+    if (candidate.issue.editionCardIds) {
+        lines.splice(7, 0, `- 本时段新增或替换：${candidate.issue.editionCardIds.length} 条；沿用上一版：${candidate.issue.carriedCardIds?.length ?? 0} 条`);
+    }
     candidate.issue.cards.forEach((card, index) => {
         const sourceDate = card.sourceLinks[0]?.publishedAt?.slice(0, 10) ?? "日期未知";
         lines.push(`${index + 1}. [${card.importance}] ${card.title}（${sourceDate}）`);
@@ -228,10 +272,11 @@ async function main() {
         : await readJson(options.reviewInput);
     const candidateText = `${JSON.stringify(candidate, null, 2)}\n`;
     const findings = inspectIssue(options.date, review, candidate);
-    const persistentFindingCodes = new Set(["source-fetch-failures"]);
     if (previousReport) {
         previousReport.findings
-            .filter((finding) => persistentFindingCodes.has(finding.code))
+            .filter((finding) => finding.code === "source-fetch-failures" ||
+            finding.code === "translation-failures" ||
+            finding.code.startsWith("coverage-"))
             .forEach((finding) => {
             if (!findings.some((item) => item.code === finding.code)) {
                 findings.push(finding);

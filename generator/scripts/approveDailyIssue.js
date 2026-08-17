@@ -14,11 +14,16 @@ function parseArgs(argv) {
     if (!/^\d{4}-\d{2}-\d{2}$/u.test(date)) {
         throw new Error("--date must use YYYY-MM-DD");
     }
+    const edition = values.get("edition") ?? "morning";
+    if (edition !== "morning" && edition !== "midday" && edition !== "evening") {
+        throw new Error("--edition must be morning, midday, or evening");
+    }
     return {
         date,
         confirmation: values.get("confirmation") ?? "",
         pendingDirectory: values.get("pending-directory") ?? "pending",
-        outputDirectory: values.get("output-directory") ?? "."
+        outputDirectory: values.get("output-directory") ?? ".",
+        edition
     };
 }
 const sha256 = (value) => {
@@ -37,15 +42,20 @@ async function main() {
     }
     const fs = nodeRequire("node:fs/promises");
     const path = nodeRequire("node:path");
-    const pendingPath = path.join(options.pendingDirectory, `${options.date}.json`);
-    const reportPath = path.join(options.pendingDirectory, `${options.date}.review.json`);
+    const pendingBaseName = `${options.date}-${options.edition}`;
+    const pendingPath = path.join(options.pendingDirectory, `${pendingBaseName}.json`);
+    const reportPath = path.join(options.pendingDirectory, `${pendingBaseName}.review.json`);
     const latestPath = path.join(options.outputDirectory, "latest.json");
     const archivePath = path.join(options.outputDirectory, "issues", `${options.date}.json`);
+    const editionArchivePath = path.join(options.outputDirectory, "editions", options.date, `${options.edition}.json`);
     const candidateText = await fs.readFile(pendingPath, "utf8");
     const candidate = JSON.parse(candidateText);
     const report = JSON.parse(await fs.readFile(reportPath, "utf8"));
     if (report.date !== options.date || candidate.issue.date !== options.date) {
         throw new Error("Pending issue date does not match the approval date");
+    }
+    if (candidate.issue.edition !== options.edition) {
+        throw new Error("Pending issue edition does not match the approval edition");
     }
     if (report.status === "blocked") {
         throw new Error("Pending issue still has blocking findings and cannot be published");
@@ -53,13 +63,26 @@ async function main() {
     if (sha256(candidateText) !== report.candidateSha256) {
         throw new Error("Pending issue changed after review; regenerate its review summary first");
     }
-    if (candidate.issue.cards.length < 15 || candidate.issue.cards.length > 30) {
-        throw new Error("Pending issue card count is outside the 15 to 30 publishing range");
+    if (candidate.issue.cards.length < 15 || candidate.issue.cards.length > 24) {
+        throw new Error("Pending issue card count is outside the 15 to 24 publishing range");
     }
     try {
         const latest = JSON.parse(await fs.readFile(latestPath, "utf8"));
         if (latest.issue.date > options.date) {
             throw new Error("Refusing to replace a newer online issue with an older one");
+        }
+        if (latest.issue.date === options.date) {
+            const editionOrder = { morning: 1, midday: 2, evening: 3 };
+            const latestEdition = latest.issue.edition ?? "morning";
+            if (editionOrder[latestEdition] > editionOrder[options.edition]) {
+                throw new Error("Refusing to replace a later edition with an earlier edition");
+            }
+            if (editionOrder[latestEdition] === editionOrder[options.edition] &&
+                latest.issue.generatedAt &&
+                candidate.issue.generatedAt &&
+                latest.issue.generatedAt > candidate.issue.generatedAt) {
+                throw new Error("Refusing to replace a newer edition revision with an older one");
+            }
         }
     }
     catch (error) {
@@ -68,9 +91,11 @@ async function main() {
         }
     }
     await fs.mkdir(path.dirname(archivePath), { recursive: true });
+    await fs.mkdir(path.dirname(editionArchivePath), { recursive: true });
     await fs.writeFile(latestPath, candidateText, "utf8");
     await fs.writeFile(archivePath, candidateText, "utf8");
-    console.log(`Approved ${options.date}: ${candidate.issue.cards.length} cards are ready for publishing.`);
+    await fs.writeFile(editionArchivePath, candidateText, "utf8");
+    console.log(`Approved ${options.date} ${options.edition}: ${candidate.issue.cards.length} cards are ready for publishing.`);
 }
 main().catch((error) => {
     console.error(error instanceof Error ? error.message : String(error));

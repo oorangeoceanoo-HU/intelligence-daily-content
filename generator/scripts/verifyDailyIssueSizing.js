@@ -61,10 +61,12 @@ assertEqual((0, dailyIssueBuilder_1.getDailyIssueSelectionBand)({ selectedCount:
 assertEqual((0, dailyIssueBuilder_1.getDailyIssueSelectionBand)({ selectedCount: rules.comfortableMaxCards, importance: "B", finalScore: 60, rules }), undefined, "ordinary cards stop at the comfortable maximum");
 assertEqual((0, dailyIssueBuilder_1.getDailyIssueSelectionBand)({ selectedCount: rules.absoluteMaxCards, importance: "S", finalScore: 100, rules }), undefined, "the absolute maximum is never exceeded");
 assertEqual(selectedCount(makeCards(17, "B", 60)), 17, "a 17-card useful day remains 17 cards");
-assertEqual(selectedCount(makeCards(22, "B", 60)), 22, "a 22-card useful day remains 22 cards");
-assertEqual(selectedCount(makeCards(26, "B", 60)), 24, "ordinary cards stop at the comfortable maximum");
-assertEqual(selectedCount(makeCards(26, "A", 75)), 26, "an important day may grow beyond 24 cards");
-assertEqual(selectedCount(makeCards(35, "A", 90)), 30, "even an exceptional day respects the absolute maximum");
+assertEqual((0, dailyIssueBuilder_1.calculateDailyIssuePageCount)(13), 2, "a 13-card day does not create a sparse third page");
+assertEqual((0, dailyIssueBuilder_1.calculateDailyIssuePageCount)(17), 3, "a 17-card day keeps each of three pages comfortably readable");
+assertEqual(selectedCount(makeCards(22, "B", 60)), 20, "ordinary B cards stop at the comfortable maximum");
+assertEqual(selectedCount(makeCards(22, "B", 60)), 20, "ordinary cards stop at the comfortable maximum");
+assertEqual(selectedCount(makeCards(22, "A", 75)), 22, "an important day may grow beyond the comfortable maximum");
+assertEqual(selectedCount(makeCards(35, "A", 90)), 24, "even an exceptional day respects the absolute maximum");
 assertEqual(selectedCount([...makeCards(13, "B", 60), ...makeCards(2, "C", 45, 100)]), 15, "two relevant C cards may complete the minimum issue");
 const recencyIssue = (0, dailyIssueBuilder_1.buildDailyIssue)({
     userId: "recency-test",
@@ -91,7 +93,7 @@ const sourceBalancedIssue = (0, dailyIssueBuilder_1.buildDailyIssue)({
             }))
         }
     }))).flat(),
-    maxCards: 30,
+    maxCards: 24,
     generatedAt: "2026-08-17T00:00:00.000Z"
 }).issue;
 assertEqual(sourceBalancedIssue.cards.length, 16, "four strong cards per source may be retained so the issue can grow beyond the 15-card minimum");

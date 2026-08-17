@@ -7,6 +7,14 @@ on:
         description: Edited pending issue date in YYYY-MM-DD
         required: true
         type: string
+      edition:
+        description: Publication window
+        required: true
+        type: choice
+        options:
+          - morning
+          - midday
+          - evening
 
 permissions:
   contents: write
@@ -31,44 +39,47 @@ jobs:
         id: issue-date
         env:
           REQUESTED_DATE: ${{ inputs.date }}
+          REQUESTED_EDITION: ${{ inputs.edition }}
         run: |
           DATE="$REQUESTED_DATE"
           if ! [[ "$DATE" =~ ^[0-9]{4}-[0-9]{2}-[0-9]{2}$ ]]; then
             echo "Invalid date: $DATE" >&2
             exit 1
           fi
-          test -f "pending/$DATE.json"
-          test -f "pending/$DATE.review.json"
+          test -f "pending/$DATE-$REQUESTED_EDITION.json"
+          test -f "pending/$DATE-$REQUESTED_EDITION.review.json"
           echo "date=$DATE" >> "$GITHUB_OUTPUT"
 
       - name: Recheck edited pending issue
         env:
           DATE: ${{ steps.issue-date.outputs.date }}
+          EDITION: ${{ inputs.edition }}
         run: |
           node generator/scripts/createDailyReviewSummary.js \
             --date "$DATE" \
-            --recheck-input "pending/$DATE.json" \
-            --previous-report-input "pending/$DATE.review.json" \
-            --pending-output "pending/$DATE.json" \
-            --summary-output "pending/$DATE.md" \
-            --report-output "pending/$DATE.review.json"
+            --recheck-input "pending/$DATE-$EDITION.json" \
+            --previous-report-input "pending/$DATE-$EDITION.review.json" \
+            --pending-output "pending/$DATE-$EDITION.json" \
+            --summary-output "pending/$DATE-$EDITION.md" \
+            --report-output "pending/$DATE-$EDITION.review.json"
 
       - name: Show review summary
         env:
           DATE: ${{ steps.issue-date.outputs.date }}
-        run: cat "pending/$DATE.md" >> "$GITHUB_STEP_SUMMARY"
+          EDITION: ${{ inputs.edition }}
+        run: cat "pending/$DATE-$EDITION.md" >> "$GITHUB_STEP_SUMMARY"
 
       - name: Commit refreshed review
         env:
           DATE: ${{ steps.issue-date.outputs.date }}
+          EDITION: ${{ inputs.edition }}
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add "pending/$DATE.json" "pending/$DATE.md" "pending/$DATE.review.json"
+          git add "pending/$DATE-$EDITION.json" "pending/$DATE-$EDITION.md" "pending/$DATE-$EDITION.review.json"
           if git diff --cached --quiet; then
             echo "Review already matches the edited pending issue."
             exit 0
           fi
           git commit -m "Recheck edited daily issue $DATE"
           git push origin HEAD:main
-

@@ -23,7 +23,9 @@ const textOfCard = (card) => [
 const addIssue = (issues, severity, code, message) => {
     issues.push({ severity, code, message });
 };
-const obviousNoisePattern = /Languages|登录|注册|个人登录|法人登录|首页\s+首页|当前位置\s*[:：]?\s*首页|时政要闻\s+应急要闻|政府信息公开\s+通知公告|政务服务|网站主办|网站承办|中华人民共和国中央人民政府|网站标识码|ICP备|责任编辑|打印本页|关闭窗口|上一篇|下一篇|分享到|扫一扫|版权所有|浏览次数|字号|字体：|&emsp;|&ensp;/i;
+const obviousNoisePattern = /Languages|其他印地语|和平与安全\s+经济发展\s+人道主义援助|秘书长发言人|登录|注册|个人登录|法人登录|首页\s+首页|当前位置\s*[:：]?\s*首页|时政要闻\s+应急要闻|政府信息公开\s+通知公告|政务服务|网站主办|网站承办|中华人民共和国中央人民政府|网站标识码|ICP备|责任编辑|打印本页|关闭窗口|上一篇|下一篇|分享到|扫一扫|版权所有|浏览次数|字号|字体：|&emsp;|&ensp;/i;
+const newsletterOrHostIntroPattern = /CNBC\s*(?:每日开盘|Daily\s+Open)|大家好[，,]?我是[^。！？]{0,50}(?:来自|从)[^。！？]{0,30}/iu;
+const narrativeFeatureTitlePattern = /^(?:第一人称|First\s+Person|Opinion|Commentary|观点[：:])/iu;
 const tableNoisePattern = /附表|规格说明表|螺纹钢|普通中板|热轧普通板卷|无缝钢管|烧碱|聚乙烯|冰醋酸|顺丁胶|涤纶长丝|液化天然气|液化石油气|Φ|HRB|Q235|NaOH|SCRWF|HPB|P\.O|KPa|熔融指数/;
 const noisyImagePattern = /logo|icon|favicon|search|weibo|weixin|wechat|qrcode|qr-code|erweima|ewm\.png|zxcode|code\.jpg|spacer|blank|nav|share|printer|footer|header|circle|\/gh\./i;
 const internalProductLanguagePattern = /用户画像|进入日报|是否进入|提高排序|降低展示频率|适合推给|决定是否展示|正式发布前|候选池|用户城市|关注强度|系统会/u;
@@ -32,6 +34,11 @@ const isMostlyUntranslatedEnglish = (value) => {
     const latinLetters = countMatches(value, /[A-Za-z]/g);
     const cjkChars = countMatches(value, /[\u4e00-\u9fff]/g);
     return latinLetters >= 120 && latinLetters > cjkChars * 1.4;
+};
+const isUntranslatedEnglishTitle = (value) => {
+    const latinLetters = countMatches(value, /[A-Za-z]/g);
+    const cjkChars = countMatches(value, /[\u4e00-\u9fff]/g);
+    return latinLetters >= 12 && cjkChars === 0;
 };
 const scoreFromIssues = (issues) => Math.max(0, 100 -
     issues.reduce((sum, issue) => sum + (issue.severity === "error" ? 30 : 10), 0));
@@ -91,6 +98,15 @@ function evaluateCardDraftQuality(card, detail) {
     if (fieldLength(card.oneLine) > 180) {
         addIssue(issues, "warning", "one-line-too-long", "一句话导读偏长，详情页顶部可能显得拥挤。");
     }
+    const titleContent = [card.oneLine, card.body.background, card.body.keyProgress].join(" ");
+    const titleContentCoverage = (0, textSimilarity_1.textContainment)(card.title, titleContent);
+    if (titleContentCoverage < 0.14) {
+        addIssue(issues, "error", "title-content-mismatch", "标题与导读、背景和进展缺少共同事件信息，不能确认它们讲的是同一件事。");
+    }
+    else if ((0, textSimilarity_1.textSimilarity)(card.title, card.oneLine) < 0.05 &&
+        (0, textSimilarity_1.textContainment)(card.title, card.oneLine) < 0.14) {
+        addIssue(issues, "warning", "title-lead-low-overlap", "标题和一句话导读的共同信息偏少，需要补足它们之间的事件对应关系。");
+    }
     if (fieldLength(card.body.background) < 32) {
         addIssue(issues, "error", "background-too-short", "事件背景太短，需要补足基本事实。");
     }
@@ -109,7 +125,19 @@ function evaluateCardDraftQuality(card, detail) {
     if ([card.oneLine, card.body.background, card.body.keyProgress].some((field) => field.includes("..."))) {
         addIssue(issues, "warning", "truncated-field", "卡片中存在省略号截断痕迹，正式发布前建议改写成完整句子。");
     }
-    if ([card.oneLine, card.body.background, card.body.keyProgress].some(isMostlyUntranslatedEnglish)) {
+    const hasEnglishSource = card.sourceLinks.some((source) => source.originalLanguage === "en" || source.language === "en");
+    const hasUntranslatedEnglish = [
+        card.title,
+        card.oneLine,
+        card.body.background,
+        card.body.keyProgress,
+        card.body.whyItMatters,
+        card.body.userRelevance,
+        card.body.whatToWatch
+    ]
+        .filter((value) => Boolean(value))
+        .some((value) => isMostlyUntranslatedEnglish(value) || isUntranslatedEnglishTitle(value));
+    if (hasUntranslatedEnglish || (hasEnglishSource && isUntranslatedEnglishTitle(card.title))) {
         addIssue(issues, "error", "english-not-translated", "英文来源尚未生成完整中文摘要，不能进入正式日报。");
     }
     if (/^[”’」』）)、；，。]/.test(compact(card.body.background)) || /^[”’」』）)、；，。]/.test(compact(card.body.keyProgress))) {
@@ -120,6 +148,18 @@ function evaluateCardDraftQuality(card, detail) {
     }
     if (obviousNoisePattern.test(cardText)) {
         addIssue(issues, "error", "obvious-web-noise", "卡片里仍含明显网页导航或站点噪音。");
+    }
+    if (/TechCrunch\s+(?:Brand\s+Studio|品牌工作室)|\b(?:hide|toggle)\s+caption\b/iu.test(cardText)) {
+        addIssue(issues, "error", "obvious-web-noise", "卡片里仍含媒体页面的导航、品牌或图片说明噪音。");
+    }
+    if (/Manage\s+my\s+choices|browser\s+extensions?[^。！？]{0,80}video\s+player|启用广告跟踪|管理我的选择|浏览器扩展[^。！？]{0,80}视频播放器/iu.test(cardText)) {
+        addIssue(issues, "error", "obvious-web-noise", "卡片里仍含视频播放器或隐私设置提示，不能作为新闻正文。 ");
+    }
+    if (newsletterOrHostIntroPattern.test(cardText)) {
+        addIssue(issues, "error", "newsletter-or-host-intro", "卡片更像新闻简报开场或主持人自我介绍，不应代替具体事件报道。");
+    }
+    if (narrativeFeatureTitlePattern.test(compact(card.title))) {
+        addIssue(issues, "error", "narrative-feature", "第一人称或评论式专题可作为背景阅读，但不应替代当日需要知道的新闻事件。");
     }
     if (internalProductLanguagePattern.test(cardText)) {
         addIssue(issues, "error", "internal-product-language", "卡片混入内部筛选或产品设计语言，需要改写为直接面向读者的说明。");

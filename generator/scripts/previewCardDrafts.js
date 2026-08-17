@@ -234,7 +234,7 @@ async function main() {
         return;
     }
     console.log("真实卡片草稿预览");
-    console.log(`来源：${options.sources.map((sourceId) => shortSourceNames[sourceId]).join("、")}`);
+    console.log(`来源：${options.sources.map((sourceId) => shortSourceNames[sourceId] ?? sourceId).join("、")}`);
     console.log(`抓取成功：${fetchResults.filter((result) => result.ok).length}/${fetchResults.length}`);
     fetchResults
         .filter((result) => !result.ok)

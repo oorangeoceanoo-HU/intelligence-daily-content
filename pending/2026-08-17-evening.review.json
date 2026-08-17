@@ -1,38 +1,36 @@
 {
   "version": 1,
   "date": "2026-08-17",
-  "generatedAt": "2026-08-17T12:04:14.223Z",
+  "generatedAt": "2026-08-17T13:49:13.174Z",
   "status": "review",
   "reviewMode": "generated",
-  "candidateSha256": "836df3b422eb67a928706e4657f3b7e0d87986aab572b1e13a7b224bc2bc9d23",
+  "candidateSha256": "3a5c2701b2ef2340f79382ff93c49e2d52f14a606d41a3a73119d87dce9a1d0c",
   "counts": {
-    "cards": 19,
-    "pages": 3,
-    "rawItems": 50,
-    "freshCandidates": 41,
-    "publishableCards": 18,
-    "reviewableCards": 4,
-    "rejectedCards": 7,
+    "cards": 12,
+    "pages": 2,
+    "rawItems": 37,
+    "freshCandidates": 30,
+    "publishableCards": 11,
+    "reviewableCards": 3,
+    "rejectedCards": 4,
     "blockers": 0,
     "warnings": 8
   },
   "findings": [
     {
       "level": "warning",
+      "code": "lower-than-usual-card-count",
+      "message": "当前只有 12 条。系统不会用低相关性内容凑数，但应检查是否有来源或时间窗口缺口。"
+    },
+    {
+      "level": "warning",
       "code": "source-fetch-failures",
-      "message": "有 3 个来源抓取失败，需要确认是否影响当天覆盖面。"
+      "message": "有 4 个来源抓取失败，需要确认是否影响当天覆盖面。"
     },
     {
       "level": "warning",
       "code": "current-coverage-local",
       "message": "居住城市与家乡城市：上海、杭州在本时段没有新的可用条目：已监测 1 个可访问来源，但当前只命中 0 个。城市新闻发现源只负责发现线索，涉及政策、灾害和公共服务的内容还要回到当地官方或主流来源确认。"
-    },
-    {
-      "level": "warning",
-      "code": "card-needs-human-review",
-      "message": "原文信息量有限，需要确认是否足以支持卡片结论。",
-      "cardId": "draft-real-xinhua-world-1izorsa",
-      "cardTitle": "哥伦比亚强震已致289人死亡 逾18万人受灾"
     },
     {
       "level": "warning",

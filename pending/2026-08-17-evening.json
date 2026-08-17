@@ -1,17 +1,17 @@
 {
   "schemaVersion": 2,
-  "publishedAt": "2026-08-17T12:02:58.486Z",
+  "publishedAt": "2026-08-17T13:48:09.281Z",
   "issue": {
     "id": "daily-public-2026-08-17",
     "date": "2026-08-17",
     "userId": "public",
     "cards": [
       {
-        "id": "draft-real-cnbc-world-rss-17dvnyl",
+        "id": "draft-cluster-real-cnbc-world-rss-17dvnyl",
         "title": "特朗普威胁称，如果阿曼在美伊停火到期后“妨碍”，他将“轰炸”阿曼",
         "oneLine": "政策变化：美国总统唐纳德·特朗普周一在这篇文章中表示，如果阿曼“妨碍”，美国将“轰炸”阿曼，因为华盛顿与伊朗的 60 天停火期即将到期，且看不到任何正式谈判或协议。",
         "importance": "S",
-        "credibility": "主流媒体",
+        "credibility": "多源确认",
         "tags": [
           "S",
           "mustKnow",
@@ -29,7 +29,7 @@
         "section": "front",
         "body": {
           "background": "此前，在周一美国和伊朗之间 60 天停火期到期之前，通过霍尔木兹海峡的航运交通在周末放缓至停止状态，目前还看不到正式谈判或达成协议的迹象。",
-          "keyProgress": "总体而言，自 2 月 28 日战争爆发前以来，航运量下降了 90%，霍尔木兹海峡运送了世界上约五分之一的石油，平均每天约有 130 艘船只过境。汇丰银行 (HSBC) 航运专家帕拉什·杰恩 (Parash Jain) 周一上午对 CNBC 的 Squawk Box Europe 表示，投资者应该了解该行业“混乱是常态”，并将其纳入他们的基本假设中。",
+          "keyProgress": "汇丰银行航运专家帕拉什·杰恩 (Parash Jain) 周一早上告诉 CNBC 的 Squawk Box Europe，投资者应该了解该行业“混乱是常态”，并将其纳入他们的基本假设中。由于美国维持对伊朗港口的封锁，阿曼已与德黑兰就霍尔木兹海峡问题进行谈判，以重新开放这条具有战略意义的商业运输航道。",
           "whyItMatters": "“特朗普威胁称，如果阿曼在美伊停火到期后妨碍，他将轰炸阿曼”如果继续发展，可能通过能源价格、航运、贸易、汇率或市场预期传导到国内。了解它的意义在于判断后续风险，而不只停留在事件本身。",
           "userRelevance": "即使你不在美国、伊朗、霍尔木兹海峡，“特朗普威胁称，如果阿曼在美伊停火到期后妨碍，他将轰炸阿曼”也可能通过能源价格、国际航运、贸易成本和市场预期间接影响国内生活与工作判断。",
           "whatToWatch": "接下来要看“特朗普威胁称，如果阿曼在美伊停火到期后妨碍，他将轰炸阿曼”是否出现更细的城市、行业、平台或企业数据，以及这一变化能否连续保持。"
@@ -39,17 +39,31 @@
             "title": "CNBC World News RSS",
             "url": "https://www.cnbc.com/2026/08/17/us-iran-war-trump-hormuz.html",
             "sourceId": "cnbc-world-rss",
-            "publishedAt": "2026-08-17T11:55:48.000Z",
+            "publishedAt": "2026-08-17T12:34:07.000Z",
+            "language": "zh",
+            "originalLanguage": "en",
+            "translationStatus": "translated"
+          },
+          {
+            "title": "France 24 Middle East RSS",
+            "url": "https://www.france24.com/en/middle-east/20260817-middle-east-live-us-envoy-kushner-to-meet-netanyahu-after-talks-with-hamas",
+            "sourceId": "france24-middle-east-rss",
+            "publishedAt": "2026-08-17T04:45:34.000Z",
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated"
           }
         ],
-        "images": [],
-        "generatedAt": "2026-08-17T12:02:58.486Z"
+        "images": [
+          {
+            "url": "https://s.france24.com/media/display/f40e3e8a-8f7f-11f1-8ccc-005056a90284/w:1024/p:16x9/2026-08-03T185319Z-684638-RC22RMA599HN-RTRMADP-3-USA-TRUMP.jpg",
+            "sourceUrl": "https://www.france24.com/en/middle-east/20260817-middle-east-live-us-envoy-kushner-to-meet-netanyahu-after-talks-with-hamas"
+          }
+        ],
+        "generatedAt": "2026-08-17T13:48:09.281Z"
       },
       {
-        "id": "draft-real-cnbc-world-rss-1jzpf1l",
+        "id": "draft-real-cnbc-world-rss-1kto84i",
         "title": "乌克兰战争中最大规模的空袭之一后，俄罗斯瞄准多瑙河港口",
         "oneLine": "政策变化：乌克兰当局周一表示，在乌克兰战争期间最大规模的空袭之一之后，俄罗斯连夜对乌克兰敖德萨南部地区的港口基础设施发动了袭击。",
         "importance": "S",
@@ -88,10 +102,10 @@
           }
         ],
         "images": [],
-        "generatedAt": "2026-08-17T12:02:58.486Z"
+        "generatedAt": "2026-08-17T13:48:09.281Z"
       },
       {
-        "id": "draft-real-cnbc-world-rss-16a6oq4",
+        "id": "draft-real-cnbc-world-rss-1vjk9mq",
         "title": "日本汽车制造商容易受到伊朗战争的双重冲击和日元升值的影响",
         "oneLine": "政策变化：在这篇文章中，日本汽车制造商似乎很容易受到伊朗战争和日元汇率好转的影响。",
         "importance": "S",
@@ -130,132 +144,7 @@
           }
         ],
         "images": [],
-        "generatedAt": "2026-08-17T12:02:58.486Z"
-      },
-      {
-        "id": "draft-real-xinhua-world-16ac8kt",
-        "title": "尼日利亚各界人士热议中国对非零关税机遇",
-        "oneLine": "政策变化：尼日利亚中国研究中心14日举办“中国零关税举措与非洲经济结构转型”主题研讨会，近500名代表出席。",
-        "importance": "S",
-        "credibility": "主流媒体",
-        "tags": [
-          "S",
-          "mustKnow",
-          "industry",
-          "world",
-          "policy"
-        ],
-        "industries": [
-          "generalPublic",
-          "financeInvestment",
-          "operationsGrowth",
-          "contentCreator"
-        ],
-        "section": "front",
-        "body": {
-          "background": "他说，在全球贸易保护主义抬头的背景下，中国对53个非洲建交国全面实施零关税举措。",
-          "keyProgress": "中国驻尼日利亚大使于敦海在致辞中指出，零关税政策实施3个半月以来，政策红利快速显现。今年是中国和非洲开启外交关系70周年，也是中国和尼日利亚建立外交关系55周年。",
-          "whyItMatters": "“尼日利亚各界人士热议中国对非零关税机遇”如果继续发展，可能通过能源价格、航运、贸易、汇率或市场预期传导到国内。了解它的意义在于判断后续风险，而不只停留在事件本身。",
-          "userRelevance": "即使你不在中国，“尼日利亚各界人士热议中国对非零关税机遇”也可能通过能源价格、国际航运、贸易成本和市场预期间接影响国内生活与工作判断。",
-          "whatToWatch": "接下来要看“尼日利亚各界人士热议中国对非零关税机遇”是否出现新的官方信息、后续行动，以及它与中国出行、贸易或公共判断的关联是否扩大。"
-        },
-        "sourceLinks": [
-          {
-            "title": "新华网国际",
-            "url": "https://www.news.cn/silkroad/20260817/3cf54b651551411abf42d540c77349de/c.html",
-            "sourceId": "xinhua-world",
-            "publishedAt": "2026-08-17T00:00:00+08:00",
-            "language": "zh",
-            "originalLanguage": "zh",
-            "translationStatus": "not-needed"
-          }
-        ],
-        "images": [],
-        "generatedAt": "2026-08-17T12:02:58.486Z"
-      },
-      {
-        "id": "draft-real-xinhua-world-54wodt",
-        "title": "机构警告全球食品价格通胀或迎来新一轮危机",
-        "oneLine": "风险提醒：此前，联合国粮食及农业组织发布报告显示，7月全球食品价格指数环比上涨幅度达到2023年1月以来新高。",
-        "importance": "S",
-        "credibility": "主流媒体",
-        "tags": [
-          "S",
-          "mustKnow",
-          "risk",
-          "industry",
-          "world",
-          "policy",
-          "disaster"
-        ],
-        "industries": [
-          "generalPublic",
-          "financeInvestment",
-          "operationsGrowth",
-          "contentCreator"
-        ],
-        "section": "risk",
-        "body": {
-          "background": "美国金融机构摩根大通日前发布最新报告预计，全球食品价格通胀率将从今年上半年的2.8%提升至明年上半年的5%。",
-          "keyProgress": "报告预计，2027年上半年食品价格通胀率将达到5%，推动整体通胀率上升0.6个百分点。报告分析，在亚洲、非洲和拉丁美洲的部分地区，农业对天气变化更为敏感，食品在居民消费中占比更高。",
-          "whyItMatters": "“机构警告全球食品价格通胀或迎来新一轮危机”的直接价值是帮助你判断是否需要调整出行、居住或工作安排。影响地区、持续时间、预警等级和官方避险建议比事件热度更重要。",
-          "userRelevance": "对于“机构警告全球食品价格通胀或迎来新一轮危机”，如果你近期计划前往事发地区或与当地有工作、家人联系，需要留意后续预警；没有直接联系时，可把它作为区域风险背景了解。",
-          "whatToWatch": "接下来要看“机构警告全球食品价格通胀或迎来新一轮危机”的影响范围是否扩大、预警等级是否变化，以及是否出现与你所在城市相关的提醒。"
-        },
-        "sourceLinks": [
-          {
-            "title": "新华网国际",
-            "url": "https://www.news.cn/world/20260817/ee1365587605423daff158ff6c66e1f5/c.html",
-            "sourceId": "xinhua-world",
-            "publishedAt": "2026-08-17T00:00:00+08:00",
-            "language": "zh",
-            "originalLanguage": "zh",
-            "translationStatus": "not-needed"
-          }
-        ],
-        "images": [],
-        "generatedAt": "2026-08-17T12:02:58.486Z"
-      },
-      {
-        "id": "draft-real-xinhua-world-rll09d",
-        "title": "乌军袭击俄大型物流枢纽 俄打击乌军工企业和炼油厂",
-        "oneLine": "政策变化：商平台野莓公司位于莫斯科州的物流枢纽发动了大规模无人机袭击。",
-        "importance": "A",
-        "credibility": "主流媒体",
-        "tags": [
-          "A",
-          "mustKnow",
-          "industry",
-          "world",
-          "policy"
-        ],
-        "industries": [
-          "generalPublic",
-          "financeInvestment",
-          "operationsGrowth",
-          "contentCreator"
-        ],
-        "section": "front",
-        "body": {
-          "background": "另据俄国防部16日发布的消息，俄军当天打击了乌克兰的军工企业和炼油厂等设施。",
-          "keyProgress": "乌国防部称，位于莫斯科州的物流枢纽占地25万平方米，是野莓公司最大的仓库设施。截至目前，野莓公司的10处大型仓库已有7处因乌军袭击而停止运行。",
-          "whyItMatters": "“乌军袭击俄大型物流枢纽 俄打击乌军工企业和炼油厂”如果继续发展，可能通过能源价格、航运、贸易、汇率或市场预期传导到国内。了解它的意义在于判断后续风险，而不只停留在事件本身。",
-          "userRelevance": "即使你不在事发地区，“乌军袭击俄大型物流枢纽 俄打击乌军工企业和炼油厂”也可能通过能源价格、国际航运、贸易成本和市场预期间接影响国内生活与工作判断。",
-          "whatToWatch": "接下来要看“乌军袭击俄大型物流枢纽 俄打击乌军工企业和炼油厂”是否出现新的官方信息、后续行动，以及它与中国出行、贸易或公共判断的关联是否扩大。"
-        },
-        "sourceLinks": [
-          {
-            "title": "新华网国际",
-            "url": "https://www.news.cn/world/20260817/7dffacee9e97465d9598c552002bbff5/c.html",
-            "sourceId": "xinhua-world",
-            "publishedAt": "2026-08-17T00:00:00+08:00",
-            "language": "zh",
-            "originalLanguage": "zh",
-            "translationStatus": "not-needed"
-          }
-        ],
-        "images": [],
-        "generatedAt": "2026-08-17T12:02:58.486Z"
+        "generatedAt": "2026-08-17T13:48:09.281Z"
       },
       {
         "id": "draft-cluster-real-npr-world-rss-108om18",
@@ -309,8 +198,8 @@
         "generatedAt": "2026-08-17T11:53:46.147Z"
       },
       {
-        "id": "draft-real-cnbc-world-rss-65l1g6",
-        "title": "亿万富翁 Peter Thiel 收购阿根廷页岩油生产商 Vista Energy 股份后股价上涨 5%",
+        "id": "draft-real-cnbc-world-rss-7jj1x1",
+        "title": "亿万富翁 Peter Thiel 收购阿根廷页岩油生产商 Vista Energy 股份后股价上涨 4%",
         "oneLine": "政策变化：在这篇文章中，石油生产商 Vista Energy 在亿万富翁 Peter Thiel 的对冲基金收购了这家阿根廷公司的股份后，周一在盘前股价上涨。",
         "importance": "B",
         "credibility": "主流媒体",
@@ -331,7 +220,7 @@
         "section": "front",
         "body": {
           "background": "根据周五公布的美国证券交易委员会文件显示，截至 6 月 30 日的第二季度，Thiel Macro LLC 拥有近 120 万股 Vista Energy 美国存托股票，价值约 7600 万美元。",
-          "keyProgress": "Vista Energy 最后一次在周一盘前交易中上涨 5.4%。这是泰尔基金披露的继亚马逊之后的第二大头寸，泰尔宏持有其中 495,000 股，价值约 1.18 亿美元。",
+          "keyProgress": "Vista Energy 最后一次在周一盘前交易中上涨近 4.3%。这是泰尔基金披露的继亚马逊之后的第二大头寸，泰尔宏持有其中 495,000 股，价值约 1.18 亿美元。",
           "whyItMatters": "“亿万富翁 Peter Thiel 收购阿根廷页岩油生产商 Vista Energy 股份后股价上”如果继续发展，可能通过能源价格、航运、贸易、汇率或市场预期传导到国内。了解它的意义在于判断后续风险，而不只停留在事件本身。",
           "userRelevance": "即使你不在事发地区，“亿万富翁 Peter Thiel 收购阿根廷页岩油生产商 Vista Energy 股份后股价上”也可能通过能源价格、国际航运、贸易成本和市场预期间接影响国内生活与工作判断。",
           "whatToWatch": "接下来要看“亿万富翁 Peter Thiel 收购阿根廷页岩油生产商 Vista Energy 股份后股价上”是否出现更细的城市、行业、平台或企业数据，以及这一变化能否连续保持。"
@@ -341,232 +230,56 @@
             "title": "CNBC World News RSS",
             "url": "https://www.cnbc.com/2026/08/17/peter-thiel-hedge-fund-vista-energy-argentina-stake.html",
             "sourceId": "cnbc-world-rss",
-            "publishedAt": "2026-08-17T11:05:58.000Z",
+            "publishedAt": "2026-08-17T13:02:32.000Z",
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated"
           }
         ],
         "images": [],
-        "generatedAt": "2026-08-17T12:02:58.486Z"
+        "generatedAt": "2026-08-17T13:48:09.281Z"
       },
       {
-        "id": "draft-real-gov-cn-policy-library-k1akam",
-        "title": "国务院关于《特殊教育发展提升“十五五”行动计划》的批复",
-        "oneLine": "政策变化：二、《行动计划》实施要坚持以习近平新时代中国特色社会主义思想为指导，深入贯彻党的二十大和二十届历次全会精神，认真落实四中全会部署，深入落实全国教育大会精神和《教育强国建设规划纲要（2024—2035年）》要求，全面贯彻党的教育方针，落实立德树人根本任务，加快建设高质量特殊教育体系，充分保障残疾儿童青。",
+        "id": "draft-real-theverge-ai-rss-16s9u6o",
+        "title": "Anthropic 解释了克劳德的隐形文本水印的工作原理",
+        "oneLine": "趋势信号：Anthropic 已阐明其计划如何将隐形水印应用于 Claude 生成的文本，以遵守欧洲的人工智能透明度规则。",
         "importance": "B",
-        "credibility": "官方来源",
+        "credibility": "主流媒体",
         "tags": [
           "B",
-          "mustKnow",
           "industry",
-          "policy",
-          "china",
-          "education"
+          "ai",
+          "technology",
+          "product"
         ],
         "industries": [
-          "generalPublic",
-          "teacher",
+          "aiProduct",
+          "aiTechnology",
+          "productManagement",
+          "technologyEngineering",
           "educationResearch"
         ],
-        "section": "front",
+        "section": "ai",
         "body": {
-          "background": "国务院关于《特殊教育发展提升 “十五五”行动计划》的批复 教育部、国家发展改革委、民政部、财政部、人力资源社会保障部、国家卫生健康委，中国残联： 《教育部关于报送〈特殊教育发展提升“十五五”行动计划（送审稿）〉的请示》（教基〔2026〕7号）收悉。",
-          "keyProgress": "现批复如下： 一、原则同意《特殊教育发展提升“十五五”行动计划》（以下简称《行动计划》），请认真组织实施。《行动计划》实施涉及的重要政策、重大工程、重点项目要按程序报批。",
-          "whyItMatters": "“国务院关于特殊教育发展提升十五五行动计划的批复”可能影响学校治理、教师工作、课程安排或学生发展。教育从业者可以据此提前关注具体对象、地方执行方式和工作要求。",
-          "userRelevance": "如果你从事教师、教育研究或学校管理，可以重点关注“国务院关于特殊教育发展提升十五五行动计划的批复”的具体对象、执行方式和地方落地节奏；其他用户可把它作为教育环境背景了解。",
-          "whatToWatch": "接下来要看“国务院关于特殊教育发展提升十五五行动计划的批复”是否补充执行细则、地方落地安排、时间节点或适用人群说明。"
+          "background": "周五，Anthropic 宣布 Claude 的文本标记系统是“SynthID-Text 方法的一个版本”——一种由 Google DeepMind 开发的开源水印技术，可使用措辞概率创建可检测的模式。",
+          "keyProgress": "引入这种水印功能以及对 Claude 处理图像的 C2PA 支持是为了履行 Anthropic 在欧盟 AI 法案下的义务，该法案要求合成音频、图像、视频和文本包含机器可读标记，使内容能够被检测为人工生成或操纵。在大多数情况下，模型最终选择后两个单词中的哪一个对于读者来说并不重要——无论哪种方式，句子的含义基本上是相同的。",
+          "whyItMatters": "“Anthropic 解释了克劳德的隐形文本水印的工作原理”能帮助你判断这项能力是否已经进入工程、产品或商业场景，并据此调整技术选型、产品规划、学习重点或职业判断。",
+          "userRelevance": "如果你从事AI 产品、AI 技术、产品管理、技术研发，可以重点判断“Anthropic 解释了克劳德的隐形文本水印的工作原理”是否已经具备产品落地、技术选型或业务合作价值。",
+          "whatToWatch": "接下来要看“Anthropic 解释了克劳德的隐形文本水印的工作原理”是否有更多可靠来源、量产或应用进展，以及它会不会从单点消息发展成持续趋势。"
         },
         "sourceLinks": [
           {
-            "title": "国务院政策文件库",
-            "url": "https://www.gov.cn/zhengce/content/202608/content_7078320.htm",
-            "sourceId": "gov-cn-policy-library",
-            "publishedAt": "2026-08-17T00:00:00+08:00",
+            "title": "The Verge AI RSS",
+            "url": "https://www.theverge.com/ai-artificial-intelligence/980869/anthropic-claude-watermarks-synthid-text-system",
+            "sourceId": "theverge-ai-rss",
+            "publishedAt": "2026-08-17T10:57:13.000Z",
             "language": "zh",
-            "originalLanguage": "zh",
-            "translationStatus": "not-needed"
+            "originalLanguage": "en",
+            "translationStatus": "translated"
           }
         ],
         "images": [],
-        "generatedAt": "2026-08-17T12:02:58.486Z"
-      },
-      {
-        "id": "draft-real-xinhua-tech-18vqeb9",
-        "title": "重构人才培养逻辑 跨越AI时代产教“时间差”",
-        "oneLine": "最新进展：重构人才培养逻辑 跨越AI时代产教“时间差”。",
-        "importance": "B",
-        "credibility": "主流媒体",
-        "tags": [
-          "B",
-          "industry",
-          "technology",
-          "ai",
-          "product"
-        ],
-        "industries": [
-          "technologyEngineering",
-          "educationResearch",
-          "aiProduct",
-          "aiTechnology",
-          "productManagement",
-          "operationsGrowth"
-        ],
-        "section": "ai",
-        "body": {
-          "background": "近日，在浙江乌镇举行的2026中国自动化与人工智能教育大会（以下简称“大会”）上，专家学者建言献策，从高校育人与产业实践双重视角，共探协同育人新模式。",
-          "keyProgress": "资料照片 当大模型以月为单位迭代升级，当AI在工业场景的应用持续加速，高校课堂里的教材、教案与人才培养模式，却仍在以学年甚至以四年为周期更新。如何跨越AI时代产教之间的“时间差”？",
-          "whyItMatters": "“重构人才培养逻辑 跨越AI时代产教时间差”能帮助你判断这项能力是否已经进入工程、产品或商业场景，并据此调整技术选型、产品规划、学习重点或职业判断。",
-          "userRelevance": "如果你从事技术研发、教育研究、AI 产品、AI 技术，可以重点判断“重构人才培养逻辑 跨越AI时代产教时间差”是否已经具备产品落地、技术选型或业务合作价值。",
-          "whatToWatch": "接下来要看“重构人才培养逻辑 跨越AI时代产教时间差”是否有更多可靠来源、量产或应用进展，以及它会不会从单点消息发展成持续趋势。"
-        },
-        "sourceLinks": [
-          {
-            "title": "新华网科技",
-            "url": "https://www.news.cn/tech/20260817/da7a68094c054e1081f464630a8c564e/c.html",
-            "sourceId": "xinhua-tech",
-            "publishedAt": "2026-08-17T00:00:00+08:00",
-            "language": "zh",
-            "originalLanguage": "zh",
-            "translationStatus": "not-needed"
-          }
-        ],
-        "images": [
-          {
-            "url": "https://www.news.cn/tech/20260817/da7a68094c054e1081f464630a8c564e/20260817da7a68094c054e1081f464630a8c564e_20260817ee8fc2b66ceb40b9baf3be80408b203d.jpg",
-            "sourceUrl": "https://www.news.cn/tech/20260817/da7a68094c054e1081f464630a8c564e/c.html"
-          }
-        ],
-        "generatedAt": "2026-08-17T12:02:58.486Z"
-      },
-      {
-        "id": "draft-real-xinhua-tech-1co3y72",
-        "title": "AI助盲眼镜产业化提速 政策加持企业布局",
-        "oneLine": "最新进展：AI助盲眼镜产业化提速 政策加持企业布局。",
-        "importance": "B",
-        "credibility": "主流媒体",
-        "tags": [
-          "B",
-          "industry",
-          "technology",
-          "ai",
-          "product"
-        ],
-        "industries": [
-          "technologyEngineering",
-          "educationResearch",
-          "aiProduct",
-          "aiTechnology",
-          "productManagement",
-          "operationsGrowth"
-        ],
-        "section": "ai",
-        "body": {
-          "background": "6月26日，乐奇（Rokid）在2026生态及开发者大会上推出YodaOS原生AI眼镜操作系统，发布面向视障、听障人群的全链路无障碍方案。",
-          "keyProgress": "在智能眼镜赛道，今年以来，搭载场景识别能力的AI助盲眼镜新品迭出，为便利视障群体出行带来新可能。但AI助盲眼镜产业要实现规模化并不容易，仍需破解产品实时响应时延、复杂网络环境适配、硬件佩戴体验等多重难题。",
-          "whyItMatters": "“AI助盲眼镜产业化提速 政策加持企业布局”能帮助你判断这项能力是否已经进入工程、产品或商业场景，并据此调整技术选型、产品规划、学习重点或职业判断。",
-          "userRelevance": "如果你从事技术研发、教育研究、AI 产品、AI 技术，可以重点判断“AI助盲眼镜产业化提速 政策加持企业布局”是否已经具备产品落地、技术选型或业务合作价值。",
-          "whatToWatch": "接下来要看“AI助盲眼镜产业化提速 政策加持企业布局”是否有更多可靠来源、量产或应用进展，以及它会不会从单点消息发展成持续趋势。"
-        },
-        "sourceLinks": [
-          {
-            "title": "新华网科技",
-            "url": "https://www.news.cn/tech/20260817/27f15b844c414700869ca7138937649d/c.html",
-            "sourceId": "xinhua-tech",
-            "publishedAt": "2026-08-17T00:00:00+08:00",
-            "language": "zh",
-            "originalLanguage": "zh",
-            "translationStatus": "not-needed"
-          }
-        ],
-        "images": [],
-        "generatedAt": "2026-08-17T12:02:58.486Z"
-      },
-      {
-        "id": "draft-real-xinhua-tech-8qn5rg",
-        "title": "隐形水印上线，AI写作开始留痕",
-        "oneLine": "趋势信号：”随着生成式人工智能（AI）越来越多地参与写作，这个过去鲜少有人追问的问题，如今正变得越来越常见。",
-        "importance": "B",
-        "credibility": "主流媒体",
-        "tags": [
-          "B",
-          "industry",
-          "technology",
-          "ai",
-          "product"
-        ],
-        "industries": [
-          "technologyEngineering",
-          "educationResearch",
-          "aiProduct",
-          "aiTechnology",
-          "productManagement",
-          "operationsGrowth"
-        ],
-        "section": "ai",
-        "body": {
-          "background": "近日，美国人工智能企业Anthropic宣布，8月2日及以后发布的新Claude模型将从上线起为生成内容加入机器可读标记。",
-          "keyProgress": "过去，AI生成的文字往往可以混在人类作品中而不易察觉。如今，模型开始主动给自己的输出留下“指纹”，AI代笔正在从难以辨认走向可以追溯。",
-          "whyItMatters": "“隐形水印上线，AI写作开始留痕”能帮助你判断这项能力是否已经进入工程、产品或商业场景，并据此调整技术选型、产品规划、学习重点或职业判断。",
-          "userRelevance": "如果你从事技术研发、教育研究、AI 产品、AI 技术，可以重点判断“隐形水印上线，AI写作开始留痕”是否已经具备产品落地、技术选型或业务合作价值。",
-          "whatToWatch": "接下来要看“隐形水印上线，AI写作开始留痕”是否有更多可靠来源、量产或应用进展，以及它会不会从单点消息发展成持续趋势。"
-        },
-        "sourceLinks": [
-          {
-            "title": "新华网科技",
-            "url": "https://www.news.cn/tech/20260817/4f4331a44de547d697f90d98b55d13a1/c.html",
-            "sourceId": "xinhua-tech",
-            "publishedAt": "2026-08-17T00:00:00+08:00",
-            "language": "zh",
-            "originalLanguage": "zh",
-            "translationStatus": "not-needed"
-          }
-        ],
-        "images": [],
-        "generatedAt": "2026-08-17T12:02:58.486Z"
-      },
-      {
-        "id": "draft-real-xinhua-tech-u0cqsw",
-        "title": "2026年上半年全国消协组织受理投诉情况分析显示——AI客服成消费投诉新热点",
-        "oneLine": "趋势信号：根据全国消协组织受理投诉情况统计，2026年上半年全国消协组织共受理消费者投诉985928件，同比下降1.01%，解决567926件，为消费者挽回经济损失4.47亿元。",
-        "importance": "B",
-        "credibility": "主流媒体",
-        "tags": [
-          "B",
-          "industry",
-          "technology",
-          "ai",
-          "product"
-        ],
-        "industries": [
-          "technologyEngineering",
-          "educationResearch",
-          "aiProduct",
-          "aiTechnology",
-          "productManagement",
-          "operationsGrowth"
-        ],
-        "section": "ai",
-        "body": {
-          "background": "现在，随着生成式人工智能广泛应用于消费服务领域，AI客服已成为经营者开展商品咨询、费用说明、营销宣传、售后服务的重要工具。",
-          "keyProgress": "让人意外的是，消费者反映的问题主要集中在AI客服不实承诺、人工客服接入困难、生成内容失准等方面。然而，一段时间以来，涉及AI客服或通用型AI的问题越发突出，成为消费者的投诉热点。",
-          "whyItMatters": "“2026年上半年全国消协组织受理投诉情况分析显示——AI客服成消费投诉新热点”能帮助你判断这项能力是否已经进入工程、产品或商业场景，并据此调整技术选型、产品规划、学习重点或职业判断。",
-          "userRelevance": "如果你从事技术研发、教育研究、AI 产品、AI 技术，可以重点判断“2026年上半年全国消协组织受理投诉情况分析显示——AI客服成消费投诉新热点”是否已经具备产品落地、技术选型或业务合作价值。",
-          "whatToWatch": "接下来要看“2026年上半年全国消协组织受理投诉情况分析显示——AI客服成消费投诉新热点”是否有更多可靠来源、量产或应用进展，以及它会不会从单点消息发展成持续趋势。"
-        },
-        "sourceLinks": [
-          {
-            "title": "新华网科技",
-            "url": "https://www.news.cn/tech/20260817/f05985ebfc3b4a17bfbb774c62ada5ab/c.html",
-            "sourceId": "xinhua-tech",
-            "publishedAt": "2026-08-17T00:00:00+08:00",
-            "language": "zh",
-            "originalLanguage": "zh",
-            "translationStatus": "not-needed"
-          }
-        ],
-        "images": [],
-        "generatedAt": "2026-08-17T12:02:58.486Z"
+        "generatedAt": "2026-08-17T13:48:09.281Z"
       },
       {
         "id": "draft-real-xinhua-world-3yyqw3",
@@ -820,10 +533,10 @@
         "generatedAt": "2026-08-17T11:53:46.147Z"
       }
     ],
-    "estimatedReadMinutes": 22,
-    "pageCount": 3,
-    "topCardId": "draft-real-cnbc-world-rss-17dvnyl",
-    "generatedAt": "2026-08-17T12:02:58.486Z",
+    "estimatedReadMinutes": 15,
+    "pageCount": 2,
+    "topCardId": "draft-cluster-real-cnbc-world-rss-17dvnyl",
+    "generatedAt": "2026-08-17T13:48:09.281Z",
     "pushSlots": [
       "07:30",
       "12:30",
@@ -837,18 +550,11 @@
     },
     "basedOnGeneratedAt": "2026-08-17T11:53:46.147Z",
     "editionCardIds": [
-      "draft-real-xinhua-world-16ac8kt",
-      "draft-real-cnbc-world-rss-17dvnyl",
-      "draft-real-cnbc-world-rss-1jzpf1l",
-      "draft-real-cnbc-world-rss-16a6oq4",
-      "draft-real-xinhua-world-54wodt",
-      "draft-real-xinhua-world-rll09d",
-      "draft-real-gov-cn-policy-library-k1akam",
-      "draft-real-cnbc-world-rss-65l1g6",
-      "draft-real-xinhua-tech-18vqeb9",
-      "draft-real-xinhua-tech-1co3y72",
-      "draft-real-xinhua-tech-8qn5rg",
-      "draft-real-xinhua-tech-u0cqsw"
+      "draft-cluster-real-cnbc-world-rss-17dvnyl",
+      "draft-real-cnbc-world-rss-1kto84i",
+      "draft-real-cnbc-world-rss-1vjk9mq",
+      "draft-real-cnbc-world-rss-7jj1x1",
+      "draft-real-theverge-ai-rss-16s9u6o"
     ],
     "carriedCardIds": [
       "draft-cluster-real-npr-world-rss-108om18",

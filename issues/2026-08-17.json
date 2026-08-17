@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "publishedAt": "2026-08-16T23:10:00.000Z",
+  "publishedAt": "2026-08-17T04:10:00.000Z",
   "issue": {
     "id": "daily-public-2026-08-17",
     "date": "2026-08-17",
@@ -154,50 +154,6 @@
         "generatedAt": "2026-08-16T23:10:00.000Z"
       },
       {
-        "id": "draft-real-xinhua-world-rll09d",
-        "title": "乌军袭击俄大型物流枢纽 俄打击乌军工企业和炼油厂",
-        "oneLine": "政策变化：商平台野莓公司位于莫斯科州的物流枢纽发动了大规模无人机袭击。",
-        "importance": "A",
-        "credibility": "主流媒体",
-        "tags": [
-          "A",
-          "mustKnow",
-          "industry",
-          "world",
-          "policy"
-        ],
-        "industries": [
-          "generalPublic",
-          "financeInvestment",
-          "operationsGrowth",
-          "contentCreator"
-        ],
-        "section": "front",
-        "body": {
-          "background": "另据俄国防部16日发布的消息，俄军当天打击了乌克兰的军工企业和炼油厂等设施。",
-          "keyProgress": "乌国防部称，位于莫斯科州的物流枢纽占地25万平方米，是野莓公司最大的仓库设施。截至目前，野莓公司的10处大型仓库已有7处因乌军袭击而停止运行。",
-          "whyItMatters": "“乌军袭击俄大型物流枢纽 俄打击乌军工企业和炼油厂”如果继续发展，可能通过能源价格、航运、贸易、汇率或市场预期传导到国内。了解它的意义在于判断后续风险，而不只停留在事件本身。",
-          "userRelevance": "即使你不在事发地区，“乌军袭击俄大型物流枢纽 俄打击乌军工企业和炼油厂”也可能通过能源价格、国际航运、贸易成本和市场预期间接影响国内生活与工作判断。",
-          "whatToWatch": "接下来要看“乌军袭击俄大型物流枢纽 俄打击乌军工企业和炼油厂”是否出现新的官方信息、后续行动，以及它与中国出行、贸易或公共判断的关联是否扩大。"
-        },
-        "sourceLinks": [
-          {
-            "title": "新华网国际",
-            "url": "https://www.news.cn/world/20260817/7dffacee9e97465d9598c552002bbff5/c.html",
-            "sourceId": "xinhua-world",
-            "publishedAt": "2026-08-17T00:00:00+08:00",
-            "language": "zh",
-            "originalLanguage": "zh",
-            "translationStatus": "not-needed",
-            "fetchedAt": "2026-08-17T14:57:36.261Z",
-            "sourceMethod": "web",
-            "verificationStatus": "confirmed"
-          }
-        ],
-        "images": [],
-        "generatedAt": "2026-08-16T23:10:00.000Z"
-      },
-      {
         "id": "draft-cluster-real-npr-world-rss-zyp0c9",
         "title": "库什纳在与内塔尼亚胡会谈之前会见哈马斯，讨论加沙路线图",
         "oneLine": "最新进展：库什纳在与内塔尼亚胡会谈之前会见哈马斯，讨论加沙路线图。",
@@ -253,6 +209,160 @@
           }
         ],
         "generatedAt": "2026-08-16T23:10:00.000Z"
+      },
+      {
+        "id": "draft-real-xinhua-world-rll09d",
+        "title": "乌军袭击俄大型物流枢纽 俄打击乌军工企业和炼油厂",
+        "oneLine": "政策变化：商平台野莓公司位于莫斯科州的物流枢纽发动了大规模无人机袭击。",
+        "importance": "A",
+        "credibility": "主流媒体",
+        "tags": [
+          "A",
+          "mustKnow",
+          "industry",
+          "world",
+          "policy"
+        ],
+        "industries": [
+          "generalPublic",
+          "financeInvestment",
+          "operationsGrowth",
+          "contentCreator"
+        ],
+        "section": "front",
+        "body": {
+          "background": "另据俄国防部16日发布的消息，俄军当天打击了乌克兰的军工企业和炼油厂等设施。",
+          "keyProgress": "乌国防部称，位于莫斯科州的物流枢纽占地25万平方米，是野莓公司最大的仓库设施。截至目前，野莓公司的10处大型仓库已有7处因乌军袭击而停止运行。",
+          "whyItMatters": "“乌军袭击俄大型物流枢纽 俄打击乌军工企业和炼油厂”如果继续发展，可能通过能源价格、航运、贸易、汇率或市场预期传导到国内。了解它的意义在于判断后续风险，而不只停留在事件本身。",
+          "userRelevance": "即使你不在事发地区，“乌军袭击俄大型物流枢纽 俄打击乌军工企业和炼油厂”也可能通过能源价格、国际航运、贸易成本和市场预期间接影响国内生活与工作判断。",
+          "whatToWatch": "接下来要看“乌军袭击俄大型物流枢纽 俄打击乌军工企业和炼油厂”是否出现新的官方信息、后续行动，以及它与中国出行、贸易或公共判断的关联是否扩大。"
+        },
+        "sourceLinks": [
+          {
+            "title": "新华网国际",
+            "url": "https://www.news.cn/world/20260817/7dffacee9e97465d9598c552002bbff5/c.html",
+            "sourceId": "xinhua-world",
+            "publishedAt": "2026-08-17T00:00:00+08:00",
+            "language": "zh",
+            "originalLanguage": "zh",
+            "translationStatus": "not-needed",
+            "fetchedAt": "2026-08-17T14:57:36.261Z",
+            "sourceMethod": "web",
+            "verificationStatus": "confirmed"
+          }
+        ],
+        "images": [],
+        "generatedAt": "2026-08-16T23:10:00.000Z"
+      },
+      {
+        "id": "draft-real-cnbc-world-rss-957lmo",
+        "title": "日本第二季度GDP年率增长1.1%，低于预期",
+        "oneLine": "政策变化：在本文中，日本经济第二季度年化增长率为 1.1%，低于 2% 的增长预期，原因是国内需求疲软抵消了强劲的出口。",
+        "importance": "B",
+        "credibility": "待确认",
+        "tags": [
+          "B",
+          "industry",
+          "world",
+          "policy",
+          "finance"
+        ],
+        "industries": [
+          "generalPublic",
+          "financeInvestment",
+          "operationsGrowth",
+          "ecommerceRetail"
+        ],
+        "section": "industry",
+        "body": {
+          "background": "数据公布后，日经 225 指数上涨 0.43%，而基准 10 年期日本政府债券收益率为 2.88%。",
+          "keyProgress": "出口是增长的主要推动力，该国本季度所有三个月的发货量都超出了预期。与2026年第一季度相比，GDP增长0.3%，低于预期的0.5%。",
+          "whyItMatters": "“日本第二季度GDP年率增长1.1%，低于预期”如果继续发展，可能通过能源价格、航运、贸易、汇率或市场预期传导到国内。了解它的意义在于判断后续风险，而不只停留在事件本身。",
+          "userRelevance": "即使你不在日本，“日本第二季度GDP年率增长1.1%，低于预期”也可能通过能源价格、国际航运、贸易成本和市场预期间接影响国内生活与工作判断。",
+          "whatToWatch": "接下来要看“日本第二季度GDP年率增长1.1%，低于预期”是否出现更细的城市、行业、平台或企业数据，以及这一变化能否连续保持。"
+        },
+        "sourceLinks": [
+          {
+            "title": "CNBC World News RSS",
+            "url": "https://www.cnbc.com/2026/08/17/japan-gdp-misses-estimates-trade-exports-yen-nikkei.html",
+            "sourceId": "cnbc-world-rss",
+            "publishedAt": "2026-08-17T02:21:02.000Z",
+            "language": "zh",
+            "originalLanguage": "en",
+            "translationStatus": "translated",
+            "fetchedAt": "2026-08-17T15:05:07.553Z",
+            "sourceMethod": "rss",
+            "verificationStatus": "pending"
+          }
+        ],
+        "images": [],
+        "generatedAt": "2026-08-17T04:10:00.000Z"
+      },
+      {
+        "id": "draft-real-stats-cn-data-1vgwvj9",
+        "title": "1—7月份国民经济保持总体平稳、向新向优发展态势",
+        "oneLine": "经营环境信号：一、工业生产较快增长，装备制造业和高技术制造业增势良好 1 — 7 月份，全国规模以上工业增加值同比增长 5.3% 。7 月份，全国规模以上工业增加值同比增长 4.5% ，环比增长 0.11% 。",
+        "importance": "B",
+        "credibility": "官方来源",
+        "tags": [
+          "B",
+          "industry",
+          "china",
+          "consumer",
+          "operations"
+        ],
+        "industries": [
+          "operationsGrowth",
+          "consumerBrand",
+          "financeInvestment",
+          "ecommerceRetail",
+          "generalPublic"
+        ],
+        "section": "industry",
+        "body": {
+          "background": "（ 2 ）规模以上工业的统计范围为年主营业务收入 2000 万元及以上的工业企业。",
+          "keyProgress": "（2026年8月17日） 1 — 7 月份，在以习近平同志为核心的党中央坚强领导下，各地区各部门认真贯彻落实党中央、国务院决策部署，坚持稳中求进工作总基调，有效应对各种外部冲击和内部困难，着力实施更加积极有为的宏观政策，扎实推动高质量发展，生产供给平稳增长，就业物价总体稳定，外贸韧性持续彰显，新动能成长壮大，国民经济运行总体平稳，延续动能向新、结构向优发展态势。分三大门类看，采矿业增加值同比增长 2.5% ，制造业增长 5.6% ，电力、热力、燃气及水生产和供应业增长 5.4% 。",
+          "whyItMatters": "“1—7月份国民经济保持总体平稳、向新向优发展态势”反映了需求、成本或市场节奏的一次变化。它不一定马上改变日常生活，但会影响选品、定价、投放、库存和内容方向。",
+          "userRelevance": "如果你从事运营增长、消费品牌、金融投资、电商零售，“1—7月份国民经济保持总体平稳、向新向优发展态势”可用于观察需求和成本变化，并辅助定价、选品、投放或经营节奏判断。",
+          "whatToWatch": "接下来要看“1—7月份国民经济保持总体平稳、向新向优发展态势”是否出现更细的城市、行业、平台或企业数据，以及这一变化能否连续保持。"
+        },
+        "sourceLinks": [
+          {
+            "title": "国家统计局数据发布",
+            "url": "https://www.stats.gov.cn/sj/zxfb/202608/t20260817_1965056.html",
+            "sourceId": "stats-cn-data",
+            "publishedAt": "2026-08-17T00:00:00+08:00",
+            "language": "zh",
+            "originalLanguage": "zh",
+            "translationStatus": "not-needed",
+            "fetchedAt": "2026-08-17T15:05:23.012Z",
+            "sourceMethod": "web",
+            "verificationStatus": "confirmed"
+          }
+        ],
+        "images": [
+          {
+            "url": "https://www.stats.gov.cn/sj/zxfb/202608/W020260817513801481554.png",
+            "sourceUrl": "https://www.stats.gov.cn/sj/zxfb/202608/t20260817_1965056.html"
+          },
+          {
+            "url": "https://www.stats.gov.cn/sj/zxfb/202608/W020260817513801593791.png",
+            "sourceUrl": "https://www.stats.gov.cn/sj/zxfb/202608/t20260817_1965056.html"
+          },
+          {
+            "url": "https://www.stats.gov.cn/sj/zxfb/202608/W020260817513801685573.png",
+            "sourceUrl": "https://www.stats.gov.cn/sj/zxfb/202608/t20260817_1965056.html"
+          },
+          {
+            "url": "https://www.stats.gov.cn/sj/zxfb/202608/W020260817513801764433.png",
+            "sourceUrl": "https://www.stats.gov.cn/sj/zxfb/202608/t20260817_1965056.html"
+          },
+          {
+            "url": "https://www.stats.gov.cn/sj/zxfb/202608/W020260817513801841656.png",
+            "sourceUrl": "https://www.stats.gov.cn/sj/zxfb/202608/t20260817_1965056.html"
+          }
+        ],
+        "generatedAt": "2026-08-17T04:10:00.000Z"
       },
       {
         "id": "draft-real-gov-cn-policy-library-k1akam",
@@ -337,6 +447,96 @@
             "fetchedAt": "2026-08-17T14:57:36.261Z",
             "sourceMethod": "web",
             "verificationStatus": "confirmed"
+          }
+        ],
+        "images": [],
+        "generatedAt": "2026-08-16T23:10:00.000Z"
+      },
+      {
+        "id": "draft-real-techcrunch-ai-rss-vs71r4",
+        "title": "为什么人们不相信马克·扎克伯格的人工智能未来",
+        "oneLine": "趋势信号：Meta 首席执行官马克·扎克伯格 (Mark Zuckerberg) 本周发表了一篇 6,500 字的文章，宣称“未来属于每个人”，并描绘了一幅由人工智能驱动的未来的乐观图景，其中“每个人都将拥有一位非常有能力的个人代理人，他了解你、你的目标以及你关心的一切。",
+        "importance": "B",
+        "credibility": "待确认",
+        "tags": [
+          "B",
+          "industry",
+          "ai",
+          "technology",
+          "product"
+        ],
+        "industries": [
+          "aiProduct",
+          "aiTechnology",
+          "productManagement",
+          "technologyEngineering",
+          "educationResearch"
+        ],
+        "section": "ai",
+        "body": {
+          "background": "在最新一期的 TechCrunch 股票播客中，克尔斯滕·科罗塞克 (Kirsten Korosec)、丽贝卡·贝兰 (Rebecca Bellan) 和我讨论了为什么不是每个人都认同扎克伯格的愿景——包括我们的同事拉塞尔·布兰登 (Russell Brandom)，他写道，这份宣言“正是人们不喜欢人工智能的原因”。",
+          "keyProgress": "将扎克伯格与 Anthropic 首席执行官达里奥·阿莫迪（Dario Amodei）（他整个周末都在反对他是人工智能毁灭者的观点）进行比较，丽贝卡表示，Meta 首席执行官似乎将自己定位为“几乎像一个反达里奥”。他试图提供人们在自己的个人设备上用于个人人工智能的模型。",
+          "whyItMatters": "“为什么人们不相信马克·扎克伯格的人工智能未来”能帮助你判断这项能力是否已经进入工程、产品或商业场景，并据此调整技术选型、产品规划、学习重点或职业判断。",
+          "userRelevance": "如果你从事AI 产品、AI 技术、产品管理、技术研发，可以重点判断“为什么人们不相信马克·扎克伯格的人工智能未来”是否已经具备产品落地、技术选型或业务合作价值。",
+          "whatToWatch": "接下来要看“为什么人们不相信马克·扎克伯格的人工智能未来”是否有更多可靠来源、量产或应用进展，以及它会不会从单点消息发展成持续趋势。"
+        },
+        "sourceLinks": [
+          {
+            "title": "TechCrunch AI RSS",
+            "url": "https://techcrunch.com/2026/08/16/why-people-arent-buying-mark-zuckerbergs-ai-future/",
+            "sourceId": "techcrunch-ai-rss",
+            "publishedAt": "2026-08-16T20:32:01.000Z",
+            "language": "zh",
+            "originalLanguage": "en",
+            "translationStatus": "translated",
+            "fetchedAt": "2026-08-17T14:57:38.652Z",
+            "sourceMethod": "rss",
+            "verificationStatus": "pending"
+          }
+        ],
+        "images": [],
+        "generatedAt": "2026-08-16T23:10:00.000Z"
+      },
+      {
+        "id": "draft-real-techcrunch-ai-rss-1h18zsj",
+        "title": "Anthropic首席执行官表示，人工智能的强烈反对“从根本上来说是一场信任危机”",
+        "oneLine": "趋势信号：Anthropic 首席执行官达里奥·阿莫迪 (Dario Amodei) 最近反驳了这样的观点，即他一直在描绘人工智能及其如何塑造未来的过于悲观的图景。",
+        "importance": "B",
+        "credibility": "待确认",
+        "tags": [
+          "B",
+          "industry",
+          "ai",
+          "technology",
+          "product"
+        ],
+        "industries": [
+          "aiProduct",
+          "aiTechnology",
+          "productManagement",
+          "technologyEngineering",
+          "educationResearch"
+        ],
+        "section": "ai",
+        "body": {
+          "background": "贝克写道，声称阿莫迪在人工智能监管方面“输了”（Anthropic 主张制定一些法规，包括一项对大型人工智能公司施加透明度要求的加州法案），并考虑到“他即将成为世界上最重要的公司之一的首席执行官”，“我恭敬地认为他应该努力成为自己行业的更积极的倡导者。",
+          "keyProgress": "相反，他说他的写作“在风险和收益之间保持了平衡”，他写了《爱的机器》这篇文章，因为他“认为人工智能行业没有描绘出一幅足够鼓舞人心的图景，说明这项技术如何从根本上改变世界，让世界变得更美好。他不同意的观点是，这种消极情绪“主要是由阿莫迪”或任何其他警告人工智能风险的人工智能领导者造成的。",
+          "whyItMatters": "“Anthropic首席执行官表示，人工智能的强烈反对从根本上来说是一场信任危机”能帮助你判断这项能力是否已经进入工程、产品或商业场景，并据此调整技术选型、产品规划、学习重点或职业判断。",
+          "userRelevance": "如果你从事AI 产品、AI 技术、产品管理、技术研发，可以重点判断“Anthropic首席执行官表示，人工智能的强烈反对从根本上来说是一场信任危机”是否已经具备产品落地、技术选型或业务合作价值。",
+          "whatToWatch": "接下来要看“Anthropic首席执行官表示，人工智能的强烈反对从根本上来说是一场信任危机”是否有更多可靠来源、量产或应用进展，以及它会不会从单点消息发展成持续趋势。"
+        },
+        "sourceLinks": [
+          {
+            "title": "TechCrunch AI RSS",
+            "url": "https://techcrunch.com/2026/08/16/anthropic-ceo-says-ai-backlash-is-fundamentally-a-crisis-of-trust/",
+            "sourceId": "techcrunch-ai-rss",
+            "publishedAt": "2026-08-16T16:53:51.000Z",
+            "language": "zh",
+            "originalLanguage": "en",
+            "translationStatus": "translated",
+            "fetchedAt": "2026-08-17T14:57:38.652Z",
+            "sourceMethod": "rss",
+            "verificationStatus": "pending"
           }
         ],
         "images": [],
@@ -532,96 +732,6 @@
         "generatedAt": "2026-08-16T23:10:00.000Z"
       },
       {
-        "id": "draft-real-techcrunch-ai-rss-vs71r4",
-        "title": "为什么人们不相信马克·扎克伯格的人工智能未来",
-        "oneLine": "趋势信号：Meta 首席执行官马克·扎克伯格 (Mark Zuckerberg) 本周发表了一篇 6,500 字的文章，宣称“未来属于每个人”，并描绘了一幅由人工智能驱动的未来的乐观图景，其中“每个人都将拥有一位非常有能力的个人代理人，他了解你、你的目标以及你关心的一切。",
-        "importance": "B",
-        "credibility": "待确认",
-        "tags": [
-          "B",
-          "industry",
-          "ai",
-          "technology",
-          "product"
-        ],
-        "industries": [
-          "aiProduct",
-          "aiTechnology",
-          "productManagement",
-          "technologyEngineering",
-          "educationResearch"
-        ],
-        "section": "ai",
-        "body": {
-          "background": "在最新一期的 TechCrunch 股票播客中，克尔斯滕·科罗塞克 (Kirsten Korosec)、丽贝卡·贝兰 (Rebecca Bellan) 和我讨论了为什么不是每个人都认同扎克伯格的愿景——包括我们的同事拉塞尔·布兰登 (Russell Brandom)，他写道，这份宣言“正是人们不喜欢人工智能的原因”。",
-          "keyProgress": "将扎克伯格与 Anthropic 首席执行官达里奥·阿莫迪（Dario Amodei）（他整个周末都在反对他是人工智能毁灭者的观点）进行比较，丽贝卡表示，Meta 首席执行官似乎将自己定位为“几乎像一个反达里奥”。他试图提供人们在自己的个人设备上用于个人人工智能的模型。",
-          "whyItMatters": "“为什么人们不相信马克·扎克伯格的人工智能未来”能帮助你判断这项能力是否已经进入工程、产品或商业场景，并据此调整技术选型、产品规划、学习重点或职业判断。",
-          "userRelevance": "如果你从事AI 产品、AI 技术、产品管理、技术研发，可以重点判断“为什么人们不相信马克·扎克伯格的人工智能未来”是否已经具备产品落地、技术选型或业务合作价值。",
-          "whatToWatch": "接下来要看“为什么人们不相信马克·扎克伯格的人工智能未来”是否有更多可靠来源、量产或应用进展，以及它会不会从单点消息发展成持续趋势。"
-        },
-        "sourceLinks": [
-          {
-            "title": "TechCrunch AI RSS",
-            "url": "https://techcrunch.com/2026/08/16/why-people-arent-buying-mark-zuckerbergs-ai-future/",
-            "sourceId": "techcrunch-ai-rss",
-            "publishedAt": "2026-08-16T20:32:01.000Z",
-            "language": "zh",
-            "originalLanguage": "en",
-            "translationStatus": "translated",
-            "fetchedAt": "2026-08-17T14:57:38.652Z",
-            "sourceMethod": "rss",
-            "verificationStatus": "pending"
-          }
-        ],
-        "images": [],
-        "generatedAt": "2026-08-16T23:10:00.000Z"
-      },
-      {
-        "id": "draft-real-techcrunch-ai-rss-1h18zsj",
-        "title": "Anthropic首席执行官表示，人工智能的强烈反对“从根本上来说是一场信任危机”",
-        "oneLine": "趋势信号：Anthropic 首席执行官达里奥·阿莫迪 (Dario Amodei) 最近反驳了这样的观点，即他一直在描绘人工智能及其如何塑造未来的过于悲观的图景。",
-        "importance": "B",
-        "credibility": "待确认",
-        "tags": [
-          "B",
-          "industry",
-          "ai",
-          "technology",
-          "product"
-        ],
-        "industries": [
-          "aiProduct",
-          "aiTechnology",
-          "productManagement",
-          "technologyEngineering",
-          "educationResearch"
-        ],
-        "section": "ai",
-        "body": {
-          "background": "贝克写道，声称阿莫迪在人工智能监管方面“输了”（Anthropic 主张制定一些法规，包括一项对大型人工智能公司施加透明度要求的加州法案），并考虑到“他即将成为世界上最重要的公司之一的首席执行官”，“我恭敬地认为他应该努力成为自己行业的更积极的倡导者。",
-          "keyProgress": "相反，他说他的写作“在风险和收益之间保持了平衡”，他写了《爱的机器》这篇文章，因为他“认为人工智能行业没有描绘出一幅足够鼓舞人心的图景，说明这项技术如何从根本上改变世界，让世界变得更美好。他不同意的观点是，这种消极情绪“主要是由阿莫迪”或任何其他警告人工智能风险的人工智能领导者造成的。",
-          "whyItMatters": "“Anthropic首席执行官表示，人工智能的强烈反对从根本上来说是一场信任危机”能帮助你判断这项能力是否已经进入工程、产品或商业场景，并据此调整技术选型、产品规划、学习重点或职业判断。",
-          "userRelevance": "如果你从事AI 产品、AI 技术、产品管理、技术研发，可以重点判断“Anthropic首席执行官表示，人工智能的强烈反对从根本上来说是一场信任危机”是否已经具备产品落地、技术选型或业务合作价值。",
-          "whatToWatch": "接下来要看“Anthropic首席执行官表示，人工智能的强烈反对从根本上来说是一场信任危机”是否有更多可靠来源、量产或应用进展，以及它会不会从单点消息发展成持续趋势。"
-        },
-        "sourceLinks": [
-          {
-            "title": "TechCrunch AI RSS",
-            "url": "https://techcrunch.com/2026/08/16/anthropic-ceo-says-ai-backlash-is-fundamentally-a-crisis-of-trust/",
-            "sourceId": "techcrunch-ai-rss",
-            "publishedAt": "2026-08-16T16:53:51.000Z",
-            "language": "zh",
-            "originalLanguage": "en",
-            "translationStatus": "translated",
-            "fetchedAt": "2026-08-17T14:57:38.652Z",
-            "sourceMethod": "rss",
-            "verificationStatus": "pending"
-          }
-        ],
-        "images": [],
-        "generatedAt": "2026-08-16T23:10:00.000Z"
-      },
-      {
         "id": "draft-cluster-real-stats-cn-data-x9ae25",
         "title": "2026年7月份规模以上工业增加值增长4.5%",
         "oneLine": "经营环境信号：从环比看， 7 月份，规模以上工业增加值比上月增长 0.11% 。根据季节调整模型自动修正结果，对 2025 年 7 月至 2026 年 6 月份规模以上工业增加值环比增速进行修订。",
@@ -770,38 +880,42 @@
         "generatedAt": "2026-08-16T23:10:00.000Z"
       }
     ],
-    "estimatedReadMinutes": 17,
+    "estimatedReadMinutes": 19,
     "pageCount": 3,
     "topCardId": "draft-real-xinhua-world-16ac8kt",
-    "generatedAt": "2026-08-16T23:10:00.000Z",
+    "generatedAt": "2026-08-17T04:10:00.000Z",
     "pushSlots": [
       "07:30",
       "12:30",
       "21:30"
     ],
-    "edition": "morning",
-    "editionLabel": "晨报",
+    "edition": "midday",
+    "editionLabel": "午间更新",
     "coverageWindow": {
-      "start": "2026-08-16T07:10:00+08:00",
-      "end": "2026-08-17T07:10:00+08:00"
+      "start": "2026-08-17T07:10:00+08:00",
+      "end": "2026-08-17T12:10:00+08:00"
     },
+    "basedOnGeneratedAt": "2026-08-16T23:10:00.000Z",
     "editionCardIds": [
+      "draft-real-stats-cn-data-1vgwvj9",
+      "draft-real-cnbc-world-rss-957lmo"
+    ],
+    "carriedCardIds": [
       "draft-real-xinhua-world-16ac8kt",
       "draft-cluster-real-npr-world-rss-qa51qy",
       "draft-real-xinhua-world-54wodt",
-      "draft-real-xinhua-world-rll09d",
       "draft-cluster-real-npr-world-rss-zyp0c9",
+      "draft-real-xinhua-world-rll09d",
       "draft-real-gov-cn-policy-library-k1akam",
       "draft-real-xinhua-world-3yyqw3",
+      "draft-real-techcrunch-ai-rss-vs71r4",
+      "draft-real-techcrunch-ai-rss-1h18zsj",
       "draft-real-xinhua-tech-18vqeb9",
       "draft-real-xinhua-tech-1co3y72",
       "draft-real-xinhua-tech-8qn5rg",
       "draft-real-xinhua-tech-u0cqsw",
-      "draft-real-techcrunch-ai-rss-vs71r4",
-      "draft-real-techcrunch-ai-rss-1h18zsj",
       "draft-cluster-real-stats-cn-data-x9ae25",
       "draft-real-cas-science-news-1sa8kvk"
-    ],
-    "carriedCardIds": []
+    ]
   }
 }

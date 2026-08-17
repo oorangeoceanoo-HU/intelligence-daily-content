@@ -70,7 +70,7 @@ const baseLaneRules = [
 ];
 const assessSourceCoverage = (results, options = {}) => {
     const currentWindowChecked = Boolean(options.issueDate && options.edition);
-    const localRequired = Boolean(options.localSourceIds?.length);
+    const localRequired = Boolean(options.requireLocalSources && options.localSourceIds?.length);
     const localLabel = options.localCities?.length
         ? `居住城市与家乡城市：${options.localCities.join("、")}`
         : "居住城市与家乡城市";
@@ -82,8 +82,10 @@ const assessSourceCoverage = (results, options = {}) => {
             required: localRequired,
             sourceIds: options.localSourceIds ?? [],
             note: localRequired
-                ? "城市新闻发现源只负责发现线索，涉及政策、灾害和公共服务的内容还要回到当地官方或主流来源确认。"
-                : "当前版本没有按账号动态加载城市新闻源，此项不能被视为已完成覆盖。"
+                ? "城市专属日报必须有对应城市来源；发现线索仍需回到当地官方或主流来源确认。"
+                : options.localSourceIds?.length
+                    ? "公共共享日报会监测示例城市，但城市无新增不能阻止其他核心内容出版；发现线索仍需官方或主流来源确认。"
+                    : "当前版本没有按账号动态加载城市新闻源，此项不能被视为已完成覆盖。"
         }
     ];
     const resultById = new Map(results.map((result) => [result.sourceId, result]));

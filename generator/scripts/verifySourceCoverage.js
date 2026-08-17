@@ -86,4 +86,36 @@ const staleLiveCoverage = (0, sourceCoverage_1.assessSourceCoverage)([
 });
 assert.equal(staleLiveCoverage.currentCoverageReady, false, "stale feeds cannot be mistaken for current coverage");
 assert.equal(staleLiveCoverage.ready, false, "a scheduled run with stale global intake is not ready");
+const publicIssueWithEmptyCities = (0, sourceCoverage_1.assessSourceCoverage)([
+    result("xinhua-world"),
+    result("npr-world-rss"),
+    result("mfa-cn-news"),
+    result("mofcom-trade"),
+    result("mem-cn"),
+    result("gdacs-feed"),
+    result("xinhua-tech"),
+    result("openai-news"),
+    result("arxiv-cs-api"),
+    result("city-shanghai", true, 0)
+], {
+    localSourceIds: ["city-shanghai"]
+});
+assert.equal(publicIssueWithEmptyCities.ready, true, "公共日报不能因示例城市无新增而停止出版");
+assert.equal(publicIssueWithEmptyCities.lanes.find((lane) => lane.id === "local")?.required, false, "公共日报中的城市来源只生成可见提示");
+const personalizedIssueWithEmptyCities = (0, sourceCoverage_1.assessSourceCoverage)([
+    result("xinhua-world"),
+    result("npr-world-rss"),
+    result("mfa-cn-news"),
+    result("mofcom-trade"),
+    result("mem-cn"),
+    result("gdacs-feed"),
+    result("xinhua-tech"),
+    result("openai-news"),
+    result("arxiv-cs-api"),
+    result("city-shanghai", true, 0)
+], {
+    localSourceIds: ["city-shanghai"],
+    requireLocalSources: true
+});
+assert.equal(personalizedIssueWithEmptyCities.ready, false, "城市专属日报仍需真实城市来源覆盖");
 console.log("Source coverage regression checks passed.");

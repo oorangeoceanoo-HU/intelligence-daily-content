@@ -62,6 +62,7 @@ assertEqual((0, dailyIssueBuilder_1.getDailyIssueSelectionBand)({ selectedCount:
 assertEqual((0, dailyIssueBuilder_1.getDailyIssueSelectionBand)({ selectedCount: rules.absoluteMaxCards, importance: "S", finalScore: 100, rules }), undefined, "the absolute maximum is never exceeded");
 assertEqual(selectedCount(makeCards(17, "B", 60)), 17, "a 17-card useful day remains 17 cards");
 assertEqual((0, dailyIssueBuilder_1.calculateDailyIssuePageCount)(13), 2, "a 13-card day does not create a sparse third page");
+assertEqual((0, dailyIssueBuilder_1.calculateDailyIssuePageCount)(15), 3, "a complete 15-card day uses all three home pages");
 assertEqual((0, dailyIssueBuilder_1.calculateDailyIssuePageCount)(17), 3, "a 17-card day keeps each of three pages comfortably readable");
 assertEqual(selectedCount(makeCards(22, "B", 60)), 20, "ordinary B cards stop at the comfortable maximum");
 assertEqual(selectedCount(makeCards(22, "B", 60)), 20, "ordinary cards stop at the comfortable maximum");

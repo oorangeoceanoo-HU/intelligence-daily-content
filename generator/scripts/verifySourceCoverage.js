@@ -11,6 +11,11 @@ const result = (sourceId, ok = true, itemCount = 1, publishedAt = "2026-08-17T04
     sourceName: sourceId,
     ok,
     fetchedAt: "2026-08-17T04:30:00.000Z",
+    method: "web",
+    endpointUrl: `https://example.com/${sourceId}`,
+    attempts: 1,
+    durationMs: 100,
+    fallbackUsed: false,
     items: ok
         ? Array.from({ length: itemCount }, (_, index) => ({
             id: `${sourceId}-${index}`,

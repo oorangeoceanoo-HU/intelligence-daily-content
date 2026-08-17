@@ -954,13 +954,18 @@ function rawItemToCandidate(item) {
         publishedAt: item.publishedAt ?? item.updatedAt ?? "",
         sourceLinks: [
             {
-                title: item.localCity ? `${item.localCity}本地公开信息` : sourceName(item.sourceId),
+                title: item.localCity
+                    ? `${item.localProvince && item.localProvince !== item.localCity ? `${item.localProvince}·` : ""}${item.localCity}本地公开信息`
+                    : sourceName(item.sourceId),
                 url: item.url,
                 sourceId: item.sourceId,
                 publishedAt: item.publishedAt,
                 language: item.language,
                 originalLanguage: item.originalLanguage ?? item.language,
-                translationStatus: item.translationStatus
+                translationStatus: item.translationStatus,
+                fetchedAt: item.fetchedAt,
+                sourceMethod: item.sourceMethod,
+                verificationStatus: item.verificationStatus
             }
         ],
         images,

@@ -22,8 +22,10 @@ exports.fetchReliefWebRawItems = fetchReliefWebRawItems;
 exports.fetchRawContentSource = fetchRawContentSource;
 exports.fetchRawContentSources = fetchRawContentSources;
 const sourceRegistry_1 = require("./sourceRegistry");
+const citySourceDirectory_1 = require("./citySourceDirectory");
 const userAgent = "Mozilla/5.0";
 const defaultTimeoutMs = 45000;
+const fallbackUsedBySource = new Map();
 const delay = (milliseconds) => new Promise((resolve) => setTimeout(resolve, milliseconds));
 const env = (name) => process.env?.[name]?.trim() || undefined;
 const sourceAliases = {
@@ -173,6 +175,26 @@ const sourceName = (sourceId) => {
     return sourceId;
 };
 const sourceUrl = (sourceId) => sourceRegistry_1.sourceRegistry.find((source) => source.id === sourceId)?.url ?? "";
+const sourceMethod = (sourceId) => sourceRegistry_1.sourceRegistry.find((source) => source.id === sourceId)?.method ?? (sourceId.startsWith("city-news-rss:") ? "web" : "manual");
+const sourceBaseUrl = (sourceId) => sourceRegistry_1.sourceRegistry.find((source) => source.id === sourceId)?.url;
+const sourceVerificationStatus = (sourceId) => {
+    if (sourceId.startsWith("city-news-rss:")) {
+        return "pending";
+    }
+    return sourceRegistry_1.sourceRegistry.find((source) => source.id === sourceId)?.role === "discovery"
+        ? "pending"
+        : "confirmed";
+};
+const enrichRawItems = (sourceId, items) => items.map((item) => ({
+    ...item,
+    sourceMethod: item.sourceMethod ?? sourceMethod(sourceId),
+    sourceUrl: item.sourceUrl ?? sourceBaseUrl(sourceId),
+    verificationStatus: item.verificationStatus ?? sourceVerificationStatus(sourceId)
+}));
+const sourceEndpointCandidates = (sourceId) => {
+    const config = sourceRegistry_1.sourceRegistry.find((source) => source.id === sourceId);
+    return Array.from(new Set([config?.url, ...(config?.fallbackUrls ?? [])].filter((value) => Boolean(value))));
+};
 const stableHash = (value) => {
     let hash = 2166136261;
     for (let index = 0; index < value.length; index += 1) {
@@ -253,6 +275,21 @@ const fetchChinesePage = async (url) => {
         }
     }
 };
+const fetchChinesePageCandidates = async (sourceId, urls) => {
+    const errors = [];
+    fallbackUsedBySource.set(sourceId, false);
+    for (let index = 0; index < urls.length; index += 1) {
+        try {
+            const text = await fetchChinesePage(urls[index]);
+            fallbackUsedBySource.set(sourceId, index > 0);
+            return { text, url: urls[index] };
+        }
+        catch (error) {
+            errors.push(`${urls[index]}: ${error instanceof Error ? error.message : String(error)}`);
+        }
+    }
+    throw new Error(errors.join(" | "));
+};
 const absoluteUrl = (href, baseUrl) => {
     try {
         return new URL(href, baseUrl).toString();
@@ -296,6 +333,10 @@ const dateFromCompactUrl = (url) => {
         return undefined;
     }
     return `${match[1]}-${match[2]}-${match[3]}T00:00:00+08:00`;
+};
+const dateFromCacUrl = (url) => {
+    const match = url.match(/\/(20\d{2})-(\d{2})\/(\d{2})\//);
+    return match ? `${match[1]}-${match[2]}-${match[3]}T00:00:00+08:00` : undefined;
 };
 const dateFromSlashUrl = (url) => {
     const match = url.match(/\/(20\d{2})\/(\d{1,2})\/(\d{1,2})(?:\/|_|\.|$)/);
@@ -401,19 +442,30 @@ async function fetchMohurdConstructionRawItems(limit) {
         editType: "null",
         pageId: "919e942639b5477d96e4c97471c61d9f"
     }).toString();
-    const responseText = await fetchChinesePage(apiUrl.toString());
-    const response = JSON.parse(responseText);
-    const html = response.data?.html ?? "";
+    const page = await fetchChinesePageCandidates(sourceId, [apiUrl.toString(), ...sourceEndpointCandidates(sourceId)]);
+    let html = page.text;
+    try {
+        const response = JSON.parse(page.text);
+        html = response.data?.html ?? "";
+    }
+    catch {
+        // The official list page is a valid fallback when the publishing API changes.
+    }
     const fetchedAt = new Date().toISOString();
     const datedLinks = [...html.matchAll(/<li\b[^>]*>[\s\S]*?<a\b[^>]*href=["'](?<href>[^"']+)["'][^>]*>(?<title>[\s\S]*?)<\/a>[\s\S]*?<span\b[^>]*class=["'][^"']*date-info[^"']*["'][^>]*>(?<date>20\d{2}-\d{2}-\d{2})<\/span>[\s\S]*?<\/li>/gi)]
         .map((match) => ({
         title: stripTags(match.groups?.title ?? ""),
-        url: absoluteUrl(match.groups?.href ?? "", listUrl) ?? listUrl,
+        url: absoluteUrl(match.groups?.href ?? "", page.url) ?? page.url,
         date: match.groups?.date
     }))
         .filter((link) => /建筑|住房|城市|城乡|更新|工程|建设|绿色|规划|物业|公积金/.test(link.title))
         .slice(0, limit);
-    return datedLinks.map((link, index) => ({
+    const fallbackLinks = datedLinks.length ? datedLinks : uniqueByUrl(htmlLinks(html, page.url)
+        .filter((link) => /住建|住房|城市|城乡|更新|工程|建设|绿色|规划|物业|公积金/.test(link.title))).slice(0, limit).map((link) => ({
+        ...link,
+        date: dateFromCompactUrl(link.url) ?? dateFromSlashUrl(link.url)
+    }));
+    return fallbackLinks.map((link, index) => ({
         id: makeId(sourceId, link.url, index),
         sourceId,
         title: link.title,
@@ -428,7 +480,17 @@ async function fetchMohurdConstructionRawItems(limit) {
 }
 async function fetchGdacsRawItems(limit) {
     const sourceId = "gdacs-feed";
-    const xml = await fetchText(sourceUrl(sourceId));
+    let xml;
+    try {
+        xml = await fetchText(sourceUrl(sourceId));
+    }
+    catch {
+        // GDACS occasionally resets Node's native fetch connection while the
+        // official feed remains reachable. The direct HTTPS reader uses the same
+        // official endpoint and avoids treating that transport failure as an outage.
+        xml = await (0, exports.fetchTextWithLegacyTls)(sourceUrl(sourceId));
+        fallbackUsedBySource.set(sourceId, true);
+    }
     const fetchedAt = new Date().toISOString();
     return blocksByTag(xml, "item").slice(0, limit).map((item, index) => {
         const title = tagText(item, "title") ?? "Untitled GDACS alert";
@@ -496,8 +558,9 @@ async function fetchMemRawItems(limit) {
 }
 async function fetchCacRawItems(limit) {
     const sourceId = "cac-cn";
-    const listUrl = sourceUrl(sourceId);
-    const html = await fetchChinesePage(listUrl);
+    const page = await fetchChinesePageCandidates(sourceId, sourceEndpointCandidates(sourceId));
+    const listUrl = page.url;
+    const html = page.text;
     const fetchedAt = new Date().toISOString();
     const links = uniqueByUrl(htmlLinks(html, listUrl)
         .filter((link) => /www\.cac\.gov\.cn\/20\d{2}-\d{2}\/\d{2}\/c_\d+\.htm$/.test(link.url))
@@ -507,7 +570,7 @@ async function fetchCacRawItems(limit) {
         sourceId,
         title: link.title,
         url: link.url,
-        publishedAt: dateFromCompactUrl(link.url),
+        publishedAt: dateFromCacUrl(link.url) ?? dateFromCompactUrl(link.url),
         language: "zh",
         summaryFromSource: "国家网信办政策候选，用于 AI、数据、平台治理和网络安全政策变化。",
         rawText: link.title,
@@ -677,24 +740,6 @@ const isUsefulCityDiscoveryItem = (title, url, city) => {
     return normalizedTitle.includes(city) && normalizedTitle.length >= 8 && normalizedTitle.length <= 90 && decisionRelevant;
 };
 exports.isUsefulCityDiscoveryItem = isUsefulCityDiscoveryItem;
-const cityOfficialPageUrls = (city) => {
-    const configured = env("CONTENT_CITY_OFFICIAL_URLS_JSON");
-    if (configured) {
-        try {
-            const map = JSON.parse(configured);
-            if (Array.isArray(map[city])) {
-                return map[city];
-            }
-        }
-        catch {
-            // Ignore malformed optional configuration and use the built-in defaults.
-        }
-    }
-    return {
-        上海: ["https://www.shanghai.gov.cn/"],
-        杭州: ["https://www.hangzhou.gov.cn/"]
-    }[city] ?? [];
-};
 const dateFromPageText = (value) => {
     const match = value.match(/(20\d{2})[年\-/](\d{1,2})[月\-/](\d{1,2})/u);
     if (!match) {
@@ -706,8 +751,9 @@ const fetchCityOfficialRawItems = async (country, city, limit, sourceId) => {
     if (country !== "中国") {
         return [];
     }
+    const location = (0, citySourceDirectory_1.resolveCitySourceLocation)(country, city);
     const links = [];
-    for (const pageUrl of cityOfficialPageUrls(city)) {
+    for (const pageUrl of (0, citySourceDirectory_1.cityOfficialSourceUrls)(country, city, env("CONTENT_CITY_OFFICIAL_URLS_JSON"))) {
         try {
             const html = await fetchText(pageUrl);
             links.push(...htmlLinks(html, pageUrl)
@@ -742,6 +788,7 @@ const fetchCityOfficialRawItems = async (country, city, limit, sourceId) => {
             rawText: summary,
             imageUrls: [],
             fetchedAt: new Date().toISOString(),
+            localProvince: location.province,
             localCity: city,
             originalLanguage: "zh",
             translationStatus: "not-needed"
@@ -750,7 +797,8 @@ const fetchCityOfficialRawItems = async (country, city, limit, sourceId) => {
 };
 async function fetchCityNewsRawItems(country, city, limit) {
     const sourceId = citySourceIdFor(country, city);
-    const query = `${country} ${city} 政策 灾害 交通 公共服务`;
+    const location = (0, citySourceDirectory_1.resolveCitySourceLocation)(country, city);
+    const query = `${country} ${location.province} ${city} 政策 灾害 交通 公共服务`;
     const template = env("CONTENT_CITY_NEWS_RSS_TEMPLATE");
     const configuredUrl = template
         ?.replaceAll("{query}", encodeURIComponent(query))
@@ -803,6 +851,7 @@ async function fetchCityNewsRawItems(country, city, limit) {
             rawText: stripTags(description ?? ""),
             imageUrls: [],
             fetchedAt,
+            localProvince: location.province,
             localCity: city,
             originalLanguage: "zh",
             translationStatus: "not-needed"
@@ -813,23 +862,37 @@ async function fetchCityNewsRawItems(country, city, limit) {
 }
 async function fetchCityContentSource(country, city, limit) {
     const sourceId = citySourceIdFor(country, city);
+    const startedAt = Date.now();
     const fetchedAt = new Date().toISOString();
+    const location = (0, citySourceDirectory_1.resolveCitySourceLocation)(country, city);
+    const sourceLabel = location.province === location.city ? city : `${location.province}·${city}`;
     try {
+        const items = await fetchCityNewsRawItems(country, city, limit);
         return {
             sourceId,
-            sourceName: `城市新闻发现：${city}`,
+            sourceName: `城市新闻发现：${sourceLabel}`,
             ok: true,
             fetchedAt,
-            items: await fetchCityNewsRawItems(country, city, limit),
+            method: "web",
+            endpointUrl: `city-source:${country}/${location.province}/${city}`,
+            attempts: 1,
+            durationMs: Math.max(1, Date.now() - startedAt),
+            fallbackUsed: false,
+            items: enrichRawItems(sourceId, items),
             note: "城市新闻发现源；政策和风险内容仍需官方或主流来源确认。"
         };
     }
     catch (error) {
         return {
             sourceId,
-            sourceName: `城市新闻发现：${city}`,
+            sourceName: `城市新闻发现：${sourceLabel}`,
             ok: false,
             fetchedAt,
+            method: "web",
+            endpointUrl: `city-source:${country}/${location.province}/${city}`,
+            attempts: 1,
+            durationMs: Math.max(1, Date.now() - startedAt),
+            fallbackUsed: false,
             items: [],
             error: error instanceof Error ? error.message : String(error),
             note: "城市发现源暂时不可用，不能把城市字段当作已完成覆盖。"
@@ -952,27 +1015,38 @@ async function fetchStatsDataRawItems(limit) {
 }
 async function fetchMofcomConsumptionRawItems(limit) {
     const sourceId = "mofcom-consumption";
-    const listUrl = sourceUrl(sourceId);
-    const html = await fetchChinesePage(listUrl);
+    const page = await fetchChinesePageCandidates(sourceId, sourceEndpointCandidates(sourceId));
+    const listUrl = page.url;
+    const html = page.text;
     const fetchedAt = new Date().toISOString();
     const links = uniqueByUrl(htmlLinks(html, listUrl)
-        .filter((link) => /\/(gzdt|gztz|zcfg)\/art\/20\d{2}\/art_[^/]+\.html$/.test(link.url))
+        .filter((link) => /\/(gzdt|gztz|zcfg)\/art\/20\d{2}\/art_[^/]+\.html$/.test(link.url) || link.url.includes("scyxs.mofcom.gov.cn"))
         .filter((link) => /消费|市场|零售|电商|电子商务|汽车|流通|发票|健康消费|以旧换新|服务消费|餐饮|商贸|首发|购物|精品|生活必需品/.test(link.title))).slice(0, limit);
-    return links.map((link, index) => {
+    return Promise.all(links.map(async (link, index) => {
         const title = cleanMofcomTitle(link.title);
+        let publishedAt = dateFromMoeUrl(link.url) ?? dateFromSlashUrl(link.url);
+        if (!publishedAt) {
+            try {
+                const article = await fetchChinesePage(link.url);
+                publishedAt = dateFromPageText(article);
+            }
+            catch {
+                // Keep the item as a visible source result; edition filtering excludes it without a verified date.
+            }
+        }
         return {
             id: makeId(sourceId, link.url, index),
             sourceId,
             title,
             url: link.url,
-            publishedAt: dateFromMoeUrl(link.url),
+            publishedAt,
             language: "zh",
             summaryFromSource: "商务部市场运行和消费促进候选，用于消费促进、市场运行、流通、电商和服务消费相关动态发现。",
             rawText: title,
             imageUrls: [],
             fetchedAt
         };
-    });
+    }));
 }
 async function fetchGdeltRawItems(limit) {
     const sourceId = "gdelt-doc-api";
@@ -1068,6 +1142,9 @@ async function fetchReliefWebRawItems(limit) {
 }
 async function fetchRawContentSource(sourceId, limit) {
     const fetchedAt = new Date().toISOString();
+    const startedAt = Date.now();
+    let attempts = 0;
+    fallbackUsedBySource.delete(sourceId);
     try {
         const fetchers = {
             "arxiv-cs-api": fetchArxivRawItems,
@@ -1110,6 +1187,7 @@ async function fetchRawContentSource(sourceId, limit) {
         // succeed in isolation. Retry those transient failures before declaring a
         // lane unavailable in the audit report.
         for (let attempt = 0; attempt < 3; attempt += 1) {
+            attempts += 1;
             try {
                 items = await fetcher(limit);
                 break;
@@ -1117,7 +1195,7 @@ async function fetchRawContentSource(sourceId, limit) {
             catch (error) {
                 lastError = error;
                 const message = error instanceof Error ? error.message : String(error);
-                const transientNetworkFailure = /timed out|fetch failed|socket|network|ECONN|ENOTFOUND/iu.test(message);
+                const transientNetworkFailure = /timed out|fetch failed|socket|network|ECONN|ENOTFOUND|HTTP\s+5\d{2}/iu.test(message);
                 if (!transientNetworkFailure || attempt === 2) {
                     throw error;
                 }
@@ -1132,7 +1210,13 @@ async function fetchRawContentSource(sourceId, limit) {
             sourceName: sourceName(sourceId),
             ok: true,
             fetchedAt,
-            items
+            method: sourceMethod(sourceId),
+            endpointUrl: sourceUrl(sourceId),
+            attempts,
+            durationMs: Date.now() - startedAt,
+            fallbackUsed: fallbackUsedBySource.get(sourceId) ?? false,
+            items: enrichRawItems(sourceId, items),
+            note: fallbackUsedBySource.get(sourceId) ? "主入口失败后使用了官方备用入口。" : undefined
         };
     }
     catch (error) {
@@ -1141,6 +1225,11 @@ async function fetchRawContentSource(sourceId, limit) {
             sourceName: sourceName(sourceId),
             ok: false,
             fetchedAt,
+            method: sourceMethod(sourceId),
+            endpointUrl: sourceUrl(sourceId),
+            attempts,
+            durationMs: Date.now() - startedAt,
+            fallbackUsed: fallbackUsedBySource.get(sourceId) ?? false,
             items: [],
             error: error instanceof Error ? error.message : String(error)
         };

@@ -195,7 +195,12 @@ const targetSectionForCandidate = (candidate, matchedLaneIds) => {
 };
 const credibilityForCandidate = (candidate) => {
     const sources = candidateSources(candidate);
+    const hasPendingOnly = candidate.sourceLinks.length > 0 &&
+        candidate.sourceLinks.every((source) => source.verificationStatus === "pending");
     const hasGovernmentLink = candidate.sourceLinks.some((source) => /^https?:\/\/(?:[\w-]+\.)*gov\.cn(?:\/|$)/iu.test(source.url));
+    if (hasPendingOnly) {
+        return "待确认";
+    }
     if (hasGovernmentLink) {
         return "官方来源";
     }

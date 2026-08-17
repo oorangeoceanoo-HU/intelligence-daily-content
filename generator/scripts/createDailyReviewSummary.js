@@ -91,11 +91,8 @@ function inspectIssue(expectedDate, review, candidate) {
     if (reviewIds !== candidateIds || review.issue.generatedAt !== issue.generatedAt) {
         addFinding(findings, "blocker", "candidate-mismatch", "公开候选稿与内部复检稿不是同一份内容。");
     }
-    if (issue.cards.length < 5) {
-        addFinding(findings, "blocker", "too-few-cards", `当前只有 ${issue.cards.length} 条，低于 5 条最低阅读量。`);
-    }
-    else if (issue.cards.length < 15) {
-        addFinding(findings, "warning", "lower-than-usual-card-count", `当前只有 ${issue.cards.length} 条。系统不会用低相关性内容凑数，但应检查是否有来源或时间窗口缺口。`);
+    if (issue.cards.length < 15) {
+        addFinding(findings, "blocker", "too-few-cards", `当前只有 ${issue.cards.length} 条，无法形成每版约 5 条的三版完整日报；系统会保留上一份合格日报，不会用旧闻或未核实内容凑数。`);
     }
     if (issue.cards.length > 24) {
         addFinding(findings, "blocker", "too-many-cards", `当前有 ${issue.cards.length} 条，超过 24 条绝对上限。`);
@@ -129,6 +126,12 @@ function inspectIssue(expectedDate, review, candidate) {
             addFinding(findings, "blocker", "missing-source", "没有可核验的原文来源。", card);
         }
         card.sourceLinks.forEach((source) => {
+            if (!compact(source.sourceId) || !compact(source.url)) {
+                addFinding(findings, "blocker", "missing-source-trace", "原文缺少来源编号或可打开的原文地址。", card);
+            }
+            if (!compact(source.fetchedAt) || !source.sourceMethod || !source.verificationStatus) {
+                addFinding(findings, "blocker", "missing-fetch-trace", "原文缺少抓取时间、抓取方式或核实状态，无法追溯本次采集。", card);
+            }
             const sourceDay = calendarDay(source.publishedAt);
             if (sourceDay === undefined || issueDay === undefined) {
                 addFinding(findings, "blocker", "missing-source-date", "原文缺少可核验的发布日期。", card);
@@ -168,6 +171,22 @@ function inspectIssue(expectedDate, review, candidate) {
     if (olderThanThreeDays > 0) {
         addFinding(findings, "warning", "older-content-present", `共有 ${olderThanThreeDays} 个来源超过近三日范围，需要确认它们仍值得进入今天的日报。`);
     }
+    const primarySourceCounts = new Map();
+    issue.cards.forEach((card) => {
+        const sourceId = card.sourceLinks[0]?.sourceId;
+        if (sourceId) {
+            primarySourceCounts.set(sourceId, (primarySourceCounts.get(sourceId) ?? 0) + 1);
+        }
+    });
+    primarySourceCounts.forEach((count, sourceId) => {
+        const share = issue.cards.length ? count / issue.cards.length : 0;
+        if (share > 0.5) {
+            addFinding(findings, "blocker", "source-concentration", `${sourceId} 占 ${count}/${issue.cards.length} 条，单一来源超过一半，不能视为覆盖充分。`);
+        }
+        else if (share > 0.4) {
+            addFinding(findings, "warning", "source-concentration", `${sourceId} 占 ${count}/${issue.cards.length} 条，需要确认没有因其他来源缺失而过度集中。`);
+        }
+    });
     const repeatedChecks = [
         ["repeated-why", "“为什么重要”", (card) => card.body.whyItMatters],
         ["repeated-relevance", "“和你有什么关系”", (card) => card.body.userRelevance],

@@ -18,7 +18,7 @@ on:
           - midday
           - evening
   schedule:
-    # 07:10, 12:10 and 21:10 Asia/Shanghai. These create pending drafts only.
+    # 07:10, 12:10 and 21:10 Asia/Shanghai. A hard quality gate protects latest.json.
     - cron: "10 23 * * *"
     - cron: "10 4 * * *"
     - cron: "10 13 * * *"
@@ -119,6 +119,41 @@ jobs:
           EDITION: ${{ steps.issue-edition.outputs.edition }}
         run: cat "pending/$DATE-$EDITION.md" >> "$GITHUB_STEP_SUMMARY"
 
+      - name: Preserve source health snapshot
+        env:
+          DATE: ${{ steps.issue-date.outputs.date }}
+          EDITION: ${{ steps.issue-edition.outputs.edition }}
+        run: |
+          mkdir -p audit/source-health
+          cp \
+            "outputs/publish/audit/source-health/$DATE-$EDITION.json" \
+            "audit/source-health/$DATE-$EDITION.json"
+
+      - name: Read quality gate
+        id: quality-gate
+        env:
+          DATE: ${{ steps.issue-date.outputs.date }}
+          EDITION: ${{ steps.issue-edition.outputs.edition }}
+        run: |
+          STATUS="$(node -e "const r=require('./pending/$DATE-$EDITION.review.json'); process.stdout.write(r.status)")"
+          echo "status=$STATUS" >> "$GITHUB_OUTPUT"
+          if [ "$STATUS" = "blocked" ]; then
+            echo "Quality gate blocked publication. The previous latest.json stays online." >> "$GITHUB_STEP_SUMMARY"
+          else
+            echo "Quality gate has no blocker. This edition will be published automatically." >> "$GITHUB_STEP_SUMMARY"
+          fi
+
+      - name: Publish issue after quality gate
+        if: steps.quality-gate.outputs.status != 'blocked'
+        env:
+          DATE: ${{ steps.issue-date.outputs.date }}
+          EDITION: ${{ steps.issue-edition.outputs.edition }}
+        run: |
+          node generator/scripts/approveDailyIssue.js \
+            --date "$DATE" \
+            --edition "$EDITION" \
+            --confirmation APPROVE
+
       - name: Save private diagnostic artifact
         uses: actions/upload-artifact@v4
         with:
@@ -126,17 +161,24 @@ jobs:
           path: tmp/review-${{ steps.issue-date.outputs.date }}-${{ steps.issue-edition.outputs.edition }}.json
           retention-days: 7
 
-      - name: Commit pending draft
+      - name: Commit review, health, and published issue
         env:
           DATE: ${{ steps.issue-date.outputs.date }}
           EDITION: ${{ steps.issue-edition.outputs.edition }}
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add "pending/$DATE-$EDITION.json" "pending/$DATE-$EDITION.md" "pending/$DATE-$EDITION.review.json"
+          git add \
+            "pending/$DATE-$EDITION.json" \
+            "pending/$DATE-$EDITION.md" \
+            "pending/$DATE-$EDITION.review.json" \
+            "audit/source-health/$DATE-$EDITION.json"
+          if [ -f latest.json ] && [ -f "issues/$DATE.json" ] && [ -f "editions/$DATE/$EDITION.json" ]; then
+            git add latest.json "issues/$DATE.json" "editions/$DATE/$EDITION.json"
+          fi
           if git diff --cached --quiet; then
-            echo "Pending draft already matches the generated result."
+            echo "Review and published content already match the generated result."
             exit 0
           fi
-          git commit -m "Prepare $EDITION daily review $DATE"
+          git commit -m "Process $EDITION daily edition $DATE"
           git push origin HEAD:main

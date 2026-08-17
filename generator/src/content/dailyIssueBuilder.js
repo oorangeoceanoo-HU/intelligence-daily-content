@@ -153,7 +153,7 @@ const canAddCard = (card, sectionCounts, importanceCounts, sourceCounts) => {
 const canAddMinimumFallback = (card, sectionCounts, importanceCounts, sourceCounts) => {
     const primarySourceId = card.sourceLinks[0]?.sourceId ?? "unknown";
     return (card.section !== "friends" &&
-        (sourceCounts[primarySourceId] ?? 0) < 5 &&
+        (sourceCounts[primarySourceId] ?? 0) < 6 &&
         (card.importance !== "C" || importanceCounts.C < 3) &&
         sectionCounts[card.section] < 10);
 };
@@ -224,12 +224,15 @@ const calculateDailyIssuePageCount = (cardCount) => {
     if (cardCount <= 0) {
         return 0;
     }
-    // Prefer five to eight cards per page. A nine-card quiet day stays on one
-    // page rather than creating a sparse second page with only four cards.
+    // A complete issue starts at 15 cards and always uses the three confirmed
+    // home pages, so each page keeps roughly five to eight cards.
     if (cardCount <= 9) {
         return 1;
     }
-    return Math.min(3, Math.max(2, Math.ceil(cardCount / 8)));
+    if (cardCount <= 14) {
+        return 2;
+    }
+    return 3;
 };
 exports.calculateDailyIssuePageCount = calculateDailyIssuePageCount;
 function buildDailyIssue(params) {

@@ -253,6 +253,12 @@ const sourceAuditFor = (results, issueDate, edition, asOf) => results.map((resul
         sourceId: result.sourceId,
         sourceName: result.sourceName,
         ok: result.ok,
+        status: !result.ok ? "failed" : result.items.length ? "healthy" : "empty",
+        method: result.method,
+        endpointUrl: result.endpointUrl,
+        attempts: result.attempts,
+        durationMs: result.durationMs,
+        fallbackUsed: result.fallbackUsed,
         rawItemCount: result.items.length,
         datedItemCount: datedItems.length,
         inEditionItemCount: inEditionItems.length,
@@ -262,7 +268,12 @@ const sourceAuditFor = (results, issueDate, edition, asOf) => results.map((resul
         oldestPublishedAt: publishedTimes.length
             ? new Date(Math.min(...publishedTimes)).toISOString()
             : undefined,
-        error: result.error
+        verificationStatus: (0, sourceCoverage_1.sourceRoleFor)(result.sourceId) === "discovery" ||
+            result.items.some((item) => item.verificationStatus === "pending")
+            ? "pending"
+            : "confirmed",
+        error: result.error,
+        note: result.note
     };
 });
 const nodeRequire = typeof require === "function" ? require : undefined;
@@ -389,6 +400,7 @@ async function main() {
         edition: options.edition,
         asOf: generatedAt
     });
+    const sourceAudit = sourceAuditFor(fetchResults, options.date, options.edition, generatedAt);
     const fetchedRawItems = fetchResults.flatMap((result) => result.items);
     const rawItemsInEdition = (0, editionFreshness_1.filterRawItemsForEdition)(fetchedRawItems, options.date, options.edition, generatedAt);
     const translationResult = await (0, translation_1.translateRawContentItems)(rawItemsInEdition);
@@ -414,11 +426,11 @@ async function main() {
         publishableCards: eligibleCards,
         maxCards: options.cardLimit,
         sizingRules: {
-            // Do not weaken relevance rules merely to hit an arbitrary daily count.
-            // Five cards is the lower bound for a readable issue; later editions merge
-            // high-confidence new developments into the earlier draft.
-            minimumCards: options.edition === "morning" ? 5 : 1,
-            comfortableMaxCards: options.edition === "morning" ? 20 : 12,
+            // Every edition keeps all useful cards needed for a complete three-page issue.
+            // Quality checks still run first, so this never admits a blocked draft merely
+            // to reach the target. Later editions merge these cards with the earlier issue.
+            minimumCards: 15,
+            comfortableMaxCards: 20,
             absoluteMaxCards: options.cardLimit
         },
         generatedAt,
@@ -473,12 +485,16 @@ async function main() {
                 carriedCardCount: mergeResult?.carriedCardIds.length ?? 0,
                 replacedCardCount: mergeResult?.replacedCardIds.length ?? 0
             },
-            sourceAudit: sourceAuditFor(fetchResults, options.date, options.edition, generatedAt),
+            sourceAudit,
             fetchFailures: fetchResults
                 .filter((result) => !result.ok)
                 .map((result) => ({
                 sourceId: result.sourceId,
                 sourceName: result.sourceName,
+                method: result.method,
+                attempts: result.attempts,
+                durationMs: result.durationMs,
+                fallbackUsed: result.fallbackUsed,
                 error: result.error
             })),
             cardReviewFindings: reviewableCards.map((item) => ({
@@ -510,6 +526,26 @@ async function main() {
     };
     const defaultOutput = `outputs/daily-issues/${options.date}-${safeFileName(profileConfig.name)}.json`;
     const outputPath = await writeJsonFile(options.output ?? defaultOutput, output);
+    const sourceHealth = {
+        schemaVersion: 1,
+        date: options.date,
+        edition: options.edition,
+        generatedAt,
+        summary: {
+            totalSources: fetchResults.length,
+            healthySources: sourceAudit.filter((source) => source.status === "healthy").length,
+            emptySources: sourceAudit.filter((source) => source.status === "empty").length,
+            failedSources: sourceAudit.filter((source) => source.status === "failed").length,
+            currentWindowItems: sourceAudit.reduce((sum, source) => sum + source.inEditionItemCount, 0),
+            sourceAvailabilityReady: sourceCoverage.sourceAvailabilityReady,
+            currentCoverageReady: sourceCoverage.currentCoverageReady
+        },
+        coverage: sourceCoverage,
+        sources: sourceAudit
+    };
+    const sourceHealthPath = await writeJsonFile(options.publish
+        ? `outputs/publish/audit/source-health/${options.date}-${options.edition}.json`
+        : `outputs/audit/source-health/${options.date}-${options.edition}.json`, sourceHealth);
     const appPreviewPath = options.appPreview
         ? await writeJsonFile("src/data/generatedDailyIssue.json", output)
         : undefined;
@@ -533,7 +569,7 @@ async function main() {
         ? await writeJsonFile(`outputs/publish/editions/${options.date}/${options.edition}.json`, publicPayload)
         : undefined;
     if (options.json) {
-        console.log(JSON.stringify({ ...output, outputPath, appPreviewPath, publishLatestPath, publishArchivePath, publishEditionPath }, null, 2));
+        console.log(JSON.stringify({ ...output, outputPath, sourceHealthPath, appPreviewPath, publishLatestPath, publishArchivePath, publishEditionPath }, null, 2));
         return;
     }
     console.log("今日报纸数据已生成");
@@ -543,6 +579,7 @@ async function main() {
     console.log(`候选：${rawCandidates.length} 条原始候选 -> ${dedupeResult.candidates.length} 条去重后候选`);
     console.log(`卡片：${cardPipeline.publishableCards.length} 张自动通过，${reviewableCards.length} 张进入人工复核，${blockedCards.length} 张被拦截`);
     console.log(`日报：${issue.cards.length} 张卡片，约 ${issue.estimatedReadMinutes} 分钟读完，${issue.pageCount} 版`);
+    console.log(`来源健康：${sourceHealthPath}`);
     if (options.edition !== "morning") {
         console.log(baseIssue
             ? `增量合并：新增 ${mergeResult?.addedCardIds.length ?? 0} 条，沿用 ${mergeResult?.carriedCardIds.length ?? 0} 条`

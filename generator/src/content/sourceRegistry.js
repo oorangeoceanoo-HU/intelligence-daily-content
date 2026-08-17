@@ -48,6 +48,7 @@ exports.sourceRegistry = [
         refreshMinutes: 360,
         requiresApiKey: false,
         enabled: true,
+        fallbackUrls: ["https://www.cac.gov.cn/"],
         notes: "用于人工智能、算法、数据、平台治理、个人信息和网络安全政策。"
     },
     {
@@ -448,6 +449,7 @@ exports.sourceRegistry = [
         refreshMinutes: 720,
         requiresApiKey: false,
         enabled: true,
+        fallbackUrls: ["https://www.mohurd.gov.cn/"],
         notes: "用于建筑、住房、城市更新和城乡建设相关政策动态。"
     },
     {
@@ -635,6 +637,7 @@ exports.sourceRegistry = [
         refreshMinutes: 720,
         requiresApiKey: false,
         enabled: true,
+        fallbackUrls: ["https://www.mofcom.gov.cn/"],
         notes: "用于消费促进、市场运行、汽车流通、服务消费和电商相关政策动态。"
     },
     {

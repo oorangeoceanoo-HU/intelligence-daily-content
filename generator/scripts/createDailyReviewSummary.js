@@ -91,8 +91,11 @@ function inspectIssue(expectedDate, review, candidate) {
     if (reviewIds !== candidateIds || review.issue.generatedAt !== issue.generatedAt) {
         addFinding(findings, "blocker", "candidate-mismatch", "公开候选稿与内部复检稿不是同一份内容。");
     }
-    if (issue.cards.length < 15) {
-        addFinding(findings, "blocker", "too-few-cards", `当前只有 ${issue.cards.length} 条，低于 15 条最低阅读量。`);
+    if (issue.cards.length < 5) {
+        addFinding(findings, "blocker", "too-few-cards", `当前只有 ${issue.cards.length} 条，低于 5 条最低阅读量。`);
+    }
+    else if (issue.cards.length < 15) {
+        addFinding(findings, "warning", "lower-than-usual-card-count", `当前只有 ${issue.cards.length} 条。系统不会用低相关性内容凑数，但应检查是否有来源或时间窗口缺口。`);
     }
     if (issue.cards.length > 24) {
         addFinding(findings, "blocker", "too-many-cards", `当前有 ${issue.cards.length} 条，超过 24 条绝对上限。`);

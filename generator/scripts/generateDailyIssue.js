@@ -294,21 +294,54 @@ async function readJsonFileIfExists(filePath) {
     }
 }
 const editionOrder = { morning: 1, midday: 2, evening: 3 };
+const earlierEditionsFor = (edition) => Object.keys(editionOrder)
+    .filter((candidate) => editionOrder[candidate] < editionOrder[edition])
+    .sort((left, right) => editionOrder[right] - editionOrder[left]);
+async function pendingIssueIsUsable(filePath) {
+    const reviewPath = filePath.replace(/\.json$/u, ".review.json");
+    const review = await readJsonFileIfExists(reviewPath);
+    // A blocked earlier draft can never become the foundation for a later update.
+    // A "review" draft is usable here: it remains pending until an explicit approval.
+    return review?.status !== "blocked";
+}
 async function findBaseIssue(options) {
     if (options.edition === "morning") {
         return undefined;
     }
-    const paths = [
-        options.baseIssue,
-        "latest.json",
-        "outputs/publish/latest.json"
-    ].filter((value) => Boolean(value));
-    for (const filePath of paths) {
+    if (options.baseIssue) {
+        const payload = await readJsonFileIfExists(options.baseIssue);
+        if (payload?.issue.date === options.date &&
+            payload.issue.edition &&
+            editionOrder[payload.issue.edition] < editionOrder[options.edition]) {
+            return { filePath: options.baseIssue, payload, source: "explicit" };
+        }
+    }
+    for (const edition of earlierEditionsFor(options.edition)) {
+        const pendingPath = `pending/${options.date}-${edition}.json`;
+        const pendingPayload = await readJsonFileIfExists(pendingPath);
+        if (pendingPayload?.issue.date === options.date &&
+            pendingPayload.issue.edition === edition &&
+            await pendingIssueIsUsable(pendingPath)) {
+            return { filePath: pendingPath, payload: pendingPayload, source: "pending" };
+        }
+        const publishedPaths = [
+            `editions/${options.date}/${edition}.json`,
+            `outputs/publish/editions/${options.date}/${edition}.json`
+        ];
+        for (const filePath of publishedPaths) {
+            const payload = await readJsonFileIfExists(filePath);
+            if (payload?.issue.date === options.date && payload.issue.edition === edition) {
+                return { filePath, payload, source: "published" };
+            }
+        }
+    }
+    const legacyPaths = ["latest.json", "outputs/publish/latest.json"];
+    for (const filePath of legacyPaths) {
         const payload = await readJsonFileIfExists(filePath);
         if (payload?.issue.date === options.date &&
             payload.issue.edition &&
             editionOrder[payload.issue.edition] < editionOrder[options.edition]) {
-            return { filePath, payload };
+            return { filePath, payload, source: "published" };
         }
     }
     return undefined;
@@ -381,7 +414,10 @@ async function main() {
         publishableCards: eligibleCards,
         maxCards: options.cardLimit,
         sizingRules: {
-            minimumCards: options.edition === "morning" ? 15 : 1,
+            // Do not weaken relevance rules merely to hit an arbitrary daily count.
+            // Five cards is the lower bound for a readable issue; later editions merge
+            // high-confidence new developments into the earlier draft.
+            minimumCards: options.edition === "morning" ? 5 : 1,
             comfortableMaxCards: options.edition === "morning" ? 20 : 12,
             absoluteMaxCards: options.cardLimit
         },
@@ -430,6 +466,7 @@ async function main() {
                 required: options.edition !== "morning",
                 baseFound: Boolean(baseIssue),
                 basePath: baseIssue?.filePath,
+                baseSource: baseIssue?.source,
                 basedOnGeneratedAt: baseIssue?.payload.issue.generatedAt,
                 incrementalCardCount: incrementalIssueResult.issue.cards.length,
                 addedCardCount: mergeResult?.addedCardIds.length ?? incrementalIssueResult.issue.cards.length,
@@ -509,7 +546,7 @@ async function main() {
     if (options.edition !== "morning") {
         console.log(baseIssue
             ? `增量合并：新增 ${mergeResult?.addedCardIds.length ?? 0} 条，沿用 ${mergeResult?.carriedCardIds.length ?? 0} 条`
-            : "增量合并：没有找到当天更早且已批准的版次，本稿会被审稿规则阻止发布");
+            : "增量合并：没有找到当天更早且合格的待审或已发布版次，本稿会被审稿规则阻止发布");
     }
     console.log(`输出：${outputPath}`);
     if (appPreviewPath) {

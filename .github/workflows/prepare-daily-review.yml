@@ -17,6 +17,10 @@ on:
           - morning
           - midday
           - evening
+      as_of:
+        description: Optional ISO timestamp used when replaying a historical edition
+        required: false
+        type: string
   schedule:
     # 07:10, 12:10 and 21:10 Asia/Shanghai. A hard quality gate protects latest.json.
     - cron: "10 23 * * *"
@@ -85,6 +89,7 @@ jobs:
         env:
           DATE: ${{ steps.issue-date.outputs.date }}
           EDITION: ${{ steps.issue-edition.outputs.edition }}
+          AS_OF: ${{ inputs.as_of }}
           CONTENT_TRANSLATION_PROVIDER: ${{ vars.CONTENT_TRANSLATION_PROVIDER || 'google-free' }}
           CONTENT_TRANSLATION_ENDPOINT: ${{ secrets.CONTENT_TRANSLATION_ENDPOINT }}
           CONTENT_TRANSLATION_API_KEY: ${{ secrets.CONTENT_TRANSLATION_API_KEY }}
@@ -96,6 +101,8 @@ jobs:
           CONTENT_RELIEFWEB_APPNAME: ${{ secrets.CONTENT_RELIEFWEB_APPNAME }}
         run: |
           mkdir -p tmp
+          AS_OF_ARGS=()
+          if [ -n "$AS_OF" ]; then AS_OF_ARGS+=(--as-of "$AS_OF"); fi
           node generator/scripts/generateDailyIssue.js \
             --publish \
             --profile public \
@@ -104,6 +111,7 @@ jobs:
             --cards 24 \
             --edition "$EDITION" \
             --date "$DATE" \
+            "${AS_OF_ARGS[@]}" \
             --output "tmp/review-$DATE-$EDITION.json"
           node generator/scripts/createDailyReviewSummary.js \
             --date "$DATE" \

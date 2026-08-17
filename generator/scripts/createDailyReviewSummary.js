@@ -227,8 +227,8 @@ function inspectIssue(expectedDate, review, candidate) {
     return findings;
 }
 const statusText = (status) => ({
-    ready: "可以进入人工终审",
-    review: "需要人工复核",
+    ready: "自动质量门通过",
+    review: "可以自动发布，建议抽查提示项",
     blocked: "存在必须修改的问题"
 })[status];
 function buildMarkdown(report, candidate) {
@@ -242,7 +242,7 @@ function buildMarkdown(report, candidate) {
         `- 原始候选：${report.counts.rawItems} 条`,
         `- 近七日候选：${report.counts.freshCandidates} 条`,
         `- 自动复检通过：${report.counts.publishableCards} 条`,
-        `- 进入人工复核：${report.counts.reviewableCards} 条`,
+        `- 复核提示卡片：${report.counts.reviewableCards} 条`,
         `- 必须修改：${report.counts.blockers} 项`,
         `- 建议复核：${report.counts.warnings} 项`,
         "",
@@ -262,7 +262,7 @@ function buildMarkdown(report, candidate) {
     });
     lines.push("", "## 检查提示", "");
     if (!report.findings.length) {
-        lines.push("- 未发现自动检查问题，仍需人工阅读全文后批准。");
+        lines.push("- 未发现自动检查问题，质量门允许自动发布。");
     }
     else {
         report.findings.forEach((finding) => {
@@ -271,7 +271,7 @@ function buildMarkdown(report, candidate) {
             lines.push(`- [${prefix}] ${card}${finding.message}`);
         });
     }
-    lines.push("", "## 发布规则", "", "这份文件只是待审稿，不会被 App 读取。只有完成阅读全文并执行批准流程后，内容才会替换 `latest.json`。", "");
+    lines.push("", "## 发布规则", "", "App 不会读取这份待审稿。没有阻断项时，质量门会自动出版对应版次；存在阻断项时保留上一份合格的 `latest.json`，等待修正和重新检查。", "");
     return lines.join("\n");
 }
 async function main() {

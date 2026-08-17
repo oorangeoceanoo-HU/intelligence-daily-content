@@ -1,27 +1,22 @@
 {
   "version": 1,
   "date": "2026-08-17",
-  "generatedAt": "2026-08-17T14:42:36.883Z",
-  "status": "blocked",
+  "generatedAt": "2026-08-17T15:00:16.230Z",
+  "status": "review",
   "reviewMode": "generated",
-  "candidateSha256": "2fccafb972fc26289e06c31e0f4e1875fdea854f351b63d2f7beaaa19e69e255",
+  "candidateSha256": "9f7cf5b1983a7e70766a447026284c7d6a4aef96daf25a8d738fce0ecdad8959",
   "counts": {
-    "cards": 5,
-    "pages": 1,
-    "rawItems": 32,
-    "freshCandidates": 29,
-    "publishableCards": 5,
-    "reviewableCards": 8,
-    "rejectedCards": 2,
-    "blockers": 1,
-    "warnings": 14
+    "cards": 15,
+    "pages": 3,
+    "rawItems": 53,
+    "freshCandidates": 46,
+    "publishableCards": 15,
+    "reviewableCards": 10,
+    "rejectedCards": 7,
+    "blockers": 0,
+    "warnings": 15
   },
   "findings": [
-    {
-      "level": "blocker",
-      "code": "too-few-cards",
-      "message": "当前只有 5 条，无法形成每版约 5 条的三版完整日报；系统会保留上一份合格日报，不会用旧闻或未核实内容凑数。"
-    },
     {
       "level": "warning",
       "code": "source-fetch-failures",
@@ -29,8 +24,17 @@
     },
     {
       "level": "warning",
-      "code": "current-coverage-local",
-      "message": "居住城市与家乡城市：上海、杭州在本时段没有新的可用条目：已监测 1 个可访问来源，但当前只命中 0 个。城市新闻发现源只负责发现线索，涉及政策、灾害和公共服务的内容还要回到当地官方或主流来源确认。"
+      "code": "card-needs-human-review",
+      "message": "原文信息量有限，需要确认是否足以支持卡片结论。",
+      "cardId": "draft-real-xinhua-world-1izorsa",
+      "cardTitle": "哥伦比亚强震已致289人死亡 逾18万人受灾"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "官方风险简报篇幅较短，但事实和处置动作完整，需要人工确认是否保留。",
+      "cardId": "draft-real-mem-cn-c617m7",
+      "cardTitle": "国家防总办公室、应急管理部向新疆增调中央抗旱物资支持做好抗旱减灾工作"
     },
     {
       "level": "warning",
@@ -99,21 +103,21 @@
       "level": "warning",
       "code": "card-needs-human-review",
       "message": "原文篇幅较短且不是官方或主流来源，需要发布前复核。",
-      "cardId": "draft-real-theverge-ai-rss-1xo4sje",
+      "cardId": "draft-real-theverge-ai-rss-1xy4e8d",
       "cardTitle": "据报道 OpenAI 解散了其准备团队"
     },
     {
       "level": "warning",
       "code": "card-needs-human-review",
       "message": "原文篇幅较短且不是官方或主流来源，需要发布前复核。",
-      "cardId": "draft-real-theverge-ai-rss-1chpw8h",
+      "cardId": "draft-real-theverge-ai-rss-1bnr35k",
       "cardTitle": "ChatGPT 的计算机历史记录跟踪您的点击和击键"
     },
     {
       "level": "warning",
       "code": "card-needs-human-review",
       "message": "一句话导读偏短，可能没有讲清楚核心事实。",
-      "cardId": "draft-real-theverge-ai-rss-12e6xtq",
+      "cardId": "draft-real-theverge-ai-rss-12o6jip",
       "cardTitle": "流氓人工智能不再是科幻小说"
     }
   ]

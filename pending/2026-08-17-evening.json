@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "publishedAt": "2026-08-17T11:57:49.471Z",
+  "publishedAt": "2026-08-17T12:02:58.486Z",
   "issue": {
     "id": "daily-public-2026-08-17",
     "date": "2026-08-17",
@@ -46,7 +46,7 @@
           }
         ],
         "images": [],
-        "generatedAt": "2026-08-17T11:57:49.471Z"
+        "generatedAt": "2026-08-17T12:02:58.486Z"
       },
       {
         "id": "draft-real-cnbc-world-rss-1jzpf1l",
@@ -88,10 +88,10 @@
           }
         ],
         "images": [],
-        "generatedAt": "2026-08-17T11:57:49.471Z"
+        "generatedAt": "2026-08-17T12:02:58.486Z"
       },
       {
-        "id": "draft-real-cnbc-world-rss-16k6af3",
+        "id": "draft-real-cnbc-world-rss-16a6oq4",
         "title": "日本汽车制造商容易受到伊朗战争的双重冲击和日元升值的影响",
         "oneLine": "政策变化：在这篇文章中，日本汽车制造商似乎很容易受到伊朗战争和日元汇率好转的影响。",
         "importance": "S",
@@ -130,7 +130,7 @@
           }
         ],
         "images": [],
-        "generatedAt": "2026-08-17T11:57:49.471Z"
+        "generatedAt": "2026-08-17T12:02:58.486Z"
       },
       {
         "id": "draft-real-xinhua-world-16ac8kt",
@@ -171,7 +171,7 @@
           }
         ],
         "images": [],
-        "generatedAt": "2026-08-17T11:57:49.471Z"
+        "generatedAt": "2026-08-17T12:02:58.486Z"
       },
       {
         "id": "draft-real-xinhua-world-54wodt",
@@ -214,7 +214,7 @@
           }
         ],
         "images": [],
-        "generatedAt": "2026-08-17T11:57:49.471Z"
+        "generatedAt": "2026-08-17T12:02:58.486Z"
       },
       {
         "id": "draft-real-xinhua-world-rll09d",
@@ -255,7 +255,7 @@
           }
         ],
         "images": [],
-        "generatedAt": "2026-08-17T11:57:49.471Z"
+        "generatedAt": "2026-08-17T12:02:58.486Z"
       },
       {
         "id": "draft-cluster-real-npr-world-rss-108om18",
@@ -348,7 +348,7 @@
           }
         ],
         "images": [],
-        "generatedAt": "2026-08-17T11:57:49.471Z"
+        "generatedAt": "2026-08-17T12:02:58.486Z"
       },
       {
         "id": "draft-real-gov-cn-policy-library-k1akam",
@@ -389,7 +389,7 @@
           }
         ],
         "images": [],
-        "generatedAt": "2026-08-17T11:57:49.471Z"
+        "generatedAt": "2026-08-17T12:02:58.486Z"
       },
       {
         "id": "draft-real-xinhua-tech-18vqeb9",
@@ -437,7 +437,7 @@
             "sourceUrl": "https://www.news.cn/tech/20260817/da7a68094c054e1081f464630a8c564e/c.html"
           }
         ],
-        "generatedAt": "2026-08-17T11:57:49.471Z"
+        "generatedAt": "2026-08-17T12:02:58.486Z"
       },
       {
         "id": "draft-real-xinhua-tech-1co3y72",
@@ -480,7 +480,7 @@
           }
         ],
         "images": [],
-        "generatedAt": "2026-08-17T11:57:49.471Z"
+        "generatedAt": "2026-08-17T12:02:58.486Z"
       },
       {
         "id": "draft-real-xinhua-tech-8qn5rg",
@@ -523,7 +523,7 @@
           }
         ],
         "images": [],
-        "generatedAt": "2026-08-17T11:57:49.471Z"
+        "generatedAt": "2026-08-17T12:02:58.486Z"
       },
       {
         "id": "draft-real-xinhua-tech-u0cqsw",
@@ -566,7 +566,7 @@
           }
         ],
         "images": [],
-        "generatedAt": "2026-08-17T11:57:49.471Z"
+        "generatedAt": "2026-08-17T12:02:58.486Z"
       },
       {
         "id": "draft-real-xinhua-world-3yyqw3",
@@ -823,7 +823,7 @@
     "estimatedReadMinutes": 22,
     "pageCount": 3,
     "topCardId": "draft-real-cnbc-world-rss-17dvnyl",
-    "generatedAt": "2026-08-17T11:57:49.471Z",
+    "generatedAt": "2026-08-17T12:02:58.486Z",
     "pushSlots": [
       "07:30",
       "12:30",
@@ -840,7 +840,7 @@
       "draft-real-xinhua-world-16ac8kt",
       "draft-real-cnbc-world-rss-17dvnyl",
       "draft-real-cnbc-world-rss-1jzpf1l",
-      "draft-real-cnbc-world-rss-16k6af3",
+      "draft-real-cnbc-world-rss-16a6oq4",
       "draft-real-xinhua-world-54wodt",
       "draft-real-xinhua-world-rll09d",
       "draft-real-gov-cn-policy-library-k1akam",

@@ -30,6 +30,9 @@ jobs:
           mkdir -p site/issues
           cp latest.json site/latest.json
           cp issues/*.json site/issues/
+          node generator/scripts/createIssueManifest.js \
+            --issues-directory issues \
+            --output site/manifest.json
           touch site/.nojekyll
           printf '<!doctype html><meta charset="utf-8"><title>Intelligence Daily Content</title>' > site/index.html
       - name: Upload Pages artifact

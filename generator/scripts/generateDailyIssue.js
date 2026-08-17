@@ -218,10 +218,13 @@ async function main() {
         limit: candidateReviewLimit,
         generatedAt
     });
+    const reviewableCards = cardPipeline.rejectedCards.filter((item) => item.finalReport.level === "review");
+    const blockedCards = cardPipeline.rejectedCards.filter((item) => item.finalReport.level === "blocked");
+    const eligibleCards = [...cardPipeline.publishableCards, ...reviewableCards];
     const issueResult = (0, dailyIssueBuilder_1.buildDailyIssue)({
         userId: profileConfig.profile.phone.replace(/\s+/g, ""),
         date: options.date,
-        publishableCards: cardPipeline.publishableCards,
+        publishableCards: eligibleCards,
         maxCards: options.cardLimit,
         generatedAt
     });
@@ -238,7 +241,8 @@ async function main() {
             freshCandidateCount: freshCandidates.length,
             selectedCandidateCount: cardPipeline.selectedCandidates.length,
             publishableCardCount: cardPipeline.publishableCards.length,
-            rejectedCardCount: cardPipeline.rejectedCards.length,
+            reviewableCardCount: reviewableCards.length,
+            rejectedCardCount: blockedCards.length,
             skippedPublishableCardCount: issueResult.stats.skippedCardCount,
             stats: issueResult.stats,
             fetchFailures: fetchResults
@@ -247,9 +251,23 @@ async function main() {
                 sourceId: result.sourceId,
                 sourceName: result.sourceName,
                 error: result.error
+            })),
+            cardReviewFindings: reviewableCards
+                .filter((item) => issueResult.issue.cards.some((card) => card.id === item.card.id))
+                .map((item) => ({
+                cardId: item.card.id,
+                cardTitle: item.card.title,
+                issues: item.finalReport.issues.map((issue) => issue.message)
             }))
         },
-        rejectedCards: cardPipeline.rejectedCards.map((item) => ({
+        reviewableCards: reviewableCards.map((item) => ({
+            id: item.card.id,
+            title: item.card.title,
+            finalLabel: item.finalReport.label,
+            finalScore: item.finalReport.score,
+            issues: item.finalReport.issues.map((issue) => issue.message)
+        })),
+        rejectedCards: blockedCards.map((item) => ({
             id: item.card.id,
             title: item.card.title,
             finalLabel: item.finalReport.label,
@@ -292,7 +310,7 @@ async function main() {
     console.log(`画像：${profileConfig.name}`);
     console.log(`来源：${options.sources.map((sourceId) => shortSourceNames[sourceId]).join("、")}`);
     console.log(`候选：${rawCandidates.length} 条原始候选 -> ${dedupeResult.candidates.length} 条去重后候选`);
-    console.log(`卡片：${cardPipeline.publishableCards.length} 张通过复检，${cardPipeline.rejectedCards.length} 张未进入日报`);
+    console.log(`卡片：${cardPipeline.publishableCards.length} 张自动通过，${reviewableCards.length} 张进入人工复核，${blockedCards.length} 张被拦截`);
     console.log(`日报：${issueResult.issue.cards.length} 张卡片，约 ${issueResult.issue.estimatedReadMinutes} 分钟读完，${issueResult.issue.pageCount} 版`);
     console.log(`输出：${outputPath}`);
     if (appPreviewPath) {

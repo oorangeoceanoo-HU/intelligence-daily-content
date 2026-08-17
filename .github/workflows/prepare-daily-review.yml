@@ -8,8 +8,9 @@ on:
         required: false
         type: string
   schedule:
-    # 07:30 Asia/Shanghai. The result is only a pending draft, never latest.json.
-    - cron: "30 23 * * *"
+    # 10:00 Asia/Shanghai, after the main Chinese sources have completed their morning updates.
+    # The result is only a pending draft, never latest.json.
+    - cron: "0 2 * * *"
 
 permissions:
   contents: write

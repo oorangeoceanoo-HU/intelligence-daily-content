@@ -17,7 +17,7 @@ const sections = [
     "product",
     "industry"
 ];
-const makeCards = (count, importance, finalScore, offset = 0) => Array.from({ length: count }, (_, index) => {
+const makeCards = (count, importance, finalScore, offset = 0, publishedAt = "2026-08-13") => Array.from({ length: count }, (_, index) => {
     const id = `sizing-${offset + index}`;
     return {
         card: {
@@ -39,7 +39,7 @@ const makeCards = (count, importance, finalScore, offset = 0) => Array.from({ le
                     title: "Sizing source",
                     url: `https://example.com/${id}`,
                     sourceId: `source-${id}`,
-                    publishedAt: "2026-08-13"
+                    publishedAt
                 }
             ],
             images: [],
@@ -66,4 +66,33 @@ assertEqual(selectedCount(makeCards(26, "B", 60)), 24, "ordinary cards stop at t
 assertEqual(selectedCount(makeCards(26, "A", 75)), 26, "an important day may grow beyond 24 cards");
 assertEqual(selectedCount(makeCards(35, "A", 90)), 30, "even an exceptional day respects the absolute maximum");
 assertEqual(selectedCount([...makeCards(13, "B", 60), ...makeCards(2, "C", 45, 100)]), 15, "two relevant C cards may complete the minimum issue");
+const recencyIssue = (0, dailyIssueBuilder_1.buildDailyIssue)({
+    userId: "recency-test",
+    date: "2026-08-17",
+    publishableCards: [
+        ...makeCards(15, "B", 60, 0, "2026-08-12"),
+        ...makeCards(1, "B", 60, 100, "2026-08-17")
+    ],
+    maxCards: 15,
+    generatedAt: "2026-08-17T00:00:00.000Z"
+}).issue;
+assertEqual(recencyIssue.cards.some((card) => card.id === "sizing-100"), true, "same-level current news is selected ahead of older filler");
+assertEqual(recencyIssue.cards.find((card) => card.id === "sizing-0")?.oneLine.startsWith("背景补充："), true, "older filler is visibly marked as background context");
+const sourceBalancedIssue = (0, dailyIssueBuilder_1.buildDailyIssue)({
+    userId: "source-balance-test",
+    date: "2026-08-17",
+    publishableCards: Array.from({ length: 4 }, (_, sourceIndex) => makeCards(4, "B", 60, sourceIndex * 10, "2026-08-17").map((item) => ({
+        ...item,
+        card: {
+            ...item.card,
+            sourceLinks: item.card.sourceLinks.map((link) => ({
+                ...link,
+                sourceId: `balanced-source-${sourceIndex}`
+            }))
+        }
+    }))).flat(),
+    maxCards: 30,
+    generatedAt: "2026-08-17T00:00:00.000Z"
+}).issue;
+assertEqual(sourceBalancedIssue.cards.length, 16, "four strong cards per source may be retained so the issue can grow beyond the 15-card minimum");
 console.log("Dynamic daily issue sizing rules verified.");

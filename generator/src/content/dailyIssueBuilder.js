@@ -88,9 +88,44 @@ const cardTextLength = (card) => [
     .filter((value) => Boolean(value))
     .join("")
     .length;
-const scoreCard = (card, rankScore) => importanceWeight[card.importance] + sectionWeight[card.section] + rankScore * 0.1;
-const sortForIssue = (items) => [...items].sort((a, b) => {
-    const scoreDiff = scoreCard(b.card, b.rankedCandidate.finalScore) - scoreCard(a.card, a.rankedCandidate.finalScore);
+const DAY_MS = 24 * 60 * 60 * 1000;
+const calendarDay = (value) => {
+    const match = value?.match(/^(\d{4})-(\d{2})-(\d{2})/u);
+    return match
+        ? Date.UTC(Number(match[1]), Number(match[2]) - 1, Number(match[3]))
+        : undefined;
+};
+const recencyWeight = (card, issueDate) => {
+    const publishedDay = calendarDay(card.sourceLinks[0]?.publishedAt);
+    const issueDay = calendarDay(issueDate);
+    if (publishedDay === undefined || issueDay === undefined) {
+        return 0;
+    }
+    const ageDays = Math.max(0, Math.floor((issueDay - publishedDay) / DAY_MS));
+    return [140, 115, 90, 65, 40, 25, 12, 4][Math.min(ageDays, 7)] ?? 0;
+};
+const markBackgroundFiller = (card, issueDate) => {
+    const publishedDay = calendarDay(card.sourceLinks[0]?.publishedAt);
+    const issueDay = calendarDay(issueDate);
+    if (publishedDay === undefined || issueDay === undefined) {
+        return card;
+    }
+    const ageDays = Math.floor((issueDay - publishedDay) / DAY_MS);
+    if (ageDays <= 3 || /^(背景补充|风险概览)：/u.test(card.oneLine)) {
+        return card;
+    }
+    return {
+        ...card,
+        oneLine: `背景补充：${card.oneLine.replace(/^[^：]{2,8}：/u, "")}`
+    };
+};
+const scoreCard = (card, rankScore, issueDate) => importanceWeight[card.importance] +
+    recencyWeight(card, issueDate) +
+    sectionWeight[card.section] +
+    rankScore * 0.1;
+const sortForIssue = (items, issueDate) => [...items].sort((a, b) => {
+    const scoreDiff = scoreCard(b.card, b.rankedCandidate.finalScore, issueDate) -
+        scoreCard(a.card, a.rankedCandidate.finalScore, issueDate);
     if (scoreDiff !== 0) {
         return scoreDiff;
     }
@@ -98,7 +133,7 @@ const sortForIssue = (items) => [...items].sort((a, b) => {
 });
 const canAddCard = (card, sectionCounts, importanceCounts, sourceCounts) => {
     const primarySourceId = card.sourceLinks[0]?.sourceId ?? "unknown";
-    if ((sourceCounts[primarySourceId] ?? 0) >= 3) {
+    if ((sourceCounts[primarySourceId] ?? 0) >= 4) {
         return false;
     }
     if (card.importance === "C" && importanceCounts.C >= 2) {
@@ -118,11 +153,11 @@ const canAddCard = (card, sectionCounts, importanceCounts, sourceCounts) => {
 const canAddMinimumFallback = (card, sectionCounts, importanceCounts, sourceCounts) => {
     const primarySourceId = card.sourceLinks[0]?.sourceId ?? "unknown";
     return (card.section !== "friends" &&
-        (sourceCounts[primarySourceId] ?? 0) < 4 &&
+        (sourceCounts[primarySourceId] ?? 0) < 5 &&
         (card.importance !== "C" || importanceCounts.C < 3) &&
         sectionCounts[card.section] < 10);
 };
-const selectIssueCards = (items, sizingOverrides = {}) => {
+const selectIssueCards = (items, issueDate, sizingOverrides = {}) => {
     const sizingRules = normalizeSizingRules(sizingOverrides);
     const sectionCounts = emptySectionCounts();
     const importanceCounts = emptyImportanceCounts();
@@ -137,7 +172,7 @@ const selectIssueCards = (items, sizingOverrides = {}) => {
         standardBandCount: 0,
         exceptionalBandCount: 0
     };
-    sortForIssue(items).forEach((item) => {
+    sortForIssue(items, issueDate).forEach((item) => {
         const selectionBand = (0, exports.getDailyIssueSelectionBand)({
             selectedCount: selected.length,
             importance: item.card.importance,
@@ -190,7 +225,7 @@ function buildDailyIssue(params) {
     const explicitMaxCards = params.maxCards
         ? Math.max(1, Math.floor(params.maxCards))
         : undefined;
-    const selectedResult = selectIssueCards(params.publishableCards, {
+    const selectedResult = selectIssueCards(params.publishableCards, params.date, {
         ...params.sizingRules,
         minimumCards: explicitMaxCards
             ? Math.min(params.sizingRules?.minimumCards ?? exports.defaultDailyIssueSizingRules.minimumCards, explicitMaxCards)
@@ -200,7 +235,7 @@ function buildDailyIssue(params) {
             : params.sizingRules?.comfortableMaxCards,
         absoluteMaxCards: explicitMaxCards ?? params.sizingRules?.absoluteMaxCards
     });
-    const cards = orderedForReading(selectedResult.selected.map((item) => item.card));
+    const cards = orderedForReading(selectedResult.selected.map((item) => markBackgroundFiller(item.card, params.date)));
     const totalChars = cards.reduce((sum, card) => sum + cardTextLength(card), 0);
     const estimatedReadMinutes = cards.length ? Math.max(1, Math.ceil(totalChars / 450)) : 0;
     // Keep up to three balanced newspaper pages while allowing the daily total to vary.

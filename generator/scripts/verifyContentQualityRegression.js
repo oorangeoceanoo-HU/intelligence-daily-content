@@ -1,6 +1,7 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
 const articleDetails_1 = require("../src/content/articleDetails");
+const cardDraftQuality_1 = require("../src/content/cardDraftQuality");
 const candidateDeduper_1 = require("../src/content/candidateDeduper");
 const rawToCandidate_1 = require("../src/content/rawToCandidate");
 const nodeRequire = typeof require === "function" ? require : undefined;
@@ -166,4 +167,32 @@ const researchItem = candidate({
 });
 const researchCard = (0, articleDetails_1.enrichCandidateWithArticleDetail)(researchItem, detail(researchItem, researchItem.title, "研究团队公布了高温超导材料的新实验结果，并说明了样品制备和测量方法。实验展示了材料在不同温度与磁场条件下的性能变化。后续仍需要独立团队复现，并验证更大尺寸样品的稳定性和工程应用条件。"));
 assert.match(researchCard.body.whatToWatch ?? "", /论文全文|实验条件/u, "科研新闻不能套用政策执行细则模板");
+const conciseOfficialRiskCard = {
+    id: "concise-official-risk",
+    title: "应急管理部调派排涝力量支援河南周口",
+    oneLine: "风险提醒：13支排涝力量已抵达河南周口并投入作业，总排涝能力约22万立方米每小时。",
+    importance: "B",
+    credibility: "官方来源",
+    tags: ["B", "risk", "disaster", "publicSafety"],
+    industries: ["generalPublic", "localLife"],
+    section: "risk",
+    body: {
+        background: "河南周口部分区域需要开展排涝，应急管理部从多个省份调派专业力量支援。",
+        keyProgress: "相关队伍已于上午全部抵达并投入作业，后续重点是积水消退、交通恢复和新的降雨变化。",
+        whyItMatters: "排涝进展直接关系当地居民出行、交通和生产恢复，受影响地区应继续查看本地官方通知。",
+        userRelevance: "如果你在河南周口或近期计划前往当地，应优先确认道路积水和公共交通恢复情况。",
+        whatToWatch: "继续关注当地降雨、积水点变化和交通恢复通知。"
+    },
+    sourceLinks: [source("mem-cn", "https://example.com/concise-official-risk")],
+    images: [],
+    generatedAt: "2026-08-17T00:00:00.000Z"
+};
+const conciseOfficialRiskDetail = detail(candidate({
+    id: conciseOfficialRiskCard.id,
+    title: conciseOfficialRiskCard.title,
+    sourceLink: conciseOfficialRiskCard.sourceLinks[0]
+}), conciseOfficialRiskCard.title, "应急管理部调派13支专业排涝力量支援河南周口，队伍已抵达现场并投入作业。相关力量来自多个省份，总排涝能力约22万立方米每小时。");
+const conciseOfficialRiskReport = (0, cardDraftQuality_1.evaluateCardDraftQuality)(conciseOfficialRiskCard, conciseOfficialRiskDetail);
+assert.equal(conciseOfficialRiskReport.level, "review", "完整的官方风险简报应进入人工复核而不是直接拦截");
+assert.ok(!conciseOfficialRiskReport.issues.some((issue) => issue.code === "detail-too-short"), "官方风险简报不应被普通短正文规则直接拦截");
 console.log("Content quality regression checks passed.");

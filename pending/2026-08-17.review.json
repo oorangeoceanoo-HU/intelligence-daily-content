@@ -1,35 +1,26 @@
 {
   "version": 1,
   "date": "2026-08-17",
-  "generatedAt": "2026-08-16T23:41:58.777Z",
-  "status": "blocked",
-  "reviewMode": "generated",
-  "candidateSha256": "e81eae8a3974d27b6daaf9e4b05d3ac0fa85cba8737e14290483270667469184",
+  "generatedAt": "2026-08-17T03:00:01.118Z",
+  "status": "review",
+  "reviewMode": "edited-recheck",
+  "candidateSha256": "4b6fc13718fc8ca894198eb10f207c61c02f85cc8ca586522d0b8890a977afd9",
   "counts": {
-    "cards": 14,
+    "cards": 18,
     "pages": 3,
-    "rawItems": 100,
-    "freshCandidates": 40,
-    "publishableCards": 14,
-    "rejectedCards": 21,
-    "blockers": 1,
-    "warnings": 2
+    "rawItems": 120,
+    "freshCandidates": 43,
+    "publishableCards": 16,
+    "reviewableCards": 10,
+    "rejectedCards": 12,
+    "blockers": 0,
+    "warnings": 1
   },
   "findings": [
-    {
-      "level": "blocker",
-      "code": "too-few-cards",
-      "message": "当前只有 14 条，低于 15 条最低阅读量。"
-    },
     {
       "level": "warning",
       "code": "older-content-present",
       "message": "共有 7 个来源超过近三日范围，需要确认它们仍值得进入今天的日报。"
-    },
-    {
-      "level": "warning",
-      "code": "source-fetch-failures",
-      "message": "有 2 个来源抓取失败，需要确认是否影响当天覆盖面。"
     }
   ]
 }

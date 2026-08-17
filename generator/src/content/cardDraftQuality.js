@@ -60,7 +60,12 @@ function evaluateCardDraftQuality(card, detail) {
         if (detail.status === "fallback") {
             addIssue(issues, "warning", "detail-fallback", "没有抓到完整正文，目前使用候选摘要回退。");
         }
-        if (detail.charCount < 220) {
+        const isConciseOfficialRiskBrief = card.credibility === "官方来源" &&
+            card.tags.some((tag) => ["risk", "disaster", "publicSafety"].includes(tag));
+        if (detail.charCount < 220 && isConciseOfficialRiskBrief) {
+            addIssue(issues, "warning", "detail-brief-official-risk", "官方风险简报篇幅较短，但事实和处置动作完整，需要人工确认是否保留。");
+        }
+        else if (detail.charCount < 220) {
             addIssue(issues, "error", "detail-too-short", "原文可用正文过短，可能无法生成可靠卡片。");
         }
         else if (detail.charCount < 320) {

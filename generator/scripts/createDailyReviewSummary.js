@@ -155,6 +155,17 @@ function inspectIssue(expectedDate, review, candidate) {
     if (review.meta?.fetchFailures?.length) {
         addFinding(findings, "warning", "source-fetch-failures", `有 ${review.meta.fetchFailures.length} 个来源抓取失败，需要确认是否影响当天覆盖面。`);
     }
+    review.meta?.cardReviewFindings?.forEach((item) => {
+        item.issues.forEach((message) => {
+            findings.push({
+                level: "warning",
+                code: "card-needs-human-review",
+                message,
+                cardId: item.cardId,
+                cardTitle: item.cardTitle
+            });
+        });
+    });
     return findings;
 }
 const statusText = (status) => ({
@@ -172,6 +183,7 @@ function buildMarkdown(report, candidate) {
         `- 原始候选：${report.counts.rawItems} 条`,
         `- 近七日候选：${report.counts.freshCandidates} 条`,
         `- 自动复检通过：${report.counts.publishableCards} 条`,
+        `- 进入人工复核：${report.counts.reviewableCards} 条`,
         `- 必须修改：${report.counts.blockers} 项`,
         `- 建议复核：${report.counts.warnings} 项`,
         "",
@@ -209,6 +221,7 @@ async function main() {
                 rawItemCount: previousReport?.counts.rawItems ?? 0,
                 freshCandidateCount: previousReport?.counts.freshCandidates ?? 0,
                 publishableCardCount: previousReport?.counts.publishableCards ?? candidate.issue.cards.length,
+                reviewableCardCount: previousReport?.counts.reviewableCards ?? 0,
                 rejectedCardCount: previousReport?.counts.rejectedCards ?? 0
             }
         }
@@ -240,6 +253,7 @@ async function main() {
             rawItems: review.meta?.rawItemCount ?? 0,
             freshCandidates: review.meta?.freshCandidateCount ?? 0,
             publishableCards: review.meta?.publishableCardCount ?? 0,
+            reviewableCards: review.meta?.reviewableCardCount ?? 0,
             rejectedCards: review.meta?.rejectedCardCount ?? 0,
             blockers,
             warnings

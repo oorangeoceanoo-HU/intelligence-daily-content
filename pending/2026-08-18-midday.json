@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "publishedAt": "2026-08-18T04:42:13.522Z",
+  "publishedAt": "2026-08-18T04:46:01.164Z",
   "issue": {
     "id": "daily-public-2026-08-18",
     "date": "2026-08-18",
@@ -384,16 +384,16 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-18T04:42:20.379Z",
+            "fetchedAt": "2026-08-18T04:46:07.155Z",
             "sourceMethod": "rss",
             "verificationStatus": "pending"
           }
         ],
         "images": [],
-        "generatedAt": "2026-08-18T04:42:13.522Z"
+        "generatedAt": "2026-08-18T04:46:01.164Z"
       },
       {
-        "id": "draft-real-cnbc-world-rss-19nykv0",
+        "id": "draft-real-cnbc-world-rss-19xy6jz",
         "title": "信用卡发行商 Synchrony 宣布与 OpenAI 合作",
         "oneLine": "政策变化：本文编者注：该故事的前一个版本基于 Synchrony Financial 高管提供的信息，错误地描述了 Synchrony 和 OpenAI 之间的合作。",
         "importance": "B",
@@ -428,13 +428,13 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-18T04:42:18.798Z",
+            "fetchedAt": "2026-08-18T04:46:05.260Z",
             "sourceMethod": "rss",
             "verificationStatus": "pending"
           }
         ],
         "images": [],
-        "generatedAt": "2026-08-18T04:42:13.522Z"
+        "generatedAt": "2026-08-18T04:46:01.164Z"
       },
       {
         "id": "draft-real-cnbc-world-rss-1ys19ya",
@@ -472,13 +472,13 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-18T04:42:18.798Z",
+            "fetchedAt": "2026-08-18T04:46:05.260Z",
             "sourceMethod": "rss",
             "verificationStatus": "pending"
           }
         ],
         "images": [],
-        "generatedAt": "2026-08-18T04:42:13.522Z"
+        "generatedAt": "2026-08-18T04:46:01.164Z"
       },
       {
         "id": "draft-cluster-real-un-news-rss-1kjjg67",
@@ -1140,7 +1140,7 @@
     "estimatedReadMinutes": 27,
     "pageCount": 3,
     "topCardId": "draft-real-cnbc-world-rss-1mlrklp",
-    "generatedAt": "2026-08-18T04:42:13.522Z",
+    "generatedAt": "2026-08-18T04:46:01.164Z",
     "pushSlots": [
       "08:30",
       "12:30",
@@ -1155,7 +1155,7 @@
     "basedOnGeneratedAt": "2026-08-18T04:05:23.099Z",
     "editionCardIds": [
       "draft-real-techcrunch-ai-rss-1x8tzjs",
-      "draft-real-cnbc-world-rss-19nykv0",
+      "draft-real-cnbc-world-rss-19xy6jz",
       "draft-real-cnbc-world-rss-1ys19ya"
     ],
     "carriedCardIds": [

@@ -88,6 +88,24 @@ exports.sourceRegistry = [
         notes: "运行环境连接不稳定，暂不作为默认来源；恢复前不能计入覆盖完成度。"
     },
     {
+        id: "gov-uk-news",
+        name: "GOV.UK News and Communications",
+        tier: "T0",
+        categories: ["world", "policy", "local", "publicSafety", "finance"],
+        industries: ["generalPublic", "localLife", "financeInvestment", "hrRecruiting", "operationsGrowth", "teacher"],
+        method: "rss",
+        url: "https://www.gov.uk/search/news-and-communications.atom?order=updated-newest",
+        language: "en",
+        regions: ["英国"],
+        trustScore: 5,
+        refreshMinutes: 30,
+        requiresApiKey: false,
+        enabled: true,
+        role: "both",
+        coverageLanes: ["local", "industry", "global"],
+        notes: "英国政府官方更新流，用于英国政策、公共服务、监管和风险信息。"
+    },
+    {
         id: "bbc-business-rss",
         name: "BBC Business RSS",
         tier: "T1",

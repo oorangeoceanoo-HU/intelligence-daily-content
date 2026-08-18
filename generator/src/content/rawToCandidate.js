@@ -61,6 +61,19 @@ const extractLocations = (item) => {
         ["France", "法国"],
         ["Germany", "德国"],
         ["United Kingdom", "英国"],
+        ["UK ", "英国"],
+        ["London", "伦敦"],
+        ["Birmingham", "伯明翰"],
+        ["Manchester", "曼彻斯特"],
+        ["Leeds", "利兹"],
+        ["Glasgow", "格拉斯哥"],
+        ["Liverpool", "利物浦"],
+        ["Newcastle", "纽卡斯尔"],
+        ["Sheffield", "谢菲尔德"],
+        ["Bristol", "布里斯托"],
+        ["Edinburgh", "爱丁堡"],
+        ["Cardiff", "卡迪夫"],
+        ["Belfast", "贝尔法斯特"],
         ["Turkey", "土耳其"],
         ["Saudi Arabia", "沙特"],
         ["Colombia", "哥伦比亚"],
@@ -301,6 +314,69 @@ const gdacsProfile = (item) => {
                 ? `当前候选识别到地点：${locations.join("、")}。如果用户与这些地区相关，排序会提高。`
                 : "当前还没有命中用户城市，需要继续结合地区和严重程度判断。",
             whatToWatch: "后续应结合官方预警、当地影响和事件等级变化再决定是否推送。"
+        }
+    };
+};
+const govUkProfile = (item) => {
+    const text = textOf(item);
+    const locations = extractLocations(item);
+    const riskRelated = hasAny(text, [
+        "emergency",
+        "warning",
+        "flood",
+        "storm",
+        "health",
+        "security",
+        "紧急",
+        "预警",
+        "洪水",
+        "风暴",
+        "健康",
+        "安全"
+    ]);
+    const workRelated = hasAny(text, [
+        "employment",
+        "worker",
+        "business",
+        "tax",
+        "visa",
+        "education",
+        "就业",
+        "雇员",
+        "企业",
+        "税",
+        "签证",
+        "教育"
+    ]);
+    return {
+        categories: unique([
+            "world",
+            "policy",
+            "local",
+            ...(riskRelated ? ["publicSafety"] : []),
+            ...(workRelated ? ["hr", "finance"] : [])
+        ]),
+        industries: unique([
+            "generalPublic",
+            "localLife",
+            ...(workRelated ? ["hrRecruiting", "financeInvestment", "operationsGrowth"] : [])
+        ]),
+        regions: ["英国"],
+        locations,
+        impactScore: riskRelated ? 80 : locations.length ? 74 : 68,
+        severityScore: riskRelated ? 76 : 42,
+        trendScore: 45,
+        oneLine: locations.length
+            ? `英国官方更新涉及${locations.join("、")}，需要结合生效时间和适用人群判断影响。`
+            : "英国政府发布新的政策或公共事务安排，需要关注适用范围和正式生效时间。",
+        body: {
+            background: "这条信息来自英国政府官方新闻与公告更新流。",
+            keyProgress: compact(item.summaryFromSource || item.rawText || item.title),
+            whyItMatters: "官方政策、公共服务和监管变化可能直接影响在英国生活、工作、学习或经营的人。",
+            userRelevance: locations.length
+                ? `当前识别到英国地区：${locations.join("、")}。居住地命中时应提高排序。`
+                : "英国用户会优先看到这条信息，其他用户只在事件影响范围足够大时看到。",
+            whatToWatch: "继续确认正式文件、生效日期、适用对象以及地方政府后续执行说明。"
         }
     };
 };
@@ -894,6 +970,9 @@ const profileForRawItem = (item) => {
     }
     if (["bbc-technology-rss", "openai-news", "deepmind-blog", "huggingface-blog", "techcrunch-ai-rss", "theverge-ai-rss"].includes(item.sourceId)) {
         return technologyRssProfile(item);
+    }
+    if (item.sourceId === "gov-uk-news") {
+        return govUkProfile(item);
     }
     if (item.sourceId === "mfa-cn-news" || item.sourceId === "mofcom-trade") {
         return chinaImpactOfficialProfile(item);

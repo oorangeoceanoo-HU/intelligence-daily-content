@@ -1,5 +1,6 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
+exports.deriveTopicCategories = exports.deriveTopicIndustryTags = void 0;
 exports.deriveIndustryTags = deriveIndustryTags;
 exports.deriveContentCategories = deriveContentCategories;
 exports.createProfileKey = createProfileKey;
@@ -106,6 +107,10 @@ const alwaysOnCategories = [
 const alwaysOnIndustries = ["generalPublic", "localLife"];
 const unique = (items) => Array.from(new Set(items));
 const fromLookup = (values, lookup) => values.flatMap((value) => lookup[value] ?? []);
+const deriveTopicIndustryTags = (topic) => unique(interestIndustryMap[topic] ?? careerIndustryMap[topic] ?? []);
+exports.deriveTopicIndustryTags = deriveTopicIndustryTags;
+const deriveTopicCategories = (topic) => unique(interestCategoryMap[topic] ?? careerCategoryMap[topic] ?? []);
+exports.deriveTopicCategories = deriveTopicCategories;
 function deriveIndustryTags(profile) {
     return unique([
         ...alwaysOnIndustries,

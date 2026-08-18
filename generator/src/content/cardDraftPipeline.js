@@ -12,7 +12,9 @@ const finalReportForRepair = (report, repairResult) => (repairResult.changed ? r
 async function buildCardDraftsForProfile(params) {
     const generatedAt = params.generatedAt ?? new Date().toISOString();
     const issuePreview = (0, candidateGenerator_1.buildCandidateIssuePreview)(params.profileName, params.profile, params.candidates, params.limit);
-    const selectedCandidates = issuePreview.selectedCandidates.slice(0, params.limit);
+    const selectedCandidates = (params.includeAllCandidates
+        ? issuePreview.rankedCandidates
+        : issuePreview.selectedCandidates).slice(0, params.limit);
     const fetchedDetails = await (0, articleDetails_1.fetchArticleDetails)(selectedCandidates.map((ranked) => ranked.candidate));
     const details = await (0, translation_1.translateArticleDetails)(fetchedDetails);
     const cards = selectedCandidates.map((ranked) => {

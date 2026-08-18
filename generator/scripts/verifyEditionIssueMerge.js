@@ -38,7 +38,7 @@ const issue = (edition, cards, generatedAt) => ({
     estimatedReadMinutes: 1,
     pageCount: 1,
     generatedAt,
-    pushSlots: ["07:30", "12:30", "21:30"],
+    pushSlots: ["08:30", "12:30", "21:30"],
     edition
 });
 const baseCards = Array.from({ length: 15 }, (_, index) => card(`base-${index}`, `基础新闻 ${index}`, "2026-08-17T06:00:00+08:00"));

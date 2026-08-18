@@ -265,7 +265,7 @@ function buildDailyIssue(params) {
             pageCount,
             topCardId: topCard?.id,
             generatedAt,
-            pushSlots: params.pushSlots ?? ["07:30", "12:30", "21:30"],
+            pushSlots: params.pushSlots ?? ["08:30", "12:30", "21:30"],
             edition: params.edition,
             editionLabel: params.editionLabel,
             coverageWindow: params.coverageWindow,

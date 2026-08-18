@@ -22,6 +22,7 @@ const stableSources = [
     "cac-cn",
     "xinhua-world",
     "xinhua-tech",
+    "gov-uk-news",
     "npr-world-rss",
     "sky-world-rss",
     "france24-middle-east-rss",
@@ -49,6 +50,7 @@ const allSources = [
     "cac-cn",
     "xinhua-world",
     "xinhua-tech",
+    "gov-uk-news",
     "npr-world-rss",
     "sky-world-rss",
     "france24-middle-east-rss",
@@ -79,6 +81,7 @@ const shortSourceNames = {
     "bbc-world-rss": "bbc-world",
     "bbc-business-rss": "bbc-business",
     "bbc-technology-rss": "bbc-tech",
+    "gov-uk-news": "gov-uk",
     "npr-world-rss": "npr-world",
     "sky-world-rss": "sky-world",
     "france24-middle-east-rss": "france24-middle-east",
@@ -109,6 +112,35 @@ const today = () => {
     }).formatToParts(new Date());
     const value = (type) => parts.find((part) => part.type === type)?.value ?? "";
     return `${value("year")}-${value("month")}-${value("day")}`;
+};
+const normalizedSupabaseUrl = (value) => value.replace(/\/rest\/v1\/?$/u, "").replace(/\/$/u, "");
+const fetchCohortLocations = async () => {
+    const baseUrl = process.env?.SUPABASE_URL?.trim();
+    const serviceRoleKey = process.env?.SUPABASE_SERVICE_ROLE_KEY?.trim();
+    if (!baseUrl || !serviceRoleKey) {
+        return [];
+    }
+    try {
+        const response = await fetch(`${normalizedSupabaseUrl(baseUrl)}/rest/v1/profiles?select=country,living_city,hometown_city`, {
+            headers: {
+                apikey: serviceRoleKey,
+                Authorization: `Bearer ${serviceRoleKey}`,
+                Accept: "application/json"
+            }
+        });
+        if (!response.ok) {
+            throw new Error(`HTTP ${response.status}`);
+        }
+        const rows = await response.json();
+        const locations = rows.flatMap((row) => [row.living_city, row.hometown_city]
+            .map((city) => ({ country: row.country?.trim() ?? "", city: city?.trim() ?? "" }))
+            .filter((location) => location.country && location.city));
+        return Array.from(new Map(locations.map((location) => [`${location.country}|${location.city}`, location])).values());
+    }
+    catch (error) {
+        console.warn(`测试用户城市读取失败，本次仍继续生成公共日报：${error instanceof Error ? error.message : String(error)}`);
+        return [];
+    }
 };
 function parseArgs(argv) {
     const options = {
@@ -387,11 +419,22 @@ async function main() {
         ? new Date(options.asOf).toISOString()
         : new Date().toISOString();
     const baseFetchResults = await (0, rawFetchers_1.fetchRawContentSources)(options.sources, options.sourceLimit);
-    const cityNames = Array.from(new Set([
-        profileConfig.profile.livingCity,
-        profileConfig.profile.hometownCity
-    ].map((city) => city.trim()).filter(Boolean)));
-    const cityFetchResults = await Promise.all(cityNames.map((city) => (0, rawFetchers_2.fetchCityContentSource)(profileConfig.profile.country, city, Math.min(options.sourceLimit, 8))));
+    const cohortLocations = await fetchCohortLocations();
+    const cityLocations = Array.from(new Map([
+        {
+            country: profileConfig.profile.country,
+            city: profileConfig.profile.livingCity.trim()
+        },
+        {
+            country: profileConfig.profile.country,
+            city: profileConfig.profile.hometownCity.trim()
+        },
+        ...cohortLocations
+    ]
+        .filter((location) => location.country && location.city)
+        .map((location) => [`${location.country}|${location.city}`, location])).values());
+    const cityNames = cityLocations.map((location) => location.city);
+    const cityFetchResults = await Promise.all(cityLocations.map((location) => (0, rawFetchers_2.fetchCityContentSource)(location.country, location.city, Math.min(options.sourceLimit, 8))));
     const fetchResults = [...baseFetchResults, ...cityFetchResults];
     const sourceCoverage = (0, sourceCoverage_1.assessSourceCoverage)(fetchResults, {
         localSourceIds: cityFetchResults.map((result) => result.sourceId),
@@ -417,6 +460,22 @@ async function main() {
         limit: candidateReviewLimit,
         generatedAt
     });
+    const selectedCandidateIds = new Set(cardPipeline.selectedCandidates.map((item) => item.candidate.id));
+    const missingPersonalizationCandidates = freshCandidates.filter((candidate) => !selectedCandidateIds.has(candidate.id));
+    const additionalPersonalizationPipeline = missingPersonalizationCandidates.length
+        ? await (0, cardDraftPipeline_1.buildCardDraftsForProfile)({
+            profileName: `${profileConfig.name}-个性化候选补充`,
+            profile: profileConfig.profile,
+            candidates: missingPersonalizationCandidates,
+            limit: Math.min(missingPersonalizationCandidates.length, 80),
+            generatedAt,
+            includeAllCandidates: true
+        })
+        : undefined;
+    const personalizationPublishableCards = [
+        ...cardPipeline.publishableCards,
+        ...(additionalPersonalizationPipeline?.publishableCards ?? [])
+    ];
     const reviewableCards = cardPipeline.rejectedCards.filter((item) => item.finalReport.level === "review");
     const blockedCards = cardPipeline.rejectedCards.filter((item) => item.finalReport.level === "blocked");
     const eligibleCards = [...cardPipeline.publishableCards];
@@ -456,6 +515,7 @@ async function main() {
         issue,
         meta: {
             profileName: profileConfig.name,
+            cohortLocationCount: cohortLocations.length,
             generatedAt,
             edition: options.edition,
             sourceCoverage,
@@ -470,6 +530,7 @@ async function main() {
             translation: translationResult.stats,
             selectedCandidateCount: cardPipeline.selectedCandidates.length,
             publishableCardCount: cardPipeline.publishableCards.length,
+            personalizationPoolCardCount: personalizationPublishableCards.length,
             reviewableCardCount: reviewableCards.length,
             rejectedCardCount: blockedCards.length,
             skippedPublishableCardCount: incrementalIssueResult.stats.skippedCardCount,
@@ -522,6 +583,10 @@ async function main() {
             title: card.title,
             importance: card.importance,
             section: card.section
+        })),
+        personalizationPool: personalizationPublishableCards.map((item) => ({
+            candidate: item.rankedCandidate.candidate,
+            card: item.card
         }))
     };
     const defaultOutput = `outputs/daily-issues/${options.date}-${safeFileName(profileConfig.name)}.json`;

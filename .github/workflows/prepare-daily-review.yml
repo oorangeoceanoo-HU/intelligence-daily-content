@@ -99,6 +99,8 @@ jobs:
           CONTENT_CITY_OFFICIAL_URLS_JSON: ${{ vars.CONTENT_CITY_OFFICIAL_URLS_JSON }}
           CONTENT_CITY_NEWS_RSS_TEMPLATE: ${{ secrets.CONTENT_CITY_NEWS_RSS_TEMPLATE }}
           CONTENT_RELIEFWEB_APPNAME: ${{ secrets.CONTENT_RELIEFWEB_APPNAME }}
+          SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
+          SUPABASE_SERVICE_ROLE_KEY: ${{ secrets.SUPABASE_SERVICE_ROLE_KEY }}
         run: |
           mkdir -p tmp
           AS_OF_ARGS=()
@@ -190,3 +192,25 @@ jobs:
           fi
           git commit -m "Process $EDITION daily edition $DATE"
           git push origin HEAD:main
+
+      - name: Publish personalized tester issues
+        if: steps.quality-gate.outputs.status != 'blocked'
+        env:
+          DATE: ${{ steps.issue-date.outputs.date }}
+          EDITION: ${{ steps.issue-edition.outputs.edition }}
+          SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
+          SUPABASE_SERVICE_ROLE_KEY: ${{ secrets.SUPABASE_SERVICE_ROLE_KEY }}
+        run: |
+          node generator/scripts/publishPersonalizedIssues.js \
+            --input "tmp/review-$DATE-$EDITION.json" \
+            --output "tmp/personalized-$DATE-$EDITION.json" \
+            --skip-when-unconfigured
+
+      - name: Save personalized generation report
+        if: steps.quality-gate.outputs.status != 'blocked'
+        uses: actions/upload-artifact@v4
+        with:
+          name: personalized-issues-${{ steps.issue-date.outputs.date }}-${{ steps.issue-edition.outputs.edition }}
+          path: tmp/personalized-${{ steps.issue-date.outputs.date }}-${{ steps.issue-edition.outputs.edition }}.json
+          if-no-files-found: ignore
+          retention-days: 14

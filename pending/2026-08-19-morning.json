@@ -1,13 +1,13 @@
 {
   "schemaVersion": 2,
-  "publishedAt": "2026-08-18T22:56:12.451Z",
+  "publishedAt": "2026-08-18T23:33:59.000Z",
   "issue": {
     "id": "daily-public-2026-08-19",
     "date": "2026-08-19",
     "userId": "public",
     "cards": [
       {
-        "id": "draft-real-cnbc-world-rss-uzbe2w",
+        "id": "draft-real-cnbc-world-rss-v9azrv",
         "title": "据报道，特朗普和卡尼正在就对加拿大商品征收新的 50% 关税进行谈判",
         "oneLine": "政策变化：据周二的各种新闻报道，美国总统唐纳德·特朗普正在与加拿大总理马克·卡尼重新进行贸易谈判，距离美国对曲棍球杆、葡萄酒和一系列其他加拿大进口产品征收 50% 的关税仅剩几个小时。",
         "importance": "S",
@@ -43,7 +43,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-18T22:56:16.497Z",
+            "fetchedAt": "2026-08-18T23:34:04.559Z",
             "sourceMethod": "rss",
             "verificationStatus": "pending"
           }
@@ -54,10 +54,10 @@
             "sourceUrl": "https://www.cnbc.com/2026/08/18/trump-carney-canada-tariffs-dealine-talks.html"
           }
         ],
-        "generatedAt": "2026-08-18T22:56:12.451Z"
+        "generatedAt": "2026-08-18T23:33:59.000Z"
       },
       {
-        "id": "draft-real-cnbc-world-rss-13ssh0z",
+        "id": "draft-real-cnbc-world-rss-156qhhu",
         "title": "苹果彻底改革欧洲应用商店费用以解决支付冲突",
         "oneLine": "政策变化：《苹果彻底改革欧洲应用商店费用以解决支付冲突》它是苹果去年提出的更复杂系统的替代品。",
         "importance": "A",
@@ -93,7 +93,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-18T22:56:16.497Z",
+            "fetchedAt": "2026-08-18T23:34:04.559Z",
             "sourceMethod": "rss",
             "verificationStatus": "pending"
           }
@@ -104,7 +104,7 @@
             "sourceUrl": "https://www.cnbc.com/2026/08/18/apple-eu-app-store-fees-iphone.html"
           }
         ],
-        "generatedAt": "2026-08-18T22:56:12.451Z"
+        "generatedAt": "2026-08-18T23:33:59.000Z"
       },
       {
         "id": "draft-real-xinhua-world-3lau6j",
@@ -142,13 +142,13 @@
             "language": "zh",
             "originalLanguage": "zh",
             "translationStatus": "not-needed",
-            "fetchedAt": "2026-08-18T22:56:15.815Z",
+            "fetchedAt": "2026-08-18T23:34:03.809Z",
             "sourceMethod": "web",
             "verificationStatus": "confirmed"
           }
         ],
         "images": [],
-        "generatedAt": "2026-08-18T22:56:12.451Z"
+        "generatedAt": "2026-08-18T23:33:59.000Z"
       },
       {
         "id": "draft-real-gov-cn-policy-library-mg30yb",
@@ -182,13 +182,13 @@
             "language": "zh",
             "originalLanguage": "zh",
             "translationStatus": "not-needed",
-            "fetchedAt": "2026-08-18T22:56:13.328Z",
+            "fetchedAt": "2026-08-18T23:34:01.404Z",
             "sourceMethod": "web",
             "verificationStatus": "confirmed"
           }
         ],
         "images": [],
-        "generatedAt": "2026-08-18T22:56:12.451Z"
+        "generatedAt": "2026-08-18T23:33:59.000Z"
       },
       {
         "id": "draft-real-un-news-rss-189gauo",
@@ -221,7 +221,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-18T22:56:16.610Z",
+            "fetchedAt": "2026-08-18T23:34:04.554Z",
             "sourceMethod": "rss",
             "verificationStatus": "confirmed"
           }
@@ -232,7 +232,7 @@
             "sourceUrl": "https://news.un.org/feed/view/en/story/2026/08/1168164"
           }
         ],
-        "generatedAt": "2026-08-18T22:56:12.451Z"
+        "generatedAt": "2026-08-18T23:33:59.000Z"
       },
       {
         "id": "draft-real-un-news-rss-x277yt",
@@ -265,7 +265,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-18T22:56:16.610Z",
+            "fetchedAt": "2026-08-18T23:34:04.554Z",
             "sourceMethod": "rss",
             "verificationStatus": "confirmed"
           }
@@ -276,7 +276,7 @@
             "sourceUrl": "https://news.un.org/feed/view/en/story/2026/08/1168160"
           }
         ],
-        "generatedAt": "2026-08-18T22:56:12.451Z"
+        "generatedAt": "2026-08-18T23:33:59.000Z"
       },
       {
         "id": "draft-real-un-news-rss-1996fac",
@@ -309,7 +309,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-18T22:56:16.610Z",
+            "fetchedAt": "2026-08-18T23:34:04.554Z",
             "sourceMethod": "rss",
             "verificationStatus": "confirmed"
           }
@@ -320,7 +320,7 @@
             "sourceUrl": "https://news.un.org/feed/view/en/story/2026/08/1168159"
           }
         ],
-        "generatedAt": "2026-08-18T22:56:12.451Z"
+        "generatedAt": "2026-08-18T23:33:59.000Z"
       },
       {
         "id": "draft-real-mem-cn-uf7nda",
@@ -358,13 +358,13 @@
             "language": "zh",
             "originalLanguage": "zh",
             "translationStatus": "not-needed",
-            "fetchedAt": "2026-08-18T22:56:13.916Z",
+            "fetchedAt": "2026-08-18T23:34:01.809Z",
             "sourceMethod": "web",
             "verificationStatus": "confirmed"
           }
         ],
         "images": [],
-        "generatedAt": "2026-08-18T22:56:12.451Z"
+        "generatedAt": "2026-08-18T23:33:59.000Z"
       },
       {
         "id": "draft-real-xinhua-tech-8vimkl",
@@ -404,13 +404,13 @@
             "language": "zh",
             "originalLanguage": "zh",
             "translationStatus": "not-needed",
-            "fetchedAt": "2026-08-18T22:56:15.773Z",
+            "fetchedAt": "2026-08-18T23:34:03.707Z",
             "sourceMethod": "web",
             "verificationStatus": "confirmed"
           }
         ],
         "images": [],
-        "generatedAt": "2026-08-18T22:56:12.451Z"
+        "generatedAt": "2026-08-18T23:33:59.000Z"
       },
       {
         "id": "draft-cluster-real-openai-news-1x7ta1m",
@@ -449,7 +449,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-18T22:56:17.939Z",
+            "fetchedAt": "2026-08-18T23:34:05.971Z",
             "sourceMethod": "rss",
             "verificationStatus": "confirmed"
           },
@@ -461,7 +461,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-18T22:56:18.020Z",
+            "fetchedAt": "2026-08-18T23:34:06.177Z",
             "sourceMethod": "rss",
             "verificationStatus": "pending"
           },
@@ -473,7 +473,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-18T22:56:18.053Z",
+            "fetchedAt": "2026-08-18T23:34:06.295Z",
             "sourceMethod": "rss",
             "verificationStatus": "pending"
           }
@@ -484,7 +484,7 @@
             "sourceUrl": "https://techcrunch.com/2026/08/18/openai-launches-a-safer-chatgpt-for-teens-years-after-teens-started-using-it/"
           }
         ],
-        "generatedAt": "2026-08-18T22:56:12.451Z"
+        "generatedAt": "2026-08-18T23:33:59.000Z"
       },
       {
         "id": "draft-real-xinhua-tech-evdl85",
@@ -524,13 +524,13 @@
             "language": "zh",
             "originalLanguage": "zh",
             "translationStatus": "not-needed",
-            "fetchedAt": "2026-08-18T22:56:15.773Z",
+            "fetchedAt": "2026-08-18T23:34:03.707Z",
             "sourceMethod": "web",
             "verificationStatus": "confirmed"
           }
         ],
         "images": [],
-        "generatedAt": "2026-08-18T22:56:12.451Z"
+        "generatedAt": "2026-08-18T23:33:59.000Z"
       },
       {
         "id": "draft-cluster-real-techcrunch-ai-rss-1q8cfb5",
@@ -569,7 +569,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-18T22:56:18.020Z",
+            "fetchedAt": "2026-08-18T23:34:06.177Z",
             "sourceMethod": "rss",
             "verificationStatus": "pending"
           },
@@ -581,13 +581,13 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-18T22:56:18.053Z",
+            "fetchedAt": "2026-08-18T23:34:06.295Z",
             "sourceMethod": "rss",
             "verificationStatus": "pending"
           }
         ],
         "images": [],
-        "generatedAt": "2026-08-18T22:56:12.451Z"
+        "generatedAt": "2026-08-18T23:33:59.000Z"
       },
       {
         "id": "draft-cluster-real-theverge-ai-rss-26954u",
@@ -626,7 +626,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-18T22:56:18.053Z",
+            "fetchedAt": "2026-08-18T23:34:06.295Z",
             "sourceMethod": "rss",
             "verificationStatus": "pending"
           },
@@ -638,13 +638,13 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-18T22:56:18.020Z",
+            "fetchedAt": "2026-08-18T23:34:06.177Z",
             "sourceMethod": "rss",
             "verificationStatus": "pending"
           }
         ],
         "images": [],
-        "generatedAt": "2026-08-18T22:56:12.451Z"
+        "generatedAt": "2026-08-18T23:33:59.000Z"
       },
       {
         "id": "draft-real-techcrunch-ai-rss-1j19jyp",
@@ -683,13 +683,13 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-18T22:56:18.020Z",
+            "fetchedAt": "2026-08-18T23:34:06.177Z",
             "sourceMethod": "rss",
             "verificationStatus": "pending"
           }
         ],
         "images": [],
-        "generatedAt": "2026-08-18T22:56:12.451Z"
+        "generatedAt": "2026-08-18T23:33:59.000Z"
       },
       {
         "id": "draft-real-techcrunch-ai-rss-p09041",
@@ -728,13 +728,13 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-18T22:56:18.020Z",
+            "fetchedAt": "2026-08-18T23:34:06.177Z",
             "sourceMethod": "rss",
             "verificationStatus": "pending"
           }
         ],
         "images": [],
-        "generatedAt": "2026-08-18T22:56:12.451Z"
+        "generatedAt": "2026-08-18T23:33:59.000Z"
       },
       {
         "id": "draft-real-techcrunch-ai-rss-16arfmf",
@@ -773,7 +773,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-18T22:56:18.020Z",
+            "fetchedAt": "2026-08-18T23:34:06.177Z",
             "sourceMethod": "rss",
             "verificationStatus": "pending"
           }
@@ -784,56 +784,54 @@
             "sourceUrl": "https://techcrunch.com/2026/08/18/warps-new-system-is-an-out-of-the-box-software-factory-for-ai-development/"
           }
         ],
-        "generatedAt": "2026-08-18T22:56:12.451Z"
+        "generatedAt": "2026-08-18T23:33:59.000Z"
       },
       {
-        "id": "draft-real-cas-science-news-1crsl23",
-        "title": "DNA损伤修复调控放疗敏感性研究取得进展",
-        "oneLine": "趋势信号：近日，中国科学院合肥物质科学研究院等在DNA损伤修复调控放疗敏感性研究方面取得进展，揭示了CIP2A-TOPBP1复合体与蛋白磷酸酶PP2A动态调控DNA聚合酶θ（Polθ）募集和磷酸化的新机制，为阐明有丝分裂期DNA损伤修复调控网络提供了新的理论依据。",
+        "id": "draft-real-cnbc-world-rss-g0vqjg",
+        "title": "尽管英超俱乐部亏损飙升，投资者如何从足球中获利",
+        "oneLine": "政策变化：在这篇文章中，芬威体育集团周五将利物浦足球俱乐部的少数股权出售给包括杰夫·贝佐斯在内的财团，交易价值超过 70 亿美元。",
         "importance": "B",
-        "credibility": "官方来源",
+        "credibility": "待确认",
         "tags": [
           "B",
           "industry",
-          "technology",
-          "education"
+          "world",
+          "policy",
+          "finance"
         ],
         "industries": [
-          "technologyEngineering",
-          "educationResearch"
+          "generalPublic",
+          "financeInvestment",
+          "operationsGrowth",
+          "ecommerceRetail"
         ],
         "section": "industry",
         "body": {
-          "background": "与间期细胞不同，有丝分裂期经典DNA损伤修复途径受到抑制，细胞主要依赖Polθ介导的微同源介导末端连接（MMEJ）修复DNA双链断裂。",
-          "keyProgress": "已有研究发现，CIP2A-TOPBP1复合体能够定位于有丝分裂期DNA损伤位点并维持断裂染色体片段的空间邻近性，但其是否与Polθ协同调控DNA损伤修复及其分子机制尚未明确。该研究揭示了CIP2A-TOPBP1复合体协同调控Polθ介导有丝分裂期DNA损伤修复的新机制，建立了CIP2A与PP2A动态调控Polθ磷酸化的新模型，丰富了有丝分裂期DNA损伤应答调控网络。",
-          "whyItMatters": "“DNA损伤修复调控放疗敏感性研究取得进展”提供了一个具体的研究进展信号。它是否重要，要看实验指标、可复现性、开源材料和真实应用，而不能只看论文标题。",
-          "userRelevance": "如果你从事科研、工程或正在攻读相关学位，可以重点查看“DNA损伤修复调控放疗敏感性研究取得进展”的实验条件、指标和可复现性；其他用户可把它作为技术趋势背景了解。",
-          "whatToWatch": "接下来要看“DNA损伤修复调控放疗敏感性研究取得进展”是否公开论文全文、代码或完整实验条件，以及是否得到独立复现和实际应用。"
+          "background": "近 16 年前，这家总部位于波士顿的集团以 3 亿英镑（4.059 亿美元）的低价将利物浦从破产管理边缘拯救出来，而在这家默西塞德俱乐部赢得多项国内和欧洲奖杯后，FSG 实现了显着的转变，并获得了巨大的投资回报，部分兑现。",
+          "keyProgress": "然而，尽管英国足球俱乐部越来越吸引全球成熟投资者的兴趣，但它们仍然存在风险，而且往往无利可图。德勤研究人员写道：“随着球员转会支出的增长，以跟上不断升级的人才竞争的步伐，今年很可能又会出现重大财务损失。",
+          "whyItMatters": "“尽管英超俱乐部亏损飙升，投资者如何从足球中获利”如果继续发展，可能通过能源价格、航运、贸易、汇率或市场预期传导到国内。了解它的意义在于判断后续风险，而不只停留在事件本身。",
+          "userRelevance": "即使你不在英国，“尽管英超俱乐部亏损飙升，投资者如何从足球中获利”也可能通过能源价格、国际航运、贸易成本和市场预期间接影响国内生活与工作判断。",
+          "whatToWatch": "接下来要看“尽管英超俱乐部亏损飙升，投资者如何从足球中获利”是否出现更细的城市、行业、平台或企业数据，以及这一变化能否连续保持。"
         },
         "sourceLinks": [
           {
-            "title": "中国科学院科研动态",
-            "url": "https://www.cas.cn/syky/202608/t20260818_5118509.shtml",
-            "sourceId": "cas-science-news",
-            "publishedAt": "2026-08-18T00:00:00+08:00",
+            "title": "CNBC World News RSS",
+            "url": "https://www.cnbc.com/2026/08/18/soccer-premier-league-club-losses-liverpool.html",
+            "sourceId": "cnbc-world-rss",
+            "publishedAt": "2026-08-18T09:09:19.000Z",
             "language": "zh",
-            "originalLanguage": "zh",
-            "translationStatus": "not-needed",
-            "fetchedAt": "2026-08-18T22:56:13.775Z",
-            "sourceMethod": "web",
-            "verificationStatus": "confirmed"
+            "originalLanguage": "en",
+            "translationStatus": "translated",
+            "fetchedAt": "2026-08-18T23:34:04.559Z",
+            "sourceMethod": "rss",
+            "verificationStatus": "pending"
           }
         ],
-        "images": [
-          {
-            "url": "https://www.cas.cn/syky/202608/W020260818364996438851.png",
-            "sourceUrl": "https://www.cas.cn/syky/202608/t20260818_5118509.shtml"
-          }
-        ],
-        "generatedAt": "2026-08-18T22:56:12.451Z"
+        "images": [],
+        "generatedAt": "2026-08-18T23:33:59.000Z"
       },
       {
-        "id": "draft-cluster-real-cnbc-world-rss-4u23hf",
+        "id": "draft-cluster-real-cnbc-world-rss-7byiq6",
         "title": "受通胀和支出担忧影响，30年期国债收益率突破5.33%，创19年来新高",
         "oneLine": "政策变化：在美国财政状况恶化和通胀持续走高的情况下，长期债券触及近二十年来的最高水平，周二美国国债收益率小幅回落。",
         "importance": "B",
@@ -868,7 +866,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-18T22:56:16.497Z",
+            "fetchedAt": "2026-08-18T23:34:04.559Z",
             "sourceMethod": "rss",
             "verificationStatus": "pending"
           },
@@ -880,63 +878,64 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-18T22:56:16.497Z",
+            "fetchedAt": "2026-08-18T23:34:04.559Z",
             "sourceMethod": "rss",
             "verificationStatus": "pending"
           }
         ],
         "images": [],
-        "generatedAt": "2026-08-18T22:56:12.451Z"
+        "generatedAt": "2026-08-18T23:33:59.000Z"
       },
       {
-        "id": "draft-real-cnbc-world-rss-ouzbt2",
-        "title": "迪士尼旗下的美国广播公司 (ABC) 根据第一修正案对 FCC 提起诉讼",
-        "oneLine": "政策变化：《迪士尼旗下的美国广播公司 (ABC) 根据第一修正案对 FCC 提起诉讼》ABC 的诉讼要求 FCC 停止其早期的广播续订程序。",
+        "id": "draft-real-mofcom-consumption-1v3ih6z",
+        "title": "商务部等部门联合印发《关于进一步激发下沉市场活力 活跃县域消费的意见》",
+        "oneLine": "政策变化：《关于进一步激发下沉市场活力 活跃县域消费的意见》提出活跃县域消费重点支持措施。",
         "importance": "B",
-        "credibility": "待确认",
+        "credibility": "官方来源",
         "tags": [
           "B",
           "industry",
-          "world",
-          "policy",
-          "finance"
+          "consumer",
+          "operations",
+          "policy"
         ],
         "industries": [
-          "generalPublic",
-          "financeInvestment",
           "operationsGrowth",
-          "ecommerceRetail"
+          "consumerBrand",
+          "ecommerceRetail",
+          "startupBusiness",
+          "generalPublic"
         ],
         "section": "industry",
         "body": {
-          "background": "上周，迪士尼首席执行​​官乔什·达马罗 (Josh D'Amaro) 在接受 CNBC 采访时强调了该公司的立场。",
-          "keyProgress": "ABC 的诉讼要求 FCC 停止其早期的广播续订程序。声明称：“迪士尼显然非常关注 FCC 的诉讼程序，他们持续不断的虚假信息活动以及他们决定要求法院阻止 FCC 进一步追究此事就证明了这一点。",
-          "whyItMatters": "“迪士尼旗下的美国广播公司  根据第一修正案对 FCC 提起诉讼”如果继续发展，可能通过能源价格、航运、贸易、汇率或市场预期传导到国内。了解它的意义在于判断后续风险，而不只停留在事件本身。",
-          "userRelevance": "即使你不在美国，“迪士尼旗下的美国广播公司  根据第一修正案对 FCC 提起诉讼”也可能通过能源价格、国际航运、贸易成本和市场预期间接影响国内生活与工作判断。",
-          "whatToWatch": "接下来要看“迪士尼旗下的美国广播公司  根据第一修正案对 FCC 提起诉讼”是否出现更细的城市、行业、平台或企业数据，以及这一变化能否连续保持。"
+          "background": "为贯彻落实党中央、国务院决策部署，指导各地因地制宜激发下沉市场活力，近日，商务部会同国家发展改革委、财政部、人力资源社会保障部、自然资源部、农业农村部、文化和旅游部、市场监管总局、金融监管总局等部门,联合印发《关于进一步激发下沉市场活力 活跃县域消费的意见》（以下简称《意见》），系统部署激发下沉市场活力重点工作。",
+          "keyProgress": "《意见》以习近平新时代中国特色社会主义思想为指导，深入贯彻落实党的二十大和二十届历次全会精神，充分发挥下沉市场在拓展内需增量空间、建设强大国内市场中的战略支撑作用，学习运用“千万工程”经验，分类施策优化消费渠道、丰富品牌供给、提升服务能力，因地制宜打造各具特色的消费场景，持续繁荣县域消费 市场 ，更好满足人民群众多样化、品质化需求。《意见》提出活跃县域消费重点支持措施。",
+          "whyItMatters": "“商务部等部门联合印发关于进一步激发下沉市场活力 活跃县域消费的意见”可能改变个人办事、出行、公共服务或行业规则。提前确认适用范围和生效时间，可以减少信息滞后带来的判断偏差。",
+          "userRelevance": "作为中国居民，你需要留意“商务部等部门联合印发关于进一步激发下沉市场活力 活跃县域消费的意见”是否改变办事、出行或公共服务规则；如果你从事运营增长、消费品牌、电商零售、创业商业，还应关注行业执行细则。",
+          "whatToWatch": "接下来要看“商务部等部门联合印发关于进一步激发下沉市场活力 活跃县域消费的意见”是否出现更细的城市、行业、平台或企业数据，以及这一变化能否连续保持。"
         },
         "sourceLinks": [
           {
-            "title": "CNBC World News RSS",
-            "url": "https://www.cnbc.com/2026/08/18/disney-abc-first-amendment-lawsuit-fcc.html",
-            "sourceId": "cnbc-world-rss",
-            "publishedAt": "2026-08-18T16:57:08.000Z",
+            "title": "商务部市场运行和消费促进司",
+            "url": "https://www.mofcom.gov.cn/zwgk/gztz/art/2026/art_456096407104439ca42d249858c2a6df.html",
+            "sourceId": "mofcom-consumption",
+            "publishedAt": "2026-08-18T00:00:00+08:00",
             "language": "zh",
-            "originalLanguage": "en",
-            "translationStatus": "translated",
-            "fetchedAt": "2026-08-18T22:56:16.497Z",
-            "sourceMethod": "rss",
-            "verificationStatus": "pending"
+            "originalLanguage": "zh",
+            "translationStatus": "not-needed",
+            "fetchedAt": "2026-08-18T23:34:14.142Z",
+            "sourceMethod": "web",
+            "verificationStatus": "confirmed"
           }
         ],
         "images": [],
-        "generatedAt": "2026-08-18T22:56:12.451Z"
+        "generatedAt": "2026-08-18T23:33:59.000Z"
       }
     ],
     "estimatedReadMinutes": 23,
     "pageCount": 3,
-    "topCardId": "draft-real-cnbc-world-rss-uzbe2w",
-    "generatedAt": "2026-08-18T22:56:12.451Z",
+    "topCardId": "draft-real-cnbc-world-rss-v9azrv",
+    "generatedAt": "2026-08-18T23:33:59.000Z",
     "pushSlots": [
       "08:30",
       "12:30",
@@ -949,8 +948,8 @@
       "end": "2026-08-19T07:10:00+08:00"
     },
     "editionCardIds": [
-      "draft-real-cnbc-world-rss-uzbe2w",
-      "draft-real-cnbc-world-rss-13ssh0z",
+      "draft-real-cnbc-world-rss-v9azrv",
+      "draft-real-cnbc-world-rss-156qhhu",
       "draft-real-xinhua-world-3lau6j",
       "draft-real-gov-cn-policy-library-mg30yb",
       "draft-real-un-news-rss-189gauo",
@@ -965,9 +964,9 @@
       "draft-real-techcrunch-ai-rss-1j19jyp",
       "draft-real-techcrunch-ai-rss-p09041",
       "draft-real-techcrunch-ai-rss-16arfmf",
-      "draft-real-cas-science-news-1crsl23",
-      "draft-cluster-real-cnbc-world-rss-4u23hf",
-      "draft-real-cnbc-world-rss-ouzbt2"
+      "draft-real-cnbc-world-rss-g0vqjg",
+      "draft-cluster-real-cnbc-world-rss-7byiq6",
+      "draft-real-mofcom-consumption-1v3ih6z"
     ],
     "carriedCardIds": []
   }

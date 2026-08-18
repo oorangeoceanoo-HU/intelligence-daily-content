@@ -113,7 +113,10 @@ const assessSourceCoverage = (results, options = {}) => {
             .map((entry) => entry.sourceId);
         const currentItemCount = currentItemsBySource
             .reduce((sum, entry) => sum + entry.items.length, 0);
-        const currentReady = !currentWindowChecked || currentSourceIds.length >= rule.minimumCurrentSources;
+        const minimumCurrentSources = rule.id === "global" && currentWindowChecked && options.edition !== "morning"
+            ? 1
+            : rule.minimumCurrentSources;
+        const currentReady = !currentWindowChecked || currentSourceIds.length >= minimumCurrentSources;
         return {
             id: rule.id,
             label: rule.label,
@@ -124,7 +127,7 @@ const assessSourceCoverage = (results, options = {}) => {
             failedSourceIds,
             emptySourceIds,
             currentWindowChecked,
-            minimumCurrentSources: rule.minimumCurrentSources,
+            minimumCurrentSources,
             currentInputRequired: rule.currentInputRequired,
             currentReady,
             currentSourceIds,

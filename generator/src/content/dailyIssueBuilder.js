@@ -205,6 +205,24 @@ const selectIssueCards = (items, issueDate, sizingOverrides = {}) => {
             skipped.splice(skipped.indexOf(item), 1);
         });
     }
+    // A complete three-page issue must not collapse because the best matches
+    // happen to come from a concentrated source or section. Diversity limits
+    // stay strict first, then relax only for the remaining minimum-floor cards.
+    if (selected.length < sizingRules.minimumCards) {
+        [...skipped].forEach((item) => {
+            if (selected.length >= sizingRules.minimumCards ||
+                item.card.section === "friends") {
+                return;
+            }
+            selected.push(item);
+            sizing.minimumBandCount += 1;
+            sectionCounts[item.card.section] += 1;
+            importanceCounts[item.card.importance] += 1;
+            const primarySourceId = item.card.sourceLinks[0]?.sourceId ?? "unknown";
+            sourceCounts[primarySourceId] = (sourceCounts[primarySourceId] ?? 0) + 1;
+            skipped.splice(skipped.indexOf(item), 1);
+        });
+    }
     return {
         selected,
         skipped,

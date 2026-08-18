@@ -124,10 +124,53 @@ profiles.forEach(({ id }) => {
     assert(result?.issue.userId === id, `${id} issue was assigned to another account`);
     assert((result?.issue.cards.length ?? 0) >= 4, `${id} issue fell below the test minimum`);
 });
+const concentratedPool = Array.from({ length: 30 }, (_, index) => {
+    const base = sampleCandidates_1.sampleCandidateItems[index % sampleCandidates_1.sampleCandidateItems.length];
+    const sourceId = index < 20 ? "dominant-source" : `alternate-source-${index}`;
+    const candidate = {
+        ...base,
+        id: `candidate-diversity-${index}`,
+        title: `Personalization diversity candidate ${index}`,
+        oneLine: `Candidate ${index} verifies minimum issue sizing after source diversity limits.`,
+        sourceIds: [sourceId],
+        sourceLinks: [{
+                ...base.sourceLinks[0],
+                title: `Source ${index}`,
+                url: `https://example.com/personalization-diversity-${index}`,
+                sourceId,
+                publishedAt: generatedAt
+            }],
+        impactScore: index < 20 ? 92 : 48,
+        severityScore: index < 20 ? 88 : 36,
+        freshnessScore: 95
+    };
+    return {
+        candidate,
+        card: (0, candidateGenerator_1.rankedCandidateToCard)((0, candidateGenerator_1.rankCandidateForProfile)(candidate, broadProfile), generatedAt)
+    };
+});
+const diversityResult = (0, personalizedIssue_1.buildPersonalizedDailyIssue)({
+    userId: "diversity-user",
+    profile: broadProfile,
+    pool: concentratedPool,
+    date: "2026-08-18",
+    edition: "morning",
+    editionLabel: "Morning",
+    generatedAt,
+    minimumCards: 15,
+    comfortableMaxCards: 20,
+    absoluteMaxCards: 24
+});
+assert(diversityResult.issue.cards.length >= 15, "Source diversity limits reduced a personalized issue below 15 cards");
+assert(diversityResult.issue.pageCount === 3, "A complete personalized issue did not keep three pages");
 console.log(JSON.stringify({
     verifiedProfiles: profiles.map(({ id }) => ({
         id,
         cards: cardIdsFor(id),
         layers: results.get(id)?.summary.layerCounts
-    }))
+    })),
+    diversityRegression: {
+        cards: diversityResult.issue.cards.length,
+        pageCount: diversityResult.issue.pageCount
+    }
 }, null, 2));

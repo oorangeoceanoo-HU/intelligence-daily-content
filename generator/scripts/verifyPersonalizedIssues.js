@@ -163,6 +163,17 @@ const diversityResult = (0, personalizedIssue_1.buildPersonalizedDailyIssue)({
 });
 assert(diversityResult.issue.cards.length >= 15, "Source diversity limits reduced a personalized issue below 15 cards");
 assert(diversityResult.issue.pageCount === 3, "A complete personalized issue did not keep three pages");
+assert((0, personalizedIssue_1.isCompletePersonalizedIssue)(diversityResult.issue), "A 15-card, three-page personalized issue should be publishable");
+const incompleteResult = (0, personalizedIssue_1.buildPersonalizedDailyIssue)({
+    userId: "new-midday-user",
+    profile: broadProfile,
+    pool: pool.slice(0, 5),
+    date: "2026-08-18",
+    edition: "midday",
+    editionLabel: "Midday",
+    generatedAt
+});
+assert(!(0, personalizedIssue_1.isCompletePersonalizedIssue)(incompleteResult.issue), "A new account must not receive an incomplete incremental issue");
 console.log(JSON.stringify({
     verifiedProfiles: profiles.map(({ id }) => ({
         id,

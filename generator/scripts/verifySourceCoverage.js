@@ -72,6 +72,23 @@ const scheduledHealthy = (0, sourceCoverage_1.assessSourceCoverage)([
 });
 assert.equal(scheduledHealthy.currentCoverageReady, true, "a scheduled run reports when its live intake is healthy");
 assert.equal(scheduledHealthy.ready, true, "availability and live intake are both required for a ready scheduled run");
+const incrementalSingleGlobalSource = (0, sourceCoverage_1.assessSourceCoverage)([
+    result("xinhua-world", true, 1, "2026-08-16T20:00:00.000Z"),
+    result("cnbc-world-rss", true, 1, "2026-08-17T02:00:00.000Z"),
+    result("mfa-cn-news", true, 1, "2026-08-16T20:00:00.000Z"),
+    result("mofcom-trade", true, 1, "2026-08-16T20:00:00.000Z"),
+    result("mem-cn", true, 1, "2026-08-16T20:00:00.000Z"),
+    result("gdacs-feed", true, 1, "2026-08-17T02:30:00.000Z"),
+    result("xinhua-tech", true, 1, "2026-08-17T02:10:00.000Z"),
+    result("openai-news", true, 1, "2026-08-16T20:00:00.000Z"),
+    result("arxiv-cs-api", true, 1, "2026-08-16T20:00:00.000Z")
+], {
+    issueDate: "2026-08-17",
+    edition: "midday",
+    asOf: "2026-08-17T12:20:00+08:00"
+});
+assert.equal(incrementalSingleGlobalSource.currentCoverageReady, true, "a short incremental window accepts one current global source when the wider source pool is healthy");
+assert.equal(incrementalSingleGlobalSource.lanes.find((lane) => lane.id === "global")?.minimumCurrentSources, 1, "midday and evening use a one-source live-input threshold");
 const staleLiveCoverage = (0, sourceCoverage_1.assessSourceCoverage)([
     result("xinhua-world", true, 1, "2026-08-15T19:00:00.000Z"),
     result("npr-world-rss", true, 1, "2026-08-15T20:00:00.000Z"),

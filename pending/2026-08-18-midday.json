@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "publishedAt": "2026-08-18T04:46:01.164Z",
+  "publishedAt": "2026-08-18T04:59:59.460Z",
   "issue": {
     "id": "daily-public-2026-08-18",
     "date": "2026-08-18",
@@ -384,16 +384,16 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-18T04:46:07.155Z",
+            "fetchedAt": "2026-08-18T05:00:12.829Z",
             "sourceMethod": "rss",
             "verificationStatus": "pending"
           }
         ],
         "images": [],
-        "generatedAt": "2026-08-18T04:46:01.164Z"
+        "generatedAt": "2026-08-18T04:59:59.460Z"
       },
       {
-        "id": "draft-real-cnbc-world-rss-19xy6jz",
+        "id": "draft-real-cnbc-world-rss-19nykv0",
         "title": "信用卡发行商 Synchrony 宣布与 OpenAI 合作",
         "oneLine": "政策变化：本文编者注：该故事的前一个版本基于 Synchrony Financial 高管提供的信息，错误地描述了 Synchrony 和 OpenAI 之间的合作。",
         "importance": "B",
@@ -428,16 +428,16 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-18T04:46:05.260Z",
+            "fetchedAt": "2026-08-18T05:00:10.649Z",
             "sourceMethod": "rss",
             "verificationStatus": "pending"
           }
         ],
         "images": [],
-        "generatedAt": "2026-08-18T04:46:01.164Z"
+        "generatedAt": "2026-08-18T04:59:59.460Z"
       },
       {
-        "id": "draft-real-cnbc-world-rss-1ys19ya",
+        "id": "draft-real-cnbc-world-rss-1yi1o9b",
         "title": "“绝对疯狂”：韩国股票投资者在美国市场的做法如下",
         "oneLine": "政策变化：尽管全球投资者纷纷涌入，但一波韩国投资者正涌向美国市场，以避免国内股市回调。",
         "importance": "B",
@@ -472,13 +472,13 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-18T04:46:05.260Z",
+            "fetchedAt": "2026-08-18T05:00:10.649Z",
             "sourceMethod": "rss",
             "verificationStatus": "pending"
           }
         ],
         "images": [],
-        "generatedAt": "2026-08-18T04:46:01.164Z"
+        "generatedAt": "2026-08-18T04:59:59.460Z"
       },
       {
         "id": "draft-cluster-real-un-news-rss-1kjjg67",
@@ -1140,7 +1140,7 @@
     "estimatedReadMinutes": 27,
     "pageCount": 3,
     "topCardId": "draft-real-cnbc-world-rss-1mlrklp",
-    "generatedAt": "2026-08-18T04:46:01.164Z",
+    "generatedAt": "2026-08-18T04:59:59.460Z",
     "pushSlots": [
       "08:30",
       "12:30",
@@ -1155,8 +1155,8 @@
     "basedOnGeneratedAt": "2026-08-18T04:05:23.099Z",
     "editionCardIds": [
       "draft-real-techcrunch-ai-rss-1x8tzjs",
-      "draft-real-cnbc-world-rss-19xy6jz",
-      "draft-real-cnbc-world-rss-1ys19ya"
+      "draft-real-cnbc-world-rss-19nykv0",
+      "draft-real-cnbc-world-rss-1yi1o9b"
     ],
     "carriedCardIds": [
       "draft-real-cnbc-world-rss-1mlrklp",

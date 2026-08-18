@@ -1,10 +1,13 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
 exports.buildPersonalizedDailyIssue = buildPersonalizedDailyIssue;
+exports.isCompletePersonalizedIssue = void 0;
 const candidateGenerator_1 = require("./candidateGenerator");
 const dailyIssueBuilder_1 = require("./dailyIssueBuilder");
 const editionIssueMerger_1 = require("./editionIssueMerger");
 const profileMapping_1 = require("./profileMapping");
+const isCompletePersonalizedIssue = (issue, minimumCards = 15) => issue.cards.length >= minimumCards && issue.pageCount === 3;
+exports.isCompletePersonalizedIssue = isCompletePersonalizedIssue;
 const specificIndustries = (items) => items.filter((item) => item !== "generalPublic" && item !== "localLife");
 const intersects = (left, right) => left.some((item) => right.includes(item));
 const unique = (items) => Array.from(new Set(items));

@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "publishedAt": "2026-08-18T13:27:05.848Z",
+  "publishedAt": "2026-08-18T13:50:54.437Z",
   "issue": {
     "id": "daily-public-2026-08-18",
     "date": "2026-08-18",
@@ -348,7 +348,57 @@
         "generatedAt": "2026-08-18T04:05:23.099Z"
       },
       {
-        "id": "draft-real-theverge-ai-rss-658deg",
+        "id": "draft-real-theverge-ai-rss-g7b52u",
+        "title": "Firefox 的智能窗口有望打造更好的人工智能浏览器",
+        "oneLine": "趋势信号：从今天开始，Firefox 智能窗口 AI 浏览模式中的 AI 聊天可以通过与 Exa 合作从当前网络信息中提取并在聊天响应中显示源链接。",
+        "importance": "B",
+        "credibility": "待确认",
+        "tags": [
+          "B",
+          "industry",
+          "ai",
+          "technology",
+          "product"
+        ],
+        "industries": [
+          "aiProduct",
+          "aiTechnology",
+          "productManagement",
+          "technologyEngineering",
+          "educationResearch"
+        ],
+        "section": "ai",
+        "body": {
+          "background": "Smart Window 仍然是一个可选择的测试版功能，Mozilla 的 Firefox 负责人 Ajit Varma 在接受 The Verge 采访时表示，目前还没有一个“准确的日期”来说明它何时结束测试版。",
+          "keyProgress": "它最初于去年被称为“AI Window”，这是 Firefox 中的一种浏览模式，具有 AI 功能，例如使用自然语言搜索打开的选项卡或浏览器历史记录。从那时起，Mozilla 在 Firefox 的设置中添加了一个新的 AI 控制部分，用户可以在其中关闭浏览器的所有 AI 功能或选择保留哪些功能。",
+          "whyItMatters": "“Firefox 的智能窗口有望打造更好的人工智能浏览器”能帮助你判断这项能力是否已经进入工程、产品或商业场景，并据此调整技术选型、产品规划、学习重点或职业判断。",
+          "userRelevance": "如果你从事AI 产品、AI 技术、产品管理、技术研发，可以重点判断“Firefox 的智能窗口有望打造更好的人工智能浏览器”是否已经具备产品落地、技术选型或业务合作价值。",
+          "whatToWatch": "接下来要看“Firefox 的智能窗口有望打造更好的人工智能浏览器”是否有更多可靠来源、量产或应用进展，以及它会不会从单点消息发展成持续趋势。"
+        },
+        "sourceLinks": [
+          {
+            "title": "The Verge AI RSS",
+            "url": "https://www.theverge.com/ai-artificial-intelligence/981283/mozilla-firefox-smart-window-ai-features",
+            "sourceId": "theverge-ai-rss",
+            "publishedAt": "2026-08-18T13:00:00.000Z",
+            "language": "zh",
+            "originalLanguage": "en",
+            "translationStatus": "translated",
+            "fetchedAt": "2026-08-18T13:51:05.296Z",
+            "sourceMethod": "rss",
+            "verificationStatus": "pending"
+          }
+        ],
+        "images": [
+          {
+            "url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Firefox_SmartWindow_VisualHistory.png?quality=90&amp;strip=all&amp;crop=17.270595364874%2C11.717587167245%2C66.677554767002%2C79.025245270906&amp;w=2400",
+            "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/981283/mozilla-firefox-smart-window-ai-features"
+          }
+        ],
+        "generatedAt": "2026-08-18T13:50:54.437Z"
+      },
+      {
+        "id": "draft-real-theverge-ai-rss-6f7z3f",
         "title": "谷歌的宠物记忆忘记了我的猫是谁",
         "oneLine": "趋势信号：我的智能家居所做的最好的事情之一就是帮助我照顾我的宠物，而安全摄像头对于跟踪我的许多小动物特别有用。",
         "importance": "B",
@@ -384,7 +434,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-18T13:27:11.376Z",
+            "fetchedAt": "2026-08-18T13:51:05.296Z",
             "sourceMethod": "rss",
             "verificationStatus": "pending"
           }
@@ -411,7 +461,7 @@
             "sourceUrl": "https://www.theverge.com/tech/981269/google-home-gemini-pet-memory-nest-camera-review"
           }
         ],
-        "generatedAt": "2026-08-18T13:27:05.848Z"
+        "generatedAt": "2026-08-18T13:50:54.437Z"
       },
       {
         "id": "draft-cluster-real-openai-news-1wnu2no",
@@ -450,7 +500,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-18T13:27:11.170Z",
+            "fetchedAt": "2026-08-18T13:51:04.668Z",
             "sourceMethod": "rss",
             "verificationStatus": "confirmed"
           },
@@ -462,7 +512,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-18T13:27:11.376Z",
+            "fetchedAt": "2026-08-18T13:51:05.296Z",
             "sourceMethod": "rss",
             "verificationStatus": "pending"
           }
@@ -481,10 +531,10 @@
             "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/981333/openai-chatgpt-teen-mode"
           }
         ],
-        "generatedAt": "2026-08-18T13:27:05.848Z"
+        "generatedAt": "2026-08-18T13:50:54.437Z"
       },
       {
-        "id": "draft-real-theverge-ai-rss-3k75lp",
+        "id": "draft-real-theverge-ai-rss-1m9xqw",
         "title": "苹果配备摄像头的 AirPods 出现在泄露的视频中",
         "oneLine": "趋势信号：得益于 MacRumors 在 macOS Tahoe 26.7 候选版本中发现的一段视频，我们可能会第一次看到传闻中的苹果配备摄像头的 AirPods。",
         "importance": "B",
@@ -520,13 +570,13 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-18T13:27:11.376Z",
+            "fetchedAt": "2026-08-18T13:51:05.296Z",
             "sourceMethod": "rss",
             "verificationStatus": "pending"
           }
         ],
         "images": [],
-        "generatedAt": "2026-08-18T13:27:05.848Z"
+        "generatedAt": "2026-08-18T13:50:54.437Z"
       },
       {
         "id": "draft-real-cnbc-world-rss-1p9jjku",
@@ -564,13 +614,13 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-18T13:27:10.157Z",
+            "fetchedAt": "2026-08-18T13:51:03.381Z",
             "sourceMethod": "rss",
             "verificationStatus": "pending"
           }
         ],
         "images": [],
-        "generatedAt": "2026-08-18T13:27:05.848Z"
+        "generatedAt": "2026-08-18T13:50:54.437Z"
       },
       {
         "id": "draft-real-cnbc-world-rss-1yzwou1",
@@ -608,7 +658,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-18T13:27:10.157Z",
+            "fetchedAt": "2026-08-18T13:51:03.381Z",
             "sourceMethod": "rss",
             "verificationStatus": "pending"
           }
@@ -623,7 +673,7 @@
             "sourceUrl": "https://www.cnbc.com/2026/08/18/ai-tech-rally-correction-economists.html"
           }
         ],
-        "generatedAt": "2026-08-18T13:27:05.848Z"
+        "generatedAt": "2026-08-18T13:50:54.437Z"
       },
       {
         "id": "draft-real-cnbc-world-rss-6e3b15",
@@ -661,7 +711,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-18T13:27:10.157Z",
+            "fetchedAt": "2026-08-18T13:51:03.381Z",
             "sourceMethod": "rss",
             "verificationStatus": "pending"
           }
@@ -672,7 +722,7 @@
             "sourceUrl": "https://www.cnbc.com/2026/08/18/sea-ray-parent-brunswick-ai-recurring-revenue-boat-sales.html"
           }
         ],
-        "generatedAt": "2026-08-18T13:27:05.848Z"
+        "generatedAt": "2026-08-18T13:50:54.437Z"
       },
       {
         "id": "draft-real-cnbc-world-rss-1n1jm9y",
@@ -710,7 +760,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-18T13:27:10.157Z",
+            "fetchedAt": "2026-08-18T13:51:03.381Z",
             "sourceMethod": "rss",
             "verificationStatus": "pending"
           }
@@ -721,7 +771,7 @@
             "sourceUrl": "https://www.cnbc.com/2026/08/18/nvidias-ai-moat-is-shifting-from-chips-to-capital.html"
           }
         ],
-        "generatedAt": "2026-08-18T13:27:05.848Z"
+        "generatedAt": "2026-08-18T13:50:54.437Z"
       },
       {
         "id": "draft-real-cnbc-world-rss-1ydddgq",
@@ -759,57 +809,13 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-18T13:27:10.157Z",
+            "fetchedAt": "2026-08-18T13:51:03.381Z",
             "sourceMethod": "rss",
             "verificationStatus": "pending"
           }
         ],
         "images": [],
-        "generatedAt": "2026-08-18T13:27:05.848Z"
-      },
-      {
-        "id": "draft-real-cnbc-world-rss-1ryk5sl",
-        "title": "家得宝在“房地产市场状况冻结”的情况下重申指导意见",
-        "oneLine": "最新进展：家得宝在“房地产市场状况冻结”的情况下重申指导意见。",
-        "importance": "B",
-        "credibility": "待确认",
-        "tags": [
-          "B",
-          "industry",
-          "world",
-          "policy",
-          "finance"
-        ],
-        "industries": [
-          "generalPublic",
-          "financeInvestment",
-          "operationsGrowth",
-          "ecommerceRetail"
-        ],
-        "section": "industry",
-        "body": {
-          "background": "麦克菲尔表示，家得宝在其各个类别中看到了“广泛的参与”，包括其专业业务和DIY业务，但市场的更大不确定性导致该公司重申而不是提高其指导。",
-          "keyProgress": "首席财务官理查德·麦克菲尔 (Richard McPhail) 告诉 CNBC：“我们继续在我所说的‘冻结的房地产市场’条件下运营，但我们也知道我们正在占据份额，并且我们每天都在更好地为客户提供服务。” “这反映了我们持续的投资以及对执行我们战略的关注。",
-          "whyItMatters": "“家得宝在房地产市场状况冻结的情况下重申指导意见”如果继续发展，可能通过能源价格、航运、贸易、汇率或市场预期传导到国内。了解它的意义在于判断后续风险，而不只停留在事件本身。",
-          "userRelevance": "即使你不在事发地区，“家得宝在房地产市场状况冻结的情况下重申指导意见”也可能通过能源价格、国际航运、贸易成本和市场预期间接影响国内生活与工作判断。",
-          "whatToWatch": "接下来要看“家得宝在房地产市场状况冻结的情况下重申指导意见”是否出现更细的城市、行业、平台或企业数据，以及这一变化能否连续保持。"
-        },
-        "sourceLinks": [
-          {
-            "title": "CNBC World News RSS",
-            "url": "https://www.cnbc.com/2026/08/18/home-depot-hd-q2-2026-earnings.html",
-            "sourceId": "cnbc-world-rss",
-            "publishedAt": "2026-08-18T11:48:01.000Z",
-            "language": "zh",
-            "originalLanguage": "en",
-            "translationStatus": "translated",
-            "fetchedAt": "2026-08-18T13:27:10.157Z",
-            "sourceMethod": "rss",
-            "verificationStatus": "pending"
-          }
-        ],
-        "images": [],
-        "generatedAt": "2026-08-18T13:27:05.848Z"
+        "generatedAt": "2026-08-18T13:50:54.437Z"
       },
       {
         "id": "draft-real-cnbc-world-rss-1opch17",
@@ -847,13 +853,13 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-18T13:27:10.157Z",
+            "fetchedAt": "2026-08-18T13:51:03.381Z",
             "sourceMethod": "rss",
             "verificationStatus": "pending"
           }
         ],
         "images": [],
-        "generatedAt": "2026-08-18T13:27:05.848Z"
+        "generatedAt": "2026-08-18T13:50:54.437Z"
       },
       {
         "id": "draft-real-cnbc-world-rss-hotcpa",
@@ -891,13 +897,13 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-18T13:27:10.157Z",
+            "fetchedAt": "2026-08-18T13:51:03.381Z",
             "sourceMethod": "rss",
             "verificationStatus": "pending"
           }
         ],
         "images": [],
-        "generatedAt": "2026-08-18T13:27:05.848Z"
+        "generatedAt": "2026-08-18T13:50:54.437Z"
       },
       {
         "id": "draft-real-cnbc-world-rss-1138sui",
@@ -935,13 +941,13 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-18T13:27:10.157Z",
+            "fetchedAt": "2026-08-18T13:51:03.381Z",
             "sourceMethod": "rss",
             "verificationStatus": "pending"
           }
         ],
         "images": [],
-        "generatedAt": "2026-08-18T13:27:05.848Z"
+        "generatedAt": "2026-08-18T13:50:54.437Z"
       },
       {
         "id": "draft-real-cnbc-world-rss-1sst5se",
@@ -979,13 +985,13 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-18T13:27:10.157Z",
+            "fetchedAt": "2026-08-18T13:51:03.381Z",
             "sourceMethod": "rss",
             "verificationStatus": "pending"
           }
         ],
         "images": [],
-        "generatedAt": "2026-08-18T13:27:05.848Z"
+        "generatedAt": "2026-08-18T13:50:54.437Z"
       },
       {
         "id": "draft-cluster-real-un-news-rss-1kjjg67",
@@ -1191,7 +1197,7 @@
     "estimatedReadMinutes": 28,
     "pageCount": 3,
     "topCardId": "draft-real-cnbc-world-rss-1mlrklp",
-    "generatedAt": "2026-08-18T13:27:05.848Z",
+    "generatedAt": "2026-08-18T13:50:54.437Z",
     "pushSlots": [
       "08:30",
       "12:30",
@@ -1206,14 +1212,14 @@
     "basedOnGeneratedAt": "2026-08-18T05:14:17.247Z",
     "editionCardIds": [
       "draft-cluster-real-openai-news-1wnu2no",
-      "draft-real-theverge-ai-rss-658deg",
-      "draft-real-theverge-ai-rss-3k75lp",
+      "draft-real-theverge-ai-rss-g7b52u",
+      "draft-real-theverge-ai-rss-6f7z3f",
+      "draft-real-theverge-ai-rss-1m9xqw",
       "draft-real-cnbc-world-rss-1yzwou1",
       "draft-real-cnbc-world-rss-1p9jjku",
       "draft-real-cnbc-world-rss-1ydddgq",
       "draft-real-cnbc-world-rss-1n1jm9y",
       "draft-real-cnbc-world-rss-1138sui",
-      "draft-real-cnbc-world-rss-1ryk5sl",
       "draft-real-cnbc-world-rss-hotcpa",
       "draft-real-cnbc-world-rss-1opch17",
       "draft-real-cnbc-world-rss-6e3b15",

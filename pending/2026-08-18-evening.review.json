@@ -1,10 +1,10 @@
 {
   "version": 1,
   "date": "2026-08-18",
-  "generatedAt": "2026-08-18T13:30:06.397Z",
+  "generatedAt": "2026-08-18T13:53:48.161Z",
   "status": "blocked",
   "reviewMode": "generated",
-  "candidateSha256": "f08e6701c32603acab81e5b88a0fb700d45ded1196f34f67328548f9c383d90a",
+  "candidateSha256": "77bba2fce980ad002634f84a96c3c04daba099e44996596b93318167b68fcac4",
   "counts": {
     "cards": 24,
     "pages": 3,
@@ -20,7 +20,7 @@
     {
       "level": "blocker",
       "code": "source-concentration",
-      "message": "cnbc-world-rss 占 14/24 条，单一来源超过一半，不能视为覆盖充分。"
+      "message": "cnbc-world-rss 占 13/24 条，单一来源超过一半，不能视为覆盖充分。"
     },
     {
       "level": "warning",

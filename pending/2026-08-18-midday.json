@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "publishedAt": "2026-08-18T04:59:59.460Z",
+  "publishedAt": "2026-08-18T05:14:17.247Z",
   "issue": {
     "id": "daily-public-2026-08-18",
     "date": "2026-08-18",
@@ -384,13 +384,13 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-18T05:00:12.829Z",
+            "fetchedAt": "2026-08-18T05:14:23.161Z",
             "sourceMethod": "rss",
             "verificationStatus": "pending"
           }
         ],
         "images": [],
-        "generatedAt": "2026-08-18T04:59:59.460Z"
+        "generatedAt": "2026-08-18T05:14:17.247Z"
       },
       {
         "id": "draft-real-cnbc-world-rss-19nykv0",
@@ -428,13 +428,13 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-18T05:00:10.649Z",
+            "fetchedAt": "2026-08-18T05:14:22.159Z",
             "sourceMethod": "rss",
             "verificationStatus": "pending"
           }
         ],
         "images": [],
-        "generatedAt": "2026-08-18T04:59:59.460Z"
+        "generatedAt": "2026-08-18T05:14:17.247Z"
       },
       {
         "id": "draft-real-cnbc-world-rss-1yi1o9b",
@@ -472,13 +472,13 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-18T05:00:10.649Z",
+            "fetchedAt": "2026-08-18T05:14:22.159Z",
             "sourceMethod": "rss",
             "verificationStatus": "pending"
           }
         ],
         "images": [],
-        "generatedAt": "2026-08-18T04:59:59.460Z"
+        "generatedAt": "2026-08-18T05:14:17.247Z"
       },
       {
         "id": "draft-cluster-real-un-news-rss-1kjjg67",
@@ -1140,7 +1140,7 @@
     "estimatedReadMinutes": 27,
     "pageCount": 3,
     "topCardId": "draft-real-cnbc-world-rss-1mlrklp",
-    "generatedAt": "2026-08-18T04:59:59.460Z",
+    "generatedAt": "2026-08-18T05:14:17.247Z",
     "pushSlots": [
       "08:30",
       "12:30",

@@ -1,20 +1,20 @@
 {
   "version": 1,
   "date": "2026-08-18",
-  "generatedAt": "2026-08-17T23:38:19.097Z",
+  "generatedAt": "2026-08-18T03:53:04.818Z",
   "status": "review",
   "reviewMode": "generated",
-  "candidateSha256": "82df29049fa53a3539d23f715098b2d2ffbcfe5dce67308674fbba3a0d623319",
+  "candidateSha256": "03fb928a2d2b89c037371762688879c6fa5e5d845d29c32b9e946aae0eb16da9",
   "counts": {
-    "cards": 19,
+    "cards": 20,
     "pages": 3,
-    "rawItems": 77,
-    "freshCandidates": 60,
-    "publishableCards": 30,
-    "reviewableCards": 7,
-    "rejectedCards": 8,
+    "rawItems": 111,
+    "freshCandidates": 95,
+    "publishableCards": 35,
+    "reviewableCards": 8,
+    "rejectedCards": 11,
     "blockers": 0,
-    "warnings": 12
+    "warnings": 13
   },
   "findings": [
     {
@@ -25,13 +25,13 @@
     {
       "level": "warning",
       "code": "current-coverage-local",
-      "message": "居住城市与家乡城市：上海、杭州在本时段没有新的可用条目：已监测 1 个可访问来源，但当前只命中 0 个。公共共享日报会监测示例城市，但城市无新增不能阻止其他核心内容出版；发现线索仍需官方或主流来源确认。"
+      "message": "居住城市与家乡城市：上海、杭州、深圳、长春在本时段没有新的可用条目：已监测 1 个可访问来源，但当前只命中 0 个。公共共享日报会监测示例城市，但城市无新增不能阻止其他核心内容出版；发现线索仍需官方或主流来源确认。"
     },
     {
       "level": "warning",
       "code": "card-needs-human-review",
       "message": "原文信息量有限，需要确认是否足以支持卡片结论。",
-      "cardId": "draft-real-xinhua-world-1izorsa",
+      "cardId": "draft-real-xinhua-world-1j9odh9",
       "cardTitle": "哥伦比亚强震已致289人死亡 逾18万人受灾"
     },
     {
@@ -86,6 +86,13 @@
     {
       "level": "warning",
       "code": "card-needs-human-review",
+      "message": "原文信息量有限，需要确认是否足以支持卡片结论。",
+      "cardId": "draft-real-xinhua-world-12u2x1j",
+      "cardTitle": "乌克兰称袭击俄军多处攻击型无人机配套设施"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
       "message": "原文篇幅较短且不是官方或主流来源，需要发布前复核。",
       "cardId": "draft-cluster-real-openai-news-6s7pco",
       "cardTitle": "OpenAI 加入 PORTS-Pike 项目"
@@ -94,7 +101,7 @@
       "level": "warning",
       "code": "card-needs-human-review",
       "message": "原文篇幅较短且不是官方或主流来源，需要发布前复核。",
-      "cardId": "draft-real-techcrunch-ai-rss-yw0kvx",
+      "cardId": "draft-real-techcrunch-ai-rss-y21rt0",
       "cardTitle": "以销售书籍起家的亚马逊正在销毁稀有文本来训练人工智能"
     }
   ]

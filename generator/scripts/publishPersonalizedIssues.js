@@ -138,7 +138,7 @@ async function main() {
         : await fetchCohort(normalizeSupabaseUrl(requireString(supabaseUrl, "SUPABASE_URL")), requireString(serviceRoleKey, "SUPABASE_SERVICE_ROLE_KEY"), input.issue.date);
     const preferencesByUser = new Map(cohort.preferences.map((item) => [item.user_id, item]));
     const generatedAt = input.meta.generatedAt ?? new Date().toISOString();
-    const generatedRows = cohort.profiles
+    const personalizedRows = cohort.profiles
         .map((row) => ({ row, profile: toUserProfile(row) }))
         .filter(({ profile }) => isConfiguredProfile(profile))
         .map(({ row, profile }) => {
@@ -159,7 +159,7 @@ async function main() {
             generatedAt,
             baseIssue: baseIssueFor(cohort.existingIssues, row.id, input.meta.edition)
         });
-        return {
+        const databaseRow = {
             user_id: row.id,
             issue_date: input.issue.date,
             edition: input.meta.edition,
@@ -172,8 +172,18 @@ async function main() {
             source_generated_at: input.issue.generatedAt,
             generated_at: generatedAt
         };
+        return {
+            databaseRow,
+            complete: (0, personalizedIssue_1.isCompletePersonalizedIssue)(result.issue)
+        };
     })
-        .filter((row) => row.payload.issue.cards.length > 0);
+        .filter((entry) => entry.databaseRow.payload.issue.cards.length > 0);
+    const generatedRows = personalizedRows
+        .filter((entry) => entry.complete)
+        .map((entry) => entry.databaseRow);
+    const deferredRows = personalizedRows
+        .filter((entry) => !entry.complete)
+        .map((entry) => entry.databaseRow);
     if (!options.dryRun && !options.profilesFile && generatedRows.length) {
         await supabaseRequest({
             baseUrl: normalizeSupabaseUrl(requireString(supabaseUrl, "SUPABASE_URL")),
@@ -191,6 +201,7 @@ async function main() {
         profileCount: cohort.profiles.length,
         configuredProfileCount: cohort.profiles.filter((row) => isConfiguredProfile(toUserProfile(row))).length,
         publishedProfileCount: generatedRows.length,
+        deferredProfileCount: deferredRows.length,
         dryRun: options.dryRun || Boolean(options.profilesFile),
         issues: generatedRows.map((row) => ({
             userId: row.user_id,
@@ -200,11 +211,19 @@ async function main() {
             profileKey: row.profile_key,
             layerCounts: row.personalization_summary.layerCounts,
             fallbackCardCount: row.personalization_summary.fallbackCardCount
+        })),
+        deferredIssues: deferredRows.map((row) => ({
+            userId: row.user_id,
+            cardCount: row.payload.issue.cards.length,
+            reason: "below-complete-issue-minimum"
         }))
     };
     await fs.mkdir(path.dirname(path.resolve(options.output)), { recursive: true });
     await fs.writeFile(path.resolve(options.output), `${JSON.stringify(report, null, 2)}\n`, "utf8");
     console.log(`Generated ${generatedRows.length} personalized issues for ${input.issue.date} ${input.meta.edition}.`);
+    if (deferredRows.length) {
+        console.log(`Deferred ${deferredRows.length} incomplete personalized issues; those users keep the public fallback.`);
+    }
     console.log(`Report: ${path.resolve(options.output)}`);
 }
 void main().catch((error) => {

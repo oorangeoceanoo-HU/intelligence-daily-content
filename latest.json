@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "publishedAt": "2026-08-18T03:49:27.246Z",
+  "publishedAt": "2026-08-18T04:05:23.099Z",
   "issue": {
     "id": "daily-public-2026-08-18",
     "date": "2026-08-18",
@@ -42,13 +42,13 @@
             "language": "zh",
             "originalLanguage": "zh",
             "translationStatus": "not-needed",
-            "fetchedAt": "2026-08-18T03:49:30.642Z",
+            "fetchedAt": "2026-08-18T04:05:27.123Z",
             "sourceMethod": "web",
             "verificationStatus": "confirmed"
           }
         ],
         "images": [],
-        "generatedAt": "2026-08-18T03:49:27.246Z"
+        "generatedAt": "2026-08-18T04:05:23.099Z"
       },
       {
         "id": "draft-real-xinhua-world-1lcjhh",
@@ -86,7 +86,7 @@
             "language": "zh",
             "originalLanguage": "zh",
             "translationStatus": "not-needed",
-            "fetchedAt": "2026-08-18T03:49:30.642Z",
+            "fetchedAt": "2026-08-18T04:05:27.123Z",
             "sourceMethod": "web",
             "verificationStatus": "confirmed"
           }
@@ -97,10 +97,10 @@
             "sourceUrl": "https://www.news.cn/world/20260817/ad7868cecd4c4354be53a59bbce43028/c.html"
           }
         ],
-        "generatedAt": "2026-08-18T03:49:27.246Z"
+        "generatedAt": "2026-08-18T04:05:23.099Z"
       },
       {
-        "id": "draft-cluster-real-cnbc-world-rss-16twgkn",
+        "id": "draft-cluster-real-cnbc-world-rss-16jwuvo",
         "title": "特朗普不会延长伊朗停火，威胁称如果阿曼“妨碍”，将“轰炸”阿曼",
         "oneLine": "政策变化：美国总统唐纳德·特朗普周一在这篇文章中表示，如果阿曼“妨碍”，美国将“轰炸”阿曼，因为华盛顿与伊朗的 60 天停火期即将到期，且看不到任何正式谈判或协议。",
         "importance": "S",
@@ -136,7 +136,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-18T03:49:31.652Z",
+            "fetchedAt": "2026-08-18T04:05:29.305Z",
             "sourceMethod": "rss",
             "verificationStatus": "pending"
           },
@@ -148,7 +148,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-18T03:49:31.397Z",
+            "fetchedAt": "2026-08-18T04:05:28.413Z",
             "sourceMethod": "rss",
             "verificationStatus": "pending"
           }
@@ -159,10 +159,10 @@
             "sourceUrl": "https://www.france24.com/en/middle-east/20260817-middle-east-live-us-envoy-kushner-to-meet-netanyahu-after-talks-with-hamas"
           }
         ],
-        "generatedAt": "2026-08-18T03:49:27.246Z"
+        "generatedAt": "2026-08-18T04:05:23.099Z"
       },
       {
-        "id": "draft-real-cnbc-world-rss-1ifxj74",
+        "id": "draft-real-cnbc-world-rss-1mlrklp",
         "title": "伊朗排除临时协议延期，冲突威胁升级，布伦特油价升至90美元以上",
         "oneLine": "最新进展：伊朗排除临时协议延期，冲突威胁升级，布伦特油价升至90美元以上。",
         "importance": "S",
@@ -198,7 +198,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-18T03:49:31.652Z",
+            "fetchedAt": "2026-08-18T04:05:29.305Z",
             "sourceMethod": "rss",
             "verificationStatus": "pending"
           }
@@ -209,10 +209,10 @@
             "sourceUrl": "https://www.cnbc.com/2026/08/17/oil-prices-iran-war-strait-hormuz.html"
           }
         ],
-        "generatedAt": "2026-08-18T03:49:27.246Z"
+        "generatedAt": "2026-08-18T04:05:23.099Z"
       },
       {
-        "id": "draft-real-cnbc-world-rss-1vjk9mq",
+        "id": "draft-real-cnbc-world-rss-1vtjvbp",
         "title": "日本汽车制造商容易受到伊朗战争的双重冲击和日元升值的影响",
         "oneLine": "政策变化：在这篇文章中，日本汽车制造商似乎很容易受到伊朗战争和日元汇率好转的影响。",
         "importance": "S",
@@ -248,16 +248,16 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-18T03:49:31.652Z",
+            "fetchedAt": "2026-08-18T04:05:29.305Z",
             "sourceMethod": "rss",
             "verificationStatus": "pending"
           }
         ],
         "images": [],
-        "generatedAt": "2026-08-18T03:49:27.246Z"
+        "generatedAt": "2026-08-18T04:05:23.099Z"
       },
       {
-        "id": "draft-real-cnbc-world-rss-2oo3fr",
+        "id": "draft-real-cnbc-world-rss-2eohqs",
         "title": "乌克兰战争中最大规模的空袭之一后，俄罗斯瞄准多瑙河港口",
         "oneLine": "政策变化：乌克兰当局周一表示，在乌克兰战争期间最大规模的空袭之一之后，俄罗斯连夜对乌克兰敖德萨南部地区的港口基础设施发动了袭击。",
         "importance": "S",
@@ -293,13 +293,13 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-18T03:49:31.652Z",
+            "fetchedAt": "2026-08-18T04:05:29.305Z",
             "sourceMethod": "rss",
             "verificationStatus": "pending"
           }
         ],
         "images": [],
-        "generatedAt": "2026-08-18T03:49:27.246Z"
+        "generatedAt": "2026-08-18T04:05:23.099Z"
       },
       {
         "id": "draft-real-xinhua-world-4axvaw",
@@ -339,13 +339,13 @@
             "language": "zh",
             "originalLanguage": "zh",
             "translationStatus": "not-needed",
-            "fetchedAt": "2026-08-18T03:49:30.642Z",
+            "fetchedAt": "2026-08-18T04:05:27.123Z",
             "sourceMethod": "web",
             "verificationStatus": "confirmed"
           }
         ],
         "images": [],
-        "generatedAt": "2026-08-18T03:49:27.246Z"
+        "generatedAt": "2026-08-18T04:05:23.099Z"
       },
       {
         "id": "draft-real-gov-cn-policy-library-k1akam",
@@ -383,13 +383,13 @@
             "language": "zh",
             "originalLanguage": "zh",
             "translationStatus": "not-needed",
-            "fetchedAt": "2026-08-18T03:49:28.866Z",
+            "fetchedAt": "2026-08-18T04:05:24.382Z",
             "sourceMethod": "web",
             "verificationStatus": "confirmed"
           }
         ],
         "images": [],
-        "generatedAt": "2026-08-18T03:49:27.246Z"
+        "generatedAt": "2026-08-18T04:05:23.099Z"
       },
       {
         "id": "draft-cluster-real-un-news-rss-1kjjg67",
@@ -422,7 +422,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-18T03:49:31.630Z",
+            "fetchedAt": "2026-08-18T04:05:28.777Z",
             "sourceMethod": "rss",
             "verificationStatus": "confirmed"
           },
@@ -434,7 +434,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-18T03:49:31.397Z",
+            "fetchedAt": "2026-08-18T04:05:28.413Z",
             "sourceMethod": "rss",
             "verificationStatus": "pending"
           }
@@ -449,7 +449,7 @@
             "sourceUrl": "https://www.france24.com/en/west-bank-un-delivers-aid-to-besieged-palestinian-families-in-qusra"
           }
         ],
-        "generatedAt": "2026-08-18T03:49:27.246Z"
+        "generatedAt": "2026-08-18T04:05:23.099Z"
       },
       {
         "id": "draft-real-gov-uk-news-znzojn",
@@ -486,7 +486,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-18T03:49:31.948Z",
+            "fetchedAt": "2026-08-18T04:05:28.643Z",
             "sourceMethod": "rss",
             "verificationStatus": "confirmed"
           }
@@ -497,7 +497,7 @@
             "sourceUrl": "https://www.gov.uk/government/news/uk-and-lebanon-sign-mou-to-strengthen-security-co-operation"
           }
         ],
-        "generatedAt": "2026-08-18T03:49:27.246Z"
+        "generatedAt": "2026-08-18T04:05:23.099Z"
       },
       {
         "id": "draft-real-gov-uk-news-b21ko",
@@ -534,7 +534,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-18T03:49:31.948Z",
+            "fetchedAt": "2026-08-18T04:05:28.643Z",
             "sourceMethod": "rss",
             "verificationStatus": "confirmed"
           }
@@ -545,7 +545,7 @@
             "sourceUrl": "https://www.gov.uk/government/news/drivers-can-save-up-to-10-days-by-notifying-dvla-of-a-medical-condition-online"
           }
         ],
-        "generatedAt": "2026-08-18T03:49:27.246Z"
+        "generatedAt": "2026-08-18T04:05:23.099Z"
       },
       {
         "id": "draft-real-xinhua-tech-17hsdue",
@@ -585,7 +585,7 @@
             "language": "zh",
             "originalLanguage": "zh",
             "translationStatus": "not-needed",
-            "fetchedAt": "2026-08-18T03:49:30.975Z",
+            "fetchedAt": "2026-08-18T04:05:27.451Z",
             "sourceMethod": "web",
             "verificationStatus": "confirmed"
           }
@@ -596,7 +596,7 @@
             "sourceUrl": "https://www.news.cn/tech/20260817/da7a68094c054e1081f464630a8c564e/c.html"
           }
         ],
-        "generatedAt": "2026-08-18T03:49:27.246Z"
+        "generatedAt": "2026-08-18T04:05:23.099Z"
       },
       {
         "id": "draft-real-xinhua-tech-1di2r9z",
@@ -636,13 +636,13 @@
             "language": "zh",
             "originalLanguage": "zh",
             "translationStatus": "not-needed",
-            "fetchedAt": "2026-08-18T03:49:30.975Z",
+            "fetchedAt": "2026-08-18T04:05:27.451Z",
             "sourceMethod": "web",
             "verificationStatus": "confirmed"
           }
         ],
         "images": [],
-        "generatedAt": "2026-08-18T03:49:27.246Z"
+        "generatedAt": "2026-08-18T04:05:23.099Z"
       },
       {
         "id": "draft-real-xinhua-tech-7wocoj",
@@ -682,13 +682,13 @@
             "language": "zh",
             "originalLanguage": "zh",
             "translationStatus": "not-needed",
-            "fetchedAt": "2026-08-18T03:49:30.975Z",
+            "fetchedAt": "2026-08-18T04:05:27.451Z",
             "sourceMethod": "web",
             "verificationStatus": "confirmed"
           }
         ],
         "images": [],
-        "generatedAt": "2026-08-18T03:49:27.246Z"
+        "generatedAt": "2026-08-18T04:05:23.099Z"
       },
       {
         "id": "draft-real-xinhua-tech-uubjvt",
@@ -728,13 +728,13 @@
             "language": "zh",
             "originalLanguage": "zh",
             "translationStatus": "not-needed",
-            "fetchedAt": "2026-08-18T03:49:30.975Z",
+            "fetchedAt": "2026-08-18T04:05:27.451Z",
             "sourceMethod": "web",
             "verificationStatus": "confirmed"
           }
         ],
         "images": [],
-        "generatedAt": "2026-08-18T03:49:27.246Z"
+        "generatedAt": "2026-08-18T04:05:23.099Z"
       },
       {
         "id": "draft-real-techcrunch-ai-rss-ojdgxp",
@@ -773,13 +773,13 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-18T03:49:32.525Z",
+            "fetchedAt": "2026-08-18T04:05:30.031Z",
             "sourceMethod": "rss",
             "verificationStatus": "pending"
           }
         ],
         "images": [],
-        "generatedAt": "2026-08-18T03:49:27.246Z"
+        "generatedAt": "2026-08-18T04:05:23.099Z"
       },
       {
         "id": "draft-real-techcrunch-ai-rss-1o3yvrv",
@@ -818,13 +818,13 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-18T03:49:32.525Z",
+            "fetchedAt": "2026-08-18T04:05:30.031Z",
             "sourceMethod": "rss",
             "verificationStatus": "pending"
           }
         ],
         "images": [],
-        "generatedAt": "2026-08-18T03:49:27.246Z"
+        "generatedAt": "2026-08-18T04:05:23.099Z"
       },
       {
         "id": "draft-real-techcrunch-ai-rss-h2hkbf",
@@ -863,13 +863,13 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-18T03:49:32.525Z",
+            "fetchedAt": "2026-08-18T04:05:30.031Z",
             "sourceMethod": "rss",
             "verificationStatus": "pending"
           }
         ],
         "images": [],
-        "generatedAt": "2026-08-18T03:49:27.246Z"
+        "generatedAt": "2026-08-18T04:05:23.099Z"
       },
       {
         "id": "draft-real-theverge-ai-rss-kh626a",
@@ -908,7 +908,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-18T03:49:32.640Z",
+            "fetchedAt": "2026-08-18T04:05:30.192Z",
             "sourceMethod": "rss",
             "verificationStatus": "pending"
           }
@@ -935,7 +935,7 @@
             "sourceUrl": "https://www.theverge.com/tech/978323/whisker-litter-robot-5-pro-review"
           }
         ],
-        "generatedAt": "2026-08-18T03:49:27.246Z"
+        "generatedAt": "2026-08-18T04:05:23.099Z"
       },
       {
         "id": "draft-real-stats-cn-data-1vgwvj9",
@@ -974,7 +974,7 @@
             "language": "zh",
             "originalLanguage": "zh",
             "translationStatus": "not-needed",
-            "fetchedAt": "2026-08-18T03:49:36.891Z",
+            "fetchedAt": "2026-08-18T04:05:36.396Z",
             "sourceMethod": "web",
             "verificationStatus": "confirmed"
           }
@@ -1001,13 +1001,13 @@
             "sourceUrl": "https://www.stats.gov.cn/sj/zxfb/202608/t20260817_1965056.html"
           }
         ],
-        "generatedAt": "2026-08-18T03:49:27.246Z"
+        "generatedAt": "2026-08-18T04:05:23.099Z"
       }
     ],
     "estimatedReadMinutes": 23,
     "pageCount": 3,
     "topCardId": "draft-real-xinhua-world-14cf0q0",
-    "generatedAt": "2026-08-18T03:49:27.246Z",
+    "generatedAt": "2026-08-18T04:05:23.099Z",
     "pushSlots": [
       "08:30",
       "12:30",
@@ -1022,10 +1022,10 @@
     "editionCardIds": [
       "draft-real-xinhua-world-14cf0q0",
       "draft-real-xinhua-world-1lcjhh",
-      "draft-cluster-real-cnbc-world-rss-16twgkn",
-      "draft-real-cnbc-world-rss-1ifxj74",
-      "draft-real-cnbc-world-rss-1vjk9mq",
-      "draft-real-cnbc-world-rss-2oo3fr",
+      "draft-cluster-real-cnbc-world-rss-16jwuvo",
+      "draft-real-cnbc-world-rss-1mlrklp",
+      "draft-real-cnbc-world-rss-1vtjvbp",
+      "draft-real-cnbc-world-rss-2eohqs",
       "draft-real-xinhua-world-4axvaw",
       "draft-real-gov-cn-policy-library-k1akam",
       "draft-cluster-real-un-news-rss-1kjjg67",

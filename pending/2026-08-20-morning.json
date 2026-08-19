@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "publishedAt": "2026-08-19T22:56:21.877Z",
+  "publishedAt": "2026-08-19T23:34:30.887Z",
   "issue": {
     "id": "daily-public-2026-08-20",
     "date": "2026-08-20",
@@ -42,13 +42,13 @@
             "language": "zh",
             "originalLanguage": "zh",
             "translationStatus": "not-needed",
-            "fetchedAt": "2026-08-19T22:56:25.529Z",
+            "fetchedAt": "2026-08-19T23:34:34.906Z",
             "sourceMethod": "web",
             "verificationStatus": "confirmed"
           }
         ],
         "images": [],
-        "generatedAt": "2026-08-19T22:56:21.877Z"
+        "generatedAt": "2026-08-19T23:34:30.887Z"
       },
       {
         "id": "draft-real-xinhua-world-1i65hb4",
@@ -86,20 +86,20 @@
             "language": "zh",
             "originalLanguage": "zh",
             "translationStatus": "not-needed",
-            "fetchedAt": "2026-08-19T22:56:25.529Z",
+            "fetchedAt": "2026-08-19T23:34:34.906Z",
             "sourceMethod": "web",
             "verificationStatus": "confirmed"
           }
         ],
         "images": [],
-        "generatedAt": "2026-08-19T22:56:21.877Z"
+        "generatedAt": "2026-08-19T23:34:30.887Z"
       },
       {
-        "id": "draft-cluster-real-npr-world-rss-4d7pds",
+        "id": "draft-real-npr-world-rss-4d7pds",
         "title": "美国推迟对加拿大进口产品征收 50% 关税。而且，佛罗里达州初选的要点",
         "oneLine": "政策变化：《美国推迟对加拿大进口产品征收 50% 关税。而且，佛罗里达州初选的要点》您正在阅读 Up First 时事通讯。",
         "importance": "S",
-        "credibility": "多源确认",
+        "credibility": "主流媒体",
         "tags": [
           "S",
           "mustKnow",
@@ -131,21 +131,9 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-19T22:56:26.232Z",
+            "fetchedAt": "2026-08-19T23:34:35.205Z",
             "sourceMethod": "rss",
             "verificationStatus": "confirmed"
-          },
-          {
-            "title": "CNBC World News RSS",
-            "url": "https://www.cnbc.com/2026/08/18/trump-carney-canada-tariffs-dealine-talks.html",
-            "sourceId": "cnbc-world-rss",
-            "publishedAt": "2026-08-19T03:18:57.000Z",
-            "language": "zh",
-            "originalLanguage": "en",
-            "translationStatus": "translated",
-            "fetchedAt": "2026-08-19T22:56:26.691Z",
-            "sourceMethod": "rss",
-            "verificationStatus": "pending"
           }
         ],
         "images": [
@@ -166,10 +154,10 @@
             "sourceUrl": "https://www.npr.org/2026/08/19/g-s1-139173/up-first-newsletter-florida-primary-canada-tariffs-trump-meta-trial"
           }
         ],
-        "generatedAt": "2026-08-19T22:56:21.877Z"
+        "generatedAt": "2026-08-19T23:34:30.887Z"
       },
       {
-        "id": "draft-real-cnbc-world-rss-11nfmo1",
+        "id": "draft-real-cnbc-world-rss-11dg0z2",
         "title": "特朗普吹捧了一项避免对加拿大征收新关税的协议。这是迄今为止我们所知道的",
         "oneLine": "政策变化：距离美国对某些加拿大商品征收巨额关税不到两小时，唐纳德·特朗普总统宣布了一项暂定协议，以避免征收新关税。",
         "importance": "S",
@@ -205,7 +193,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-19T22:56:26.691Z",
+            "fetchedAt": "2026-08-19T23:34:36.412Z",
             "sourceMethod": "rss",
             "verificationStatus": "pending"
           }
@@ -216,10 +204,10 @@
             "sourceUrl": "https://www.cnbc.com/2026/08/19/trump-canada-tariffs-deal-carney.html"
           }
         ],
-        "generatedAt": "2026-08-19T22:56:21.877Z"
+        "generatedAt": "2026-08-19T23:34:30.887Z"
       },
       {
-        "id": "draft-real-un-news-rss-17bxzqs",
+        "id": "draft-real-un-news-rss-17lxlfr",
         "title": "国际刑事法院：美国新制裁是对其独立性的“公然攻击”",
         "oneLine": "最新进展：国际刑事法院：美国新制裁是对其独立性的“公然攻击”。",
         "importance": "S",
@@ -255,7 +243,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-19T22:56:26.577Z",
+            "fetchedAt": "2026-08-19T23:34:35.616Z",
             "sourceMethod": "rss",
             "verificationStatus": "confirmed"
           }
@@ -266,7 +254,7 @@
             "sourceUrl": "https://news.un.org/feed/view/en/story/2026/08/1168168"
           }
         ],
-        "generatedAt": "2026-08-19T22:56:21.877Z"
+        "generatedAt": "2026-08-19T23:34:30.887Z"
       },
       {
         "id": "draft-real-xinhua-world-1hp7mq2",
@@ -306,7 +294,7 @@
             "language": "zh",
             "originalLanguage": "zh",
             "translationStatus": "not-needed",
-            "fetchedAt": "2026-08-19T22:56:25.529Z",
+            "fetchedAt": "2026-08-19T23:34:34.906Z",
             "sourceMethod": "web",
             "verificationStatus": "confirmed"
           }
@@ -333,7 +321,7 @@
             "sourceUrl": "https://www.news.cn/world/20260819/52be4a4440f04e15841ff03a3a3721f7/c.html"
           }
         ],
-        "generatedAt": "2026-08-19T22:56:21.877Z"
+        "generatedAt": "2026-08-19T23:34:30.887Z"
       },
       {
         "id": "draft-real-xinhua-world-18pplhm",
@@ -373,16 +361,16 @@
             "language": "zh",
             "originalLanguage": "zh",
             "translationStatus": "not-needed",
-            "fetchedAt": "2026-08-19T22:56:25.529Z",
+            "fetchedAt": "2026-08-19T23:34:34.906Z",
             "sourceMethod": "web",
             "verificationStatus": "confirmed"
           }
         ],
         "images": [],
-        "generatedAt": "2026-08-19T22:56:21.877Z"
+        "generatedAt": "2026-08-19T23:34:30.887Z"
       },
       {
-        "id": "draft-real-un-news-rss-h8azph",
+        "id": "draft-real-un-news-rss-gybe0i",
         "title": "苏丹战争：战斗和洪水加剧，新增 20 万人流离失所",
         "oneLine": "最新进展：苏丹战争：战斗和洪水加剧，新增 20 万人流离失所。",
         "importance": "S",
@@ -416,7 +404,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-19T22:56:26.577Z",
+            "fetchedAt": "2026-08-19T23:34:35.616Z",
             "sourceMethod": "rss",
             "verificationStatus": "confirmed"
           }
@@ -427,10 +415,10 @@
             "sourceUrl": "https://news.un.org/feed/view/en/story/2026/08/1168165"
           }
         ],
-        "generatedAt": "2026-08-19T22:56:21.877Z"
+        "generatedAt": "2026-08-19T23:34:30.887Z"
       },
       {
-        "id": "draft-real-cnbc-world-rss-otu75z",
+        "id": "draft-real-cnbc-world-rss-nfw6p4",
         "title": "据报道导弹袭击后阿联酋中断与伊朗的贸易",
         "oneLine": "政策变化：阿拉伯联合酋长国表示，在报告伊朗向其领海发射两枚弹道导弹后，该国已暂停与伊朗的所有贸易和金融交易。",
         "importance": "A",
@@ -466,7 +454,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-19T22:56:26.691Z",
+            "fetchedAt": "2026-08-19T23:34:36.412Z",
             "sourceMethod": "rss",
             "verificationStatus": "pending"
           }
@@ -481,7 +469,7 @@
             "sourceUrl": "https://www.cnbc.com/2026/08/19/us-iran-war-trump-hormuz.html"
           }
         ],
-        "generatedAt": "2026-08-19T22:56:21.877Z"
+        "generatedAt": "2026-08-19T23:34:30.887Z"
       },
       {
         "id": "draft-real-npr-world-rss-1bulpr4",
@@ -515,7 +503,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-19T22:56:26.232Z",
+            "fetchedAt": "2026-08-19T23:34:35.205Z",
             "sourceMethod": "rss",
             "verificationStatus": "confirmed"
           }
@@ -538,12 +526,12 @@
             "sourceUrl": "https://www.npr.org/2026/08/19/nx-s1-5937400/israel-strikes-syria"
           }
         ],
-        "generatedAt": "2026-08-19T22:56:21.877Z"
+        "generatedAt": "2026-08-19T23:34:30.887Z"
       },
       {
-        "id": "draft-real-cnbc-world-rss-my6g5e",
-        "title": "美国禁止英伟达最好的芯片进入中国。现在它正试图堵住一个关键漏洞",
-        "oneLine": "政策变化：在本文中，英伟达对最强大芯片的有效垄断使美国出口管制成为华盛顿努力保持其在人工智能竞赛中相对于中国的优势的关键工具。",
+        "id": "draft-real-cnbc-world-rss-1ffi0ww",
+        "title": "中国白酒制造商茅台的低迷对中国经济有何影响",
+        "oneLine": "政策变化：北京——走在中国的大多数街道上，你都会发现一家酒类商店，上面贴着优质烈酒品牌茅台的广告，以及按年份划分的转售价格海报。",
         "importance": "B",
         "credibility": "待确认",
         "tags": [
@@ -562,33 +550,28 @@
         ],
         "section": "front",
         "body": {
-          "background": "不过，尽管美国限制该公司最先进的半导体（包括 GB300）的出口，但据报道，几家中国公司已经能够通过东南亚的数据中心获得这些芯片的计算能力。Moonshot AI 7 月份发布新模型后不到一周，白宫官员 Michael Kratsios 指责该公司通过泰国的一家工厂使用 Nvidia 的 GB300 芯片。DeepSeek和阿里巴巴最近还发布了新的人工智能系统，这些系统在性能基准测试中取得了良好的成绩。",
-          "keyProgress": "随着华盛顿和北京之间人工智能霸主之争的加剧，Moonshot 的 Kimi K3 是中国新人工智能模型浪潮之一，近几个月来，这些模型在性能上取得了飞跃。行业观察人士表示，通过海外云提供商获得先进计算能力是中国人工智能模型获得能力的关键因素。”当被问及中国公司在海外使用英伟达计算来训练人工智能模型的情况时，一位白宫官员告诉 CNBC：“特朗普政府实施了现代历史上最严格的出口管制制度，并仍然致力于维护美国的国家和经济安全。美国正在讨论立法来堵住这一漏洞，但在产生影响之前仍然存在障碍。",
-          "whyItMatters": "“美国禁止英伟达最好的芯片进入中国。现在它正试图堵住一个关键漏洞”如果继续发展，可能通过能源价格、航运、贸易、汇率或市场预期传导到国内。了解它的意义在于判断后续风险，而不只停留在事件本身。",
-          "userRelevance": "即使你不在中国、美国，“美国禁止英伟达最好的芯片进入中国。现在它正试图堵住一个关键漏洞”也可能通过能源价格、国际航运、贸易成本和市场预期间接影响国内生活与工作判断。",
-          "whatToWatch": "接下来要看“美国禁止英伟达最好的芯片进入中国。现在它正试图堵住一个关键漏洞”是否出现更细的城市、行业、平台或企业数据，以及这一变化能否连续保持。"
+          "background": "数据显示，在发布最新业绩之前，2025 年全年净利润下降了 4.5%，这是有记录以来的首次年度下降。中国经济第二季度增速为2022年第四季度以来最弱，包括房地产开发和基础设施项目在内的城市固定资产投资前六个月同比下降5.7%。周末发布半年度财务报告后，周一股价短暂下跌，截至周二，该公司年初至今的跌幅达到 5.7%。",
+          "keyProgress": "酒精含量53%的“白酒”长期以来一直是政府和商务宴请敬酒和达成交易的主食，以至于茅台的股票成为市场的领头羊。贵州茅台本月的半年报显示净利润罕见下降，下降1.95%至445亿元人民币（66亿美元）。Wind资讯的数据显示，这是自2014年以来今年前六个月的首次下降，也是自2002年以来的第二次下降。叶说，当房地产行业蓬勃发展时，自然会出现更多涉及优质白酒消费的场景。",
+          "whyItMatters": "“中国白酒制造商茅台的低迷对中国经济有何影响”如果继续发展，可能通过能源价格、航运、贸易、汇率或市场预期传导到国内。了解它的意义在于判断后续风险，而不只停留在事件本身。",
+          "userRelevance": "即使你不在中国、贵州，“中国白酒制造商茅台的低迷对中国经济有何影响”也可能通过能源价格、国际航运、贸易成本和市场预期间接影响国内生活与工作判断。",
+          "whatToWatch": "接下来要看“中国白酒制造商茅台的低迷对中国经济有何影响”是否出现更细的城市、行业、平台或企业数据，以及这一变化能否连续保持。"
         },
         "sourceLinks": [
           {
             "title": "CNBC World News RSS",
-            "url": "https://www.cnbc.com/2026/08/19/china-ai-nvidia-chips-us-export-controls.html",
+            "url": "https://www.cnbc.com/2026/08/19/china-economy-moutai-ai-property.html",
             "sourceId": "cnbc-world-rss",
-            "publishedAt": "2026-08-19T10:32:51.000Z",
+            "publishedAt": "2026-08-18T23:58:09.000Z",
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-19T22:56:26.691Z",
+            "fetchedAt": "2026-08-19T23:34:36.412Z",
             "sourceMethod": "rss",
             "verificationStatus": "pending"
           }
         ],
-        "images": [
-          {
-            "url": "https://image.cnbcfm.com/api/v1/image/108340342-17851436121785143610-47413843195-1080pnbcnews.jpg?v=1785143611&amp;w=750&amp;h=422&amp;vtcrop=y",
-            "sourceUrl": "https://www.cnbc.com/2026/08/19/china-ai-nvidia-chips-us-export-controls.html"
-          }
-        ],
-        "generatedAt": "2026-08-19T22:56:21.877Z"
+        "images": [],
+        "generatedAt": "2026-08-19T23:34:30.887Z"
       },
       {
         "id": "draft-real-xinhua-tech-17k4kqd",
@@ -628,13 +611,13 @@
             "language": "zh",
             "originalLanguage": "zh",
             "translationStatus": "not-needed",
-            "fetchedAt": "2026-08-19T22:56:25.825Z",
+            "fetchedAt": "2026-08-19T23:34:35.193Z",
             "sourceMethod": "web",
             "verificationStatus": "confirmed"
           }
         ],
         "images": [],
-        "generatedAt": "2026-08-19T22:56:21.877Z"
+        "generatedAt": "2026-08-19T23:34:30.887Z"
       },
       {
         "id": "draft-real-xinhua-tech-nsx5vv",
@@ -674,13 +657,13 @@
             "language": "zh",
             "originalLanguage": "zh",
             "translationStatus": "not-needed",
-            "fetchedAt": "2026-08-19T22:56:25.825Z",
+            "fetchedAt": "2026-08-19T23:34:35.193Z",
             "sourceMethod": "web",
             "verificationStatus": "confirmed"
           }
         ],
         "images": [],
-        "generatedAt": "2026-08-19T22:56:21.877Z"
+        "generatedAt": "2026-08-19T23:34:30.887Z"
       },
       {
         "id": "draft-real-xinhua-tech-7qwzfo",
@@ -720,13 +703,13 @@
             "language": "zh",
             "originalLanguage": "zh",
             "translationStatus": "not-needed",
-            "fetchedAt": "2026-08-19T22:56:25.825Z",
+            "fetchedAt": "2026-08-19T23:34:35.193Z",
             "sourceMethod": "web",
             "verificationStatus": "confirmed"
           }
         ],
         "images": [],
-        "generatedAt": "2026-08-19T22:56:21.877Z"
+        "generatedAt": "2026-08-19T23:34:30.887Z"
       },
       {
         "id": "draft-real-xinhua-tech-hng39u",
@@ -766,16 +749,16 @@
             "language": "zh",
             "originalLanguage": "zh",
             "translationStatus": "not-needed",
-            "fetchedAt": "2026-08-19T22:56:25.825Z",
+            "fetchedAt": "2026-08-19T23:34:35.193Z",
             "sourceMethod": "web",
             "verificationStatus": "confirmed"
           }
         ],
         "images": [],
-        "generatedAt": "2026-08-19T22:56:21.877Z"
+        "generatedAt": "2026-08-19T23:34:30.887Z"
       },
       {
-        "id": "draft-real-techcrunch-ai-rss-4ahz51",
+        "id": "draft-real-techcrunch-ai-rss-40idg2",
         "title": "OpenAI 寻求通过新的客户隐私保护来超越 Anthropic",
         "oneLine": "最新进展：OpenAI 寻求通过新的客户隐私保护来超越 Anthropic。",
         "importance": "B",
@@ -811,16 +794,16 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-19T22:56:27.265Z",
+            "fetchedAt": "2026-08-19T23:34:37.269Z",
             "sourceMethod": "rss",
             "verificationStatus": "pending"
           }
         ],
         "images": [],
-        "generatedAt": "2026-08-19T22:56:21.877Z"
+        "generatedAt": "2026-08-19T23:34:30.887Z"
       },
       {
-        "id": "draft-real-techcrunch-ai-rss-15f7k98",
+        "id": "draft-real-techcrunch-ai-rss-1696dc5",
         "title": "Cognition 首席执行官否认 SpaceX 试图收购这家初创公司的报道",
         "oneLine": "趋势信号：据彭博社周三援引知情人士的话报道，埃隆·马斯克 (Elon Musk) 的 SpaceX 试图收购人工智能编码初创公司 Cognition，因为该公司正在努力在人工智能竞赛中赶上 OpenAI、Anthropic 和谷歌。",
         "importance": "B",
@@ -856,16 +839,16 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-19T22:56:27.265Z",
+            "fetchedAt": "2026-08-19T23:34:37.269Z",
             "sourceMethod": "rss",
             "verificationStatus": "pending"
           }
         ],
         "images": [],
-        "generatedAt": "2026-08-19T22:56:21.877Z"
+        "generatedAt": "2026-08-19T23:34:30.887Z"
       },
       {
-        "id": "draft-real-techcrunch-ai-rss-1jn7xz8",
+        "id": "draft-real-techcrunch-ai-rss-1jx7jo7",
         "title": "人工智能现在应该赢得人们的支持——但事实并非如此",
         "oneLine": "趋势信号：尽管技术取得了进步，人工智能在现实世界中的声誉却越来越差。",
         "importance": "B",
@@ -901,7 +884,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-19T22:56:27.265Z",
+            "fetchedAt": "2026-08-19T23:34:37.269Z",
             "sourceMethod": "rss",
             "verificationStatus": "pending"
           }
@@ -924,10 +907,10 @@
             "sourceUrl": "https://techcrunch.com/2026/08/19/ai-was-supposed-to-win-people-over-by-now-it-hasnt/"
           }
         ],
-        "generatedAt": "2026-08-19T22:56:21.877Z"
+        "generatedAt": "2026-08-19T23:34:30.887Z"
       },
       {
-        "id": "draft-real-techcrunch-ai-rss-iu2rzx",
+        "id": "draft-real-techcrunch-ai-rss-gw5k54",
         "title": "谷歌为搜索和 Gemini 提供新的人工智能研究工具",
         "oneLine": "趋势信号：谷歌周三宣布在搜索和双子座上推出一系列新的学习工具，包括人工智能生成的交互式视觉效果、3D 模拟、专门的学生中心、定制的练习测验等等。",
         "importance": "B",
@@ -963,7 +946,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-19T22:56:27.265Z",
+            "fetchedAt": "2026-08-19T23:34:37.269Z",
             "sourceMethod": "rss",
             "verificationStatus": "pending"
           }
@@ -978,70 +961,63 @@
             "sourceUrl": "https://techcrunch.com/2026/08/19/google-launches-new-study-tools-for-students-across-search-and-gemini/"
           }
         ],
-        "generatedAt": "2026-08-19T22:56:21.877Z"
+        "generatedAt": "2026-08-19T23:34:30.887Z"
       },
       {
-        "id": "draft-cluster-real-gov-uk-news-1n04uvb",
-        "title": "DfE 更新 2026 年 8 月 19 日",
-        "oneLine": "风险提醒：《DfE 更新 2026 年 8 月 19 日》我们使用一些必要的 cookie 来使该网站正常运行。",
+        "id": "draft-real-cas-science-news-1xmy9m7",
+        "title": "研究揭示棕榈酸破坏内脏脂肪免疫稳态并加剧肥胖炎症新机制",
+        "oneLine": "最新进展：研究揭示棕榈酸破坏内脏脂肪免疫稳态并加剧肥胖炎症新机制。",
         "importance": "B",
-        "credibility": "多源确认",
+        "credibility": "官方来源",
         "tags": [
           "B",
           "industry",
-          "world",
-          "policy",
-          "local"
+          "technology",
+          "education"
         ],
         "industries": [
-          "generalPublic",
-          "localLife",
-          "hrRecruiting",
-          "financeInvestment",
-          "operationsGrowth"
+          "technologyEngineering",
+          "educationResearch"
         ],
         "section": "industry",
         "body": {
-          "background": "出生、死亡、婚姻和护理 商业和自营职业 儿童保育和养育 英国公民身份和生活 犯罪、司法和法律 残疾人 驾驶和交通 教育和学习 就业人员 环境和乡村 住房和当地服务 金钱和税收 护照、旅行和国外生活 签证和移民 工作、工作和养老金 部门 部门、机构和公共机构 新闻 新闻故事、演讲、信件和通知 指导和监管 详细指导、法规和规则 研究和统计 报告、分析和官方统计政策文件和咨询 咨询和战略 透明度 数据、信息自由发布和公司报告 教育、培训和技能 学生的资助和财务 教育部为学院、地方当局和继续教育提供者提供的有关资金、保证和资源管理的最新信息和行动。我们使用一些必要的 cookie 来使该网站正常运行。我们希望设置额外的 cookie 来了解您如何使用 GOV.UK、记住您的设置并改善政府服务。",
-          "keyProgress": "我们还使用其他网站设置的 cookie 来帮助我们从他们的服务中提供内容。您可以随时更改您的 cookie 设置。为了减少暑假期间的通信，DfE 更新将每隔一周进行一次。这反映了这样一个事实：在暑假期间，常规操作信息可能仍然与某些接收者相关。",
-          "whyItMatters": "“DfE 更新 2026 年 8 月 19 日”的直接价值是帮助你判断是否需要调整出行、居住或工作安排。影响地区、持续时间、预警等级和官方避险建议比事件热度更重要。",
-          "userRelevance": "对于“DfE 更新 2026 年 8 月 19 日”，如果你居住、出行或有家人在印度尼西亚、印度，应及时查看当地预警和交通变化；不在相关地区时，通常无需改变日常安排。",
-          "whatToWatch": "接下来要看“DfE 更新 2026 年 8 月 19 日”的影响范围是否扩大、预警等级是否变化，以及是否出现与你所在城市相关的提醒。"
+          "background": "此前，脂肪组织被看作是储存多余能量的“仓库”。当营养长期过剩，内脏脂肪中的免疫平衡可能被打破，原本受控制的局部炎症逐渐蔓延，并影响全身代谢。近日，中国科学院上海营养与健康研究所等 揭示了棕榈酸破坏内脏脂肪免疫稳态并加剧肥胖炎症的新机制 。",
+          "keyProgress": "在人类内脏脂肪样本中，CREBZF水平与体重指数以及胰岛素抵抗相关指标呈正相关，说明该分子可能参与肥胖状态下的免疫和代谢异常。而敲除Treg细胞中的Crebzf基因，则能缓解棕榈酸造成的葡萄糖耐量和胰岛素敏感性下降，并减轻内脏脂肪组织的免疫细胞浸润和炎症损伤。科研人员发现脂肪酸影响免疫和代谢（图片由AI生成） 棕榈酸破坏ICOS hi Treg细胞功能加剧内脏脂肪炎症的模式图答案或许藏在腹腔深处那层内脏脂肪里。",
+          "whyItMatters": "“研究揭示棕榈酸破坏内脏脂肪免疫稳态并加剧肥胖炎症新机制”提供了一个具体的研究进展信号。它是否重要，要看实验指标、可复现性、开源材料和真实应用，而不能只看论文标题。",
+          "userRelevance": "如果你从事科研、工程或正在攻读相关学位，可以重点查看“研究揭示棕榈酸破坏内脏脂肪免疫稳态并加剧肥胖炎症新机制”的实验条件、指标和可复现性；其他用户可把它作为技术趋势背景了解。",
+          "whatToWatch": "接下来要看“研究揭示棕榈酸破坏内脏脂肪免疫稳态并加剧肥胖炎症新机制”是否公开论文全文、代码或完整实验条件，以及是否得到独立复现和实际应用。"
         },
         "sourceLinks": [
           {
-            "title": "GOV.UK News and Communications",
-            "url": "https://www.gov.uk/government/publications/dfe-update-19-august-2026",
-            "sourceId": "gov-uk-news",
-            "publishedAt": "2026-08-19T13:37:08.000Z",
+            "title": "中国科学院科研动态",
+            "url": "https://www.cas.cn/syky/202608/t20260819_5118566.shtml",
+            "sourceId": "cas-science-news",
+            "publishedAt": "2026-08-19T00:00:00+08:00",
             "language": "zh",
-            "originalLanguage": "en",
-            "translationStatus": "translated",
-            "fetchedAt": "2026-08-19T22:56:26.778Z",
-            "sourceMethod": "rss",
-            "verificationStatus": "confirmed"
-          },
-          {
-            "title": "GDACS 灾害 Feed",
-            "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1560289",
-            "sourceId": "gdacs-feed",
-            "publishedAt": "2026-08-19T16:38:43.000Z",
-            "language": "zh",
-            "originalLanguage": "en",
-            "translationStatus": "translated",
-            "fetchedAt": "2026-08-19T22:56:25.437Z",
-            "sourceMethod": "rss",
+            "originalLanguage": "zh",
+            "translationStatus": "not-needed",
+            "fetchedAt": "2026-08-19T23:34:32.435Z",
+            "sourceMethod": "web",
             "verificationStatus": "confirmed"
           }
         ],
-        "images": [],
-        "generatedAt": "2026-08-19T22:56:21.877Z"
+        "images": [
+          {
+            "url": "https://www.cas.cn/syky/202608/W020260819308834678735.jpg",
+            "sourceUrl": "https://www.cas.cn/syky/202608/t20260819_5118566.shtml"
+          },
+          {
+            "url": "https://www.cas.cn/syky/202608/W020260819307618057981.png",
+            "sourceUrl": "https://www.cas.cn/syky/202608/t20260819_5118566.shtml"
+          }
+        ],
+        "generatedAt": "2026-08-19T23:34:30.887Z"
       }
     ],
-    "estimatedReadMinutes": 31,
+    "estimatedReadMinutes": 30,
     "pageCount": 3,
     "topCardId": "draft-real-xinhua-world-12ocgkw",
-    "generatedAt": "2026-08-19T22:56:21.877Z",
+    "generatedAt": "2026-08-19T23:34:30.887Z",
     "pushSlots": [
       "08:30",
       "12:30",
@@ -1056,24 +1032,24 @@
     "editionCardIds": [
       "draft-real-xinhua-world-12ocgkw",
       "draft-real-xinhua-world-1i65hb4",
-      "draft-cluster-real-npr-world-rss-4d7pds",
-      "draft-real-cnbc-world-rss-11nfmo1",
-      "draft-real-un-news-rss-17bxzqs",
+      "draft-real-npr-world-rss-4d7pds",
+      "draft-real-cnbc-world-rss-11dg0z2",
+      "draft-real-un-news-rss-17lxlfr",
       "draft-real-xinhua-world-1hp7mq2",
       "draft-real-xinhua-world-18pplhm",
-      "draft-real-un-news-rss-h8azph",
-      "draft-real-cnbc-world-rss-otu75z",
+      "draft-real-un-news-rss-gybe0i",
+      "draft-real-cnbc-world-rss-nfw6p4",
       "draft-real-npr-world-rss-1bulpr4",
-      "draft-real-cnbc-world-rss-my6g5e",
+      "draft-real-cnbc-world-rss-1ffi0ww",
       "draft-real-xinhua-tech-17k4kqd",
       "draft-real-xinhua-tech-nsx5vv",
       "draft-real-xinhua-tech-7qwzfo",
       "draft-real-xinhua-tech-hng39u",
-      "draft-real-techcrunch-ai-rss-4ahz51",
-      "draft-real-techcrunch-ai-rss-15f7k98",
-      "draft-real-techcrunch-ai-rss-1jn7xz8",
-      "draft-real-techcrunch-ai-rss-iu2rzx",
-      "draft-cluster-real-gov-uk-news-1n04uvb"
+      "draft-real-techcrunch-ai-rss-40idg2",
+      "draft-real-techcrunch-ai-rss-1696dc5",
+      "draft-real-techcrunch-ai-rss-1jx7jo7",
+      "draft-real-techcrunch-ai-rss-gw5k54",
+      "draft-real-cas-science-news-1xmy9m7"
     ],
     "carriedCardIds": []
   }

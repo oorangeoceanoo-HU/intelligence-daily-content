@@ -6,6 +6,7 @@ const candidateGenerator_1 = require("./candidateGenerator");
 const dailyIssueBuilder_1 = require("./dailyIssueBuilder");
 const editionIssueMerger_1 = require("./editionIssueMerger");
 const profileMapping_1 = require("./profileMapping");
+const textSimilarity_1 = require("./textSimilarity");
 const isCompletePersonalizedIssue = (issue, minimumCards = 15) => issue.cards.length >= minimumCards && issue.pageCount === 3;
 exports.isCompletePersonalizedIssue = isCompletePersonalizedIssue;
 const specificIndustries = (items) => items.filter((item) => item !== "generalPublic" && item !== "localLife");
@@ -42,14 +43,25 @@ const preferenceAdjustment = (candidate, preferences) => {
     const values = matchedEntries.map(([, value]) => value);
     const temporaryMatches = (preferences.temporaryFocus ?? [])
         .filter((focus) => temporaryFocusMatches(focus, candidate));
+    const feedbackMatches = Object.values(preferences.contentFeedback ?? {}).filter((feedback) => {
+        const feedbackText = [feedback.title, feedback.scope].filter(Boolean).join(" ");
+        return (0, textSimilarity_1.textSimilarity)(feedbackText, candidate.title) >= 0.2 ||
+            (0, textSimilarity_1.textSimilarity)(feedbackText, candidate.oneLine) >= 0.16;
+    });
     const hasPriority = values.includes("重点");
     const hasBlocked = values.includes("不看") && !hasPriority;
+    const hasNotInterested = feedbackMatches.some((feedback) => feedback.action === "not_interested");
+    const hasLessFeedback = feedbackMatches.some((feedback) => feedback.action === "less");
+    const hasMoreFeedback = feedbackMatches.some((feedback) => feedback.action === "more");
     const adjustment = (hasPriority ? 15 : 0) +
         (values.includes("少看") ? -10 : 0) +
-        temporaryMatches.length * 12;
+        temporaryMatches.length * 12 +
+        (hasMoreFeedback ? 12 : 0) +
+        (hasLessFeedback ? -12 : 0) +
+        (hasNotInterested ? -24 : 0);
     return {
         adjustment,
-        blocked: hasBlocked,
+        blocked: hasBlocked || hasNotInterested,
         temporaryMatches
     };
 };
@@ -215,7 +227,8 @@ function buildPersonalizedDailyIssue(params) {
     const preferences = {
         topicIntensity: params.preferences?.topicIntensity ?? {},
         temporaryFocus: params.preferences?.temporaryFocus ?? [],
-        pushPlan: params.preferences?.pushPlan
+        pushPlan: params.preferences?.pushPlan,
+        contentFeedback: params.preferences?.contentFeedback ?? {}
     };
     const minimumCards = params.minimumCards ?? 15;
     const comfortableMaxCards = params.comfortableMaxCards ?? 20;

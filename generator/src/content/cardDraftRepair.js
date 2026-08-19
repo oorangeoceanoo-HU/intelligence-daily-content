@@ -85,8 +85,8 @@ const normalizeBodyFragments = (card, actions) => {
 };
 const normalizeTruncatedFields = (card, actions) => {
     setTextField(actions, card, "oneLine", shortenToCompleteSentence(card.oneLine, 160), "去掉摘要截断痕迹");
-    setTextField(actions, card.body, "background", shortenToCompleteSentence(card.body.background, 220), "去掉背景截断痕迹");
-    setTextField(actions, card.body, "keyProgress", shortenToCompleteSentence(card.body.keyProgress, 260), "去掉进展截断痕迹");
+    setTextField(actions, card.body, "background", shortenToCompleteSentence(card.body.background, 360), "去掉背景截断痕迹");
+    setTextField(actions, card.body, "keyProgress", shortenToCompleteSentence(card.body.keyProgress, 460), "去掉进展截断痕迹");
 };
 const repairShortFields = (card, actions) => {
     if (compact(card.oneLine).length < 24) {
@@ -112,7 +112,7 @@ const repairLeadBackground = (card, detail, actions) => {
         .filter((sentence) => (0, textSimilarity_1.textSimilarity)(card.title, sentence) < 0.72)
         .find((sentence) => !/^(一是|二是|三是|四是|五是|第[一二三四五六七八九十]+条)/.test(sentence));
     if (replacement) {
-        setTextField(actions, card.body, "background", shortenToCompleteSentence(replacement, 220), "改用与导读不同的背景信息");
+        setTextField(actions, card.body, "background", shortenToCompleteSentence(replacement, 360), "改用与导读不同的背景信息");
         return;
     }
     const officialRisk = card.credibility === "官方来源" && card.tags.some((tag) => ["risk", "disaster", "publicSafety"].includes(tag));

@@ -787,16 +787,16 @@ function buildBodyFromArticleDetail(candidate, detail, lead = candidate.oneLine)
         return !sentenceFacts.some((fact) => leadFacts.has(fact));
     });
     const backgroundPool = distinctSentences.filter((sentence) => !/^(一是|二是|三是|四是|五是|第[一二三四五六七八九十]+条)/.test(sentence));
-    const backgroundSentences = pickSentences(backgroundPool.length ? backgroundPool : distinctSentences, /背景|此前|是指|不同于|包括|用于|统计范围|调查范围|近日|日前|受|发生|印发|发布|开展|公布|according|announced|reported/i, 1);
+    const backgroundSentences = pickSentences(backgroundPool.length ? backgroundPool : distinctSentences, /背景|此前|是指|不同于|包括|用于|统计范围|调查范围|近日|日前|受|发生|印发|发布|开展|公布|according|announced|reported/i, 3);
     const keyPool = hasCategory(candidate, ["policy"])
         ? distinctSentences.filter((sentence) => sentence.length <= 300 &&
             !/^(坚持以|总体要求|指导思想|[一二三四五六七八九十]+、|（[一二三四五六七八九十]+）)/.test(sentence))
         : distinctSentences;
     const keySentences = pickSentences(keyPool.filter((sentence) => !backgroundSentences.includes(sentence) &&
-        (0, textSimilarity_1.textSimilarity)(lead, sentence) < 0.78), /增长|下降|推动|完善|建立|健全|修订|要求|明确|执行|实施|启动|指数|市场|消费|招聘|教师|AI|模型|风险|预警|affected|requires|launched|increased/i, 2);
-    const background = joinAndCompact(backgroundSentences, 220);
-    const keyProgress = joinAndCompact(keySentences, 260) ||
-        compactText(`${candidate.title}。${candidate.body.keyProgress}`, 220);
+        (0, textSimilarity_1.textSimilarity)(lead, sentence) < 0.78), /增长|下降|推动|完善|建立|健全|修订|要求|明确|执行|实施|启动|指数|市场|消费|招聘|教师|AI|模型|风险|预警|affected|requires|launched|increased/i, 4);
+    const background = joinAndCompact(backgroundSentences, 360);
+    const keyProgress = joinAndCompact(keySentences, 460) ||
+        compactText(`${candidate.title}。${candidate.body.keyProgress}`, 360);
     return {
         background: background || candidate.body.background,
         keyProgress: keyProgress || candidate.body.keyProgress,

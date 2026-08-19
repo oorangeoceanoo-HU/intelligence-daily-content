@@ -7,6 +7,15 @@ if (!nodeRequire) {
 }
 const fs = nodeRequire("node:fs/promises");
 const path = nodeRequire("node:path");
+const contentFeedbackKey = "__card_feedback__";
+const splitTopicPreferences = (value) => {
+    const raw = value ?? {};
+    const contentFeedback = raw[contentFeedbackKey] && typeof raw[contentFeedbackKey] === "object"
+        ? raw[contentFeedbackKey]
+        : {};
+    const topicIntensity = Object.fromEntries(Object.entries(raw).filter(([key, entry]) => key !== contentFeedbackKey && typeof entry === "string"));
+    return { topicIntensity, contentFeedback };
+};
 const editionOrder = {
     morning: 0,
     midday: 1,
@@ -147,9 +156,10 @@ async function main() {
             userId: row.id,
             profile,
             preferences: {
-                topicIntensity: preferences?.topic_intensity ?? {},
+                topicIntensity: splitTopicPreferences(preferences?.topic_intensity).topicIntensity,
                 temporaryFocus: preferences?.temporary_focus ?? [],
-                pushPlan: preferences?.push_plan
+                pushPlan: preferences?.push_plan,
+                contentFeedback: splitTopicPreferences(preferences?.topic_intensity).contentFeedback
             },
             pool: input.personalizationPool,
             date: input.issue.date,

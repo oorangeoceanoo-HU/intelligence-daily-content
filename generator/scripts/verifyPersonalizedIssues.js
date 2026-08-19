@@ -124,6 +124,29 @@ profiles.forEach(({ id }) => {
     assert(result?.issue.userId === id, `${id} issue was assigned to another account`);
     assert((result?.issue.cards.length ?? 0) >= 4, `${id} issue fell below the test minimum`);
 });
+const feedbackResult = (0, personalizedIssue_1.buildPersonalizedDailyIssue)({
+    userId: "ai-feedback-user",
+    profile: profiles[0].profile,
+    preferences: {
+        topicIntensity: {},
+        temporaryFocus: [],
+        contentFeedback: {
+            "candidate-ai-model-release": {
+                action: "not_interested",
+                title: "主流 AI 公司发布多模态模型能力更新"
+            }
+        }
+    },
+    pool,
+    date: "2026-08-18",
+    edition: "morning",
+    editionLabel: "晨间版",
+    generatedAt,
+    minimumCards: 4,
+    comfortableMaxCards: 6,
+    absoluteMaxCards: 7
+});
+assert(!feedbackResult.issue.cards.some((card) => card.id === "draft-candidate-ai-model-release"), "Not-interested feedback did not remove a matching non-critical item");
 const concentratedPool = Array.from({ length: 30 }, (_, index) => {
     const base = sampleCandidates_1.sampleCandidateItems[index % sampleCandidates_1.sampleCandidateItems.length];
     const sourceId = index < 20 ? "dominant-source" : `alternate-source-${index}`;
@@ -183,5 +206,6 @@ console.log(JSON.stringify({
     diversityRegression: {
         cards: diversityResult.issue.cards.length,
         pageCount: diversityResult.issue.pageCount
-    }
+    },
+    feedbackRegression: feedbackResult.issue.cards.map((card) => card.id)
 }, null, 2));

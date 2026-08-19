@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "publishedAt": "2026-08-19T13:28:17.731Z",
+  "publishedAt": "2026-08-19T13:51:48.456Z",
   "issue": {
     "id": "daily-public-2026-08-19",
     "date": "2026-08-19",
@@ -43,7 +43,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-19T13:28:26.957Z",
+            "fetchedAt": "2026-08-19T13:51:53.435Z",
             "sourceMethod": "rss",
             "verificationStatus": "confirmed"
           }
@@ -66,7 +66,7 @@
             "sourceUrl": "https://www.npr.org/2026/08/19/g-s1-139173/up-first-newsletter-florida-primary-canada-tariffs-trump-meta-trial"
           }
         ],
-        "generatedAt": "2026-08-19T13:28:17.731Z"
+        "generatedAt": "2026-08-19T13:51:48.456Z"
       },
       {
         "id": "draft-real-cnbc-world-rss-1a6wobr",
@@ -105,7 +105,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-19T13:28:27.197Z",
+            "fetchedAt": "2026-08-19T13:51:59.047Z",
             "sourceMethod": "rss",
             "verificationStatus": "pending"
           }
@@ -116,7 +116,7 @@
             "sourceUrl": "https://www.cnbc.com/2026/08/19/ukraine-war-fedorov-zelenskky-election.html"
           }
         ],
-        "generatedAt": "2026-08-19T13:28:17.731Z"
+        "generatedAt": "2026-08-19T13:51:48.456Z"
       },
       {
         "id": "draft-real-un-news-rss-gobsbj",
@@ -153,7 +153,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-19T13:28:27.188Z",
+            "fetchedAt": "2026-08-19T13:51:53.769Z",
             "sourceMethod": "rss",
             "verificationStatus": "confirmed"
           }
@@ -164,7 +164,7 @@
             "sourceUrl": "https://news.un.org/feed/view/en/story/2026/08/1168165"
           }
         ],
-        "generatedAt": "2026-08-19T13:28:17.731Z"
+        "generatedAt": "2026-08-19T13:51:48.456Z"
       },
       {
         "id": "draft-real-cnbc-world-rss-vjalgu",
@@ -253,7 +253,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-19T13:28:27.197Z",
+            "fetchedAt": "2026-08-19T13:51:59.047Z",
             "sourceMethod": "rss",
             "verificationStatus": "pending"
           }
@@ -268,7 +268,7 @@
             "sourceUrl": "https://www.cnbc.com/2026/08/19/us-iran-war-trump-hormuz.html"
           }
         ],
-        "generatedAt": "2026-08-19T13:28:17.731Z"
+        "generatedAt": "2026-08-19T13:51:48.456Z"
       },
       {
         "id": "draft-real-npr-world-rss-1f6gy2s",
@@ -302,7 +302,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-19T13:28:26.957Z",
+            "fetchedAt": "2026-08-19T13:51:53.435Z",
             "sourceMethod": "rss",
             "verificationStatus": "confirmed"
           }
@@ -325,7 +325,7 @@
             "sourceUrl": "https://www.npr.org/2026/08/19/nx-s1-5937400/israel-strikes-syria"
           }
         ],
-        "generatedAt": "2026-08-19T13:28:17.731Z"
+        "generatedAt": "2026-08-19T13:51:48.456Z"
       },
       {
         "id": "draft-real-cnbc-world-rss-el02gj",
@@ -365,13 +365,13 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-19T13:28:27.197Z",
+            "fetchedAt": "2026-08-19T13:51:59.047Z",
             "sourceMethod": "rss",
             "verificationStatus": "pending"
           }
         ],
         "images": [],
-        "generatedAt": "2026-08-19T13:28:17.731Z"
+        "generatedAt": "2026-08-19T13:51:48.456Z"
       },
       {
         "id": "draft-real-cnbc-world-rss-156qhhu",
@@ -460,7 +460,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-19T13:28:27.197Z",
+            "fetchedAt": "2026-08-19T13:51:59.047Z",
             "sourceMethod": "rss",
             "verificationStatus": "pending"
           }
@@ -471,7 +471,7 @@
             "sourceUrl": "https://www.cnbc.com/2026/08/19/china-ai-nvidia-chips-us-export-controls.html"
           }
         ],
-        "generatedAt": "2026-08-19T13:28:17.731Z"
+        "generatedAt": "2026-08-19T13:51:48.456Z"
       },
       {
         "id": "draft-real-techcrunch-ai-rss-ni0jrn",
@@ -495,7 +495,7 @@
         ],
         "section": "ai",
         "body": {
-          "background": "这是制药行业已经面临的挑战，在动物试验中有效进入临床试验的药物中，90% 的药物并未获得用于人体的监管批准。HIVE 是该公司建造的模块化机器人实验室，可以培养 20 种人体组织，然后自动剂量和监测它们，生成当今人工智能模型所缺少的因果生物数据 - 如今的数据主要来自动物测试或单个细胞或蛋白质而不是活体组织的研究。“如果没有人体测试，这些 [AI] 模型会做什么？",
+          "background": "这是制药行业已经面临的一个挑战，在动物试验中足够有效并进入临床试验的药物中，90% 的药物并未获得用于人类的监管批准。HIVE 是该公司建造的模块化机器人实验室，可以培养 20 种人体组织，然后自动剂量和监测它们，生成当今人工智能模型所缺少的因果生物数据 - 如今的数据主要来自动物测试或单个细胞或蛋白质而不是活体组织的研究。“如果没有人体测试，这些 [AI] 模型会做什么？",
           "keyProgress": "Vivodyne 首席执行官兼联合创始人 Andrei Georgescu 问道。”就连 Anthropic 首席执行官达里奥·阿莫迪 (Dario Amodei) 也在周末写道，人工智能将治愈癌症的说法已经变得陈词滥调，不再可信——正如他所说，“真正有效的就是治愈癌症”。Sam Altman 多次引用治愈癌症作为 OpenAI 推动 AGI 和更大规模计算扩展的理由；Isomorphic Labs 是在 Alphafold 的基础上建立的，预计将在今年年底进行首次试验，原计划于 2025 年进行。",
           "whyItMatters": "“人工智能距离治愈癌症还很遥远。这家初创公司表示，它知道需要做什么”能帮助你判断这项能力是否已经进入工程、产品或商业场景，并据此调整技术选型、产品规划、学习重点或职业判断。",
           "userRelevance": "如果你从事AI 产品、AI 技术、产品管理、技术研发，可以重点判断“人工智能距离治愈癌症还很遥远。这家初创公司表示，它知道需要做什么”是否已经具备产品落地、技术选型或业务合作价值。",
@@ -510,7 +510,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-19T13:28:28.813Z",
+            "fetchedAt": "2026-08-19T13:51:55.227Z",
             "sourceMethod": "rss",
             "verificationStatus": "pending"
           }
@@ -521,7 +521,7 @@
             "sourceUrl": "https://techcrunch.com/2026/08/19/ai-isnt-close-to-curing-cancer-this-startup-says-it-knows-what-it-will-take/"
           }
         ],
-        "generatedAt": "2026-08-19T13:28:17.731Z"
+        "generatedAt": "2026-08-19T13:51:48.456Z"
       },
       {
         "id": "draft-real-techcrunch-ai-rss-1i5j1qn",
@@ -546,7 +546,7 @@
         "section": "ai",
         "body": {
           "background": "周二，Relativity Networks 宣布获得 2200 万美元的 SAFE 票据融资，投资方包括 Rhapsody Venture Partners、Bell Ventures Inc. 和 Faster Than Glass LLC 等。SAFE 票据是用于种子前和种子轮的标准方法，其中一旦公司筹集了第一轮定价资金，投资就会转移到特定数量的股票。当 AI 计算发生在单个 GPU 机架上时，光纤延迟很容易被忽视，但随着规模的扩大，GPU 之间的物理距离也随之增加。",
-          "keyProgress": "首席执行官 Jason Eisenholz 估计，信号在传统光纤中传播一公里大约需要五微秒。尽管大多数人都将光纤速度视为既定事实，但有一家公司押注更快的光纤可能会改变数据中心扩建背后的地理数学。该公司还从一家领先的超大规模企业那里获得了价值 4000 万美元的后续订单，该企业拒绝在本文中透露姓名。Relativity Networks 主营空心光纤，这是一种很少部署的技术，其数据传输速度比传统光纤快 30%。",
+          "keyProgress": "首席执行官 Jason Eichenholz 估计，信号在传统光纤中传播一公里大约需要五微秒。尽管大多数人都将光纤速度视为既定事实，但有一家公司押注更快的光纤可能会改变数据中心扩建背后的地理数学。该公司还从一家领先的超大规模企业那里获得了价值 4000 万美元的后续订单，该企业拒绝在本文中透露姓名。Relativity Networks 经营空心光纤，这是一种很少部署的技术，其数据传输速度比传统光纤快 50%。",
           "whyItMatters": "“Relativity Networks 融资 2200 万美元，为数据中心提供更快的光纤”能帮助你判断这项能力是否已经进入工程、产品或商业场景，并据此调整技术选型、产品规划、学习重点或职业判断。",
           "userRelevance": "如果你从事AI 产品、AI 技术、产品管理、技术研发，可以重点判断“Relativity Networks 融资 2200 万美元，为数据中心提供更快的光纤”是否已经具备产品落地、技术选型或业务合作价值。",
           "whatToWatch": "接下来要看“Relativity Networks 融资 2200 万美元，为数据中心提供更快的光纤”是否有更多可靠来源、量产或应用进展，以及它会不会从单点消息发展成持续趋势。"
@@ -560,13 +560,13 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-19T13:28:28.813Z",
+            "fetchedAt": "2026-08-19T13:51:55.227Z",
             "sourceMethod": "rss",
             "verificationStatus": "pending"
           }
         ],
         "images": [],
-        "generatedAt": "2026-08-19T13:28:17.731Z"
+        "generatedAt": "2026-08-19T13:51:48.456Z"
       },
       {
         "id": "draft-real-cnbc-world-rss-14292u2",
@@ -604,65 +604,16 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-19T13:28:27.197Z",
+            "fetchedAt": "2026-08-19T13:51:59.047Z",
             "sourceMethod": "rss",
             "verificationStatus": "pending"
           }
         ],
         "images": [],
-        "generatedAt": "2026-08-19T13:28:17.731Z"
+        "generatedAt": "2026-08-19T13:51:48.456Z"
       },
       {
-        "id": "draft-real-cnbc-world-rss-11qh21c",
-        "title": "Moderna、默克癌症疫苗在后期试验中显示出希望； Moderna 股价飙升 90%",
-        "oneLine": "政策变化：在这篇文章中，默克和 Moderna 周三宣布，默克和 Moderna 的一种实验性个性​​化癌症疫苗在其首次后期试验中显示出积极的初步结果，使他们距离申请批准该治疗方案又近了一步。",
-        "importance": "B",
-        "credibility": "待确认",
-        "tags": [
-          "B",
-          "industry",
-          "world",
-          "policy",
-          "finance"
-        ],
-        "industries": [
-          "generalPublic",
-          "financeInvestment",
-          "operationsGrowth",
-          "ecommerceRetail"
-        ],
-        "section": "industry",
-        "body": {
-          "background": "Moderna 首席执行官斯蒂芬·班塞尔 (Stephane Bancel) 在接受 CNBC 节目“Squawk Box”采访时表示：“这对于医学、对于患者来说都是一个重要时刻。”第三阶段研究将继续评估其他结果，包括该疗法的总体生存获益。制药商计划在即将召开的国际医学会议上公布这些数据，但目前还不清楚他们计划何时在美国提交批准申请。",
-          "keyProgress": "该治疗还降低了癌症扩散到身体远处部位的风险。这些结果建立在今年早些时候相同方案的第二阶段试验积极数据的基础上。基于 mRNA 的注射剂与默克公司的免疫疗法 Keytruda 相结合，在超过 1,100 名高危或晚期黑色素瘤患者的三期试验中达到了关键目标，这些患者的可检测到的癌症已通过手术完全切除。默克公司的股价在盘前交易中上涨了 8% 以上，而 Moderna 的股价则飙升了约 90%。",
-          "whyItMatters": "“Moderna、默克癌症疫苗在后期试验中显示出希望； Moderna 股价飙升 90%”如果继续发展，可能通过能源价格、航运、贸易、汇率或市场预期传导到国内。了解它的意义在于判断后续风险，而不只停留在事件本身。",
-          "userRelevance": "即使你不在事发地区，“Moderna、默克癌症疫苗在后期试验中显示出希望； Moderna 股价飙升 90%”也可能通过能源价格、国际航运、贸易成本和市场预期间接影响国内生活与工作判断。",
-          "whatToWatch": "接下来要看“Moderna、默克癌症疫苗在后期试验中显示出希望； Moderna 股价飙升 90%”是否出现更细的城市、行业、平台或企业数据，以及这一变化能否连续保持。"
-        },
-        "sourceLinks": [
-          {
-            "title": "CNBC World News RSS",
-            "url": "https://www.cnbc.com/2026/08/19/moderna-merck-cancer-vaccine-shows-initial-late-stage-melanoma-data.html",
-            "sourceId": "cnbc-world-rss",
-            "publishedAt": "2026-08-19T12:57:32.000Z",
-            "language": "zh",
-            "originalLanguage": "en",
-            "translationStatus": "translated",
-            "fetchedAt": "2026-08-19T13:28:27.197Z",
-            "sourceMethod": "rss",
-            "verificationStatus": "pending"
-          }
-        ],
-        "images": [
-          {
-            "url": "https://image.cnbcfm.com/api/v1/image/108351449-17871406841787140679-47859846134-1080pnbcnews.jpg?v=1787140683&amp;w=750&amp;h=422&amp;vtcrop=y",
-            "sourceUrl": "https://www.cnbc.com/2026/08/19/moderna-merck-cancer-vaccine-shows-initial-late-stage-melanoma-data.html"
-          }
-        ],
-        "generatedAt": "2026-08-19T13:28:17.731Z"
-      },
-      {
-        "id": "draft-real-gov-uk-news-mn592m",
+        "id": "draft-real-gov-uk-news-mx4url",
         "title": "TRA对中国吊臂式升降机征收反倾销税",
         "oneLine": "政策变化：在总部位于米尔顿凯恩斯的英国动臂式升降机生产商 Niftylift Limited 提出申请后，TRA 发起了一项反倾销。",
         "importance": "B",
@@ -698,7 +649,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-19T13:28:27.023Z",
+            "fetchedAt": "2026-08-19T13:51:53.640Z",
             "sourceMethod": "rss",
             "verificationStatus": "confirmed"
           }
@@ -709,7 +660,7 @@
             "sourceUrl": "https://www.gov.uk/government/news/tra-imposes-anti-dumping-duties-on-boom-lifts-from-china"
           }
         ],
-        "generatedAt": "2026-08-19T13:28:17.731Z"
+        "generatedAt": "2026-08-19T13:51:48.456Z"
       },
       {
         "id": "draft-real-cnbc-world-rss-btynn2",
@@ -747,7 +698,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-19T13:28:27.197Z",
+            "fetchedAt": "2026-08-19T13:51:59.047Z",
             "sourceMethod": "rss",
             "verificationStatus": "pending"
           }
@@ -758,7 +709,7 @@
             "sourceUrl": "https://www.cnbc.com/2026/08/19/lagarde-ecb-europe-economy-trump.html"
           }
         ],
-        "generatedAt": "2026-08-19T13:28:17.731Z"
+        "generatedAt": "2026-08-19T13:51:48.456Z"
       },
       {
         "id": "draft-real-cnbc-world-rss-1cwpp8s",
@@ -796,13 +747,57 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-19T13:28:27.197Z",
+            "fetchedAt": "2026-08-19T13:51:59.047Z",
             "sourceMethod": "rss",
             "verificationStatus": "pending"
           }
         ],
         "images": [],
-        "generatedAt": "2026-08-19T13:28:17.731Z"
+        "generatedAt": "2026-08-19T13:51:48.456Z"
+      },
+      {
+        "id": "draft-real-cnbc-world-rss-1o9zkwo",
+        "title": "美元风险正在加剧。以下是可能削弱美元的因素",
+        "oneLine": "政策变化：货币策略师表示，尽管美元近期走强，但日益增长的财政风险、疲软的经济数据以及美联储政策的不确定性可能会加剧美元的压力。",
+        "importance": "B",
+        "credibility": "待确认",
+        "tags": [
+          "B",
+          "industry",
+          "world",
+          "policy",
+          "finance"
+        ],
+        "industries": [
+          "generalPublic",
+          "financeInvestment",
+          "operationsGrowth",
+          "ecommerceRetail"
+        ],
+        "section": "industry",
+        "body": {
+          "background": "“对于国际投资者来说，美国资产多年来一直受益于强劲的基础回报和强势美元。美国债券收益率上升吸引了更多资本流入美元资产，从而在 2026 年支撑了美元。美元指数追踪美元兑欧元、英镑、瑞士法郎、日元和加元等六种主要全球货币的表现。",
+          "keyProgress": "该指数今年迄今已上涨 1.15%，并于 6 月 24 日创下 52 周高点 101.80。截至美国东部时间周三凌晨 5:32，该指数收于 99.4。盛宝银行首席投资策略师查鲁·查纳纳表示，如果投资者认为国债收益率上升反映的是财政风险、政府借贷增加或持续通胀，而不是美国经济增长强劲或美联储政策收紧，那么国债收益率上升并不一定会支撑美元。” “更强劲的经济基本面带来的更高收益率并不一定等同于更大风险溢价带来的更高收益率。",
+          "whyItMatters": "“美元风险正在加剧。以下是可能削弱美元的因素”如果继续发展，可能通过能源价格、航运、贸易、汇率或市场预期传导到国内。了解它的意义在于判断后续风险，而不只停留在事件本身。",
+          "userRelevance": "即使你不在美国，“美元风险正在加剧。以下是可能削弱美元的因素”也可能通过能源价格、国际航运、贸易成本和市场预期间接影响国内生活与工作判断。",
+          "whatToWatch": "接下来要看“美元风险正在加剧。以下是可能削弱美元的因素”是否出现更细的城市、行业、平台或企业数据，以及这一变化能否连续保持。"
+        },
+        "sourceLinks": [
+          {
+            "title": "CNBC World News RSS",
+            "url": "https://www.cnbc.com/2026/08/19/inflation-dollar-risks-fed.html",
+            "sourceId": "cnbc-world-rss",
+            "publishedAt": "2026-08-19T11:08:03.000Z",
+            "language": "zh",
+            "originalLanguage": "en",
+            "translationStatus": "translated",
+            "fetchedAt": "2026-08-19T13:51:59.047Z",
+            "sourceMethod": "rss",
+            "verificationStatus": "pending"
+          }
+        ],
+        "images": [],
+        "generatedAt": "2026-08-19T13:51:48.456Z"
       },
       {
         "id": "draft-real-cnbc-world-rss-356y95",
@@ -840,7 +835,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-19T13:28:27.197Z",
+            "fetchedAt": "2026-08-19T13:51:59.047Z",
             "sourceMethod": "rss",
             "verificationStatus": "pending"
           }
@@ -855,7 +850,7 @@
             "sourceUrl": "https://www.cnbc.com/2026/08/19/amazon-plans-drone-expansion-as-top-exec-projects-1-million-deliveries.html"
           }
         ],
-        "generatedAt": "2026-08-19T13:28:17.731Z"
+        "generatedAt": "2026-08-19T13:51:48.456Z"
       },
       {
         "id": "draft-real-cnbc-world-rss-183p2cv",
@@ -1166,7 +1161,7 @@
     "estimatedReadMinutes": 34,
     "pageCount": 3,
     "topCardId": "draft-real-npr-world-rss-5h645o",
-    "generatedAt": "2026-08-19T13:28:17.731Z",
+    "generatedAt": "2026-08-19T13:51:48.456Z",
     "pushSlots": [
       "08:30",
       "12:30",
@@ -1189,12 +1184,12 @@
       "draft-real-cnbc-world-rss-18yk9kp",
       "draft-real-techcrunch-ai-rss-ni0jrn",
       "draft-real-techcrunch-ai-rss-1i5j1qn",
-      "draft-real-gov-uk-news-mn592m",
-      "draft-real-cnbc-world-rss-11qh21c",
+      "draft-real-gov-uk-news-mx4url",
       "draft-real-cnbc-world-rss-btynn2",
       "draft-real-cnbc-world-rss-1cwpp8s",
       "draft-real-cnbc-world-rss-356y95",
-      "draft-real-cnbc-world-rss-14292u2"
+      "draft-real-cnbc-world-rss-14292u2",
+      "draft-real-cnbc-world-rss-1o9zkwo"
     ],
     "carriedCardIds": [
       "draft-real-cnbc-world-rss-vjalgu",

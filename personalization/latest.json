@@ -41,7 +41,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-19T13:28:26.957Z",
+            "fetchedAt": "2026-08-19T13:51:53.435Z",
             "sourceMethod": "rss",
             "verificationStatus": "confirmed"
           }
@@ -64,7 +64,7 @@
             "sourceUrl": "https://www.npr.org/2026/08/19/g-s1-139173/up-first-newsletter-florida-primary-canada-tariffs-trump-meta-trial"
           }
         ],
-        "generatedAt": "2026-08-19T13:28:17.731Z"
+        "generatedAt": "2026-08-19T13:51:48.456Z"
       },
       {
         "id": "draft-real-cnbc-world-rss-1a6wobr",
@@ -103,7 +103,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-19T13:28:27.197Z",
+            "fetchedAt": "2026-08-19T13:51:59.047Z",
             "sourceMethod": "rss",
             "verificationStatus": "pending"
           }
@@ -114,7 +114,7 @@
             "sourceUrl": "https://www.cnbc.com/2026/08/19/ukraine-war-fedorov-zelenskky-election.html"
           }
         ],
-        "generatedAt": "2026-08-19T13:28:17.731Z"
+        "generatedAt": "2026-08-19T13:51:48.456Z"
       },
       {
         "id": "draft-real-un-news-rss-gobsbj",
@@ -151,7 +151,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-19T13:28:27.188Z",
+            "fetchedAt": "2026-08-19T13:51:53.769Z",
             "sourceMethod": "rss",
             "verificationStatus": "confirmed"
           }
@@ -162,7 +162,7 @@
             "sourceUrl": "https://news.un.org/feed/view/en/story/2026/08/1168165"
           }
         ],
-        "generatedAt": "2026-08-19T13:28:17.731Z"
+        "generatedAt": "2026-08-19T13:51:48.456Z"
       },
       {
         "id": "draft-real-cnbc-world-rss-vjalgu",
@@ -251,7 +251,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-19T13:28:27.197Z",
+            "fetchedAt": "2026-08-19T13:51:59.047Z",
             "sourceMethod": "rss",
             "verificationStatus": "pending"
           }
@@ -266,7 +266,7 @@
             "sourceUrl": "https://www.cnbc.com/2026/08/19/us-iran-war-trump-hormuz.html"
           }
         ],
-        "generatedAt": "2026-08-19T13:28:17.731Z"
+        "generatedAt": "2026-08-19T13:51:48.456Z"
       },
       {
         "id": "draft-real-npr-world-rss-1f6gy2s",
@@ -300,7 +300,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-19T13:28:26.957Z",
+            "fetchedAt": "2026-08-19T13:51:53.435Z",
             "sourceMethod": "rss",
             "verificationStatus": "confirmed"
           }
@@ -323,7 +323,7 @@
             "sourceUrl": "https://www.npr.org/2026/08/19/nx-s1-5937400/israel-strikes-syria"
           }
         ],
-        "generatedAt": "2026-08-19T13:28:17.731Z"
+        "generatedAt": "2026-08-19T13:51:48.456Z"
       },
       {
         "id": "draft-real-cnbc-world-rss-el02gj",
@@ -363,13 +363,13 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-19T13:28:27.197Z",
+            "fetchedAt": "2026-08-19T13:51:59.047Z",
             "sourceMethod": "rss",
             "verificationStatus": "pending"
           }
         ],
         "images": [],
-        "generatedAt": "2026-08-19T13:28:17.731Z"
+        "generatedAt": "2026-08-19T13:51:48.456Z"
       },
       {
         "id": "draft-real-cnbc-world-rss-156qhhu",
@@ -458,7 +458,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-19T13:28:27.197Z",
+            "fetchedAt": "2026-08-19T13:51:59.047Z",
             "sourceMethod": "rss",
             "verificationStatus": "pending"
           }
@@ -469,7 +469,7 @@
             "sourceUrl": "https://www.cnbc.com/2026/08/19/china-ai-nvidia-chips-us-export-controls.html"
           }
         ],
-        "generatedAt": "2026-08-19T13:28:17.731Z"
+        "generatedAt": "2026-08-19T13:51:48.456Z"
       },
       {
         "id": "draft-real-techcrunch-ai-rss-ni0jrn",
@@ -493,7 +493,7 @@
         ],
         "section": "ai",
         "body": {
-          "background": "这是制药行业已经面临的挑战，在动物试验中有效进入临床试验的药物中，90% 的药物并未获得用于人体的监管批准。HIVE 是该公司建造的模块化机器人实验室，可以培养 20 种人体组织，然后自动剂量和监测它们，生成当今人工智能模型所缺少的因果生物数据 - 如今的数据主要来自动物测试或单个细胞或蛋白质而不是活体组织的研究。“如果没有人体测试，这些 [AI] 模型会做什么？",
+          "background": "这是制药行业已经面临的一个挑战，在动物试验中足够有效并进入临床试验的药物中，90% 的药物并未获得用于人类的监管批准。HIVE 是该公司建造的模块化机器人实验室，可以培养 20 种人体组织，然后自动剂量和监测它们，生成当今人工智能模型所缺少的因果生物数据 - 如今的数据主要来自动物测试或单个细胞或蛋白质而不是活体组织的研究。“如果没有人体测试，这些 [AI] 模型会做什么？",
           "keyProgress": "Vivodyne 首席执行官兼联合创始人 Andrei Georgescu 问道。”就连 Anthropic 首席执行官达里奥·阿莫迪 (Dario Amodei) 也在周末写道，人工智能将治愈癌症的说法已经变得陈词滥调，不再可信——正如他所说，“真正有效的就是治愈癌症”。Sam Altman 多次引用治愈癌症作为 OpenAI 推动 AGI 和更大规模计算扩展的理由；Isomorphic Labs 是在 Alphafold 的基础上建立的，预计将在今年年底进行首次试验，原计划于 2025 年进行。",
           "whyItMatters": "“人工智能距离治愈癌症还很遥远。这家初创公司表示，它知道需要做什么”能帮助你判断这项能力是否已经进入工程、产品或商业场景，并据此调整技术选型、产品规划、学习重点或职业判断。",
           "userRelevance": "如果你从事AI 产品、AI 技术、产品管理、技术研发，可以重点判断“人工智能距离治愈癌症还很遥远。这家初创公司表示，它知道需要做什么”是否已经具备产品落地、技术选型或业务合作价值。",
@@ -508,7 +508,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-19T13:28:28.813Z",
+            "fetchedAt": "2026-08-19T13:51:55.227Z",
             "sourceMethod": "rss",
             "verificationStatus": "pending"
           }
@@ -519,7 +519,7 @@
             "sourceUrl": "https://techcrunch.com/2026/08/19/ai-isnt-close-to-curing-cancer-this-startup-says-it-knows-what-it-will-take/"
           }
         ],
-        "generatedAt": "2026-08-19T13:28:17.731Z"
+        "generatedAt": "2026-08-19T13:51:48.456Z"
       },
       {
         "id": "draft-real-techcrunch-ai-rss-1i5j1qn",
@@ -544,7 +544,7 @@
         "section": "ai",
         "body": {
           "background": "周二，Relativity Networks 宣布获得 2200 万美元的 SAFE 票据融资，投资方包括 Rhapsody Venture Partners、Bell Ventures Inc. 和 Faster Than Glass LLC 等。SAFE 票据是用于种子前和种子轮的标准方法，其中一旦公司筹集了第一轮定价资金，投资就会转移到特定数量的股票。当 AI 计算发生在单个 GPU 机架上时，光纤延迟很容易被忽视，但随着规模的扩大，GPU 之间的物理距离也随之增加。",
-          "keyProgress": "首席执行官 Jason Eisenholz 估计，信号在传统光纤中传播一公里大约需要五微秒。尽管大多数人都将光纤速度视为既定事实，但有一家公司押注更快的光纤可能会改变数据中心扩建背后的地理数学。该公司还从一家领先的超大规模企业那里获得了价值 4000 万美元的后续订单，该企业拒绝在本文中透露姓名。Relativity Networks 主营空心光纤，这是一种很少部署的技术，其数据传输速度比传统光纤快 30%。",
+          "keyProgress": "首席执行官 Jason Eichenholz 估计，信号在传统光纤中传播一公里大约需要五微秒。尽管大多数人都将光纤速度视为既定事实，但有一家公司押注更快的光纤可能会改变数据中心扩建背后的地理数学。该公司还从一家领先的超大规模企业那里获得了价值 4000 万美元的后续订单，该企业拒绝在本文中透露姓名。Relativity Networks 经营空心光纤，这是一种很少部署的技术，其数据传输速度比传统光纤快 50%。",
           "whyItMatters": "“Relativity Networks 融资 2200 万美元，为数据中心提供更快的光纤”能帮助你判断这项能力是否已经进入工程、产品或商业场景，并据此调整技术选型、产品规划、学习重点或职业判断。",
           "userRelevance": "如果你从事AI 产品、AI 技术、产品管理、技术研发，可以重点判断“Relativity Networks 融资 2200 万美元，为数据中心提供更快的光纤”是否已经具备产品落地、技术选型或业务合作价值。",
           "whatToWatch": "接下来要看“Relativity Networks 融资 2200 万美元，为数据中心提供更快的光纤”是否有更多可靠来源、量产或应用进展，以及它会不会从单点消息发展成持续趋势。"
@@ -558,13 +558,13 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-19T13:28:28.813Z",
+            "fetchedAt": "2026-08-19T13:51:55.227Z",
             "sourceMethod": "rss",
             "verificationStatus": "pending"
           }
         ],
         "images": [],
-        "generatedAt": "2026-08-19T13:28:17.731Z"
+        "generatedAt": "2026-08-19T13:51:48.456Z"
       },
       {
         "id": "draft-real-cnbc-world-rss-14292u2",
@@ -602,65 +602,16 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-19T13:28:27.197Z",
+            "fetchedAt": "2026-08-19T13:51:59.047Z",
             "sourceMethod": "rss",
             "verificationStatus": "pending"
           }
         ],
         "images": [],
-        "generatedAt": "2026-08-19T13:28:17.731Z"
+        "generatedAt": "2026-08-19T13:51:48.456Z"
       },
       {
-        "id": "draft-real-cnbc-world-rss-11qh21c",
-        "title": "Moderna、默克癌症疫苗在后期试验中显示出希望； Moderna 股价飙升 90%",
-        "oneLine": "政策变化：在这篇文章中，默克和 Moderna 周三宣布，默克和 Moderna 的一种实验性个性​​化癌症疫苗在其首次后期试验中显示出积极的初步结果，使他们距离申请批准该治疗方案又近了一步。",
-        "importance": "B",
-        "credibility": "待确认",
-        "tags": [
-          "B",
-          "industry",
-          "world",
-          "policy",
-          "finance"
-        ],
-        "industries": [
-          "generalPublic",
-          "financeInvestment",
-          "operationsGrowth",
-          "ecommerceRetail"
-        ],
-        "section": "industry",
-        "body": {
-          "background": "Moderna 首席执行官斯蒂芬·班塞尔 (Stephane Bancel) 在接受 CNBC 节目“Squawk Box”采访时表示：“这对于医学、对于患者来说都是一个重要时刻。”第三阶段研究将继续评估其他结果，包括该疗法的总体生存获益。制药商计划在即将召开的国际医学会议上公布这些数据，但目前还不清楚他们计划何时在美国提交批准申请。",
-          "keyProgress": "该治疗还降低了癌症扩散到身体远处部位的风险。这些结果建立在今年早些时候相同方案的第二阶段试验积极数据的基础上。基于 mRNA 的注射剂与默克公司的免疫疗法 Keytruda 相结合，在超过 1,100 名高危或晚期黑色素瘤患者的三期试验中达到了关键目标，这些患者的可检测到的癌症已通过手术完全切除。默克公司的股价在盘前交易中上涨了 8% 以上，而 Moderna 的股价则飙升了约 90%。",
-          "whyItMatters": "“Moderna、默克癌症疫苗在后期试验中显示出希望； Moderna 股价飙升 90%”如果继续发展，可能通过能源价格、航运、贸易、汇率或市场预期传导到国内。了解它的意义在于判断后续风险，而不只停留在事件本身。",
-          "userRelevance": "即使你不在事发地区，“Moderna、默克癌症疫苗在后期试验中显示出希望； Moderna 股价飙升 90%”也可能通过能源价格、国际航运、贸易成本和市场预期间接影响国内生活与工作判断。",
-          "whatToWatch": "接下来要看“Moderna、默克癌症疫苗在后期试验中显示出希望； Moderna 股价飙升 90%”是否出现更细的城市、行业、平台或企业数据，以及这一变化能否连续保持。"
-        },
-        "sourceLinks": [
-          {
-            "title": "CNBC World News RSS",
-            "url": "https://www.cnbc.com/2026/08/19/moderna-merck-cancer-vaccine-shows-initial-late-stage-melanoma-data.html",
-            "sourceId": "cnbc-world-rss",
-            "publishedAt": "2026-08-19T12:57:32.000Z",
-            "language": "zh",
-            "originalLanguage": "en",
-            "translationStatus": "translated",
-            "fetchedAt": "2026-08-19T13:28:27.197Z",
-            "sourceMethod": "rss",
-            "verificationStatus": "pending"
-          }
-        ],
-        "images": [
-          {
-            "url": "https://image.cnbcfm.com/api/v1/image/108351449-17871406841787140679-47859846134-1080pnbcnews.jpg?v=1787140683&amp;w=750&amp;h=422&amp;vtcrop=y",
-            "sourceUrl": "https://www.cnbc.com/2026/08/19/moderna-merck-cancer-vaccine-shows-initial-late-stage-melanoma-data.html"
-          }
-        ],
-        "generatedAt": "2026-08-19T13:28:17.731Z"
-      },
-      {
-        "id": "draft-real-gov-uk-news-mn592m",
+        "id": "draft-real-gov-uk-news-mx4url",
         "title": "TRA对中国吊臂式升降机征收反倾销税",
         "oneLine": "政策变化：在总部位于米尔顿凯恩斯的英国动臂式升降机生产商 Niftylift Limited 提出申请后，TRA 发起了一项反倾销。",
         "importance": "B",
@@ -696,7 +647,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-19T13:28:27.023Z",
+            "fetchedAt": "2026-08-19T13:51:53.640Z",
             "sourceMethod": "rss",
             "verificationStatus": "confirmed"
           }
@@ -707,7 +658,7 @@
             "sourceUrl": "https://www.gov.uk/government/news/tra-imposes-anti-dumping-duties-on-boom-lifts-from-china"
           }
         ],
-        "generatedAt": "2026-08-19T13:28:17.731Z"
+        "generatedAt": "2026-08-19T13:51:48.456Z"
       },
       {
         "id": "draft-real-cnbc-world-rss-btynn2",
@@ -745,7 +696,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-19T13:28:27.197Z",
+            "fetchedAt": "2026-08-19T13:51:59.047Z",
             "sourceMethod": "rss",
             "verificationStatus": "pending"
           }
@@ -756,7 +707,7 @@
             "sourceUrl": "https://www.cnbc.com/2026/08/19/lagarde-ecb-europe-economy-trump.html"
           }
         ],
-        "generatedAt": "2026-08-19T13:28:17.731Z"
+        "generatedAt": "2026-08-19T13:51:48.456Z"
       },
       {
         "id": "draft-real-cnbc-world-rss-1cwpp8s",
@@ -794,13 +745,57 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-19T13:28:27.197Z",
+            "fetchedAt": "2026-08-19T13:51:59.047Z",
             "sourceMethod": "rss",
             "verificationStatus": "pending"
           }
         ],
         "images": [],
-        "generatedAt": "2026-08-19T13:28:17.731Z"
+        "generatedAt": "2026-08-19T13:51:48.456Z"
+      },
+      {
+        "id": "draft-real-cnbc-world-rss-1o9zkwo",
+        "title": "美元风险正在加剧。以下是可能削弱美元的因素",
+        "oneLine": "政策变化：货币策略师表示，尽管美元近期走强，但日益增长的财政风险、疲软的经济数据以及美联储政策的不确定性可能会加剧美元的压力。",
+        "importance": "B",
+        "credibility": "待确认",
+        "tags": [
+          "B",
+          "industry",
+          "world",
+          "policy",
+          "finance"
+        ],
+        "industries": [
+          "generalPublic",
+          "financeInvestment",
+          "operationsGrowth",
+          "ecommerceRetail"
+        ],
+        "section": "industry",
+        "body": {
+          "background": "“对于国际投资者来说，美国资产多年来一直受益于强劲的基础回报和强势美元。美国债券收益率上升吸引了更多资本流入美元资产，从而在 2026 年支撑了美元。美元指数追踪美元兑欧元、英镑、瑞士法郎、日元和加元等六种主要全球货币的表现。",
+          "keyProgress": "该指数今年迄今已上涨 1.15%，并于 6 月 24 日创下 52 周高点 101.80。截至美国东部时间周三凌晨 5:32，该指数收于 99.4。盛宝银行首席投资策略师查鲁·查纳纳表示，如果投资者认为国债收益率上升反映的是财政风险、政府借贷增加或持续通胀，而不是美国经济增长强劲或美联储政策收紧，那么国债收益率上升并不一定会支撑美元。” “更强劲的经济基本面带来的更高收益率并不一定等同于更大风险溢价带来的更高收益率。",
+          "whyItMatters": "“美元风险正在加剧。以下是可能削弱美元的因素”如果继续发展，可能通过能源价格、航运、贸易、汇率或市场预期传导到国内。了解它的意义在于判断后续风险，而不只停留在事件本身。",
+          "userRelevance": "即使你不在美国，“美元风险正在加剧。以下是可能削弱美元的因素”也可能通过能源价格、国际航运、贸易成本和市场预期间接影响国内生活与工作判断。",
+          "whatToWatch": "接下来要看“美元风险正在加剧。以下是可能削弱美元的因素”是否出现更细的城市、行业、平台或企业数据，以及这一变化能否连续保持。"
+        },
+        "sourceLinks": [
+          {
+            "title": "CNBC World News RSS",
+            "url": "https://www.cnbc.com/2026/08/19/inflation-dollar-risks-fed.html",
+            "sourceId": "cnbc-world-rss",
+            "publishedAt": "2026-08-19T11:08:03.000Z",
+            "language": "zh",
+            "originalLanguage": "en",
+            "translationStatus": "translated",
+            "fetchedAt": "2026-08-19T13:51:59.047Z",
+            "sourceMethod": "rss",
+            "verificationStatus": "pending"
+          }
+        ],
+        "images": [],
+        "generatedAt": "2026-08-19T13:51:48.456Z"
       },
       {
         "id": "draft-real-cnbc-world-rss-356y95",
@@ -838,7 +833,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-19T13:28:27.197Z",
+            "fetchedAt": "2026-08-19T13:51:59.047Z",
             "sourceMethod": "rss",
             "verificationStatus": "pending"
           }
@@ -853,7 +848,7 @@
             "sourceUrl": "https://www.cnbc.com/2026/08/19/amazon-plans-drone-expansion-as-top-exec-projects-1-million-deliveries.html"
           }
         ],
-        "generatedAt": "2026-08-19T13:28:17.731Z"
+        "generatedAt": "2026-08-19T13:51:48.456Z"
       },
       {
         "id": "draft-real-cnbc-world-rss-183p2cv",
@@ -1164,7 +1159,7 @@
     "estimatedReadMinutes": 34,
     "pageCount": 3,
     "topCardId": "draft-real-npr-world-rss-5h645o",
-    "generatedAt": "2026-08-19T13:28:17.731Z",
+    "generatedAt": "2026-08-19T13:51:48.456Z",
     "pushSlots": [
       "08:30",
       "12:30",
@@ -1187,12 +1182,12 @@
       "draft-real-cnbc-world-rss-18yk9kp",
       "draft-real-techcrunch-ai-rss-ni0jrn",
       "draft-real-techcrunch-ai-rss-1i5j1qn",
-      "draft-real-gov-uk-news-mn592m",
-      "draft-real-cnbc-world-rss-11qh21c",
+      "draft-real-gov-uk-news-mx4url",
       "draft-real-cnbc-world-rss-btynn2",
       "draft-real-cnbc-world-rss-1cwpp8s",
       "draft-real-cnbc-world-rss-356y95",
-      "draft-real-cnbc-world-rss-14292u2"
+      "draft-real-cnbc-world-rss-14292u2",
+      "draft-real-cnbc-world-rss-1o9zkwo"
     ],
     "carriedCardIds": [
       "draft-real-cnbc-world-rss-vjalgu",
@@ -1209,17 +1204,17 @@
   "meta": {
     "profileName": "多职业公共版",
     "cohortLocationCount": 5,
-    "generatedAt": "2026-08-19T13:28:17.731Z",
+    "generatedAt": "2026-08-19T13:51:48.456Z",
     "edition": "evening",
     "sourceCoverage": {
       "ready": true,
       "sourceAvailabilityReady": true,
       "currentCoverageReady": true,
-      "generatedAt": "2026-08-19T13:30:44.442Z",
+      "generatedAt": "2026-08-19T13:54:15.689Z",
       "totalSources": 31,
-      "successfulSources": 28,
+      "successfulSources": 29,
       "sourcesWithItems": 24,
-      "totalItems": 344,
+      "totalItems": 351,
       "lanes": [
         {
           "id": "global",
@@ -1277,7 +1272,7 @@
             "france24-middle-east-rss",
             "cnbc-world-rss"
           ],
-          "currentItemCount": 14,
+          "currentItemCount": 13,
           "note": "同时观察中国官方入口和国际商业新闻，覆盖关税、外贸、能源、航运与外交影响。"
         },
         {
@@ -1319,11 +1314,11 @@
             "theverge-ai-rss",
             "arxiv-cs-api",
             "cas-science-news",
+            "chrm-mohrss",
             "stats-cn-data"
           ],
           "failedSourceIds": [
             "moe-cn",
-            "chrm-mohrss",
             "mohurd-construction"
           ],
           "emptySourceIds": [],
@@ -1342,13 +1337,12 @@
           "id": "local",
           "label": "居住城市与家乡城市：上海、杭州、深圳、长春、伦敦",
           "required": false,
-          "ready": true,
+          "ready": false,
           "minimumSuccessfulSources": 1,
-          "successfulSourceIds": [
-            "city-news-rss:%E4%B8%AD%E5%9B%BD-%E4%B8%8A%E6%B5%B7"
-          ],
+          "successfulSourceIds": [],
           "failedSourceIds": [],
           "emptySourceIds": [
+            "city-news-rss:%E4%B8%AD%E5%9B%BD-%E4%B8%8A%E6%B5%B7",
             "city-news-rss:%E4%B8%AD%E5%9B%BD-%E6%9D%AD%E5%B7%9E",
             "city-news-rss:%E4%B8%AD%E5%9B%BD-%E6%B7%B1%E5%9C%B3",
             "city-news-rss:%E4%B8%AD%E5%9B%BD-%E9%95%BF%E6%98%A5",
@@ -1420,7 +1414,7 @@
       "stats",
       "mofcom"
     ],
-    "fetchedRawItemCount": 344,
+    "fetchedRawItemCount": 351,
     "rawItemCount": 42,
     "rawCandidateCount": 42,
     "dedupedCandidateCount": 39,
@@ -1434,16 +1428,16 @@
       "provider": "google-free",
       "failures": []
     },
-    "selectedCandidateCount": 23,
-    "publishableCardCount": 19,
-    "personalizationPoolCardCount": 29,
+    "selectedCandidateCount": 22,
+    "publishableCardCount": 18,
+    "personalizationPoolCardCount": 28,
     "reviewableCardCount": 3,
     "rejectedCardCount": 1,
-    "skippedPublishableCardCount": 4,
+    "skippedPublishableCardCount": 3,
     "stats": {
-      "inputCardCount": 19,
+      "inputCardCount": 18,
       "selectedCardCount": 15,
-      "skippedCardCount": 4,
+      "skippedCardCount": 3,
       "sizing": {
         "minimumCards": 15,
         "comfortableMaxCards": 20,
@@ -1491,7 +1485,7 @@
         "method": "api",
         "endpointUrl": "https://export.arxiv.org/api/query",
         "attempts": 1,
-        "durationMs": 317,
+        "durationMs": 189,
         "fallbackUsed": false,
         "rawItemCount": 18,
         "datedItemCount": 18,
@@ -1507,8 +1501,8 @@
         "status": "healthy",
         "method": "web",
         "endpointUrl": "https://www.cas.cn/syky/",
-        "attempts": 2,
-        "durationMs": 7531,
+        "attempts": 1,
+        "durationMs": 1948,
         "fallbackUsed": false,
         "rawItemCount": 18,
         "datedItemCount": 18,
@@ -1525,7 +1519,7 @@
         "method": "web",
         "endpointUrl": "https://www.mohurd.gov.cn/xinwen/gzdt/index.html",
         "attempts": 3,
-        "durationMs": 137732,
+        "durationMs": 135380,
         "fallbackUsed": false,
         "rawItemCount": 0,
         "datedItemCount": 0,
@@ -1541,7 +1535,7 @@
         "method": "rss",
         "endpointUrl": "https://www.gdacs.org/xml/rss.xml",
         "attempts": 1,
-        "durationMs": 7203,
+        "durationMs": 2649,
         "fallbackUsed": false,
         "rawItemCount": 18,
         "datedItemCount": 18,
@@ -1558,7 +1552,7 @@
         "method": "web",
         "endpointUrl": "https://www.gov.cn/zhengce/zuixin/",
         "attempts": 1,
-        "durationMs": 5994,
+        "durationMs": 2500,
         "fallbackUsed": false,
         "rawItemCount": 18,
         "datedItemCount": 18,
@@ -1575,7 +1569,7 @@
         "method": "web",
         "endpointUrl": "https://www.mem.gov.cn/xw/yjglbgzdt/",
         "attempts": 1,
-        "durationMs": 718,
+        "durationMs": 695,
         "fallbackUsed": false,
         "rawItemCount": 18,
         "datedItemCount": 18,
@@ -1592,7 +1586,7 @@
         "method": "web",
         "endpointUrl": "https://www.cac.gov.cn/index.htm",
         "attempts": 1,
-        "durationMs": 1837,
+        "durationMs": 2001,
         "fallbackUsed": false,
         "rawItemCount": 2,
         "datedItemCount": 2,
@@ -1609,7 +1603,7 @@
         "method": "web",
         "endpointUrl": "https://www.news.cn/world/index.html",
         "attempts": 1,
-        "durationMs": 1412,
+        "durationMs": 2816,
         "fallbackUsed": false,
         "rawItemCount": 18,
         "datedItemCount": 18,
@@ -1626,7 +1620,7 @@
         "method": "web",
         "endpointUrl": "https://www.news.cn/tech/index.html",
         "attempts": 1,
-        "durationMs": 1337,
+        "durationMs": 2183,
         "fallbackUsed": false,
         "rawItemCount": 13,
         "datedItemCount": 13,
@@ -1643,13 +1637,13 @@
         "method": "rss",
         "endpointUrl": "https://www.gov.uk/search/news-and-communications.atom?order=updated-newest",
         "attempts": 1,
-        "durationMs": 632,
+        "durationMs": 514,
         "fallbackUsed": false,
         "rawItemCount": 18,
         "datedItemCount": 18,
         "inEditionItemCount": 9,
-        "newestPublishedAt": "2026-08-19T12:34:32.000Z",
-        "oldestPublishedAt": "2026-08-18T09:18:23.000Z",
+        "newestPublishedAt": "2026-08-19T13:37:08.000Z",
+        "oldestPublishedAt": "2026-08-18T09:19:02.000Z",
         "verificationStatus": "confirmed"
       },
       {
@@ -1660,7 +1654,7 @@
         "method": "rss",
         "endpointUrl": "https://feeds.npr.org/1004/rss.xml",
         "attempts": 1,
-        "durationMs": 361,
+        "durationMs": 107,
         "fallbackUsed": false,
         "rawItemCount": 10,
         "datedItemCount": 10,
@@ -1677,12 +1671,12 @@
         "method": "rss",
         "endpointUrl": "https://feeds.skynews.com/feeds/rss/world.xml",
         "attempts": 1,
-        "durationMs": 366,
+        "durationMs": 120,
         "fallbackUsed": false,
         "rawItemCount": 10,
         "datedItemCount": 10,
-        "inEditionItemCount": 4,
-        "newestPublishedAt": "2026-08-19T10:24:00.000Z",
+        "inEditionItemCount": 5,
+        "newestPublishedAt": "2026-08-19T11:19:00.000Z",
         "oldestPublishedAt": "2026-08-17T09:40:00.000Z",
         "verificationStatus": "pending"
       },
@@ -1694,7 +1688,7 @@
         "method": "rss",
         "endpointUrl": "https://www.france24.com/en/middle-east/rss",
         "attempts": 1,
-        "durationMs": 103,
+        "durationMs": 97,
         "fallbackUsed": false,
         "rawItemCount": 18,
         "datedItemCount": 18,
@@ -1711,7 +1705,7 @@
         "method": "rss",
         "endpointUrl": "https://www.france24.com/en/asia-pacific/rss",
         "attempts": 1,
-        "durationMs": 44,
+        "durationMs": 94,
         "fallbackUsed": false,
         "rawItemCount": 18,
         "datedItemCount": 18,
@@ -1728,12 +1722,12 @@
         "method": "rss",
         "endpointUrl": "https://www.cnbc.com/id/100727362/device/rss/rss.html",
         "attempts": 1,
-        "durationMs": 173,
+        "durationMs": 5393,
         "fallbackUsed": false,
         "rawItemCount": 18,
         "datedItemCount": 18,
-        "inEditionItemCount": 13,
-        "newestPublishedAt": "2026-08-19T13:14:05.000Z",
+        "inEditionItemCount": 12,
+        "newestPublishedAt": "2026-08-19T13:48:47.000Z",
         "oldestPublishedAt": "2026-08-17T23:39:54.000Z",
         "verificationStatus": "pending"
       },
@@ -1745,7 +1739,7 @@
         "method": "rss",
         "endpointUrl": "https://news.un.org/feed/subscribe/en/news/all/rss.xml",
         "attempts": 1,
-        "durationMs": 136,
+        "durationMs": 33,
         "fallbackUsed": false,
         "rawItemCount": 18,
         "datedItemCount": 18,
@@ -1762,7 +1756,7 @@
         "method": "web",
         "endpointUrl": "https://www.mfa.gov.cn/wjdt_674879/fyrbt_674889/",
         "attempts": 1,
-        "durationMs": 1088,
+        "durationMs": 1008,
         "fallbackUsed": false,
         "rawItemCount": 18,
         "datedItemCount": 18,
@@ -1779,7 +1773,7 @@
         "method": "web",
         "endpointUrl": "https://www.mofcom.gov.cn/xwfb/",
         "attempts": 1,
-        "durationMs": 2723,
+        "durationMs": 1181,
         "fallbackUsed": false,
         "rawItemCount": 13,
         "datedItemCount": 13,
@@ -1796,7 +1790,7 @@
         "method": "rss",
         "endpointUrl": "https://openai.com/news/rss.xml",
         "attempts": 1,
-        "durationMs": 698,
+        "durationMs": 150,
         "fallbackUsed": false,
         "rawItemCount": 18,
         "datedItemCount": 18,
@@ -1813,7 +1807,7 @@
         "method": "rss",
         "endpointUrl": "https://deepmind.google/blog/rss.xml",
         "attempts": 1,
-        "durationMs": 1000,
+        "durationMs": 272,
         "fallbackUsed": false,
         "rawItemCount": 18,
         "datedItemCount": 18,
@@ -1830,7 +1824,7 @@
         "method": "rss",
         "endpointUrl": "https://techcrunch.com/category/artificial-intelligence/feed/",
         "attempts": 1,
-        "durationMs": 663,
+        "durationMs": 95,
         "fallbackUsed": false,
         "rawItemCount": 18,
         "datedItemCount": 18,
@@ -1847,7 +1841,7 @@
         "method": "rss",
         "endpointUrl": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
         "attempts": 1,
-        "durationMs": 108,
+        "durationMs": 80,
         "fallbackUsed": false,
         "rawItemCount": 10,
         "datedItemCount": 10,
@@ -1864,7 +1858,7 @@
         "method": "web",
         "endpointUrl": "https://www.moe.gov.cn/",
         "attempts": 3,
-        "durationMs": 14167,
+        "durationMs": 14186,
         "fallbackUsed": false,
         "rawItemCount": 0,
         "datedItemCount": 0,
@@ -1875,18 +1869,19 @@
       {
         "sourceId": "chrm-mohrss",
         "sourceName": "中国人力资源市场网",
-        "ok": false,
-        "status": "failed",
+        "ok": true,
+        "status": "healthy",
         "method": "web",
         "endpointUrl": "https://chrm.mohrss.gov.cn/announcement/",
-        "attempts": 3,
-        "durationMs": 11314,
+        "attempts": 1,
+        "durationMs": 3869,
         "fallbackUsed": false,
-        "rawItemCount": 0,
-        "datedItemCount": 0,
+        "rawItemCount": 8,
+        "datedItemCount": 8,
         "inEditionItemCount": 0,
-        "verificationStatus": "confirmed",
-        "error": "TypeError: fetch failed; legacy TLS fallback: AggregateError: request failed without a message"
+        "newestPublishedAt": "2026-07-23T16:00:00.000Z",
+        "oldestPublishedAt": "2026-07-06T16:00:00.000Z",
+        "verificationStatus": "confirmed"
       },
       {
         "sourceId": "stats-cn-data",
@@ -1895,8 +1890,8 @@
         "status": "healthy",
         "method": "web",
         "endpointUrl": "https://www.stats.gov.cn/sj/zxfb/",
-        "attempts": 2,
-        "durationMs": 12213,
+        "attempts": 1,
+        "durationMs": 5835,
         "fallbackUsed": false,
         "rawItemCount": 13,
         "datedItemCount": 13,
@@ -1913,7 +1908,7 @@
         "method": "web",
         "endpointUrl": "https://scyxs.mofcom.gov.cn/",
         "attempts": 1,
-        "durationMs": 5179,
+        "durationMs": 9763,
         "fallbackUsed": true,
         "rawItemCount": 2,
         "datedItemCount": 1,
@@ -1927,17 +1922,15 @@
         "sourceId": "city-news-rss:%E4%B8%AD%E5%9B%BD-%E4%B8%8A%E6%B5%B7",
         "sourceName": "城市新闻发现：直辖市·上海",
         "ok": true,
-        "status": "healthy",
+        "status": "empty",
         "method": "web",
         "endpointUrl": "city-source:中国/直辖市/上海",
         "attempts": 1,
-        "durationMs": 7809,
+        "durationMs": 3300,
         "fallbackUsed": false,
-        "rawItemCount": 1,
-        "datedItemCount": 1,
+        "rawItemCount": 0,
+        "datedItemCount": 0,
         "inEditionItemCount": 0,
-        "newestPublishedAt": "2020-12-29T16:00:00.000Z",
-        "oldestPublishedAt": "2020-12-29T16:00:00.000Z",
         "verificationStatus": "pending",
         "note": "城市新闻发现源；政策和风险内容仍需官方或主流来源确认。"
       },
@@ -1949,7 +1942,7 @@
         "method": "web",
         "endpointUrl": "city-source:中国/浙江/杭州",
         "attempts": 1,
-        "durationMs": 6367,
+        "durationMs": 10585,
         "fallbackUsed": false,
         "rawItemCount": 0,
         "datedItemCount": 0,
@@ -1965,7 +1958,7 @@
         "method": "web",
         "endpointUrl": "city-source:中国/广东/深圳",
         "attempts": 1,
-        "durationMs": 4992,
+        "durationMs": 1775,
         "fallbackUsed": false,
         "rawItemCount": 0,
         "datedItemCount": 0,
@@ -1981,7 +1974,7 @@
         "method": "web",
         "endpointUrl": "city-source:中国/吉林/长春",
         "attempts": 1,
-        "durationMs": 4787,
+        "durationMs": 1532,
         "fallbackUsed": false,
         "rawItemCount": 0,
         "datedItemCount": 0,
@@ -1997,7 +1990,7 @@
         "method": "web",
         "endpointUrl": "city-source:英国/英国/伦敦",
         "attempts": 1,
-        "durationMs": 4772,
+        "durationMs": 1540,
         "fallbackUsed": false,
         "rawItemCount": 0,
         "datedItemCount": 0,
@@ -2012,7 +2005,7 @@
         "sourceName": "住房和城乡建设部",
         "method": "web",
         "attempts": 3,
-        "durationMs": 137732,
+        "durationMs": 135380,
         "fallbackUsed": false,
         "error": "https://www.mohurd.gov.cn/api-gateway/jpaas-publish-server/front/page/build/unit?parseType=bulidstatic&webId=86ca573ec4df405db627fdc2493677f3&tplSetId=fc259c381af3496d85e61997ea7771cb&pageType=column&tagId=%E6%A0%8F%E7%9B%AE-list&editType=null&pageId=919e942639b5477d96e4c97471c61d9f: TypeError: fetch failed; legacy TLS fallback: Error: Request timed out | https://www.mohurd.gov.cn/xinwen/gzdt/index.html: TypeError: fetch failed; legacy TLS fallback: Error: Request timed out | https://www.mohurd.gov.cn/: TypeError: fetch failed; legacy TLS fallback: Error: Request timed out"
       },
@@ -2021,18 +2014,9 @@
         "sourceName": "教育部",
         "method": "web",
         "attempts": 3,
-        "durationMs": 14167,
+        "durationMs": 14186,
         "fallbackUsed": false,
         "error": "fetch failed"
-      },
-      {
-        "sourceId": "chrm-mohrss",
-        "sourceName": "中国人力资源市场网",
-        "method": "web",
-        "attempts": 3,
-        "durationMs": 11314,
-        "fallbackUsed": false,
-        "error": "TypeError: fetch failed; legacy TLS fallback: AggregateError: request failed without a message"
       }
     ],
     "cardReviewFindings": [
@@ -2044,7 +2028,7 @@
         ]
       },
       {
-        "cardId": "draft-real-gov-uk-news-1ucrwa2",
+        "cardId": "draft-real-gov-uk-news-1u2sal3",
         "cardTitle": "建筑安全监管机构任命居民小组独立主席",
         "issues": [
           "卡片里可能混入表格规格或产品清单，需要复核。"
@@ -2070,7 +2054,7 @@
       ]
     },
     {
-      "id": "draft-real-gov-uk-news-1ucrwa2",
+      "id": "draft-real-gov-uk-news-1u2sal3",
       "title": "建筑安全监管机构任命居民小组独立主席",
       "finalLabel": "待复核",
       "finalScore": 90,
@@ -2101,12 +2085,6 @@
     }
   ],
   "skippedCards": [
-    {
-      "id": "draft-real-cnbc-world-rss-1o9zkwo",
-      "title": "美元风险正在加剧。以下是可能削弱美元的因素",
-      "importance": "B",
-      "section": "industry"
-    },
     {
       "id": "draft-real-cnbc-world-rss-yg3hqx",
       "title": "竞争对手竞相收购，全球最大橄榄油公司股价飙升逾20%",
@@ -2159,7 +2137,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-19T13:28:27.188Z",
+            "fetchedAt": "2026-08-19T13:51:53.769Z",
             "sourceMethod": "rss",
             "verificationStatus": "confirmed"
           }
@@ -2218,7 +2196,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-19T13:28:27.188Z",
+            "fetchedAt": "2026-08-19T13:51:53.769Z",
             "sourceMethod": "rss",
             "verificationStatus": "confirmed"
           }
@@ -2229,7 +2207,7 @@
             "sourceUrl": "https://news.un.org/feed/view/en/story/2026/08/1168165"
           }
         ],
-        "generatedAt": "2026-08-19T13:28:17.731Z"
+        "generatedAt": "2026-08-19T13:51:48.456Z"
       }
     },
     {
@@ -2268,7 +2246,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-19T13:28:26.957Z",
+            "fetchedAt": "2026-08-19T13:51:53.435Z",
             "sourceMethod": "rss",
             "verificationStatus": "confirmed"
           }
@@ -2324,7 +2302,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-19T13:28:26.957Z",
+            "fetchedAt": "2026-08-19T13:51:53.435Z",
             "sourceMethod": "rss",
             "verificationStatus": "confirmed"
           }
@@ -2347,7 +2325,7 @@
             "sourceUrl": "https://www.npr.org/2026/08/19/g-s1-139173/up-first-newsletter-florida-primary-canada-tariffs-trump-meta-trial"
           }
         ],
-        "generatedAt": "2026-08-19T13:28:17.731Z"
+        "generatedAt": "2026-08-19T13:51:48.456Z"
       }
     },
     {
@@ -2386,7 +2364,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-19T13:28:27.197Z",
+            "fetchedAt": "2026-08-19T13:51:59.047Z",
             "sourceMethod": "rss",
             "verificationStatus": "pending"
           }
@@ -2442,7 +2420,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-19T13:28:27.197Z",
+            "fetchedAt": "2026-08-19T13:51:59.047Z",
             "sourceMethod": "rss",
             "verificationStatus": "pending"
           }
@@ -2453,7 +2431,7 @@
             "sourceUrl": "https://www.cnbc.com/2026/08/19/ukraine-war-fedorov-zelenskky-election.html"
           }
         ],
-        "generatedAt": "2026-08-19T13:28:17.731Z"
+        "generatedAt": "2026-08-19T13:51:48.456Z"
       }
     },
     {
@@ -2493,7 +2471,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-19T13:28:27.197Z",
+            "fetchedAt": "2026-08-19T13:51:59.047Z",
             "sourceMethod": "rss",
             "verificationStatus": "pending"
           }
@@ -2550,13 +2528,13 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-19T13:28:27.197Z",
+            "fetchedAt": "2026-08-19T13:51:59.047Z",
             "sourceMethod": "rss",
             "verificationStatus": "pending"
           }
         ],
         "images": [],
-        "generatedAt": "2026-08-19T13:28:17.731Z"
+        "generatedAt": "2026-08-19T13:51:48.456Z"
       }
     },
     {
@@ -2595,7 +2573,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-19T13:28:27.197Z",
+            "fetchedAt": "2026-08-19T13:51:59.047Z",
             "sourceMethod": "rss",
             "verificationStatus": "pending"
           }
@@ -2651,7 +2629,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-19T13:28:27.197Z",
+            "fetchedAt": "2026-08-19T13:51:59.047Z",
             "sourceMethod": "rss",
             "verificationStatus": "pending"
           }
@@ -2666,7 +2644,7 @@
             "sourceUrl": "https://www.cnbc.com/2026/08/19/us-iran-war-trump-hormuz.html"
           }
         ],
-        "generatedAt": "2026-08-19T13:28:17.731Z"
+        "generatedAt": "2026-08-19T13:51:48.456Z"
       }
     },
     {
@@ -2706,7 +2684,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-19T13:28:27.197Z",
+            "fetchedAt": "2026-08-19T13:51:59.047Z",
             "sourceMethod": "rss",
             "verificationStatus": "pending"
           }
@@ -2762,7 +2740,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-19T13:28:27.197Z",
+            "fetchedAt": "2026-08-19T13:51:59.047Z",
             "sourceMethod": "rss",
             "verificationStatus": "pending"
           }
@@ -2773,7 +2751,7 @@
             "sourceUrl": "https://www.cnbc.com/2026/08/19/china-ai-nvidia-chips-us-export-controls.html"
           }
         ],
-        "generatedAt": "2026-08-19T13:28:17.731Z"
+        "generatedAt": "2026-08-19T13:51:48.456Z"
       }
     },
     {
@@ -2808,7 +2786,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-19T13:28:26.957Z",
+            "fetchedAt": "2026-08-19T13:51:53.435Z",
             "sourceMethod": "rss",
             "verificationStatus": "confirmed"
           }
@@ -2859,7 +2837,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-19T13:28:26.957Z",
+            "fetchedAt": "2026-08-19T13:51:53.435Z",
             "sourceMethod": "rss",
             "verificationStatus": "confirmed"
           }
@@ -2882,110 +2860,7 @@
             "sourceUrl": "https://www.npr.org/2026/08/19/nx-s1-5937400/israel-strikes-syria"
           }
         ],
-        "generatedAt": "2026-08-19T13:28:17.731Z"
-      }
-    },
-    {
-      "candidate": {
-        "id": "real-cnbc-world-rss-11qh21c",
-        "title": "Moderna、默克癌症疫苗在后期试验中显示出希望； Moderna 股价飙升 90%",
-        "oneLine": "国际最新进展：这条英文来源需要完整整理为中文，并优先说明发生了什么变化、与中国的关系及后续风险。",
-        "categories": [
-          "world",
-          "policy",
-          "finance",
-          "operations"
-        ],
-        "industries": [
-          "generalPublic",
-          "financeInvestment",
-          "operationsGrowth",
-          "ecommerceRetail"
-        ],
-        "regions": [
-          "全球"
-        ],
-        "locations": [],
-        "sourceIds": [
-          "cnbc-world-rss"
-        ],
-        "publishedAt": "2026-08-19T12:57:32.000Z",
-        "sourceLinks": [
-          {
-            "title": "CNBC World News RSS",
-            "url": "https://www.cnbc.com/2026/08/19/moderna-merck-cancer-vaccine-shows-initial-late-stage-melanoma-data.html",
-            "sourceId": "cnbc-world-rss",
-            "publishedAt": "2026-08-19T12:57:32.000Z",
-            "language": "zh",
-            "originalLanguage": "en",
-            "translationStatus": "translated",
-            "fetchedAt": "2026-08-19T13:28:27.197Z",
-            "sourceMethod": "rss",
-            "verificationStatus": "pending"
-          }
-        ],
-        "images": [],
-        "body": {
-          "background": "国际主流媒体 RSS 用于补充全球突发、政策、贸易、能源和科技事件，不能单独替代事实确认。",
-          "keyProgress": "与单独使用 Keytruda 相比，联合疗法显着延长了患者黑色素瘤不复发的生存时间。",
-          "whyItMatters": "重大国际变化可能通过外交、贸易、关税、能源、航运、安全或市场预期影响中国用户。",
-          "userRelevance": "是否推送取决于事件影响范围、严重程度，以及它是否会影响中国或形成全球共同认知。",
-          "whatToWatch": "继续核对官方表态和第二个可靠来源，并关注局势变化、政策生效时间及对中国的传导路径。"
-        },
-        "impactScore": 72,
-        "severityScore": 45,
-        "freshnessScore": 95,
-        "trendScore": 72,
-        "isExample": false
-      },
-      "card": {
-        "id": "draft-real-cnbc-world-rss-11qh21c",
-        "title": "Moderna、默克癌症疫苗在后期试验中显示出希望； Moderna 股价飙升 90%",
-        "oneLine": "政策变化：在这篇文章中，默克和 Moderna 周三宣布，默克和 Moderna 的一种实验性个性​​化癌症疫苗在其首次后期试验中显示出积极的初步结果，使他们距离申请批准该治疗方案又近了一步。",
-        "importance": "B",
-        "credibility": "待确认",
-        "tags": [
-          "B",
-          "industry",
-          "world",
-          "policy",
-          "finance"
-        ],
-        "industries": [
-          "generalPublic",
-          "financeInvestment",
-          "operationsGrowth",
-          "ecommerceRetail"
-        ],
-        "section": "industry",
-        "body": {
-          "background": "Moderna 首席执行官斯蒂芬·班塞尔 (Stephane Bancel) 在接受 CNBC 节目“Squawk Box”采访时表示：“这对于医学、对于患者来说都是一个重要时刻。”第三阶段研究将继续评估其他结果，包括该疗法的总体生存获益。制药商计划在即将召开的国际医学会议上公布这些数据，但目前还不清楚他们计划何时在美国提交批准申请。",
-          "keyProgress": "该治疗还降低了癌症扩散到身体远处部位的风险。这些结果建立在今年早些时候相同方案的第二阶段试验积极数据的基础上。基于 mRNA 的注射剂与默克公司的免疫疗法 Keytruda 相结合，在超过 1,100 名高危或晚期黑色素瘤患者的三期试验中达到了关键目标，这些患者的可检测到的癌症已通过手术完全切除。默克公司的股价在盘前交易中上涨了 8% 以上，而 Moderna 的股价则飙升了约 90%。",
-          "whyItMatters": "“Moderna、默克癌症疫苗在后期试验中显示出希望； Moderna 股价飙升 90%”如果继续发展，可能通过能源价格、航运、贸易、汇率或市场预期传导到国内。了解它的意义在于判断后续风险，而不只停留在事件本身。",
-          "userRelevance": "即使你不在事发地区，“Moderna、默克癌症疫苗在后期试验中显示出希望； Moderna 股价飙升 90%”也可能通过能源价格、国际航运、贸易成本和市场预期间接影响国内生活与工作判断。",
-          "whatToWatch": "接下来要看“Moderna、默克癌症疫苗在后期试验中显示出希望； Moderna 股价飙升 90%”是否出现更细的城市、行业、平台或企业数据，以及这一变化能否连续保持。"
-        },
-        "sourceLinks": [
-          {
-            "title": "CNBC World News RSS",
-            "url": "https://www.cnbc.com/2026/08/19/moderna-merck-cancer-vaccine-shows-initial-late-stage-melanoma-data.html",
-            "sourceId": "cnbc-world-rss",
-            "publishedAt": "2026-08-19T12:57:32.000Z",
-            "language": "zh",
-            "originalLanguage": "en",
-            "translationStatus": "translated",
-            "fetchedAt": "2026-08-19T13:28:27.197Z",
-            "sourceMethod": "rss",
-            "verificationStatus": "pending"
-          }
-        ],
-        "images": [
-          {
-            "url": "https://image.cnbcfm.com/api/v1/image/108351449-17871406841787140679-47859846134-1080pnbcnews.jpg?v=1787140683&amp;w=750&amp;h=422&amp;vtcrop=y",
-            "sourceUrl": "https://www.cnbc.com/2026/08/19/moderna-merck-cancer-vaccine-shows-initial-late-stage-melanoma-data.html"
-          }
-        ],
-        "generatedAt": "2026-08-19T13:28:17.731Z"
+        "generatedAt": "2026-08-19T13:51:48.456Z"
       }
     },
     {
@@ -3025,7 +2900,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-19T13:28:27.197Z",
+            "fetchedAt": "2026-08-19T13:51:59.047Z",
             "sourceMethod": "rss",
             "verificationStatus": "pending"
           }
@@ -3080,7 +2955,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-19T13:28:27.197Z",
+            "fetchedAt": "2026-08-19T13:51:59.047Z",
             "sourceMethod": "rss",
             "verificationStatus": "pending"
           }
@@ -3091,7 +2966,7 @@
             "sourceUrl": "https://www.cnbc.com/2026/08/19/lagarde-ecb-europe-economy-trump.html"
           }
         ],
-        "generatedAt": "2026-08-19T13:28:17.731Z"
+        "generatedAt": "2026-08-19T13:51:48.456Z"
       }
     },
     {
@@ -3128,7 +3003,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-19T13:28:27.197Z",
+            "fetchedAt": "2026-08-19T13:51:59.047Z",
             "sourceMethod": "rss",
             "verificationStatus": "pending"
           }
@@ -3183,13 +3058,13 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-19T13:28:27.197Z",
+            "fetchedAt": "2026-08-19T13:51:59.047Z",
             "sourceMethod": "rss",
             "verificationStatus": "pending"
           }
         ],
         "images": [],
-        "generatedAt": "2026-08-19T13:28:17.731Z"
+        "generatedAt": "2026-08-19T13:51:48.456Z"
       }
     },
     {
@@ -3226,7 +3101,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-19T13:28:27.197Z",
+            "fetchedAt": "2026-08-19T13:51:59.047Z",
             "sourceMethod": "rss",
             "verificationStatus": "pending"
           }
@@ -3281,7 +3156,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-19T13:28:27.197Z",
+            "fetchedAt": "2026-08-19T13:51:59.047Z",
             "sourceMethod": "rss",
             "verificationStatus": "pending"
           }
@@ -3296,7 +3171,7 @@
             "sourceUrl": "https://www.cnbc.com/2026/08/19/amazon-plans-drone-expansion-as-top-exec-projects-1-million-deliveries.html"
           }
         ],
-        "generatedAt": "2026-08-19T13:28:17.731Z"
+        "generatedAt": "2026-08-19T13:51:48.456Z"
       }
     },
     {
@@ -3335,7 +3210,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-19T13:28:27.197Z",
+            "fetchedAt": "2026-08-19T13:51:59.047Z",
             "sourceMethod": "rss",
             "verificationStatus": "pending"
           }
@@ -3390,13 +3265,13 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-19T13:28:27.197Z",
+            "fetchedAt": "2026-08-19T13:51:59.047Z",
             "sourceMethod": "rss",
             "verificationStatus": "pending"
           }
         ],
         "images": [],
-        "generatedAt": "2026-08-19T13:28:17.731Z"
+        "generatedAt": "2026-08-19T13:51:48.456Z"
       }
     },
     {
@@ -3435,7 +3310,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-19T13:28:27.197Z",
+            "fetchedAt": "2026-08-19T13:51:59.047Z",
             "sourceMethod": "rss",
             "verificationStatus": "pending"
           }
@@ -3490,13 +3365,13 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-19T13:28:27.197Z",
+            "fetchedAt": "2026-08-19T13:51:59.047Z",
             "sourceMethod": "rss",
             "verificationStatus": "pending"
           }
         ],
         "images": [],
-        "generatedAt": "2026-08-19T13:28:17.731Z"
+        "generatedAt": "2026-08-19T13:51:48.456Z"
       }
     },
     {
@@ -3535,7 +3410,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-19T13:28:27.197Z",
+            "fetchedAt": "2026-08-19T13:51:59.047Z",
             "sourceMethod": "rss",
             "verificationStatus": "pending"
           }
@@ -3590,13 +3465,13 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-19T13:28:27.197Z",
+            "fetchedAt": "2026-08-19T13:51:59.047Z",
             "sourceMethod": "rss",
             "verificationStatus": "pending"
           }
         ],
         "images": [],
-        "generatedAt": "2026-08-19T13:28:17.731Z"
+        "generatedAt": "2026-08-19T13:51:48.456Z"
       }
     },
     {
@@ -3633,7 +3508,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-19T13:28:27.197Z",
+            "fetchedAt": "2026-08-19T13:51:59.047Z",
             "sourceMethod": "rss",
             "verificationStatus": "pending"
           }
@@ -3688,13 +3563,13 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-19T13:28:27.197Z",
+            "fetchedAt": "2026-08-19T13:51:59.047Z",
             "sourceMethod": "rss",
             "verificationStatus": "pending"
           }
         ],
         "images": [],
-        "generatedAt": "2026-08-19T13:28:17.731Z"
+        "generatedAt": "2026-08-19T13:51:48.456Z"
       }
     },
     {
@@ -3733,7 +3608,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-19T13:28:27.197Z",
+            "fetchedAt": "2026-08-19T13:51:59.047Z",
             "sourceMethod": "rss",
             "verificationStatus": "pending"
           }
@@ -3788,13 +3663,13 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-19T13:28:27.197Z",
+            "fetchedAt": "2026-08-19T13:51:59.047Z",
             "sourceMethod": "rss",
             "verificationStatus": "pending"
           }
         ],
         "images": [],
-        "generatedAt": "2026-08-19T13:28:17.731Z"
+        "generatedAt": "2026-08-19T13:51:48.456Z"
       }
     },
     {
@@ -3831,7 +3706,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-19T13:28:28.813Z",
+            "fetchedAt": "2026-08-19T13:51:55.227Z",
             "sourceMethod": "rss",
             "verificationStatus": "pending"
           }
@@ -3872,7 +3747,7 @@
         ],
         "section": "ai",
         "body": {
-          "background": "这是制药行业已经面临的挑战，在动物试验中有效进入临床试验的药物中，90% 的药物并未获得用于人体的监管批准。HIVE 是该公司建造的模块化机器人实验室，可以培养 20 种人体组织，然后自动剂量和监测它们，生成当今人工智能模型所缺少的因果生物数据 - 如今的数据主要来自动物测试或单个细胞或蛋白质而不是活体组织的研究。“如果没有人体测试，这些 [AI] 模型会做什么？",
+          "background": "这是制药行业已经面临的一个挑战，在动物试验中足够有效并进入临床试验的药物中，90% 的药物并未获得用于人类的监管批准。HIVE 是该公司建造的模块化机器人实验室，可以培养 20 种人体组织，然后自动剂量和监测它们，生成当今人工智能模型所缺少的因果生物数据 - 如今的数据主要来自动物测试或单个细胞或蛋白质而不是活体组织的研究。“如果没有人体测试，这些 [AI] 模型会做什么？",
           "keyProgress": "Vivodyne 首席执行官兼联合创始人 Andrei Georgescu 问道。”就连 Anthropic 首席执行官达里奥·阿莫迪 (Dario Amodei) 也在周末写道，人工智能将治愈癌症的说法已经变得陈词滥调，不再可信——正如他所说，“真正有效的就是治愈癌症”。Sam Altman 多次引用治愈癌症作为 OpenAI 推动 AGI 和更大规模计算扩展的理由；Isomorphic Labs 是在 Alphafold 的基础上建立的，预计将在今年年底进行首次试验，原计划于 2025 年进行。",
           "whyItMatters": "“人工智能距离治愈癌症还很遥远。这家初创公司表示，它知道需要做什么”能帮助你判断这项能力是否已经进入工程、产品或商业场景，并据此调整技术选型、产品规划、学习重点或职业判断。",
           "userRelevance": "如果你从事AI 产品、AI 技术、产品管理、技术研发，可以重点判断“人工智能距离治愈癌症还很遥远。这家初创公司表示，它知道需要做什么”是否已经具备产品落地、技术选型或业务合作价值。",
@@ -3887,7 +3762,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-19T13:28:28.813Z",
+            "fetchedAt": "2026-08-19T13:51:55.227Z",
             "sourceMethod": "rss",
             "verificationStatus": "pending"
           }
@@ -3898,7 +3773,7 @@
             "sourceUrl": "https://techcrunch.com/2026/08/19/ai-isnt-close-to-curing-cancer-this-startup-says-it-knows-what-it-will-take/"
           }
         ],
-        "generatedAt": "2026-08-19T13:28:17.731Z"
+        "generatedAt": "2026-08-19T13:51:48.456Z"
       }
     },
     {
@@ -3935,7 +3810,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-19T13:28:28.813Z",
+            "fetchedAt": "2026-08-19T13:51:55.227Z",
             "sourceMethod": "rss",
             "verificationStatus": "pending"
           }
@@ -3977,7 +3852,7 @@
         "section": "ai",
         "body": {
           "background": "周二，Relativity Networks 宣布获得 2200 万美元的 SAFE 票据融资，投资方包括 Rhapsody Venture Partners、Bell Ventures Inc. 和 Faster Than Glass LLC 等。SAFE 票据是用于种子前和种子轮的标准方法，其中一旦公司筹集了第一轮定价资金，投资就会转移到特定数量的股票。当 AI 计算发生在单个 GPU 机架上时，光纤延迟很容易被忽视，但随着规模的扩大，GPU 之间的物理距离也随之增加。",
-          "keyProgress": "首席执行官 Jason Eisenholz 估计，信号在传统光纤中传播一公里大约需要五微秒。尽管大多数人都将光纤速度视为既定事实，但有一家公司押注更快的光纤可能会改变数据中心扩建背后的地理数学。该公司还从一家领先的超大规模企业那里获得了价值 4000 万美元的后续订单，该企业拒绝在本文中透露姓名。Relativity Networks 主营空心光纤，这是一种很少部署的技术，其数据传输速度比传统光纤快 30%。",
+          "keyProgress": "首席执行官 Jason Eichenholz 估计，信号在传统光纤中传播一公里大约需要五微秒。尽管大多数人都将光纤速度视为既定事实，但有一家公司押注更快的光纤可能会改变数据中心扩建背后的地理数学。该公司还从一家领先的超大规模企业那里获得了价值 4000 万美元的后续订单，该企业拒绝在本文中透露姓名。Relativity Networks 经营空心光纤，这是一种很少部署的技术，其数据传输速度比传统光纤快 50%。",
           "whyItMatters": "“Relativity Networks 融资 2200 万美元，为数据中心提供更快的光纤”能帮助你判断这项能力是否已经进入工程、产品或商业场景，并据此调整技术选型、产品规划、学习重点或职业判断。",
           "userRelevance": "如果你从事AI 产品、AI 技术、产品管理、技术研发，可以重点判断“Relativity Networks 融资 2200 万美元，为数据中心提供更快的光纤”是否已经具备产品落地、技术选型或业务合作价值。",
           "whatToWatch": "接下来要看“Relativity Networks 融资 2200 万美元，为数据中心提供更快的光纤”是否有更多可靠来源、量产或应用进展，以及它会不会从单点消息发展成持续趋势。"
@@ -3991,18 +3866,18 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-19T13:28:28.813Z",
+            "fetchedAt": "2026-08-19T13:51:55.227Z",
             "sourceMethod": "rss",
             "verificationStatus": "pending"
           }
         ],
         "images": [],
-        "generatedAt": "2026-08-19T13:28:17.731Z"
+        "generatedAt": "2026-08-19T13:51:48.456Z"
       }
     },
     {
       "candidate": {
-        "id": "real-gov-uk-news-mn592m",
+        "id": "real-gov-uk-news-mx4url",
         "title": "TRA对中国吊臂式升降机征收反倾销税",
         "oneLine": "英国官方更新涉及中国，需要结合生效时间和适用人群判断影响。",
         "categories": [
@@ -4038,7 +3913,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-19T13:28:27.023Z",
+            "fetchedAt": "2026-08-19T13:51:53.640Z",
             "sourceMethod": "rss",
             "verificationStatus": "confirmed"
           }
@@ -4058,7 +3933,7 @@
         "isExample": false
       },
       "card": {
-        "id": "draft-real-gov-uk-news-mn592m",
+        "id": "draft-real-gov-uk-news-mx4url",
         "title": "TRA对中国吊臂式升降机征收反倾销税",
         "oneLine": "政策变化：在总部位于米尔顿凯恩斯的英国动臂式升降机生产商 Niftylift Limited 提出申请后，TRA 发起了一项反倾销。",
         "importance": "B",
@@ -4094,7 +3969,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-19T13:28:27.023Z",
+            "fetchedAt": "2026-08-19T13:51:53.640Z",
             "sourceMethod": "rss",
             "verificationStatus": "confirmed"
           }
@@ -4105,7 +3980,7 @@
             "sourceUrl": "https://www.gov.uk/government/news/tra-imposes-anti-dumping-duties-on-boom-lifts-from-china"
           }
         ],
-        "generatedAt": "2026-08-19T13:28:17.731Z"
+        "generatedAt": "2026-08-19T13:51:48.456Z"
       }
     },
     {
@@ -4139,7 +4014,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-19T13:28:24.979Z",
+            "fetchedAt": "2026-08-19T13:51:51.135Z",
             "sourceMethod": "rss",
             "verificationStatus": "confirmed"
           },
@@ -4151,7 +4026,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-19T13:28:24.979Z",
+            "fetchedAt": "2026-08-19T13:51:51.135Z",
             "sourceMethod": "rss",
             "verificationStatus": "confirmed"
           },
@@ -4163,7 +4038,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-19T13:28:24.979Z",
+            "fetchedAt": "2026-08-19T13:51:51.135Z",
             "sourceMethod": "rss",
             "verificationStatus": "confirmed"
           }
@@ -4215,7 +4090,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-19T13:28:24.979Z",
+            "fetchedAt": "2026-08-19T13:51:51.135Z",
             "sourceMethod": "rss",
             "verificationStatus": "confirmed"
           },
@@ -4227,7 +4102,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-19T13:28:24.979Z",
+            "fetchedAt": "2026-08-19T13:51:51.135Z",
             "sourceMethod": "rss",
             "verificationStatus": "confirmed"
           },
@@ -4239,7 +4114,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-19T13:28:24.979Z",
+            "fetchedAt": "2026-08-19T13:51:51.135Z",
             "sourceMethod": "rss",
             "verificationStatus": "confirmed"
           }
@@ -4250,7 +4125,7 @@
             "sourceUrl": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1030727"
           }
         ],
-        "generatedAt": "2026-08-19T13:28:17.731Z"
+        "generatedAt": "2026-08-19T13:51:48.456Z"
       }
     },
     {
@@ -4284,7 +4159,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-19T13:28:24.979Z",
+            "fetchedAt": "2026-08-19T13:51:51.135Z",
             "sourceMethod": "rss",
             "verificationStatus": "confirmed"
           }
@@ -4336,7 +4211,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-19T13:28:24.979Z",
+            "fetchedAt": "2026-08-19T13:51:51.135Z",
             "sourceMethod": "rss",
             "verificationStatus": "confirmed"
           }
@@ -4347,7 +4222,7 @@
             "sourceUrl": "https://www.gdacs.org/report.aspx?eventtype=FL&eventid=1104102"
           }
         ],
-        "generatedAt": "2026-08-19T13:28:17.731Z"
+        "generatedAt": "2026-08-19T13:51:48.456Z"
       }
     },
     {
@@ -4380,7 +4255,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-19T13:28:26.957Z",
+            "fetchedAt": "2026-08-19T13:51:53.435Z",
             "sourceMethod": "rss",
             "verificationStatus": "confirmed"
           }
@@ -4429,7 +4304,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-19T13:28:26.957Z",
+            "fetchedAt": "2026-08-19T13:51:53.435Z",
             "sourceMethod": "rss",
             "verificationStatus": "confirmed"
           }
@@ -4456,7 +4331,7 @@
             "sourceUrl": "https://www.npr.org/2026/08/19/g-s1-138787/how-indias-blocking-of-a-film-exposing-real-life-police-abuses-backfired"
           }
         ],
-        "generatedAt": "2026-08-19T13:28:17.731Z"
+        "generatedAt": "2026-08-19T13:51:48.456Z"
       }
     },
     {
@@ -4487,7 +4362,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-19T13:28:26.957Z",
+            "fetchedAt": "2026-08-19T13:51:53.435Z",
             "sourceMethod": "rss",
             "verificationStatus": "confirmed"
           }
@@ -4536,7 +4411,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-19T13:28:26.957Z",
+            "fetchedAt": "2026-08-19T13:51:53.435Z",
             "sourceMethod": "rss",
             "verificationStatus": "confirmed"
           }
@@ -4559,7 +4434,7 @@
             "sourceUrl": "https://www.npr.org/2026/08/19/g-s1-139164/congo-ebola-outbreak"
           }
         ],
-        "generatedAt": "2026-08-19T13:28:17.731Z"
+        "generatedAt": "2026-08-19T13:51:48.456Z"
       }
     },
     {
@@ -4592,7 +4467,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-19T13:28:26.957Z",
+            "fetchedAt": "2026-08-19T13:51:53.435Z",
             "sourceMethod": "rss",
             "verificationStatus": "confirmed"
           }
@@ -4641,7 +4516,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-19T13:28:26.957Z",
+            "fetchedAt": "2026-08-19T13:51:53.435Z",
             "sourceMethod": "rss",
             "verificationStatus": "confirmed"
           }
@@ -4660,12 +4535,12 @@
             "sourceUrl": "https://www.npr.org/2026/08/19/nx-s1-5937389/liberia-to-take-deportees-from-us"
           }
         ],
-        "generatedAt": "2026-08-19T13:28:17.731Z"
+        "generatedAt": "2026-08-19T13:51:48.456Z"
       }
     },
     {
       "candidate": {
-        "id": "cluster-real-gov-uk-news-1uo4bop",
+        "id": "cluster-real-gov-uk-news-1ue4pzq",
         "title": "2026 年 6 月英国房价指数",
         "oneLine": "英国官方更新涉及英国，需要结合生效时间和适用人群判断影响。",
         "categories": [
@@ -4696,7 +4571,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-19T13:28:27.023Z",
+            "fetchedAt": "2026-08-19T13:51:53.640Z",
             "sourceMethod": "rss",
             "verificationStatus": "confirmed"
           },
@@ -4708,7 +4583,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-19T13:28:27.023Z",
+            "fetchedAt": "2026-08-19T13:51:53.640Z",
             "sourceMethod": "rss",
             "verificationStatus": "confirmed"
           }
@@ -4728,7 +4603,7 @@
         "isExample": false
       },
       "card": {
-        "id": "draft-cluster-real-gov-uk-news-1uo4bop",
+        "id": "draft-cluster-real-gov-uk-news-1ue4pzq",
         "title": "2026 年 6 月英国房价指数",
         "oneLine": "政策变化：《2026 年 6 月英国房价指数》我们使用一些必要的 cookie 来使该网站正常运行。",
         "importance": "B",
@@ -4760,7 +4635,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-19T13:28:27.023Z",
+            "fetchedAt": "2026-08-19T13:51:53.640Z",
             "sourceMethod": "rss",
             "verificationStatus": "confirmed"
           },
@@ -4772,7 +4647,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-19T13:28:27.023Z",
+            "fetchedAt": "2026-08-19T13:51:53.640Z",
             "sourceMethod": "rss",
             "verificationStatus": "confirmed"
           }
@@ -4783,12 +4658,12 @@
             "sourceUrl": "https://www.gov.uk/government/news/uk-house-price-index-for-june-2026"
           }
         ],
-        "generatedAt": "2026-08-19T13:28:17.731Z"
+        "generatedAt": "2026-08-19T13:51:48.456Z"
       }
     },
     {
       "candidate": {
-        "id": "real-gov-uk-news-hhjpaa",
+        "id": "real-gov-uk-news-hrjaz9",
         "title": "推出新的 GOV.UK 页面，鼓励报告、提供更新并跟踪西南部的章鱼繁殖情况",
         "oneLine": "英国官方更新涉及英国，需要结合生效时间和适用人群判断影响。",
         "categories": [
@@ -4819,7 +4694,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-19T13:28:27.023Z",
+            "fetchedAt": "2026-08-19T13:51:53.640Z",
             "sourceMethod": "rss",
             "verificationStatus": "confirmed"
           }
@@ -4839,7 +4714,7 @@
         "isExample": false
       },
       "card": {
-        "id": "draft-real-gov-uk-news-hhjpaa",
+        "id": "draft-real-gov-uk-news-hrjaz9",
         "title": "推出新的 GOV.UK 页面，鼓励报告、提供更新并跟踪西南部的章鱼繁殖情况",
         "oneLine": "政策变化：《推出新的 GOV.UK 页面，鼓励报告、提供更新并跟踪西南部的章鱼繁殖情况》我们使用一些必要的 cookie 来使该网站正常运行。",
         "importance": "B",
@@ -4871,7 +4746,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-19T13:28:27.023Z",
+            "fetchedAt": "2026-08-19T13:51:53.640Z",
             "sourceMethod": "rss",
             "verificationStatus": "confirmed"
           }
@@ -4882,12 +4757,12 @@
             "sourceUrl": "https://www.gov.uk/government/news/new-govuk-page-launched-to-encourage-reporting-provide-updates-and-track-the-south-wests-octopus-bloom"
           }
         ],
-        "generatedAt": "2026-08-19T13:28:17.731Z"
+        "generatedAt": "2026-08-19T13:51:48.456Z"
       }
     },
     {
       "candidate": {
-        "id": "real-gov-uk-news-1sbmdad",
+        "id": "real-gov-uk-news-1s1mrle",
         "title": "刘易斯客运列车脱轨",
         "oneLine": "英国政府发布新的政策或公共事务安排，需要关注适用范围和正式生效时间。",
         "categories": [
@@ -4916,7 +4791,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-19T13:28:27.023Z",
+            "fetchedAt": "2026-08-19T13:51:53.640Z",
             "sourceMethod": "rss",
             "verificationStatus": "confirmed"
           }
@@ -4936,7 +4811,7 @@
         "isExample": false
       },
       "card": {
-        "id": "draft-real-gov-uk-news-1sbmdad",
+        "id": "draft-real-gov-uk-news-1s1mrle",
         "title": "刘易斯客运列车脱轨",
         "oneLine": "政策变化：《刘易斯客运列车脱轨》我们使用一些必要的 cookie 来使该网站正常运行。",
         "importance": "B",
@@ -4968,7 +4843,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-19T13:28:27.023Z",
+            "fetchedAt": "2026-08-19T13:51:53.640Z",
             "sourceMethod": "rss",
             "verificationStatus": "confirmed"
           }
@@ -4987,12 +4862,12 @@
             "sourceUrl": "https://www.gov.uk/government/news/derailment-of-a-passenger-train-at-lewes"
           }
         ],
-        "generatedAt": "2026-08-19T13:28:17.731Z"
+        "generatedAt": "2026-08-19T13:51:48.456Z"
       }
     },
     {
       "candidate": {
-        "id": "real-gov-uk-news-446en4",
+        "id": "real-gov-uk-news-4y57q1",
         "title": "林业委员会扩大甜板栗疫病划定范围",
         "oneLine": "英国政府发布新的政策或公共事务安排，需要关注适用范围和正式生效时间。",
         "categories": [
@@ -5021,7 +4896,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-19T13:28:27.023Z",
+            "fetchedAt": "2026-08-19T13:51:53.640Z",
             "sourceMethod": "rss",
             "verificationStatus": "confirmed"
           }
@@ -5041,7 +4916,7 @@
         "isExample": false
       },
       "card": {
-        "id": "draft-real-gov-uk-news-446en4",
+        "id": "draft-real-gov-uk-news-4y57q1",
         "title": "林业委员会扩大甜板栗疫病划定范围",
         "oneLine": "政策变化：《林业委员会扩大甜板栗疫病划定范围》我们使用一些必要的 cookie 来使该网站正常运行。",
         "importance": "B",
@@ -5073,7 +4948,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-19T13:28:27.023Z",
+            "fetchedAt": "2026-08-19T13:51:53.640Z",
             "sourceMethod": "rss",
             "verificationStatus": "confirmed"
           }
@@ -5084,12 +4959,12 @@
             "sourceUrl": "https://www.gov.uk/government/news/forestry-commission-extends-sweet-chestnut-blight-demarcated-area"
           }
         ],
-        "generatedAt": "2026-08-19T13:28:17.731Z"
+        "generatedAt": "2026-08-19T13:51:48.456Z"
       }
     },
     {
       "candidate": {
-        "id": "real-gov-uk-news-1f9krbe",
+        "id": "real-gov-uk-news-1fjkd0d",
         "title": "Trainline、维珍航空和 RED Driving School 因滴水定价问题接受调查",
         "oneLine": "英国政府发布新的政策或公共事务安排，需要关注适用范围和正式生效时间。",
         "categories": [
@@ -5118,7 +4993,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-19T13:28:27.023Z",
+            "fetchedAt": "2026-08-19T13:51:53.640Z",
             "sourceMethod": "rss",
             "verificationStatus": "confirmed"
           }
@@ -5138,7 +5013,7 @@
         "isExample": false
       },
       "card": {
-        "id": "draft-real-gov-uk-news-1f9krbe",
+        "id": "draft-real-gov-uk-news-1fjkd0d",
         "title": "Trainline、维珍航空和 RED Driving School 因滴水定价问题接受调查",
         "oneLine": "政策变化：《Trainline、维珍航空和 RED Driving School 因滴水定价问题接受调查》我们使用一些必要的 cookie 来使该网站正常运行。",
         "importance": "B",
@@ -5170,7 +5045,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-19T13:28:27.023Z",
+            "fetchedAt": "2026-08-19T13:51:53.640Z",
             "sourceMethod": "rss",
             "verificationStatus": "confirmed"
           }
@@ -5181,7 +5056,7 @@
             "sourceUrl": "https://www.gov.uk/government/news/trainline-virgin-atlantic-and-red-driving-school-investigated-for-drip-pricing"
           }
         ],
-        "generatedAt": "2026-08-19T13:28:17.731Z"
+        "generatedAt": "2026-08-19T13:51:48.456Z"
       }
     }
   ]

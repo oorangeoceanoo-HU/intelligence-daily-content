@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "publishedAt": "2026-08-19T04:20:22.107Z",
+  "publishedAt": "2026-08-19T04:46:41.372Z",
   "issue": {
     "id": "daily-public-2026-08-19",
     "date": "2026-08-19",
@@ -43,7 +43,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-19T04:20:26.707Z",
+            "fetchedAt": "2026-08-19T04:46:45.579Z",
             "sourceMethod": "rss",
             "verificationStatus": "pending"
           }
@@ -54,7 +54,7 @@
             "sourceUrl": "https://www.cnbc.com/2026/08/18/trump-carney-canada-tariffs-dealine-talks.html"
           }
         ],
-        "generatedAt": "2026-08-19T04:20:22.107Z"
+        "generatedAt": "2026-08-19T04:46:41.372Z"
       },
       {
         "id": "draft-real-cnbc-world-rss-1ckl2mv",
@@ -94,13 +94,13 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-19T04:20:26.707Z",
+            "fetchedAt": "2026-08-19T04:46:45.579Z",
             "sourceMethod": "rss",
             "verificationStatus": "pending"
           }
         ],
         "images": [],
-        "generatedAt": "2026-08-19T04:20:22.107Z"
+        "generatedAt": "2026-08-19T04:46:41.372Z"
       },
       {
         "id": "draft-real-cnbc-world-rss-156qhhu",
@@ -153,7 +153,7 @@
         "generatedAt": "2026-08-18T23:33:59.000Z"
       },
       {
-        "id": "draft-real-cnbc-world-rss-179q99y",
+        "id": "draft-real-cnbc-world-rss-183p2cv",
         "title": "中国白酒制造商茅台的低迷对中国经济有何影响",
         "oneLine": "政策变化：北京——走在中国的大多数街道上，你都会发现一家酒类商店，上面贴着优质烈酒品牌茅台的广告，以及按年份划分的转售价格海报。",
         "importance": "B",
@@ -189,13 +189,13 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-19T04:20:26.707Z",
+            "fetchedAt": "2026-08-19T04:46:45.579Z",
             "sourceMethod": "rss",
             "verificationStatus": "pending"
           }
         ],
         "images": [],
-        "generatedAt": "2026-08-19T04:20:22.107Z"
+        "generatedAt": "2026-08-19T04:46:41.372Z"
       },
       {
         "id": "draft-real-cnbc-world-rss-me3npk",
@@ -233,16 +233,16 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-19T04:20:26.707Z",
+            "fetchedAt": "2026-08-19T04:46:45.579Z",
             "sourceMethod": "rss",
             "verificationStatus": "pending"
           }
         ],
         "images": [],
-        "generatedAt": "2026-08-19T04:20:22.107Z"
+        "generatedAt": "2026-08-19T04:46:41.372Z"
       },
       {
-        "id": "draft-real-cnbc-world-rss-1d6kjse",
+        "id": "draft-real-cnbc-world-rss-1e0jcvb",
         "title": "加州 AG Bonta 表示，针对 Meta 的案件涉及“恢复和扭曲”，而不是损害赔偿",
         "oneLine": "最新进展：加州 AG Bonta 表示，针对 Meta 的案件涉及“恢复和扭曲”，而不是损害赔偿。",
         "importance": "B",
@@ -277,7 +277,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-19T04:20:26.707Z",
+            "fetchedAt": "2026-08-19T04:46:45.579Z",
             "sourceMethod": "rss",
             "verificationStatus": "pending"
           }
@@ -292,10 +292,10 @@
             "sourceUrl": "https://www.cnbc.com/2026/08/18/meta-attorneys-general-opening-arguments-california-bonta-restitution.html"
           }
         ],
-        "generatedAt": "2026-08-19T04:20:22.107Z"
+        "generatedAt": "2026-08-19T04:46:41.372Z"
       },
       {
-        "id": "draft-real-cnbc-world-rss-1cvmchg",
+        "id": "draft-real-cnbc-world-rss-1d5ly6f",
         "title": "到处都是核武器？破损的美国核保护伞正在推动盟友权衡防御选择，增加核扩散的风险",
         "oneLine": "最新进展：到处都是核武器？破损的美国核保护伞正在推动盟友权衡防御选择，增加核扩散的风险。",
         "importance": "B",
@@ -330,7 +330,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-19T04:20:26.707Z",
+            "fetchedAt": "2026-08-19T04:46:45.579Z",
             "sourceMethod": "rss",
             "verificationStatus": "pending"
           }
@@ -341,7 +341,7 @@
             "sourceUrl": "https://www.cnbc.com/2026/08/19/nuclear-proliferation-defense-risk-trump-umbrella-.html"
           }
         ],
-        "generatedAt": "2026-08-19T04:20:22.107Z"
+        "generatedAt": "2026-08-19T04:46:41.372Z"
       },
       {
         "id": "draft-real-un-news-rss-189gauo",
@@ -1172,7 +1172,7 @@
     "estimatedReadMinutes": 29,
     "pageCount": 3,
     "topCardId": "draft-real-cnbc-world-rss-vjalgu",
-    "generatedAt": "2026-08-19T04:20:22.107Z",
+    "generatedAt": "2026-08-19T04:46:41.372Z",
     "pushSlots": [
       "08:30",
       "12:30",
@@ -1188,10 +1188,10 @@
     "editionCardIds": [
       "draft-real-cnbc-world-rss-vjalgu",
       "draft-real-cnbc-world-rss-1ckl2mv",
-      "draft-real-cnbc-world-rss-179q99y",
+      "draft-real-cnbc-world-rss-183p2cv",
       "draft-real-cnbc-world-rss-me3npk",
-      "draft-real-cnbc-world-rss-1d6kjse",
-      "draft-real-cnbc-world-rss-1cvmchg"
+      "draft-real-cnbc-world-rss-1e0jcvb",
+      "draft-real-cnbc-world-rss-1d5ly6f"
     ],
     "carriedCardIds": [
       "draft-real-cnbc-world-rss-156qhhu",

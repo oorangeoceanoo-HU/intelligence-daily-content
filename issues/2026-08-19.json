@@ -1,11 +1,257 @@
 {
   "schemaVersion": 2,
-  "publishedAt": "2026-08-19T04:46:41.372Z",
+  "publishedAt": "2026-08-19T09:16:54.790Z",
   "issue": {
     "id": "daily-public-2026-08-19",
     "date": "2026-08-19",
     "userId": "public",
     "cards": [
+      {
+        "id": "draft-real-cnbc-world-rss-9i23yl",
+        "title": "前国防部长呼吁选举，泽连斯基的战时统治面临挑战",
+        "oneLine": "政策变化：就在费多罗夫发表声明的几个小时前，泽伦斯基证实他已要求议会确认叶文·赫马拉周三就任乌克兰新任国防部长，这实际上关闭了费多罗夫东山再起的大门。",
+        "importance": "S",
+        "credibility": "待确认",
+        "tags": [
+          "S",
+          "mustKnow",
+          "industry",
+          "world",
+          "policy",
+          "finance"
+        ],
+        "industries": [
+          "generalPublic",
+          "financeInvestment",
+          "operationsGrowth",
+          "ecommerceRetail"
+        ],
+        "section": "front",
+        "body": {
+          "background": "他的评论是在 YouTube 上发布的一段 9 分钟多的视频中发表的，但没有提及泽连斯基的名字。费多罗夫是泽连斯基的前盟友，在乌克兰被广泛视为受欢迎的人物。这位 35 岁的人是该国无人机战的倡导者，因激励国防部并带头开展反腐败运动而受到赞誉。",
+          "keyProgress": "乌克兰前国防部长米哈伊洛·费多罗夫呼吁举行战时选举，许多人认为这是自俄罗斯近四年半前发动全面入侵以来对总统泽伦斯基最直接的政治挑战。据路透社报道，上个月在政府改组中意外被解雇的费多罗夫周二表示，“民主不能被俄罗斯劫持”。费多罗夫说：“我们必须找到一个合法、安全和现实的机制，让乌克兰即使在长期战争的情况下也能恢复全面的民主进程。他在任职大约六个月后于 7 月底被解雇，引发了全国主要城市的抗议活动。",
+          "whyItMatters": "“前国防部长呼吁选举，泽连斯基的战时统治面临挑战”如果继续发展，可能通过能源价格、航运、贸易、汇率或市场预期传导到国内。了解它的意义在于判断后续风险，而不只停留在事件本身。",
+          "userRelevance": "即使你不在乌克兰，“前国防部长呼吁选举，泽连斯基的战时统治面临挑战”也可能通过能源价格、国际航运、贸易成本和市场预期间接影响国内生活与工作判断。",
+          "whatToWatch": "接下来要看“前国防部长呼吁选举，泽连斯基的战时统治面临挑战”是否出现更细的城市、行业、平台或企业数据，以及这一变化能否连续保持。"
+        },
+        "sourceLinks": [
+          {
+            "title": "CNBC World News RSS",
+            "url": "https://www.cnbc.com/2026/08/19/ukraine-war-fedorov-zelenskky-election.html",
+            "sourceId": "cnbc-world-rss",
+            "publishedAt": "2026-08-19T07:06:09.000Z",
+            "language": "zh",
+            "originalLanguage": "en",
+            "translationStatus": "translated",
+            "fetchedAt": "2026-08-19T09:17:01.118Z",
+            "sourceMethod": "rss",
+            "verificationStatus": "pending"
+          }
+        ],
+        "images": [],
+        "generatedAt": "2026-08-19T09:16:54.790Z"
+      },
+      {
+        "id": "draft-real-xinhua-world-12ocgkw",
+        "title": "特朗普宣布推迟对加拿大加征50%关税",
+        "oneLine": "政策变化：美国总统特朗普18日晚宣布，推迟三天对加拿大商品加征50%关税。",
+        "importance": "S",
+        "credibility": "主流媒体",
+        "tags": [
+          "S",
+          "mustKnow",
+          "industry",
+          "world",
+          "policy"
+        ],
+        "industries": [
+          "generalPublic",
+          "financeInvestment",
+          "operationsGrowth",
+          "contentCreator"
+        ],
+        "section": "front",
+        "body": {
+          "background": "该关税原定于美东时间19日正式生效，涉及价值约200亿美元的加拿大商品。据加拿大媒体报道，加拿大总理卡尼18日晚与特朗普通电话，就避免美国对加拿大商品加征关税进行磋商。通话结束后，加拿大政府负责加美贸易的部长多米尼克·勒布朗与美国贸易代表贾米森·格里尔及商务部长霍华德·卢特尼克进一步沟通。",
+          "keyProgress": "特朗普宣布推迟对加拿大加征50%关税。特朗普宣布推迟对加拿大加征50%关税",
+          "whyItMatters": "“特朗普宣布推迟对加拿大加征50%关税”如果继续发展，可能通过能源价格、航运、贸易、汇率或市场预期传导到国内。了解它的意义在于判断后续风险，而不只停留在事件本身。",
+          "userRelevance": "即使你不在事发地区，“特朗普宣布推迟对加拿大加征50%关税”也可能通过能源价格、国际航运、贸易成本和市场预期间接影响国内生活与工作判断。",
+          "whatToWatch": "接下来要看“特朗普宣布推迟对加拿大加征50%关税”是否出现新的官方信息、后续行动，以及它与中国出行、贸易或公共判断的关联是否扩大。"
+        },
+        "sourceLinks": [
+          {
+            "title": "新华网国际",
+            "url": "https://www.news.cn/world/20260819/e7eb4899b771465fa78c230296216be7/c.html",
+            "sourceId": "xinhua-world",
+            "publishedAt": "2026-08-19T00:00:00+08:00",
+            "language": "zh",
+            "originalLanguage": "zh",
+            "translationStatus": "not-needed",
+            "fetchedAt": "2026-08-19T09:17:00.550Z",
+            "sourceMethod": "web",
+            "verificationStatus": "confirmed"
+          }
+        ],
+        "images": [],
+        "generatedAt": "2026-08-19T09:16:54.790Z"
+      },
+      {
+        "id": "draft-real-xinhua-world-1i65hb4",
+        "title": "美国宣布制裁国际刑事法院院长赤根智子",
+        "oneLine": "政策变化：美国国务卿鲁比奥18日发表声明称，美国当天对国际刑事法院院长、日本籍的赤根智子等两名国际刑事法院官员实施制裁。",
+        "importance": "S",
+        "credibility": "主流媒体",
+        "tags": [
+          "S",
+          "mustKnow",
+          "industry",
+          "world",
+          "policy"
+        ],
+        "industries": [
+          "generalPublic",
+          "financeInvestment",
+          "operationsGrowth",
+          "contentCreator"
+        ],
+        "section": "front",
+        "body": {
+          "background": "声明称，这两人“直接参与了国际刑事法院针对那些未同意接受其管辖的国家的官员所进行的调查、逮捕、拘留或起诉行动”。今年6月24日，国际刑事法院3名女法官向美国纽约联邦法院起诉美国总统特朗普及其政府，指控此前对她们实施的制裁措施非法。根据声明，另一名遭制裁的是国际刑事法院高级出庭律师、塞内加尔籍的阿卜杜拉耶·塞耶。",
+          "keyProgress": "7月13日，美国国务院宣布发起一项由多个政府部门参与的行动，以“系统性削弱国际刑事法院运作能力”，使其无法对美国军人或政府官员采取行动，并防止其以其他方式“威胁美国主权”。鲁比奥当天在社交媒体发表视频声明称，国际刑事法院及其盟友正对美国发动一场战争，这场战争“动用法规、条约以及所谓‘国际法’的强制力”，危及美国“政治和法律体系的方方面面”。近年来，美方以国际刑事法院调查美方人员以及对以色列总理和前防长发出逮捕令为由，多次宣布制裁国际刑事法院法官和检察官。美国司法部7月2日发表声明称，时任美国代理司法部长托德·布兰奇已致信赤根智子，拒绝承认国际刑事法院对美国人有司法管辖权。",
+          "whyItMatters": "“美国宣布制裁国际刑事法院院长赤根智子”如果继续发展，可能通过能源价格、航运、贸易、汇率或市场预期传导到国内。了解它的意义在于判断后续风险，而不只停留在事件本身。",
+          "userRelevance": "即使你不在美国，“美国宣布制裁国际刑事法院院长赤根智子”也可能通过能源价格、国际航运、贸易成本和市场预期间接影响国内生活与工作判断。",
+          "whatToWatch": "接下来要看“美国宣布制裁国际刑事法院院长赤根智子”是否出现新的官方信息、后续行动，以及它与中国出行、贸易或公共判断的关联是否扩大。"
+        },
+        "sourceLinks": [
+          {
+            "title": "新华网国际",
+            "url": "https://www.news.cn/world/20260819/d4cf1b83427d4bb59f83c787d834fc4b/c.html",
+            "sourceId": "xinhua-world",
+            "publishedAt": "2026-08-19T00:00:00+08:00",
+            "language": "zh",
+            "originalLanguage": "zh",
+            "translationStatus": "not-needed",
+            "fetchedAt": "2026-08-19T09:17:00.550Z",
+            "sourceMethod": "web",
+            "verificationStatus": "confirmed"
+          }
+        ],
+        "images": [],
+        "generatedAt": "2026-08-19T09:16:54.790Z"
+      },
+      {
+        "id": "draft-real-xinhua-world-1hp7mq2",
+        "title": "中国政府援助哥伦比亚紧急人道主义地震救灾物资运抵",
+        "oneLine": "最新进展：中国政府援助哥伦比亚紧急人道主义地震救灾物资运抵。",
+        "importance": "S",
+        "credibility": "主流媒体",
+        "tags": [
+          "S",
+          "mustKnow",
+          "risk",
+          "industry",
+          "world",
+          "policy",
+          "disaster"
+        ],
+        "industries": [
+          "generalPublic",
+          "financeInvestment",
+          "operationsGrowth",
+          "contentCreator"
+        ],
+        "section": "risk",
+        "body": {
+          "background": "新华社记者 李子健 摄 哥伦比亚考卡山谷省政府代表萨拉·门多萨在接受记者采访时表示，考卡山谷省政府诚挚感谢中国政府提供的援助，这批物资让处在困难时期的当地民众感到安心。哥伦比亚西部当地时间10日发生7.4级地震，造成严重人员伤亡和财产损失。当地时间18日中午，中国政府向哥伦比亚提供的紧急人道主义地震救灾物资运抵哥首都波哥大埃尔多拉多国际机场。",
+          "keyProgress": "中国驻哥伦比亚大使朱京阳同哥国家灾害风险管理局、外交部及当地政府等哥方代表在机场举行援助物资抵达仪式。朱京阳在仪式上代表中方致辞说，中哥双方团队克服困难、昼夜奋战、密切协作，推动援助物资顺利运抵，充分彰显了中哥友谊深厚的民意和坚实基础，也体现了两国关系互利互助的鲜明底色。新华社记者 李子健 摄 哥国家灾害风险管理局局长戴维·圣地亚哥·塔马约当天发表视频致辞说，这批物资体现了中国政府和人民在哥伦比亚困难时期给予的支持，哥方将与地方政府和救援机构协调做好物资分配工作。机、净水车、消毒机、太阳能照明设备、帐篷和毯子等救灾急需物资，共约80吨。",
+          "whyItMatters": "“中国政府援助哥伦比亚紧急人道主义地震救灾物资运抵”的直接价值是帮助你判断是否需要调整出行、居住或工作安排。影响地区、持续时间、预警等级和官方避险建议比事件热度更重要。",
+          "userRelevance": "对于“中国政府援助哥伦比亚紧急人道主义地震救灾物资运抵”，如果你近期计划前往事发地区或与当地有工作、家人联系，需要留意后续预警；没有直接联系时，可把它作为区域风险背景了解。",
+          "whatToWatch": "接下来要看“中国政府援助哥伦比亚紧急人道主义地震救灾物资运抵”的影响范围是否扩大、预警等级是否变化，以及是否出现与你所在城市相关的提醒。"
+        },
+        "sourceLinks": [
+          {
+            "title": "新华网国际",
+            "url": "https://www.news.cn/world/20260819/52be4a4440f04e15841ff03a3a3721f7/c.html",
+            "sourceId": "xinhua-world",
+            "publishedAt": "2026-08-19T00:00:00+08:00",
+            "language": "zh",
+            "originalLanguage": "zh",
+            "translationStatus": "not-needed",
+            "fetchedAt": "2026-08-19T09:17:00.550Z",
+            "sourceMethod": "web",
+            "verificationStatus": "confirmed"
+          }
+        ],
+        "images": [
+          {
+            "url": "https://www.news.cn/world/20260819/52be4a4440f04e15841ff03a3a3721f7/sCPykLlPnfXIbpFQ.jpg",
+            "sourceUrl": "https://www.news.cn/world/20260819/52be4a4440f04e15841ff03a3a3721f7/c.html"
+          },
+          {
+            "url": "https://www.news.cn/world/20260819/52be4a4440f04e15841ff03a3a3721f7/3h2JuzFH5JyzVIiN.jpeg",
+            "sourceUrl": "https://www.news.cn/world/20260819/52be4a4440f04e15841ff03a3a3721f7/c.html"
+          },
+          {
+            "url": "https://www.news.cn/world/20260819/52be4a4440f04e15841ff03a3a3721f7/9PN1i2uG918fjNLp.jpeg",
+            "sourceUrl": "https://www.news.cn/world/20260819/52be4a4440f04e15841ff03a3a3721f7/c.html"
+          },
+          {
+            "url": "https://www.news.cn/world/20260819/52be4a4440f04e15841ff03a3a3721f7/MoJfA4bmCJMIyGcF.jpeg",
+            "sourceUrl": "https://www.news.cn/world/20260819/52be4a4440f04e15841ff03a3a3721f7/c.html"
+          },
+          {
+            "url": "https://www.news.cn/world/20260819/52be4a4440f04e15841ff03a3a3721f7/Au5SpzR4MkNp6WRu.jpeg",
+            "sourceUrl": "https://www.news.cn/world/20260819/52be4a4440f04e15841ff03a3a3721f7/c.html"
+          }
+        ],
+        "generatedAt": "2026-08-19T09:16:54.790Z"
+      },
+      {
+        "id": "draft-real-xinhua-world-18pplhm",
+        "title": "津巴布韦船只倾覆事故已致93人死亡 另有7人失踪",
+        "oneLine": "最新进展：津巴布韦船只倾覆事故已致93人死亡 另有7人失踪。",
+        "importance": "S",
+        "credibility": "主流媒体",
+        "tags": [
+          "S",
+          "mustKnow",
+          "risk",
+          "industry",
+          "world",
+          "policy",
+          "disaster"
+        ],
+        "industries": [
+          "generalPublic",
+          "financeInvestment",
+          "operationsGrowth",
+          "contentCreator"
+        ],
+        "section": "risk",
+        "body": {
+          "background": "津巴布韦官员18日表示，该国北部卡里巴湖11日发生的船只倾覆事故死亡人数已升至93人。津巴布韦新闻、宣传和广播服务代理部长莫妮卡·穆茨万古瓦在首都哈拉雷召开的新闻发布会上表示，截至18日，已有77名乘客获救，打捞出93具遇难者遗体，另有7名经亲属确认登船的乘客仍然失踪。目前，津政府已启动对该事故的正式调查，包括检查船体残骸以及调查营运和合规问题。",
+          "keyProgress": "津巴布韦政府已启动对该事故的正式调查。初步调查显示，失事客船当时载有约180名乘客及货物，属于严重超载，客船在遭遇强风浪后倾覆。津地方政府和公共工程部长丹尼尔·加鲁韦在发布会上表示，涉事船只持有相关部门颁发的适航证书，事故可能系船长人为疏忽所致。津总统姆南加古瓦此前已宣布该事故为国家灾难，指示相关部门全力为受影响家庭提供医疗、心理和丧葬支持。",
+          "whyItMatters": "“津巴布韦船只倾覆事故已致93人死亡 另有7人失踪”的直接价值是帮助你判断是否需要调整出行、居住或工作安排。影响地区、持续时间、预警等级和官方避险建议比事件热度更重要。",
+          "userRelevance": "对于“津巴布韦船只倾覆事故已致93人死亡 另有7人失踪”，如果你近期计划前往事发地区或与当地有工作、家人联系，需要留意后续预警；没有直接联系时，可把它作为区域风险背景了解。",
+          "whatToWatch": "接下来要看“津巴布韦船只倾覆事故已致93人死亡 另有7人失踪”的影响范围是否扩大、预警等级是否变化，以及是否出现与你所在城市相关的提醒。"
+        },
+        "sourceLinks": [
+          {
+            "title": "新华网国际",
+            "url": "https://www.news.cn/world/20260819/08534ab8abd04750a4018756a1b938a6/c.html",
+            "sourceId": "xinhua-world",
+            "publishedAt": "2026-08-19T00:00:00+08:00",
+            "language": "zh",
+            "originalLanguage": "zh",
+            "translationStatus": "not-needed",
+            "fetchedAt": "2026-08-19T09:17:00.550Z",
+            "sourceMethod": "web",
+            "verificationStatus": "confirmed"
+          }
+        ],
+        "images": [],
+        "generatedAt": "2026-08-19T09:16:54.790Z"
+      },
       {
         "id": "draft-real-cnbc-world-rss-vjalgu",
         "title": "特朗普暂停对加拿大征收 50% 的关税三天，并宣布与渥太华达成“协议”",
@@ -57,9 +303,66 @@
         "generatedAt": "2026-08-19T04:46:41.372Z"
       },
       {
-        "id": "draft-real-cnbc-world-rss-1ckl2mv",
+        "id": "draft-real-npr-world-rss-1eci4zv",
+        "title": "以色列空袭叙利亚空军基地，阻止土耳其军队部署",
+        "oneLine": "政策变化：”总部位于英国的战争观察员叙利亚人权观察组织表示，外国武装分子过去常常呆在该基地，最近又被要求离开。",
+        "importance": "A",
+        "credibility": "主流媒体",
+        "tags": [
+          "A",
+          "mustKnow",
+          "world",
+          "policy"
+        ],
+        "industries": [
+          "generalPublic"
+        ],
+        "section": "front",
+        "body": {
+          "background": "叙利亚大马士革——周二早些时候，以色列袭击了叙利亚西北部的一个空军基地，称其目的是阻止土耳其军队在那里部署。土耳其与叙利亚政府关系密切，一直向叙利亚军方提供援助，但与以色列关系紧张。敌对国家一直试图遏制彼此在邻国叙利亚的影响力。",
+          "keyProgress": "国家电视台称，西北部伊德利卜省阿布杜胡尔空军基地的跑道遭到八次袭击，造成损坏，但没有人员伤亡。叙利亚外交部长阿萨德·希巴尼在大马士革对记者表示，叙利亚谴责“以色列的侵略”，并补充说，这些袭击是“无理挑衅，侵犯了叙利亚主权，对地区和全球稳定构成直接威胁”。以色列总理内塔尼亚胡办公室在一份声明中表示，以色列袭击该基地是因为叙利亚允许土耳其军队部署在那里，“即将违反”商定的“安全现状”。声明称：“以色列多次警告叙利亚，这种部署将对以色列的安全构成威胁。",
+          "whyItMatters": "“以色列空袭叙利亚空军基地，阻止土耳其军队部署”如果继续发展，可能通过能源价格、航运、贸易、汇率或市场预期传导到国内。了解它的意义在于判断后续风险，而不只停留在事件本身。",
+          "userRelevance": "即使你不在以色列、土耳其，“以色列空袭叙利亚空军基地，阻止土耳其军队部署”也可能通过能源价格、国际航运、贸易成本和市场预期间接影响国内生活与工作判断。",
+          "whatToWatch": "接下来要看“以色列空袭叙利亚空军基地，阻止土耳其军队部署”是否出现新的官方信息、后续行动，以及它与中国出行、贸易或公共判断的关联是否扩大。"
+        },
+        "sourceLinks": [
+          {
+            "title": "NPR World RSS",
+            "url": "https://www.npr.org/2026/08/19/nx-s1-5937400/israel-strikes-syria",
+            "sourceId": "npr-world-rss",
+            "publishedAt": "2026-08-19T07:51:59.000Z",
+            "language": "zh",
+            "originalLanguage": "en",
+            "translationStatus": "translated",
+            "fetchedAt": "2026-08-19T09:17:00.838Z",
+            "sourceMethod": "rss",
+            "verificationStatus": "confirmed"
+          }
+        ],
+        "images": [
+          {
+            "url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1200x792+0+0/resize/1100/quality/50/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F8a%2Fab%2F1fe0496b43468c2021ea41c24044%2Fap26219409087588.jpg",
+            "sourceUrl": "https://www.npr.org/2026/08/19/nx-s1-5937400/israel-strikes-syria"
+          },
+          {
+            "url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3000x3000+721+0/resize/100/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F4d%2F82%2F06b89ea348339d3fc7640bd3409f%2F20260315-dsc05949-edit.jpg",
+            "sourceUrl": "https://www.npr.org/2026/08/19/nx-s1-5937400/israel-strikes-syria"
+          },
+          {
+            "url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/9375x9375+0+0/resize/100/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fdd%2F3a%2Fea6b68174afc970c2a8fbd591347%2F5e3d25f6-1a5c-45ab-b46f-1f2393317329.jpg",
+            "sourceUrl": "https://www.npr.org/2026/08/19/nx-s1-5937400/israel-strikes-syria"
+          },
+          {
+            "url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3840x3840+960+0/resize/100/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F77%2Fa7%2F0c34103744b8ad70c76601c4c874%2F0m4a0488.JPG",
+            "sourceUrl": "https://www.npr.org/2026/08/19/nx-s1-5937400/israel-strikes-syria"
+          }
+        ],
+        "generatedAt": "2026-08-19T09:16:54.790Z"
+      },
+      {
+        "id": "draft-real-cnbc-world-rss-1bqm9jy",
         "title": "中国后空翻机器人制造商Unitree在上海上市首日股价上涨542%",
-        "oneLine": "政策变化：中国人形机器人制造商尤树机器人公司 (Unitree Robotics) 在上海上市，其股价周三早盘上涨 542%。",
+        "oneLine": "政策变化：中国人形机器人制造商尤树机器人公司 (Unitree Robotics) 在上海上市，其股价周三收盘上涨 460% 以上。",
         "importance": "A",
         "credibility": "待确认",
         "tags": [
@@ -79,8 +382,8 @@
         ],
         "section": "local",
         "body": {
-          "background": "这家总部位于杭州的机器人制造商的后空翻和跳舞机器引起了全球的关注，根据其招股说明书，该公司在 IPO 中筹集了约 61 亿元人民币（9.05 亿美元）。",
-          "keyProgress": "该银行估计，中国的仿人机器人市场将从今年的 20 亿美元增长到 2030 年的 150 亿美元。这家总部位于杭州的机器人制造商的后空翻和跳舞机器引起了全球的关注，根据其招股说明书，该公司在 IPO 中筹集了约 61 亿元人民币（9.05 亿美元）。",
+          "background": "Unitree现有投资者还包括中国科技巨头腾讯。Unitree 的产品系列涵盖可以用灵巧的双手行走和操纵物体的双足人形机器人，以及用于危险检测等任务的四足机器人。股价上涨近 630%，随后回吐涨幅，收于 845 元。",
+          "keyProgress": "该银行估计，中国的仿人机器人市场将从今年的 20 亿美元增长到 2030 年的 150 亿美元。这家总部位于杭州的机器人制造商的后空翻和跳舞机器引起了全球的关注，根据其招股说明书，该公司在 IPO 中筹集了约 61 亿元人民币（9.05 亿美元）。根据公司备案文件，此次 IPO 还得到了中国人工智能公司 DeepSeek 的支持，该公司投资了约 1.408 亿元人民币。在上市前，Unitree 周一推出了一款名为“超人”的新型人形机器人，据称该机器人可以从站立位置跳跃两米，奔跑速度高达每秒 12.66 米。",
           "whyItMatters": "“中国后空翻机器人制造商Unitree在上海上市首日股价上涨542%”如果继续发展，可能通过能源价格、航运、贸易、汇率或市场预期传导到国内。了解它的意义在于判断后续风险，而不只停留在事件本身。",
           "userRelevance": "即使你不在中国、上海，“中国后空翻机器人制造商Unitree在上海上市首日股价上涨542%”也可能通过能源价格、国际航运、贸易成本和市场预期间接影响国内生活与工作判断。",
           "whatToWatch": "接下来要看“中国后空翻机器人制造商Unitree在上海上市首日股价上涨542%”是否出现更细的城市、行业、平台或企业数据，以及这一变化能否连续保持。"
@@ -90,17 +393,17 @@
             "title": "CNBC World News RSS",
             "url": "https://www.cnbc.com/2026/08/19/china-backflipping-robot-maker-unitree-jumps-shanghai-ipo.html",
             "sourceId": "cnbc-world-rss",
-            "publishedAt": "2026-08-19T01:37:01.000Z",
+            "publishedAt": "2026-08-19T07:20:10.000Z",
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-19T04:46:45.579Z",
+            "fetchedAt": "2026-08-19T09:17:01.118Z",
             "sourceMethod": "rss",
             "verificationStatus": "pending"
           }
         ],
         "images": [],
-        "generatedAt": "2026-08-19T04:46:41.372Z"
+        "generatedAt": "2026-08-19T09:16:54.790Z"
       },
       {
         "id": "draft-real-cnbc-world-rss-156qhhu",
@@ -153,6 +456,384 @@
         "generatedAt": "2026-08-18T23:33:59.000Z"
       },
       {
+        "id": "draft-real-cnbc-world-rss-1qzzwf3",
+        "title": "据报道，随着阿联酋切断与德黑兰的贸易，伊朗考虑对美国在欧洲的目标发动袭击",
+        "oneLine": "政策变化：英国《金融时报》周三援引两名政权内部人士的话报道称，如果战争升级，伊朗已考虑袭击美国在欧洲的军事目标。",
+        "importance": "B",
+        "credibility": "待确认",
+        "tags": [
+          "B",
+          "mustKnow",
+          "industry",
+          "world",
+          "policy",
+          "finance"
+        ],
+        "industries": [
+          "generalPublic",
+          "financeInvestment",
+          "operationsGrowth",
+          "ecommerceRetail"
+        ],
+        "section": "front",
+        "body": {
+          "background": "据英国《金融时报》报道，美国在保加利亚和塞浦路斯的资产被视为潜在目标。CNBC 已联系伊朗外交部征求评论，但尚未独立核实该报道。华盛顿和德黑兰之间结束战争的谈判陷入僵局，几乎没有迹象表明谈判将恢复，交战双方不得不考虑这场旷日持久的冲突的下一阶段。",
+          "keyProgress": "特朗普表示没有安排与伊朗举行会谈，并嘲笑霍尔木兹海峡的行动投资者因伊朗战争的石油市场繁荣而获利。乌克兰在里海袭击伊朗船只，德黑兰指责基辅“敌对和犯罪行为” 伊朗支持的民兵袭击红海航运后，沙特军队袭击也门胡塞武装目标 鲁比奥警告称，美国连续第11晚袭击伊朗，德黑兰的霍尔木兹威胁可能对全球造成影响 伊朗表示，它袭击了巴林的亚马逊基础设施 美国袭击伊朗，胡塞武装威胁沙特阿拉伯航运，调解人推动为期10天的停火通过霍尔木兹海峡的出口可能不会恢复到原来的水平阿拉伯联合酋长国周三表示，已暂停与伊朗的所有“贸易、商业往来和金融交易”，直至另行通知。周二，阿联酋国防部表示，检测到两枚从伊朗向其领海发射的弹道导弹。",
+          "whyItMatters": "“据报道，随着阿联酋切断与德黑兰的贸易，伊朗考虑对美国在欧洲的目标发动袭击”如果继续发展，可能通过能源价格、航运、贸易、汇率或市场预期传导到国内。了解它的意义在于判断后续风险，而不只停留在事件本身。",
+          "userRelevance": "即使你不在美国、伊朗、欧洲，“据报道，随着阿联酋切断与德黑兰的贸易，伊朗考虑对美国在欧洲的目标发动袭击”也可能通过能源价格、国际航运、贸易成本和市场预期间接影响国内生活与工作判断。",
+          "whatToWatch": "接下来要看“据报道，随着阿联酋切断与德黑兰的贸易，伊朗考虑对美国在欧洲的目标发动袭击”是否出现更细的城市、行业、平台或企业数据，以及这一变化能否连续保持。"
+        },
+        "sourceLinks": [
+          {
+            "title": "CNBC World News RSS",
+            "url": "https://www.cnbc.com/2026/08/19/us-iran-war-trump-hormuz.html",
+            "sourceId": "cnbc-world-rss",
+            "publishedAt": "2026-08-19T08:51:29.000Z",
+            "language": "zh",
+            "originalLanguage": "en",
+            "translationStatus": "translated",
+            "fetchedAt": "2026-08-19T09:17:01.118Z",
+            "sourceMethod": "rss",
+            "verificationStatus": "pending"
+          }
+        ],
+        "images": [
+          {
+            "url": "https://image.cnbcfm.com/api/v1/image/108350771-17870329501787032898-47835888962-1080pnbcnews.jpg?v=1787032949&amp;w=750&amp;h=422&amp;vtcrop=y",
+            "sourceUrl": "https://www.cnbc.com/2026/08/19/us-iran-war-trump-hormuz.html"
+          },
+          {
+            "url": "https://image.cnbcfm.com/api/v1/image/108351333-17871194661787119463-47855295856-1080pnbcnews.jpg?v=1787119465&amp;w=750&amp;h=422&amp;vtcrop=y",
+            "sourceUrl": "https://www.cnbc.com/2026/08/19/us-iran-war-trump-hormuz.html"
+          }
+        ],
+        "generatedAt": "2026-08-19T09:16:54.790Z"
+      },
+      {
+        "id": "draft-real-xinhua-tech-17k4kqd",
+        "title": "买一台机器人，维保再无后顾之忧",
+        "oneLine": "趋势信号：2026世界机器人大会首次开设机器人消费街，多款四足机器人、服务机器人支持现场下单、直送家庭。",
+        "importance": "B",
+        "credibility": "主流媒体",
+        "tags": [
+          "B",
+          "industry",
+          "technology",
+          "ai",
+          "product"
+        ],
+        "industries": [
+          "technologyEngineering",
+          "educationResearch",
+          "aiProduct",
+          "aiTechnology",
+          "productManagement",
+          "operationsGrowth"
+        ],
+        "section": "ai",
+        "body": {
+          "background": "金磊以市场销量持续走高的宇树机器人为例介绍，此前通过京东平台售出的产品若出现故障，需全程寄回杭州总部维修，包装、运输都是问题，非常麻烦。作为走入大众生活的新兴智能产品，机器人的维修保养难题，成为不少消费者下单前的核心顾虑。大会现场，一套覆盖上门检修、区域维保、专业运维的全周期服务体系，正在为机器人消费落地补上关键的售后拼图。",
+          "keyProgress": "京东相关负责人表示，京东服务为产业发展培育的“赛博医疗体系”，能够为人形机器人、四足机器人、AI（人工智能）陪伴机器人等提供专业维修保养服务。“我们在全国机器人销售多的8个地区建立了维修中心，培养了一批专业维修师。”金磊坦言，当下机器人的智能化水平正在快速提升，价位越高的产品搭载的传感器数量越多，如同人类感官系统一样持续采集海量外界数据，内部AI处理与运动控制能力必须同步跟上。不同产品的硬件架构差异显著，有些机器人配备一个主板，有些则配备运控板、算力板等不同主板，对维修人员的技术能力提出了更高要求。",
+          "whyItMatters": "“买一台机器人，维保再无后顾之忧”能帮助你判断这项能力是否已经进入工程、产品或商业场景，并据此调整技术选型、产品规划、学习重点或职业判断。",
+          "userRelevance": "如果你从事技术研发、教育研究、AI 产品、AI 技术，可以重点判断“买一台机器人，维保再无后顾之忧”是否已经具备产品落地、技术选型或业务合作价值。",
+          "whatToWatch": "接下来要看“买一台机器人，维保再无后顾之忧”是否有更多可靠来源、量产或应用进展，以及它会不会从单点消息发展成持续趋势。"
+        },
+        "sourceLinks": [
+          {
+            "title": "新华网科技",
+            "url": "https://www.news.cn/tech/20260819/86329183c1f34195b3eae8c275eee154/c.html",
+            "sourceId": "xinhua-tech",
+            "publishedAt": "2026-08-19T00:00:00+08:00",
+            "language": "zh",
+            "originalLanguage": "zh",
+            "translationStatus": "not-needed",
+            "fetchedAt": "2026-08-19T09:17:00.677Z",
+            "sourceMethod": "web",
+            "verificationStatus": "confirmed"
+          }
+        ],
+        "images": [],
+        "generatedAt": "2026-08-19T09:16:54.790Z"
+      },
+      {
+        "id": "draft-real-xinhua-tech-nsx5vv",
+        "title": "新系统让机器人具备真实世界中自主执行任务能力",
+        "oneLine": "趋势信号：18日，记者从成都人形机器人创新中心获悉，该中心发布了全球首个复杂语言指令集全自主（无遥控）超长视野机器人任务执行系统，解决了机器人在陌生环境无法自主完成决策规划的难题，让机器人摆脱实验室的“预设摆拍”，走进复杂多变的真实场景中。",
+        "importance": "B",
+        "credibility": "主流媒体",
+        "tags": [
+          "B",
+          "industry",
+          "technology",
+          "ai",
+          "product"
+        ],
+        "industries": [
+          "technologyEngineering",
+          "educationResearch",
+          "aiProduct",
+          "aiTechnology",
+          "productManagement",
+          "operationsGrowth"
+        ],
+        "section": "ai",
+        "body": {
+          "background": "机器人在真实世界中会遇到观测不完备、环境动力学未知、任务语义歧义、接触状态突变以及执行器误差累积等问题，因此，衡量一个机器人是否“聪明”，不能只看站立、行走或抓取等本体运动指标，更应该进一步考察机器人在长时序任务中状态估计、层级目标推理、策略选择、约束满足和闭环恢复的能力。成都人形机器人创新中心首发的这套任务执行系统，将世界模型、VLA（视觉—语言—动作）模型等一系列当下流行的技术方案纳入一套统一的框架之中。在演示视频中，搭载该系统的“成都造”超轻量级人形机器人“贡嘎一号”在接收单一复杂指令后，全程自主、稳定执行，依次完成三项子任务。",
+          "keyProgress": "据介绍，该执行系统的核心价值不在于堆叠了多少模型，而在于建立了从任务理解到技能选择再到动作执行的完整闭环——解决了真实世界中，机器人没有经过相关场景的数据适配就无法自主完成任务决策规划的难题，让机器人真正具备了在陌生环境中自主完成长时序任务的能力。整个过程无遥控、无摆拍，真实展现机器人的全自主作业能力。",
+          "whyItMatters": "“新系统让机器人具备真实世界中自主执行任务能力”能帮助你判断这项能力是否已经进入工程、产品或商业场景，并据此调整技术选型、产品规划、学习重点或职业判断。",
+          "userRelevance": "如果你从事技术研发、教育研究、AI 产品、AI 技术，可以重点判断“新系统让机器人具备真实世界中自主执行任务能力”是否已经具备产品落地、技术选型或业务合作价值。",
+          "whatToWatch": "接下来要看“新系统让机器人具备真实世界中自主执行任务能力”是否有更多可靠来源、量产或应用进展，以及它会不会从单点消息发展成持续趋势。"
+        },
+        "sourceLinks": [
+          {
+            "title": "新华网科技",
+            "url": "https://www.news.cn/tech/20260819/2e4a10ba3c1c4381924804b7b61f87ef/c.html",
+            "sourceId": "xinhua-tech",
+            "publishedAt": "2026-08-19T00:00:00+08:00",
+            "language": "zh",
+            "originalLanguage": "zh",
+            "translationStatus": "not-needed",
+            "fetchedAt": "2026-08-19T09:17:00.677Z",
+            "sourceMethod": "web",
+            "verificationStatus": "confirmed"
+          }
+        ],
+        "images": [],
+        "generatedAt": "2026-08-19T09:16:54.790Z"
+      },
+      {
+        "id": "draft-real-xinhua-tech-7qwzfo",
+        "title": "告别“千脸一面”，AI短剧要跳出模板化内卷",
+        "oneLine": "趋势信号：杏仁眼、花瓣唇、柔光磨皮的同款五官……打开短视频平台，不少AI短剧里的男女主角容貌高度重合，仿佛“复制粘贴”而来，一套标准化脸谱轮番上演百部剧情，成为愈发刺眼的行业乱象。",
+        "importance": "B",
+        "credibility": "主流媒体",
+        "tags": [
+          "B",
+          "industry",
+          "technology",
+          "ai",
+          "product"
+        ],
+        "industries": [
+          "technologyEngineering",
+          "educationResearch",
+          "aiProduct",
+          "aiTechnology",
+          "productManagement",
+          "operationsGrowth"
+        ],
+        "section": "ai",
+        "body": {
+          "background": "针对这一同质化乱象，红果短剧近日发布规范公告，明确AI角色创作要告别千篇一律，并启动专项治理，整治高频重复AI人脸、清理违规素材，为日益泛滥的模板化创作踩下刹车。应当清醒地看到，平台开展专项治理只是治标之举。人工智能技术的普及，按下了短剧行业的发展快进键。",
+          "keyProgress": "曾经耗时耗力的画面制作、人物建模、镜头渲染，如今依托算法模型就能快速完成。成本大幅压缩、产能持续释放，推动短剧成为数字文创领域最活跃的赛道之一。千篇一律的AI面孔，看似只是带来视觉上的审美疲劳，本质是内容创作的空心化。流水线式的AI套壳生产，剥离了人物的性格特质与精神气韵，只留下精致却空洞的皮囊。",
+          "whyItMatters": "“告别千脸一面，AI短剧要跳出模板化内卷”能帮助你判断这项能力是否已经进入工程、产品或商业场景，并据此调整技术选型、产品规划、学习重点或职业判断。",
+          "userRelevance": "如果你从事技术研发、教育研究、AI 产品、AI 技术，可以重点判断“告别千脸一面，AI短剧要跳出模板化内卷”是否已经具备产品落地、技术选型或业务合作价值。",
+          "whatToWatch": "接下来要看“告别千脸一面，AI短剧要跳出模板化内卷”是否有更多可靠来源、量产或应用进展，以及它会不会从单点消息发展成持续趋势。"
+        },
+        "sourceLinks": [
+          {
+            "title": "新华网科技",
+            "url": "https://www.news.cn/tech/20260819/35975d33c7494bd48bc16217e09aeb54/c.html",
+            "sourceId": "xinhua-tech",
+            "publishedAt": "2026-08-19T00:00:00+08:00",
+            "language": "zh",
+            "originalLanguage": "zh",
+            "translationStatus": "not-needed",
+            "fetchedAt": "2026-08-19T09:17:00.677Z",
+            "sourceMethod": "web",
+            "verificationStatus": "confirmed"
+          }
+        ],
+        "images": [],
+        "generatedAt": "2026-08-19T09:16:54.790Z"
+      },
+      {
+        "id": "draft-real-xinhua-tech-hng39u",
+        "title": "AI带货须亮明“身份”",
+        "oneLine": "趋势信号：近日，一短视频平台正式实施《短视频带货场景AI应用规范》，要求若带货短视频应用AI技术辅助创作，创作者必须在发表时主动添加AI标注，且确保AI生成的内容必须与实际一致；",
+        "importance": "B",
+        "credibility": "主流媒体",
+        "tags": [
+          "B",
+          "industry",
+          "technology",
+          "ai",
+          "product"
+        ],
+        "industries": [
+          "technologyEngineering",
+          "educationResearch",
+          "aiProduct",
+          "aiTechnology",
+          "productManagement",
+          "operationsGrowth"
+        ],
+        "section": "ai",
+        "body": {
+          "background": "对于未按规定标注的账号，平台将对违规视频限制分发。此举进一步规范了相关业态，引发人们关注。近年来，随着人工智能行业的快速发展，内容生成的技术门槛大幅降低，提高了工作质效、丰富了文娱生活。",
+          "keyProgress": "运用AI技术换脸换声，假借“名人主播”代言；这些行为对人们产生了误导，损害了消费者利益。平台强制标注AI生成属性，旨在增强人们对AI内容的辨识度，保障消费者知情权，让消费者看清来源、理性判断。不加标识的AI带货内容，不仅易滋生夸大宣传、虚假营销等乱象，还会挤压原创作者和优质商家的生存空间，导致“劣币驱逐良币”。",
+          "whyItMatters": "“AI带货须亮明身份”能帮助你判断这项能力是否已经进入工程、产品或商业场景，并据此调整技术选型、产品规划、学习重点或职业判断。",
+          "userRelevance": "如果你从事技术研发、教育研究、AI 产品、AI 技术，可以重点判断“AI带货须亮明身份”是否已经具备产品落地、技术选型或业务合作价值。",
+          "whatToWatch": "接下来要看“AI带货须亮明身份”是否有更多可靠来源、量产或应用进展，以及它会不会从单点消息发展成持续趋势。"
+        },
+        "sourceLinks": [
+          {
+            "title": "新华网科技",
+            "url": "https://www.news.cn/tech/20260819/f595ad07b40c426fa2629109269da662/c.html",
+            "sourceId": "xinhua-tech",
+            "publishedAt": "2026-08-19T00:00:00+08:00",
+            "language": "zh",
+            "originalLanguage": "zh",
+            "translationStatus": "not-needed",
+            "fetchedAt": "2026-08-19T09:17:00.677Z",
+            "sourceMethod": "web",
+            "verificationStatus": "confirmed"
+          }
+        ],
+        "images": [],
+        "generatedAt": "2026-08-19T09:16:54.790Z"
+      },
+      {
+        "id": "draft-real-cnbc-world-rss-147i02g",
+        "title": "竞争对手围剿收购战，全球最大橄榄油公司股价上涨逾15%",
+        "oneLine": "最新进展：竞争对手围剿收购战，全球最大橄榄油公司股价上涨逾15%。",
+        "importance": "B",
+        "credibility": "待确认",
+        "tags": [
+          "B",
+          "industry",
+          "world",
+          "policy",
+          "finance"
+        ],
+        "industries": [
+          "generalPublic",
+          "financeInvestment",
+          "operationsGrowth",
+          "ecommerceRetail"
+        ],
+        "section": "industry",
+        "body": {
+          "background": "股价上涨之际，有报道称西班牙农业食品合作集团 Dcoop 已向 Deoleo 出价 4.7 亿欧元（5.45 亿美元），在包括意大利、法国和澳大利亚公司在内的收购竞赛中处于领先地位。在本文中，随着全球最大橄榄油装瓶商和营销商的收购战愈演愈烈，西班牙 Deoleo 的股价周三上午上涨了 15% 以上。西班牙《经济报》周三援引未透露姓名的知情人士的话报道称，此次出售尚未最终确定，但据说已进入最后阶段，最初预计于 9 月份完成。",
+          "keyProgress": "如果完成，此次出售将通过创建一个新的橄榄油巨头来巩固西班牙在战略领域的领导地位，该巨头将涵盖一系列品牌并确保约15％的全国消费份额。报告指出，Dcoop 目前在收购 Deoleo 方面处于领先地位，领先于意大利公司 Coricelli、Bonificche Ferraresi 和 Newlat Food、法国公司 Lesieur (Avril) 和澳大利亚 Cobram Estate Olive 等公司。当 CNBC 联系到 Dcoop 和 Deoleo 的发言人时，他们并未立即发表评论。Deoleo 股价上次上涨 15.4%，创下 52 周新高，有望创下 2022 年 3 月以来的最佳单日表现。",
+          "whyItMatters": "“竞争对手围剿收购战，全球最大橄榄油公司股价上涨逾15%”如果继续发展，可能通过能源价格、航运、贸易、汇率或市场预期传导到国内。了解它的意义在于判断后续风险，而不只停留在事件本身。",
+          "userRelevance": "即使你不在西班牙，“竞争对手围剿收购战，全球最大橄榄油公司股价上涨逾15%”也可能通过能源价格、国际航运、贸易成本和市场预期间接影响国内生活与工作判断。",
+          "whatToWatch": "接下来要看“竞争对手围剿收购战，全球最大橄榄油公司股价上涨逾15%”是否出现更细的城市、行业、平台或企业数据，以及这一变化能否连续保持。"
+        },
+        "sourceLinks": [
+          {
+            "title": "CNBC World News RSS",
+            "url": "https://www.cnbc.com/2026/08/19/deoleo-takeover-battle-olive-oil-dcoop.html",
+            "sourceId": "cnbc-world-rss",
+            "publishedAt": "2026-08-19T09:14:32.000Z",
+            "language": "zh",
+            "originalLanguage": "en",
+            "translationStatus": "translated",
+            "fetchedAt": "2026-08-19T09:17:01.118Z",
+            "sourceMethod": "rss",
+            "verificationStatus": "pending"
+          }
+        ],
+        "images": [],
+        "generatedAt": "2026-08-19T09:16:54.790Z"
+      },
+      {
+        "id": "draft-real-cas-science-news-1wfka62",
+        "title": "研究揭示极端条件下的电池材料失效机制",
+        "oneLine": "最新进展：研究揭示极端条件下的电池材料失效机制。",
+        "importance": "B",
+        "credibility": "官方来源",
+        "tags": [
+          "B",
+          "industry",
+          "technology",
+          "education"
+        ],
+        "industries": [
+          "technologyEngineering",
+          "educationResearch"
+        ],
+        "section": "industry",
+        "body": {
+          "background": "科研人员利用原子级超分辨显微成像技术发现，在极端高电压下，正极材料充电时会在内部产生巨大的电化学应力，导致层状晶格发生滑移、扭折等变形，形成具有高度破坏性的“纳米马赛克”结构。同时，晶格变形与材料内部的氧流失发生相互耦合反应，加速正极材料的结构退化与性能衰减。提高电池工作电压以提升续航能力，已成为业界重要发展方向。",
+          "keyProgress": "凭借成熟的工艺优势，钴酸锂成为消费类锂电池的主流正极材料。因此，揭示高压服役条件下钴酸锂正极材料的结构演化与失效机制，是研发新一代高电压正极材料、推动高能量密度锂电池发展的关键。这项研究完善并拓展了氧化物正极材料的失效理论体系，攻克了高电压电池材料研发的机制难题，为下一代高比能、长续航锂电池正极材料的优化设计提供了理论支撑和技术参考。目前，商用钴酸锂电池工作电压普遍为4.4伏，倘若将电压提升至5伏，电池能量密度可提高近50%，并能够增强续航性能。",
+          "whyItMatters": "“水系储能电池”提供了一个具体的研究进展信号。它是否重要，要看实验指标、可复现性、开源材料和真实应用，而不能只看论文标题。",
+          "userRelevance": "如果你从事科研、工程或正在攻读相关学位，可以重点查看“水系储能电池”的实验条件、指标和可复现性；其他用户可把它作为技术趋势背景了解。",
+          "whatToWatch": "接下来要看“水系储能电池”是否公开论文全文、代码或完整实验条件，以及是否得到独立复现和实际应用。"
+        },
+        "sourceLinks": [
+          {
+            "title": "中国科学院科研动态",
+            "url": "https://www.cas.cn/syky/202608/t20260819_5118624.shtml",
+            "sourceId": "cas-science-news",
+            "publishedAt": "2026-08-19T00:00:00+08:00",
+            "language": "zh",
+            "originalLanguage": "zh",
+            "translationStatus": "not-needed",
+            "fetchedAt": "2026-08-19T09:16:56.567Z",
+            "sourceMethod": "web",
+            "verificationStatus": "confirmed"
+          }
+        ],
+        "images": [
+          {
+            "url": "https://www.cas.cn/syky/202608/W020260819498914858622.png",
+            "sourceUrl": "https://www.cas.cn/syky/202608/t20260819_5118624.shtml"
+          }
+        ],
+        "generatedAt": "2026-08-19T09:16:54.790Z"
+      },
+      {
+        "id": "draft-real-cas-science-news-nts0lk",
+        "title": "科研人员实现轻量化AI赋能术中影像引导",
+        "oneLine": "最新进展：科研人员实现轻量化AI赋能术中影像引导。",
+        "importance": "B",
+        "credibility": "官方来源",
+        "tags": [
+          "B",
+          "industry",
+          "technology",
+          "education"
+        ],
+        "industries": [
+          "technologyEngineering",
+          "educationResearch"
+        ],
+        "section": "industry",
+        "body": {
+          "background": "近日，中国科学院深圳先进技术研究院与合作者共同提出了一种轻量化实时脊柱内镜实例分割框架——EndoSeg-RT，为术中导航和辅助决策提供了更加精准且可部署的技术方案。同时，团队设计了双分支特征融合模块，加强跨尺度信息交互与边界细节表达能力，使模型在复杂背景下依然能够准确识别细小神经结构和模糊组织边界。与开放手术相比，脊柱内镜技术创伤更小、恢复更快，但也对医生的空间判断和解剖识别能力提出了更高要求。",
+          "keyProgress": "首先，许多模型计算量大、推理速度慢，难以满足术中实时应用的需求；其次，神经等细小结构面积占比低、边界复杂，容易被模型忽略；再次，大型模型对硬件依赖高，难以在术中工作站或边缘设备上稳定运行。这些问题使得“实验室效果好”的模型，往往难以真正走进手术室。",
+          "whyItMatters": "“科研人员实现轻量化AI赋能术中影像引导”提供了一个具体的研究进展信号。它是否重要，要看实验指标、可复现性、开源材料和真实应用，而不能只看论文标题。",
+          "userRelevance": "如果你从事科研、工程或正在攻读相关学位，可以重点查看“科研人员实现轻量化AI赋能术中影像引导”的实验条件、指标和可复现性；其他用户可把它作为技术趋势背景了解。",
+          "whatToWatch": "接下来要看“科研人员实现轻量化AI赋能术中影像引导”是否公开论文全文、代码或完整实验条件，以及是否得到独立复现和实际应用。"
+        },
+        "sourceLinks": [
+          {
+            "title": "中国科学院科研动态",
+            "url": "https://www.cas.cn/syky/202608/t20260819_5118625.shtml",
+            "sourceId": "cas-science-news",
+            "publishedAt": "2026-08-19T00:00:00+08:00",
+            "language": "zh",
+            "originalLanguage": "zh",
+            "translationStatus": "not-needed",
+            "fetchedAt": "2026-08-19T09:16:56.567Z",
+            "sourceMethod": "web",
+            "verificationStatus": "confirmed"
+          }
+        ],
+        "images": [
+          {
+            "url": "https://www.cas.cn/syky/202608/W020260819513036619176.png",
+            "sourceUrl": "https://www.cas.cn/syky/202608/t20260819_5118625.shtml"
+          },
+          {
+            "url": "https://www.cas.cn/syky/202608/W020260819513036791811.png",
+            "sourceUrl": "https://www.cas.cn/syky/202608/t20260819_5118625.shtml"
+          }
+        ],
+        "generatedAt": "2026-08-19T09:16:54.790Z"
+      },
+      {
         "id": "draft-real-cnbc-world-rss-183p2cv",
         "title": "中国白酒制造商茅台的低迷对中国经济有何影响",
         "oneLine": "政策变化：北京——走在中国的大多数街道上，你都会发现一家酒类商店，上面贴着优质烈酒品牌茅台的广告，以及按年份划分的转售价格海报。",
@@ -195,152 +876,6 @@
           }
         ],
         "images": [],
-        "generatedAt": "2026-08-19T04:46:41.372Z"
-      },
-      {
-        "id": "draft-real-cnbc-world-rss-me3npk",
-        "title": "据报道，特朗普寻求与朝鲜金正恩举行峰会，首尔和华盛顿将减少一半联合演习",
-        "oneLine": "政策变化：韩国军方周三表示，在唐纳德·特朗普总统下令五角大楼缩减演习规模并据报道推动尽快与朝鲜领导人金正恩会面后，韩国军方将把与美国的年度联合军事演习削减约一半。",
-        "importance": "B",
-        "credibility": "待确认",
-        "tags": [
-          "B",
-          "industry",
-          "world",
-          "policy",
-          "finance"
-        ],
-        "industries": [
-          "generalPublic",
-          "financeInvestment",
-          "operationsGrowth",
-          "ecommerceRetail"
-        ],
-        "section": "industry",
-        "body": {
-          "background": "这些事态发展是在周日晚上、周一开始前，特朗普命令战争部长皮特·赫格斯“大幅”缩减美国境内的联合军事演习之后发生的。",
-          "keyProgress": "《华尔街日报》周三报道称，特朗普正在敦促助手尽快安排今年秋季与朝鲜领导人金正恩会面，以推动恢复与这位隐居领导人的个人外交。国防优先事项高级研究员兼军事分析主任詹妮弗·卡瓦纳表示，盟国可能会通过增强自身军事能力、增加国防开支以及与邻国建立新的伙伴关系来应对美国缩减参与度。",
-          "whyItMatters": "“据报道，特朗普寻求与朝鲜金正恩举行峰会，首尔和华盛顿将减少一半联合演习”如果继续发展，可能通过能源价格、航运、贸易、汇率或市场预期传导到国内。了解它的意义在于判断后续风险，而不只停留在事件本身。",
-          "userRelevance": "即使你不在事发地区，“据报道，特朗普寻求与朝鲜金正恩举行峰会，首尔和华盛顿将减少一半联合演习”也可能通过能源价格、国际航运、贸易成本和市场预期间接影响国内生活与工作判断。",
-          "whatToWatch": "接下来要看“据报道，特朗普寻求与朝鲜金正恩举行峰会，首尔和华盛顿将减少一半联合演习”是否出现更细的城市、行业、平台或企业数据，以及这一变化能否连续保持。"
-        },
-        "sourceLinks": [
-          {
-            "title": "CNBC World News RSS",
-            "url": "https://www.cnbc.com/2026/08/19/south-korea-trump-military-drills-exercise-north-korea-kim-jong-un-.html",
-            "sourceId": "cnbc-world-rss",
-            "publishedAt": "2026-08-19T01:57:05.000Z",
-            "language": "zh",
-            "originalLanguage": "en",
-            "translationStatus": "translated",
-            "fetchedAt": "2026-08-19T04:46:45.579Z",
-            "sourceMethod": "rss",
-            "verificationStatus": "pending"
-          }
-        ],
-        "images": [],
-        "generatedAt": "2026-08-19T04:46:41.372Z"
-      },
-      {
-        "id": "draft-real-cnbc-world-rss-1e0jcvb",
-        "title": "加州 AG Bonta 表示，针对 Meta 的案件涉及“恢复和扭曲”，而不是损害赔偿",
-        "oneLine": "最新进展：加州 AG Bonta 表示，针对 Meta 的案件涉及“恢复和扭曲”，而不是损害赔偿。",
-        "importance": "B",
-        "credibility": "待确认",
-        "tags": [
-          "B",
-          "industry",
-          "world",
-          "policy",
-          "finance"
-        ],
-        "industries": [
-          "generalPublic",
-          "financeInvestment",
-          "operationsGrowth",
-          "ecommerceRetail"
-        ],
-        "section": "industry",
-        "body": {
-          "background": "在针对 Meta 的高风险儿童安全案件的第一天辩论之后，加州总检察长罗布·邦塔 (Rob Bonta) 周二表示，审判的重点是“民事处罚、恢复原状和扭曲”，而不是主要与金钱有关。",
-          "keyProgress": "在针对 Meta 的高风险儿童安全案件的第一天辩论之后，加州总检察长罗布·邦塔 (Rob Bonta) 周二表示，审判的重点是“民事处罚、恢复原状和扭曲”，而不是主要与金钱有关。代表各州的律师指控 Meta 违反了联邦和州法律，例如《儿童在线隐私保护法》(COPPA) 以及各种消费者保护法规。",
-          "whyItMatters": "“加州 AG Bonta 表示，针对 Meta 的案件涉及恢复和扭曲，而不是损害赔偿”如果继续发展，可能通过能源价格、航运、贸易、汇率或市场预期传导到国内。了解它的意义在于判断后续风险，而不只停留在事件本身。",
-          "userRelevance": "即使你不在事发地区，“加州 AG Bonta 表示，针对 Meta 的案件涉及恢复和扭曲，而不是损害赔偿”也可能通过能源价格、国际航运、贸易成本和市场预期间接影响国内生活与工作判断。",
-          "whatToWatch": "接下来要看“加州 AG Bonta 表示，针对 Meta 的案件涉及恢复和扭曲，而不是损害赔偿”是否出现更细的城市、行业、平台或企业数据，以及这一变化能否连续保持。"
-        },
-        "sourceLinks": [
-          {
-            "title": "CNBC World News RSS",
-            "url": "https://www.cnbc.com/2026/08/18/meta-attorneys-general-opening-arguments-california-bonta-restitution.html",
-            "sourceId": "cnbc-world-rss",
-            "publishedAt": "2026-08-19T01:34:22.000Z",
-            "language": "zh",
-            "originalLanguage": "en",
-            "translationStatus": "translated",
-            "fetchedAt": "2026-08-19T04:46:45.579Z",
-            "sourceMethod": "rss",
-            "verificationStatus": "pending"
-          }
-        ],
-        "images": [
-          {
-            "url": "https://image.cnbcfm.com/api/v1/image/108286788-1775148313065-thumb0_720.jpg?v=1775148370&amp;w=750&amp;h=422&amp;vtcrop=y",
-            "sourceUrl": "https://www.cnbc.com/2026/08/18/meta-attorneys-general-opening-arguments-california-bonta-restitution.html"
-          },
-          {
-            "url": "https://image.cnbcfm.com/api/v1/image/108350870-17870546511787054649-47840469605-1080pnbcnews.jpg?v=1787054650&amp;w=750&amp;h=422&amp;vtcrop=y",
-            "sourceUrl": "https://www.cnbc.com/2026/08/18/meta-attorneys-general-opening-arguments-california-bonta-restitution.html"
-          }
-        ],
-        "generatedAt": "2026-08-19T04:46:41.372Z"
-      },
-      {
-        "id": "draft-real-cnbc-world-rss-1d5ly6f",
-        "title": "到处都是核武器？破损的美国核保护伞正在推动盟友权衡防御选择，增加核扩散的风险",
-        "oneLine": "最新进展：到处都是核武器？破损的美国核保护伞正在推动盟友权衡防御选择，增加核扩散的风险。",
-        "importance": "B",
-        "credibility": "待确认",
-        "tags": [
-          "B",
-          "industry",
-          "world",
-          "policy",
-          "finance"
-        ],
-        "industries": [
-          "generalPublic",
-          "financeInvestment",
-          "operationsGrowth",
-          "ecommerceRetail"
-        ],
-        "section": "industry",
-        "body": {
-          "background": "几十年来，世界各地的盟友都安息在美国核保护伞下，相信自己不需要大规模杀伤性武器。",
-          "keyProgress": "分析人士称，这一变化正促使更多政府重新考虑是否拥有自己的核武器，从而增加了核扩散的风险。卡内基国际和平基金会核政策项目高级研究员安吉特·潘达表示，盟友们几乎普遍认为华盛顿变得更加“脱离接触和不可靠”，从而引发了“各种形式的战略自主”。",
-          "whyItMatters": "“到处都是核武器？破损的美国核保护伞正在推动盟友权衡防御选择，增加核扩散的风险”如果继续发展，可能通过能源价格、航运、贸易、汇率或市场预期传导到国内。了解它的意义在于判断后续风险，而不只停留在事件本身。",
-          "userRelevance": "即使你不在美国，“到处都是核武器？破损的美国核保护伞正在推动盟友权衡防御选择，增加核扩散的风险”也可能通过能源价格、国际航运、贸易成本和市场预期间接影响国内生活与工作判断。",
-          "whatToWatch": "接下来要看“到处都是核武器？破损的美国核保护伞正在推动盟友权衡防御选择，增加核扩散的风险”是否出现更细的城市、行业、平台或企业数据，以及这一变化能否连续保持。"
-        },
-        "sourceLinks": [
-          {
-            "title": "CNBC World News RSS",
-            "url": "https://www.cnbc.com/2026/08/19/nuclear-proliferation-defense-risk-trump-umbrella-.html",
-            "sourceId": "cnbc-world-rss",
-            "publishedAt": "2026-08-18T23:25:38.000Z",
-            "language": "zh",
-            "originalLanguage": "en",
-            "translationStatus": "translated",
-            "fetchedAt": "2026-08-19T04:46:45.579Z",
-            "sourceMethod": "rss",
-            "verificationStatus": "pending"
-          }
-        ],
-        "images": [
-          {
-            "url": "https://image.cnbcfm.com/api/v1/image/108350357-17869762271786976224-47822882103-1080pnbcnews.jpg?v=1786976226&amp;w=750&amp;h=422&amp;vtcrop=y",
-            "sourceUrl": "https://www.cnbc.com/2026/08/19/nuclear-proliferation-defense-risk-trump-umbrella-.html"
-          }
-        ],
         "generatedAt": "2026-08-19T04:46:41.372Z"
       },
       {
@@ -602,616 +1137,51 @@
         ],
         "images": [],
         "generatedAt": "2026-08-18T23:33:59.000Z"
-      },
-      {
-        "id": "draft-real-techcrunch-ai-rss-1j19jyp",
-        "title": "Cursor 利用 GitHub 的挫败感推出竞争对手托管平台",
-        "oneLine": "趋势信号：从人们记事起，GitHub 就一直是大多数开发人员首选的事实上的代码托管平台。",
-        "importance": "B",
-        "credibility": "待确认",
-        "tags": [
-          "B",
-          "industry",
-          "ai",
-          "technology",
-          "product"
-        ],
-        "industries": [
-          "aiProduct",
-          "aiTechnology",
-          "productManagement",
-          "technologyEngineering",
-          "educationResearch"
-        ],
-        "section": "ai",
-        "body": {
-          "background": "LeadDev 最近的一项分析称，更广泛地说，该平台在过去一年中发生了 257 次宕机事件。",
-          "keyProgress": "然而，最近，该平台一直在与广泛报道的中断和性能下降作斗争，当它失败时，Cursor 正在等待捡起它。这家人工智能初创公司现已正式成为 SpaceX 的一部分，本周推出了 Origin——一个新的代码托管平台，旨在完成开发人员通常使用 GitHub 进行的所有操作：协作处理代码库、浏览和编辑代码、处理拉取请求（其他人要求添加到主代码库中所做的编辑），并将它们存储在存储库中。",
-          "whyItMatters": "“Cursor 利用 GitHub 的挫败感推出竞争对手托管平台”能帮助你判断这项能力是否已经进入工程、产品或商业场景，并据此调整技术选型、产品规划、学习重点或职业判断。",
-          "userRelevance": "如果你从事AI 产品、AI 技术、产品管理、技术研发，可以重点判断“Cursor 利用 GitHub 的挫败感推出竞争对手托管平台”是否已经具备产品落地、技术选型或业务合作价值。",
-          "whatToWatch": "接下来要看“Cursor 利用 GitHub 的挫败感推出竞争对手托管平台”是否有更多可靠来源、量产或应用进展，以及它会不会从单点消息发展成持续趋势。"
-        },
-        "sourceLinks": [
-          {
-            "title": "TechCrunch AI RSS",
-            "url": "https://techcrunch.com/2026/08/18/cursor-capitalizes-on-github-frustration-launches-rival-hosting-platform/",
-            "sourceId": "techcrunch-ai-rss",
-            "publishedAt": "2026-08-18T22:14:25.000Z",
-            "language": "zh",
-            "originalLanguage": "en",
-            "translationStatus": "translated",
-            "fetchedAt": "2026-08-18T23:34:06.177Z",
-            "sourceMethod": "rss",
-            "verificationStatus": "pending"
-          }
-        ],
-        "images": [],
-        "generatedAt": "2026-08-18T23:33:59.000Z"
-      },
-      {
-        "id": "draft-cluster-real-techcrunch-ai-rss-1q8cfb5",
-        "title": "Hugging Face 泄露后 OpenAI 制定了新的保障措施",
-        "oneLine": "趋势信号：周二，OpenAI 宣布了一批新的安全策略，重点是在模型测试时遏制安全事件。",
-        "importance": "B",
-        "credibility": "待确认",
-        "tags": [
-          "B",
-          "industry",
-          "ai",
-          "technology",
-          "product"
-        ],
-        "industries": [
-          "aiProduct",
-          "aiTechnology",
-          "productManagement",
-          "technologyEngineering",
-          "educationResearch"
-        ],
-        "section": "ai",
-        "body": {
-          "background": "新的保障措施包括在开发过程中对模型进行更详细的监控，以及在培训后过程中更加强调一致性和安全性。",
-          "keyProgress": "该公司在博客文章中表示：“随着模型的功能变得越来越强大，与内部开发和测试模型相关的风险也随之增加。” “我们的监控、调整和安全标准必须领先于这些风险。",
-          "whyItMatters": "“Hugging Face 泄露后 OpenAI 制定了新的保障措施”能帮助你判断这项能力是否已经进入工程、产品或商业场景，并据此调整技术选型、产品规划、学习重点或职业判断。",
-          "userRelevance": "如果你从事AI 产品、AI 技术、产品管理、技术研发，可以重点判断“Hugging Face 泄露后 OpenAI 制定了新的保障措施”是否已经具备产品落地、技术选型或业务合作价值。",
-          "whatToWatch": "接下来要看“Hugging Face 泄露后 OpenAI 制定了新的保障措施”是否有更多可靠来源、量产或应用进展，以及它会不会从单点消息发展成持续趋势。"
-        },
-        "sourceLinks": [
-          {
-            "title": "TechCrunch AI RSS",
-            "url": "https://techcrunch.com/2026/08/18/openai-institutes-new-safeguards-after-hugging-face-breach/",
-            "sourceId": "techcrunch-ai-rss",
-            "publishedAt": "2026-08-18T18:00:00.000Z",
-            "language": "zh",
-            "originalLanguage": "en",
-            "translationStatus": "translated",
-            "fetchedAt": "2026-08-18T23:34:06.177Z",
-            "sourceMethod": "rss",
-            "verificationStatus": "pending"
-          },
-          {
-            "title": "The Verge AI RSS",
-            "url": "https://www.theverge.com/ai-artificial-intelligence/981640/openai-security-changes-ai-hugging-face-hack",
-            "sourceId": "theverge-ai-rss",
-            "publishedAt": "2026-08-18T19:28:30.000Z",
-            "language": "zh",
-            "originalLanguage": "en",
-            "translationStatus": "translated",
-            "fetchedAt": "2026-08-18T23:34:06.295Z",
-            "sourceMethod": "rss",
-            "verificationStatus": "pending"
-          }
-        ],
-        "images": [],
-        "generatedAt": "2026-08-18T23:33:59.000Z"
-      },
-      {
-        "id": "draft-real-techcrunch-ai-rss-p09041",
-        "title": "Etched 估值一个月内翻倍至 $21B",
-        "oneLine": "趋势信号：Etched 于周二宣布，在著名的量化基金测试并购买了这家初创公司的人工智能硬件后，该公司又以 210 亿美元的估值筹集了 7 亿美元，由 Jane Street 领投。",
-        "importance": "B",
-        "credibility": "待确认",
-        "tags": [
-          "B",
-          "industry",
-          "ai",
-          "technology",
-          "product"
-        ],
-        "industries": [
-          "aiProduct",
-          "aiTechnology",
-          "productManagement",
-          "technologyEngineering",
-          "educationResearch"
-        ],
-        "section": "ai",
-        "body": {
-          "background": "联合创始人兼首席运营官 Robert Wachen 告诉 TechCrunch，投资者之所以如此热情，是因为 Etched 从头开始​​设计了两个新组件，以加快推理速度——即用户提交提示后发生的计算过程。",
-          "keyProgress": "（Etched 的竞争对手 Nvidia 将其全系统称为 AI 工厂。Etched 创造了一种在低电压下运行的预填充芯片，使其能够封装更多晶体管，而不会出现其他高端 AI 芯片典型的发热问题。",
-          "whyItMatters": "“Etched 估值一个月内翻倍至 $21B”能帮助你判断这项能力是否已经进入工程、产品或商业场景，并据此调整技术选型、产品规划、学习重点或职业判断。",
-          "userRelevance": "如果你从事AI 产品、AI 技术、产品管理、技术研发，可以重点判断“Etched 估值一个月内翻倍至 $21B”是否已经具备产品落地、技术选型或业务合作价值。",
-          "whatToWatch": "接下来要看“Etched 估值一个月内翻倍至 $21B”是否有更多可靠来源、量产或应用进展，以及它会不会从单点消息发展成持续趋势。"
-        },
-        "sourceLinks": [
-          {
-            "title": "TechCrunch AI RSS",
-            "url": "https://techcrunch.com/2026/08/18/etcheds-valuation-doubles-to-21b-in-a-month/",
-            "sourceId": "techcrunch-ai-rss",
-            "publishedAt": "2026-08-18T17:21:58.000Z",
-            "language": "zh",
-            "originalLanguage": "en",
-            "translationStatus": "translated",
-            "fetchedAt": "2026-08-18T23:34:06.177Z",
-            "sourceMethod": "rss",
-            "verificationStatus": "pending"
-          }
-        ],
-        "images": [],
-        "generatedAt": "2026-08-18T23:33:59.000Z"
-      },
-      {
-        "id": "draft-real-techcrunch-ai-rss-16arfmf",
-        "title": "Warp 的新系统是一个用于人工智能开发的开箱即用的软件工厂",
-        "oneLine": "趋势信号：公司仍在努力解决软件开发在人工智能领域的具体运作方式，但一个早期的答案是所谓的软件工厂。",
-        "importance": "B",
-        "credibility": "待确认",
-        "tags": [
-          "B",
-          "industry",
-          "ai",
-          "technology",
-          "product"
-        ],
-        "industries": [
-          "aiProduct",
-          "aiTechnology",
-          "productManagement",
-          "technologyEngineering",
-          "educationResearch"
-        ],
-        "section": "ai",
-        "body": {
-          "background": "作为基础设施层，Warp Factory 为公司提供了一个用于部署代理的简单环境以及如何使用它们的路线图。",
-          "keyProgress": "需要明确的是，许多公司在没有 Warp 帮助的情况下已经通过工厂模式取得了成功。正如 Warp 首席执行官扎克·劳埃德 (Zach Lloyd) 所见，Warp Factory 的目标市场将是没有资源从头开始开发系统的小型公司。",
-          "whyItMatters": "“Warp 的新系统是一个用于人工智能开发的开箱即用的软件工厂”能帮助你判断这项能力是否已经进入工程、产品或商业场景，并据此调整技术选型、产品规划、学习重点或职业判断。",
-          "userRelevance": "如果你从事AI 产品、AI 技术、产品管理、技术研发，可以重点判断“Warp 的新系统是一个用于人工智能开发的开箱即用的软件工厂”是否已经具备产品落地、技术选型或业务合作价值。",
-          "whatToWatch": "接下来要看“Warp 的新系统是一个用于人工智能开发的开箱即用的软件工厂”是否有更多可靠来源、量产或应用进展，以及它会不会从单点消息发展成持续趋势。"
-        },
-        "sourceLinks": [
-          {
-            "title": "TechCrunch AI RSS",
-            "url": "https://techcrunch.com/2026/08/18/warps-new-system-is-an-out-of-the-box-software-factory-for-ai-development/",
-            "sourceId": "techcrunch-ai-rss",
-            "publishedAt": "2026-08-18T14:00:00.000Z",
-            "language": "zh",
-            "originalLanguage": "en",
-            "translationStatus": "translated",
-            "fetchedAt": "2026-08-18T23:34:06.177Z",
-            "sourceMethod": "rss",
-            "verificationStatus": "pending"
-          }
-        ],
-        "images": [
-          {
-            "url": "https://techcrunch.com/wp-content/uploads/2026/08/Warp-Factories-2.png",
-            "sourceUrl": "https://techcrunch.com/2026/08/18/warps-new-system-is-an-out-of-the-box-software-factory-for-ai-development/"
-          }
-        ],
-        "generatedAt": "2026-08-18T23:33:59.000Z"
-      },
-      {
-        "id": "draft-cluster-real-openai-news-1x7ta1m",
-        "title": "推出面向青少年的 ChatGPT：专为学习而打造，以保护为后盾",
-        "oneLine": "趋势信号：在因人工智能聊天机器人缺乏安全措施导致青少年自杀和其他心理健康问题而引发无数诉讼之后，OpenAI 于周一宣布推出针对青少年的 ChatGPT。",
-        "importance": "B",
-        "credibility": "多源确认",
-        "tags": [
-          "B",
-          "industry",
-          "ai",
-          "technology",
-          "product"
-        ],
-        "industries": [
-          "aiProduct",
-          "aiTechnology",
-          "productManagement",
-          "technologyEngineering",
-          "educationResearch"
-        ],
-        "section": "ai",
-        "body": {
-          "background": "新产品承诺包括额外的安全措施，并解决 ChatGPT 协助学校作弊的教育危机。",
-          "keyProgress": "正如 OpenAI 在博客文章中所解释的那样，学习模式选项将为青少年提供指导性问题和分步支持，以帮助他们理解材料。OpenAI 表示，适合青少年的 ChatGPT 现在将默认启用适合年龄的保护措施，旨在减少接触有害或不适合发育的内容。",
-          "whyItMatters": "“推出面向青少年的 ChatGPT：专为学习而打造，以保护为后盾”能帮助你判断这项能力是否已经进入工程、产品或商业场景，并据此调整技术选型、产品规划、学习重点或职业判断。",
-          "userRelevance": "如果你从事AI 产品、AI 技术、产品管理、技术研发，可以重点判断“推出面向青少年的 ChatGPT：专为学习而打造，以保护为后盾”是否已经具备产品落地、技术选型或业务合作价值。",
-          "whatToWatch": "接下来要看“推出面向青少年的 ChatGPT：专为学习而打造，以保护为后盾”是否有更多可靠来源、量产或应用进展，以及它会不会从单点消息发展成持续趋势。"
-        },
-        "sourceLinks": [
-          {
-            "title": "OpenAI News",
-            "url": "https://openai.com/index/chatgpt-for-teens",
-            "sourceId": "openai-news",
-            "publishedAt": "2026-08-18T11:00:00.000Z",
-            "language": "zh",
-            "originalLanguage": "en",
-            "translationStatus": "translated",
-            "fetchedAt": "2026-08-18T23:34:05.971Z",
-            "sourceMethod": "rss",
-            "verificationStatus": "confirmed"
-          },
-          {
-            "title": "TechCrunch AI RSS",
-            "url": "https://techcrunch.com/2026/08/18/openai-launches-a-safer-chatgpt-for-teens-years-after-teens-started-using-it/",
-            "sourceId": "techcrunch-ai-rss",
-            "publishedAt": "2026-08-18T13:50:30.000Z",
-            "language": "zh",
-            "originalLanguage": "en",
-            "translationStatus": "translated",
-            "fetchedAt": "2026-08-18T23:34:06.177Z",
-            "sourceMethod": "rss",
-            "verificationStatus": "pending"
-          },
-          {
-            "title": "The Verge AI RSS",
-            "url": "https://www.theverge.com/ai-artificial-intelligence/981333/openai-chatgpt-teen-mode",
-            "sourceId": "theverge-ai-rss",
-            "publishedAt": "2026-08-18T11:00:00.000Z",
-            "language": "zh",
-            "originalLanguage": "en",
-            "translationStatus": "translated",
-            "fetchedAt": "2026-08-18T23:34:06.295Z",
-            "sourceMethod": "rss",
-            "verificationStatus": "pending"
-          }
-        ],
-        "images": [
-          {
-            "url": "https://techcrunch.com/wp-content/uploads/2026/08/Still-02-teenStudyHours__2_.webp?w=680",
-            "sourceUrl": "https://techcrunch.com/2026/08/18/openai-launches-a-safer-chatgpt-for-teens-years-after-teens-started-using-it/"
-          }
-        ],
-        "generatedAt": "2026-08-18T23:33:59.000Z"
-      },
-      {
-        "id": "draft-cluster-real-theverge-ai-rss-26954u",
-        "title": "苹果配备摄像头的 AirPods 出现在泄露的视频中",
-        "oneLine": "趋势信号：得益于 MacRumors 在 macOS Tahoe 26.7 候选版本中发现的一段视频，我们可能会第一次看到传闻中的苹果配备摄像头的 AirPods。",
-        "importance": "B",
-        "credibility": "待确认",
-        "tags": [
-          "B",
-          "industry",
-          "ai",
-          "technology",
-          "product"
-        ],
-        "industries": [
-          "aiProduct",
-          "aiTechnology",
-          "productManagement",
-          "technologyEngineering",
-          "educationResearch"
-        ],
-        "section": "ai",
-        "body": {
-          "background": "彭博社的 Mark Gurman 此前曾报道称，传闻中带有摄像头的 AirPods 旨在接收“低分辨率的视觉信息”，并充当苹果人工智能功能的眼睛，可能允许 Siri 提供路线导航或回答有关佩戴者周围环境的问题。",
-          "keyProgress": "这段简短的视频剪辑中，一名戴着新款 AirPods 的男子举起一本书，封面已显示，这样 Visual Intelligence 就可以看到书名。新演示片段中显示的 AirPods 看起来像是 AirPods Pro 3 的稍厚版本。",
-          "whyItMatters": "“苹果配备摄像头的 AirPods 出现在泄露的视频中”能帮助你判断这项能力是否已经进入工程、产品或商业场景，并据此调整技术选型、产品规划、学习重点或职业判断。",
-          "userRelevance": "如果你从事AI 产品、AI 技术、产品管理、技术研发，可以重点判断“苹果配备摄像头的 AirPods 出现在泄露的视频中”是否已经具备产品落地、技术选型或业务合作价值。",
-          "whatToWatch": "接下来要看“苹果配备摄像头的 AirPods 出现在泄露的视频中”是否有更多可靠来源、量产或应用进展，以及它会不会从单点消息发展成持续趋势。"
-        },
-        "sourceLinks": [
-          {
-            "title": "The Verge AI RSS",
-            "url": "https://www.theverge.com/tech/981326/apple-airpods-with-cameras-demo-video-leak",
-            "sourceId": "theverge-ai-rss",
-            "publishedAt": "2026-08-18T09:00:01.000Z",
-            "language": "zh",
-            "originalLanguage": "en",
-            "translationStatus": "translated",
-            "fetchedAt": "2026-08-18T23:34:06.295Z",
-            "sourceMethod": "rss",
-            "verificationStatus": "pending"
-          },
-          {
-            "title": "TechCrunch AI RSS",
-            "url": "https://techcrunch.com/2026/08/18/why-apples-camera-equipped-airpods-may-not-be-the-pervert-pods-consumers-fear/",
-            "sourceId": "techcrunch-ai-rss",
-            "publishedAt": "2026-08-18T16:19:10.000Z",
-            "language": "zh",
-            "originalLanguage": "en",
-            "translationStatus": "translated",
-            "fetchedAt": "2026-08-18T23:34:06.177Z",
-            "sourceMethod": "rss",
-            "verificationStatus": "pending"
-          }
-        ],
-        "images": [],
-        "generatedAt": "2026-08-18T23:33:59.000Z"
-      },
-      {
-        "id": "draft-real-xinhua-tech-8vimkl",
-        "title": "推动形成万亿级产业生态 汽车芯片五项认证认可行业标准发布",
-        "oneLine": "趋势信号：记者8月17日从市场监管总局了解到，近日，市场监管总局（国家认监委）批准立项的《汽车芯片机构认证审查 通用评价要求》等五项认证认可行业标准发布。",
-        "importance": "B",
-        "credibility": "主流媒体",
-        "tags": [
-          "B",
-          "industry",
-          "technology",
-          "ai",
-          "product"
-        ],
-        "industries": [
-          "technologyEngineering",
-          "educationResearch",
-          "aiProduct",
-          "aiTechnology",
-          "productManagement",
-          "operationsGrowth"
-        ],
-        "section": "ai",
-        "body": {
-          "background": "长期以来，由于缺乏统一的评价体系，国产芯片在上车应用过程中面临准入壁垒高、市场信任度低等挑战，规模化应用受阻。",
-          "keyProgress": "该五项标准构建了全球首个针对汽车芯片全产业链相关机构的国家层面能力评价标准体系，标志着我国在构建自主可控的汽车芯片质量保障体系方面取得重大制度突破，也有助于推动形成万亿级汽车芯片产业生态。从政策设计上，市场监管总局表示，此次发布的五项标准，系统构建了汽车芯片领域机构能力评价体系，既确立了汽车芯片机构认证审查的通用评价要求，又为设计、认证、测试、算力等各类机构提供了能力评价的专业指引和操作遵循，将有效引导全产业链机构提升专业能力，保障汽车芯片认证审查活动的专业性、一致性和权威性，加速打通国产芯片从研发到上车应用的质量。",
-          "whyItMatters": "“推动形成万亿级产业生态 汽车芯片五项认证认可行业标准发布”能帮助你判断这项能力是否已经进入工程、产品或商业场景，并据此调整技术选型、产品规划、学习重点或职业判断。",
-          "userRelevance": "如果你从事技术研发、教育研究、AI 产品、AI 技术，可以重点判断“推动形成万亿级产业生态 汽车芯片五项认证认可行业标准发布”是否已经具备产品落地、技术选型或业务合作价值。",
-          "whatToWatch": "接下来要看“推动形成万亿级产业生态 汽车芯片五项认证认可行业标准发布”是否有更多可靠来源、量产或应用进展，以及它会不会从单点消息发展成持续趋势。"
-        },
-        "sourceLinks": [
-          {
-            "title": "新华网科技",
-            "url": "https://www.news.cn/tech/20260818/2dbb6af2ad1c4da099cda54772a21d32/c.html",
-            "sourceId": "xinhua-tech",
-            "publishedAt": "2026-08-18T00:00:00+08:00",
-            "language": "zh",
-            "originalLanguage": "zh",
-            "translationStatus": "not-needed",
-            "fetchedAt": "2026-08-18T23:34:03.707Z",
-            "sourceMethod": "web",
-            "verificationStatus": "confirmed"
-          }
-        ],
-        "images": [],
-        "generatedAt": "2026-08-18T23:33:59.000Z"
-      },
-      {
-        "id": "draft-real-xinhua-tech-evdl85",
-        "title": "混合能源系统有望在AI数据中心大显身手",
-        "oneLine": "趋势信号：德国卡尔斯鲁厄理工学院携手美国斯坦福大学科学家，开发出一款混合能源系统。",
-        "importance": "B",
-        "credibility": "主流媒体",
-        "tags": [
-          "B",
-          "industry",
-          "technology",
-          "ai",
-          "product"
-        ],
-        "industries": [
-          "technologyEngineering",
-          "educationResearch",
-          "aiProduct",
-          "aiTechnology",
-          "productManagement",
-          "operationsGrowth"
-        ],
-        "section": "ai",
-        "body": {
-          "background": "该系统集光伏发电、太阳能热技术与被动式日间辐射冷却（PDRC）技术于一体，可同时提供冷却、发电及加热功能，有望在能源密集型应用领域大显身手，尤其是需要大量电力和冷却的人工智能（AI）数据中心。",
-          "keyProgress": "该系统集光伏发电、太阳能热技术与被动式日间辐射冷却（PDRC）技术于一体，可同时提供冷却、发电及加热功能，有望在能源密集型应用领域大显身手，尤其是需要大量电力和冷却的人工智能（AI）数据中心。相关论文发表于最新一期《电池报告物理科学》杂志。",
-          "whyItMatters": "“混合能源系统有望在AI数据中心大显身手”能帮助你判断这项能力是否已经进入工程、产品或商业场景，并据此调整技术选型、产品规划、学习重点或职业判断。",
-          "userRelevance": "如果你从事技术研发、教育研究、AI 产品、AI 技术，可以重点判断“混合能源系统有望在AI数据中心大显身手”是否已经具备产品落地、技术选型或业务合作价值。",
-          "whatToWatch": "接下来要看“混合能源系统有望在AI数据中心大显身手”是否有更多可靠来源、量产或应用进展，以及它会不会从单点消息发展成持续趋势。"
-        },
-        "sourceLinks": [
-          {
-            "title": "新华网科技",
-            "url": "https://www.news.cn/tech/20260818/0311ea513ab1483d8ddf703b760fbdb2/c.html",
-            "sourceId": "xinhua-tech",
-            "publishedAt": "2026-08-18T00:00:00+08:00",
-            "language": "zh",
-            "originalLanguage": "zh",
-            "translationStatus": "not-needed",
-            "fetchedAt": "2026-08-18T23:34:03.707Z",
-            "sourceMethod": "web",
-            "verificationStatus": "confirmed"
-          }
-        ],
-        "images": [],
-        "generatedAt": "2026-08-18T23:33:59.000Z"
-      },
-      {
-        "id": "draft-cluster-real-cnbc-world-rss-7byiq6",
-        "title": "受通胀和支出担忧影响，30年期国债收益率突破5.33%，创19年来新高",
-        "oneLine": "政策变化：在美国财政状况恶化和通胀持续走高的情况下，长期债券触及近二十年来的最高水平，周二美国国债收益率小幅回落。",
-        "importance": "B",
-        "credibility": "待确认",
-        "tags": [
-          "B",
-          "industry",
-          "world",
-          "policy",
-          "finance"
-        ],
-        "industries": [
-          "generalPublic",
-          "financeInvestment",
-          "operationsGrowth",
-          "ecommerceRetail"
-        ],
-        "section": "industry",
-        "body": {
-          "background": "此前有消息称，美国 7 月份财政赤字跃升至 4323 亿美元，为 2021 年 3 月以来最高月度总额，将年初至今的赤字推至近 1.8 万亿美元。",
-          "keyProgress": "当天早些时候，该指数触及 19 年来的新高。10 年期国债收益率（抵押贷款、汽车贷款和信用卡债务的主要基准）下降超过 1 个基点，为 4.706%。",
-          "whyItMatters": "“受通胀和支出担忧影响，30年期国债收益率突破5.33%，创19年来新高”如果继续发展，可能通过能源价格、航运、贸易、汇率或市场预期传导到国内。了解它的意义在于判断后续风险，而不只停留在事件本身。",
-          "userRelevance": "即使你不在美国，“受通胀和支出担忧影响，30年期国债收益率突破5.33%，创19年来新高”也可能通过能源价格、国际航运、贸易成本和市场预期间接影响国内生活与工作判断。",
-          "whatToWatch": "接下来要看“受通胀和支出担忧影响，30年期国债收益率突破5.33%，创19年来新高”是否出现更细的城市、行业、平台或企业数据，以及这一变化能否连续保持。"
-        },
-        "sourceLinks": [
-          {
-            "title": "CNBC World News RSS",
-            "url": "https://www.cnbc.com/2026/08/18/treasury-yields-.html",
-            "sourceId": "cnbc-world-rss",
-            "publishedAt": "2026-08-18T20:33:38.000Z",
-            "language": "zh",
-            "originalLanguage": "en",
-            "translationStatus": "translated",
-            "fetchedAt": "2026-08-18T23:34:04.559Z",
-            "sourceMethod": "rss",
-            "verificationStatus": "pending"
-          },
-          {
-            "title": "CNBC World News RSS",
-            "url": "https://www.cnbc.com/2026/08/18/30-year-treasury-yield-three-things-that-could-drive-it-even-higher.html",
-            "sourceId": "cnbc-world-rss",
-            "publishedAt": "2026-08-18T06:11:52.000Z",
-            "language": "zh",
-            "originalLanguage": "en",
-            "translationStatus": "translated",
-            "fetchedAt": "2026-08-18T23:34:04.559Z",
-            "sourceMethod": "rss",
-            "verificationStatus": "pending"
-          }
-        ],
-        "images": [],
-        "generatedAt": "2026-08-18T23:33:59.000Z"
-      },
-      {
-        "id": "draft-real-cnbc-world-rss-g0vqjg",
-        "title": "尽管英超俱乐部亏损飙升，投资者如何从足球中获利",
-        "oneLine": "政策变化：在这篇文章中，芬威体育集团周五将利物浦足球俱乐部的少数股权出售给包括杰夫·贝佐斯在内的财团，交易价值超过 70 亿美元。",
-        "importance": "B",
-        "credibility": "待确认",
-        "tags": [
-          "B",
-          "industry",
-          "world",
-          "policy",
-          "finance"
-        ],
-        "industries": [
-          "generalPublic",
-          "financeInvestment",
-          "operationsGrowth",
-          "ecommerceRetail"
-        ],
-        "section": "industry",
-        "body": {
-          "background": "近 16 年前，这家总部位于波士顿的集团以 3 亿英镑（4.059 亿美元）的低价将利物浦从破产管理边缘拯救出来，而在这家默西塞德俱乐部赢得多项国内和欧洲奖杯后，FSG 实现了显着的转变，并获得了巨大的投资回报，部分兑现。",
-          "keyProgress": "然而，尽管英国足球俱乐部越来越吸引全球成熟投资者的兴趣，但它们仍然存在风险，而且往往无利可图。德勤研究人员写道：“随着球员转会支出的增长，以跟上不断升级的人才竞争的步伐，今年很可能又会出现重大财务损失。",
-          "whyItMatters": "“尽管英超俱乐部亏损飙升，投资者如何从足球中获利”如果继续发展，可能通过能源价格、航运、贸易、汇率或市场预期传导到国内。了解它的意义在于判断后续风险，而不只停留在事件本身。",
-          "userRelevance": "即使你不在英国，“尽管英超俱乐部亏损飙升，投资者如何从足球中获利”也可能通过能源价格、国际航运、贸易成本和市场预期间接影响国内生活与工作判断。",
-          "whatToWatch": "接下来要看“尽管英超俱乐部亏损飙升，投资者如何从足球中获利”是否出现更细的城市、行业、平台或企业数据，以及这一变化能否连续保持。"
-        },
-        "sourceLinks": [
-          {
-            "title": "CNBC World News RSS",
-            "url": "https://www.cnbc.com/2026/08/18/soccer-premier-league-club-losses-liverpool.html",
-            "sourceId": "cnbc-world-rss",
-            "publishedAt": "2026-08-18T09:09:19.000Z",
-            "language": "zh",
-            "originalLanguage": "en",
-            "translationStatus": "translated",
-            "fetchedAt": "2026-08-18T23:34:04.559Z",
-            "sourceMethod": "rss",
-            "verificationStatus": "pending"
-          }
-        ],
-        "images": [],
-        "generatedAt": "2026-08-18T23:33:59.000Z"
-      },
-      {
-        "id": "draft-real-mofcom-consumption-1v3ih6z",
-        "title": "商务部等部门联合印发《关于进一步激发下沉市场活力 活跃县域消费的意见》",
-        "oneLine": "政策变化：《关于进一步激发下沉市场活力 活跃县域消费的意见》提出活跃县域消费重点支持措施。",
-        "importance": "B",
-        "credibility": "官方来源",
-        "tags": [
-          "B",
-          "industry",
-          "consumer",
-          "operations",
-          "policy"
-        ],
-        "industries": [
-          "operationsGrowth",
-          "consumerBrand",
-          "ecommerceRetail",
-          "startupBusiness",
-          "generalPublic"
-        ],
-        "section": "industry",
-        "body": {
-          "background": "为贯彻落实党中央、国务院决策部署，指导各地因地制宜激发下沉市场活力，近日，商务部会同国家发展改革委、财政部、人力资源社会保障部、自然资源部、农业农村部、文化和旅游部、市场监管总局、金融监管总局等部门,联合印发《关于进一步激发下沉市场活力 活跃县域消费的意见》（以下简称《意见》），系统部署激发下沉市场活力重点工作。",
-          "keyProgress": "《意见》以习近平新时代中国特色社会主义思想为指导，深入贯彻落实党的二十大和二十届历次全会精神，充分发挥下沉市场在拓展内需增量空间、建设强大国内市场中的战略支撑作用，学习运用“千万工程”经验，分类施策优化消费渠道、丰富品牌供给、提升服务能力，因地制宜打造各具特色的消费场景，持续繁荣县域消费 市场 ，更好满足人民群众多样化、品质化需求。《意见》提出活跃县域消费重点支持措施。",
-          "whyItMatters": "“商务部等部门联合印发关于进一步激发下沉市场活力 活跃县域消费的意见”可能改变个人办事、出行、公共服务或行业规则。提前确认适用范围和生效时间，可以减少信息滞后带来的判断偏差。",
-          "userRelevance": "作为中国居民，你需要留意“商务部等部门联合印发关于进一步激发下沉市场活力 活跃县域消费的意见”是否改变办事、出行或公共服务规则；如果你从事运营增长、消费品牌、电商零售、创业商业，还应关注行业执行细则。",
-          "whatToWatch": "接下来要看“商务部等部门联合印发关于进一步激发下沉市场活力 活跃县域消费的意见”是否出现更细的城市、行业、平台或企业数据，以及这一变化能否连续保持。"
-        },
-        "sourceLinks": [
-          {
-            "title": "商务部市场运行和消费促进司",
-            "url": "https://www.mofcom.gov.cn/zwgk/gztz/art/2026/art_456096407104439ca42d249858c2a6df.html",
-            "sourceId": "mofcom-consumption",
-            "publishedAt": "2026-08-18T00:00:00+08:00",
-            "language": "zh",
-            "originalLanguage": "zh",
-            "translationStatus": "not-needed",
-            "fetchedAt": "2026-08-18T23:34:14.142Z",
-            "sourceMethod": "web",
-            "verificationStatus": "confirmed"
-          }
-        ],
-        "images": [],
-        "generatedAt": "2026-08-18T23:33:59.000Z"
       }
     ],
-    "estimatedReadMinutes": 29,
+    "estimatedReadMinutes": 33,
     "pageCount": 3,
-    "topCardId": "draft-real-cnbc-world-rss-vjalgu",
-    "generatedAt": "2026-08-19T04:46:41.372Z",
+    "topCardId": "draft-real-cnbc-world-rss-9i23yl",
+    "generatedAt": "2026-08-19T09:16:54.790Z",
     "pushSlots": [
       "08:30",
       "12:30",
       "21:30"
     ],
-    "edition": "midday",
-    "editionLabel": "午间更新",
+    "edition": "evening",
+    "editionLabel": "晚间更新",
     "coverageWindow": {
-      "start": "2026-08-19T07:10:00+08:00",
-      "end": "2026-08-19T12:10:00+08:00"
+      "start": "2026-08-19T12:10:00+08:00",
+      "end": "2026-08-19T21:10:00+08:00"
     },
-    "basedOnGeneratedAt": "2026-08-18T23:33:59.000Z",
+    "basedOnGeneratedAt": "2026-08-19T04:46:41.372Z",
     "editionCardIds": [
-      "draft-real-cnbc-world-rss-vjalgu",
-      "draft-real-cnbc-world-rss-1ckl2mv",
-      "draft-real-cnbc-world-rss-183p2cv",
-      "draft-real-cnbc-world-rss-me3npk",
-      "draft-real-cnbc-world-rss-1e0jcvb",
-      "draft-real-cnbc-world-rss-1d5ly6f"
+      "draft-real-xinhua-world-12ocgkw",
+      "draft-real-xinhua-world-1i65hb4",
+      "draft-real-cnbc-world-rss-9i23yl",
+      "draft-real-xinhua-world-1hp7mq2",
+      "draft-real-xinhua-world-18pplhm",
+      "draft-real-npr-world-rss-1eci4zv",
+      "draft-real-cnbc-world-rss-1bqm9jy",
+      "draft-real-cnbc-world-rss-1qzzwf3",
+      "draft-real-xinhua-tech-17k4kqd",
+      "draft-real-xinhua-tech-nsx5vv",
+      "draft-real-xinhua-tech-7qwzfo",
+      "draft-real-xinhua-tech-hng39u",
+      "draft-real-cas-science-news-1wfka62",
+      "draft-real-cas-science-news-nts0lk",
+      "draft-real-cnbc-world-rss-147i02g"
     ],
     "carriedCardIds": [
+      "draft-real-cnbc-world-rss-vjalgu",
       "draft-real-cnbc-world-rss-156qhhu",
+      "draft-real-cnbc-world-rss-183p2cv",
       "draft-real-un-news-rss-189gauo",
       "draft-real-un-news-rss-x277yt",
       "draft-real-un-news-rss-1996fac",
       "draft-real-xinhua-world-3lau6j",
       "draft-real-gov-cn-policy-library-mg30yb",
-      "draft-real-mem-cn-uf7nda",
-      "draft-real-techcrunch-ai-rss-1j19jyp",
-      "draft-cluster-real-techcrunch-ai-rss-1q8cfb5",
-      "draft-real-techcrunch-ai-rss-p09041",
-      "draft-real-techcrunch-ai-rss-16arfmf",
-      "draft-cluster-real-openai-news-1x7ta1m",
-      "draft-cluster-real-theverge-ai-rss-26954u",
-      "draft-real-xinhua-tech-8vimkl",
-      "draft-real-xinhua-tech-evdl85",
-      "draft-cluster-real-cnbc-world-rss-7byiq6",
-      "draft-real-cnbc-world-rss-g0vqjg",
-      "draft-real-mofcom-consumption-1v3ih6z"
+      "draft-real-mem-cn-uf7nda"
     ]
   }
 }

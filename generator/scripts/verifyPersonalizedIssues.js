@@ -43,6 +43,7 @@ const profiles = [
             careerDirections: ["AI 与产品方向", "互联网产品 / 产品经理"],
             country: "中国",
             livingCity: "上海",
+            hometownCountry: "中国",
             hometownCity: "杭州",
             interests: ["AI 产品", "产品行业", "本地提醒"]
         }
@@ -56,6 +57,7 @@ const profiles = [
             careerDirections: ["教师 / 教育从业者"],
             country: "中国",
             livingCity: "南京",
+            hometownCountry: "中国",
             hometownCity: "苏州",
             interests: ["教育行业", "教育", "本地提醒"]
         }
@@ -69,6 +71,7 @@ const profiles = [
             careerDirections: ["技术研发 / 工程"],
             country: "英国",
             livingCity: "伦敦",
+            hometownCountry: "中国",
             hometownCity: "杭州",
             interests: ["AI 技术", "本地提醒"]
         }
@@ -81,6 +84,7 @@ const broadProfile = {
     careerDirections: profiles.flatMap((item) => item.profile.careerDirections),
     country: "中国",
     livingCity: "上海",
+    hometownCountry: "中国",
     hometownCity: "杭州",
     interests: profiles.flatMap((item) => item.profile.interests)
 };

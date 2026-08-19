@@ -168,6 +168,15 @@ jobs:
             --edition "$EDITION" \
             --confirmation APPROVE
 
+      - name: Preserve latest personalization pool
+        if: steps.quality-gate.outputs.status != 'blocked'
+        env:
+          DATE: ${{ steps.issue-date.outputs.date }}
+          EDITION: ${{ steps.issue-edition.outputs.edition }}
+        run: |
+          mkdir -p personalization
+          cp "tmp/review-$DATE-$EDITION.json" personalization/latest.json
+
       - name: Save private diagnostic artifact
         uses: actions/upload-artifact@v4
         with:
@@ -188,7 +197,7 @@ jobs:
             "pending/$DATE-$EDITION.review.json" \
             "audit/source-health/$DATE-$EDITION.json"
           if [ -f latest.json ] && [ -f "issues/$DATE.json" ] && [ -f "editions/$DATE/$EDITION.json" ]; then
-            git add latest.json "issues/$DATE.json" "editions/$DATE/$EDITION.json"
+            git add latest.json "issues/$DATE.json" "editions/$DATE/$EDITION.json" personalization/latest.json
           fi
           if git diff --cached --quiet; then
             echo "Review and published content already match the generated result."

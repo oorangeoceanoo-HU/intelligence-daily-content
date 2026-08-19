@@ -78,11 +78,13 @@ const toUserProfile = (row) => ({
     careerDirections: row.career_directions ?? [],
     country: row.country,
     livingCity: row.living_city,
+    hometownCountry: row.hometown_country || row.country,
     hometownCity: row.hometown_city,
     interests: row.interests ?? []
 });
 const isConfiguredProfile = (profile) => Boolean(profile.country &&
     profile.livingCity &&
+    profile.hometownCountry &&
     profile.hometownCity &&
     (profile.careerDirections.length || profile.interests.length));
 const readFixtureProfiles = async (filePath) => {
@@ -106,7 +108,7 @@ const fetchCohort = async (baseUrl, serviceRoleKey, date) => {
         supabaseRequest({
             baseUrl,
             serviceRoleKey,
-            resource: "profiles?select=id,display_name,phase,career_directions,country,living_city,hometown_city,interests&order=created_at.asc"
+            resource: "profiles?select=id,display_name,phase,career_directions,country,living_city,hometown_country,hometown_city,interests&order=created_at.asc"
         }),
         supabaseRequest({
             baseUrl,

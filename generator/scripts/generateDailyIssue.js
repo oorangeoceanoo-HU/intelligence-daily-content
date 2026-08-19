@@ -121,7 +121,7 @@ const fetchCohortLocations = async () => {
         return [];
     }
     try {
-        const response = await fetch(`${normalizedSupabaseUrl(baseUrl)}/rest/v1/profiles?select=country,living_city,hometown_city`, {
+        const response = await fetch(`${normalizedSupabaseUrl(baseUrl)}/rest/v1/profiles?select=country,living_city,hometown_country,hometown_city`, {
             headers: {
                 apikey: serviceRoleKey,
                 Authorization: `Bearer ${serviceRoleKey}`,
@@ -132,9 +132,13 @@ const fetchCohortLocations = async () => {
             throw new Error(`HTTP ${response.status}`);
         }
         const rows = await response.json();
-        const locations = rows.flatMap((row) => [row.living_city, row.hometown_city]
-            .map((city) => ({ country: row.country?.trim() ?? "", city: city?.trim() ?? "" }))
-            .filter((location) => location.country && location.city));
+        const locations = rows.flatMap((row) => [
+            { country: row.country?.trim() ?? "", city: row.living_city?.trim() ?? "" },
+            {
+                country: row.hometown_country?.trim() || row.country?.trim() || "",
+                city: row.hometown_city?.trim() ?? ""
+            }
+        ].filter((location) => location.country && location.city));
         return Array.from(new Map(locations.map((location) => [`${location.country}|${location.city}`, location])).values());
     }
     catch (error) {
@@ -426,7 +430,7 @@ async function main() {
             city: profileConfig.profile.livingCity.trim()
         },
         {
-            country: profileConfig.profile.country,
+            country: profileConfig.profile.hometownCountry,
             city: profileConfig.profile.hometownCity.trim()
         },
         ...cohortLocations

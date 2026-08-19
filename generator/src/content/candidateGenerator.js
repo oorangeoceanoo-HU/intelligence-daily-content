@@ -61,7 +61,9 @@ const getMatchedLaneIds = (candidate, plan) => plan.lanes
     .map((lane) => lane.id);
 const scoreRelevance = (candidate, profile, plan) => {
     const reasons = [];
-    const exactCountry = candidate.regions.includes(profile.country);
+    const matchedCountries = [profile.country, profile.hometownCountry]
+        .filter((country) => country && candidate.regions.includes(country));
+    const exactCountry = matchedCountries.length > 0;
     const globalRelevant = candidate.regions.includes("全球");
     const cityHits = candidate.locations.filter((location) => plan.cities.includes(location));
     const specificIndustryHits = specificIndustryTags(candidate.industries).filter((industry) => plan.industries.includes(industry));
@@ -78,7 +80,7 @@ const scoreRelevance = (candidate, profile, plan) => {
     const publicRisk = publicRiskHit ? 20 : 0;
     const userPreferencePenalty = lightTrendHit && !userWantsLight ? -18 : 0;
     if (exactCountry) {
-        reasons.push(`命中所属国家：${profile.country}`);
+        reasons.push(`命中关联国家：${matchedCountries.join("、")}`);
     }
     else if (globalRelevant) {
         reasons.push("属于全球性信息");

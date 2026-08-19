@@ -1,0 +1,54 @@
+name: Refresh Personalized Issues
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "25 * * * *"
+
+permissions:
+  contents: read
+
+concurrency:
+  group: refresh-personalized-issues
+  cancel-in-progress: true
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out content repository
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Publish latest pool for current profiles
+        env:
+          SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
+          SUPABASE_SERVICE_ROLE_KEY: ${{ secrets.SUPABASE_SERVICE_ROLE_KEY }}
+        run: |
+          mkdir -p tmp
+          node generator/scripts/publishPersonalizedIssues.js \
+            --input personalization/latest.json \
+            --output tmp/personalized-refresh.json \
+            --skip-when-unconfigured
+
+      - name: Show generation summary
+        run: |
+          node - <<'NODE' >> "$GITHUB_STEP_SUMMARY"
+          const report = require('./tmp/personalized-refresh.json');
+          console.log(`## Personalized refresh`);
+          console.log(`- Issue: ${report.date} ${report.edition}`);
+          console.log(`- Configured profiles: ${report.configuredProfileCount}`);
+          console.log(`- Published profiles: ${report.publishedProfileCount}`);
+          console.log(`- Deferred profiles: ${report.deferredProfileCount}`);
+          NODE
+
+      - name: Save generation report
+        uses: actions/upload-artifact@v4
+        with:
+          name: personalized-refresh-${{ github.run_id }}
+          path: tmp/personalized-refresh.json
+          retention-days: 7

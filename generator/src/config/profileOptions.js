@@ -498,6 +498,7 @@ exports.defaultProfile = {
     careerDirections: ["AI 与产品方向"],
     country: "中国",
     livingCity: "上海",
+    hometownCountry: "中国",
     hometownCity: "杭州",
     interests: ["AI 产品", "产品行业"]
 };

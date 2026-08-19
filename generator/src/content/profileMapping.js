@@ -130,6 +130,7 @@ function createProfileKey(profile) {
     return [
         profile.country,
         profile.livingCity,
+        profile.hometownCountry,
         profile.hometownCity,
         ...profile.careerDirections,
         ...profile.interests

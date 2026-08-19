@@ -13,6 +13,7 @@ exports.candidatePreviewProfiles = [
             careerDirections: ["AI 与产品方向", "互联网产品 / 产品经理"],
             country: "中国",
             livingCity: "上海",
+            hometownCountry: "中国",
             hometownCity: "杭州",
             interests: ["AI 产品", "产品行业", "AI 技术", "本地提醒"]
         }
@@ -27,6 +28,7 @@ exports.candidatePreviewProfiles = [
             careerDirections: ["教师 / 教育从业者"],
             country: "中国",
             livingCity: "杭州",
+            hometownCountry: "中国",
             hometownCity: "南京",
             interests: ["教育行业", "教育", "本地提醒"]
         }
@@ -41,6 +43,7 @@ exports.candidatePreviewProfiles = [
             careerDirections: ["人力资源 / 招聘"],
             country: "中国",
             livingCity: "上海",
+            hometownCountry: "中国",
             hometownCity: "苏州",
             interests: ["HR / 招聘", "金融", "本地提醒"]
         }
@@ -55,6 +58,7 @@ exports.candidatePreviewProfiles = [
             careerDirections: ["运营 / 增长", "内容创作 / 自媒体"],
             country: "中国",
             livingCity: "广州",
+            hometownCountry: "中国",
             hometownCity: "长沙",
             interests: ["运营增长", "消费趋势", "热点素材", "电商"]
         }
@@ -79,6 +83,7 @@ exports.candidatePreviewProfiles = [
             ],
             country: "中国",
             livingCity: "上海",
+            hometownCountry: "中国",
             hometownCity: "杭州",
             interests: [
                 "AI 产品",

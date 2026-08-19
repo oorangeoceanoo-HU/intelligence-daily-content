@@ -50,6 +50,7 @@ const unique = (items) => Array.from(new Set(items));
 const intersects = (a, b) => a.some((item) => b.includes(item));
 const sourceMatchesRegion = (source, profile) => source.regions.includes("全球") ||
     source.regions.includes(profile.country) ||
+    source.regions.includes(profile.hometownCountry) ||
     source.regions.includes(profile.livingCity) ||
     source.regions.includes(profile.hometownCity);
 const sourceMatchesLane = (source, lane, userCategories, userIndustries, profile) => {

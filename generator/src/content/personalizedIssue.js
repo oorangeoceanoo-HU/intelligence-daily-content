@@ -1,7 +1,7 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
-exports.buildPersonalizedDailyIssue = buildPersonalizedDailyIssue;
 exports.isCompletePersonalizedIssue = void 0;
+exports.buildPersonalizedDailyIssue = buildPersonalizedDailyIssue;
 const candidateGenerator_1 = require("./candidateGenerator");
 const dailyIssueBuilder_1 = require("./dailyIssueBuilder");
 const editionIssueMerger_1 = require("./editionIssueMerger");
@@ -72,7 +72,8 @@ const industryMatchesForProfile = (candidate, profile) => {
 const layerMatchesFor = (candidate, rankedCandidate, profile) => {
     const cities = [profile.livingCity, profile.hometownCity].filter(Boolean);
     const cityMatch = intersects(candidate.locations, cities);
-    const countryMatch = Boolean(profile.country) && candidate.regions.includes(profile.country);
+    const countries = [profile.country, profile.hometownCountry].filter(Boolean);
+    const countryMatch = intersects(candidate.regions, countries);
     const professionalMatch = industryMatchesForProfile(candidate, profile).length > 0;
     const sharedMatch = rankedCandidate.matchedLaneIds.includes("mustKnow") ||
         (rankedCandidate.matchedLaneIds.includes("risk") &&
@@ -193,6 +194,9 @@ const relevanceTextFor = (item, profile) => {
         return `这条信息涉及你的家乡${profile.hometownCity}。如果家人仍在当地，可以留意后续执行范围以及是否需要提前调整出行或办事安排。`;
     }
     if (item.selectedLayer === "local" && profile.country) {
+        if (candidate.regions.includes(profile.hometownCountry) && profile.hometownCountry !== profile.country) {
+            return `这条信息涉及你的家乡所在国家${profile.hometownCountry}。如果家人仍在当地，可以留意后续执行范围以及是否影响生活或出行安排。`;
+        }
         return `你目前所在国家是${profile.country}，这项变化可能影响当地生活、工作或跨境安排，值得关注后续实施细则。`;
     }
     if (item.selectedLayer === "professional" && topicHits.length) {
@@ -277,6 +281,7 @@ function buildPersonalizedDailyIssue(params) {
     const profileKey = [
         params.profile.country,
         params.profile.livingCity,
+        params.profile.hometownCountry,
         params.profile.hometownCity,
         ...params.profile.careerDirections,
         ...params.profile.interests
@@ -290,6 +295,7 @@ function buildPersonalizedDailyIssue(params) {
             layerTargets,
             layerCounts: publishedLayerCounts,
             matchedCountry: params.profile.country,
+            matchedCountries: unique([params.profile.country, params.profile.hometownCountry].filter(Boolean)),
             matchedCities: unique([params.profile.livingCity, params.profile.hometownCity].filter(Boolean)),
             matchedCareerDirections: params.profile.careerDirections,
             matchedInterests: params.profile.interests,

@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "publishedAt": "2026-08-20T04:19:52.142Z",
+  "publishedAt": "2026-08-20T04:47:43.645Z",
   "issue": {
     "id": "daily-public-2026-08-20",
     "date": "2026-08-20",
@@ -565,13 +565,13 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-20T04:19:57.883Z",
+            "fetchedAt": "2026-08-20T04:47:48.066Z",
             "sourceMethod": "rss",
             "verificationStatus": "pending"
           }
         ],
         "images": [],
-        "generatedAt": "2026-08-20T04:19:52.142Z"
+        "generatedAt": "2026-08-20T04:47:43.645Z"
       },
       {
         "id": "draft-real-cnbc-world-rss-7ijwzm",
@@ -610,13 +610,13 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-20T04:19:57.883Z",
+            "fetchedAt": "2026-08-20T04:47:48.066Z",
             "sourceMethod": "rss",
             "verificationStatus": "pending"
           }
         ],
         "images": [],
-        "generatedAt": "2026-08-20T04:19:52.142Z"
+        "generatedAt": "2026-08-20T04:47:43.645Z"
       },
       {
         "id": "draft-real-techcrunch-ai-rss-9sw3kl",
@@ -655,13 +655,13 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-20T04:20:00.341Z",
+            "fetchedAt": "2026-08-20T04:47:49.707Z",
             "sourceMethod": "rss",
             "verificationStatus": "pending"
           }
         ],
         "images": [],
-        "generatedAt": "2026-08-20T04:19:52.142Z"
+        "generatedAt": "2026-08-20T04:47:43.645Z"
       },
       {
         "id": "draft-real-cnbc-world-rss-gy4g42",
@@ -699,13 +699,18 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-20T04:19:57.883Z",
+            "fetchedAt": "2026-08-20T04:47:48.066Z",
             "sourceMethod": "rss",
             "verificationStatus": "pending"
           }
         ],
-        "images": [],
-        "generatedAt": "2026-08-20T04:19:52.142Z"
+        "images": [
+          {
+            "url": "https://image.cnbcfm.com/api/v1/image/108351901-17871889211787188917-47871067085-1080pnbcnews.jpg?v=1787188920&amp;w=750&amp;h=422&amp;vtcrop=y",
+            "sourceUrl": "https://www.cnbc.com/2026/08/19/us-iran-war-trump-hormuz-economic-warfare.html"
+          }
+        ],
+        "generatedAt": "2026-08-20T04:47:43.645Z"
       },
       {
         "id": "draft-real-cnbc-world-rss-1cvmchg",
@@ -743,7 +748,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-20T04:19:57.883Z",
+            "fetchedAt": "2026-08-20T04:47:48.066Z",
             "sourceMethod": "rss",
             "verificationStatus": "pending"
           }
@@ -754,7 +759,7 @@
             "sourceUrl": "https://www.cnbc.com/2026/08/19/nuclear-proliferation-defense-risk-trump-umbrella-.html"
           }
         ],
-        "generatedAt": "2026-08-20T04:19:52.142Z"
+        "generatedAt": "2026-08-20T04:47:43.645Z"
       },
       {
         "id": "draft-real-cnbc-world-rss-1mxr3k3",
@@ -792,13 +797,13 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-20T04:19:57.883Z",
+            "fetchedAt": "2026-08-20T04:47:48.066Z",
             "sourceMethod": "rss",
             "verificationStatus": "pending"
           }
         ],
         "images": [],
-        "generatedAt": "2026-08-20T04:19:52.142Z"
+        "generatedAt": "2026-08-20T04:47:43.645Z"
       },
       {
         "id": "draft-real-cnbc-world-rss-9b4bm1",
@@ -836,13 +841,13 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-20T04:19:57.883Z",
+            "fetchedAt": "2026-08-20T04:47:48.066Z",
             "sourceMethod": "rss",
             "verificationStatus": "pending"
           }
         ],
         "images": [],
-        "generatedAt": "2026-08-20T04:19:52.142Z"
+        "generatedAt": "2026-08-20T04:47:43.645Z"
       },
       {
         "id": "draft-real-cnbc-world-rss-l5fi2u",
@@ -880,13 +885,13 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-20T04:19:57.883Z",
+            "fetchedAt": "2026-08-20T04:47:48.066Z",
             "sourceMethod": "rss",
             "verificationStatus": "pending"
           }
         ],
         "images": [],
-        "generatedAt": "2026-08-20T04:19:52.142Z"
+        "generatedAt": "2026-08-20T04:47:43.645Z"
       },
       {
         "id": "draft-real-cnbc-world-rss-1ffi0ww",
@@ -1189,7 +1194,7 @@
     "estimatedReadMinutes": 37,
     "pageCount": 3,
     "topCardId": "draft-real-cnbc-world-rss-11dg0z2",
-    "generatedAt": "2026-08-20T04:19:52.142Z",
+    "generatedAt": "2026-08-20T04:47:43.645Z",
     "pushSlots": [
       "08:30",
       "12:30",

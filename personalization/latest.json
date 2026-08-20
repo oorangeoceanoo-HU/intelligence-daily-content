@@ -563,13 +563,13 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-20T04:19:57.883Z",
+            "fetchedAt": "2026-08-20T04:47:48.066Z",
             "sourceMethod": "rss",
             "verificationStatus": "pending"
           }
         ],
         "images": [],
-        "generatedAt": "2026-08-20T04:19:52.142Z"
+        "generatedAt": "2026-08-20T04:47:43.645Z"
       },
       {
         "id": "draft-real-cnbc-world-rss-7ijwzm",
@@ -608,13 +608,13 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-20T04:19:57.883Z",
+            "fetchedAt": "2026-08-20T04:47:48.066Z",
             "sourceMethod": "rss",
             "verificationStatus": "pending"
           }
         ],
         "images": [],
-        "generatedAt": "2026-08-20T04:19:52.142Z"
+        "generatedAt": "2026-08-20T04:47:43.645Z"
       },
       {
         "id": "draft-real-techcrunch-ai-rss-9sw3kl",
@@ -653,13 +653,13 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-20T04:20:00.341Z",
+            "fetchedAt": "2026-08-20T04:47:49.707Z",
             "sourceMethod": "rss",
             "verificationStatus": "pending"
           }
         ],
         "images": [],
-        "generatedAt": "2026-08-20T04:19:52.142Z"
+        "generatedAt": "2026-08-20T04:47:43.645Z"
       },
       {
         "id": "draft-real-cnbc-world-rss-gy4g42",
@@ -697,13 +697,18 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-20T04:19:57.883Z",
+            "fetchedAt": "2026-08-20T04:47:48.066Z",
             "sourceMethod": "rss",
             "verificationStatus": "pending"
           }
         ],
-        "images": [],
-        "generatedAt": "2026-08-20T04:19:52.142Z"
+        "images": [
+          {
+            "url": "https://image.cnbcfm.com/api/v1/image/108351901-17871889211787188917-47871067085-1080pnbcnews.jpg?v=1787188920&amp;w=750&amp;h=422&amp;vtcrop=y",
+            "sourceUrl": "https://www.cnbc.com/2026/08/19/us-iran-war-trump-hormuz-economic-warfare.html"
+          }
+        ],
+        "generatedAt": "2026-08-20T04:47:43.645Z"
       },
       {
         "id": "draft-real-cnbc-world-rss-1cvmchg",
@@ -741,7 +746,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-20T04:19:57.883Z",
+            "fetchedAt": "2026-08-20T04:47:48.066Z",
             "sourceMethod": "rss",
             "verificationStatus": "pending"
           }
@@ -752,7 +757,7 @@
             "sourceUrl": "https://www.cnbc.com/2026/08/19/nuclear-proliferation-defense-risk-trump-umbrella-.html"
           }
         ],
-        "generatedAt": "2026-08-20T04:19:52.142Z"
+        "generatedAt": "2026-08-20T04:47:43.645Z"
       },
       {
         "id": "draft-real-cnbc-world-rss-1mxr3k3",
@@ -790,13 +795,13 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-20T04:19:57.883Z",
+            "fetchedAt": "2026-08-20T04:47:48.066Z",
             "sourceMethod": "rss",
             "verificationStatus": "pending"
           }
         ],
         "images": [],
-        "generatedAt": "2026-08-20T04:19:52.142Z"
+        "generatedAt": "2026-08-20T04:47:43.645Z"
       },
       {
         "id": "draft-real-cnbc-world-rss-9b4bm1",
@@ -834,13 +839,13 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-20T04:19:57.883Z",
+            "fetchedAt": "2026-08-20T04:47:48.066Z",
             "sourceMethod": "rss",
             "verificationStatus": "pending"
           }
         ],
         "images": [],
-        "generatedAt": "2026-08-20T04:19:52.142Z"
+        "generatedAt": "2026-08-20T04:47:43.645Z"
       },
       {
         "id": "draft-real-cnbc-world-rss-l5fi2u",
@@ -878,13 +883,13 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-20T04:19:57.883Z",
+            "fetchedAt": "2026-08-20T04:47:48.066Z",
             "sourceMethod": "rss",
             "verificationStatus": "pending"
           }
         ],
         "images": [],
-        "generatedAt": "2026-08-20T04:19:52.142Z"
+        "generatedAt": "2026-08-20T04:47:43.645Z"
       },
       {
         "id": "draft-real-cnbc-world-rss-1ffi0ww",
@@ -1187,7 +1192,7 @@
     "estimatedReadMinutes": 37,
     "pageCount": 3,
     "topCardId": "draft-real-cnbc-world-rss-11dg0z2",
-    "generatedAt": "2026-08-20T04:19:52.142Z",
+    "generatedAt": "2026-08-20T04:47:43.645Z",
     "pushSlots": [
       "08:30",
       "12:30",
@@ -1232,17 +1237,17 @@
   "meta": {
     "profileName": "多职业公共版",
     "cohortLocationCount": 5,
-    "generatedAt": "2026-08-20T04:19:52.142Z",
+    "generatedAt": "2026-08-20T04:47:43.645Z",
     "edition": "midday",
     "sourceCoverage": {
       "ready": true,
       "sourceAvailabilityReady": true,
       "currentCoverageReady": true,
-      "generatedAt": "2026-08-20T04:22:21.370Z",
+      "generatedAt": "2026-08-20T04:50:08.066Z",
       "totalSources": 31,
       "successfulSources": 30,
       "sourcesWithItems": 26,
-      "totalItems": 379,
+      "totalItems": 363,
       "lanes": [
         {
           "id": "global",
@@ -1438,7 +1443,7 @@
       "stats",
       "mofcom"
     ],
-    "fetchedRawItemCount": 379,
+    "fetchedRawItemCount": 363,
     "rawItemCount": 14,
     "rawCandidateCount": 14,
     "dedupedCandidateCount": 12,
@@ -1509,7 +1514,7 @@
         "method": "api",
         "endpointUrl": "https://export.arxiv.org/api/query",
         "attempts": 1,
-        "durationMs": 514,
+        "durationMs": 392,
         "fallbackUsed": false,
         "rawItemCount": 18,
         "datedItemCount": 18,
@@ -1526,7 +1531,7 @@
         "method": "web",
         "endpointUrl": "https://www.cas.cn/syky/",
         "attempts": 1,
-        "durationMs": 1765,
+        "durationMs": 1534,
         "fallbackUsed": false,
         "rawItemCount": 18,
         "datedItemCount": 18,
@@ -1543,7 +1548,7 @@
         "method": "web",
         "endpointUrl": "https://www.mohurd.gov.cn/xinwen/gzdt/index.html",
         "attempts": 3,
-        "durationMs": 137452,
+        "durationMs": 137737,
         "fallbackUsed": false,
         "rawItemCount": 0,
         "datedItemCount": 0,
@@ -1559,7 +1564,7 @@
         "method": "rss",
         "endpointUrl": "https://www.gdacs.org/xml/rss.xml",
         "attempts": 1,
-        "durationMs": 3730,
+        "durationMs": 4280,
         "fallbackUsed": false,
         "rawItemCount": 18,
         "datedItemCount": 18,
@@ -1576,7 +1581,7 @@
         "method": "web",
         "endpointUrl": "https://www.gov.cn/zhengce/zuixin/",
         "attempts": 1,
-        "durationMs": 2222,
+        "durationMs": 1694,
         "fallbackUsed": false,
         "rawItemCount": 18,
         "datedItemCount": 18,
@@ -1593,7 +1598,7 @@
         "method": "web",
         "endpointUrl": "https://www.mem.gov.cn/xw/yjglbgzdt/",
         "attempts": 1,
-        "durationMs": 1441,
+        "durationMs": 575,
         "fallbackUsed": false,
         "rawItemCount": 18,
         "datedItemCount": 18,
@@ -1610,7 +1615,7 @@
         "method": "web",
         "endpointUrl": "https://www.cac.gov.cn/index.htm",
         "attempts": 1,
-        "durationMs": 1679,
+        "durationMs": 1509,
         "fallbackUsed": false,
         "rawItemCount": 2,
         "datedItemCount": 2,
@@ -1627,7 +1632,7 @@
         "method": "web",
         "endpointUrl": "https://www.news.cn/world/index.html",
         "attempts": 1,
-        "durationMs": 1851,
+        "durationMs": 1239,
         "fallbackUsed": false,
         "rawItemCount": 18,
         "datedItemCount": 18,
@@ -1644,7 +1649,7 @@
         "method": "web",
         "endpointUrl": "https://www.news.cn/tech/index.html",
         "attempts": 1,
-        "durationMs": 1270,
+        "durationMs": 87,
         "fallbackUsed": false,
         "rawItemCount": 13,
         "datedItemCount": 13,
@@ -1661,7 +1666,7 @@
         "method": "rss",
         "endpointUrl": "https://www.gov.uk/search/news-and-communications.atom?order=updated-newest",
         "attempts": 1,
-        "durationMs": 929,
+        "durationMs": 871,
         "fallbackUsed": false,
         "rawItemCount": 18,
         "datedItemCount": 18,
@@ -1678,7 +1683,7 @@
         "method": "rss",
         "endpointUrl": "https://feeds.npr.org/1004/rss.xml",
         "attempts": 1,
-        "durationMs": 173,
+        "durationMs": 250,
         "fallbackUsed": false,
         "rawItemCount": 10,
         "datedItemCount": 10,
@@ -1695,7 +1700,7 @@
         "method": "rss",
         "endpointUrl": "https://feeds.skynews.com/feeds/rss/world.xml",
         "attempts": 1,
-        "durationMs": 541,
+        "durationMs": 156,
         "fallbackUsed": false,
         "rawItemCount": 9,
         "datedItemCount": 9,
@@ -1712,7 +1717,7 @@
         "method": "rss",
         "endpointUrl": "https://www.france24.com/en/middle-east/rss",
         "attempts": 1,
-        "durationMs": 352,
+        "durationMs": 207,
         "fallbackUsed": false,
         "rawItemCount": 18,
         "datedItemCount": 18,
@@ -1729,7 +1734,7 @@
         "method": "rss",
         "endpointUrl": "https://www.france24.com/en/asia-pacific/rss",
         "attempts": 1,
-        "durationMs": 282,
+        "durationMs": 40,
         "fallbackUsed": false,
         "rawItemCount": 18,
         "datedItemCount": 18,
@@ -1746,7 +1751,7 @@
         "method": "rss",
         "endpointUrl": "https://www.cnbc.com/id/100727362/device/rss/rss.html",
         "attempts": 1,
-        "durationMs": 185,
+        "durationMs": 174,
         "fallbackUsed": false,
         "rawItemCount": 17,
         "datedItemCount": 17,
@@ -1763,7 +1768,7 @@
         "method": "rss",
         "endpointUrl": "https://news.un.org/feed/subscribe/en/news/all/rss.xml",
         "attempts": 1,
-        "durationMs": 149,
+        "durationMs": 114,
         "fallbackUsed": false,
         "rawItemCount": 18,
         "datedItemCount": 18,
@@ -1780,7 +1785,7 @@
         "method": "web",
         "endpointUrl": "https://www.mfa.gov.cn/wjdt_674879/fyrbt_674889/",
         "attempts": 1,
-        "durationMs": 1277,
+        "durationMs": 781,
         "fallbackUsed": false,
         "rawItemCount": 18,
         "datedItemCount": 18,
@@ -1797,7 +1802,7 @@
         "method": "web",
         "endpointUrl": "https://www.mofcom.gov.cn/xwfb/",
         "attempts": 1,
-        "durationMs": 2912,
+        "durationMs": 1856,
         "fallbackUsed": false,
         "rawItemCount": 14,
         "datedItemCount": 14,
@@ -1814,7 +1819,7 @@
         "method": "rss",
         "endpointUrl": "https://openai.com/news/rss.xml",
         "attempts": 1,
-        "durationMs": 2341,
+        "durationMs": 1470,
         "fallbackUsed": false,
         "rawItemCount": 18,
         "datedItemCount": 18,
@@ -1831,7 +1836,7 @@
         "method": "rss",
         "endpointUrl": "https://deepmind.google/blog/rss.xml",
         "attempts": 1,
-        "durationMs": 1385,
+        "durationMs": 960,
         "fallbackUsed": false,
         "rawItemCount": 18,
         "datedItemCount": 18,
@@ -1848,7 +1853,7 @@
         "method": "rss",
         "endpointUrl": "https://techcrunch.com/category/artificial-intelligence/feed/",
         "attempts": 1,
-        "durationMs": 84,
+        "durationMs": 138,
         "fallbackUsed": false,
         "rawItemCount": 18,
         "datedItemCount": 18,
@@ -1865,7 +1870,7 @@
         "method": "rss",
         "endpointUrl": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
         "attempts": 1,
-        "durationMs": 123,
+        "durationMs": 104,
         "fallbackUsed": false,
         "rawItemCount": 10,
         "datedItemCount": 10,
@@ -1882,7 +1887,7 @@
         "method": "web",
         "endpointUrl": "https://www.moe.gov.cn/",
         "attempts": 1,
-        "durationMs": 4257,
+        "durationMs": 7260,
         "fallbackUsed": false,
         "rawItemCount": 12,
         "datedItemCount": 12,
@@ -1899,7 +1904,7 @@
         "method": "web",
         "endpointUrl": "https://chrm.mohrss.gov.cn/announcement/",
         "attempts": 1,
-        "durationMs": 4778,
+        "durationMs": 10487,
         "fallbackUsed": false,
         "rawItemCount": 8,
         "datedItemCount": 8,
@@ -1916,7 +1921,7 @@
         "method": "web",
         "endpointUrl": "https://www.stats.gov.cn/sj/zxfb/",
         "attempts": 1,
-        "durationMs": 5941,
+        "durationMs": 11664,
         "fallbackUsed": false,
         "rawItemCount": 13,
         "datedItemCount": 13,
@@ -1933,14 +1938,15 @@
         "method": "web",
         "endpointUrl": "https://scyxs.mofcom.gov.cn/",
         "attempts": 1,
-        "durationMs": 2684,
-        "fallbackUsed": false,
-        "rawItemCount": 18,
-        "datedItemCount": 18,
+        "durationMs": 9680,
+        "fallbackUsed": true,
+        "rawItemCount": 1,
+        "datedItemCount": 1,
         "inEditionItemCount": 0,
-        "newestPublishedAt": "2026-07-23T16:00:00.000Z",
-        "oldestPublishedAt": "2025-08-27T16:00:00.000Z",
-        "verificationStatus": "confirmed"
+        "newestPublishedAt": "2026-08-17T16:00:00.000Z",
+        "oldestPublishedAt": "2026-08-17T16:00:00.000Z",
+        "verificationStatus": "confirmed",
+        "note": "主入口失败后使用了官方备用入口。"
       },
       {
         "sourceId": "city-news-rss:%E4%B8%AD%E5%9B%BD-%E4%B8%8A%E6%B5%B7",
@@ -1950,12 +1956,12 @@
         "method": "web",
         "endpointUrl": "city-source:中国/直辖市/上海",
         "attempts": 1,
-        "durationMs": 6700,
+        "durationMs": 5467,
         "fallbackUsed": false,
-        "rawItemCount": 1,
-        "datedItemCount": 1,
+        "rawItemCount": 2,
+        "datedItemCount": 2,
         "inEditionItemCount": 0,
-        "newestPublishedAt": "2020-12-29T16:00:00.000Z",
+        "newestPublishedAt": "2026-08-19T16:00:00.000Z",
         "oldestPublishedAt": "2020-12-29T16:00:00.000Z",
         "verificationStatus": "pending",
         "note": "城市新闻发现源；政策和风险内容仍需官方或主流来源确认。"
@@ -1968,7 +1974,7 @@
         "method": "web",
         "endpointUrl": "city-source:中国/浙江/杭州",
         "attempts": 1,
-        "durationMs": 10627,
+        "durationMs": 3986,
         "fallbackUsed": false,
         "rawItemCount": 0,
         "datedItemCount": 0,
@@ -1984,7 +1990,7 @@
         "method": "web",
         "endpointUrl": "city-source:英国/英国/伦敦",
         "attempts": 1,
-        "durationMs": 4159,
+        "durationMs": 3118,
         "fallbackUsed": false,
         "rawItemCount": 0,
         "datedItemCount": 0,
@@ -2000,7 +2006,7 @@
         "method": "web",
         "endpointUrl": "city-source:中国/广东/深圳",
         "attempts": 1,
-        "durationMs": 5584,
+        "durationMs": 3445,
         "fallbackUsed": false,
         "rawItemCount": 0,
         "datedItemCount": 0,
@@ -2016,7 +2022,7 @@
         "method": "web",
         "endpointUrl": "city-source:中国/吉林/长春",
         "attempts": 1,
-        "durationMs": 4083,
+        "durationMs": 3121,
         "fallbackUsed": false,
         "rawItemCount": 0,
         "datedItemCount": 0,
@@ -2031,7 +2037,7 @@
         "sourceName": "住房和城乡建设部",
         "method": "web",
         "attempts": 3,
-        "durationMs": 137452,
+        "durationMs": 137737,
         "fallbackUsed": false,
         "error": "https://www.mohurd.gov.cn/api-gateway/jpaas-publish-server/front/page/build/unit?parseType=bulidstatic&webId=86ca573ec4df405db627fdc2493677f3&tplSetId=fc259c381af3496d85e61997ea7771cb&pageType=column&tagId=%E6%A0%8F%E7%9B%AE-list&editType=null&pageId=919e942639b5477d96e4c97471c61d9f: TypeError: fetch failed; legacy TLS fallback: Error: Request timed out | https://www.mohurd.gov.cn/xinwen/gzdt/index.html: TypeError: fetch failed; legacy TLS fallback: Error: Request timed out | https://www.mohurd.gov.cn/: TypeError: fetch failed; legacy TLS fallback: Error: Request timed out"
       }
@@ -2097,7 +2103,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-20T04:19:57.883Z",
+            "fetchedAt": "2026-08-20T04:47:48.066Z",
             "sourceMethod": "rss",
             "verificationStatus": "pending"
           }
@@ -2153,13 +2159,13 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-20T04:19:57.883Z",
+            "fetchedAt": "2026-08-20T04:47:48.066Z",
             "sourceMethod": "rss",
             "verificationStatus": "pending"
           }
         ],
         "images": [],
-        "generatedAt": "2026-08-20T04:19:52.142Z"
+        "generatedAt": "2026-08-20T04:47:43.645Z"
       }
     },
     {
@@ -2198,7 +2204,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-20T04:19:57.883Z",
+            "fetchedAt": "2026-08-20T04:47:48.066Z",
             "sourceMethod": "rss",
             "verificationStatus": "pending"
           }
@@ -2254,13 +2260,13 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-20T04:19:57.883Z",
+            "fetchedAt": "2026-08-20T04:47:48.066Z",
             "sourceMethod": "rss",
             "verificationStatus": "pending"
           }
         ],
         "images": [],
-        "generatedAt": "2026-08-20T04:19:52.142Z"
+        "generatedAt": "2026-08-20T04:47:43.645Z"
       }
     },
     {
@@ -2299,7 +2305,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-20T04:19:57.883Z",
+            "fetchedAt": "2026-08-20T04:47:48.066Z",
             "sourceMethod": "rss",
             "verificationStatus": "pending"
           }
@@ -2354,13 +2360,18 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-20T04:19:57.883Z",
+            "fetchedAt": "2026-08-20T04:47:48.066Z",
             "sourceMethod": "rss",
             "verificationStatus": "pending"
           }
         ],
-        "images": [],
-        "generatedAt": "2026-08-20T04:19:52.142Z"
+        "images": [
+          {
+            "url": "https://image.cnbcfm.com/api/v1/image/108351901-17871889211787188917-47871067085-1080pnbcnews.jpg?v=1787188920&amp;w=750&amp;h=422&amp;vtcrop=y",
+            "sourceUrl": "https://www.cnbc.com/2026/08/19/us-iran-war-trump-hormuz-economic-warfare.html"
+          }
+        ],
+        "generatedAt": "2026-08-20T04:47:43.645Z"
       }
     },
     {
@@ -2399,7 +2410,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-20T04:19:57.883Z",
+            "fetchedAt": "2026-08-20T04:47:48.066Z",
             "sourceMethod": "rss",
             "verificationStatus": "pending"
           }
@@ -2454,13 +2465,13 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-20T04:19:57.883Z",
+            "fetchedAt": "2026-08-20T04:47:48.066Z",
             "sourceMethod": "rss",
             "verificationStatus": "pending"
           }
         ],
         "images": [],
-        "generatedAt": "2026-08-20T04:19:52.142Z"
+        "generatedAt": "2026-08-20T04:47:43.645Z"
       }
     },
     {
@@ -2499,7 +2510,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-20T04:19:57.883Z",
+            "fetchedAt": "2026-08-20T04:47:48.066Z",
             "sourceMethod": "rss",
             "verificationStatus": "pending"
           }
@@ -2554,7 +2565,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-20T04:19:57.883Z",
+            "fetchedAt": "2026-08-20T04:47:48.066Z",
             "sourceMethod": "rss",
             "verificationStatus": "pending"
           }
@@ -2565,7 +2576,7 @@
             "sourceUrl": "https://www.cnbc.com/2026/08/19/nuclear-proliferation-defense-risk-trump-umbrella-.html"
           }
         ],
-        "generatedAt": "2026-08-20T04:19:52.142Z"
+        "generatedAt": "2026-08-20T04:47:43.645Z"
       }
     },
     {
@@ -2602,7 +2613,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-20T04:19:57.883Z",
+            "fetchedAt": "2026-08-20T04:47:48.066Z",
             "sourceMethod": "rss",
             "verificationStatus": "pending"
           }
@@ -2657,13 +2668,13 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-20T04:19:57.883Z",
+            "fetchedAt": "2026-08-20T04:47:48.066Z",
             "sourceMethod": "rss",
             "verificationStatus": "pending"
           }
         ],
         "images": [],
-        "generatedAt": "2026-08-20T04:19:52.142Z"
+        "generatedAt": "2026-08-20T04:47:43.645Z"
       }
     },
     {
@@ -2700,7 +2711,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-20T04:19:57.883Z",
+            "fetchedAt": "2026-08-20T04:47:48.066Z",
             "sourceMethod": "rss",
             "verificationStatus": "pending"
           }
@@ -2755,13 +2766,13 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-20T04:19:57.883Z",
+            "fetchedAt": "2026-08-20T04:47:48.066Z",
             "sourceMethod": "rss",
             "verificationStatus": "pending"
           }
         ],
         "images": [],
-        "generatedAt": "2026-08-20T04:19:52.142Z"
+        "generatedAt": "2026-08-20T04:47:43.645Z"
       }
     },
     {
@@ -2798,7 +2809,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-20T04:20:00.341Z",
+            "fetchedAt": "2026-08-20T04:47:49.707Z",
             "sourceMethod": "rss",
             "verificationStatus": "pending"
           }
@@ -2854,13 +2865,13 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-20T04:20:00.341Z",
+            "fetchedAt": "2026-08-20T04:47:49.707Z",
             "sourceMethod": "rss",
             "verificationStatus": "pending"
           }
         ],
         "images": [],
-        "generatedAt": "2026-08-20T04:19:52.142Z"
+        "generatedAt": "2026-08-20T04:47:43.645Z"
       }
     },
     {
@@ -2894,7 +2905,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-20T04:19:55.902Z",
+            "fetchedAt": "2026-08-20T04:47:47.985Z",
             "sourceMethod": "rss",
             "verificationStatus": "confirmed"
           },
@@ -2906,7 +2917,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-20T04:19:55.902Z",
+            "fetchedAt": "2026-08-20T04:47:47.985Z",
             "sourceMethod": "rss",
             "verificationStatus": "confirmed"
           },
@@ -2918,7 +2929,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-20T04:19:55.902Z",
+            "fetchedAt": "2026-08-20T04:47:47.985Z",
             "sourceMethod": "rss",
             "verificationStatus": "confirmed"
           }
@@ -2970,7 +2981,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-20T04:19:55.902Z",
+            "fetchedAt": "2026-08-20T04:47:47.985Z",
             "sourceMethod": "rss",
             "verificationStatus": "confirmed"
           },
@@ -2982,7 +2993,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-20T04:19:55.902Z",
+            "fetchedAt": "2026-08-20T04:47:47.985Z",
             "sourceMethod": "rss",
             "verificationStatus": "confirmed"
           },
@@ -2994,7 +3005,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-20T04:19:55.902Z",
+            "fetchedAt": "2026-08-20T04:47:47.985Z",
             "sourceMethod": "rss",
             "verificationStatus": "confirmed"
           }
@@ -3005,7 +3016,7 @@
             "sourceUrl": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1030738"
           }
         ],
-        "generatedAt": "2026-08-20T04:19:52.142Z"
+        "generatedAt": "2026-08-20T04:47:43.645Z"
       }
     }
   ]

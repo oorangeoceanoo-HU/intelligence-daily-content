@@ -1,56 +1,11 @@
 {
   "schemaVersion": 2,
-  "publishedAt": "2026-08-20T13:30:23.740Z",
+  "publishedAt": "2026-08-20T13:53:55.756Z",
   "issue": {
     "id": "daily-public-2026-08-20",
     "date": "2026-08-20",
     "userId": "public",
     "cards": [
-      {
-        "id": "draft-real-cnbc-world-rss-awz2ne",
-        "title": "沃尔玛上调全年预期，表示将利用巨额关税退款来保持低价",
-        "oneLine": "政策变化：在这篇文章中，沃尔玛周四公布的季度销售额超出了华尔街的预期，并提高了今年的预期，因为它看到电子商务又一个强劲的季度增长，并受益于关税退款。",
-        "importance": "S",
-        "credibility": "待确认",
-        "tags": [
-          "S",
-          "mustKnow",
-          "industry",
-          "world",
-          "policy",
-          "finance"
-        ],
-        "industries": [
-          "generalPublic",
-          "financeInvestment",
-          "operationsGrowth",
-          "ecommerceRetail"
-        ],
-        "section": "front",
-        "body": {
-          "background": "他补充说，沃尔玛还预计今年将承受略高于 20 亿美元的“与燃油价格上涨相关的增量成本阻力”。沃尔玛努力降低价格之际，许多购物者因感受到高油价和食品成本的压力而削减了支出。他补充说，它正在降低包括牛肉在内的各个类别的价格。",
-          "keyProgress": "“我们的业务很强劲，”首席财务官约翰·大卫·雷尼 (John David Rainey) 告诉 CNBC。”该零售商表示，随着全球电子商务销售额增长 23%，第二财季收入增长 5.9%。沃尔玛还表示，美国可比销售额增长了 2.6%，部分被某些药品价格上限生效导致健康和保健业务下降 0.8% 所抵消。沃尔玛表示，预计第三季度净销售额将增长3%至3.75%，调整后每股收益将在62美分至64美分之间。",
-          "whyItMatters": "“沃尔玛上调全年预期，表示将利用巨额关税退款来保持低价”如果继续发展，可能通过能源价格、航运、贸易、汇率或市场预期传导到国内。了解它的意义在于判断后续风险，而不只停留在事件本身。",
-          "userRelevance": "即使你不在事发地区，“沃尔玛上调全年预期，表示将利用巨额关税退款来保持低价”也可能通过能源价格、国际航运、贸易成本和市场预期间接影响国内生活与工作判断。",
-          "whatToWatch": "接下来要看“沃尔玛上调全年预期，表示将利用巨额关税退款来保持低价”是否出现更细的城市、行业、平台或企业数据，以及这一变化能否连续保持。"
-        },
-        "sourceLinks": [
-          {
-            "title": "CNBC World News RSS",
-            "url": "https://www.cnbc.com/2026/08/20/walmart-wmt-q2-2027-earnings.html",
-            "sourceId": "cnbc-world-rss",
-            "publishedAt": "2026-08-20T12:48:54.000Z",
-            "language": "zh",
-            "originalLanguage": "en",
-            "translationStatus": "translated",
-            "fetchedAt": "2026-08-20T13:30:28.336Z",
-            "sourceMethod": "rss",
-            "verificationStatus": "pending"
-          }
-        ],
-        "images": [],
-        "generatedAt": "2026-08-20T13:30:23.740Z"
-      },
       {
         "id": "draft-real-cnbc-world-rss-1fozwgu",
         "title": "美伊战争引发地区混乱并消耗执法资源，索马里海盗威胁卷土重来",
@@ -88,13 +43,13 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-20T13:30:28.336Z",
+            "fetchedAt": "2026-08-20T13:53:59.961Z",
             "sourceMethod": "rss",
             "verificationStatus": "pending"
           }
         ],
         "images": [],
-        "generatedAt": "2026-08-20T13:30:23.740Z"
+        "generatedAt": "2026-08-20T13:53:55.756Z"
       },
       {
         "id": "draft-real-cnbc-world-rss-1bzic5l",
@@ -133,13 +88,13 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-20T13:30:28.336Z",
+            "fetchedAt": "2026-08-20T13:53:59.961Z",
             "sourceMethod": "rss",
             "verificationStatus": "pending"
           }
         ],
         "images": [],
-        "generatedAt": "2026-08-20T13:30:23.740Z"
+        "generatedAt": "2026-08-20T13:53:55.756Z"
       },
       {
         "id": "draft-real-cnbc-world-rss-11dg0z2",
@@ -423,7 +378,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-20T13:30:28.277Z",
+            "fetchedAt": "2026-08-20T13:53:59.529Z",
             "sourceMethod": "rss",
             "verificationStatus": "confirmed"
           }
@@ -434,7 +389,7 @@
             "sourceUrl": "https://www.npr.org/2026/08/20/g-s1-139381/north-korea-suspected-missile"
           }
         ],
-        "generatedAt": "2026-08-20T13:30:23.740Z"
+        "generatedAt": "2026-08-20T13:53:55.756Z"
       },
       {
         "id": "draft-cluster-real-npr-world-rss-1rq3isn",
@@ -473,7 +428,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-20T13:30:28.277Z",
+            "fetchedAt": "2026-08-20T13:53:59.529Z",
             "sourceMethod": "rss",
             "verificationStatus": "confirmed"
           },
@@ -485,7 +440,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-20T13:30:28.760Z",
+            "fetchedAt": "2026-08-20T13:53:59.820Z",
             "sourceMethod": "rss",
             "verificationStatus": "pending"
           }
@@ -496,7 +451,7 @@
             "sourceUrl": "https://www.france24.com/en/asia-pacific/20260820-china-reast-estate-giant-xu-jiayin-sentenced-to-life-in-prison"
           }
         ],
-        "generatedAt": "2026-08-20T13:30:23.740Z"
+        "generatedAt": "2026-08-20T13:53:55.756Z"
       },
       {
         "id": "draft-real-un-news-rss-gybe0i",
@@ -697,7 +652,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-20T13:30:28.301Z",
+            "fetchedAt": "2026-08-20T13:53:59.443Z",
             "sourceMethod": "rss",
             "verificationStatus": "confirmed"
           }
@@ -708,7 +663,7 @@
             "sourceUrl": "https://www.gov.uk/government/news/new-challenge-launched-to-store-clean-energy-for-longer-and-protect-households-from-price-spikes"
           }
         ],
-        "generatedAt": "2026-08-20T13:30:23.740Z"
+        "generatedAt": "2026-08-20T13:53:55.756Z"
       },
       {
         "id": "draft-real-cnbc-world-rss-nfw6p4",
@@ -822,6 +777,50 @@
         "generatedAt": "2026-08-19T23:34:30.887Z"
       },
       {
+        "id": "draft-real-un-news-rss-80p3ak",
+        "title": "人权调查警告称，随着选举临近，南苏丹面临新的暴行犯罪风险",
+        "oneLine": "最新进展：人权调查警告称，随着选举临近，南苏丹面临新的暴行犯罪风险。",
+        "importance": "B",
+        "credibility": "官方来源",
+        "tags": [
+          "B",
+          "mustKnow",
+          "world"
+        ],
+        "industries": [
+          "generalPublic"
+        ],
+        "section": "front",
+        "body": {
+          "background": "暴行犯罪正在汇聚防止南苏丹再次出现 2013 年至 2018 年期间遭受的暴行和流离失所规模的窗口正在关闭，但尚未完全关闭。”并指出，在没有基本保障的情况下“仓促举行选举”可能会加深现有冲突，并增加发生种族灭绝罪、反人类罪、战争罪和种族清洗等暴行罪的风险。如今，该协议的几乎一半关键条款尚未得到实施，包括统一该国安全部队。",
+          "keyProgress": "这一警告是在该国上尼罗州、琼莱州和团结州等多个地区重新爆发武装冲突之际发出的，西赤道州和中赤道州也出现了冲突和平民死亡。2025年8月至2026年1月期间，共记录了407起违反停火事件。该委员会表示：“独立十五年后，南苏丹正处于最危险的时刻之一。2018年，该国交战各方承诺达成一项重振和平协议（《解决南苏丹冲突重振协议》（R-ARCSS）。",
+          "whyItMatters": "“人权调查警告称，随着选举临近，南苏丹面临新的暴行犯罪风险”如果继续发展，可能通过能源价格、航运、贸易、汇率或市场预期传导到国内。了解它的意义在于判断后续风险，而不只停留在事件本身。",
+          "userRelevance": "即使你不在南苏丹，“人权调查警告称，随着选举临近，南苏丹面临新的暴行犯罪风险”也可能通过能源价格、国际航运、贸易成本和市场预期间接影响国内生活与工作判断。",
+          "whatToWatch": "接下来要看“人权调查警告称，随着选举临近，南苏丹面临新的暴行犯罪风险”是否出现新的官方信息、后续行动，以及它与中国出行、贸易或公共判断的关联是否扩大。"
+        },
+        "sourceLinks": [
+          {
+            "title": "联合国新闻 RSS",
+            "url": "https://news.un.org/feed/view/en/story/2026/08/1168173",
+            "sourceId": "un-news-rss",
+            "publishedAt": "2026-08-20T12:00:00.000Z",
+            "language": "zh",
+            "originalLanguage": "en",
+            "translationStatus": "translated",
+            "fetchedAt": "2026-08-20T13:53:59.943Z",
+            "sourceMethod": "rss",
+            "verificationStatus": "confirmed"
+          }
+        ],
+        "images": [
+          {
+            "url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/06/03-06-2026_UNMISS_South_Sudan_Ezo.jpg/image560x340cropped.jpg",
+            "sourceUrl": "https://news.un.org/feed/view/en/story/2026/08/1168173"
+          }
+        ],
+        "generatedAt": "2026-08-20T13:53:55.756Z"
+      },
+      {
         "id": "draft-real-gov-uk-news-on0vze",
         "title": "最新测试为内湖鱼类的安全性提供了保证",
         "oneLine": "风险提醒：《最新测试为内湖鱼类的安全性提供了保证》我们使用一些必要的 cookie 来使该网站正常运行。",
@@ -856,7 +855,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-20T13:30:28.301Z",
+            "fetchedAt": "2026-08-20T13:53:59.443Z",
             "sourceMethod": "rss",
             "verificationStatus": "confirmed"
           }
@@ -867,7 +866,7 @@
             "sourceUrl": "https://www.gov.uk/government/news/latest-testing-provides-reassurance-on-safety-of-lough-neagh-fish"
           }
         ],
-        "generatedAt": "2026-08-20T13:30:23.740Z"
+        "generatedAt": "2026-08-20T13:53:55.756Z"
       },
       {
         "id": "draft-real-techcrunch-ai-rss-3dsbpk",
@@ -906,13 +905,13 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-20T13:30:30.067Z",
+            "fetchedAt": "2026-08-20T13:54:01.436Z",
             "sourceMethod": "rss",
             "verificationStatus": "pending"
           }
         ],
         "images": [],
-        "generatedAt": "2026-08-20T13:30:23.740Z"
+        "generatedAt": "2026-08-20T13:53:55.756Z"
       },
       {
         "id": "draft-real-theverge-ai-rss-5x4ue2",
@@ -951,57 +950,13 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-20T13:30:30.200Z",
+            "fetchedAt": "2026-08-20T13:54:01.569Z",
             "sourceMethod": "rss",
             "verificationStatus": "pending"
           }
         ],
         "images": [],
-        "generatedAt": "2026-08-20T13:30:23.740Z"
-      },
-      {
-        "id": "draft-real-cnbc-world-rss-esmely",
-        "title": "美国国债收益率反弹，消除了贝森特干预后的跌势",
-        "oneLine": "政策变化：在本文中，债券收益率周四上午攀升，消除了前一天财政部宣布旨在缓解长期政府债务压力的干预措施后出现的大部分回调。",
-        "importance": "B",
-        "credibility": "待确认",
-        "tags": [
-          "B",
-          "industry",
-          "world",
-          "policy",
-          "finance"
-        ],
-        "industries": [
-          "generalPublic",
-          "financeInvestment",
-          "operationsGrowth",
-          "ecommerceRetail"
-        ],
-        "section": "industry",
-        "body": {
-          "background": "这一消息发布的同一天，财政部更新了国家债务总额，该总额突破了 40 万亿美元大关。加速回购的主要焦点——30年期美国国债收益率上涨5.7个基点至5.251%。十年期美国国债收益率（抵押贷款、汽车贷款和信用卡债务的主要基准）上涨 5.1 个基点，至 4.704%。",
-          "keyProgress": "这些举措突显了市场干预的难度，特别是在美国债务面临一系列因素导致收益率走高的情况下。市场消化了这一举措，以及固定收益市场面临的长期结构性问题。摩根大通高级研究分析师玛亚·克鲁克（Maia Crook）在一份客户报告中表示，这些干预措施“掩盖了潜在的结构性挑战，并且无助于解决这些挑战”。“虽然（周三的）行动迫使长期收益率有所下降，但更持久的影响是风险溢价可能上升，反映出财政部正在干预市场并偏离其‘常规和可预测’的原则。",
-          "whyItMatters": "“美国国债收益率反弹，消除了贝森特干预后的跌势”如果继续发展，可能通过能源价格、航运、贸易、汇率或市场预期传导到国内。了解它的意义在于判断后续风险，而不只停留在事件本身。",
-          "userRelevance": "即使你不在美国，“美国国债收益率反弹，消除了贝森特干预后的跌势”也可能通过能源价格、国际航运、贸易成本和市场预期间接影响国内生活与工作判断。",
-          "whatToWatch": "接下来要看“美国国债收益率反弹，消除了贝森特干预后的跌势”是否出现更细的城市、行业、平台或企业数据，以及这一变化能否连续保持。"
-        },
-        "sourceLinks": [
-          {
-            "title": "CNBC World News RSS",
-            "url": "https://www.cnbc.com/2026/08/20/bond-yields-edge-higher-as-traders-digest-treasury-debt-buyback-plan.html",
-            "sourceId": "cnbc-world-rss",
-            "publishedAt": "2026-08-20T13:04:26.000Z",
-            "language": "zh",
-            "originalLanguage": "en",
-            "translationStatus": "translated",
-            "fetchedAt": "2026-08-20T13:30:28.336Z",
-            "sourceMethod": "rss",
-            "verificationStatus": "pending"
-          }
-        ],
-        "images": [],
-        "generatedAt": "2026-08-20T13:30:23.740Z"
+        "generatedAt": "2026-08-20T13:53:55.756Z"
       },
       {
         "id": "draft-real-cnbc-world-rss-h841t1",
@@ -1039,7 +994,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-20T13:30:28.336Z",
+            "fetchedAt": "2026-08-20T13:53:59.961Z",
             "sourceMethod": "rss",
             "verificationStatus": "pending"
           }
@@ -1054,7 +1009,7 @@
             "sourceUrl": "https://www.cnbc.com/2026/08/19/us-iran-war-trump-hormuz-economic-warfare.html"
           }
         ],
-        "generatedAt": "2026-08-20T13:30:23.740Z"
+        "generatedAt": "2026-08-20T13:53:55.756Z"
       },
       {
         "id": "draft-real-gov-uk-news-1xwzntc",
@@ -1093,7 +1048,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-20T13:30:28.301Z",
+            "fetchedAt": "2026-08-20T13:53:59.443Z",
             "sourceMethod": "rss",
             "verificationStatus": "confirmed"
           }
@@ -1104,7 +1059,7 @@
             "sourceUrl": "https://www.gov.uk/government/news/vandemoortele-required-to-sell-uk-plant-following-pastry-merger-investigation"
           }
         ],
-        "generatedAt": "2026-08-20T13:30:23.740Z"
+        "generatedAt": "2026-08-20T13:53:55.756Z"
       },
       {
         "id": "draft-cluster-real-gov-uk-news-m2t5jo",
@@ -1143,7 +1098,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-20T13:30:28.301Z",
+            "fetchedAt": "2026-08-20T13:53:59.443Z",
             "sourceMethod": "rss",
             "verificationStatus": "confirmed"
           },
@@ -1155,13 +1110,13 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-20T13:30:28.301Z",
+            "fetchedAt": "2026-08-20T13:53:59.443Z",
             "sourceMethod": "rss",
             "verificationStatus": "confirmed"
           }
         ],
         "images": [],
-        "generatedAt": "2026-08-20T13:30:23.740Z"
+        "generatedAt": "2026-08-20T13:53:55.756Z"
       },
       {
         "id": "draft-real-cnbc-world-rss-1tgsek4",
@@ -1199,19 +1154,72 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-20T13:30:28.336Z",
+            "fetchedAt": "2026-08-20T13:53:59.961Z",
             "sourceMethod": "rss",
             "verificationStatus": "pending"
           }
         ],
         "images": [],
-        "generatedAt": "2026-08-20T13:30:23.740Z"
+        "generatedAt": "2026-08-20T13:53:55.756Z"
+      },
+      {
+        "id": "draft-real-cnbc-world-rss-1svpxie",
+        "title": "Unitree 创始人表示，人形机器人的“ChatGPT 时刻”可能还需要 10 年时间",
+        "oneLine": "政策变化：Unitree Robotics 创始人王星星在其公司首次亮相市场后表示，人形机器人距离“ChatGPT 时刻”可能还有十年的时间。",
+        "importance": "B",
+        "credibility": "待确认",
+        "tags": [
+          "B",
+          "industry",
+          "world",
+          "policy",
+          "finance"
+        ],
+        "industries": [
+          "generalPublic",
+          "financeInvestment",
+          "operationsGrowth",
+          "ecommerceRetail"
+        ],
+        "section": "industry",
+        "body": {
+          "background": "2022 年 11 月 ChatGPT 的发布证明了生成式 AI 的游戏规则改变时刻，帮助点燃了科技股和数据中心建设的牛市。优树周三在上海首次亮相，收盘价较其 150.80 元人民币的发行价飙升 460%，是该公司 9.05 亿美元首次公开募股定价的五倍多，因为仿人机器人作为一个新兴领域引起了人们的广泛兴趣。但周四在北京举行的世界机器人大会上，王表示，机器人技术的真正突破——“ChatGPT时刻”——将是机器人可以被放置在一个陌生的家里，并仅通过文本或语音命令完成大约80%的任务。",
+          "keyProgress": "王在周四的演讲中表示，核心挑战是完善机器人运动的精度，因为它们可以可靠地规划广泛的运动，但在“最后几厘米或几毫米”却失败了。为了缩小差距，王表示，Unitree 正在追求“自我进化的开发循环”，其中人工智能模型编写和测试机器人的控制代码，并对每轮结果进行评分并反馈以改进下一个版本。根据 CNBC 对他演讲的中文翻译，他表示，“如果进展快的话，这可能会在两到三年内实现，如果进展缓慢的话，可能会在五到十年内实现”。这一预测比王去年在同一会议上的讲话更为谨慎，当时他表示这样的时刻可能会在不到五年的时间内到来。",
+          "whyItMatters": "“Unitree 创始人表示，人形机器人的ChatGPT 时刻可能还需要 10 年时间”如果继续发展，可能通过能源价格、航运、贸易、汇率或市场预期传导到国内。了解它的意义在于判断后续风险，而不只停留在事件本身。",
+          "userRelevance": "即使你不在事发地区，“Unitree 创始人表示，人形机器人的ChatGPT 时刻可能还需要 10 年时间”也可能通过能源价格、国际航运、贸易成本和市场预期间接影响国内生活与工作判断。",
+          "whatToWatch": "接下来要看“Unitree 创始人表示，人形机器人的ChatGPT 时刻可能还需要 10 年时间”是否出现更细的城市、行业、平台或企业数据，以及这一变化能否连续保持。"
+        },
+        "sourceLinks": [
+          {
+            "title": "CNBC World News RSS",
+            "url": "https://www.cnbc.com/2026/08/20/unitree-humanoid-robots-chatgpt-moment.html",
+            "sourceId": "cnbc-world-rss",
+            "publishedAt": "2026-08-20T09:02:11.000Z",
+            "language": "zh",
+            "originalLanguage": "en",
+            "translationStatus": "translated",
+            "fetchedAt": "2026-08-20T13:53:59.961Z",
+            "sourceMethod": "rss",
+            "verificationStatus": "pending"
+          }
+        ],
+        "images": [
+          {
+            "url": "https://image.cnbcfm.com/api/v1/image/108351670-1787156340131-1787156070-47863355347-hd.jpg?v=1787156341&amp;w=750&amp;h=422&amp;vtcrop=y",
+            "sourceUrl": "https://www.cnbc.com/2026/08/20/unitree-humanoid-robots-chatgpt-moment.html"
+          },
+          {
+            "url": "https://image.cnbcfm.com/api/v1/image/108351956-17872089041787208900-47875524355-1080pnbcnews.jpg?v=1787208903&amp;w=750&amp;h=422&amp;vtcrop=y",
+            "sourceUrl": "https://www.cnbc.com/2026/08/20/unitree-humanoid-robots-chatgpt-moment.html"
+          }
+        ],
+        "generatedAt": "2026-08-20T13:53:55.756Z"
       }
     ],
     "estimatedReadMinutes": 38,
     "pageCount": 3,
-    "topCardId": "draft-real-cnbc-world-rss-awz2ne",
-    "generatedAt": "2026-08-20T13:30:23.740Z",
+    "topCardId": "draft-real-cnbc-world-rss-1fozwgu",
+    "generatedAt": "2026-08-20T13:53:55.756Z",
     "pushSlots": [
       "08:30",
       "12:30",
@@ -1226,19 +1234,19 @@
     "basedOnGeneratedAt": "2026-08-20T04:47:43.645Z",
     "editionCardIds": [
       "draft-real-cnbc-world-rss-1bzic5l",
-      "draft-real-cnbc-world-rss-awz2ne",
       "draft-real-cnbc-world-rss-1fozwgu",
       "draft-cluster-real-npr-world-rss-1rq3isn",
       "draft-real-npr-world-rss-12llrig",
       "draft-real-gov-uk-news-1331vmj",
+      "draft-real-un-news-rss-80p3ak",
       "draft-real-gov-uk-news-on0vze",
       "draft-real-techcrunch-ai-rss-3dsbpk",
       "draft-real-theverge-ai-rss-5x4ue2",
-      "draft-real-cnbc-world-rss-esmely",
+      "draft-real-cnbc-world-rss-h841t1",
       "draft-real-gov-uk-news-1xwzntc",
       "draft-cluster-real-gov-uk-news-m2t5jo",
-      "draft-real-cnbc-world-rss-h841t1",
-      "draft-real-cnbc-world-rss-1tgsek4"
+      "draft-real-cnbc-world-rss-1tgsek4",
+      "draft-real-cnbc-world-rss-1svpxie"
     ],
     "carriedCardIds": [
       "draft-real-cnbc-world-rss-11dg0z2",

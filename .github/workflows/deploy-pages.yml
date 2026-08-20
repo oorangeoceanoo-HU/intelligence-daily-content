@@ -35,9 +35,11 @@ jobs:
         run: |
           mkdir -p site/issues
           mkdir -p site/editions
+          mkdir -p site/personalization
           cp latest.json site/latest.json
           cp issues/*.json site/issues/
           cp -r editions/* site/editions/ 2>/dev/null || true
+          cp personalization/latest.json site/personalization/latest.json
           node generator/scripts/createIssueManifest.js \
             --issues-directory issues \
             --output site/manifest.json

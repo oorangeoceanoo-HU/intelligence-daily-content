@@ -1,0 +1,45 @@
+{
+  "version": 1,
+  "date": "2026-08-20",
+  "generatedAt": "2026-08-20T13:33:52.621Z",
+  "status": "review",
+  "reviewMode": "generated",
+  "candidateSha256": "8d390eb4ed166846cd379f9e895c50784d767668faaf5ca1e490d80db83ea33e",
+  "counts": {
+    "cards": 24,
+    "pages": 3,
+    "rawItems": 47,
+    "freshCandidates": 43,
+    "publishableCards": 19,
+    "reviewableCards": 1,
+    "rejectedCards": 1,
+    "blockers": 0,
+    "warnings": 4
+  },
+  "findings": [
+    {
+      "level": "warning",
+      "code": "source-fetch-failures",
+      "message": "有 3 个来源抓取失败，需要确认是否影响当天覆盖面。"
+    },
+    {
+      "level": "warning",
+      "code": "current-coverage-local",
+      "message": "居住城市与家乡城市：上海、杭州、伦敦、深圳、长春、宿州在本时段没有新的可用条目：已监测 1 个可访问来源，但当前只命中 0 个。公共共享日报会监测示例城市，但城市无新增不能阻止其他核心内容出版；发现线索仍需官方或主流来源确认。"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "没有抓到完整正文，目前使用候选摘要回退。",
+      "cardId": "draft-real-france24-asia-pacific-rss-am9otp",
+      "cardTitle": "中国：机器人在北京2026年世界机器人大会上表演拳击和舞蹈"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "原文篇幅较短且不是官方或主流来源，需要发布前复核。",
+      "cardId": "draft-real-france24-asia-pacific-rss-am9otp",
+      "cardTitle": "中国：机器人在北京2026年世界机器人大会上表演拳击和舞蹈"
+    }
+  ]
+}

@@ -175,7 +175,25 @@ jobs:
           EDITION: ${{ steps.issue-edition.outputs.edition }}
         run: |
           mkdir -p personalization
-          cp "tmp/review-$DATE-$EDITION.json" personalization/latest.json
+          node - <<'NODE'
+          const fs = require('node:fs');
+          const currentPath = `tmp/review-${process.env.DATE}-${process.env.EDITION}.json`;
+          const outputPath = 'personalization/latest.json';
+          const current = JSON.parse(fs.readFileSync(currentPath, 'utf8'));
+          let previous;
+          try { previous = JSON.parse(fs.readFileSync(outputPath, 'utf8')); } catch {}
+          const previousPool = previous?.issue?.date === current.issue.date
+            ? previous.personalizationPool ?? []
+            : [];
+          const poolById = new Map();
+          [...previousPool, ...(current.personalizationPool ?? [])].forEach((item) => {
+            const id = item?.candidate?.id ?? item?.card?.id;
+            if (id) poolById.set(id, item);
+          });
+          current.personalizationPool = [...poolById.values()];
+          fs.writeFileSync(outputPath, `${JSON.stringify(current, null, 2)}\n`);
+          console.log(`Preserved ${current.personalizationPool.length} candidates for ${current.issue.date}.`);
+          NODE
 
       - name: Save private diagnostic artifact
         uses: actions/upload-artifact@v4

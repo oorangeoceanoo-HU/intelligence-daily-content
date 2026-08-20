@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "publishedAt": "2026-08-20T22:59:11.611Z",
+  "publishedAt": "2026-08-20T23:37:34.232Z",
   "issue": {
     "id": "daily-public-2026-08-21",
     "date": "2026-08-21",
@@ -43,7 +43,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-20T22:59:17.360Z",
+            "fetchedAt": "2026-08-20T23:37:40.965Z",
             "sourceMethod": "rss",
             "verificationStatus": "pending"
           }
@@ -54,10 +54,10 @@
             "sourceUrl": "https://www.cnbc.com/2026/08/20/bessent-economy-iran-war-trump.html"
           }
         ],
-        "generatedAt": "2026-08-20T22:59:11.611Z"
+        "generatedAt": "2026-08-20T23:37:34.232Z"
       },
       {
-        "id": "draft-real-cnbc-world-rss-1u3hstl",
+        "id": "draft-real-cnbc-world-rss-1tti74m",
         "title": "特朗普称伊朗经济正在崩溃。德黑兰前央行顾问反驳",
         "oneLine": "政策变化：伊朗央行前顾问反驳了美国总统唐纳德·特朗普关于伊朗正处于经济崩溃边缘的说法，但警告称，阿联酋切断贸易关系的决定可能会使伊朗今年的经济萎缩加深至约5%。",
         "importance": "S",
@@ -93,16 +93,16 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-20T22:59:17.360Z",
+            "fetchedAt": "2026-08-20T23:37:40.965Z",
             "sourceMethod": "rss",
             "verificationStatus": "pending"
           }
         ],
         "images": [],
-        "generatedAt": "2026-08-20T22:59:11.611Z"
+        "generatedAt": "2026-08-20T23:37:34.232Z"
       },
       {
-        "id": "draft-real-cnbc-world-rss-1gsyb8q",
+        "id": "draft-real-cnbc-world-rss-1h2xwxp",
         "title": "美伊战争引发地区混乱并消耗执法资源，索马里海盗威胁卷土重来",
         "oneLine": "最新进展：美伊战争引发地区混乱并消耗执法资源，索马里海盗威胁卷土重来。",
         "importance": "S",
@@ -138,71 +138,13 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-20T22:59:17.360Z",
+            "fetchedAt": "2026-08-20T23:37:40.965Z",
             "sourceMethod": "rss",
             "verificationStatus": "pending"
           }
         ],
         "images": [],
-        "generatedAt": "2026-08-20T22:59:11.611Z"
-      },
-      {
-        "id": "draft-real-mofcom-trade-1r24boq",
-        "title": "中国与瑞士宣布完成自贸协定升级谈判",
-        "oneLine": "政策变化：8 月 20 日，瑞士联邦主席兼经济、教研部长帕姆兰在伯尔尼会见商务部部长王文涛，共同宣布完成中国—瑞士自由贸易协定升级谈判并签署谅解备忘录。",
-        "importance": "S",
-        "credibility": "官方来源",
-        "tags": [
-          "S",
-          "industry",
-          "world",
-          "china",
-          "policy"
-        ],
-        "industries": [
-          "generalPublic",
-          "financeInvestment",
-          "operationsGrowth",
-          "ecommerceRetail",
-          "consumerBrand"
-        ],
-        "section": "industry",
-        "body": {
-          "background": "中国驻瑞士大使钱敏坚、瑞士驻华大使马婷等出席活动。王文涛表示， 2026 年 1 月，习近平主席向帕姆兰主席致贺电，强调中方愿与瑞方一道努力，持续扩大互利合作，推动中瑞关系不断迈上新台阶。2024 年 9 月，中瑞双方启动自贸协定升级谈判，在双方共同努力下，历经五轮磋商，升级谈判成功完成。",
-          "keyProgress": "今年是中国“十五五”规划开局之年，也是中瑞建立创新战略伙伴关系 10 周年，中国商务部愿同瑞士联邦经济、教研部共同落实好两国领导人重要共识，尽快完成正式签署并实施升级协定，推动两国经贸关系提质升级，更好惠及两国企业和人民。中 瑞 自贸协定于 20 13 年 7 月签署， 201 4 年 7 月生效 实施，是我国与欧洲大陆国家签署的第一个自贸协定 。学习宣传贯彻党的二十大精神 国家层面海外综合服务平台 提振消费专项行动 政策集成和综合解读专栏 优化营商环境-国际贸易专题 外资企业问题诉求收集办理 国际消费中心城市培育建设 丝路电商——电子商务国际合作 《区域全面经济伙伴关系协定》（RCEP） 市场运行与流通发展服务平台 2025年度网站工作年度报表双方承诺将在货物、服务、投资、规则等多个领域作出更高水平双向开放，这将为两国经贸合作创造新的机遇。",
-          "whyItMatters": "“中国与瑞士宣布完成自贸协定升级谈判”如果继续发展，可能通过能源价格、航运、贸易、汇率或市场预期传导到国内。了解它的意义在于判断后续风险，而不只停留在事件本身。",
-          "userRelevance": "即使你不在中国，“中国与瑞士宣布完成自贸协定升级谈判”也可能通过能源价格、国际航运、贸易成本和市场预期间接影响国内生活与工作判断。",
-          "whatToWatch": "接下来要看“中国与瑞士宣布完成自贸协定升级谈判”是否出现更细的城市、行业、平台或企业数据，以及这一变化能否连续保持。"
-        },
-        "sourceLinks": [
-          {
-            "title": "商务部新闻发布",
-            "url": "https://www.mofcom.gov.cn/xwfb/bldhd/art/2026/art_3c75ebcbff4f41ae8a245497e9796276.html",
-            "sourceId": "mofcom-trade",
-            "publishedAt": "2026-08-21T00:00:00+08:00",
-            "language": "zh",
-            "originalLanguage": "zh",
-            "translationStatus": "not-needed",
-            "fetchedAt": "2026-08-20T22:59:19.479Z",
-            "sourceMethod": "web",
-            "verificationStatus": "confirmed"
-          }
-        ],
-        "images": [
-          {
-            "url": "https://www.mofcom.gov.cn/cms_files/filemanager/1077459795/picture/202511/S6d903dae63e841f68f9536a01e64bf8f-700.jpg",
-            "sourceUrl": "https://www.mofcom.gov.cn/xwfb/bldhd/art/2026/art_3c75ebcbff4f41ae8a245497e9796276.html"
-          },
-          {
-            "url": "https://www.mofcom.gov.cn/cms_files/filemanager/1077459795/picture/20268/S6f645313f025428094bfb41af4c9b8ae-700.jpg",
-            "sourceUrl": "https://www.mofcom.gov.cn/xwfb/bldhd/art/2026/art_3c75ebcbff4f41ae8a245497e9796276.html"
-          },
-          {
-            "url": "https://www.mofcom.gov.cn/cms_files/filemanager/1077459795/picture/202511/Scdbcc6ad38e845d1a26c2b0158199d4f-700.jpg",
-            "sourceUrl": "https://www.mofcom.gov.cn/xwfb/bldhd/art/2026/art_3c75ebcbff4f41ae8a245497e9796276.html"
-          }
-        ],
-        "generatedAt": "2026-08-20T22:59:11.611Z"
+        "generatedAt": "2026-08-20T23:37:34.232Z"
       },
       {
         "id": "draft-cluster-real-mofcom-trade-1lc3pd4",
@@ -242,7 +184,7 @@
             "language": "zh",
             "originalLanguage": "zh",
             "translationStatus": "not-needed",
-            "fetchedAt": "2026-08-20T22:59:19.479Z",
+            "fetchedAt": "2026-08-20T23:37:45.342Z",
             "sourceMethod": "web",
             "verificationStatus": "confirmed"
           },
@@ -254,13 +196,13 @@
             "language": "zh",
             "originalLanguage": "zh",
             "translationStatus": "not-needed",
-            "fetchedAt": "2026-08-20T22:59:33.787Z",
+            "fetchedAt": "2026-08-20T23:37:56.497Z",
             "sourceMethod": "web",
             "verificationStatus": "confirmed"
           }
         ],
         "images": [],
-        "generatedAt": "2026-08-20T22:59:11.611Z"
+        "generatedAt": "2026-08-20T23:37:34.232Z"
       },
       {
         "id": "draft-cluster-real-npr-world-rss-1rg3x3o",
@@ -299,7 +241,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-20T22:59:16.982Z",
+            "fetchedAt": "2026-08-20T23:37:40.376Z",
             "sourceMethod": "rss",
             "verificationStatus": "confirmed"
           },
@@ -311,7 +253,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-20T22:59:17.280Z",
+            "fetchedAt": "2026-08-20T23:37:40.594Z",
             "sourceMethod": "rss",
             "verificationStatus": "pending"
           }
@@ -322,7 +264,7 @@
             "sourceUrl": "https://www.france24.com/en/asia-pacific/20260820-china-reast-estate-giant-xu-jiayin-sentenced-to-life-in-prison"
           }
         ],
-        "generatedAt": "2026-08-20T22:59:11.611Z"
+        "generatedAt": "2026-08-20T23:37:34.232Z"
       },
       {
         "id": "draft-real-npr-world-rss-13fkkld",
@@ -356,7 +298,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-20T22:59:16.982Z",
+            "fetchedAt": "2026-08-20T23:37:40.376Z",
             "sourceMethod": "rss",
             "verificationStatus": "confirmed"
           }
@@ -367,10 +309,10 @@
             "sourceUrl": "https://www.npr.org/2026/08/20/g-s1-139381/north-korea-suspected-missile"
           }
         ],
-        "generatedAt": "2026-08-20T22:59:11.611Z"
+        "generatedAt": "2026-08-20T23:37:34.232Z"
       },
       {
-        "id": "draft-real-gov-uk-news-1biufvo",
+        "id": "draft-real-gov-uk-news-1bsu1kn",
         "title": "发起新挑战以更长时间储存​​清洁能源并保护家庭免受价格上涨的影响",
         "oneLine": "风险提醒：《发起新挑战以更长时间储存​​清洁能源并保护家庭免受价格上涨的影响》我们使用一些必要的 cookie 来使该网站正常运行。",
         "importance": "A",
@@ -407,7 +349,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-20T22:59:16.608Z",
+            "fetchedAt": "2026-08-20T23:37:40.705Z",
             "sourceMethod": "rss",
             "verificationStatus": "confirmed"
           }
@@ -418,7 +360,7 @@
             "sourceUrl": "https://www.gov.uk/government/news/new-challenge-launched-to-store-clean-energy-for-longer-and-protect-households-from-price-spikes"
           }
         ],
-        "generatedAt": "2026-08-20T22:59:11.611Z"
+        "generatedAt": "2026-08-20T23:37:34.232Z"
       },
       {
         "id": "draft-real-xinhua-world-1tkcaw1",
@@ -456,13 +398,58 @@
             "language": "zh",
             "originalLanguage": "zh",
             "translationStatus": "not-needed",
-            "fetchedAt": "2026-08-20T22:59:16.728Z",
+            "fetchedAt": "2026-08-20T23:37:39.970Z",
             "sourceMethod": "web",
             "verificationStatus": "confirmed"
           }
         ],
         "images": [],
-        "generatedAt": "2026-08-20T22:59:11.611Z"
+        "generatedAt": "2026-08-20T23:37:34.232Z"
+      },
+      {
+        "id": "draft-real-cnbc-world-rss-96hj5g",
+        "title": "印度内部通讯：随着苹果、三星获得优势，中国智能手机在印度遭遇芯片挤压",
+        "oneLine": "最新进展：印度内部通讯：随着苹果、三星获得优势，中国智能手机在印度遭遇芯片挤压。",
+        "importance": "B",
+        "credibility": "待确认",
+        "tags": [
+          "B",
+          "mustKnow",
+          "industry",
+          "world",
+          "policy",
+          "finance"
+        ],
+        "industries": [
+          "generalPublic",
+          "financeInvestment",
+          "operationsGrowth",
+          "ecommerceRetail"
+        ],
+        "section": "front",
+        "body": {
+          "background": "Counterpoint Research 联合创始人 Neil Shah 表示，新款中国手机在印度的售价可能在 200 至 250 美元之间，而此前还不到 150 美元。但这些公司几乎不可能在承受存储芯片不断上涨的成本的同时保持承受能力。欢迎来到最新一期的《印度内部》——了解世界上增长最快的大型经济体的故事和发展的一站式目的地。",
+          "keyProgress": "中国品牌在印度智能手机市场占据主导地位，在前五名中占有四席，因为其低价且功能丰富的手机吸引了注重成本的印度消费者。存储芯片成本的上涨对印度这个全球第二大市场的廉价中国品牌以及中端市场和高端美国和韩国智能手机公司的命运产生了鲜明的影响。根据市场情报公司的数据，150 美元以下类别的品牌已经将智能手机价格提高了 40%。中国智能手机公司凭借其功能丰富的产品在廉价市场占据主导地位。",
+          "whyItMatters": "“印度内部通讯：随着苹果、三星获得优势，中国智能手机在印度遭遇芯片挤压”如果继续发展，可能通过能源价格、航运、贸易、汇率或市场预期传导到国内。了解它的意义在于判断后续风险，而不只停留在事件本身。",
+          "userRelevance": "即使你不在中国、印度，“印度内部通讯：随着苹果、三星获得优势，中国智能手机在印度遭遇芯片挤压”也可能通过能源价格、国际航运、贸易成本和市场预期间接影响国内生活与工作判断。",
+          "whatToWatch": "接下来要看“印度内部通讯：随着苹果、三星获得优势，中国智能手机在印度遭遇芯片挤压”是否出现更细的城市、行业、平台或企业数据，以及这一变化能否连续保持。"
+        },
+        "sourceLinks": [
+          {
+            "title": "CNBC World News RSS",
+            "url": "https://www.cnbc.com/2026/08/20/india-apple-samsung-china-smartphone-chip-inflation.html",
+            "sourceId": "cnbc-world-rss",
+            "publishedAt": "2026-08-20T00:17:08.000Z",
+            "language": "zh",
+            "originalLanguage": "en",
+            "translationStatus": "translated",
+            "fetchedAt": "2026-08-20T23:37:40.965Z",
+            "sourceMethod": "rss",
+            "verificationStatus": "pending"
+          }
+        ],
+        "images": [],
+        "generatedAt": "2026-08-20T23:37:34.232Z"
       },
       {
         "id": "draft-real-un-news-rss-80p3ak",
@@ -495,7 +482,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-20T22:59:17.384Z",
+            "fetchedAt": "2026-08-20T23:37:40.895Z",
             "sourceMethod": "rss",
             "verificationStatus": "confirmed"
           }
@@ -506,10 +493,10 @@
             "sourceUrl": "https://news.un.org/feed/view/en/story/2026/08/1168173"
           }
         ],
-        "generatedAt": "2026-08-20T22:59:11.611Z"
+        "generatedAt": "2026-08-20T23:37:34.232Z"
       },
       {
-        "id": "draft-cluster-real-gov-uk-news-1lwvl84",
+        "id": "draft-cluster-real-gov-uk-news-1mqueb1",
         "title": "2026 年 7 月我们如何保护英国和太空",
         "oneLine": "风险提醒：《2026 年 7 月我们如何保护英国和太空》我们使用一些必要的 cookie 来使该网站正常运行。",
         "importance": "B",
@@ -542,7 +529,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-20T22:59:16.608Z",
+            "fetchedAt": "2026-08-20T23:37:40.705Z",
             "sourceMethod": "rss",
             "verificationStatus": "confirmed"
           },
@@ -554,7 +541,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-20T22:59:15.203Z",
+            "fetchedAt": "2026-08-20T23:37:38.000Z",
             "sourceMethod": "rss",
             "verificationStatus": "confirmed"
           },
@@ -566,7 +553,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-20T22:59:15.203Z",
+            "fetchedAt": "2026-08-20T23:37:38.000Z",
             "sourceMethod": "rss",
             "verificationStatus": "confirmed"
           },
@@ -578,7 +565,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-20T22:59:16.608Z",
+            "fetchedAt": "2026-08-20T23:37:40.705Z",
             "sourceMethod": "rss",
             "verificationStatus": "confirmed"
           },
@@ -590,7 +577,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-20T22:59:16.608Z",
+            "fetchedAt": "2026-08-20T23:37:40.705Z",
             "sourceMethod": "rss",
             "verificationStatus": "confirmed"
           }
@@ -601,7 +588,7 @@
             "sourceUrl": "https://www.gov.uk/government/news/how-we-protected-the-uk-and-space-in-july-2026"
           }
         ],
-        "generatedAt": "2026-08-20T22:59:11.611Z"
+        "generatedAt": "2026-08-20T23:37:34.232Z"
       },
       {
         "id": "draft-real-xinhua-tech-15vxwd0",
@@ -641,7 +628,7 @@
             "language": "zh",
             "originalLanguage": "zh",
             "translationStatus": "not-needed",
-            "fetchedAt": "2026-08-20T22:59:16.960Z",
+            "fetchedAt": "2026-08-20T23:37:40.037Z",
             "sourceMethod": "web",
             "verificationStatus": "confirmed"
           }
@@ -652,7 +639,7 @@
             "sourceUrl": "https://www.news.cn/tech/20260820/36a420de7f134c359bde1f2f9c94ee9d/c.html"
           }
         ],
-        "generatedAt": "2026-08-20T22:59:11.611Z"
+        "generatedAt": "2026-08-20T23:37:34.232Z"
       },
       {
         "id": "draft-real-xinhua-tech-m3ures",
@@ -692,13 +679,13 @@
             "language": "zh",
             "originalLanguage": "zh",
             "translationStatus": "not-needed",
-            "fetchedAt": "2026-08-20T22:59:16.960Z",
+            "fetchedAt": "2026-08-20T23:37:40.037Z",
             "sourceMethod": "web",
             "verificationStatus": "confirmed"
           }
         ],
         "images": [],
-        "generatedAt": "2026-08-20T22:59:11.611Z"
+        "generatedAt": "2026-08-20T23:37:34.232Z"
       },
       {
         "id": "draft-real-xinhua-tech-1s1mjtu",
@@ -738,13 +725,13 @@
             "language": "zh",
             "originalLanguage": "zh",
             "translationStatus": "not-needed",
-            "fetchedAt": "2026-08-20T22:59:16.960Z",
+            "fetchedAt": "2026-08-20T23:37:40.037Z",
             "sourceMethod": "web",
             "verificationStatus": "confirmed"
           }
         ],
         "images": [],
-        "generatedAt": "2026-08-20T22:59:11.611Z"
+        "generatedAt": "2026-08-20T23:37:34.232Z"
       },
       {
         "id": "draft-real-techcrunch-ai-rss-1oghl94",
@@ -768,7 +755,7 @@
         ],
         "section": "ai",
         "body": {
-          "background": "其中一个消息来源，企业信用卡和费用管理公司 Ramp 刚刚发布了一些令人惊讶的新数据：OpenAI 已经开始在美国企业中追赶 Anthropic。请注意，本季度还剩一个月，相当于 30 个人工智能年，因此趋势很容易在结束之前再次发生转变。随着每个实验室发布新模型，企业愿意来回波动，这种波动应该会让两家公司的投资者对企业人工智能支出到底有多么“粘性”感到犹豫。",
+          "background": "这些消息来源之一，企业信用卡和费用管理公司 Ramp 刚刚发布了一些令人惊讶的新数据：OpenAI 已经开始在美国企业中追赶 Anthropic。请注意，本季度还剩一个月，相当于 30 个人工智能年，因此趋势很容易在结束之前再次发生转变。随着每个实验室发布新模型，企业愿意来回波动，这种波动应该会让两家公司的投资者对企业人工智能支出到底有多么“粘性”感到犹豫。",
           "keyProgress": "OpenAI 曾经是企业和消费者的领先者，但早在 5 月份就失去了 Ramp 付费企业用户的领先地位。当时，Anthropic 的市场份额达到了 41%，而 OpenAI 的市场份额为 39%。截至 7 月，Anthropic 的份额接近 44%，而 OpenAI 的份额接近 40%。Ramp 经济学家 Ara Kharazian 表示，仔细研究最新数据就会发现，迄今为止，OpenAI 在第三季度这一领域的增长速度快于 Anthropic。",
           "whyItMatters": "“新数据表明，OpenAI 正在赢得商业用户的青睐”能帮助你判断这项能力是否已经进入工程、产品或商业场景，并据此调整技术选型、产品规划、学习重点或职业判断。",
           "userRelevance": "如果你从事AI 产品、AI 技术、产品管理、技术研发，可以重点判断“新数据表明，OpenAI 正在赢得商业用户的青睐”是否已经具备产品落地、技术选型或业务合作价值。",
@@ -783,13 +770,13 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-20T22:59:19.212Z",
+            "fetchedAt": "2026-08-20T23:37:45.304Z",
             "sourceMethod": "rss",
             "verificationStatus": "pending"
           }
         ],
         "images": [],
-        "generatedAt": "2026-08-20T22:59:11.611Z"
+        "generatedAt": "2026-08-20T23:37:34.232Z"
       },
       {
         "id": "draft-real-techcrunch-ai-rss-11oudz0",
@@ -828,13 +815,13 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-20T22:59:19.212Z",
+            "fetchedAt": "2026-08-20T23:37:45.304Z",
             "sourceMethod": "rss",
             "verificationStatus": "pending"
           }
         ],
         "images": [],
-        "generatedAt": "2026-08-20T22:59:11.611Z"
+        "generatedAt": "2026-08-20T23:37:34.232Z"
       },
       {
         "id": "draft-real-techcrunch-ai-rss-p4jhj7",
@@ -873,7 +860,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-20T22:59:19.212Z",
+            "fetchedAt": "2026-08-20T23:37:45.304Z",
             "sourceMethod": "rss",
             "verificationStatus": "pending"
           }
@@ -884,7 +871,7 @@
             "sourceUrl": "https://techcrunch.com/2026/08/20/ok-can-we-actually-cool-data-centers-with-our-pee/"
           }
         ],
-        "generatedAt": "2026-08-20T22:59:11.611Z"
+        "generatedAt": "2026-08-20T23:37:34.232Z"
       },
       {
         "id": "draft-real-techcrunch-ai-rss-6lwbv9",
@@ -923,7 +910,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-20T22:59:19.212Z",
+            "fetchedAt": "2026-08-20T23:37:45.304Z",
             "sourceMethod": "rss",
             "verificationStatus": "pending"
           }
@@ -934,7 +921,7 @@
             "sourceUrl": "https://techcrunch.com/2026/08/20/google-gives-publishers-a-new-way-to-fight-ai-driven-traffic-losses/"
           }
         ],
-        "generatedAt": "2026-08-20T22:59:11.611Z"
+        "generatedAt": "2026-08-20T23:37:34.232Z"
       },
       {
         "id": "draft-real-theverge-ai-rss-1i8l0df",
@@ -973,68 +960,19 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-20T22:59:19.374Z",
+            "fetchedAt": "2026-08-20T23:37:45.430Z",
             "sourceMethod": "rss",
             "verificationStatus": "pending"
           }
         ],
         "images": [],
-        "generatedAt": "2026-08-20T22:59:11.611Z"
-      },
-      {
-        "id": "draft-real-cnbc-world-rss-1cjvv0o",
-        "title": "Bessent表示财政部回购操作可能超过40亿美元",
-        "oneLine": "最新进展：Bessent表示财政部回购操作可能超过40亿美元。",
-        "importance": "B",
-        "credibility": "待确认",
-        "tags": [
-          "B",
-          "industry",
-          "world",
-          "policy",
-          "finance"
-        ],
-        "industries": [
-          "generalPublic",
-          "financeInvestment",
-          "operationsGrowth",
-          "ecommerceRetail"
-        ],
-        "section": "industry",
-        "body": {
-          "background": "在这篇文章中，财政部长斯科特·贝森特 (Scott Bessent) 周四向 CNBC 表示，加速回购政府债务的规模可能会高于宣布的 40 亿美元。贝森特在现场采访中表示，他的部门将在近期收益率飙升的较长期证券上“做市”。美国财政部周三宣布，将把原定的 20 亿美元长期政府债务回购规模增加一倍，导致收益率大幅走低。",
-          "keyProgress": "这位财政部长指出，收益率水平并未影响回购决定，他希望看到基本面控制市场。虽然贝森特表示回购规模可能会增加，但他拒绝透露具体数字，称这将取决于市场状况。“我们要做的就是让人们关注基本面，而不是在市场清淡的安静时期交易头条新闻。”他还将 30 年期债券的流动性描述为“非常差”，这为财政部干预通常强劲的市场提供了另一个动力。",
-          "whyItMatters": "“Bessent表示财政部回购操作可能超过40亿美元”如果继续发展，可能通过能源价格、航运、贸易、汇率或市场预期传导到国内。了解它的意义在于判断后续风险，而不只停留在事件本身。",
-          "userRelevance": "即使你不在事发地区，“Bessent表示财政部回购操作可能超过40亿美元”也可能通过能源价格、国际航运、贸易成本和市场预期间接影响国内生活与工作判断。",
-          "whatToWatch": "接下来要看“Bessent表示财政部回购操作可能超过40亿美元”是否出现更细的城市、行业、平台或企业数据，以及这一变化能否连续保持。"
-        },
-        "sourceLinks": [
-          {
-            "title": "CNBC World News RSS",
-            "url": "https://www.cnbc.com/2026/08/20/bessent-says-treasury-buyback-operation-could-be-more-than-4-billion.html",
-            "sourceId": "cnbc-world-rss",
-            "publishedAt": "2026-08-20T15:35:33.000Z",
-            "language": "zh",
-            "originalLanguage": "en",
-            "translationStatus": "translated",
-            "fetchedAt": "2026-08-20T22:59:17.360Z",
-            "sourceMethod": "rss",
-            "verificationStatus": "pending"
-          }
-        ],
-        "images": [
-          {
-            "url": "https://image.cnbcfm.com/api/v1/image/108352195-1787238974782-1787238849-47882289133-hd.jpg?v=1787238975&amp;w=750&amp;h=422&amp;vtcrop=y",
-            "sourceUrl": "https://www.cnbc.com/2026/08/20/bessent-says-treasury-buyback-operation-could-be-more-than-4-billion.html"
-          }
-        ],
-        "generatedAt": "2026-08-20T22:59:11.611Z"
+        "generatedAt": "2026-08-20T23:37:34.232Z"
       }
     ],
-    "estimatedReadMinutes": 32,
+    "estimatedReadMinutes": 30,
     "pageCount": 3,
     "topCardId": "draft-real-cnbc-world-rss-10klhgj",
-    "generatedAt": "2026-08-20T22:59:11.611Z",
+    "generatedAt": "2026-08-20T23:37:34.232Z",
     "pushSlots": [
       "08:30",
       "12:30",
@@ -1048,16 +986,16 @@
     },
     "editionCardIds": [
       "draft-real-cnbc-world-rss-10klhgj",
-      "draft-real-cnbc-world-rss-1u3hstl",
-      "draft-real-cnbc-world-rss-1gsyb8q",
-      "draft-real-mofcom-trade-1r24boq",
+      "draft-real-cnbc-world-rss-1tti74m",
+      "draft-real-cnbc-world-rss-1h2xwxp",
       "draft-cluster-real-mofcom-trade-1lc3pd4",
       "draft-cluster-real-npr-world-rss-1rg3x3o",
       "draft-real-npr-world-rss-13fkkld",
-      "draft-real-gov-uk-news-1biufvo",
+      "draft-real-gov-uk-news-1bsu1kn",
       "draft-real-xinhua-world-1tkcaw1",
+      "draft-real-cnbc-world-rss-96hj5g",
       "draft-real-un-news-rss-80p3ak",
-      "draft-cluster-real-gov-uk-news-1lwvl84",
+      "draft-cluster-real-gov-uk-news-1mqueb1",
       "draft-real-xinhua-tech-15vxwd0",
       "draft-real-xinhua-tech-m3ures",
       "draft-real-xinhua-tech-1s1mjtu",
@@ -1065,8 +1003,7 @@
       "draft-real-techcrunch-ai-rss-11oudz0",
       "draft-real-techcrunch-ai-rss-p4jhj7",
       "draft-real-techcrunch-ai-rss-6lwbv9",
-      "draft-real-theverge-ai-rss-1i8l0df",
-      "draft-real-cnbc-world-rss-1cjvv0o"
+      "draft-real-theverge-ai-rss-1i8l0df"
     ],
     "carriedCardIds": []
   }

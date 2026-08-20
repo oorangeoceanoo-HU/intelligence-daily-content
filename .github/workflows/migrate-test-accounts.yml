@@ -1,0 +1,62 @@
+name: Migrate Test Accounts
+
+on:
+  workflow_dispatch:
+    inputs:
+      dry_run:
+        description: Preview only, without changing accounts
+        required: true
+        default: true
+        type: boolean
+
+permissions:
+  contents: read
+
+concurrency:
+  group: migrate-test-accounts
+  cancel-in-progress: false
+
+jobs:
+  migrate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out content repository
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Migrate test identities
+        env:
+          SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
+          SUPABASE_SERVICE_ROLE_KEY: ${{ secrets.SUPABASE_SERVICE_ROLE_KEY }}
+        run: |
+          mkdir -p tmp
+          if [ "${{ inputs.dry_run }}" = "true" ]; then
+            node generator/scripts/migrateTestAccounts.js \
+              --dry-run \
+              --output tmp/test-account-migration.json
+          else
+            node generator/scripts/migrateTestAccounts.js \
+              --output tmp/test-account-migration.json
+          fi
+
+      - name: Show migration summary
+        run: |
+          node - <<'NODE' >> "$GITHUB_STEP_SUMMARY"
+          const report = require('./tmp/test-account-migration.json');
+          console.log('## Test account migration');
+          console.log(`- Dry run: ${report.dryRun}`);
+          console.log(`- Phone groups: ${report.phoneGroupCount}`);
+          console.log(`- Migrated accounts: ${report.migratedAccountCount}`);
+          console.log(`- Retained duplicates: ${report.duplicateAccountCount}`);
+          NODE
+
+      - name: Save migration report
+        uses: actions/upload-artifact@v4
+        with:
+          name: test-account-migration-${{ github.run_id }}
+          path: tmp/test-account-migration.json
+          retention-days: 7

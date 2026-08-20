@@ -51,6 +51,7 @@ jobs:
           console.log(`- Dry run: ${report.dryRun}`);
           console.log(`- Phone groups: ${report.phoneGroupCount}`);
           console.log(`- Migrated accounts: ${report.migratedAccountCount}`);
+          console.log(`- Verified stable logins: ${report.verifiedAccountCount}`);
           console.log(`- Retained duplicates: ${report.duplicateAccountCount}`);
           NODE
 

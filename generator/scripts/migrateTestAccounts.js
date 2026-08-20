@@ -154,6 +154,19 @@ const updateAuthUser = async (userId, attributes) => authRequest(`admin/users/${
   body: attributes
 });
 
+const verifyStableLogin = async (phone, expectedUserId) => {
+  const result = await authRequest("token?grant_type=password", {
+    method: "POST",
+    body: {
+      email: accountEmail(phone),
+      password: accountPassword(phone)
+    }
+  });
+  if (result?.user?.id !== expectedUserId || !result?.access_token) {
+    throw new Error(`Stable login verification failed for account ${accountKey(phone)}`);
+  }
+};
+
 async function main() {
   const [users, activity] = await Promise.all([listAuthUsers(), readActivityState()]);
   const groups = new Map();
@@ -170,6 +183,7 @@ async function main() {
     generatedAt: new Date().toISOString(),
     phoneGroupCount: groups.size,
     migratedAccountCount: 0,
+    verifiedAccountCount: 0,
     duplicateAccountCount: 0,
     accounts: []
   };
@@ -223,6 +237,9 @@ async function main() {
           }
         });
       }
+
+      await verifyStableLogin(phone, canonical.id);
+      report.verifiedAccountCount += 1;
     }
 
     report.migratedAccountCount += 1;

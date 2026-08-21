@@ -1,56 +1,11 @@
 {
   "schemaVersion": 2,
-  "publishedAt": "2026-08-21T13:29:22.747Z",
+  "publishedAt": "2026-08-21T13:52:58.657Z",
   "issue": {
     "id": "daily-public-2026-08-21",
     "date": "2026-08-21",
     "userId": "public",
     "cards": [
-      {
-        "id": "draft-real-cnbc-world-rss-13qonwh",
-        "title": "随着特朗普关税最后期限的临近，美国和加拿大即将达成最终贸易协议",
-        "oneLine": "政策变化：美国和加拿大尚未宣布最终贸易协议，该协议将使唐纳德·特朗普总统对曲棍球棒、葡萄酒和其他加拿大商品的新关税在周六凌晨生效。",
-        "importance": "S",
-        "credibility": "待确认",
-        "tags": [
-          "S",
-          "mustKnow",
-          "industry",
-          "world",
-          "policy",
-          "finance"
-        ],
-        "industries": [
-          "generalPublic",
-          "financeInvestment",
-          "operationsGrowth",
-          "ecommerceRetail"
-        ],
-        "section": "front",
-        "body": {
-          "background": "50%的报复性关税最初定于周三开始实施，直到特朗普在Truth Social的最后一刻发帖表示，他将推迟三天，以便华盛顿和渥太华能够敲定一项暂定协议。特朗普的帖子表明该协议已基本完成，“以文件最终确定为准”。但周三和周四在华盛顿举行的额外几轮谈判中，贸易官员尚未达成最终协议。",
-          "keyProgress": "据我们所知，到目前为止，阿联酋在导弹袭击事件后切断了与伊朗的贸易，乌克兰前国防部长泽连斯基面临战时选举的呼吁，美国推动盟友增加国防开支可能意味着……“我们非常接近，”加拿大-美国贸易部长多米尼克·勒布朗周四下午告诉记者。“我们继续取得进展，我们将留在这里并做必要的工作，直到我们到达这一点。”勒布朗指出，加拿大谈判代表贾尼丝·沙雷特仍在与美国贸易代表杰米森·格里尔和其他特朗普政府官员进行谈判。",
-          "whyItMatters": "“随着特朗普关税最后期限的临近，美国和加拿大即将达成最终贸易协议”如果继续发展，可能通过能源价格、航运、贸易、汇率或市场预期传导到国内。了解它的意义在于判断后续风险，而不只停留在事件本身。",
-          "userRelevance": "即使你不在美国，“随着特朗普关税最后期限的临近，美国和加拿大即将达成最终贸易协议”也可能通过能源价格、国际航运、贸易成本和市场预期间接影响国内生活与工作判断。",
-          "whatToWatch": "接下来要看“随着特朗普关税最后期限的临近，美国和加拿大即将达成最终贸易协议”是否出现更细的城市、行业、平台或企业数据，以及这一变化能否连续保持。"
-        },
-        "sourceLinks": [
-          {
-            "title": "CNBC World News RSS",
-            "url": "https://www.cnbc.com/2026/08/21/trump-canada-tariffs-trade-deal-deadline.html",
-            "sourceId": "cnbc-world-rss",
-            "publishedAt": "2026-08-21T12:17:29.000Z",
-            "language": "zh",
-            "originalLanguage": "en",
-            "translationStatus": "translated",
-            "fetchedAt": "2026-08-21T13:29:31.306Z",
-            "sourceMethod": "rss",
-            "verificationStatus": "pending"
-          }
-        ],
-        "images": [],
-        "generatedAt": "2026-08-21T13:29:22.747Z"
-      },
       {
         "id": "draft-real-cnbc-world-rss-slzueh",
         "title": "由于美国誓言加大对伊朗的经济压力，油价将连续第二周上涨",
@@ -88,7 +43,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-21T13:29:31.306Z",
+            "fetchedAt": "2026-08-21T13:53:06.609Z",
             "sourceMethod": "rss",
             "verificationStatus": "pending"
           }
@@ -103,7 +58,7 @@
             "sourceUrl": "https://www.cnbc.com/2026/08/21/oil-prices-us-iran.html"
           }
         ],
-        "generatedAt": "2026-08-21T13:29:22.747Z"
+        "generatedAt": "2026-08-21T13:52:58.657Z"
       },
       {
         "id": "draft-real-npr-world-rss-1rr8e5u",
@@ -142,7 +97,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-21T13:29:30.939Z",
+            "fetchedAt": "2026-08-21T13:53:06.243Z",
             "sourceMethod": "rss",
             "verificationStatus": "confirmed"
           }
@@ -153,7 +108,7 @@
             "sourceUrl": "https://www.npr.org/2026/08/21/nx-s1-5940610/iran-us-threat-economic-warfare"
           }
         ],
-        "generatedAt": "2026-08-21T13:29:22.747Z"
+        "generatedAt": "2026-08-21T13:52:58.657Z"
       },
       {
         "id": "draft-real-cnbc-world-rss-1tti74m",
@@ -548,7 +503,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-21T13:29:32.862Z",
+            "fetchedAt": "2026-08-21T13:53:09.064Z",
             "sourceMethod": "rss",
             "verificationStatus": "confirmed"
           }
@@ -559,7 +514,7 @@
             "sourceUrl": "https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games/"
           }
         ],
-        "generatedAt": "2026-08-21T13:29:22.747Z"
+        "generatedAt": "2026-08-21T13:52:58.657Z"
       },
       {
         "id": "draft-real-cnbc-world-rss-vr21oy",
@@ -597,7 +552,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-21T13:29:31.306Z",
+            "fetchedAt": "2026-08-21T13:53:06.609Z",
             "sourceMethod": "rss",
             "verificationStatus": "pending"
           }
@@ -608,60 +563,7 @@
             "sourceUrl": "https://www.cnbc.com/2026/08/21/meta-social-media-lawsuit-trial-instagram-facebook.html"
           }
         ],
-        "generatedAt": "2026-08-21T13:29:22.747Z"
-      },
-      {
-        "id": "draft-real-cnbc-world-rss-3mt6ya",
-        "title": "随着投资者乐观情绪的回归，比特币有望每周上涨 20%",
-        "oneLine": "政策变化：在全球最大的加密货币出现一系列积极进展之后，周五比特币有望每周上涨 23% 左右。",
-        "importance": "B",
-        "credibility": "待确认",
-        "tags": [
-          "B",
-          "industry",
-          "world",
-          "policy",
-          "finance"
-        ],
-        "industries": [
-          "generalPublic",
-          "financeInvestment",
-          "operationsGrowth",
-          "ecommerceRetail"
-        ],
-        "section": "industry",
-        "body": {
-          "background": "比特币最新价格为 77,226.96 美元，高于本周初的 62,836.88 美元。加密货币相关股票上涨，Coinbase 和 Circle 上涨超过 5%。ProShares 比特币策略 ETF (BITO) 在盘前交易中上涨 6.8%。",
-          "keyProgress": "此次反弹始于周三，当时美国财政部对债券市场进行了爆炸性干预，美国国债收益率大幅回落，缓解了风险资产的压力。该法案被广泛认为是一个关键的催化剂，可以推动市场走出去年秋天开始的加密货币冬天，但它通过的可能性似乎相对较小。“我们预计会出现最后一次冲水，并且会再下降 20%，以便与之前的周期保持一致，”她说。“市场上的杠杆率很高，他们已经被消灭了。",
-          "whyItMatters": "“随着投资者乐观情绪的回归，比特币有望每周上涨 20%”如果继续发展，可能通过能源价格、航运、贸易、汇率或市场预期传导到国内。了解它的意义在于判断后续风险，而不只停留在事件本身。",
-          "userRelevance": "即使你不在事发地区，“随着投资者乐观情绪的回归，比特币有望每周上涨 20%”也可能通过能源价格、国际航运、贸易成本和市场预期间接影响国内生活与工作判断。",
-          "whatToWatch": "接下来要看“随着投资者乐观情绪的回归，比特币有望每周上涨 20%”是否出现更细的城市、行业、平台或企业数据，以及这一变化能否连续保持。"
-        },
-        "sourceLinks": [
-          {
-            "title": "CNBC World News RSS",
-            "url": "https://www.cnbc.com/2026/08/21/bitcoin-gain-cryptocurrency-investors-optimistic.html",
-            "sourceId": "cnbc-world-rss",
-            "publishedAt": "2026-08-21T12:07:14.000Z",
-            "language": "zh",
-            "originalLanguage": "en",
-            "translationStatus": "translated",
-            "fetchedAt": "2026-08-21T13:29:31.306Z",
-            "sourceMethod": "rss",
-            "verificationStatus": "pending"
-          }
-        ],
-        "images": [
-          {
-            "url": "https://image.cnbcfm.com/api/v1/image/108352115-17872312751787231272-47880492259-1080pnbcnews.jpg?v=1787231274&amp;w=750&amp;h=422&amp;vtcrop=y",
-            "sourceUrl": "https://www.cnbc.com/2026/08/21/bitcoin-gain-cryptocurrency-investors-optimistic.html"
-          },
-          {
-            "url": "https://image.cnbcfm.com/api/v1/image/108352613-17873095371787309534-47898363757-1080pnbcnews.jpg?v=1787309536&amp;w=750&amp;h=422&amp;vtcrop=y",
-            "sourceUrl": "https://www.cnbc.com/2026/08/21/bitcoin-gain-cryptocurrency-investors-optimistic.html"
-          }
-        ],
-        "generatedAt": "2026-08-21T13:29:22.747Z"
+        "generatedAt": "2026-08-21T13:52:58.657Z"
       },
       {
         "id": "draft-real-cnbc-world-rss-1s24vs1",
@@ -699,13 +601,13 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-21T13:29:31.306Z",
+            "fetchedAt": "2026-08-21T13:53:06.609Z",
             "sourceMethod": "rss",
             "verificationStatus": "pending"
           }
         ],
         "images": [],
-        "generatedAt": "2026-08-21T13:29:22.747Z"
+        "generatedAt": "2026-08-21T13:52:58.657Z"
       },
       {
         "id": "draft-real-cnbc-world-rss-bxkd2f",
@@ -743,13 +645,13 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-21T13:29:31.306Z",
+            "fetchedAt": "2026-08-21T13:53:06.609Z",
             "sourceMethod": "rss",
             "verificationStatus": "pending"
           }
         ],
         "images": [],
-        "generatedAt": "2026-08-21T13:29:22.747Z"
+        "generatedAt": "2026-08-21T13:52:58.657Z"
       },
       {
         "id": "draft-real-cnbc-world-rss-1hdkcxr",
@@ -787,13 +689,13 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-21T13:29:31.306Z",
+            "fetchedAt": "2026-08-21T13:53:06.609Z",
             "sourceMethod": "rss",
             "verificationStatus": "pending"
           }
         ],
         "images": [],
-        "generatedAt": "2026-08-21T13:29:22.747Z"
+        "generatedAt": "2026-08-21T13:52:58.657Z"
       },
       {
         "id": "draft-real-cnbc-world-rss-1ehq0r5",
@@ -831,13 +733,13 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-21T13:29:31.306Z",
+            "fetchedAt": "2026-08-21T13:53:06.609Z",
             "sourceMethod": "rss",
             "verificationStatus": "pending"
           }
         ],
         "images": [],
-        "generatedAt": "2026-08-21T13:29:22.747Z"
+        "generatedAt": "2026-08-21T13:52:58.657Z"
       },
       {
         "id": "draft-real-cnbc-world-rss-1fipkyx",
@@ -875,13 +777,13 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-21T13:29:31.306Z",
+            "fetchedAt": "2026-08-21T13:53:06.609Z",
             "sourceMethod": "rss",
             "verificationStatus": "pending"
           }
         ],
         "images": [],
-        "generatedAt": "2026-08-21T13:29:22.747Z"
+        "generatedAt": "2026-08-21T13:52:58.657Z"
       },
       {
         "id": "draft-real-cnbc-world-rss-py05vf",
@@ -1200,12 +1102,102 @@
           }
         ],
         "generatedAt": "2026-08-20T23:37:34.232Z"
+      },
+      {
+        "id": "draft-real-techcrunch-ai-rss-1y369ky",
+        "title": "AI 数据初创公司 Micro1 在 AI 培训热潮中毛运行率达到 5 亿美元",
+        "oneLine": "趋势信号：顶级实验室和企业对独特人工智能训练数据的近乎无底的需求正在推动一批数据标签初创公司的巨大繁荣。",
+        "importance": "B",
+        "credibility": "待确认",
+        "tags": [
+          "B",
+          "industry",
+          "ai",
+          "technology",
+          "product"
+        ],
+        "industries": [
+          "aiProduct",
+          "aiTechnology",
+          "productManagement",
+          "technologyEngineering",
+          "educationResearch"
+        ],
+        "section": "ai",
+        "body": {
+          "background": "据一位知情人士透露，Micro1 是这些快速增长的企业之一，这家成立四年的初创公司在过去八个月里将年毛营业额从 1 亿美元扩大到了 5 亿美元。与以合同形式聘用医生、律师和科学家等领域专家的同行一样，Micro1 保留了大约 60% 到 70% 的数字，使其年净运行率在 1.5 亿美元到 2 亿美元之间。虽然 Micro1 仍然落后于 Mercor（今年夏天年化总收入达到 20 亿美元）和 Handshake（今年早些时候达到 10 亿美元）等竞争对手，但这家初创公司的收入增长表明，有足够的需求来支持多个提供 AI 训练数据的参与者。",
+          "keyProgress": "这种快速增长势必会持续下去，一些研究人员假设未来人工智能在数据上的支出可能会与计算上的支出相媲美。这一前景对 Micro1 来说是个好兆头，该公司的合同规模正在加速增长，并预计其利润率将随着时间的推移而扩大。向多个客户出售相同的数据集最近引发了争议，批评者认为，向中国人工智能开发人员分发现成的数据有助于使他们的模型与美国顶级模型一样强大。Micro1 的创始人 Ali Ansari 上个月在 X 上表示，与一些竞争对手不同，该初创公司不会将其数据出售给中国模型制造商。",
+          "whyItMatters": "“AI 数据初创公司 Micro1 在 AI 培训热潮中毛运行率达到 5 亿美元”能帮助你判断这项能力是否已经进入工程、产品或商业场景，并据此调整技术选型、产品规划、学习重点或职业判断。",
+          "userRelevance": "如果你从事AI 产品、AI 技术、产品管理、技术研发，可以重点判断“AI 数据初创公司 Micro1 在 AI 培训热潮中毛运行率达到 5 亿美元”是否已经具备产品落地、技术选型或业务合作价值。",
+          "whatToWatch": "接下来要看“AI 数据初创公司 Micro1 在 AI 培训热潮中毛运行率达到 5 亿美元”是否有更多可靠来源、量产或应用进展，以及它会不会从单点消息发展成持续趋势。"
+        },
+        "sourceLinks": [
+          {
+            "title": "TechCrunch AI RSS",
+            "url": "https://techcrunch.com/2026/08/20/ai-data-startup-micro1-reaches-500m-gross-run-rate-amid-ai-training-boom/",
+            "sourceId": "techcrunch-ai-rss",
+            "publishedAt": "2026-08-21T00:13:44.000Z",
+            "language": "zh",
+            "originalLanguage": "en",
+            "translationStatus": "translated",
+            "fetchedAt": "2026-08-21T04:49:36.141Z",
+            "sourceMethod": "rss",
+            "verificationStatus": "pending"
+          }
+        ],
+        "images": [],
+        "generatedAt": "2026-08-21T04:49:30.785Z"
+      },
+      {
+        "id": "draft-real-techcrunch-ai-rss-1oghl94",
+        "title": "新数据表明，OpenAI 正在赢得商业用户的青睐",
+        "oneLine": "趋势信号：在 OpenAI 和 Anthropic 足够接近其计划的 IPO 并公布其财务数据之前，我们必须从其他来源寻找其业务表现的迹象。",
+        "importance": "B",
+        "credibility": "待确认",
+        "tags": [
+          "B",
+          "industry",
+          "ai",
+          "technology",
+          "product"
+        ],
+        "industries": [
+          "aiProduct",
+          "aiTechnology",
+          "productManagement",
+          "technologyEngineering",
+          "educationResearch"
+        ],
+        "section": "ai",
+        "body": {
+          "background": "这些消息来源之一，企业信用卡和费用管理公司 Ramp 刚刚发布了一些令人惊讶的新数据：OpenAI 已经开始在美国企业中追赶 Anthropic。请注意，本季度还剩一个月，相当于 30 个人工智能年，因此趋势很容易在结束之前再次发生转变。随着每个实验室发布新模型，企业愿意来回波动，这种波动应该会让两家公司的投资者对企业人工智能支出到底有多么“粘性”感到犹豫。",
+          "keyProgress": "OpenAI 曾经是企业和消费者的领先者，但早在 5 月份就失去了 Ramp 付费企业用户的领先地位。当时，Anthropic 的市场份额达到了 41%，而 OpenAI 的市场份额为 39%。截至 7 月，Anthropic 的份额接近 44%，而 OpenAI 的份额接近 40%。Ramp 经济学家 Ara Kharazian 表示，仔细研究最新数据就会发现，迄今为止，OpenAI 在第三季度这一领域的增长速度快于 Anthropic。",
+          "whyItMatters": "“新数据表明，OpenAI 正在赢得商业用户的青睐”能帮助你判断这项能力是否已经进入工程、产品或商业场景，并据此调整技术选型、产品规划、学习重点或职业判断。",
+          "userRelevance": "如果你从事AI 产品、AI 技术、产品管理、技术研发，可以重点判断“新数据表明，OpenAI 正在赢得商业用户的青睐”是否已经具备产品落地、技术选型或业务合作价值。",
+          "whatToWatch": "接下来要看“新数据表明，OpenAI 正在赢得商业用户的青睐”是否有更多可靠来源、量产或应用进展，以及它会不会从单点消息发展成持续趋势。"
+        },
+        "sourceLinks": [
+          {
+            "title": "TechCrunch AI RSS",
+            "url": "https://techcrunch.com/2026/08/20/openai-is-gaining-on-anthropic-with-business-users-new-data-indicates/",
+            "sourceId": "techcrunch-ai-rss",
+            "publishedAt": "2026-08-20T22:36:37.000Z",
+            "language": "zh",
+            "originalLanguage": "en",
+            "translationStatus": "translated",
+            "fetchedAt": "2026-08-20T23:37:45.304Z",
+            "sourceMethod": "rss",
+            "verificationStatus": "pending"
+          }
+        ],
+        "images": [],
+        "generatedAt": "2026-08-20T23:37:34.232Z"
       }
     ],
-    "estimatedReadMinutes": 38,
+    "estimatedReadMinutes": 39,
     "pageCount": 3,
-    "topCardId": "draft-real-cnbc-world-rss-13qonwh",
-    "generatedAt": "2026-08-21T13:29:22.747Z",
+    "topCardId": "draft-real-cnbc-world-rss-slzueh",
+    "generatedAt": "2026-08-21T13:52:58.657Z",
     "pushSlots": [
       "08:30",
       "12:30",
@@ -1220,13 +1212,11 @@
     "basedOnGeneratedAt": "2026-08-21T04:49:30.785Z",
     "editionCardIds": [
       "draft-real-npr-world-rss-1rr8e5u",
-      "draft-real-cnbc-world-rss-13qonwh",
       "draft-real-cnbc-world-rss-slzueh",
       "draft-real-deepmind-blog-42k684",
       "draft-real-cnbc-world-rss-vr21oy",
       "draft-real-cnbc-world-rss-1s24vs1",
       "draft-real-cnbc-world-rss-1hdkcxr",
-      "draft-real-cnbc-world-rss-3mt6ya",
       "draft-real-cnbc-world-rss-bxkd2f",
       "draft-real-cnbc-world-rss-1ehq0r5",
       "draft-real-cnbc-world-rss-1fipkyx"
@@ -1244,7 +1234,9 @@
       "draft-real-un-news-rss-80p3ak",
       "draft-real-cnbc-world-rss-96hj5g",
       "draft-real-xinhua-world-1tkcaw1",
-      "draft-cluster-real-gov-uk-news-1mqueb1"
+      "draft-cluster-real-gov-uk-news-1mqueb1",
+      "draft-real-techcrunch-ai-rss-1y369ky",
+      "draft-real-techcrunch-ai-rss-1oghl94"
     ]
   }
 }

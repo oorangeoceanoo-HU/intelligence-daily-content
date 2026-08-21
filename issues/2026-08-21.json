@@ -1,11 +1,56 @@
 {
   "schemaVersion": 2,
-  "publishedAt": "2026-08-20T23:37:34.232Z",
+  "publishedAt": "2026-08-21T04:21:46.319Z",
   "issue": {
     "id": "daily-public-2026-08-21",
     "date": "2026-08-21",
     "userId": "public",
     "cards": [
+      {
+        "id": "draft-real-cnbc-world-rss-1tti74m",
+        "title": "特朗普称伊朗经济正在崩溃。德黑兰前央行顾问反驳",
+        "oneLine": "政策变化：伊朗央行前顾问反驳了美国总统唐纳德·特朗普关于伊朗正处于经济崩溃边缘的说法，但警告称，阿联酋切断贸易关系的决定可能会使伊朗今年的经济萎缩加深至约5%。",
+        "importance": "S",
+        "credibility": "待确认",
+        "tags": [
+          "S",
+          "mustKnow",
+          "industry",
+          "world",
+          "policy",
+          "finance"
+        ],
+        "industries": [
+          "generalPublic",
+          "financeInvestment",
+          "operationsGrowth",
+          "ecommerceRetail"
+        ],
+        "section": "front",
+        "body": {
+          "background": "他补充说：“尽管银行体系严重失衡，甚至遭受严重的网络攻击，但公众对银行体系的信心并未崩溃，我们没有看到任何大规模的银行挤兑。伊朗中央银行前经济顾问迈赫达·塞帕万德 (Mehrdad Sepahvand) 周四在“进入中东”节目中对 CNBC 的丹·墨菲 (Dan Murphy) 表示：“我们应该对伊朗经济正处于崩溃边缘的观点持谨慎态度。”在他发表上述言论的几个小时前，特朗普誓言对伊朗进行“前所未有的经济战争和孤立”，并宣称停火谈判破裂后，该政权“命悬一线”。",
+          "keyProgress": "这一声明延续了特朗普政府自四月份以来以“经济愤怒行动”为旗帜发起的施压行动，旨在切断该政权所谓的全球恐怖融资和收入来源。据世界银行称，截至 3 月份的一年中，伊朗的国内生产总值估计收缩了 2.7%，理由是去年广泛的抗议活动和该地区敌对行动加剧造成了经济混乱。根据世界银行的数据，2 月份通货膨胀率飙升至 62.2%，其中食品价格通胀率达到 99% 的历史高位。据《纽约时报》报道，一名伊朗官员估计，这场战争已导致 100 万个工作岗位流失。",
+          "whyItMatters": "“特朗普称伊朗经济正在崩溃。德黑兰前央行顾问反驳”如果继续发展，可能通过能源价格、航运、贸易、汇率或市场预期传导到国内。了解它的意义在于判断后续风险，而不只停留在事件本身。",
+          "userRelevance": "即使你不在伊朗，“特朗普称伊朗经济正在崩溃。德黑兰前央行顾问反驳”也可能通过能源价格、国际航运、贸易成本和市场预期间接影响国内生活与工作判断。",
+          "whatToWatch": "接下来要看“特朗普称伊朗经济正在崩溃。德黑兰前央行顾问反驳”是否出现更细的城市、行业、平台或企业数据，以及这一变化能否连续保持。"
+        },
+        "sourceLinks": [
+          {
+            "title": "CNBC World News RSS",
+            "url": "https://www.cnbc.com/2026/08/20/iran-economy-worries-trump-sanction-war-hormuz-uae-.html",
+            "sourceId": "cnbc-world-rss",
+            "publishedAt": "2026-08-20T18:20:58.000Z",
+            "language": "zh",
+            "originalLanguage": "en",
+            "translationStatus": "translated",
+            "fetchedAt": "2026-08-20T23:37:40.965Z",
+            "sourceMethod": "rss",
+            "verificationStatus": "pending"
+          }
+        ],
+        "images": [],
+        "generatedAt": "2026-08-20T23:37:34.232Z"
+      },
       {
         "id": "draft-real-cnbc-world-rss-10klhgj",
         "title": "贝森特表示，随着经济压力的加大，美国可能不会重启大规模的伊朗战斗",
@@ -54,51 +99,6 @@
             "sourceUrl": "https://www.cnbc.com/2026/08/20/bessent-economy-iran-war-trump.html"
           }
         ],
-        "generatedAt": "2026-08-20T23:37:34.232Z"
-      },
-      {
-        "id": "draft-real-cnbc-world-rss-1tti74m",
-        "title": "特朗普称伊朗经济正在崩溃。德黑兰前央行顾问反驳",
-        "oneLine": "政策变化：伊朗央行前顾问反驳了美国总统唐纳德·特朗普关于伊朗正处于经济崩溃边缘的说法，但警告称，阿联酋切断贸易关系的决定可能会使伊朗今年的经济萎缩加深至约5%。",
-        "importance": "S",
-        "credibility": "待确认",
-        "tags": [
-          "S",
-          "mustKnow",
-          "industry",
-          "world",
-          "policy",
-          "finance"
-        ],
-        "industries": [
-          "generalPublic",
-          "financeInvestment",
-          "operationsGrowth",
-          "ecommerceRetail"
-        ],
-        "section": "front",
-        "body": {
-          "background": "他补充说：“尽管银行体系严重失衡，甚至遭受严重的网络攻击，但公众对银行体系的信心并未崩溃，我们没有看到任何大规模的银行挤兑。伊朗中央银行前经济顾问迈赫达·塞帕万德 (Mehrdad Sepahvand) 周四在“进入中东”节目中对 CNBC 的丹·墨菲 (Dan Murphy) 表示：“我们应该对伊朗经济正处于崩溃边缘的观点持谨慎态度。”在他发表上述言论的几个小时前，特朗普誓言对伊朗进行“前所未有的经济战争和孤立”，并宣称停火谈判破裂后，该政权“命悬一线”。",
-          "keyProgress": "这一声明延续了特朗普政府自四月份以来以“经济愤怒行动”为旗帜发起的施压行动，旨在切断该政权所谓的全球恐怖融资和收入来源。据世界银行称，截至 3 月份的一年中，伊朗的国内生产总值估计收缩了 2.7%，理由是去年广泛的抗议活动和该地区敌对行动加剧造成了经济混乱。根据世界银行的数据，2 月份通货膨胀率飙升至 62.2%，其中食品价格通胀率达到 99% 的历史高位。据《纽约时报》报道，一名伊朗官员估计，这场战争已导致 100 万个工作岗位流失。",
-          "whyItMatters": "“特朗普称伊朗经济正在崩溃。德黑兰前央行顾问反驳”如果继续发展，可能通过能源价格、航运、贸易、汇率或市场预期传导到国内。了解它的意义在于判断后续风险，而不只停留在事件本身。",
-          "userRelevance": "即使你不在伊朗，“特朗普称伊朗经济正在崩溃。德黑兰前央行顾问反驳”也可能通过能源价格、国际航运、贸易成本和市场预期间接影响国内生活与工作判断。",
-          "whatToWatch": "接下来要看“特朗普称伊朗经济正在崩溃。德黑兰前央行顾问反驳”是否出现更细的城市、行业、平台或企业数据，以及这一变化能否连续保持。"
-        },
-        "sourceLinks": [
-          {
-            "title": "CNBC World News RSS",
-            "url": "https://www.cnbc.com/2026/08/20/iran-economy-worries-trump-sanction-war-hormuz-uae-.html",
-            "sourceId": "cnbc-world-rss",
-            "publishedAt": "2026-08-20T18:20:58.000Z",
-            "language": "zh",
-            "originalLanguage": "en",
-            "translationStatus": "translated",
-            "fetchedAt": "2026-08-20T23:37:40.965Z",
-            "sourceMethod": "rss",
-            "verificationStatus": "pending"
-          }
-        ],
-        "images": [],
         "generatedAt": "2026-08-20T23:37:34.232Z"
       },
       {
@@ -205,6 +205,51 @@
         "generatedAt": "2026-08-20T23:37:34.232Z"
       },
       {
+        "id": "draft-real-npr-world-rss-13fkkld",
+        "title": "日本称朝鲜向海上发射疑似导弹",
+        "oneLine": "政策变化：韩国首尔——日本称，朝鲜周四向海上发射了一枚疑似弹道导弹，此前一天，朝鲜对美国缩减与韩国军演的决定不屑一顾，这显然是为了恢复外交。",
+        "importance": "A",
+        "credibility": "主流媒体",
+        "tags": [
+          "A",
+          "mustKnow",
+          "world",
+          "policy"
+        ],
+        "industries": [
+          "generalPublic"
+        ],
+        "section": "front",
+        "body": {
+          "background": "日本首相办公室表示，发现了可疑的发射事件，但没有透露更多细节。韩国媒体援引军方消息称，朝鲜在朝鲜东海岸发射了一枚身份不明的射弹。周三，韩国和美国军方表示，他们正在缩减为期 11 天的乙支自由盾演习。",
+          "keyProgress": "她还列举了美国和韩国今年早些时候进行的一系列其他军事演习，以及韩国推动引进核动力潜艇的举措。几天前，美国总统唐纳德·特朗普早些时候命令五角大楼“大幅减少”演习，理由是他所说的与金正恩的良好关系以及韩国拒绝在伊朗战争问题上支持他。朝鲜领导人金正恩颇具影响力的妹妹金与正周三晚些时候驳回了特朗普的提议。她说，这甚至不值得评论，因为“即使演习的持续时间和规模都减少了，演习的挑衅性和攻击性性质也不会改变。",
+          "whyItMatters": "“日本称朝鲜向海上发射疑似导弹”如果继续发展，可能通过能源价格、航运、贸易、汇率或市场预期传导到国内。了解它的意义在于判断后续风险，而不只停留在事件本身。",
+          "userRelevance": "即使你不在日本、美国、韩国，“日本称朝鲜向海上发射疑似导弹”也可能通过能源价格、国际航运、贸易成本和市场预期间接影响国内生活与工作判断。",
+          "whatToWatch": "接下来要看“日本称朝鲜向海上发射疑似导弹”是否出现新的官方信息、后续行动，以及它与中国出行、贸易或公共判断的关联是否扩大。"
+        },
+        "sourceLinks": [
+          {
+            "title": "NPR World RSS",
+            "url": "https://www.npr.org/2026/08/20/g-s1-139381/north-korea-suspected-missile",
+            "sourceId": "npr-world-rss",
+            "publishedAt": "2026-08-20T09:24:45.000Z",
+            "language": "zh",
+            "originalLanguage": "en",
+            "translationStatus": "translated",
+            "fetchedAt": "2026-08-20T23:37:40.376Z",
+            "sourceMethod": "rss",
+            "verificationStatus": "confirmed"
+          }
+        ],
+        "images": [
+          {
+            "url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/7525x5016+0+0/resize/1100/quality/50/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F9d%2Fbd%2F4c7281554a0c82aac58fcef79a0c%2Fap26232291378439.jpg",
+            "sourceUrl": "https://www.npr.org/2026/08/20/g-s1-139381/north-korea-suspected-missile"
+          }
+        ],
+        "generatedAt": "2026-08-20T23:37:34.232Z"
+      },
+      {
         "id": "draft-cluster-real-npr-world-rss-1rg3x3o",
         "title": "中国法院判处房地产开发商恒大创始人无期徒刑",
         "oneLine": "政策变化：北京——中国南方城市深圳一家法院周四称，中国房地产开发商恒大地产集团创始人许家印被判处无期徒刑，并处罚金共计 23 亿美元。",
@@ -267,49 +312,94 @@
         "generatedAt": "2026-08-20T23:37:34.232Z"
       },
       {
-        "id": "draft-real-npr-world-rss-13fkkld",
-        "title": "日本称朝鲜向海上发射疑似导弹",
-        "oneLine": "政策变化：韩国首尔——日本称，朝鲜周四向海上发射了一枚疑似弹道导弹，此前一天，朝鲜对美国缩减与韩国军演的决定不屑一顾，这显然是为了恢复外交。",
-        "importance": "A",
-        "credibility": "主流媒体",
+        "id": "draft-real-cnbc-world-rss-pe0yhh",
+        "title": "由于能源价格上涨，日本整体通胀率创今年最高",
+        "oneLine": "政策变化：由于伊朗战争导致能源成本上涨，日本 7 月份总体通胀率达到 1.9%，为今年最高水平。",
+        "importance": "B",
+        "credibility": "待确认",
         "tags": [
-          "A",
+          "B",
           "mustKnow",
+          "industry",
           "world",
-          "policy"
+          "policy",
+          "finance"
         ],
         "industries": [
-          "generalPublic"
+          "generalPublic",
+          "financeInvestment",
+          "operationsGrowth",
+          "ecommerceRetail"
         ],
         "section": "front",
         "body": {
-          "background": "日本首相办公室表示，发现了可疑的发射事件，但没有透露更多细节。韩国媒体援引军方消息称，朝鲜在朝鲜东海岸发射了一枚身份不明的射弹。周三，韩国和美国军方表示，他们正在缩减为期 11 天的乙支自由盾演习。",
-          "keyProgress": "她还列举了美国和韩国今年早些时候进行的一系列其他军事演习，以及韩国推动引进核动力潜艇的举措。几天前，美国总统唐纳德·特朗普早些时候命令五角大楼“大幅减少”演习，理由是他所说的与金正恩的良好关系以及韩国拒绝在伊朗战争问题上支持他。朝鲜领导人金正恩颇具影响力的妹妹金与正周三晚些时候驳回了特朗普的提议。她说，这甚至不值得评论，因为“即使演习的持续时间和规模都减少了，演习的挑衅性和攻击性性质也不会改变。",
-          "whyItMatters": "“日本称朝鲜向海上发射疑似导弹”如果继续发展，可能通过能源价格、航运、贸易、汇率或市场预期传导到国内。了解它的意义在于判断后续风险，而不只停留在事件本身。",
-          "userRelevance": "即使你不在日本、美国、韩国，“日本称朝鲜向海上发射疑似导弹”也可能通过能源价格、国际航运、贸易成本和市场预期间接影响国内生活与工作判断。",
-          "whatToWatch": "接下来要看“日本称朝鲜向海上发射疑似导弹”是否出现新的官方信息、后续行动，以及它与中国出行、贸易或公共判断的关联是否扩大。"
+          "background": "核心通胀（剔除新鲜食品价格但包括能源）符合预期，为 1.8%。分析师此前曾向 CNBC 表示，相对较低的消费者通胀是由于日本首相高市早苗政府提供补贴，以保护消费者免受能源价格上涨的影响。尽管有政府补贴，但由于中东冲突导致石油成本高昂，能源价格自 2025 年 11 月以来首次上涨。",
+          "keyProgress": "这体现在批发通胀上，7月份的批发通胀率为7.2%，其中电费是最大的贡献者。生鲜食品价格也大幅上涨，较 6 月份上涨 3.9% 上涨 7%。日本央行在上个月的展望报告中警告称，从9月到3月的2026财年下半年起，核心通胀可能会加速至“明显高于”2%的水平。报告指出，工资上涨已转化为销售价格、原油价格上涨以及日元近期贬值。",
+          "whyItMatters": "“由于能源价格上涨，日本整体通胀率创今年最高”如果继续发展，可能通过能源价格、航运、贸易、汇率或市场预期传导到国内。了解它的意义在于判断后续风险，而不只停留在事件本身。",
+          "userRelevance": "即使你不在日本，“由于能源价格上涨，日本整体通胀率创今年最高”也可能通过能源价格、国际航运、贸易成本和市场预期间接影响国内生活与工作判断。",
+          "whatToWatch": "接下来要看“由于能源价格上涨，日本整体通胀率创今年最高”是否出现更细的城市、行业、平台或企业数据，以及这一变化能否连续保持。"
         },
         "sourceLinks": [
           {
-            "title": "NPR World RSS",
-            "url": "https://www.npr.org/2026/08/20/g-s1-139381/north-korea-suspected-missile",
-            "sourceId": "npr-world-rss",
-            "publishedAt": "2026-08-20T09:24:45.000Z",
+            "title": "CNBC World News RSS",
+            "url": "https://www.cnbc.com/2026/08/21/japan-inflation-iran-war-energy.html",
+            "sourceId": "cnbc-world-rss",
+            "publishedAt": "2026-08-21T02:13:18.000Z",
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-20T23:37:40.376Z",
+            "fetchedAt": "2026-08-21T04:21:57.498Z",
             "sourceMethod": "rss",
-            "verificationStatus": "confirmed"
+            "verificationStatus": "pending"
           }
         ],
-        "images": [
+        "images": [],
+        "generatedAt": "2026-08-21T04:21:46.319Z"
+      },
+      {
+        "id": "draft-real-cnbc-world-rss-1rit1bo",
+        "title": "中国人形机器人最大的障碍：人类仍然（大部分）更好",
+        "oneLine": "政策变化：北京——本周在北京举行的世界机器人大会上发表讲话的行业领袖表示，人形机器人面临的最大挑战仍然是让技术发挥良好作用。",
+        "importance": "B",
+        "credibility": "待确认",
+        "tags": [
+          "B",
+          "mustKnow",
+          "industry",
+          "world",
+          "policy",
+          "finance"
+        ],
+        "industries": [
+          "generalPublic",
+          "financeInvestment",
+          "operationsGrowth",
+          "ecommerceRetail"
+        ],
+        "section": "front",
+        "body": {
+          "background": "美国联邦通信委员会上个月将包括人形机器人在内的外国制造的先进机器人设备添加到限制进口美国的清单中。该声明没有具体说明具体国家，并表示零售商仍然可以进口 FCC 此前批准的型号。“在美国，可能受到影响的是自主移动机器人，这些机器人在工厂中的使用量比类人机器人要多得多，”他说。",
+          "keyProgress": "他的言论强调了人形机器人进入人类劳动力市场所面临的挑战。Unitree创始人王星星在其公司IPO日飙升460%的第二天在会议上发表讲话时表示，机器人的效率还不如人类，需要时间来学习新技能，这给行业带来了瓶颈。Unitree 股价周四下跌 18.7%。但自动化推进协会主席杰夫·伯恩斯坦 (Jeff Burnstein) 告诉 CNBC，目前这种限制的影响并没有那么大，因为美国使用的人形机器人并不多。",
+          "whyItMatters": "“中国人形机器人最大的障碍：人类仍然更好”如果继续发展，可能通过能源价格、航运、贸易、汇率或市场预期传导到国内。了解它的意义在于判断后续风险，而不只停留在事件本身。",
+          "userRelevance": "即使你不在中国，“中国人形机器人最大的障碍：人类仍然更好”也可能通过能源价格、国际航运、贸易成本和市场预期间接影响国内生活与工作判断。",
+          "whatToWatch": "接下来要看“中国人形机器人最大的障碍：人类仍然更好”是否出现更细的城市、行业、平台或企业数据，以及这一变化能否连续保持。"
+        },
+        "sourceLinks": [
           {
-            "url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/7525x5016+0+0/resize/1100/quality/50/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F9d%2Fbd%2F4c7281554a0c82aac58fcef79a0c%2Fap26232291378439.jpg",
-            "sourceUrl": "https://www.npr.org/2026/08/20/g-s1-139381/north-korea-suspected-missile"
+            "title": "CNBC World News RSS",
+            "url": "https://www.cnbc.com/2026/08/21/chinese-humanoid-robots-face-challenge-of-their-own-capabilities.html",
+            "sourceId": "cnbc-world-rss",
+            "publishedAt": "2026-08-21T01:56:01.000Z",
+            "language": "zh",
+            "originalLanguage": "en",
+            "translationStatus": "translated",
+            "fetchedAt": "2026-08-21T04:21:57.498Z",
+            "sourceMethod": "rss",
+            "verificationStatus": "pending"
           }
         ],
-        "generatedAt": "2026-08-20T23:37:34.232Z"
+        "images": [],
+        "generatedAt": "2026-08-21T04:21:46.319Z"
       },
       {
         "id": "draft-real-gov-uk-news-1bsu1kn",
@@ -363,47 +453,278 @@
         "generatedAt": "2026-08-20T23:37:34.232Z"
       },
       {
-        "id": "draft-real-xinhua-world-1tkcaw1",
-        "title": "中国代表：团结合作应始终作为安理会最核心工作方法",
-        "oneLine": "政策变化：中国常驻联合国代表傅聪19日在安理会工作方法问题公开辩论会上发言，强调团结合作应始终作为安理会最核心的工作方法。",
+        "id": "draft-real-techcrunch-ai-rss-1y369ky",
+        "title": "AI 数据初创公司 Micro1 在 AI 培训热潮中毛运行率达到 5 亿美元",
+        "oneLine": "趋势信号：顶级实验室和企业对独特人工智能训练数据的近乎无底的需求正在推动一批数据标签初创公司的巨大繁荣。",
         "importance": "B",
-        "credibility": "主流媒体",
+        "credibility": "待确认",
         "tags": [
           "B",
-          "mustKnow",
+          "industry",
+          "ai",
+          "technology",
+          "product"
+        ],
+        "industries": [
+          "aiProduct",
+          "aiTechnology",
+          "productManagement",
+          "technologyEngineering",
+          "educationResearch"
+        ],
+        "section": "ai",
+        "body": {
+          "background": "据一位知情人士透露，Micro1 是这些快速增长的企业之一，这家成立四年的初创公司在过去八个月里将年毛营业额从 1 亿美元扩大到了 5 亿美元。与以合同形式聘用医生、律师和科学家等领域专家的同行一样，Micro1 保留了大约 60% 到 70% 的数字，使其年净运行率在 1.5 亿美元到 2 亿美元之间。虽然 Micro1 仍然落后于 Mercor（今年夏天年化总收入达到 20 亿美元）和 Handshake（今年早些时候达到 10 亿美元）等竞争对手，但这家初创公司的收入增长表明，有足够的需求来支持多个提供 AI 训练数据的参与者。",
+          "keyProgress": "这种快速增长势必会持续下去，一些研究人员假设未来人工智能在数据上的支出可能会与计算上的支出相媲美。这一前景对 Micro1 来说是个好兆头，该公司的合同规模正在加速增长，并预计其利润率将随着时间的推移而扩大。向多个客户出售相同的数据集最近引发了争议，批评者认为，向中国人工智能开发人员分发现成的数据有助于使他们的模型与美国顶级模型一样强大。Micro1 的创始人 Ali Ansari 上个月在 X 上表示，与一些竞争对手不同，该初创公司不会将其数据出售给中国模型制造商。",
+          "whyItMatters": "“AI 数据初创公司 Micro1 在 AI 培训热潮中毛运行率达到 5 亿美元”能帮助你判断这项能力是否已经进入工程、产品或商业场景，并据此调整技术选型、产品规划、学习重点或职业判断。",
+          "userRelevance": "如果你从事AI 产品、AI 技术、产品管理、技术研发，可以重点判断“AI 数据初创公司 Micro1 在 AI 培训热潮中毛运行率达到 5 亿美元”是否已经具备产品落地、技术选型或业务合作价值。",
+          "whatToWatch": "接下来要看“AI 数据初创公司 Micro1 在 AI 培训热潮中毛运行率达到 5 亿美元”是否有更多可靠来源、量产或应用进展，以及它会不会从单点消息发展成持续趋势。"
+        },
+        "sourceLinks": [
+          {
+            "title": "TechCrunch AI RSS",
+            "url": "https://techcrunch.com/2026/08/20/ai-data-startup-micro1-reaches-500m-gross-run-rate-amid-ai-training-boom/",
+            "sourceId": "techcrunch-ai-rss",
+            "publishedAt": "2026-08-21T00:13:44.000Z",
+            "language": "zh",
+            "originalLanguage": "en",
+            "translationStatus": "translated",
+            "fetchedAt": "2026-08-21T04:22:00.015Z",
+            "sourceMethod": "rss",
+            "verificationStatus": "pending"
+          }
+        ],
+        "images": [],
+        "generatedAt": "2026-08-21T04:21:46.319Z"
+      },
+      {
+        "id": "draft-real-cnbc-world-rss-wpbr03",
+        "title": "经济学家表示，台湾人工智能推动的 11% GDP 增长预测可能不可持续",
+        "oneLine": "政策变化：台湾政府预测 2026 年 GDP 将实现两位数增长，这可能反映了对人工智能经济的乐观态度，但考虑到资本支出放缓和宏观经济衰退的风险，以及半导体行业的高度集中，随着时间的推移，增长可能会放缓。",
+        "importance": "B",
+        "credibility": "待确认",
+        "tags": [
+          "B",
           "industry",
           "world",
-          "policy"
+          "policy",
+          "finance"
         ],
         "industries": [
           "generalPublic",
           "financeInvestment",
           "operationsGrowth",
-          "contentCreator"
+          "ecommerceRetail"
         ],
-        "section": "front",
+        "section": "industry",
         "body": {
-          "background": "傅聪说，作为全球集体安全机制的核心，安理会能否有效履职关乎联合国权威和信誉，关乎国际和平与安全的前景。安理会工作方法从来不是简单的技术问题，需要从维护国际和平与安全的大局出发，不断改进和完善。团结合作是多边机制的活力之源，应始终作为安理会最核心的工作方法。",
-          "keyProgress": "中方愿继续同各方一道，坚持多边主义，加强团结合作，共同支持安理会改进工作方法、提高履职能力，为推动建设持久和平、共同安全的世界发挥更大作用。无论是实质性问题还是程序性事项，安理会成员都应相互尊重、充分协商，妥善管控分歧，全力寻求共识。傅聪表示，安理会要遵循《联合国宪章》第六章精神，为有关当事方对话谈判创造有利条件，支持地区国家和区域组织发挥斡旋调解作用，尽最大努力争取和平解决争端。要切实尊重当事国主权和主导权，谨慎使用制裁、动武等强制手段。",
-          "whyItMatters": "“中国代表：团结合作应始终作为安理会最核心工作方法”如果继续发展，可能通过能源价格、航运、贸易、汇率或市场预期传导到国内。了解它的意义在于判断后续风险，而不只停留在事件本身。",
-          "userRelevance": "即使你不在中国，“中国代表：团结合作应始终作为安理会最核心工作方法”也可能通过能源价格、国际航运、贸易成本和市场预期间接影响国内生活与工作判断。",
-          "whatToWatch": "接下来要看“中国代表：团结合作应始终作为安理会最核心工作方法”是否出现新的官方信息、后续行动，以及它与中国出行、贸易或公共判断的关联是否扩大。"
+          "background": "本月早些时候，台湾统计机构表示，预计今年 GDP 增长率为 11.05%，高于 5 月份发布的 9.64% 预测。”苏帕特表示，尽管随着人工智能相关产品的需求不断增长，台湾从全球科技公司的巨额投资中受益匪浅，但如果人工智能投资的步伐放缓，“这可能会相对较快地影响台湾的出口、制造业和投资”。Supaat 补充说，台湾对技术和半导体的依赖使其特别容易受到全球技术和人工智能资本支出周期波动以及地缘政治发展的影响。",
+          "keyProgress": "在科技行业人工智能需求的支撑下，台湾加权股指今年迄今已增长超过 56%。马来亚银行外汇研究主管萨克蒂安迪·苏帕特 (Saktiandi Supaat) 表示：“我认为重要的是，不要对今年的超常增长速度做出过分推断。老虎基金管理公司首席执行官杰里米·谭指出，此类风险“使这种增长的长期可持续性受到质疑”。与此同时，由于通胀风险上升，全球利率可能上升，也可能给台湾新兴的人工智能初创企业带来压力。",
+          "whyItMatters": "“经济学家表示，台湾人工智能推动的 11% GDP 增长预测可能不可持续”如果继续发展，可能通过能源价格、航运、贸易、汇率或市场预期传导到国内。了解它的意义在于判断后续风险，而不只停留在事件本身。",
+          "userRelevance": "即使你不在台湾，“经济学家表示，台湾人工智能推动的 11% GDP 增长预测可能不可持续”也可能通过能源价格、国际航运、贸易成本和市场预期间接影响国内生活与工作判断。",
+          "whatToWatch": "接下来要看“经济学家表示，台湾人工智能推动的 11% GDP 增长预测可能不可持续”是否出现更细的城市、行业、平台或企业数据，以及这一变化能否连续保持。"
         },
         "sourceLinks": [
           {
-            "title": "新华网国际",
-            "url": "https://www.news.cn/world/20260820/0996cf2ec41f4515bfbe8ba5494ffff0/c.html",
-            "sourceId": "xinhua-world",
-            "publishedAt": "2026-08-20T00:00:00+08:00",
+            "title": "CNBC World News RSS",
+            "url": "https://www.cnbc.com/2026/08/21/taiwan-gdp-growth-outlook-tech-forecast.html",
+            "sourceId": "cnbc-world-rss",
+            "publishedAt": "2026-08-21T03:59:53.000Z",
             "language": "zh",
-            "originalLanguage": "zh",
-            "translationStatus": "not-needed",
-            "fetchedAt": "2026-08-20T23:37:39.970Z",
-            "sourceMethod": "web",
-            "verificationStatus": "confirmed"
+            "originalLanguage": "en",
+            "translationStatus": "translated",
+            "fetchedAt": "2026-08-21T04:21:57.498Z",
+            "sourceMethod": "rss",
+            "verificationStatus": "pending"
           }
         ],
         "images": [],
+        "generatedAt": "2026-08-21T04:21:46.319Z"
+      },
+      {
+        "id": "draft-real-cnbc-world-rss-1tnvhtv",
+        "title": "摩根大通的沙利文表示，美国债券干预就像“用信用卡支付抵押贷款”",
+        "oneLine": "最新进展：摩根大通的沙利文表示，美国债券干预就像“用信用卡支付抵押贷款”。",
+        "importance": "B",
+        "credibility": "待确认",
+        "tags": [
+          "B",
+          "industry",
+          "world",
+          "policy",
+          "finance"
+        ],
+        "industries": [
+          "generalPublic",
+          "financeInvestment",
+          "operationsGrowth",
+          "ecommerceRetail"
+        ],
+        "section": "industry",
+        "body": {
+          "background": "摩根大通表示，随着全球债务发行激增考验投资者需求，美国政府控制国债市场压力的努力可能只会将问题转移到未来。摩根大通全球基本面研究联席主管詹姆斯·沙利文 (James Sullivan) 周五对 CNBC 的“Squawk Box”节目表示，财政部实际上正在回购长期债券，同时发行短期票据，这一策略可以提供暂时的缓解，但不会影响潜在的债务负担。由部长斯科特·贝森特领导的美国财政部周三宣布，将从 9 月 9 日开始一直持续到 11 月 4 日，将政府债务回购规模至少增加一倍。",
+          "keyProgress": "“大多数时候，政府试图控制市场并不是一个特别有吸引力的故事。”沙利文指出，这一挑战不仅限于美国，美国政府债务约为 40 万亿美元，全球发达市场政府债务约为 76 万亿美元，公司债券发行量创历史新高。沙利文表示，即使经济基本面强劲，债券供应的大幅增加对市场也很重要。随着经济增长变得越来越资本密集型，企业也在大力利用债务市场，部分原因是人工智能基础设施、回流和国家安全相关投资。",
+          "whyItMatters": "“摩根大通的沙利文表示，美国债券干预就像用信用卡支付抵押贷款”如果继续发展，可能通过能源价格、航运、贸易、汇率或市场预期传导到国内。了解它的意义在于判断后续风险，而不只停留在事件本身。",
+          "userRelevance": "即使你不在美国，“摩根大通的沙利文表示，美国债券干预就像用信用卡支付抵押贷款”也可能通过能源价格、国际航运、贸易成本和市场预期间接影响国内生活与工作判断。",
+          "whatToWatch": "接下来要看“摩根大通的沙利文表示，美国债券干预就像用信用卡支付抵押贷款”是否出现更细的城市、行业、平台或企业数据，以及这一变化能否连续保持。"
+        },
+        "sourceLinks": [
+          {
+            "title": "CNBC World News RSS",
+            "url": "https://www.cnbc.com/2026/08/21/us-bond-intervention-shifting-problem-future-jpmorgan.html",
+            "sourceId": "cnbc-world-rss",
+            "publishedAt": "2026-08-21T02:48:10.000Z",
+            "language": "zh",
+            "originalLanguage": "en",
+            "translationStatus": "translated",
+            "fetchedAt": "2026-08-21T04:21:57.498Z",
+            "sourceMethod": "rss",
+            "verificationStatus": "pending"
+          }
+        ],
+        "images": [
+          {
+            "url": "https://image.cnbcfm.com/api/v1/image/108352490-17872760951787276042-47891013048-1080pnbcnews.jpg?v=1787276094&amp;w=750&amp;h=422&amp;vtcrop=y",
+            "sourceUrl": "https://www.cnbc.com/2026/08/21/us-bond-intervention-shifting-problem-future-jpmorgan.html"
+          }
+        ],
+        "generatedAt": "2026-08-21T04:21:46.319Z"
+      },
+      {
+        "id": "draft-real-cnbc-world-rss-9uuabt",
+        "title": "日本历史性的日元干预“加速”了套利交易",
+        "oneLine": "政策变化：在本文中，日本历史性地支撑日元的努力可能产生了意想不到的后果：为一些投资者提供了更好的机会加倍进行套利交易。",
+        "importance": "B",
+        "credibility": "待确认",
+        "tags": [
+          "B",
+          "industry",
+          "world",
+          "policy",
+          "finance"
+        ],
+        "industries": [
+          "generalPublic",
+          "financeInvestment",
+          "operationsGrowth",
+          "ecommerceRetail"
+        ],
+        "section": "industry",
+        "body": {
+          "background": "他指的是结构性力量，包括日本的低借贷成本以及与其他主要经济体的巨大利差。日本财务省数据显示，截至 8 月 15 日的两周内，日本投资者净买入超过 5 万亿日元外国股票和长期债券，而前两周净卖出超过 3000 亿日元。市场观察人士表示，这些购买行动表明，投资者利用上个月美日联合货币干预后日元大幅上涨的机会，以更有利的汇率抢购海外资产。",
+          "keyProgress": "科尔还表示，日本散户和机构投资者已利用日元走强建立非日元资产的新头寸，Monex Group 专家总监杰斯珀·科尔 (Jesper Koll) 表示：“干预措施为基本面和长期投资者的套利交易带来了‘涡轮增压’。” “只要日本的资金成本低于海外的回报，套利交易就会重新出现，”科尔说。尽管当局成功地推高了日元汇率，但他们并没有改变投资者在日本廉价借贷或筹集资金并将资金投入海外高收益资产的动机。",
+          "whyItMatters": "“日本历史性的日元干预加速了套利交易”如果继续发展，可能通过能源价格、航运、贸易、汇率或市场预期传导到国内。了解它的意义在于判断后续风险，而不只停留在事件本身。",
+          "userRelevance": "即使你不在日本，“日本历史性的日元干预加速了套利交易”也可能通过能源价格、国际航运、贸易成本和市场预期间接影响国内生活与工作判断。",
+          "whatToWatch": "接下来要看“日本历史性的日元干预加速了套利交易”是否出现更细的城市、行业、平台或企业数据，以及这一变化能否连续保持。"
+        },
+        "sourceLinks": [
+          {
+            "title": "CNBC World News RSS",
+            "url": "https://www.cnbc.com/2026/08/20/us-japan-yen-intervention-bank-of-japan-carry-trade.html",
+            "sourceId": "cnbc-world-rss",
+            "publishedAt": "2026-08-21T02:28:08.000Z",
+            "language": "zh",
+            "originalLanguage": "en",
+            "translationStatus": "translated",
+            "fetchedAt": "2026-08-21T04:21:57.498Z",
+            "sourceMethod": "rss",
+            "verificationStatus": "pending"
+          }
+        ],
+        "images": [
+          {
+            "url": "https://image.cnbcfm.com/api/v1/image/108351289-17871021401787102137-47851483331-1080pnbcnews.jpg?v=1787102139&amp;w=750&amp;h=422&amp;vtcrop=y",
+            "sourceUrl": "https://www.cnbc.com/2026/08/20/us-japan-yen-intervention-bank-of-japan-carry-trade.html"
+          }
+        ],
+        "generatedAt": "2026-08-21T04:21:46.319Z"
+      },
+      {
+        "id": "draft-real-cnbc-world-rss-16dmh1i",
+        "title": "CFTC 创新咨询委员会会议讨论新兴预测市场风险",
+        "oneLine": "政策变化：根据《商品交易法》，预测市场平台可以在未经 CFTC 事先批准的情况下提出、提交和认证事件合约。",
+        "importance": "B",
+        "credibility": "待确认",
+        "tags": [
+          "B",
+          "industry",
+          "world",
+          "policy",
+          "finance"
+        ],
+        "industries": [
+          "generalPublic",
+          "financeInvestment",
+          "operationsGrowth",
+          "ecommerceRetail"
+        ],
+        "section": "industry",
+        "body": {
+          "background": "商品期货交易委员会的第一次创新咨询委员会会议于周四召开，讨论预测市场监管的最新情况，包括对平台上“提及市场”日益增长的担忧。该委员会由 30 多名成员组成，其中包括来自 Robinhood、纳斯达克和 CME 的高层人士。周四会议上出现的主要担忧包括事件合约的自我认证，以及“提及市场”——交易者根据演讲或财报电话会议中使用的某些词语进行推测的合约——以及它们对操纵的敏感性。",
+          "keyProgress": "CFTC 主席迈克尔·塞利格 (Michael Selig) 是该联邦机构通常由五名成员组成的委员会中的唯一官员，他表示，该委员会的作用是为 CFTC 加强市场监管的决策提供意见。该小组首先讨论了加密货币和人工智能的监管格局，但最激烈的讨论围绕预测市场。Polymarket 的首席执行官兼创始人 Shayne Coplan 和 Kalshi 的联合创始人 Luana Lopes Lara 也出席了这场大约三个小时的会议。委员会成员还讨论了预测市场的监管路线图。",
+          "whyItMatters": "“CFTC 创新咨询委员会会议讨论新兴预测市场风险”如果继续发展，可能通过能源价格、航运、贸易、汇率或市场预期传导到国内。了解它的意义在于判断后续风险，而不只停留在事件本身。",
+          "userRelevance": "即使你不在事发地区，“CFTC 创新咨询委员会会议讨论新兴预测市场风险”也可能通过能源价格、国际航运、贸易成本和市场预期间接影响国内生活与工作判断。",
+          "whatToWatch": "接下来要看“CFTC 创新咨询委员会会议讨论新兴预测市场风险”是否出现更细的城市、行业、平台或企业数据，以及这一变化能否连续保持。"
+        },
+        "sourceLinks": [
+          {
+            "title": "CNBC World News RSS",
+            "url": "https://www.cnbc.com/2026/08/20/cftcs-committee-meeting-addresses-prediction-market-risks.html",
+            "sourceId": "cnbc-world-rss",
+            "publishedAt": "2026-08-21T00:45:58.000Z",
+            "language": "zh",
+            "originalLanguage": "en",
+            "translationStatus": "translated",
+            "fetchedAt": "2026-08-21T04:21:57.498Z",
+            "sourceMethod": "rss",
+            "verificationStatus": "pending"
+          }
+        ],
+        "images": [],
+        "generatedAt": "2026-08-21T04:21:46.319Z"
+      },
+      {
+        "id": "draft-real-un-news-rss-80p3ak",
+        "title": "人权调查警告称，随着选举临近，南苏丹面临新的暴行犯罪风险",
+        "oneLine": "最新进展：人权调查警告称，随着选举临近，南苏丹面临新的暴行犯罪风险。",
+        "importance": "B",
+        "credibility": "官方来源",
+        "tags": [
+          "B",
+          "mustKnow",
+          "world"
+        ],
+        "industries": [
+          "generalPublic"
+        ],
+        "section": "front",
+        "body": {
+          "background": "暴行犯罪正在汇聚防止南苏丹再次出现 2013 年至 2018 年期间遭受的暴行和流离失所规模的窗口正在关闭，但尚未完全关闭。”并指出，在没有基本保障的情况下“仓促举行选举”可能会加深现有冲突，并增加发生种族灭绝罪、反人类罪、战争罪和种族清洗等暴行罪的风险。如今，该协议的几乎一半关键条款尚未得到实施，包括统一该国安全部队。",
+          "keyProgress": "这一警告是在该国上尼罗州、琼莱州和团结州等多个地区重新爆发武装冲突之际发出的，西赤道州和中赤道州也出现了冲突和平民死亡。2025年8月至2026年1月期间，共记录了407起违反停火事件。该委员会表示：“独立十五年后，南苏丹正处于最危险的时刻之一。2018年，该国交战各方承诺达成一项重振和平协议（《解决南苏丹冲突重振协议》（R-ARCSS）。",
+          "whyItMatters": "“人权调查警告称，随着选举临近，南苏丹面临新的暴行犯罪风险”如果继续发展，可能通过能源价格、航运、贸易、汇率或市场预期传导到国内。了解它的意义在于判断后续风险，而不只停留在事件本身。",
+          "userRelevance": "即使你不在南苏丹，“人权调查警告称，随着选举临近，南苏丹面临新的暴行犯罪风险”也可能通过能源价格、国际航运、贸易成本和市场预期间接影响国内生活与工作判断。",
+          "whatToWatch": "接下来要看“人权调查警告称，随着选举临近，南苏丹面临新的暴行犯罪风险”是否出现新的官方信息、后续行动，以及它与中国出行、贸易或公共判断的关联是否扩大。"
+        },
+        "sourceLinks": [
+          {
+            "title": "联合国新闻 RSS",
+            "url": "https://news.un.org/feed/view/en/story/2026/08/1168173",
+            "sourceId": "un-news-rss",
+            "publishedAt": "2026-08-20T12:00:00.000Z",
+            "language": "zh",
+            "originalLanguage": "en",
+            "translationStatus": "translated",
+            "fetchedAt": "2026-08-20T23:37:40.895Z",
+            "sourceMethod": "rss",
+            "verificationStatus": "confirmed"
+          }
+        ],
+        "images": [
+          {
+            "url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/06/03-06-2026_UNMISS_South_Sudan_Ezo.jpg/image560x340cropped.jpg",
+            "sourceUrl": "https://news.un.org/feed/view/en/story/2026/08/1168173"
+          }
+        ],
         "generatedAt": "2026-08-20T23:37:34.232Z"
       },
       {
@@ -452,47 +773,47 @@
         "generatedAt": "2026-08-20T23:37:34.232Z"
       },
       {
-        "id": "draft-real-un-news-rss-80p3ak",
-        "title": "人权调查警告称，随着选举临近，南苏丹面临新的暴行犯罪风险",
-        "oneLine": "最新进展：人权调查警告称，随着选举临近，南苏丹面临新的暴行犯罪风险。",
+        "id": "draft-real-xinhua-world-1tkcaw1",
+        "title": "中国代表：团结合作应始终作为安理会最核心工作方法",
+        "oneLine": "政策变化：中国常驻联合国代表傅聪19日在安理会工作方法问题公开辩论会上发言，强调团结合作应始终作为安理会最核心的工作方法。",
         "importance": "B",
-        "credibility": "官方来源",
+        "credibility": "主流媒体",
         "tags": [
           "B",
           "mustKnow",
-          "world"
+          "industry",
+          "world",
+          "policy"
         ],
         "industries": [
-          "generalPublic"
+          "generalPublic",
+          "financeInvestment",
+          "operationsGrowth",
+          "contentCreator"
         ],
         "section": "front",
         "body": {
-          "background": "暴行犯罪正在汇聚防止南苏丹再次出现 2013 年至 2018 年期间遭受的暴行和流离失所规模的窗口正在关闭，但尚未完全关闭。”并指出，在没有基本保障的情况下“仓促举行选举”可能会加深现有冲突，并增加发生种族灭绝罪、反人类罪、战争罪和种族清洗等暴行罪的风险。如今，该协议的几乎一半关键条款尚未得到实施，包括统一该国安全部队。",
-          "keyProgress": "这一警告是在该国上尼罗州、琼莱州和团结州等多个地区重新爆发武装冲突之际发出的，西赤道州和中赤道州也出现了冲突和平民死亡。2025年8月至2026年1月期间，共记录了407起违反停火事件。该委员会表示：“独立十五年后，南苏丹正处于最危险的时刻之一。2018年，该国交战各方承诺达成一项重振和平协议（《解决南苏丹冲突重振协议》（R-ARCSS）。",
-          "whyItMatters": "“人权调查警告称，随着选举临近，南苏丹面临新的暴行犯罪风险”如果继续发展，可能通过能源价格、航运、贸易、汇率或市场预期传导到国内。了解它的意义在于判断后续风险，而不只停留在事件本身。",
-          "userRelevance": "即使你不在南苏丹，“人权调查警告称，随着选举临近，南苏丹面临新的暴行犯罪风险”也可能通过能源价格、国际航运、贸易成本和市场预期间接影响国内生活与工作判断。",
-          "whatToWatch": "接下来要看“人权调查警告称，随着选举临近，南苏丹面临新的暴行犯罪风险”是否出现新的官方信息、后续行动，以及它与中国出行、贸易或公共判断的关联是否扩大。"
+          "background": "傅聪说，作为全球集体安全机制的核心，安理会能否有效履职关乎联合国权威和信誉，关乎国际和平与安全的前景。安理会工作方法从来不是简单的技术问题，需要从维护国际和平与安全的大局出发，不断改进和完善。团结合作是多边机制的活力之源，应始终作为安理会最核心的工作方法。",
+          "keyProgress": "中方愿继续同各方一道，坚持多边主义，加强团结合作，共同支持安理会改进工作方法、提高履职能力，为推动建设持久和平、共同安全的世界发挥更大作用。无论是实质性问题还是程序性事项，安理会成员都应相互尊重、充分协商，妥善管控分歧，全力寻求共识。傅聪表示，安理会要遵循《联合国宪章》第六章精神，为有关当事方对话谈判创造有利条件，支持地区国家和区域组织发挥斡旋调解作用，尽最大努力争取和平解决争端。要切实尊重当事国主权和主导权，谨慎使用制裁、动武等强制手段。",
+          "whyItMatters": "“中国代表：团结合作应始终作为安理会最核心工作方法”如果继续发展，可能通过能源价格、航运、贸易、汇率或市场预期传导到国内。了解它的意义在于判断后续风险，而不只停留在事件本身。",
+          "userRelevance": "即使你不在中国，“中国代表：团结合作应始终作为安理会最核心工作方法”也可能通过能源价格、国际航运、贸易成本和市场预期间接影响国内生活与工作判断。",
+          "whatToWatch": "接下来要看“中国代表：团结合作应始终作为安理会最核心工作方法”是否出现新的官方信息、后续行动，以及它与中国出行、贸易或公共判断的关联是否扩大。"
         },
         "sourceLinks": [
           {
-            "title": "联合国新闻 RSS",
-            "url": "https://news.un.org/feed/view/en/story/2026/08/1168173",
-            "sourceId": "un-news-rss",
-            "publishedAt": "2026-08-20T12:00:00.000Z",
+            "title": "新华网国际",
+            "url": "https://www.news.cn/world/20260820/0996cf2ec41f4515bfbe8ba5494ffff0/c.html",
+            "sourceId": "xinhua-world",
+            "publishedAt": "2026-08-20T00:00:00+08:00",
             "language": "zh",
-            "originalLanguage": "en",
-            "translationStatus": "translated",
-            "fetchedAt": "2026-08-20T23:37:40.895Z",
-            "sourceMethod": "rss",
+            "originalLanguage": "zh",
+            "translationStatus": "not-needed",
+            "fetchedAt": "2026-08-20T23:37:39.970Z",
+            "sourceMethod": "web",
             "verificationStatus": "confirmed"
           }
         ],
-        "images": [
-          {
-            "url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/06/03-06-2026_UNMISS_South_Sudan_Ezo.jpg/image560x340cropped.jpg",
-            "sourceUrl": "https://news.un.org/feed/view/en/story/2026/08/1168173"
-          }
-        ],
+        "images": [],
         "generatedAt": "2026-08-20T23:37:34.232Z"
       },
       {
@@ -588,149 +909,6 @@
             "sourceUrl": "https://www.gov.uk/government/news/how-we-protected-the-uk-and-space-in-july-2026"
           }
         ],
-        "generatedAt": "2026-08-20T23:37:34.232Z"
-      },
-      {
-        "id": "draft-real-xinhua-tech-15vxwd0",
-        "title": "上半年机器人产业规上企业营收达1655亿元 我国将打造一批智能机器人标志性产品",
-        "oneLine": "最新进展：上半年机器人产业规上企业营收达1655亿元 我国将打造一批智能机器人标志性产品。",
-        "importance": "B",
-        "credibility": "主流媒体",
-        "tags": [
-          "B",
-          "industry",
-          "technology",
-          "ai",
-          "product"
-        ],
-        "industries": [
-          "technologyEngineering",
-          "educationResearch",
-          "aiProduct",
-          "aiTechnology",
-          "productManagement",
-          "operationsGrowth"
-        ],
-        "section": "ai",
-        "body": {
-          "background": "聚焦核心零部件、具身智能等关键环节，打通产学研用创新链条，鼓励中外科研机构、企业开展联合攻关，打造一批先进、实用、易用的智能机器人标志性产品。同时深化应用联动，共同推动产业化进程，聚焦农业、医疗、养老、应急等应用空间广，示范效应强的重点行业，分类组织开展产用结对攻关，实地应用验证和成熟场景推广，以新场景大规模应用，加速新技术新产品迭代升级。中国电子学会理事长徐晓兰表示，具身智能产品正处在从“小批量试用”转向“大规模落地”的关键节点，未来需围绕核心零部件、软件算法、数据资源、整机制造和应用方案全链条，联合开展技术攻关，共建具身智能联合研发中心，积极开展大科学工程合作，聚焦柔性触觉传感器、精细操作灵巧手、世界模型等前沿技术，推进协同创新突破。",
-          "keyProgress": "今年上半年达到1655亿元，同比增长24.5%。下一步，工业和信息化部将以智能化为主线，推动机器人产业创新发展。透过大会可以看到，无论是工业、商业，还是家庭消费场景，不少企业更加重视机器人在真实场景下的商用交付，聚焦“智能化”关键词，机器人对物理世界的感知能力进一步增强。企业构建起“基座模型-世界模型-行动模型”的全栈式自研技术体系，其中在机器人基座模型上重点突破两大核心能力，一是机器人第一视角下的场景认知与任务规划能力，二是支撑物理交互的精准感知与空间理解能力。",
-          "whyItMatters": "“上半年机器人产业规上企业营收达1655亿元 我国将打造一批智能机器人标志性产品”能帮助你判断这项能力是否已经进入工程、产品或商业场景，并据此调整技术选型、产品规划、学习重点或职业判断。",
-          "userRelevance": "如果你从事技术研发、教育研究、AI 产品、AI 技术，可以重点判断“上半年机器人产业规上企业营收达1655亿元 我国将打造一批智能机器人标志性产品”是否已经具备产品落地、技术选型或业务合作价值。",
-          "whatToWatch": "接下来要看“上半年机器人产业规上企业营收达1655亿元 我国将打造一批智能机器人标志性产品”是否有更多可靠来源、量产或应用进展，以及它会不会从单点消息发展成持续趋势。"
-        },
-        "sourceLinks": [
-          {
-            "title": "新华网科技",
-            "url": "https://www.news.cn/tech/20260820/36a420de7f134c359bde1f2f9c94ee9d/c.html",
-            "sourceId": "xinhua-tech",
-            "publishedAt": "2026-08-20T00:00:00+08:00",
-            "language": "zh",
-            "originalLanguage": "zh",
-            "translationStatus": "not-needed",
-            "fetchedAt": "2026-08-20T23:37:40.037Z",
-            "sourceMethod": "web",
-            "verificationStatus": "confirmed"
-          }
-        ],
-        "images": [
-          {
-            "url": "https://www.news.cn/tech/20260820/36a420de7f134c359bde1f2f9c94ee9d/2026082036a420de7f134c359bde1f2f9c94ee9d_20260820896403bf4b15496cb24eeaa9b54a656a.jpg",
-            "sourceUrl": "https://www.news.cn/tech/20260820/36a420de7f134c359bde1f2f9c94ee9d/c.html"
-          }
-        ],
-        "generatedAt": "2026-08-20T23:37:34.232Z"
-      },
-      {
-        "id": "draft-real-xinhua-tech-m3ures",
-        "title": "“AI脸”惹人厌责任不在AI",
-        "oneLine": "趋势信号：随着人工智能（AI）短剧赛道迅速升温，一张张如同复制粘贴的“AI脸”逐渐引起观众反感。",
-        "importance": "B",
-        "credibility": "主流媒体",
-        "tags": [
-          "B",
-          "industry",
-          "technology",
-          "ai",
-          "product"
-        ],
-        "industries": [
-          "technologyEngineering",
-          "educationResearch",
-          "aiProduct",
-          "aiTechnology",
-          "productManagement",
-          "operationsGrowth"
-        ],
-        "section": "ai",
-        "body": {
-          "background": "近日，抖音集团红果短剧发布《关于规范AI剧角色创作的公告》，明确提出整治AI角色同质化问题，杜绝流水线量产的雷同人脸。中国网络视听节目服务协会数据显示：2026年春节档，AI剧上线量是真人剧的50倍，但总播放量却只是其二十五分之一。AI短剧数量迎来迅速增长，播放量却遭遇断崖式下跌，这也印证了观众正在用脚投票，对千篇一律的“AI脸”说不。",
-          "keyProgress": "大眼睛、高鼻梁、尖下巴，千人一面的“AI脸”五官虽美，但空洞的眼神、僵硬的表情，让一些观众触发“恐怖谷效应”，也极易引起视觉疲劳。“AI脸”千人一面不该归咎于AI技术。客观说，AI技术提升了微短剧的生产效率、降低了制作成本，极大丰富了内容供给，未来也必将在行业发展中扮演越来越重要的角色。问题在于，一些内容生产者不能善用AI技术这把“双刃剑”，不是借助它为内容增色添彩、提升生产质效，而是将其当作实现快速盈利的捷径，为追逐短期利益而牺牲内容品质，使用免费开源通用数字人模型批量生产高度雷同的“AI脸”。",
-          "whyItMatters": "“AI脸惹人厌责任不在AI”能帮助你判断这项能力是否已经进入工程、产品或商业场景，并据此调整技术选型、产品规划、学习重点或职业判断。",
-          "userRelevance": "如果你从事技术研发、教育研究、AI 产品、AI 技术，可以重点判断“AI脸惹人厌责任不在AI”是否已经具备产品落地、技术选型或业务合作价值。",
-          "whatToWatch": "接下来要看“AI脸惹人厌责任不在AI”是否有更多可靠来源、量产或应用进展，以及它会不会从单点消息发展成持续趋势。"
-        },
-        "sourceLinks": [
-          {
-            "title": "新华网科技",
-            "url": "https://www.news.cn/tech/20260820/0ad9b27ad4bd4df58dcfce81f666677d/c.html",
-            "sourceId": "xinhua-tech",
-            "publishedAt": "2026-08-20T00:00:00+08:00",
-            "language": "zh",
-            "originalLanguage": "zh",
-            "translationStatus": "not-needed",
-            "fetchedAt": "2026-08-20T23:37:40.037Z",
-            "sourceMethod": "web",
-            "verificationStatus": "confirmed"
-          }
-        ],
-        "images": [],
-        "generatedAt": "2026-08-20T23:37:34.232Z"
-      },
-      {
-        "id": "draft-real-xinhua-tech-1s1mjtu",
-        "title": "抢占人工智能产业应用制高点",
-        "oneLine": "趋势信号：一段时间以来，北京、上海、深圳等地积极采取举措，因地制宜，推动人工智能产业发展。",
-        "importance": "B",
-        "credibility": "主流媒体",
-        "tags": [
-          "B",
-          "industry",
-          "technology",
-          "ai",
-          "product"
-        ],
-        "industries": [
-          "technologyEngineering",
-          "educationResearch",
-          "aiProduct",
-          "aiTechnology",
-          "productManagement",
-          "operationsGrowth"
-        ],
-        "section": "ai",
-        "body": {
-          "background": "推动政府部门与国企央企率先发布需求清单，引导社会力量参与场景建设；数据显示，2025年我国人工智能相关产业规模超过万亿元，2026年预计增速超30%，在生产、服务、民生和政务四大领域已初步形成商业化规模化应用体系。在生产领域，人工智能加速驱动制造业全链条智能化变革。",
-          "keyProgress": "在服务领域，人工智能推动服务从精准化向自主性跃升。比如，蚂蚁集团推出的灵波机器人智慧药房与外卖平台打通链接，根据用户订单进行自主规划和分工，将决策转化为不同机器人可以执行的动作，识别药品及其位置，理解货架、人员和设备的空间关系，连续完成接单、取货和交付。在政务领域，人工智能推动治理逻辑从“管理本位”向“服务本位”转变。比如，深圳市教育局建设教师职称智能评审助手，以智能化手段辅助人才评价；",
-          "whyItMatters": "“抢占人工智能产业应用制高点”能帮助你判断这项能力是否已经进入工程、产品或商业场景，并据此调整技术选型、产品规划、学习重点或职业判断。",
-          "userRelevance": "如果你从事技术研发、教育研究、AI 产品、AI 技术，可以重点判断“抢占人工智能产业应用制高点”是否已经具备产品落地、技术选型或业务合作价值。",
-          "whatToWatch": "接下来要看“抢占人工智能产业应用制高点”是否有更多可靠来源、量产或应用进展，以及它会不会从单点消息发展成持续趋势。"
-        },
-        "sourceLinks": [
-          {
-            "title": "新华网科技",
-            "url": "https://www.news.cn/tech/20260820/a3bd93dc243f4c0d96ca9213b48e4347/c.html",
-            "sourceId": "xinhua-tech",
-            "publishedAt": "2026-08-20T00:00:00+08:00",
-            "language": "zh",
-            "originalLanguage": "zh",
-            "translationStatus": "not-needed",
-            "fetchedAt": "2026-08-20T23:37:40.037Z",
-            "sourceMethod": "web",
-            "verificationStatus": "confirmed"
-          }
-        ],
-        "images": [],
         "generatedAt": "2026-08-20T23:37:34.232Z"
       },
       {
@@ -967,44 +1145,102 @@
         ],
         "images": [],
         "generatedAt": "2026-08-20T23:37:34.232Z"
+      },
+      {
+        "id": "draft-real-xinhua-tech-15vxwd0",
+        "title": "上半年机器人产业规上企业营收达1655亿元 我国将打造一批智能机器人标志性产品",
+        "oneLine": "最新进展：上半年机器人产业规上企业营收达1655亿元 我国将打造一批智能机器人标志性产品。",
+        "importance": "B",
+        "credibility": "主流媒体",
+        "tags": [
+          "B",
+          "industry",
+          "technology",
+          "ai",
+          "product"
+        ],
+        "industries": [
+          "technologyEngineering",
+          "educationResearch",
+          "aiProduct",
+          "aiTechnology",
+          "productManagement",
+          "operationsGrowth"
+        ],
+        "section": "ai",
+        "body": {
+          "background": "聚焦核心零部件、具身智能等关键环节，打通产学研用创新链条，鼓励中外科研机构、企业开展联合攻关，打造一批先进、实用、易用的智能机器人标志性产品。同时深化应用联动，共同推动产业化进程，聚焦农业、医疗、养老、应急等应用空间广，示范效应强的重点行业，分类组织开展产用结对攻关，实地应用验证和成熟场景推广，以新场景大规模应用，加速新技术新产品迭代升级。中国电子学会理事长徐晓兰表示，具身智能产品正处在从“小批量试用”转向“大规模落地”的关键节点，未来需围绕核心零部件、软件算法、数据资源、整机制造和应用方案全链条，联合开展技术攻关，共建具身智能联合研发中心，积极开展大科学工程合作，聚焦柔性触觉传感器、精细操作灵巧手、世界模型等前沿技术，推进协同创新突破。",
+          "keyProgress": "今年上半年达到1655亿元，同比增长24.5%。下一步，工业和信息化部将以智能化为主线，推动机器人产业创新发展。透过大会可以看到，无论是工业、商业，还是家庭消费场景，不少企业更加重视机器人在真实场景下的商用交付，聚焦“智能化”关键词，机器人对物理世界的感知能力进一步增强。企业构建起“基座模型-世界模型-行动模型”的全栈式自研技术体系，其中在机器人基座模型上重点突破两大核心能力，一是机器人第一视角下的场景认知与任务规划能力，二是支撑物理交互的精准感知与空间理解能力。",
+          "whyItMatters": "“上半年机器人产业规上企业营收达1655亿元 我国将打造一批智能机器人标志性产品”能帮助你判断这项能力是否已经进入工程、产品或商业场景，并据此调整技术选型、产品规划、学习重点或职业判断。",
+          "userRelevance": "如果你从事技术研发、教育研究、AI 产品、AI 技术，可以重点判断“上半年机器人产业规上企业营收达1655亿元 我国将打造一批智能机器人标志性产品”是否已经具备产品落地、技术选型或业务合作价值。",
+          "whatToWatch": "接下来要看“上半年机器人产业规上企业营收达1655亿元 我国将打造一批智能机器人标志性产品”是否有更多可靠来源、量产或应用进展，以及它会不会从单点消息发展成持续趋势。"
+        },
+        "sourceLinks": [
+          {
+            "title": "新华网科技",
+            "url": "https://www.news.cn/tech/20260820/36a420de7f134c359bde1f2f9c94ee9d/c.html",
+            "sourceId": "xinhua-tech",
+            "publishedAt": "2026-08-20T00:00:00+08:00",
+            "language": "zh",
+            "originalLanguage": "zh",
+            "translationStatus": "not-needed",
+            "fetchedAt": "2026-08-20T23:37:40.037Z",
+            "sourceMethod": "web",
+            "verificationStatus": "confirmed"
+          }
+        ],
+        "images": [
+          {
+            "url": "https://www.news.cn/tech/20260820/36a420de7f134c359bde1f2f9c94ee9d/2026082036a420de7f134c359bde1f2f9c94ee9d_20260820896403bf4b15496cb24eeaa9b54a656a.jpg",
+            "sourceUrl": "https://www.news.cn/tech/20260820/36a420de7f134c359bde1f2f9c94ee9d/c.html"
+          }
+        ],
+        "generatedAt": "2026-08-20T23:37:34.232Z"
       }
     ],
-    "estimatedReadMinutes": 30,
+    "estimatedReadMinutes": 38,
     "pageCount": 3,
-    "topCardId": "draft-real-cnbc-world-rss-10klhgj",
-    "generatedAt": "2026-08-20T23:37:34.232Z",
+    "topCardId": "draft-real-cnbc-world-rss-1tti74m",
+    "generatedAt": "2026-08-21T04:21:46.319Z",
     "pushSlots": [
       "08:30",
       "12:30",
       "21:30"
     ],
-    "edition": "morning",
-    "editionLabel": "晨报",
+    "edition": "midday",
+    "editionLabel": "午间更新",
     "coverageWindow": {
-      "start": "2026-08-20T07:10:00+08:00",
-      "end": "2026-08-21T07:10:00+08:00"
+      "start": "2026-08-21T07:10:00+08:00",
+      "end": "2026-08-21T12:10:00+08:00"
     },
+    "basedOnGeneratedAt": "2026-08-20T23:37:34.232Z",
     "editionCardIds": [
-      "draft-real-cnbc-world-rss-10klhgj",
+      "draft-real-cnbc-world-rss-1rit1bo",
+      "draft-real-cnbc-world-rss-pe0yhh",
+      "draft-real-techcrunch-ai-rss-1y369ky",
+      "draft-real-cnbc-world-rss-1tnvhtv",
+      "draft-real-cnbc-world-rss-wpbr03",
+      "draft-real-cnbc-world-rss-9uuabt",
+      "draft-real-cnbc-world-rss-16dmh1i"
+    ],
+    "carriedCardIds": [
       "draft-real-cnbc-world-rss-1tti74m",
+      "draft-real-cnbc-world-rss-10klhgj",
       "draft-real-cnbc-world-rss-1h2xwxp",
       "draft-cluster-real-mofcom-trade-1lc3pd4",
-      "draft-cluster-real-npr-world-rss-1rg3x3o",
       "draft-real-npr-world-rss-13fkkld",
+      "draft-cluster-real-npr-world-rss-1rg3x3o",
       "draft-real-gov-uk-news-1bsu1kn",
-      "draft-real-xinhua-world-1tkcaw1",
-      "draft-real-cnbc-world-rss-96hj5g",
       "draft-real-un-news-rss-80p3ak",
+      "draft-real-cnbc-world-rss-96hj5g",
+      "draft-real-xinhua-world-1tkcaw1",
       "draft-cluster-real-gov-uk-news-1mqueb1",
-      "draft-real-xinhua-tech-15vxwd0",
-      "draft-real-xinhua-tech-m3ures",
-      "draft-real-xinhua-tech-1s1mjtu",
       "draft-real-techcrunch-ai-rss-1oghl94",
       "draft-real-techcrunch-ai-rss-11oudz0",
       "draft-real-techcrunch-ai-rss-p4jhj7",
       "draft-real-techcrunch-ai-rss-6lwbv9",
-      "draft-real-theverge-ai-rss-1i8l0df"
-    ],
-    "carriedCardIds": []
+      "draft-real-theverge-ai-rss-1i8l0df",
+      "draft-real-xinhua-tech-15vxwd0"
+    ]
   }
 }

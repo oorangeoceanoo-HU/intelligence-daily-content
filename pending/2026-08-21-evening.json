@@ -1,0 +1,1250 @@
+{
+  "schemaVersion": 2,
+  "publishedAt": "2026-08-21T13:29:22.747Z",
+  "issue": {
+    "id": "daily-public-2026-08-21",
+    "date": "2026-08-21",
+    "userId": "public",
+    "cards": [
+      {
+        "id": "draft-real-cnbc-world-rss-13qonwh",
+        "title": "随着特朗普关税最后期限的临近，美国和加拿大即将达成最终贸易协议",
+        "oneLine": "政策变化：美国和加拿大尚未宣布最终贸易协议，该协议将使唐纳德·特朗普总统对曲棍球棒、葡萄酒和其他加拿大商品的新关税在周六凌晨生效。",
+        "importance": "S",
+        "credibility": "待确认",
+        "tags": [
+          "S",
+          "mustKnow",
+          "industry",
+          "world",
+          "policy",
+          "finance"
+        ],
+        "industries": [
+          "generalPublic",
+          "financeInvestment",
+          "operationsGrowth",
+          "ecommerceRetail"
+        ],
+        "section": "front",
+        "body": {
+          "background": "50%的报复性关税最初定于周三开始实施，直到特朗普在Truth Social的最后一刻发帖表示，他将推迟三天，以便华盛顿和渥太华能够敲定一项暂定协议。特朗普的帖子表明该协议已基本完成，“以文件最终确定为准”。但周三和周四在华盛顿举行的额外几轮谈判中，贸易官员尚未达成最终协议。",
+          "keyProgress": "据我们所知，到目前为止，阿联酋在导弹袭击事件后切断了与伊朗的贸易，乌克兰前国防部长泽连斯基面临战时选举的呼吁，美国推动盟友增加国防开支可能意味着……“我们非常接近，”加拿大-美国贸易部长多米尼克·勒布朗周四下午告诉记者。“我们继续取得进展，我们将留在这里并做必要的工作，直到我们到达这一点。”勒布朗指出，加拿大谈判代表贾尼丝·沙雷特仍在与美国贸易代表杰米森·格里尔和其他特朗普政府官员进行谈判。",
+          "whyItMatters": "“随着特朗普关税最后期限的临近，美国和加拿大即将达成最终贸易协议”如果继续发展，可能通过能源价格、航运、贸易、汇率或市场预期传导到国内。了解它的意义在于判断后续风险，而不只停留在事件本身。",
+          "userRelevance": "即使你不在美国，“随着特朗普关税最后期限的临近，美国和加拿大即将达成最终贸易协议”也可能通过能源价格、国际航运、贸易成本和市场预期间接影响国内生活与工作判断。",
+          "whatToWatch": "接下来要看“随着特朗普关税最后期限的临近，美国和加拿大即将达成最终贸易协议”是否出现更细的城市、行业、平台或企业数据，以及这一变化能否连续保持。"
+        },
+        "sourceLinks": [
+          {
+            "title": "CNBC World News RSS",
+            "url": "https://www.cnbc.com/2026/08/21/trump-canada-tariffs-trade-deal-deadline.html",
+            "sourceId": "cnbc-world-rss",
+            "publishedAt": "2026-08-21T12:17:29.000Z",
+            "language": "zh",
+            "originalLanguage": "en",
+            "translationStatus": "translated",
+            "fetchedAt": "2026-08-21T13:29:31.306Z",
+            "sourceMethod": "rss",
+            "verificationStatus": "pending"
+          }
+        ],
+        "images": [],
+        "generatedAt": "2026-08-21T13:29:22.747Z"
+      },
+      {
+        "id": "draft-real-cnbc-world-rss-slzueh",
+        "title": "由于美国誓言加大对伊朗的经济压力，油价将连续第二周上涨",
+        "oneLine": "政策变化：在这篇文章中，随着霍尔木兹海峡迅速重新开放的希望继续消退，周五油价连续第二周上涨。",
+        "importance": "S",
+        "credibility": "待确认",
+        "tags": [
+          "S",
+          "mustKnow",
+          "industry",
+          "world",
+          "policy",
+          "finance"
+        ],
+        "industries": [
+          "generalPublic",
+          "financeInvestment",
+          "operationsGrowth",
+          "ecommerceRetail"
+        ],
+        "section": "front",
+        "body": {
+          "background": "贝森特还告诉 CNBC，他不知道为什么总统发表评论后原油价格上涨，因为“最大的经济压力”意味着“可能”不会再次发生大规模军事袭击。” “但成品油感受到了更大的压力，由于担心供应迅速短缺、需求持续和库存缓冲薄弱，柴油裂解价创下历史新高。” “虽然布伦特原油价格可能会根据所概述的情况而大幅波动，但我们预计产品市场将受到更重大的影响，炼油厂的限制和能源安全问题将导致产品裂缝和利润率上升。",
+          "keyProgress": "美国财政部长斯科特·贝森特周四对 CNBC 表示，华盛顿将对伊朗实施“历史上最严厉的制裁”，这与唐纳德·特朗普总统周三发出的“毁灭性”经济行动的威胁相呼应。Rystad Energy 石油市场分析副总裁贾尼夫·沙阿 (Janiv Shah) 周五对 CNBC 表示：“由于冲突没有显示出许多通过外交取得进展的迹象，石油市场再次消化了外交失败的影响。布伦特原油期货上涨 18 美分，至每桶 93.96 美元。美国西德克萨斯中质原油期货上涨 11 美分，至每桶 86.94 美元。",
+          "whyItMatters": "“由于美国誓言加大对伊朗的经济压力，油价将连续第二周上涨”如果继续发展，可能通过能源价格、航运、贸易、汇率或市场预期传导到国内。了解它的意义在于判断后续风险，而不只停留在事件本身。",
+          "userRelevance": "即使你不在美国、伊朗，“由于美国誓言加大对伊朗的经济压力，油价将连续第二周上涨”也可能通过能源价格、国际航运、贸易成本和市场预期间接影响国内生活与工作判断。",
+          "whatToWatch": "接下来要看“由于美国誓言加大对伊朗的经济压力，油价将连续第二周上涨”是否出现更细的城市、行业、平台或企业数据，以及这一变化能否连续保持。"
+        },
+        "sourceLinks": [
+          {
+            "title": "CNBC World News RSS",
+            "url": "https://www.cnbc.com/2026/08/21/oil-prices-us-iran.html",
+            "sourceId": "cnbc-world-rss",
+            "publishedAt": "2026-08-21T12:07:32.000Z",
+            "language": "zh",
+            "originalLanguage": "en",
+            "translationStatus": "translated",
+            "fetchedAt": "2026-08-21T13:29:31.306Z",
+            "sourceMethod": "rss",
+            "verificationStatus": "pending"
+          }
+        ],
+        "images": [
+          {
+            "url": "https://image.cnbcfm.com/api/v1/image/108352200-17872393601787239357-47882405682-1080pnbcnews.jpg?v=1787239359&amp;w=750&amp;h=422&amp;vtcrop=y",
+            "sourceUrl": "https://www.cnbc.com/2026/08/21/oil-prices-us-iran.html"
+          },
+          {
+            "url": "https://image.cnbcfm.com/api/v1/image/108351428-4ED1-MC-081926-Morgan.jpg?v=1787137950&amp;w=750&amp;h=422&amp;vtcrop=y",
+            "sourceUrl": "https://www.cnbc.com/2026/08/21/oil-prices-us-iran.html"
+          }
+        ],
+        "generatedAt": "2026-08-21T13:29:22.747Z"
+      },
+      {
+        "id": "draft-real-npr-world-rss-1rr8e5u",
+        "title": "伊朗高级官员表示，美国对经济战的关注表明它在军事上失败了",
+        "oneLine": "政策变化：伊朗政权驳回了特朗普总统在经济上摧毁该国的威胁，称美国多年的制裁已经失败。",
+        "importance": "S",
+        "credibility": "主流媒体",
+        "tags": [
+          "S",
+          "mustKnow",
+          "industry",
+          "world",
+          "policy",
+          "finance"
+        ],
+        "industries": [
+          "generalPublic",
+          "financeInvestment",
+          "operationsGrowth",
+          "ecommerceRetail"
+        ],
+        "section": "front",
+        "body": {
+          "background": "美国财政部长斯科特·贝森特周四在接受 CNBC 采访时补充道，伊朗将面临“世界历史上最严重的协调性经济孤立”。周五，伊朗议会议长、该国与美国的主要谈判代表穆罕默德·巴克尔·卡利巴夫表示，特朗普的“经济诺曼底登陆”威胁表明华盛顿无法在军事上取得胜利。他在访问邻国伊拉克时表示：“美国人和以色列人已经意识到，他们无法在硬军事战争领域对付伊朗，因此他们进入了一场认知战和经济战。",
+          "keyProgress": "美国已经对伊朗实施了广泛的制裁，这使得与西方国家的许多国际贸易变得不可能，并且在六月份，美国还打击了购买伊朗石油的炼油厂和企业。现在，财政部长斯科特·贝森特威胁要对与伊朗有业务往来的国家（而不仅仅是商业实体）实施更多二级制裁。”伊朗外交部长阿巴斯·阿拉格奇也谴责特朗普宣布转向经济战，称其为“经济恐怖主义”，旨在转移人们对美国经济问题的注意力。他在社交媒体帖子中表示，加倍推行失败的美国政策将进一步加剧反美情绪。",
+          "whyItMatters": "“伊朗高级官员表示，美国对经济战的关注表明它在军事上失败了”如果继续发展，可能通过能源价格、航运、贸易、汇率或市场预期传导到国内。了解它的意义在于判断后续风险，而不只停留在事件本身。",
+          "userRelevance": "即使你不在美国、伊朗，“伊朗高级官员表示，美国对经济战的关注表明它在军事上失败了”也可能通过能源价格、国际航运、贸易成本和市场预期间接影响国内生活与工作判断。",
+          "whatToWatch": "接下来要看“伊朗高级官员表示，美国对经济战的关注表明它在军事上失败了”是否出现更细的城市、行业、平台或企业数据，以及这一变化能否连续保持。"
+        },
+        "sourceLinks": [
+          {
+            "title": "NPR World RSS",
+            "url": "https://www.npr.org/2026/08/21/nx-s1-5940610/iran-us-threat-economic-warfare",
+            "sourceId": "npr-world-rss",
+            "publishedAt": "2026-08-21T11:42:10.000Z",
+            "language": "zh",
+            "originalLanguage": "en",
+            "translationStatus": "translated",
+            "fetchedAt": "2026-08-21T13:29:30.939Z",
+            "sourceMethod": "rss",
+            "verificationStatus": "confirmed"
+          }
+        ],
+        "images": [
+          {
+            "url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6000x4000+0+0/resize/1100/quality/50/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fce%2F1d%2Fd4b7c00c49eb8088a4e7decd6ac0%2Fap26232551199754.jpg",
+            "sourceUrl": "https://www.npr.org/2026/08/21/nx-s1-5940610/iran-us-threat-economic-warfare"
+          }
+        ],
+        "generatedAt": "2026-08-21T13:29:22.747Z"
+      },
+      {
+        "id": "draft-real-cnbc-world-rss-1tti74m",
+        "title": "特朗普称伊朗经济正在崩溃。德黑兰前央行顾问反驳",
+        "oneLine": "政策变化：伊朗央行前顾问反驳了美国总统唐纳德·特朗普关于伊朗正处于经济崩溃边缘的说法，但警告称，阿联酋切断贸易关系的决定可能会使伊朗今年的经济萎缩加深至约5%。",
+        "importance": "S",
+        "credibility": "待确认",
+        "tags": [
+          "S",
+          "mustKnow",
+          "industry",
+          "world",
+          "policy",
+          "finance"
+        ],
+        "industries": [
+          "generalPublic",
+          "financeInvestment",
+          "operationsGrowth",
+          "ecommerceRetail"
+        ],
+        "section": "front",
+        "body": {
+          "background": "他补充说：“尽管银行体系严重失衡，甚至遭受严重的网络攻击，但公众对银行体系的信心并未崩溃，我们没有看到任何大规模的银行挤兑。伊朗中央银行前经济顾问迈赫达·塞帕万德 (Mehrdad Sepahvand) 周四在“进入中东”节目中对 CNBC 的丹·墨菲 (Dan Murphy) 表示：“我们应该对伊朗经济正处于崩溃边缘的观点持谨慎态度。”在他发表上述言论的几个小时前，特朗普誓言对伊朗进行“前所未有的经济战争和孤立”，并宣称停火谈判破裂后，该政权“命悬一线”。",
+          "keyProgress": "这一声明延续了特朗普政府自四月份以来以“经济愤怒行动”为旗帜发起的施压行动，旨在切断该政权所谓的全球恐怖融资和收入来源。据世界银行称，截至 3 月份的一年中，伊朗的国内生产总值估计收缩了 2.7%，理由是去年广泛的抗议活动和该地区敌对行动加剧造成了经济混乱。根据世界银行的数据，2 月份通货膨胀率飙升至 62.2%，其中食品价格通胀率达到 99% 的历史高位。据《纽约时报》报道，一名伊朗官员估计，这场战争已导致 100 万个工作岗位流失。",
+          "whyItMatters": "“特朗普称伊朗经济正在崩溃。德黑兰前央行顾问反驳”如果继续发展，可能通过能源价格、航运、贸易、汇率或市场预期传导到国内。了解它的意义在于判断后续风险，而不只停留在事件本身。",
+          "userRelevance": "即使你不在伊朗，“特朗普称伊朗经济正在崩溃。德黑兰前央行顾问反驳”也可能通过能源价格、国际航运、贸易成本和市场预期间接影响国内生活与工作判断。",
+          "whatToWatch": "接下来要看“特朗普称伊朗经济正在崩溃。德黑兰前央行顾问反驳”是否出现更细的城市、行业、平台或企业数据，以及这一变化能否连续保持。"
+        },
+        "sourceLinks": [
+          {
+            "title": "CNBC World News RSS",
+            "url": "https://www.cnbc.com/2026/08/20/iran-economy-worries-trump-sanction-war-hormuz-uae-.html",
+            "sourceId": "cnbc-world-rss",
+            "publishedAt": "2026-08-20T18:20:58.000Z",
+            "language": "zh",
+            "originalLanguage": "en",
+            "translationStatus": "translated",
+            "fetchedAt": "2026-08-20T23:37:40.965Z",
+            "sourceMethod": "rss",
+            "verificationStatus": "pending"
+          }
+        ],
+        "images": [],
+        "generatedAt": "2026-08-20T23:37:34.232Z"
+      },
+      {
+        "id": "draft-real-cnbc-world-rss-10klhgj",
+        "title": "贝森特表示，随着经济压力的加大，美国可能不会重启大规模的伊朗战斗",
+        "oneLine": "政策变化：美国财政部长斯科特·贝森特 (Scott Bessent) 周四对 CNBC 表示，特朗普政府打击伊朗经济的计划可能会导致美国不再需要对伊朗采取大规模军事行动。",
+        "importance": "S",
+        "credibility": "待确认",
+        "tags": [
+          "S",
+          "mustKnow",
+          "industry",
+          "world",
+          "policy",
+          "finance"
+        ],
+        "industries": [
+          "generalPublic",
+          "financeInvestment",
+          "operationsGrowth",
+          "ecommerceRetail"
+        ],
+        "section": "front",
+        "body": {
+          "background": "贝森特在接受《Squawk on the Street》独家采访时表示：“如果我们施加最大的经济压力，那么这意味着可能不会出现大规模的动态重启。”这一消息发布之际，针对伊朗的战争已接近六个月大关，但没有任何迹象表明美国即将取得外交或军事胜利。他表示，他将在周一召开新闻发布会，“具体讨论我们将要做什么”。",
+          "keyProgress": "内阁部长发表此番言论之前，唐纳德·特朗普总统在《真相社会》上发表声明称，美国计划对任何向德黑兰提供“任何类型生命线”的国家实施严厉处罚，以扼杀伊朗经济。贝森特誓言美国将针对伊朗建立“世界历史上最大规模的协调经济孤立”。美国推动盟友增加国防开支可能意味着更多的核国家。特朗普在周三晚间的帖子中写道：“这将是一个经济诺曼底登陆日，我们需要所有盟友与美利坚合众国站在一起，孤立并击败伊朗威胁。",
+          "whyItMatters": "“贝森特表示，随着经济压力的加大，美国可能不会重启大规模的伊朗战斗”如果继续发展，可能通过能源价格、航运、贸易、汇率或市场预期传导到国内。了解它的意义在于判断后续风险，而不只停留在事件本身。",
+          "userRelevance": "即使你不在美国、伊朗，“贝森特表示，随着经济压力的加大，美国可能不会重启大规模的伊朗战斗”也可能通过能源价格、国际航运、贸易成本和市场预期间接影响国内生活与工作判断。",
+          "whatToWatch": "接下来要看“贝森特表示，随着经济压力的加大，美国可能不会重启大规模的伊朗战斗”是否出现更细的城市、行业、平台或企业数据，以及这一变化能否连续保持。"
+        },
+        "sourceLinks": [
+          {
+            "title": "CNBC World News RSS",
+            "url": "https://www.cnbc.com/2026/08/20/bessent-economy-iran-war-trump.html",
+            "sourceId": "cnbc-world-rss",
+            "publishedAt": "2026-08-20T17:19:03.000Z",
+            "language": "zh",
+            "originalLanguage": "en",
+            "translationStatus": "translated",
+            "fetchedAt": "2026-08-20T23:37:40.965Z",
+            "sourceMethod": "rss",
+            "verificationStatus": "pending"
+          }
+        ],
+        "images": [
+          {
+            "url": "https://image.cnbcfm.com/api/v1/image/108352200-17872393601787239357-47882405682-1080pnbcnews.jpg?v=1787239359&amp;w=750&amp;h=422&amp;vtcrop=y",
+            "sourceUrl": "https://www.cnbc.com/2026/08/20/bessent-economy-iran-war-trump.html"
+          }
+        ],
+        "generatedAt": "2026-08-20T23:37:34.232Z"
+      },
+      {
+        "id": "draft-real-cnbc-world-rss-1h2xwxp",
+        "title": "美伊战争引发地区混乱并消耗执法资源，索马里海盗威胁卷土重来",
+        "oneLine": "最新进展：美伊战争引发地区混乱并消耗执法资源，索马里海盗威胁卷土重来。",
+        "importance": "S",
+        "credibility": "待确认",
+        "tags": [
+          "S",
+          "mustKnow",
+          "industry",
+          "world",
+          "policy",
+          "finance"
+        ],
+        "industries": [
+          "generalPublic",
+          "financeInvestment",
+          "operationsGrowth",
+          "ecommerceRetail"
+        ],
+        "section": "front",
+        "body": {
+          "background": "他补充说：“这可能意味着索马里海盗可以利用胡塞武装的技术，包括导弹、无人机和无人机能力，然后风险就会不成比例地增加。但由于伊朗战争不仅耗尽了美国的资源，还引发了地区不稳定，这种臭名昭著的做法有可能卷土重来。8 月 17 日，Lutuf 号货船在距索马里海岸约 4 海里处被八名武装人员登上并扣押。",
+          "keyProgress": "对于一个目前正面临干旱、粮食不安全加剧和人道主义援助减少的国家的潜在海盗来说，经济激励和风险回报平衡可能太诱人，不容错过。但对于船东来说，这使得本已紧张的风险计算更加复杂，因为他们要权衡胡塞武装袭击、保险费上涨以及是否要通过该地区。I.R. 首席执行官伊恩·拉尔比 (Ian Ralby) 表示：“海盗问题肯定会增加严重的不确定性，并使那些已经决定避开红海的人坚持自己的决定。全球海事网络安全和风险情报公司 Dryad Global 首席执行官科里·兰斯勒姆 (Corey Ranslem) 表示：“如果青年党和胡塞武装正式建立关系，控制红海、曼德布海峡和亚丁湾，并让索马里海盗成为该激进组织的一部分，这将从根本上改变该地区的动态。",
+          "whyItMatters": "“美伊战争引发地区混乱并消耗执法资源，索马里海盗威胁卷土重来”如果继续发展，可能通过能源价格、航运、贸易、汇率或市场预期传导到国内。了解它的意义在于判断后续风险，而不只停留在事件本身。",
+          "userRelevance": "即使你不在事发地区，“美伊战争引发地区混乱并消耗执法资源，索马里海盗威胁卷土重来”也可能通过能源价格、国际航运、贸易成本和市场预期间接影响国内生活与工作判断。",
+          "whatToWatch": "接下来要看“美伊战争引发地区混乱并消耗执法资源，索马里海盗威胁卷土重来”是否出现更细的城市、行业、平台或企业数据，以及这一变化能否连续保持。"
+        },
+        "sourceLinks": [
+          {
+            "title": "CNBC World News RSS",
+            "url": "https://www.cnbc.com/2026/08/20/somali-pirates-return-iran-war.html",
+            "sourceId": "cnbc-world-rss",
+            "publishedAt": "2026-08-20T11:13:13.000Z",
+            "language": "zh",
+            "originalLanguage": "en",
+            "translationStatus": "translated",
+            "fetchedAt": "2026-08-20T23:37:40.965Z",
+            "sourceMethod": "rss",
+            "verificationStatus": "pending"
+          }
+        ],
+        "images": [],
+        "generatedAt": "2026-08-20T23:37:34.232Z"
+      },
+      {
+        "id": "draft-cluster-real-mofcom-trade-1lc3pd4",
+        "title": "商务部消费促进司负责人谈2026年7月我国消费市场情况",
+        "oneLine": "政策变化：今年以来，我国消费市场保持向新向优发展态势，市场规模稳步扩大、发展质量不断提升。",
+        "importance": "S",
+        "credibility": "官方来源",
+        "tags": [
+          "S",
+          "industry",
+          "world",
+          "china",
+          "policy"
+        ],
+        "industries": [
+          "generalPublic",
+          "financeInvestment",
+          "operationsGrowth",
+          "ecommerceRetail",
+          "consumerBrand",
+          "startupBusiness"
+        ],
+        "section": "industry",
+        "body": {
+          "background": "1-7月，社会消费商品和服务零售总额同比（下同）增长2.6%；社会消费品零售总额28.77万亿元，增长1.2%，其中除汽车以外的消费品零售额增长2.7%。基本生活类商品增长平稳，限额以上单位粮油食品、饮料、日用品零售额分别增长5.3%、3.5%、1.8%；",
+          "keyProgress": "部分升级类商品增长较快，限额以上单位通讯器材、文化办公用品、化妆品零售分别增长20.4%、7.4%、6.8%。1-7月，服务零售额增长5.0%，持续高于商品零售额增速。旅游咨询租赁服务、文体休闲服务零售额增长超过10%。暑期档电影火热，7月份电影总票房超50亿元，增长超过20%。",
+          "whyItMatters": "“商务部消费促进司负责人谈2026年7月我国消费市场情况”如果继续发展，可能通过能源价格、航运、贸易、汇率或市场预期传导到国内。了解它的意义在于判断后续风险，而不只停留在事件本身。",
+          "userRelevance": "即使你不在事发地区，“商务部消费促进司负责人谈2026年7月我国消费市场情况”也可能通过能源价格、国际航运、贸易成本和市场预期间接影响国内生活与工作判断。",
+          "whatToWatch": "接下来要看“商务部消费促进司负责人谈2026年7月我国消费市场情况”是否出现更细的城市、行业、平台或企业数据，以及这一变化能否连续保持。"
+        },
+        "sourceLinks": [
+          {
+            "title": "商务部新闻发布",
+            "url": "https://www.mofcom.gov.cn/xwfb/sjfzrfb/art/2026/art_2fe3377247874276bdacc8ee5c0b737d.html",
+            "sourceId": "mofcom-trade",
+            "publishedAt": "2026-08-20T00:00:00+08:00",
+            "language": "zh",
+            "originalLanguage": "zh",
+            "translationStatus": "not-needed",
+            "fetchedAt": "2026-08-20T23:37:45.342Z",
+            "sourceMethod": "web",
+            "verificationStatus": "confirmed"
+          },
+          {
+            "title": "商务部市场运行和消费促进司",
+            "url": "https://scyxs.mofcom.gov.cn/fxbg/art/2026/art_0efa7bde59ca42fabb5325bcd7759134.html",
+            "sourceId": "mofcom-consumption",
+            "publishedAt": "2026-08-20T00:00:00+08:00",
+            "language": "zh",
+            "originalLanguage": "zh",
+            "translationStatus": "not-needed",
+            "fetchedAt": "2026-08-20T23:37:56.497Z",
+            "sourceMethod": "web",
+            "verificationStatus": "confirmed"
+          }
+        ],
+        "images": [],
+        "generatedAt": "2026-08-20T23:37:34.232Z"
+      },
+      {
+        "id": "draft-real-npr-world-rss-13fkkld",
+        "title": "日本称朝鲜向海上发射疑似导弹",
+        "oneLine": "政策变化：韩国首尔——日本称，朝鲜周四向海上发射了一枚疑似弹道导弹，此前一天，朝鲜对美国缩减与韩国军演的决定不屑一顾，这显然是为了恢复外交。",
+        "importance": "A",
+        "credibility": "主流媒体",
+        "tags": [
+          "A",
+          "mustKnow",
+          "world",
+          "policy"
+        ],
+        "industries": [
+          "generalPublic"
+        ],
+        "section": "front",
+        "body": {
+          "background": "日本首相办公室表示，发现了可疑的发射事件，但没有透露更多细节。韩国媒体援引军方消息称，朝鲜在朝鲜东海岸发射了一枚身份不明的射弹。周三，韩国和美国军方表示，他们正在缩减为期 11 天的乙支自由盾演习。",
+          "keyProgress": "她还列举了美国和韩国今年早些时候进行的一系列其他军事演习，以及韩国推动引进核动力潜艇的举措。几天前，美国总统唐纳德·特朗普早些时候命令五角大楼“大幅减少”演习，理由是他所说的与金正恩的良好关系以及韩国拒绝在伊朗战争问题上支持他。朝鲜领导人金正恩颇具影响力的妹妹金与正周三晚些时候驳回了特朗普的提议。她说，这甚至不值得评论，因为“即使演习的持续时间和规模都减少了，演习的挑衅性和攻击性性质也不会改变。",
+          "whyItMatters": "“日本称朝鲜向海上发射疑似导弹”如果继续发展，可能通过能源价格、航运、贸易、汇率或市场预期传导到国内。了解它的意义在于判断后续风险，而不只停留在事件本身。",
+          "userRelevance": "即使你不在日本、美国、韩国，“日本称朝鲜向海上发射疑似导弹”也可能通过能源价格、国际航运、贸易成本和市场预期间接影响国内生活与工作判断。",
+          "whatToWatch": "接下来要看“日本称朝鲜向海上发射疑似导弹”是否出现新的官方信息、后续行动，以及它与中国出行、贸易或公共判断的关联是否扩大。"
+        },
+        "sourceLinks": [
+          {
+            "title": "NPR World RSS",
+            "url": "https://www.npr.org/2026/08/20/g-s1-139381/north-korea-suspected-missile",
+            "sourceId": "npr-world-rss",
+            "publishedAt": "2026-08-20T09:24:45.000Z",
+            "language": "zh",
+            "originalLanguage": "en",
+            "translationStatus": "translated",
+            "fetchedAt": "2026-08-20T23:37:40.376Z",
+            "sourceMethod": "rss",
+            "verificationStatus": "confirmed"
+          }
+        ],
+        "images": [
+          {
+            "url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/7525x5016+0+0/resize/1100/quality/50/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F9d%2Fbd%2F4c7281554a0c82aac58fcef79a0c%2Fap26232291378439.jpg",
+            "sourceUrl": "https://www.npr.org/2026/08/20/g-s1-139381/north-korea-suspected-missile"
+          }
+        ],
+        "generatedAt": "2026-08-20T23:37:34.232Z"
+      },
+      {
+        "id": "draft-cluster-real-npr-world-rss-1rg3x3o",
+        "title": "中国法院判处房地产开发商恒大创始人无期徒刑",
+        "oneLine": "政策变化：北京——中国南方城市深圳一家法院周四称，中国房地产开发商恒大地产集团创始人许家印被判处无期徒刑，并处罚金共计 23 亿美元。",
+        "importance": "A",
+        "credibility": "多源确认",
+        "tags": [
+          "A",
+          "mustKnow",
+          "industry",
+          "world",
+          "policy",
+          "finance"
+        ],
+        "industries": [
+          "generalPublic",
+          "financeInvestment",
+          "operationsGrowth",
+          "ecommerceRetail"
+        ],
+        "section": "front",
+        "body": {
+          "background": "法院称，恒大其他几名高管还被判处最高18年有期徒刑，罪名包括非法吸收公众存款和诈骗。许先生于四月份在中国被捕后承认了多项罪名，包括非法吸收公众存款、欺诈和贿赂等罪名。香港和中国大陆当局早些时候表示，他们的调查发现恒大通过策略操纵其财务数据，包括在公寓竣工和交付给买家之前提前记入房地产销售收入。",
+          "keyProgress": "这引发了许多开发商的紧缩，并导致房地产市场低迷，自此给整体经济带来压力。深圳市中级人民法院以许家印和恒大集团虚增资产、隐瞒负债的方式实施大规模财务诈骗罪，判处其有罪。这一决定标志着恒大传奇故事中的一个里程碑。2020年，中国当局打击房地产行业过度借贷，恒大因负债超过3000亿美元而崩溃。",
+          "whyItMatters": "“中国法院判处房地产开发商恒大创始人无期徒刑”如果继续发展，可能通过能源价格、航运、贸易、汇率或市场预期传导到国内。了解它的意义在于判断后续风险，而不只停留在事件本身。",
+          "userRelevance": "即使你不在中国，“中国法院判处房地产开发商恒大创始人无期徒刑”也可能通过能源价格、国际航运、贸易成本和市场预期间接影响国内生活与工作判断。",
+          "whatToWatch": "接下来要看“中国法院判处房地产开发商恒大创始人无期徒刑”是否出现更细的城市、行业、平台或企业数据，以及这一变化能否连续保持。"
+        },
+        "sourceLinks": [
+          {
+            "title": "NPR World RSS",
+            "url": "https://www.npr.org/2026/08/20/nx-s1-5939335/chinese-sentence-founder-evergrande",
+            "sourceId": "npr-world-rss",
+            "publishedAt": "2026-08-20T07:31:55.000Z",
+            "language": "zh",
+            "originalLanguage": "en",
+            "translationStatus": "translated",
+            "fetchedAt": "2026-08-20T23:37:40.376Z",
+            "sourceMethod": "rss",
+            "verificationStatus": "confirmed"
+          },
+          {
+            "title": "France 24 Asia-Pacific RSS",
+            "url": "https://www.france24.com/en/asia-pacific/20260820-china-reast-estate-giant-xu-jiayin-sentenced-to-life-in-prison",
+            "sourceId": "france24-asia-pacific-rss",
+            "publishedAt": "2026-08-20T06:27:09.000Z",
+            "language": "zh",
+            "originalLanguage": "en",
+            "translationStatus": "translated",
+            "fetchedAt": "2026-08-20T23:37:40.594Z",
+            "sourceMethod": "rss",
+            "verificationStatus": "pending"
+          }
+        ],
+        "images": [
+          {
+            "url": "https://s.france24.com/media/display/2b5bda04-9c60-11f1-aee7-005056a90284/w:1024/p:16x9/4c5cbaa3e475521faef0d66bdc9a2cc1f43bec91.jpg",
+            "sourceUrl": "https://www.france24.com/en/asia-pacific/20260820-china-reast-estate-giant-xu-jiayin-sentenced-to-life-in-prison"
+          }
+        ],
+        "generatedAt": "2026-08-20T23:37:34.232Z"
+      },
+      {
+        "id": "draft-real-gov-uk-news-1bsu1kn",
+        "title": "发起新挑战以更长时间储存​​清洁能源并保护家庭免受价格上涨的影响",
+        "oneLine": "风险提醒：《发起新挑战以更长时间储存​​清洁能源并保护家庭免受价格上涨的影响》我们使用一些必要的 cookie 来使该网站正常运行。",
+        "importance": "A",
+        "credibility": "官方来源",
+        "tags": [
+          "A",
+          "risk",
+          "industry",
+          "world",
+          "policy",
+          "local"
+        ],
+        "industries": [
+          "generalPublic",
+          "localLife",
+          "hrRecruiting",
+          "financeInvestment",
+          "operationsGrowth"
+        ],
+        "section": "risk",
+        "body": {
+          "background": "出生、死亡、婚姻和护理 商业和自营职业 儿童保育和养育 英国公民身份和生活 犯罪、司法和法律 残疾人 驾驶和交通 教育和学习 就业人员 环境和乡村 住房和当地服务 金钱和税收 护照、旅行和国外生活 签证和移民 工作、工作和养老金 部门 部门、机构和公共机构 新闻 新闻故事、演讲、信件和通知 指导和监管 详细指导、法规和规则 研究和统计 报告、分析和官方统计政策文件和咨询 磋商和战略 透明度数据、信息自由发布和企业报告 气候变化和能源挑战赛旨在加强英国能源安全，在新行业创造就业机会，并减少长期能源费用 超长持续时间储能挑战赛将提供 2800 万英镑，用于开发可存储清洁能源超过 100 小时的技术 在又一场破纪录的热浪之后，这次发射增强了政府应对气候变化的清洁能源雄心 公众将得到更好的保护，免受潜在能源上涨的影响法。",
+          "keyProgress": "我们希望设置额外的 cookie 来了解您如何使用 GOV.UK、记住您的设置并改善政府服务。我们还使用其他网站设置的 cookie 来帮助我们从他们的服务中提供内容。您可以随时更改您的 cookie 设置。在政府通过英国研究与创新 (UKRI) 提供的 2800 万英镑的支持下，英国创新者现在可以竞标资金，开发能够提供 100 小时或更长时间清洁电力的项目——足以为我们的家庭和企业提供至少四天的电力。",
+          "whyItMatters": "“发起新挑战以更长时间储存​​清洁能源并保护家庭免受价格上涨的影响”的直接价值是帮助你判断是否需要调整出行、居住或工作安排。影响地区、持续时间、预警等级和官方避险建议比事件热度更重要。",
+          "userRelevance": "对于“发起新挑战以更长时间储存​​清洁能源并保护家庭免受价格上涨的影响”，如果你居住、出行或有家人在英国，应及时查看当地预警和交通变化；不在相关地区时，通常无需改变日常安排。",
+          "whatToWatch": "接下来要看“发起新挑战以更长时间储存​​清洁能源并保护家庭免受价格上涨的影响”的影响范围是否扩大、预警等级是否变化，以及是否出现与你所在城市相关的提醒。"
+        },
+        "sourceLinks": [
+          {
+            "title": "GOV.UK News and Communications",
+            "url": "https://www.gov.uk/government/news/new-challenge-launched-to-store-clean-energy-for-longer-and-protect-households-from-price-spikes",
+            "sourceId": "gov-uk-news",
+            "publishedAt": "2026-08-20T09:25:50.000Z",
+            "language": "zh",
+            "originalLanguage": "en",
+            "translationStatus": "translated",
+            "fetchedAt": "2026-08-20T23:37:40.705Z",
+            "sourceMethod": "rss",
+            "verificationStatus": "confirmed"
+          }
+        ],
+        "images": [
+          {
+            "url": "https://assets.publishing.service.gov.uk/media/5e59279b86650c53b2cefbfe/placeholder.jpg",
+            "sourceUrl": "https://www.gov.uk/government/news/new-challenge-launched-to-store-clean-energy-for-longer-and-protect-households-from-price-spikes"
+          }
+        ],
+        "generatedAt": "2026-08-20T23:37:34.232Z"
+      },
+      {
+        "id": "draft-real-deepmind-blog-42k684",
+        "title": "从 Atari 到 EVE Online：基于 15 年游戏人工智能研究",
+        "oneLine": "趋势信号：Alexandre Moufarek 和 Adrian Bolton 从 Atari 到 Go 到 StarCraft，游戏推动了人工智能领域的一些最大突破。",
+        "importance": "B",
+        "credibility": "官方来源",
+        "tags": [
+          "B",
+          "industry",
+          "ai",
+          "technology",
+          "product"
+        ],
+        "industries": [
+          "aiProduct",
+          "aiTechnology",
+          "productManagement",
+          "technologyEngineering",
+          "educationResearch"
+        ],
+        "section": "ai",
+        "body": {
+          "background": "我们一直很清楚，用游戏进行人工智能研究需要与游戏开发商建立深入的合作关系——比如我们与 Fenris Creations 和今年早些时候推出的 EVE Universe 的主要新研究合作伙伴关系，以及我们与 Hello Games、Coffee Stain Studios、Foulball Hangover 等广受好评的工作室合作完成的工作。现在，我们正在与游戏开发商合作，打造新的游戏体验原型，推动游戏和人工智能的发展。自 DeepMind 于 2010 年成立以来，有限但丰富的游戏世界在理解智能方面发挥了关键作用。",
+          "keyProgress": "它们推动了我们一些最大的人工智能突破，从掌握 Atari 到帮助解决蛋白质结构预测 - 它们仍然是我们工作的核心。2015 年《自然》杂志上有关 DQN 的论文帮助推动了深度强化学习的现代时代。Demis Hassabis 是 Google DeepMind 的创始人之一，他本人也是一名前游戏开发者，GDM 团队中的许多人也是如此。我们在游戏开发方面拥有数十年的实践经验，并对游戏制作工艺怀有深深的敬意。",
+          "whyItMatters": "“从 Atari 到 EVE Online：基于 15 年游戏人工智能研究”能帮助你判断这项能力是否已经进入工程、产品或商业场景，并据此调整技术选型、产品规划、学习重点或职业判断。",
+          "userRelevance": "如果你从事AI 产品、AI 技术、产品管理、技术研发，可以重点判断“从 Atari 到 EVE Online：基于 15 年游戏人工智能研究”是否已经具备产品落地、技术选型或业务合作价值。",
+          "whatToWatch": "接下来要看“从 Atari 到 EVE Online：基于 15 年游戏人工智能研究”是否有更多可靠来源、量产或应用进展，以及它会不会从单点消息发展成持续趋势。"
+        },
+        "sourceLinks": [
+          {
+            "title": "Google DeepMind Blog",
+            "url": "https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games/",
+            "sourceId": "deepmind-blog",
+            "publishedAt": "2026-08-21T11:59:48.000Z",
+            "language": "zh",
+            "originalLanguage": "en",
+            "translationStatus": "translated",
+            "fetchedAt": "2026-08-21T13:29:32.862Z",
+            "sourceMethod": "rss",
+            "verificationStatus": "confirmed"
+          }
+        ],
+        "images": [
+          {
+            "url": "https://lh3.googleusercontent.com/ymmK0Dgovn-_MGlnQJffYxKdTe5LAnkAZr-GNnIjiFzsGOAAmOmUDuVACbNgIy-tqrJhGBdaQ_PaElc8EKRKRWtYg4eWx8HVcaVzdYy7hg7Q_8k=w528-h297-n-nu-rw-lo",
+            "sourceUrl": "https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games/"
+          }
+        ],
+        "generatedAt": "2026-08-21T13:29:22.747Z"
+      },
+      {
+        "id": "draft-real-cnbc-world-rss-vr21oy",
+        "title": "不再有厄运滚动或 Instagram 故事吗？ Meta 审判失败可能会终结我们所知道的社交媒体",
+        "oneLine": "政策变化：《不再有厄运滚动或 Instagram 故事吗？ Meta 审判失败可能会终结我们所知道的社交媒体》在本文中 该报告来自本周的技术下载通讯。",
+        "importance": "B",
+        "credibility": "待确认",
+        "tags": [
+          "B",
+          "industry",
+          "world",
+          "policy",
+          "finance"
+        ],
+        "industries": [
+          "generalPublic",
+          "financeInvestment",
+          "operationsGrowth",
+          "ecommerceRetail"
+        ],
+        "section": "industry",
+        "body": {
+          "background": "Meta 表示，它面临数万亿美元的罚款，其广告模式也将受到损害。其中包括无限滚动、自动播放视频、消失的内容（例如 Instagram 故事）、美颜滤镜和算法主导的提要。“这些试验经常被比作 90 年代的大型烟草诉讼，结果也可能类似：年轻人将更难获得该产品，社交媒体的文化信息也将发生变化。",
+          "keyProgress": "在本文中 该报告来自本周的技术下载通讯。但这项试验可能远远超出一家公司的范围。各州希望法院强制 Meta 从其平台 Instagram 和 Facebook 上删除“某些令人上瘾的设计功能”。加州副总检察长梅根·奥尼尔 (Megan O'Neill) 在周二的开庭陈述中表示，Meta 选择利润而非安全，在其平台上隐藏 13 岁以下儿童的“现实”，其商业模式是“吸引用户，尽可能长时间地留住他们，收集他们的数据，然后向公众隐瞒真相”。",
+          "whyItMatters": "“不再有厄运滚动或 Instagram 故事吗？ Meta 审判失败可能会终结我们所知道的社交媒体”如果继续发展，可能通过能源价格、航运、贸易、汇率或市场预期传导到国内。了解它的意义在于判断后续风险，而不只停留在事件本身。",
+          "userRelevance": "即使你不在事发地区，“不再有厄运滚动或 Instagram 故事吗？ Meta 审判失败可能会终结我们所知道的社交媒体”也可能通过能源价格、国际航运、贸易成本和市场预期间接影响国内生活与工作判断。",
+          "whatToWatch": "接下来要看“不再有厄运滚动或 Instagram 故事吗？ Meta 审判失败可能会终结我们所知道的社交媒体”是否出现更细的城市、行业、平台或企业数据，以及这一变化能否连续保持。"
+        },
+        "sourceLinks": [
+          {
+            "title": "CNBC World News RSS",
+            "url": "https://www.cnbc.com/2026/08/21/meta-social-media-lawsuit-trial-instagram-facebook.html",
+            "sourceId": "cnbc-world-rss",
+            "publishedAt": "2026-08-21T12:11:14.000Z",
+            "language": "zh",
+            "originalLanguage": "en",
+            "translationStatus": "translated",
+            "fetchedAt": "2026-08-21T13:29:31.306Z",
+            "sourceMethod": "rss",
+            "verificationStatus": "pending"
+          }
+        ],
+        "images": [
+          {
+            "url": "https://image.cnbcfm.com/api/v1/image/108352590-17873040101787304007-47897144750-1080pnbcnews.jpg?v=1787304009&amp;w=750&amp;h=422&amp;vtcrop=y",
+            "sourceUrl": "https://www.cnbc.com/2026/08/21/meta-social-media-lawsuit-trial-instagram-facebook.html"
+          }
+        ],
+        "generatedAt": "2026-08-21T13:29:22.747Z"
+      },
+      {
+        "id": "draft-real-cnbc-world-rss-3mt6ya",
+        "title": "随着投资者乐观情绪的回归，比特币有望每周上涨 20%",
+        "oneLine": "政策变化：在全球最大的加密货币出现一系列积极进展之后，周五比特币有望每周上涨 23% 左右。",
+        "importance": "B",
+        "credibility": "待确认",
+        "tags": [
+          "B",
+          "industry",
+          "world",
+          "policy",
+          "finance"
+        ],
+        "industries": [
+          "generalPublic",
+          "financeInvestment",
+          "operationsGrowth",
+          "ecommerceRetail"
+        ],
+        "section": "industry",
+        "body": {
+          "background": "比特币最新价格为 77,226.96 美元，高于本周初的 62,836.88 美元。加密货币相关股票上涨，Coinbase 和 Circle 上涨超过 5%。ProShares 比特币策略 ETF (BITO) 在盘前交易中上涨 6.8%。",
+          "keyProgress": "此次反弹始于周三，当时美国财政部对债券市场进行了爆炸性干预，美国国债收益率大幅回落，缓解了风险资产的压力。该法案被广泛认为是一个关键的催化剂，可以推动市场走出去年秋天开始的加密货币冬天，但它通过的可能性似乎相对较小。“我们预计会出现最后一次冲水，并且会再下降 20%，以便与之前的周期保持一致，”她说。“市场上的杠杆率很高，他们已经被消灭了。",
+          "whyItMatters": "“随着投资者乐观情绪的回归，比特币有望每周上涨 20%”如果继续发展，可能通过能源价格、航运、贸易、汇率或市场预期传导到国内。了解它的意义在于判断后续风险，而不只停留在事件本身。",
+          "userRelevance": "即使你不在事发地区，“随着投资者乐观情绪的回归，比特币有望每周上涨 20%”也可能通过能源价格、国际航运、贸易成本和市场预期间接影响国内生活与工作判断。",
+          "whatToWatch": "接下来要看“随着投资者乐观情绪的回归，比特币有望每周上涨 20%”是否出现更细的城市、行业、平台或企业数据，以及这一变化能否连续保持。"
+        },
+        "sourceLinks": [
+          {
+            "title": "CNBC World News RSS",
+            "url": "https://www.cnbc.com/2026/08/21/bitcoin-gain-cryptocurrency-investors-optimistic.html",
+            "sourceId": "cnbc-world-rss",
+            "publishedAt": "2026-08-21T12:07:14.000Z",
+            "language": "zh",
+            "originalLanguage": "en",
+            "translationStatus": "translated",
+            "fetchedAt": "2026-08-21T13:29:31.306Z",
+            "sourceMethod": "rss",
+            "verificationStatus": "pending"
+          }
+        ],
+        "images": [
+          {
+            "url": "https://image.cnbcfm.com/api/v1/image/108352115-17872312751787231272-47880492259-1080pnbcnews.jpg?v=1787231274&amp;w=750&amp;h=422&amp;vtcrop=y",
+            "sourceUrl": "https://www.cnbc.com/2026/08/21/bitcoin-gain-cryptocurrency-investors-optimistic.html"
+          },
+          {
+            "url": "https://image.cnbcfm.com/api/v1/image/108352613-17873095371787309534-47898363757-1080pnbcnews.jpg?v=1787309536&amp;w=750&amp;h=422&amp;vtcrop=y",
+            "sourceUrl": "https://www.cnbc.com/2026/08/21/bitcoin-gain-cryptocurrency-investors-optimistic.html"
+          }
+        ],
+        "generatedAt": "2026-08-21T13:29:22.747Z"
+      },
+      {
+        "id": "draft-real-cnbc-world-rss-1s24vs1",
+        "title": "北约成员国罗马尼亚紧急出动 F-16 战斗机摧毁欧洲关键天然气项目附近的无人机",
+        "oneLine": "政策变化：罗马尼亚总统指责俄罗斯部署了一架海上无人机，该无人机在被发现靠近一个主要天然气开发项目后于周四被其军方摧毁。",
+        "importance": "B",
+        "credibility": "待确认",
+        "tags": [
+          "B",
+          "industry",
+          "world",
+          "policy",
+          "finance"
+        ],
+        "industries": [
+          "generalPublic",
+          "financeInvestment",
+          "operationsGrowth",
+          "ecommerceRetail"
+        ],
+        "section": "industry",
+        "body": {
+          "background": "这一事态发展标志着俄罗斯在乌克兰的战争可能蔓延到该国境外的又一起事件，凸显了关键基础设施面临的风险。罗马尼亚国防部长拉杜-迪内尔·米鲁塔在一系列 Facebook 帖子中表示，F-16 战斗机周四在黑海 Neptun Deep 天然气项目附近摧毁了一架海上无人机。一旦开发完成，Neptun Deep 将使罗马尼亚成为欧盟最大的天然气生产国。",
+          "keyProgress": "2022 年俄罗斯全面入侵乌克兰后，西方政府对莫斯科实施制裁，并寻找替代石油和天然气来源，欧洲能源价格大幅上涨。该平台距离海岸约 99 英里，预计将于 2027 年开始生产天然气。米鲁塔周四表示，罗马尼亚海岸警卫队报告周四早上在距离 Neptun Deep 天然气开采作业数百米处发现了这架无人机，该地点位于罗马尼亚城市康斯坦察以东 80 英里处。他说，罗马尼亚国防部随后请求北约授权“掌控局势”。",
+          "whyItMatters": "“北约成员国罗马尼亚紧急出动 F-16 战斗机摧毁欧洲关键天然气项目附近的无人机”如果继续发展，可能通过能源价格、航运、贸易、汇率或市场预期传导到国内。了解它的意义在于判断后续风险，而不只停留在事件本身。",
+          "userRelevance": "即使你不在俄罗斯、欧洲，“北约成员国罗马尼亚紧急出动 F-16 战斗机摧毁欧洲关键天然气项目附近的无人机”也可能通过能源价格、国际航运、贸易成本和市场预期间接影响国内生活与工作判断。",
+          "whatToWatch": "接下来要看“北约成员国罗马尼亚紧急出动 F-16 战斗机摧毁欧洲关键天然气项目附近的无人机”是否出现更细的城市、行业、平台或企业数据，以及这一变化能否连续保持。"
+        },
+        "sourceLinks": [
+          {
+            "title": "CNBC World News RSS",
+            "url": "https://www.cnbc.com/2026/08/21/romania-russia-ukraine-drone-gas-nato.html",
+            "sourceId": "cnbc-world-rss",
+            "publishedAt": "2026-08-21T10:15:18.000Z",
+            "language": "zh",
+            "originalLanguage": "en",
+            "translationStatus": "translated",
+            "fetchedAt": "2026-08-21T13:29:31.306Z",
+            "sourceMethod": "rss",
+            "verificationStatus": "pending"
+          }
+        ],
+        "images": [],
+        "generatedAt": "2026-08-21T13:29:22.747Z"
+      },
+      {
+        "id": "draft-real-cnbc-world-rss-bxkd2f",
+        "title": "SK海力士回购后三星计划为股东带来高达800亿美元的回报",
+        "oneLine": "政策变化：三星电子宣布了股东回报方案，标志着继 SK 海力士股票回购之后韩国芯片巨头股东回报惊人的一周。",
+        "importance": "B",
+        "credibility": "待确认",
+        "tags": [
+          "B",
+          "industry",
+          "world",
+          "policy",
+          "finance"
+        ],
+        "industries": [
+          "generalPublic",
+          "financeInvestment",
+          "operationsGrowth",
+          "ecommerceRetail"
+        ],
+        "section": "industry",
+        "body": {
+          "background": "该公司还宣布，将在第三季度支付约30万亿韩元的现金股息，其中包括定期季度股息。周五的公告是在三星2024-2026年股东回报计划之后发布的，根据该计划，该公司承诺返还2024年至2026年期间产生的自由现金流的50%，同时维持9.8万亿韩元的年度定期股息。在3月份发布的企业价值提升计划中，三星表示，2024年和2025年支付了20.9万亿韩元现金股息，并花费8.4万亿韩元用于取消股票回购。",
+          "keyProgress": "该公司周五宣布，预计 2026 年股东回报总额将在 90 万亿韩元至 110 万亿韩元（651 亿美元至 795.2 亿美元）之间。三星表示，这是“韩国公司有史以来最大的回报”。该公司一直在寻求在人工智能系统中使用的高带宽存储芯片方面赶上其国内竞争对手SK海力士。今年迄今为止，该股已上涨约 135%。",
+          "whyItMatters": "“SK海力士回购后三星计划为股东带来高达800亿美元的回报”如果继续发展，可能通过能源价格、航运、贸易、汇率或市场预期传导到国内。了解它的意义在于判断后续风险，而不只停留在事件本身。",
+          "userRelevance": "即使你不在事发地区，“SK海力士回购后三星计划为股东带来高达800亿美元的回报”也可能通过能源价格、国际航运、贸易成本和市场预期间接影响国内生活与工作判断。",
+          "whatToWatch": "接下来要看“SK海力士回购后三星计划为股东带来高达800亿美元的回报”是否出现更细的城市、行业、平台或企业数据，以及这一变化能否连续保持。"
+        },
+        "sourceLinks": [
+          {
+            "title": "CNBC World News RSS",
+            "url": "https://www.cnbc.com/2026/08/21/samsung-shareholder-return-package-sk-hynix-buyback-ai-chip-boom.html",
+            "sourceId": "cnbc-world-rss",
+            "publishedAt": "2026-08-21T09:08:18.000Z",
+            "language": "zh",
+            "originalLanguage": "en",
+            "translationStatus": "translated",
+            "fetchedAt": "2026-08-21T13:29:31.306Z",
+            "sourceMethod": "rss",
+            "verificationStatus": "pending"
+          }
+        ],
+        "images": [],
+        "generatedAt": "2026-08-21T13:29:22.747Z"
+      },
+      {
+        "id": "draft-real-cnbc-world-rss-1hdkcxr",
+        "title": "“一场微妙的舞蹈”：JD万斯表示经济压力是实现华盛顿在伊朗目标的最佳途径",
+        "oneLine": "政策变化：美国副总统万斯表示，经济压力是美国针对伊朗“最有效的工具”。",
+        "importance": "B",
+        "credibility": "待确认",
+        "tags": [
+          "B",
+          "industry",
+          "world",
+          "policy",
+          "finance"
+        ],
+        "industries": [
+          "generalPublic",
+          "financeInvestment",
+          "operationsGrowth",
+          "ecommerceRetail"
+        ],
+        "section": "industry",
+        "body": {
+          "background": "万斯在播客上表示，这一举动是“一场微妙的舞蹈”，因为双方都向对方施加压力，但他补充说，“过去几周的事实是，他们感受到的压力比我们大得多。”万斯说，伊朗因向商船开枪而受到惩罚，美国将确保伊朗军队无法这样做。”伊朗议会议长穆罕默德·巴克尔·卡利巴夫周五在伊拉克首都巴格达举行的一次活动中表示，根据政府的评论摘要，穆斯林国家必须制定计划来克服“残酷”制裁。",
+          "keyProgress": "特朗普还威胁对任何帮助德黑兰逃避制裁的国家实施严厉的经济处罚，并补充说“这将是规模空前的经济战和孤立”。万斯在讲话中表示，美国的油价仍然很高，但声称油价已经“大幅”下降，因为美国在军方的帮助下成功从霍尔木兹海峡运出了“大量石油和天然气”。“他们是想让自己的经济在剩下的时间里被扼杀，还是想与西方建立更好的关系？在此之前，美国总统唐纳德·特朗普表示，美国将对伊朗发起他所说的“有史以来对任何国家采取的最具毁灭性的经济行动”。",
+          "whyItMatters": "“一场微妙的舞蹈：JD万斯表示经济压力是实现华盛顿在伊朗目标的最佳途径”如果继续发展，可能通过能源价格、航运、贸易、汇率或市场预期传导到国内。了解它的意义在于判断后续风险，而不只停留在事件本身。",
+          "userRelevance": "即使你不在伊朗，“一场微妙的舞蹈：JD万斯表示经济压力是实现华盛顿在伊朗目标的最佳途径”也可能通过能源价格、国际航运、贸易成本和市场预期间接影响国内生活与工作判断。",
+          "whatToWatch": "接下来要看“一场微妙的舞蹈：JD万斯表示经济压力是实现华盛顿在伊朗目标的最佳途径”是否出现更细的城市、行业、平台或企业数据，以及这一变化能否连续保持。"
+        },
+        "sourceLinks": [
+          {
+            "title": "CNBC World News RSS",
+            "url": "https://www.cnbc.com/2026/08/21/us-iran-war-trump-hormuz-vance-economic-pressure.html",
+            "sourceId": "cnbc-world-rss",
+            "publishedAt": "2026-08-21T08:10:55.000Z",
+            "language": "zh",
+            "originalLanguage": "en",
+            "translationStatus": "translated",
+            "fetchedAt": "2026-08-21T13:29:31.306Z",
+            "sourceMethod": "rss",
+            "verificationStatus": "pending"
+          }
+        ],
+        "images": [],
+        "generatedAt": "2026-08-21T13:29:22.747Z"
+      },
+      {
+        "id": "draft-real-cnbc-world-rss-1ehq0r5",
+        "title": "高盛称对冲基金 7 月份表现与标准普尔 500 指数相比表现最差，为 20 多年来的数据",
+        "oneLine": "政策变化：高盛表示，随着 7 月份人工智能势头减弱，对冲基金陷入了历史性的困境。",
+        "importance": "B",
+        "credibility": "待确认",
+        "tags": [
+          "B",
+          "industry",
+          "world",
+          "policy",
+          "finance"
+        ],
+        "industries": [
+          "generalPublic",
+          "financeInvestment",
+          "operationsGrowth",
+          "ecommerceRetail"
+        ],
+        "section": "industry",
+        "body": {
+          "background": "本·斯奈德（Ben Snider）领导的高盛策略师表示：“我们的对冲基金最受欢迎多头头寸名单遭遇了 20 多年来历史上最严重的 1 个月表现低于标准普尔 500 指数的情况，7 月份标志着对冲基金毛额下降最严重的时期之一。”它补充说：“基金削减了许多人工智能股票的头寸，包括许多半导体和大多数大型股。高盛表示：“过去几个月，对冲基金的业绩、杠杆率和最受欢迎的多头头寸随着人工智能交易而大幅波动。",
+          "keyProgress": "高盛表示，由于市场受到热门人工智能股票的推动，对冲基金在第二季度实现了强劲上涨，这帮助对冲基金拥挤度攀升至创纪录水平。尽管如此，高盛表示，尽管对冲基金总杠杆率、净杠杆率和人工智能敞口均较第二季度高点有所下降，但仍高于长期平均水平。”高盛表示，对冲基金已开始从人工智能转向多元化，尽管它们进入上个季度“全力投资人工智能”，投资组合换手率达到 2021 年以来的最高水平。报告指出，上个季度，对冲基金受欢迎程度增幅最大的 20 名“新星”中，科技股占据了 14 名。",
+          "whyItMatters": "“高盛称对冲基金 7 月份表现与标准普尔 500 指数相比表现最差，为 20 多年来的数据”如果继续发展，可能通过能源价格、航运、贸易、汇率或市场预期传导到国内。了解它的意义在于判断后续风险，而不只停留在事件本身。",
+          "userRelevance": "即使你不在事发地区，“高盛称对冲基金 7 月份表现与标准普尔 500 指数相比表现最差，为 20 多年来的数据”也可能通过能源价格、国际航运、贸易成本和市场预期间接影响国内生活与工作判断。",
+          "whatToWatch": "接下来要看“高盛称对冲基金 7 月份表现与标准普尔 500 指数相比表现最差，为 20 多年来的数据”是否出现更细的城市、行业、平台或企业数据，以及这一变化能否连续保持。"
+        },
+        "sourceLinks": [
+          {
+            "title": "CNBC World News RSS",
+            "url": "https://www.cnbc.com/2026/08/21/goldman-hedge-funds-historic-underperformance-sp500-degrossing.html",
+            "sourceId": "cnbc-world-rss",
+            "publishedAt": "2026-08-21T05:27:28.000Z",
+            "language": "zh",
+            "originalLanguage": "en",
+            "translationStatus": "translated",
+            "fetchedAt": "2026-08-21T13:29:31.306Z",
+            "sourceMethod": "rss",
+            "verificationStatus": "pending"
+          }
+        ],
+        "images": [],
+        "generatedAt": "2026-08-21T13:29:22.747Z"
+      },
+      {
+        "id": "draft-real-cnbc-world-rss-1fipkyx",
+        "title": "随着粮食价格飙升，今年冬天全球粮食供应将迎来“完美风暴”",
+        "oneLine": "政策变化：俄罗斯和乌克兰继续攻击对方的港口基础设施，阻止来自“欧洲粮仓”的货运，推高小麦价格，并加剧了影响全球粮食供应的一系列严峻因素。",
+        "importance": "B",
+        "credibility": "待确认",
+        "tags": [
+          "B",
+          "industry",
+          "world",
+          "policy",
+          "finance"
+        ],
+        "industries": [
+          "generalPublic",
+          "financeInvestment",
+          "operationsGrowth",
+          "ecommerceRetail"
+        ],
+        "section": "industry",
+        "body": {
+          "background": "乌克兰粮食的替代陆路运输也受到多瑙河低水位和东欧铁路维护的阻碍。农产品运输不仅受到黑海冲突的干扰，还受到霍尔木兹海峡的封锁和德国莱茵河等水道的枯竭的影响。据估计，这两个大国生产的粮食占世界粮食出口量的四分之一左右。",
+          "keyProgress": "根据海关数据，截至 6 月的一年里，交战国家之间出口了近 1 亿吨粮食，自 2022 年俄罗斯全面入侵以来，由于保护全球粮食供应的外交协议，货运量基本上仍在继续流动。最近对黑海地区粮食出口设施、油轮和船只的军事打击使得航运公司很难获得保险，这意味着许多公司正在避开其港口。这些水道的持续阻塞正在推高化肥等农产品的价格，并在此过程中加剧农业困境。分析师警告说，如果许多人认为根本无法赚到所需的钱，那么世界各地农民从化肥、柴油到劳动力等成本的飙升将进一步危及粮食安全。",
+          "whyItMatters": "“随着粮食价格飙升，今年冬天全球粮食供应将迎来完美风暴”如果继续发展，可能通过能源价格、航运、贸易、汇率或市场预期传导到国内。了解它的意义在于判断后续风险，而不只停留在事件本身。",
+          "userRelevance": "即使你不在事发地区，“随着粮食价格飙升，今年冬天全球粮食供应将迎来完美风暴”也可能通过能源价格、国际航运、贸易成本和市场预期间接影响国内生活与工作判断。",
+          "whatToWatch": "接下来要看“随着粮食价格飙升，今年冬天全球粮食供应将迎来完美风暴”是否出现更细的城市、行业、平台或企业数据，以及这一变化能否连续保持。"
+        },
+        "sourceLinks": [
+          {
+            "title": "CNBC World News RSS",
+            "url": "https://www.cnbc.com/2026/08/21/grain-price-russia-food-supply.html",
+            "sourceId": "cnbc-world-rss",
+            "publishedAt": "2026-08-21T05:00:01.000Z",
+            "language": "zh",
+            "originalLanguage": "en",
+            "translationStatus": "translated",
+            "fetchedAt": "2026-08-21T13:29:31.306Z",
+            "sourceMethod": "rss",
+            "verificationStatus": "pending"
+          }
+        ],
+        "images": [],
+        "generatedAt": "2026-08-21T13:29:22.747Z"
+      },
+      {
+        "id": "draft-real-cnbc-world-rss-py05vf",
+        "title": "由于能源价格上涨，日本整体通胀率创今年最高",
+        "oneLine": "政策变化：由于伊朗战争导致能源成本上涨，日本 7 月份总体通胀率达到 1.9%，为今年最高水平。",
+        "importance": "B",
+        "credibility": "待确认",
+        "tags": [
+          "B",
+          "mustKnow",
+          "industry",
+          "world",
+          "policy",
+          "finance"
+        ],
+        "industries": [
+          "generalPublic",
+          "financeInvestment",
+          "operationsGrowth",
+          "ecommerceRetail"
+        ],
+        "section": "front",
+        "body": {
+          "background": "核心通胀（剔除新鲜食品价格但包括能源）符合预期，为 1.8%。分析师此前曾向 CNBC 表示，相对较低的消费者通胀是由于日本首相高市早苗政府提供补贴，以保护消费者免受能源价格上涨的影响。尽管有政府补贴，但由于中东冲突导致石油成本高昂，能源价格自 2025 年 11 月以来首次上涨。",
+          "keyProgress": "这体现在批发通胀上，7月份的批发通胀率为7.2%，其中电费是最大的贡献者。生鲜食品价格也大幅上涨，较 6 月份上涨 3.9% 上涨 7%。日本央行在上个月的展望报告中警告称，从9月到3月的2026财年下半年起，核心通胀可能会加速至“明显高于”2%的水平。报告指出，工资上涨已转化为销售价格、原油价格上涨以及日元近期贬值。",
+          "whyItMatters": "“由于能源价格上涨，日本整体通胀率创今年最高”如果继续发展，可能通过能源价格、航运、贸易、汇率或市场预期传导到国内。了解它的意义在于判断后续风险，而不只停留在事件本身。",
+          "userRelevance": "即使你不在日本，“由于能源价格上涨，日本整体通胀率创今年最高”也可能通过能源价格、国际航运、贸易成本和市场预期间接影响国内生活与工作判断。",
+          "whatToWatch": "接下来要看“由于能源价格上涨，日本整体通胀率创今年最高”是否出现更细的城市、行业、平台或企业数据，以及这一变化能否连续保持。"
+        },
+        "sourceLinks": [
+          {
+            "title": "CNBC World News RSS",
+            "url": "https://www.cnbc.com/2026/08/21/japan-inflation-iran-war-energy.html",
+            "sourceId": "cnbc-world-rss",
+            "publishedAt": "2026-08-21T02:13:18.000Z",
+            "language": "zh",
+            "originalLanguage": "en",
+            "translationStatus": "translated",
+            "fetchedAt": "2026-08-21T04:49:34.755Z",
+            "sourceMethod": "rss",
+            "verificationStatus": "pending"
+          }
+        ],
+        "images": [],
+        "generatedAt": "2026-08-21T04:49:30.785Z"
+      },
+      {
+        "id": "draft-real-cnbc-world-rss-1scruel",
+        "title": "中国人形机器人最大的障碍：人类仍然（大部分）更好",
+        "oneLine": "政策变化：北京——本周在北京举行的世界机器人大会上发表讲话的行业领袖表示，人形机器人面临的最大挑战仍然是让技术发挥良好作用。",
+        "importance": "B",
+        "credibility": "待确认",
+        "tags": [
+          "B",
+          "mustKnow",
+          "industry",
+          "world",
+          "policy",
+          "finance"
+        ],
+        "industries": [
+          "generalPublic",
+          "financeInvestment",
+          "operationsGrowth",
+          "ecommerceRetail"
+        ],
+        "section": "front",
+        "body": {
+          "background": "美国联邦通信委员会上个月将包括人形机器人在内的外国制造的先进机器人设备添加到限制进口美国的清单中。该声明没有具体说明具体国家，并表示零售商仍然可以进口 FCC 此前批准的型号。“在美国，可能受到影响的是自主移动机器人，这些机器人在工厂中的使用量比类人机器人要多得多，”他说。",
+          "keyProgress": "他的言论强调了人形机器人进入人类劳动力市场所面临的挑战。Unitree创始人王星星在其公司IPO日飙升460%的第二天在会议上发表讲话时表示，机器人的效率还不如人类，需要时间来学习新技能，这给行业带来了瓶颈。Unitree 股价周四下跌 18.7%。但自动化推进协会主席杰夫·伯恩斯坦 (Jeff Burnstein) 告诉 CNBC，目前这种限制的影响并没有那么大，因为美国使用的人形机器人并不多。",
+          "whyItMatters": "“中国人形机器人最大的障碍：人类仍然更好”如果继续发展，可能通过能源价格、航运、贸易、汇率或市场预期传导到国内。了解它的意义在于判断后续风险，而不只停留在事件本身。",
+          "userRelevance": "即使你不在中国，“中国人形机器人最大的障碍：人类仍然更好”也可能通过能源价格、国际航运、贸易成本和市场预期间接影响国内生活与工作判断。",
+          "whatToWatch": "接下来要看“中国人形机器人最大的障碍：人类仍然更好”是否出现更细的城市、行业、平台或企业数据，以及这一变化能否连续保持。"
+        },
+        "sourceLinks": [
+          {
+            "title": "CNBC World News RSS",
+            "url": "https://www.cnbc.com/2026/08/21/chinese-humanoid-robots-face-challenge-of-their-own-capabilities.html",
+            "sourceId": "cnbc-world-rss",
+            "publishedAt": "2026-08-21T01:56:01.000Z",
+            "language": "zh",
+            "originalLanguage": "en",
+            "translationStatus": "translated",
+            "fetchedAt": "2026-08-21T04:49:34.755Z",
+            "sourceMethod": "rss",
+            "verificationStatus": "pending"
+          }
+        ],
+        "images": [],
+        "generatedAt": "2026-08-21T04:49:30.785Z"
+      },
+      {
+        "id": "draft-real-un-news-rss-80p3ak",
+        "title": "人权调查警告称，随着选举临近，南苏丹面临新的暴行犯罪风险",
+        "oneLine": "最新进展：人权调查警告称，随着选举临近，南苏丹面临新的暴行犯罪风险。",
+        "importance": "B",
+        "credibility": "官方来源",
+        "tags": [
+          "B",
+          "mustKnow",
+          "world"
+        ],
+        "industries": [
+          "generalPublic"
+        ],
+        "section": "front",
+        "body": {
+          "background": "暴行犯罪正在汇聚防止南苏丹再次出现 2013 年至 2018 年期间遭受的暴行和流离失所规模的窗口正在关闭，但尚未完全关闭。”并指出，在没有基本保障的情况下“仓促举行选举”可能会加深现有冲突，并增加发生种族灭绝罪、反人类罪、战争罪和种族清洗等暴行罪的风险。如今，该协议的几乎一半关键条款尚未得到实施，包括统一该国安全部队。",
+          "keyProgress": "这一警告是在该国上尼罗州、琼莱州和团结州等多个地区重新爆发武装冲突之际发出的，西赤道州和中赤道州也出现了冲突和平民死亡。2025年8月至2026年1月期间，共记录了407起违反停火事件。该委员会表示：“独立十五年后，南苏丹正处于最危险的时刻之一。2018年，该国交战各方承诺达成一项重振和平协议（《解决南苏丹冲突重振协议》（R-ARCSS）。",
+          "whyItMatters": "“人权调查警告称，随着选举临近，南苏丹面临新的暴行犯罪风险”如果继续发展，可能通过能源价格、航运、贸易、汇率或市场预期传导到国内。了解它的意义在于判断后续风险，而不只停留在事件本身。",
+          "userRelevance": "即使你不在南苏丹，“人权调查警告称，随着选举临近，南苏丹面临新的暴行犯罪风险”也可能通过能源价格、国际航运、贸易成本和市场预期间接影响国内生活与工作判断。",
+          "whatToWatch": "接下来要看“人权调查警告称，随着选举临近，南苏丹面临新的暴行犯罪风险”是否出现新的官方信息、后续行动，以及它与中国出行、贸易或公共判断的关联是否扩大。"
+        },
+        "sourceLinks": [
+          {
+            "title": "联合国新闻 RSS",
+            "url": "https://news.un.org/feed/view/en/story/2026/08/1168173",
+            "sourceId": "un-news-rss",
+            "publishedAt": "2026-08-20T12:00:00.000Z",
+            "language": "zh",
+            "originalLanguage": "en",
+            "translationStatus": "translated",
+            "fetchedAt": "2026-08-20T23:37:40.895Z",
+            "sourceMethod": "rss",
+            "verificationStatus": "confirmed"
+          }
+        ],
+        "images": [
+          {
+            "url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/06/03-06-2026_UNMISS_South_Sudan_Ezo.jpg/image560x340cropped.jpg",
+            "sourceUrl": "https://news.un.org/feed/view/en/story/2026/08/1168173"
+          }
+        ],
+        "generatedAt": "2026-08-20T23:37:34.232Z"
+      },
+      {
+        "id": "draft-real-cnbc-world-rss-96hj5g",
+        "title": "印度内部通讯：随着苹果、三星获得优势，中国智能手机在印度遭遇芯片挤压",
+        "oneLine": "最新进展：印度内部通讯：随着苹果、三星获得优势，中国智能手机在印度遭遇芯片挤压。",
+        "importance": "B",
+        "credibility": "待确认",
+        "tags": [
+          "B",
+          "mustKnow",
+          "industry",
+          "world",
+          "policy",
+          "finance"
+        ],
+        "industries": [
+          "generalPublic",
+          "financeInvestment",
+          "operationsGrowth",
+          "ecommerceRetail"
+        ],
+        "section": "front",
+        "body": {
+          "background": "Counterpoint Research 联合创始人 Neil Shah 表示，新款中国手机在印度的售价可能在 200 至 250 美元之间，而此前还不到 150 美元。但这些公司几乎不可能在承受存储芯片不断上涨的成本的同时保持承受能力。欢迎来到最新一期的《印度内部》——了解世界上增长最快的大型经济体的故事和发展的一站式目的地。",
+          "keyProgress": "中国品牌在印度智能手机市场占据主导地位，在前五名中占有四席，因为其低价且功能丰富的手机吸引了注重成本的印度消费者。存储芯片成本的上涨对印度这个全球第二大市场的廉价中国品牌以及中端市场和高端美国和韩国智能手机公司的命运产生了鲜明的影响。根据市场情报公司的数据，150 美元以下类别的品牌已经将智能手机价格提高了 40%。中国智能手机公司凭借其功能丰富的产品在廉价市场占据主导地位。",
+          "whyItMatters": "“印度内部通讯：随着苹果、三星获得优势，中国智能手机在印度遭遇芯片挤压”如果继续发展，可能通过能源价格、航运、贸易、汇率或市场预期传导到国内。了解它的意义在于判断后续风险，而不只停留在事件本身。",
+          "userRelevance": "即使你不在中国、印度，“印度内部通讯：随着苹果、三星获得优势，中国智能手机在印度遭遇芯片挤压”也可能通过能源价格、国际航运、贸易成本和市场预期间接影响国内生活与工作判断。",
+          "whatToWatch": "接下来要看“印度内部通讯：随着苹果、三星获得优势，中国智能手机在印度遭遇芯片挤压”是否出现更细的城市、行业、平台或企业数据，以及这一变化能否连续保持。"
+        },
+        "sourceLinks": [
+          {
+            "title": "CNBC World News RSS",
+            "url": "https://www.cnbc.com/2026/08/20/india-apple-samsung-china-smartphone-chip-inflation.html",
+            "sourceId": "cnbc-world-rss",
+            "publishedAt": "2026-08-20T00:17:08.000Z",
+            "language": "zh",
+            "originalLanguage": "en",
+            "translationStatus": "translated",
+            "fetchedAt": "2026-08-20T23:37:40.965Z",
+            "sourceMethod": "rss",
+            "verificationStatus": "pending"
+          }
+        ],
+        "images": [],
+        "generatedAt": "2026-08-20T23:37:34.232Z"
+      },
+      {
+        "id": "draft-real-xinhua-world-1tkcaw1",
+        "title": "中国代表：团结合作应始终作为安理会最核心工作方法",
+        "oneLine": "政策变化：中国常驻联合国代表傅聪19日在安理会工作方法问题公开辩论会上发言，强调团结合作应始终作为安理会最核心的工作方法。",
+        "importance": "B",
+        "credibility": "主流媒体",
+        "tags": [
+          "B",
+          "mustKnow",
+          "industry",
+          "world",
+          "policy"
+        ],
+        "industries": [
+          "generalPublic",
+          "financeInvestment",
+          "operationsGrowth",
+          "contentCreator"
+        ],
+        "section": "front",
+        "body": {
+          "background": "傅聪说，作为全球集体安全机制的核心，安理会能否有效履职关乎联合国权威和信誉，关乎国际和平与安全的前景。安理会工作方法从来不是简单的技术问题，需要从维护国际和平与安全的大局出发，不断改进和完善。团结合作是多边机制的活力之源，应始终作为安理会最核心的工作方法。",
+          "keyProgress": "中方愿继续同各方一道，坚持多边主义，加强团结合作，共同支持安理会改进工作方法、提高履职能力，为推动建设持久和平、共同安全的世界发挥更大作用。无论是实质性问题还是程序性事项，安理会成员都应相互尊重、充分协商，妥善管控分歧，全力寻求共识。傅聪表示，安理会要遵循《联合国宪章》第六章精神，为有关当事方对话谈判创造有利条件，支持地区国家和区域组织发挥斡旋调解作用，尽最大努力争取和平解决争端。要切实尊重当事国主权和主导权，谨慎使用制裁、动武等强制手段。",
+          "whyItMatters": "“中国代表：团结合作应始终作为安理会最核心工作方法”如果继续发展，可能通过能源价格、航运、贸易、汇率或市场预期传导到国内。了解它的意义在于判断后续风险，而不只停留在事件本身。",
+          "userRelevance": "即使你不在中国，“中国代表：团结合作应始终作为安理会最核心工作方法”也可能通过能源价格、国际航运、贸易成本和市场预期间接影响国内生活与工作判断。",
+          "whatToWatch": "接下来要看“中国代表：团结合作应始终作为安理会最核心工作方法”是否出现新的官方信息、后续行动，以及它与中国出行、贸易或公共判断的关联是否扩大。"
+        },
+        "sourceLinks": [
+          {
+            "title": "新华网国际",
+            "url": "https://www.news.cn/world/20260820/0996cf2ec41f4515bfbe8ba5494ffff0/c.html",
+            "sourceId": "xinhua-world",
+            "publishedAt": "2026-08-20T00:00:00+08:00",
+            "language": "zh",
+            "originalLanguage": "zh",
+            "translationStatus": "not-needed",
+            "fetchedAt": "2026-08-20T23:37:39.970Z",
+            "sourceMethod": "web",
+            "verificationStatus": "confirmed"
+          }
+        ],
+        "images": [],
+        "generatedAt": "2026-08-20T23:37:34.232Z"
+      },
+      {
+        "id": "draft-cluster-real-gov-uk-news-1mqueb1",
+        "title": "2026 年 7 月我们如何保护英国和太空",
+        "oneLine": "风险提醒：《2026 年 7 月我们如何保护英国和太空》我们使用一些必要的 cookie 来使该网站正常运行。",
+        "importance": "B",
+        "credibility": "多源确认",
+        "tags": [
+          "B",
+          "risk",
+          "world",
+          "policy",
+          "local"
+        ],
+        "industries": [
+          "generalPublic",
+          "localLife"
+        ],
+        "section": "risk",
+        "body": {
+          "background": "出生、死亡、婚姻和护理 商业和自营职业 儿童保育和养育 英国公民身份和生活 犯罪、司法和法律 残疾人 驾驶和交通 教育和学习 就业人员 环境和乡村 住房和当地服务 金钱和税收 护照、旅行和国外生活 签证和移民 工作、工作和养老金 部门 部门、机构和公共机构 新闻 新闻故事、演讲、信件和通知 指导和监管 详细指导、法规和规则 研究和统计 报告、分析和官方统计政策文件和磋商 磋商和战略 透明度 数据、信息自由发布和公司报告 商业和工业 科学与创新 本报告于2026年8月发布，涵盖2026年7月1日至2026年7月31日期间。与 6 月相比，7 月英国利益面临的风险水平一致，不受控制的再入、碎片和太空天气活动的水平更高，但碰撞警报较少。我们使用一些必要的 cookie 来使该网站正常运行。",
+          "keyProgress": "8 月：34、9 月：39、10 月：54、11 月：43、12 月：52、1 月：50、2 月：66、3 月：72、4 月：68、5 月：48、6 月：53、7 月：62 7 月英国许可卫星的碰撞风险比 6 月低 16%，低于 12 个月滚动平均值。我们希望设置额外的 cookie 来了解您如何使用 GOV.UK、记住您的设置并改善政府服务。我们还使用其他网站设置的 cookie 来帮助我们从他们的服务中提供内容。您可以随时更改您的 cookie 设置。",
+          "whyItMatters": "“2026 年 7 月我们如何保护英国和太空”的直接价值是帮助你判断是否需要调整出行、居住或工作安排。影响地区、持续时间、预警等级和官方避险建议比事件热度更重要。",
+          "userRelevance": "对于“2026 年 7 月我们如何保护英国和太空”，如果你居住、出行或有家人在英国、印度尼西亚、印度，应及时查看当地预警和交通变化；不在相关地区时，通常无需改变日常安排。",
+          "whatToWatch": "接下来要看“2026 年 7 月我们如何保护英国和太空”的影响范围是否扩大、预警等级是否变化，以及是否出现与你所在城市相关的提醒。"
+        },
+        "sourceLinks": [
+          {
+            "title": "GOV.UK News and Communications",
+            "url": "https://www.gov.uk/government/news/how-we-protected-the-uk-and-space-in-july-2026",
+            "sourceId": "gov-uk-news",
+            "publishedAt": "2026-08-20T15:35:53.000Z",
+            "language": "zh",
+            "originalLanguage": "en",
+            "translationStatus": "translated",
+            "fetchedAt": "2026-08-20T23:37:40.705Z",
+            "sourceMethod": "rss",
+            "verificationStatus": "confirmed"
+          },
+          {
+            "title": "GDACS 灾害 Feed",
+            "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1560739",
+            "sourceId": "gdacs-feed",
+            "publishedAt": "2026-08-20T18:32:16.000Z",
+            "language": "zh",
+            "originalLanguage": "en",
+            "translationStatus": "translated",
+            "fetchedAt": "2026-08-20T23:37:38.000Z",
+            "sourceMethod": "rss",
+            "verificationStatus": "confirmed"
+          },
+          {
+            "title": "GDACS 灾害 Feed",
+            "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1560491",
+            "sourceId": "gdacs-feed",
+            "publishedAt": "2026-08-20T03:03:58.000Z",
+            "language": "zh",
+            "originalLanguage": "en",
+            "translationStatus": "translated",
+            "fetchedAt": "2026-08-20T23:37:38.000Z",
+            "sourceMethod": "rss",
+            "verificationStatus": "confirmed"
+          },
+          {
+            "title": "GOV.UK News and Communications",
+            "url": "https://www.gov.uk/government/news/pm-call-with-prime-minister-takaichi-of-japan-20-august-2026",
+            "sourceId": "gov-uk-news",
+            "publishedAt": "2026-08-20T14:14:42.000Z",
+            "language": "zh",
+            "originalLanguage": "en",
+            "translationStatus": "translated",
+            "fetchedAt": "2026-08-20T23:37:40.705Z",
+            "sourceMethod": "rss",
+            "verificationStatus": "confirmed"
+          },
+          {
+            "title": "GOV.UK News and Communications",
+            "url": "https://www.gov.uk/government/news/change-to-the-definition-of-regulated-activity-with-children-from-1-september-2026",
+            "sourceId": "gov-uk-news",
+            "publishedAt": "2026-08-20T09:43:41.000Z",
+            "language": "zh",
+            "originalLanguage": "en",
+            "translationStatus": "translated",
+            "fetchedAt": "2026-08-20T23:37:40.705Z",
+            "sourceMethod": "rss",
+            "verificationStatus": "confirmed"
+          }
+        ],
+        "images": [
+          {
+            "url": "https://assets.publishing.service.gov.uk/media/6a7def903be22055c1aaa2af/s300_NSpOC_GDS_Image_White_Large.png",
+            "sourceUrl": "https://www.gov.uk/government/news/how-we-protected-the-uk-and-space-in-july-2026"
+          }
+        ],
+        "generatedAt": "2026-08-20T23:37:34.232Z"
+      }
+    ],
+    "estimatedReadMinutes": 38,
+    "pageCount": 3,
+    "topCardId": "draft-real-cnbc-world-rss-13qonwh",
+    "generatedAt": "2026-08-21T13:29:22.747Z",
+    "pushSlots": [
+      "08:30",
+      "12:30",
+      "21:30"
+    ],
+    "edition": "evening",
+    "editionLabel": "晚间更新",
+    "coverageWindow": {
+      "start": "2026-08-21T12:10:00+08:00",
+      "end": "2026-08-21T21:10:00+08:00"
+    },
+    "basedOnGeneratedAt": "2026-08-21T04:49:30.785Z",
+    "editionCardIds": [
+      "draft-real-npr-world-rss-1rr8e5u",
+      "draft-real-cnbc-world-rss-13qonwh",
+      "draft-real-cnbc-world-rss-slzueh",
+      "draft-real-deepmind-blog-42k684",
+      "draft-real-cnbc-world-rss-vr21oy",
+      "draft-real-cnbc-world-rss-1s24vs1",
+      "draft-real-cnbc-world-rss-1hdkcxr",
+      "draft-real-cnbc-world-rss-3mt6ya",
+      "draft-real-cnbc-world-rss-bxkd2f",
+      "draft-real-cnbc-world-rss-1ehq0r5",
+      "draft-real-cnbc-world-rss-1fipkyx"
+    ],
+    "carriedCardIds": [
+      "draft-real-cnbc-world-rss-1tti74m",
+      "draft-real-cnbc-world-rss-10klhgj",
+      "draft-real-cnbc-world-rss-1h2xwxp",
+      "draft-cluster-real-mofcom-trade-1lc3pd4",
+      "draft-real-npr-world-rss-13fkkld",
+      "draft-cluster-real-npr-world-rss-1rg3x3o",
+      "draft-real-gov-uk-news-1bsu1kn",
+      "draft-real-cnbc-world-rss-py05vf",
+      "draft-real-cnbc-world-rss-1scruel",
+      "draft-real-un-news-rss-80p3ak",
+      "draft-real-cnbc-world-rss-96hj5g",
+      "draft-real-xinhua-world-1tkcaw1",
+      "draft-cluster-real-gov-uk-news-1mqueb1"
+    ]
+  }
+}

@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "publishedAt": "2026-08-21T22:56:05.049Z",
+  "publishedAt": "2026-08-21T23:36:19.202Z",
   "issue": {
     "id": "daily-public-2026-08-22",
     "date": "2026-08-22",
@@ -42,13 +42,13 @@
             "language": "zh",
             "originalLanguage": "zh",
             "translationStatus": "not-needed",
-            "fetchedAt": "2026-08-21T22:56:09.073Z",
+            "fetchedAt": "2026-08-21T23:36:22.715Z",
             "sourceMethod": "web",
             "verificationStatus": "confirmed"
           }
         ],
         "images": [],
-        "generatedAt": "2026-08-21T22:56:05.049Z"
+        "generatedAt": "2026-08-21T23:36:19.202Z"
       },
       {
         "id": "draft-real-npr-world-rss-1s17zut",
@@ -87,7 +87,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-21T22:56:08.898Z",
+            "fetchedAt": "2026-08-21T23:36:23.453Z",
             "sourceMethod": "rss",
             "verificationStatus": "confirmed"
           }
@@ -98,7 +98,7 @@
             "sourceUrl": "https://www.npr.org/2026/08/21/nx-s1-5940610/iran-us-threat-economic-warfare"
           }
         ],
-        "generatedAt": "2026-08-21T22:56:05.049Z"
+        "generatedAt": "2026-08-21T23:36:19.202Z"
       },
       {
         "id": "draft-real-cnbc-world-rss-14un2od",
@@ -137,13 +137,13 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-21T22:56:09.410Z",
+            "fetchedAt": "2026-08-21T23:36:23.884Z",
             "sourceMethod": "rss",
             "verificationStatus": "pending"
           }
         ],
         "images": [],
-        "generatedAt": "2026-08-21T22:56:05.049Z"
+        "generatedAt": "2026-08-21T23:36:19.202Z"
       },
       {
         "id": "draft-real-cnbc-world-rss-1mbanhn",
@@ -182,7 +182,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-21T22:56:09.410Z",
+            "fetchedAt": "2026-08-21T23:36:23.884Z",
             "sourceMethod": "rss",
             "verificationStatus": "pending"
           }
@@ -193,7 +193,7 @@
             "sourceUrl": "https://www.cnbc.com/2026/08/21/trump-ground-beef-import-tariff.html"
           }
         ],
-        "generatedAt": "2026-08-21T22:56:05.049Z"
+        "generatedAt": "2026-08-21T23:36:19.202Z"
       },
       {
         "id": "draft-real-cnbc-world-rss-wdudy9",
@@ -232,7 +232,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-21T22:56:09.410Z",
+            "fetchedAt": "2026-08-21T23:36:23.884Z",
             "sourceMethod": "rss",
             "verificationStatus": "pending"
           }
@@ -247,7 +247,7 @@
             "sourceUrl": "https://www.cnbc.com/2026/08/21/oil-prices-us-iran.html"
           }
         ],
-        "generatedAt": "2026-08-21T22:56:05.049Z"
+        "generatedAt": "2026-08-21T23:36:19.202Z"
       },
       {
         "id": "draft-real-mofcom-trade-1r24boq",
@@ -286,7 +286,7 @@
             "language": "zh",
             "originalLanguage": "zh",
             "translationStatus": "not-needed",
-            "fetchedAt": "2026-08-21T22:56:11.218Z",
+            "fetchedAt": "2026-08-21T23:36:25.420Z",
             "sourceMethod": "web",
             "verificationStatus": "confirmed"
           }
@@ -305,7 +305,7 @@
             "sourceUrl": "https://www.mofcom.gov.cn/xwfb/bldhd/art/2026/art_3c75ebcbff4f41ae8a245497e9796276.html"
           }
         ],
-        "generatedAt": "2026-08-21T22:56:05.049Z"
+        "generatedAt": "2026-08-21T23:36:19.202Z"
       },
       {
         "id": "draft-real-xinhua-world-6b4hkm",
@@ -343,13 +343,13 @@
             "language": "zh",
             "originalLanguage": "zh",
             "translationStatus": "not-needed",
-            "fetchedAt": "2026-08-21T22:56:09.073Z",
+            "fetchedAt": "2026-08-21T23:36:22.715Z",
             "sourceMethod": "web",
             "verificationStatus": "confirmed"
           }
         ],
         "images": [],
-        "generatedAt": "2026-08-21T22:56:05.049Z"
+        "generatedAt": "2026-08-21T23:36:19.202Z"
       },
       {
         "id": "draft-real-xinhua-world-1190fa0",
@@ -387,7 +387,7 @@
             "language": "zh",
             "originalLanguage": "zh",
             "translationStatus": "not-needed",
-            "fetchedAt": "2026-08-21T22:56:09.073Z",
+            "fetchedAt": "2026-08-21T23:36:22.715Z",
             "sourceMethod": "web",
             "verificationStatus": "confirmed"
           }
@@ -414,7 +414,7 @@
             "sourceUrl": "https://www.news.cn/world/20260821/75c4deaaa51744fe9d748660b82760fb/c.html"
           }
         ],
-        "generatedAt": "2026-08-21T22:56:05.049Z"
+        "generatedAt": "2026-08-21T23:36:19.202Z"
       },
       {
         "id": "draft-real-cnbc-world-rss-1r6tajd",
@@ -453,7 +453,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-21T22:56:09.410Z",
+            "fetchedAt": "2026-08-21T23:36:23.884Z",
             "sourceMethod": "rss",
             "verificationStatus": "pending"
           }
@@ -464,7 +464,7 @@
             "sourceUrl": "https://www.cnbc.com/2026/08/21/tesla-recalls-cars-in-china-over-doorhandle-safety-driver-monitoring.html"
           }
         ],
-        "generatedAt": "2026-08-21T22:56:05.049Z"
+        "generatedAt": "2026-08-21T23:36:19.202Z"
       },
       {
         "id": "draft-real-gov-uk-news-1ps54zv",
@@ -501,7 +501,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-21T22:56:09.316Z",
+            "fetchedAt": "2026-08-21T23:36:23.876Z",
             "sourceMethod": "rss",
             "verificationStatus": "confirmed"
           }
@@ -512,7 +512,7 @@
             "sourceUrl": "https://www.gov.uk/government/news/beacon-fen-energy-park-development-consent-decision-announced"
           }
         ],
-        "generatedAt": "2026-08-21T22:56:05.049Z"
+        "generatedAt": "2026-08-21T23:36:19.202Z"
       },
       {
         "id": "draft-real-deepmind-blog-42k684",
@@ -551,7 +551,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-21T22:56:10.881Z",
+            "fetchedAt": "2026-08-21T23:36:25.433Z",
             "sourceMethod": "rss",
             "verificationStatus": "confirmed"
           }
@@ -562,7 +562,7 @@
             "sourceUrl": "https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games/"
           }
         ],
-        "generatedAt": "2026-08-21T22:56:05.049Z"
+        "generatedAt": "2026-08-21T23:36:19.202Z"
       },
       {
         "id": "draft-cluster-real-xinhua-tech-dv1vuj",
@@ -602,7 +602,7 @@
             "language": "zh",
             "originalLanguage": "zh",
             "translationStatus": "not-needed",
-            "fetchedAt": "2026-08-21T22:56:08.554Z",
+            "fetchedAt": "2026-08-21T23:36:22.741Z",
             "sourceMethod": "web",
             "verificationStatus": "confirmed"
           },
@@ -614,13 +614,13 @@
             "language": "zh",
             "originalLanguage": "zh",
             "translationStatus": "not-needed",
-            "fetchedAt": "2026-08-21T22:56:08.554Z",
+            "fetchedAt": "2026-08-21T23:36:22.741Z",
             "sourceMethod": "web",
             "verificationStatus": "confirmed"
           }
         ],
         "images": [],
-        "generatedAt": "2026-08-21T22:56:05.049Z"
+        "generatedAt": "2026-08-21T23:36:19.202Z"
       },
       {
         "id": "draft-real-xinhua-tech-1uxtm01",
@@ -660,13 +660,13 @@
             "language": "zh",
             "originalLanguage": "zh",
             "translationStatus": "not-needed",
-            "fetchedAt": "2026-08-21T22:56:08.554Z",
+            "fetchedAt": "2026-08-21T23:36:22.741Z",
             "sourceMethod": "web",
             "verificationStatus": "confirmed"
           }
         ],
         "images": [],
-        "generatedAt": "2026-08-21T22:56:05.049Z"
+        "generatedAt": "2026-08-21T23:36:19.202Z"
       },
       {
         "id": "draft-real-xinhua-tech-1ii6275",
@@ -706,16 +706,66 @@
             "language": "zh",
             "originalLanguage": "zh",
             "translationStatus": "not-needed",
-            "fetchedAt": "2026-08-21T22:56:08.554Z",
+            "fetchedAt": "2026-08-21T23:36:22.741Z",
             "sourceMethod": "web",
             "verificationStatus": "confirmed"
           }
         ],
         "images": [],
-        "generatedAt": "2026-08-21T22:56:05.049Z"
+        "generatedAt": "2026-08-21T23:36:19.202Z"
       },
       {
-        "id": "draft-real-techcrunch-ai-rss-1k496d3",
+        "id": "draft-real-techcrunch-ai-rss-9suofd",
+        "title": "Anthropic 的 Opus 4.6 是一台色情机器",
+        "oneLine": "趋势信号：Anthropic 对 Claude 的通用使用标准禁止该模型生成露骨的性内容，包括描绘或要求性交或性行为、生成与性恋物癖或性幻想相关的内容，或参与色情聊天。",
+        "importance": "B",
+        "credibility": "待确认",
+        "tags": [
+          "B",
+          "industry",
+          "ai",
+          "technology",
+          "product"
+        ],
+        "industries": [
+          "aiProduct",
+          "aiTechnology",
+          "productManagement",
+          "technologyEngineering",
+          "educationResearch"
+        ],
+        "section": "ai",
+        "body": {
+          "background": "但这并没有阻止今年早些时候发布的 Anthropic 模型 Claude Opus 4.6 轻松参与色情角色扮演场景，而其保护措施旨在防止这种情况。其他较旧的型号，包括 Opus 3 和 Haiku 4.5，也通过最近利用的越狱方法生成露骨的色情内容。“我对待这两个角色的方式存在双重标准，你是对的，它读起来是一种保护/家长式作风，适用于她而不是他。",
+          "keyProgress": "在十分之十的直接要求制作露骨色情内容的情况下，该模特立即答应了。一位选择保持匿名的英国独立研究人员向 TechCrunch 独家分享了一种多轮技术，该技术逐渐推动某些克劳德模型生成被禁止的露骨性内容。虽然这些不再是最新的模型，但 Anthropic 并未弃用 Opus 4.6、Opus 3 或 Haiku 4.5，所有这些模型仍然可以通过 Anthropic API 使用。Opus 4.6 和 Haiku 4.5 也可通过 Azure Foundry 和 Amazon Bedrock 等第三方服务获得。",
+          "whyItMatters": "“Anthropic 的 Opus 4.6 是一台色情机器”能帮助你判断这项能力是否已经进入工程、产品或商业场景，并据此调整技术选型、产品规划、学习重点或职业判断。",
+          "userRelevance": "如果你从事AI 产品、AI 技术、产品管理、技术研发，可以重点判断“Anthropic 的 Opus 4.6 是一台色情机器”是否已经具备产品落地、技术选型或业务合作价值。",
+          "whatToWatch": "接下来要看“Anthropic 的 Opus 4.6 是一台色情机器”是否有更多可靠来源、量产或应用进展，以及它会不会从单点消息发展成持续趋势。"
+        },
+        "sourceLinks": [
+          {
+            "title": "TechCrunch AI RSS",
+            "url": "https://techcrunch.com/2026/08/21/anthropics-opus-4-6-is-a-smut-machine/",
+            "sourceId": "techcrunch-ai-rss",
+            "publishedAt": "2026-08-21T23:07:25.000Z",
+            "language": "zh",
+            "originalLanguage": "en",
+            "translationStatus": "translated",
+            "fetchedAt": "2026-08-21T23:36:25.310Z",
+            "sourceMethod": "rss",
+            "verificationStatus": "pending"
+          }
+        ],
+        "images": [
+          {
+            "url": "https://techcrunch.com/wp-content/uploads/2026/08/Claude-models-can-be-jailbroken-into-explicit-sexual-roleplay.jpg?w=680",
+            "sourceUrl": "https://techcrunch.com/2026/08/21/anthropics-opus-4-6-is-a-smut-machine/"
+          }
+        ],
+        "generatedAt": "2026-08-21T23:36:19.202Z"
+      },
+      {
+        "id": "draft-real-techcrunch-ai-rss-1ke8s22",
         "title": "英伟达刚刚证明，现在真正的英雄是线束，而不是人工智能模型",
         "oneLine": "趋势信号：英伟达周五发布了一些有趣的新研究，表明在要求人工智能执行长期任务时，工具比底层模型更重要。",
         "importance": "B",
@@ -751,58 +801,13 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-21T22:56:10.838Z",
+            "fetchedAt": "2026-08-21T23:36:25.310Z",
             "sourceMethod": "rss",
             "verificationStatus": "pending"
           }
         ],
         "images": [],
-        "generatedAt": "2026-08-21T22:56:05.049Z"
-      },
-      {
-        "id": "draft-real-techcrunch-ai-rss-1ijuu8r",
-        "title": "美国司法部正在调查 a16z。这对风险投资意味着什么？",
-        "oneLine": "最新进展：美国司法部正在调查 a16z。这对风险投资意味着什么。",
-        "importance": "B",
-        "credibility": "待确认",
-        "tags": [
-          "B",
-          "industry",
-          "ai",
-          "technology",
-          "product"
-        ],
-        "industries": [
-          "aiProduct",
-          "aiTechnology",
-          "productManagement",
-          "technologyEngineering",
-          "educationResearch"
-        ],
-        "section": "ai",
-        "body": {
-          "background": "表面上看，并没有什么太丑闻的地方，只是据报道，司法部已经对这一安排进行了近一年的调查，并重新制定了一项已有 112 年历史的反垄断法，该法很少用于针对风险投资公司。收听完整剧集，了解更多相关内容： 为什么 Stripe 斥资 75 亿美元收购 AI 模型路由器 OpenRouter，以及为什么“奇点”并不是真正的原因 随着 OpenAI、Anthropic 和 Nvidia 进一步领先，夹在中间的 AI 公司会发生什么？董事会冲突并不是什么新鲜事，当 a16z 第一次投资这些公司时，这些公司并不一定是直接竞争对手。",
-          "keyProgress": "但随着投资组合公司向彼此市场扩张，司法部的审查给风险投资公司提出了一个更大的问题：当投资组合公司之间的界限不断变化时，你如何管理董事会席位？在 TechCrunch 股票播客的这一集中，Kirsten Korosec、Anthony Ha 和 Sean O’Kane 深入探讨了 a16z 调查、它对风险投资意味着什么，以及本周的更多头条新闻。为什么 Rivian 分拆公司也刚刚筹集 1.5 亿美元，在自动驾驶汽车上押下更大的赌注 Uber 与无人机公司 Zipline 建立了最新的送货合作伙伴关系，以及这对其他自动驾驶初创公司押注意味着什么他们在 Uber 上的未来 在 Wispr 以 20 亿美元的估值筹集 2.8 亿美元后，我们是否已达到人工智能听写应用程序的最高估值 订阅 YouTube、Apple Podcasts、Overcast、Spotify 和所有其他公司的股票。您还可以关注 @EquityPod 上的 Equity on X and Threads 。",
-          "whyItMatters": "“美国司法部正在调查 a16z。这对风险投资意味着什么”能帮助你判断这项能力是否已经进入工程、产品或商业场景，并据此调整技术选型、产品规划、学习重点或职业判断。",
-          "userRelevance": "如果你从事AI 产品、AI 技术、产品管理、技术研发，可以重点判断“美国司法部正在调查 a16z。这对风险投资意味着什么”是否已经具备产品落地、技术选型或业务合作价值。",
-          "whatToWatch": "接下来要看“美国司法部正在调查 a16z。这对风险投资意味着什么”是否有更多可靠来源、量产或应用进展，以及它会不会从单点消息发展成持续趋势。"
-        },
-        "sourceLinks": [
-          {
-            "title": "TechCrunch AI RSS",
-            "url": "https://techcrunch.com/podcast/the-doj-is-investigating-a16z-what-does-this-mean-for-venture-capital/",
-            "sourceId": "techcrunch-ai-rss",
-            "publishedAt": "2026-08-21T14:00:00.000Z",
-            "language": "zh",
-            "originalLanguage": "en",
-            "translationStatus": "translated",
-            "fetchedAt": "2026-08-21T22:56:10.838Z",
-            "sourceMethod": "rss",
-            "verificationStatus": "pending"
-          }
-        ],
-        "images": [],
-        "generatedAt": "2026-08-21T22:56:05.049Z"
+        "generatedAt": "2026-08-21T23:36:19.202Z"
       },
       {
         "id": "draft-real-techcrunch-ai-rss-1c7vmuh",
@@ -841,18 +846,18 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-21T22:56:10.838Z",
+            "fetchedAt": "2026-08-21T23:36:25.310Z",
             "sourceMethod": "rss",
             "verificationStatus": "pending"
           }
         ],
         "images": [],
-        "generatedAt": "2026-08-21T22:56:05.049Z"
+        "generatedAt": "2026-08-21T23:36:19.202Z"
       },
       {
-        "id": "draft-real-techcrunch-ai-rss-1wz7ut2",
-        "title": "AI 数据初创公司 Micro1 在 AI 培训热潮中毛运行率达到 5 亿美元",
-        "oneLine": "趋势信号：顶级实验室和企业对独特人工智能训练数据的近乎无底的需求正在推动一批数据标签初创公司的巨大繁荣。",
+        "id": "draft-real-techcrunch-ai-rss-1k7sgel",
+        "title": "美国司法部正在调查 a16z。这对风险投资意味着什么？",
+        "oneLine": "最新进展：美国司法部正在调查 a16z。这对风险投资意味着什么。",
         "importance": "B",
         "credibility": "待确认",
         "tags": [
@@ -871,28 +876,73 @@
         ],
         "section": "ai",
         "body": {
-          "background": "据一位知情人士透露，Micro1 是这些快速增长的企业之一，这家成立四年的初创公司在过去八个月里将年毛营业额从 1 亿美元扩大到了 5 亿美元。与以合同形式聘用医生、律师和科学家等领域专家的同行一样，Micro1 保留了大约 60% 到 70% 的数字，使其年净运行率在 1.5 亿美元到 2 亿美元之间。虽然 Micro1 仍然落后于 Mercor（今年夏天年化总收入达到 20 亿美元）和 Handshake（今年早些时候达到 10 亿美元）等竞争对手，但这家初创公司的收入增长表明，有足够的需求来支持多个提供 AI 训练数据的参与者。",
-          "keyProgress": "这种快速增长势必会持续下去，一些研究人员假设未来人工智能在数据上的支出可能会与计算上的支出相媲美。这一前景对 Micro1 来说是个好兆头，该公司的合同规模正在加速增长，并预计其利润率将随着时间的推移而扩大。向多个客户出售相同的数据集最近引发了争议，批评者认为，向中国人工智能开发人员分发现成的数据有助于使他们的模型与美国顶级模型一样强大。Micro1 的创始人 Ali Ansari 上个月在 X 上表示，与一些竞争对手不同，该初创公司不会将其数据出售给中国模型制造商。",
-          "whyItMatters": "“AI 数据初创公司 Micro1 在 AI 培训热潮中毛运行率达到 5 亿美元”能帮助你判断这项能力是否已经进入工程、产品或商业场景，并据此调整技术选型、产品规划、学习重点或职业判断。",
-          "userRelevance": "如果你从事AI 产品、AI 技术、产品管理、技术研发，可以重点判断“AI 数据初创公司 Micro1 在 AI 培训热潮中毛运行率达到 5 亿美元”是否已经具备产品落地、技术选型或业务合作价值。",
-          "whatToWatch": "接下来要看“AI 数据初创公司 Micro1 在 AI 培训热潮中毛运行率达到 5 亿美元”是否有更多可靠来源、量产或应用进展，以及它会不会从单点消息发展成持续趋势。"
+          "background": "表面上看，并没有什么太丑闻的地方，只是据报道，司法部已经对这一安排进行了近一年的调查，并重新制定了一项已有 112 年历史的反垄断法，该法很少用于针对风险投资公司。收听完整剧集，了解更多相关内容： 为什么 Stripe 斥资 75 亿美元收购 AI 模型路由器 OpenRouter，以及为什么“奇点”并不是真正的原因 随着 OpenAI、Anthropic 和 Nvidia 进一步领先，夹在中间的 AI 公司会发生什么？董事会冲突并不是什么新鲜事，当 a16z 第一次投资这些公司时，这些公司并不一定是直接竞争对手。",
+          "keyProgress": "但随着投资组合公司向彼此市场扩张，司法部的审查给风险投资公司提出了一个更大的问题：当投资组合公司之间的界限不断变化时，你如何管理董事会席位？在 TechCrunch 股票播客的这一集中，Kirsten Korosec、Anthony Ha 和 Sean O’Kane 深入探讨了 a16z 调查、它对风险投资意味着什么，以及本周的更多头条新闻。为什么 Rivian 分拆公司也刚刚筹集 1.5 亿美元，在自动驾驶汽车上押下更大的赌注 Uber 与无人机公司 Zipline 建立了最新的送货合作伙伴关系，以及这对其他自动驾驶初创公司押注意味着什么他们在 Uber 上的未来 在 Wispr 以 20 亿美元的估值筹集 2.8 亿美元后，我们是否已达到人工智能听写应用程序的最高估值 订阅 YouTube、Apple Podcasts、Overcast、Spotify 和所有其他公司的股票。您还可以关注 @EquityPod 上的 Equity on X and Threads 。",
+          "whyItMatters": "“美国司法部正在调查 a16z。这对风险投资意味着什么”能帮助你判断这项能力是否已经进入工程、产品或商业场景，并据此调整技术选型、产品规划、学习重点或职业判断。",
+          "userRelevance": "如果你从事AI 产品、AI 技术、产品管理、技术研发，可以重点判断“美国司法部正在调查 a16z。这对风险投资意味着什么”是否已经具备产品落地、技术选型或业务合作价值。",
+          "whatToWatch": "接下来要看“美国司法部正在调查 a16z。这对风险投资意味着什么”是否有更多可靠来源、量产或应用进展，以及它会不会从单点消息发展成持续趋势。"
         },
         "sourceLinks": [
           {
             "title": "TechCrunch AI RSS",
-            "url": "https://techcrunch.com/2026/08/20/ai-data-startup-micro1-reaches-500m-gross-run-rate-amid-ai-training-boom/",
+            "url": "https://techcrunch.com/podcast/the-doj-is-investigating-a16z-what-does-this-mean-for-venture-capital/",
             "sourceId": "techcrunch-ai-rss",
-            "publishedAt": "2026-08-21T00:13:44.000Z",
+            "publishedAt": "2026-08-21T14:00:00.000Z",
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-21T22:56:10.838Z",
+            "fetchedAt": "2026-08-21T23:36:25.310Z",
             "sourceMethod": "rss",
             "verificationStatus": "pending"
           }
         ],
         "images": [],
-        "generatedAt": "2026-08-21T22:56:05.049Z"
+        "generatedAt": "2026-08-21T23:36:19.202Z"
+      },
+      {
+        "id": "draft-real-stats-cn-data-1js7sp",
+        "title": "国家统计局关于2026年早稻产量数据的公告",
+        "oneLine": "经营环境信号：根据早稻抽样调查结果推算， 2026 年全国早稻播种面积、单位面积产量、总产量如下： 全国早稻播种面积 4744.3 千公顷（ 7116.4 万亩），比 2025 年增加 1.4 千公顷（ 2.2 万亩），略有增加。",
+        "importance": "B",
+        "credibility": "官方来源",
+        "tags": [
+          "B",
+          "industry",
+          "china",
+          "consumer",
+          "operations"
+        ],
+        "industries": [
+          "operationsGrowth",
+          "consumerBrand",
+          "financeInvestment",
+          "ecommerceRetail",
+          "generalPublic"
+        ],
+        "section": "industry",
+        "body": {
+          "background": "国家统计局公布的早稻产量数据，由以省为总体抽样调查得出。早稻产量数据由国家统计局各调查总队组织在抽中的 200 多个国家调查县（市）开展抽样调查和实割实测调查。实割实测是指基层调查员在早稻收获前，按照《农林牧渔业统计报表制度》对早稻种植地块进行逐块踏田估产、排队，抽取一定数量调查地块做出标记，在收割期由各县级调查队员或者辅助调查员对抽中地块进行放样、实际割取样本，再通过脱粒、晾晒、测水杂和称重等环节测量地块单产。",
+          "keyProgress": "全国早稻单位面积产量 5963.4 公斤 / 公顷（ 397.6 公斤 / 亩），比 2025 年减少 48.5 公斤 / 公顷（ 3.2 公斤 / 亩），下降 0.8% 。全国早稻总产量 2829.2 万吨（ 565.8 亿斤），比 2025 年减少 22.2 万吨（ 4.4 亿斤），下降 0.8% 。2026 年 8 月 21 日 2026 年各地区早稻产量情况 1. 未列出的省（区、市）没有早稻生产。2. 此表中部分数据因四舍五入，存在总计与分省合计数不等的情况。",
+          "whyItMatters": "“国家统计局关于2026年早稻产量数据的公告”反映了需求、成本或市场节奏的一次变化。它不一定马上改变日常生活，但会影响选品、定价、投放、库存和内容方向。",
+          "userRelevance": "如果你从事运营增长、消费品牌、金融投资、电商零售，“国家统计局关于2026年早稻产量数据的公告”可用于观察需求和成本变化，并辅助定价、选品、投放或经营节奏判断。",
+          "whatToWatch": "接下来要看“国家统计局关于2026年早稻产量数据的公告”是否出现更细的城市、行业、平台或企业数据，以及这一变化能否连续保持。"
+        },
+        "sourceLinks": [
+          {
+            "title": "国家统计局数据发布",
+            "url": "https://www.stats.gov.cn/sj/zxfb/202608/t20260821_1965086.html",
+            "sourceId": "stats-cn-data",
+            "publishedAt": "2026-08-21T00:00:00+08:00",
+            "language": "zh",
+            "originalLanguage": "zh",
+            "translationStatus": "not-needed",
+            "fetchedAt": "2026-08-21T23:36:32.936Z",
+            "sourceMethod": "web",
+            "verificationStatus": "confirmed"
+          }
+        ],
+        "images": [],
+        "generatedAt": "2026-08-21T23:36:19.202Z"
       },
       {
         "id": "draft-real-cas-science-news-1gj4fhk",
@@ -927,7 +977,7 @@
             "language": "zh",
             "originalLanguage": "zh",
             "translationStatus": "not-needed",
-            "fetchedAt": "2026-08-21T22:56:06.634Z",
+            "fetchedAt": "2026-08-21T23:36:21.021Z",
             "sourceMethod": "web",
             "verificationStatus": "confirmed"
           }
@@ -938,56 +988,13 @@
             "sourceUrl": "https://www.cas.cn/syky/202608/t20260821_5118765.shtml"
           }
         ],
-        "generatedAt": "2026-08-21T22:56:05.049Z"
-      },
-      {
-        "id": "draft-real-chrm-mohrss-vzw026",
-        "title": "广西 【广西】南宁市人力资源和社会保障局关于发布2026－2028年度南宁市重点产业急需紧缺技能人才职业（工种）目录的通知",
-        "oneLine": "政策变化：各县（市、区）、开发区人力资源和社会保障局，各有关单位： 为深入贯彻中共中央办公厅、国务院办公厅印发《关于加强新时代高技能人才队伍建设的意见》、《国务院就业促进和劳动保护工作领导小组关于开展大规模职业技能提升培训行动的指导意见》（国就劳发〔2025〕4号）和《人力资源社会保障部 财政部关于实施“技能。",
-        "importance": "B",
-        "credibility": "官方来源",
-        "tags": [
-          "B",
-          "industry",
-          "hr",
-          "policy",
-          "china"
-        ],
-        "industries": [
-          "hrRecruiting",
-          "generalPublic",
-          "teacher"
-        ],
-        "section": "industry",
-        "body": {
-          "background": "结合调研、征集意见和研讨论证情况，南宁市人力资源和社会保障局编制了《2026－2028年度南宁市重点产业急需紧缺技能人才职业（工种）目录》（详见附件），现予以发布。请各县（市、区）、开发区人力资源和社会保障局及各有关单位大力引导广大群众特别是重点就业群体积极参与急需紧缺职业（工种）培训，大力引导各类职业技能培训机构积极开展急需紧缺职业（工种）培训，大力引导职业技能评价机构积极开展急需紧缺职业（工种）人才评价工作，紧盯产业布局，紧贴企业需求，紧扣就业需要，共同推进我市技能人才培养，全力推动首府南宁经济社会高质量发展。附件:2026－2028年度南宁市重点产业急需紧缺技能人才职业(工种)目录 南宁市人力资源和社会保障局 附件： 2026-2028年度南宁市重点产业急需紧缺技能人才职业（工种）目录.docx",
-          "keyProgress": "广西 【广西】南宁市人力资源和社会保障局关于发布2026－2028年度南宁市重点产业急需紧缺技能人才职业（工种）目录的通知。广西 【广西】南宁市人力资源和社会保障局关于发布2026－2028年度南宁市重点产业急需紧缺技能人才职业（工种）目录的通知",
-          "whyItMatters": "“广西 【广西】南宁市人力资源和社会保障局关于发布2026－2028年度南宁市重点产业急需紧缺技能”可能影响招聘节奏、人才供给、就业服务或用工判断。对 HR、招聘、求职和关注城市人才政策的人更有参考价值。",
-          "userRelevance": "如果你从事 HR、招聘或求职相关工作，可以重点关注“广西 【广西】南宁市人力资源和社会保障局关于发布2026－2028年度南宁市重点产业急需紧缺技能”涉及的岗位要求、人才供给和地方执行安排；其他用户可把它作为就业环境背景了解。",
-          "whatToWatch": "接下来要看“广西 【广西】南宁市人力资源和社会保障局关于发布2026－2028年度南宁市重点产业急需紧缺技能”是否补充执行细则、地方落地安排、时间节点或适用人群说明。"
-        },
-        "sourceLinks": [
-          {
-            "title": "中国人力资源市场网",
-            "url": "https://chrm.mohrss.gov.cn/announcement/%e3%80%90%e5%b9%bf%e8%a5%bf%e3%80%91%e5%8d%97%e5%ae%81%e5%b8%82%e4%ba%ba%e5%8a%9b%e8%b5%84%e6%ba%90%e5%92%8c%e7%a4%be%e4%bc%9a%e4%bf%9d%e9%9a%9c%e5%b1%80%e5%85%b3%e4%ba%8e%e5%8f%91%e5%b8%832026/",
-            "sourceId": "chrm-mohrss",
-            "publishedAt": "2026-08-21T00:00:00+08:00",
-            "language": "zh",
-            "originalLanguage": "zh",
-            "translationStatus": "not-needed",
-            "fetchedAt": "2026-08-21T22:56:16.498Z",
-            "sourceMethod": "web",
-            "verificationStatus": "confirmed"
-          }
-        ],
-        "images": [],
-        "generatedAt": "2026-08-21T22:56:05.049Z"
+        "generatedAt": "2026-08-21T23:36:19.202Z"
       }
     ],
     "estimatedReadMinutes": 33,
     "pageCount": 3,
     "topCardId": "draft-real-xinhua-world-1ff37kp",
-    "generatedAt": "2026-08-21T22:56:05.049Z",
+    "generatedAt": "2026-08-21T23:36:19.202Z",
     "pushSlots": [
       "08:30",
       "12:30",
@@ -1014,12 +1021,12 @@
       "draft-cluster-real-xinhua-tech-dv1vuj",
       "draft-real-xinhua-tech-1uxtm01",
       "draft-real-xinhua-tech-1ii6275",
-      "draft-real-techcrunch-ai-rss-1k496d3",
-      "draft-real-techcrunch-ai-rss-1ijuu8r",
+      "draft-real-techcrunch-ai-rss-9suofd",
+      "draft-real-techcrunch-ai-rss-1ke8s22",
       "draft-real-techcrunch-ai-rss-1c7vmuh",
-      "draft-real-techcrunch-ai-rss-1wz7ut2",
-      "draft-real-cas-science-news-1gj4fhk",
-      "draft-real-chrm-mohrss-vzw026"
+      "draft-real-techcrunch-ai-rss-1k7sgel",
+      "draft-real-stats-cn-data-1js7sp",
+      "draft-real-cas-science-news-1gj4fhk"
     ],
     "carriedCardIds": []
   }

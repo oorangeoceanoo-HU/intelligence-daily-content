@@ -1,16 +1,16 @@
 {
   "version": 1,
   "date": "2026-08-22",
-  "generatedAt": "2026-08-21T22:59:48.360Z",
+  "generatedAt": "2026-08-21T23:39:21.897Z",
   "status": "review",
   "reviewMode": "generated",
-  "candidateSha256": "05efbcea2a649650f5a26e3adcbc4d0d194a695a0788a68533b4695ffa0a7225",
+  "candidateSha256": "b005dd8575f89bc44be846fc19d0f99b26dbf6d1ec636466ac87feaef2fef30c",
   "counts": {
     "cards": 20,
     "pages": 3,
-    "rawItems": 88,
-    "freshCandidates": 79,
-    "publishableCards": 35,
+    "rawItems": 87,
+    "freshCandidates": 78,
+    "publishableCards": 34,
     "reviewableCards": 6,
     "rejectedCards": 4,
     "blockers": 0,
@@ -80,7 +80,7 @@
       "level": "warning",
       "code": "card-needs-human-review",
       "message": "原文篇幅较短且不是官方或主流来源，需要发布前复核。",
-      "cardId": "draft-real-techcrunch-ai-rss-t428r3",
+      "cardId": "draft-real-techcrunch-ai-rss-su2n24",
       "cardTitle": "Nvidia 与数据中心开发商 Cloverleaf 合作"
     }
   ]

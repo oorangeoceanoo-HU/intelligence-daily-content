@@ -310,7 +310,7 @@
         "generatedAt": "2026-08-20T23:37:34.232Z"
       },
       {
-        "id": "draft-real-cnbc-world-rss-pe0yhh",
+        "id": "draft-real-cnbc-world-rss-py05vf",
         "title": "由于能源价格上涨，日本整体通胀率创今年最高",
         "oneLine": "政策变化：由于伊朗战争导致能源成本上涨，日本 7 月份总体通胀率达到 1.9%，为今年最高水平。",
         "importance": "B",
@@ -346,16 +346,16 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-21T04:21:57.498Z",
+            "fetchedAt": "2026-08-21T04:49:34.755Z",
             "sourceMethod": "rss",
             "verificationStatus": "pending"
           }
         ],
         "images": [],
-        "generatedAt": "2026-08-21T04:21:46.319Z"
+        "generatedAt": "2026-08-21T04:49:30.785Z"
       },
       {
-        "id": "draft-real-cnbc-world-rss-1rit1bo",
+        "id": "draft-real-cnbc-world-rss-1scruel",
         "title": "中国人形机器人最大的障碍：人类仍然（大部分）更好",
         "oneLine": "政策变化：北京——本周在北京举行的世界机器人大会上发表讲话的行业领袖表示，人形机器人面临的最大挑战仍然是让技术发挥良好作用。",
         "importance": "B",
@@ -391,13 +391,13 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-21T04:21:57.498Z",
+            "fetchedAt": "2026-08-21T04:49:34.755Z",
             "sourceMethod": "rss",
             "verificationStatus": "pending"
           }
         ],
         "images": [],
-        "generatedAt": "2026-08-21T04:21:46.319Z"
+        "generatedAt": "2026-08-21T04:49:30.785Z"
       },
       {
         "id": "draft-real-gov-uk-news-1bsu1kn",
@@ -487,16 +487,16 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-21T04:22:00.015Z",
+            "fetchedAt": "2026-08-21T04:49:36.141Z",
             "sourceMethod": "rss",
             "verificationStatus": "pending"
           }
         ],
         "images": [],
-        "generatedAt": "2026-08-21T04:21:46.319Z"
+        "generatedAt": "2026-08-21T04:49:30.785Z"
       },
       {
-        "id": "draft-real-cnbc-world-rss-wpbr03",
+        "id": "draft-real-cnbc-world-rss-xta5rz",
         "title": "经济学家表示，台湾人工智能推动的 11% GDP 增长预测可能不可持续",
         "oneLine": "政策变化：台湾政府预测 2026 年 GDP 将实现两位数增长，这可能反映了对人工智能经济的乐观态度，但考虑到资本支出放缓和宏观经济衰退的风险，以及半导体行业的高度集中，随着时间的推移，增长可能会放缓。",
         "importance": "B",
@@ -531,16 +531,16 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-21T04:21:57.498Z",
+            "fetchedAt": "2026-08-21T04:49:34.755Z",
             "sourceMethod": "rss",
             "verificationStatus": "pending"
           }
         ],
         "images": [],
-        "generatedAt": "2026-08-21T04:21:46.319Z"
+        "generatedAt": "2026-08-21T04:49:30.785Z"
       },
       {
-        "id": "draft-real-cnbc-world-rss-1tnvhtv",
+        "id": "draft-real-cnbc-world-rss-1tdvw4w",
         "title": "摩根大通的沙利文表示，美国债券干预就像“用信用卡支付抵押贷款”",
         "oneLine": "最新进展：摩根大通的沙利文表示，美国债券干预就像“用信用卡支付抵押贷款”。",
         "importance": "B",
@@ -575,7 +575,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-21T04:21:57.498Z",
+            "fetchedAt": "2026-08-21T04:49:34.755Z",
             "sourceMethod": "rss",
             "verificationStatus": "pending"
           }
@@ -586,7 +586,7 @@
             "sourceUrl": "https://www.cnbc.com/2026/08/21/us-bond-intervention-shifting-problem-future-jpmorgan.html"
           }
         ],
-        "generatedAt": "2026-08-21T04:21:46.319Z"
+        "generatedAt": "2026-08-21T04:49:30.785Z"
       },
       {
         "id": "draft-real-cnbc-world-rss-9uuabt",
@@ -624,7 +624,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-21T04:21:57.498Z",
+            "fetchedAt": "2026-08-21T04:49:34.755Z",
             "sourceMethod": "rss",
             "verificationStatus": "pending"
           }
@@ -635,10 +635,10 @@
             "sourceUrl": "https://www.cnbc.com/2026/08/20/us-japan-yen-intervention-bank-of-japan-carry-trade.html"
           }
         ],
-        "generatedAt": "2026-08-21T04:21:46.319Z"
+        "generatedAt": "2026-08-21T04:49:30.785Z"
       },
       {
-        "id": "draft-real-cnbc-world-rss-16dmh1i",
+        "id": "draft-real-cnbc-world-rss-177la4f",
         "title": "CFTC 创新咨询委员会会议讨论新兴预测市场风险",
         "oneLine": "政策变化：根据《商品交易法》，预测市场平台可以在未经 CFTC 事先批准的情况下提出、提交和认证事件合约。",
         "importance": "B",
@@ -673,13 +673,13 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-21T04:21:57.498Z",
+            "fetchedAt": "2026-08-21T04:49:34.755Z",
             "sourceMethod": "rss",
             "verificationStatus": "pending"
           }
         ],
         "images": [],
-        "generatedAt": "2026-08-21T04:21:46.319Z"
+        "generatedAt": "2026-08-21T04:49:30.785Z"
       },
       {
         "id": "draft-real-un-news-rss-80p3ak",
@@ -1199,7 +1199,7 @@
     "estimatedReadMinutes": 38,
     "pageCount": 3,
     "topCardId": "draft-real-cnbc-world-rss-1tti74m",
-    "generatedAt": "2026-08-21T04:21:46.319Z",
+    "generatedAt": "2026-08-21T04:49:30.785Z",
     "pushSlots": [
       "08:30",
       "12:30",
@@ -1213,13 +1213,13 @@
     },
     "basedOnGeneratedAt": "2026-08-20T23:37:34.232Z",
     "editionCardIds": [
-      "draft-real-cnbc-world-rss-1rit1bo",
-      "draft-real-cnbc-world-rss-pe0yhh",
+      "draft-real-cnbc-world-rss-1scruel",
+      "draft-real-cnbc-world-rss-py05vf",
       "draft-real-techcrunch-ai-rss-1y369ky",
-      "draft-real-cnbc-world-rss-1tnvhtv",
-      "draft-real-cnbc-world-rss-wpbr03",
+      "draft-real-cnbc-world-rss-1tdvw4w",
       "draft-real-cnbc-world-rss-9uuabt",
-      "draft-real-cnbc-world-rss-16dmh1i"
+      "draft-real-cnbc-world-rss-xta5rz",
+      "draft-real-cnbc-world-rss-177la4f"
     ],
     "carriedCardIds": [
       "draft-real-cnbc-world-rss-1tti74m",
@@ -1244,17 +1244,17 @@
   "meta": {
     "profileName": "多职业公共版",
     "cohortLocationCount": 6,
-    "generatedAt": "2026-08-21T04:21:46.319Z",
+    "generatedAt": "2026-08-21T04:49:30.785Z",
     "edition": "midday",
     "sourceCoverage": {
       "ready": true,
       "sourceAvailabilityReady": true,
       "currentCoverageReady": true,
-      "generatedAt": "2026-08-21T04:24:05.425Z",
+      "generatedAt": "2026-08-21T04:51:59.124Z",
       "totalSources": 32,
-      "successfulSources": 30,
-      "sourcesWithItems": 25,
-      "totalItems": 363,
+      "successfulSources": 31,
+      "sourcesWithItems": 26,
+      "totalItems": 383,
       "lanes": [
         {
           "id": "global",
@@ -1452,7 +1452,7 @@
       "stats",
       "mofcom"
     ],
-    "fetchedRawItemCount": 363,
+    "fetchedRawItemCount": 383,
     "rawItemCount": 12,
     "rawCandidateCount": 12,
     "dedupedCandidateCount": 11,
@@ -1523,7 +1523,7 @@
         "method": "api",
         "endpointUrl": "https://export.arxiv.org/api/query",
         "attempts": 1,
-        "durationMs": 672,
+        "durationMs": 286,
         "fallbackUsed": false,
         "rawItemCount": 18,
         "datedItemCount": 18,
@@ -1539,8 +1539,8 @@
         "status": "healthy",
         "method": "web",
         "endpointUrl": "https://www.cas.cn/syky/",
-        "attempts": 2,
-        "durationMs": 3115,
+        "attempts": 1,
+        "durationMs": 1512,
         "fallbackUsed": false,
         "rawItemCount": 18,
         "datedItemCount": 18,
@@ -1557,7 +1557,7 @@
         "method": "web",
         "endpointUrl": "https://www.mohurd.gov.cn/xinwen/gzdt/index.html",
         "attempts": 3,
-        "durationMs": 133205,
+        "durationMs": 136156,
         "fallbackUsed": false,
         "rawItemCount": 0,
         "datedItemCount": 0,
@@ -1573,7 +1573,7 @@
         "method": "rss",
         "endpointUrl": "https://www.gdacs.org/xml/rss.xml",
         "attempts": 1,
-        "durationMs": 3069,
+        "durationMs": 3442,
         "fallbackUsed": false,
         "rawItemCount": 18,
         "datedItemCount": 18,
@@ -1590,7 +1590,7 @@
         "method": "web",
         "endpointUrl": "https://www.gov.cn/zhengce/zuixin/",
         "attempts": 1,
-        "durationMs": 1515,
+        "durationMs": 1028,
         "fallbackUsed": false,
         "rawItemCount": 18,
         "datedItemCount": 18,
@@ -1607,7 +1607,7 @@
         "method": "web",
         "endpointUrl": "https://www.mem.gov.cn/xw/yjglbgzdt/",
         "attempts": 1,
-        "durationMs": 888,
+        "durationMs": 791,
         "fallbackUsed": false,
         "rawItemCount": 18,
         "datedItemCount": 18,
@@ -1619,18 +1619,19 @@
       {
         "sourceId": "cac-cn",
         "sourceName": "中央网信办 / 国家网信办",
-        "ok": false,
-        "status": "failed",
+        "ok": true,
+        "status": "healthy",
         "method": "web",
         "endpointUrl": "https://www.cac.gov.cn/index.htm",
-        "attempts": 3,
-        "durationMs": 25300,
+        "attempts": 1,
+        "durationMs": 1494,
         "fallbackUsed": false,
-        "rawItemCount": 0,
-        "datedItemCount": 0,
+        "rawItemCount": 2,
+        "datedItemCount": 2,
         "inEditionItemCount": 0,
-        "verificationStatus": "confirmed",
-        "error": "https://www.cac.gov.cn/index.htm: TypeError: fetch failed; legacy TLS fallback: AggregateError: request failed without a message | https://www.cac.gov.cn/: TypeError: fetch failed; legacy TLS fallback: AggregateError: request failed without a message"
+        "newestPublishedAt": "2026-07-28T16:00:00.000Z",
+        "oldestPublishedAt": "2026-06-25T16:00:00.000Z",
+        "verificationStatus": "confirmed"
       },
       {
         "sourceId": "xinhua-world",
@@ -1640,7 +1641,7 @@
         "method": "web",
         "endpointUrl": "https://www.news.cn/world/index.html",
         "attempts": 1,
-        "durationMs": 2917,
+        "durationMs": 1099,
         "fallbackUsed": false,
         "rawItemCount": 18,
         "datedItemCount": 18,
@@ -1657,7 +1658,7 @@
         "method": "web",
         "endpointUrl": "https://www.news.cn/tech/index.html",
         "attempts": 1,
-        "durationMs": 2835,
+        "durationMs": 207,
         "fallbackUsed": false,
         "rawItemCount": 14,
         "datedItemCount": 14,
@@ -1674,7 +1675,7 @@
         "method": "rss",
         "endpointUrl": "https://www.gov.uk/search/news-and-communications.atom?order=updated-newest",
         "attempts": 1,
-        "durationMs": 1079,
+        "durationMs": 978,
         "fallbackUsed": false,
         "rawItemCount": 18,
         "datedItemCount": 18,
@@ -1691,7 +1692,7 @@
         "method": "rss",
         "endpointUrl": "https://feeds.npr.org/1004/rss.xml",
         "attempts": 1,
-        "durationMs": 4755,
+        "durationMs": 334,
         "fallbackUsed": false,
         "rawItemCount": 10,
         "datedItemCount": 10,
@@ -1708,7 +1709,7 @@
         "method": "rss",
         "endpointUrl": "https://feeds.skynews.com/feeds/rss/world.xml",
         "attempts": 1,
-        "durationMs": 3437,
+        "durationMs": 140,
         "fallbackUsed": false,
         "rawItemCount": 10,
         "datedItemCount": 10,
@@ -1725,7 +1726,7 @@
         "method": "rss",
         "endpointUrl": "https://www.france24.com/en/middle-east/rss",
         "attempts": 1,
-        "durationMs": 412,
+        "durationMs": 189,
         "fallbackUsed": false,
         "rawItemCount": 18,
         "datedItemCount": 18,
@@ -1742,7 +1743,7 @@
         "method": "rss",
         "endpointUrl": "https://www.france24.com/en/asia-pacific/rss",
         "attempts": 1,
-        "durationMs": 188,
+        "durationMs": 198,
         "fallbackUsed": false,
         "rawItemCount": 18,
         "datedItemCount": 18,
@@ -1759,12 +1760,12 @@
         "method": "rss",
         "endpointUrl": "https://www.cnbc.com/id/100727362/device/rss/rss.html",
         "attempts": 1,
-        "durationMs": 133,
+        "durationMs": 193,
         "fallbackUsed": false,
         "rawItemCount": 17,
         "datedItemCount": 17,
         "inEditionItemCount": 6,
-        "newestPublishedAt": "2026-08-21T03:59:53.000Z",
+        "newestPublishedAt": "2026-08-21T04:32:59.000Z",
         "oldestPublishedAt": "2026-08-17T23:39:54.000Z",
         "verificationStatus": "pending"
       },
@@ -1776,7 +1777,7 @@
         "method": "rss",
         "endpointUrl": "https://news.un.org/feed/subscribe/en/news/all/rss.xml",
         "attempts": 1,
-        "durationMs": 35,
+        "durationMs": 150,
         "fallbackUsed": false,
         "rawItemCount": 18,
         "datedItemCount": 18,
@@ -1793,7 +1794,7 @@
         "method": "web",
         "endpointUrl": "https://www.mfa.gov.cn/wjdt_674879/fyrbt_674889/",
         "attempts": 1,
-        "durationMs": 1123,
+        "durationMs": 727,
         "fallbackUsed": false,
         "rawItemCount": 18,
         "datedItemCount": 18,
@@ -1810,7 +1811,7 @@
         "method": "web",
         "endpointUrl": "https://www.mofcom.gov.cn/xwfb/",
         "attempts": 1,
-        "durationMs": 2508,
+        "durationMs": 1440,
         "fallbackUsed": false,
         "rawItemCount": 15,
         "datedItemCount": 15,
@@ -1827,7 +1828,7 @@
         "method": "rss",
         "endpointUrl": "https://openai.com/news/rss.xml",
         "attempts": 1,
-        "durationMs": 1216,
+        "durationMs": 1067,
         "fallbackUsed": false,
         "rawItemCount": 18,
         "datedItemCount": 18,
@@ -1844,7 +1845,7 @@
         "method": "rss",
         "endpointUrl": "https://deepmind.google/blog/rss.xml",
         "attempts": 1,
-        "durationMs": 171,
+        "durationMs": 643,
         "fallbackUsed": false,
         "rawItemCount": 18,
         "datedItemCount": 18,
@@ -1861,7 +1862,7 @@
         "method": "rss",
         "endpointUrl": "https://techcrunch.com/category/artificial-intelligence/feed/",
         "attempts": 1,
-        "durationMs": 49,
+        "durationMs": 108,
         "fallbackUsed": false,
         "rawItemCount": 18,
         "datedItemCount": 18,
@@ -1878,7 +1879,7 @@
         "method": "rss",
         "endpointUrl": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
         "attempts": 1,
-        "durationMs": 74,
+        "durationMs": 102,
         "fallbackUsed": false,
         "rawItemCount": 10,
         "datedItemCount": 10,
@@ -1895,7 +1896,7 @@
         "method": "web",
         "endpointUrl": "https://www.moe.gov.cn/",
         "attempts": 1,
-        "durationMs": 7664,
+        "durationMs": 5240,
         "fallbackUsed": false,
         "rawItemCount": 12,
         "datedItemCount": 12,
@@ -1912,7 +1913,7 @@
         "method": "web",
         "endpointUrl": "https://chrm.mohrss.gov.cn/announcement/",
         "attempts": 1,
-        "durationMs": 7829,
+        "durationMs": 5928,
         "fallbackUsed": false,
         "rawItemCount": 8,
         "datedItemCount": 8,
@@ -1929,7 +1930,7 @@
         "method": "web",
         "endpointUrl": "https://www.stats.gov.cn/sj/zxfb/",
         "attempts": 1,
-        "durationMs": 7226,
+        "durationMs": 9335,
         "fallbackUsed": false,
         "rawItemCount": 13,
         "datedItemCount": 13,
@@ -1946,15 +1947,14 @@
         "method": "web",
         "endpointUrl": "https://scyxs.mofcom.gov.cn/",
         "attempts": 1,
-        "durationMs": 5301,
-        "fallbackUsed": true,
-        "rawItemCount": 1,
-        "datedItemCount": 1,
+        "durationMs": 4917,
+        "fallbackUsed": false,
+        "rawItemCount": 18,
+        "datedItemCount": 18,
         "inEditionItemCount": 0,
-        "newestPublishedAt": "2026-08-17T16:00:00.000Z",
-        "oldestPublishedAt": "2026-08-17T16:00:00.000Z",
-        "verificationStatus": "confirmed",
-        "note": "主入口失败后使用了官方备用入口。"
+        "newestPublishedAt": "2026-08-19T16:00:00.000Z",
+        "oldestPublishedAt": "2025-08-27T16:00:00.000Z",
+        "verificationStatus": "confirmed"
       },
       {
         "sourceId": "city-news-rss:%E4%B8%AD%E5%9B%BD-%E4%B8%8A%E6%B5%B7",
@@ -1964,12 +1964,12 @@
         "method": "web",
         "endpointUrl": "city-source:中国/直辖市/上海",
         "attempts": 1,
-        "durationMs": 4369,
+        "durationMs": 5602,
         "fallbackUsed": false,
-        "rawItemCount": 1,
-        "datedItemCount": 1,
+        "rawItemCount": 2,
+        "datedItemCount": 2,
         "inEditionItemCount": 0,
-        "newestPublishedAt": "2020-12-29T16:00:00.000Z",
+        "newestPublishedAt": "2026-08-20T16:00:00.000Z",
         "oldestPublishedAt": "2020-12-29T16:00:00.000Z",
         "verificationStatus": "pending",
         "note": "城市新闻发现源；政策和风险内容仍需官方或主流来源确认。"
@@ -1982,7 +1982,7 @@
         "method": "web",
         "endpointUrl": "city-source:中国/浙江/杭州",
         "attempts": 1,
-        "durationMs": 1406,
+        "durationMs": 10646,
         "fallbackUsed": false,
         "rawItemCount": 0,
         "datedItemCount": 0,
@@ -1998,7 +1998,7 @@
         "method": "web",
         "endpointUrl": "city-source:英国/英国/伦敦",
         "attempts": 1,
-        "durationMs": 1415,
+        "durationMs": 3664,
         "fallbackUsed": false,
         "rawItemCount": 0,
         "datedItemCount": 0,
@@ -2014,7 +2014,7 @@
         "method": "web",
         "endpointUrl": "city-source:中国/广东/深圳",
         "attempts": 1,
-        "durationMs": 1867,
+        "durationMs": 4162,
         "fallbackUsed": false,
         "rawItemCount": 0,
         "datedItemCount": 0,
@@ -2030,7 +2030,7 @@
         "method": "web",
         "endpointUrl": "city-source:中国/吉林/长春",
         "attempts": 1,
-        "durationMs": 1418,
+        "durationMs": 3666,
         "fallbackUsed": false,
         "rawItemCount": 0,
         "datedItemCount": 0,
@@ -2046,7 +2046,7 @@
         "method": "web",
         "endpointUrl": "city-source:中国/安徽/宿州",
         "attempts": 1,
-        "durationMs": 1442,
+        "durationMs": 3678,
         "fallbackUsed": false,
         "rawItemCount": 0,
         "datedItemCount": 0,
@@ -2061,18 +2061,9 @@
         "sourceName": "住房和城乡建设部",
         "method": "web",
         "attempts": 3,
-        "durationMs": 133205,
+        "durationMs": 136156,
         "fallbackUsed": false,
         "error": "https://www.mohurd.gov.cn/api-gateway/jpaas-publish-server/front/page/build/unit?parseType=bulidstatic&webId=86ca573ec4df405db627fdc2493677f3&tplSetId=fc259c381af3496d85e61997ea7771cb&pageType=column&tagId=%E6%A0%8F%E7%9B%AE-list&editType=null&pageId=919e942639b5477d96e4c97471c61d9f: TypeError: fetch failed; legacy TLS fallback: Error: Request timed out | https://www.mohurd.gov.cn/xinwen/gzdt/index.html: TypeError: fetch failed; legacy TLS fallback: Error: Request timed out | https://www.mohurd.gov.cn/: TypeError: fetch failed; legacy TLS fallback: Error: Request timed out"
-      },
-      {
-        "sourceId": "cac-cn",
-        "sourceName": "中央网信办 / 国家网信办",
-        "method": "web",
-        "attempts": 3,
-        "durationMs": 25300,
-        "fallbackUsed": false,
-        "error": "https://www.cac.gov.cn/index.htm: TypeError: fetch failed; legacy TLS fallback: AggregateError: request failed without a message | https://www.cac.gov.cn/: TypeError: fetch failed; legacy TLS fallback: AggregateError: request failed without a message"
       }
     ],
     "cardReviewFindings": [
@@ -10859,7 +10850,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-21T04:21:57.498Z",
+            "fetchedAt": "2026-08-21T04:49:34.755Z",
             "sourceMethod": "rss",
             "verificationStatus": "pending"
           }
@@ -10914,7 +10905,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-21T04:21:57.498Z",
+            "fetchedAt": "2026-08-21T04:49:34.755Z",
             "sourceMethod": "rss",
             "verificationStatus": "pending"
           }
@@ -10925,7 +10916,7 @@
             "sourceUrl": "https://www.cnbc.com/2026/08/20/us-japan-yen-intervention-bank-of-japan-carry-trade.html"
           }
         ],
-        "generatedAt": "2026-08-21T04:21:46.319Z"
+        "generatedAt": "2026-08-21T04:49:30.785Z"
       }
     },
     {
@@ -11060,7 +11051,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-21T04:22:00.015Z",
+            "fetchedAt": "2026-08-21T04:49:36.141Z",
             "sourceMethod": "rss",
             "verificationStatus": "pending"
           }
@@ -11116,13 +11107,13 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-21T04:22:00.015Z",
+            "fetchedAt": "2026-08-21T04:49:36.141Z",
             "sourceMethod": "rss",
             "verificationStatus": "pending"
           }
         ],
         "images": [],
-        "generatedAt": "2026-08-21T04:21:46.319Z"
+        "generatedAt": "2026-08-21T04:49:30.785Z"
       }
     },
     {
@@ -11156,7 +11147,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-21T04:21:49.558Z",
+            "fetchedAt": "2026-08-21T04:49:34.270Z",
             "sourceMethod": "rss",
             "verificationStatus": "confirmed"
           },
@@ -11168,7 +11159,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-21T04:21:49.558Z",
+            "fetchedAt": "2026-08-21T04:49:34.270Z",
             "sourceMethod": "rss",
             "verificationStatus": "confirmed"
           }
@@ -11220,7 +11211,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-21T04:21:49.558Z",
+            "fetchedAt": "2026-08-21T04:49:34.270Z",
             "sourceMethod": "rss",
             "verificationStatus": "confirmed"
           },
@@ -11232,7 +11223,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-21T04:21:49.558Z",
+            "fetchedAt": "2026-08-21T04:49:34.270Z",
             "sourceMethod": "rss",
             "verificationStatus": "confirmed"
           }
@@ -11243,7 +11234,512 @@
             "sourceUrl": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1030861"
           }
         ],
-        "generatedAt": "2026-08-21T04:21:46.319Z"
+        "generatedAt": "2026-08-21T04:49:30.785Z"
+      }
+    },
+    {
+      "candidate": {
+        "id": "real-cnbc-world-rss-1scruel",
+        "title": "中国人形机器人最大的障碍：人类仍然（大部分）更好",
+        "oneLine": "国际最新进展：这条英文来源需要完整整理为中文，并优先说明发生了什么变化、与中国的关系及后续风险。",
+        "categories": [
+          "world",
+          "policy",
+          "finance",
+          "operations"
+        ],
+        "industries": [
+          "generalPublic",
+          "financeInvestment",
+          "operationsGrowth",
+          "ecommerceRetail"
+        ],
+        "regions": [
+          "全球"
+        ],
+        "locations": [
+          "中国"
+        ],
+        "sourceIds": [
+          "cnbc-world-rss"
+        ],
+        "publishedAt": "2026-08-21T01:56:01.000Z",
+        "sourceLinks": [
+          {
+            "title": "CNBC World News RSS",
+            "url": "https://www.cnbc.com/2026/08/21/chinese-humanoid-robots-face-challenge-of-their-own-capabilities.html",
+            "sourceId": "cnbc-world-rss",
+            "publishedAt": "2026-08-21T01:56:01.000Z",
+            "language": "zh",
+            "originalLanguage": "en",
+            "translationStatus": "translated",
+            "fetchedAt": "2026-08-21T04:49:34.755Z",
+            "sourceMethod": "rss",
+            "verificationStatus": "pending"
+          }
+        ],
+        "images": [],
+        "body": {
+          "background": "国际主流媒体 RSS 用于补充全球突发、政策、贸易、能源和科技事件，不能单独替代事实确认。",
+          "keyProgress": "在大多数劳动场景中，人形机器人仍然难以像人类一样高效地工作。",
+          "whyItMatters": "重大国际变化可能通过外交、贸易、关税、能源、航运、安全或市场预期影响中国用户。",
+          "userRelevance": "这条信息已经命中中国、贸易、关税、能源或航运关联，需要进入中国用户的重点复核。",
+          "whatToWatch": "继续核对官方表态和第二个可靠来源，并关注局势变化、政策生效时间及对中国的传导路径。"
+        },
+        "impactScore": 86,
+        "severityScore": 58,
+        "freshnessScore": 95,
+        "trendScore": 72,
+        "isExample": false
+      },
+      "card": {
+        "id": "draft-real-cnbc-world-rss-1scruel",
+        "title": "中国人形机器人最大的障碍：人类仍然（大部分）更好",
+        "oneLine": "政策变化：北京——本周在北京举行的世界机器人大会上发表讲话的行业领袖表示，人形机器人面临的最大挑战仍然是让技术发挥良好作用。",
+        "importance": "B",
+        "credibility": "待确认",
+        "tags": [
+          "B",
+          "mustKnow",
+          "industry",
+          "world",
+          "policy",
+          "finance"
+        ],
+        "industries": [
+          "generalPublic",
+          "financeInvestment",
+          "operationsGrowth",
+          "ecommerceRetail"
+        ],
+        "section": "front",
+        "body": {
+          "background": "美国联邦通信委员会上个月将包括人形机器人在内的外国制造的先进机器人设备添加到限制进口美国的清单中。该声明没有具体说明具体国家，并表示零售商仍然可以进口 FCC 此前批准的型号。“在美国，可能受到影响的是自主移动机器人，这些机器人在工厂中的使用量比类人机器人要多得多，”他说。",
+          "keyProgress": "他的言论强调了人形机器人进入人类劳动力市场所面临的挑战。Unitree创始人王星星在其公司IPO日飙升460%的第二天在会议上发表讲话时表示，机器人的效率还不如人类，需要时间来学习新技能，这给行业带来了瓶颈。Unitree 股价周四下跌 18.7%。但自动化推进协会主席杰夫·伯恩斯坦 (Jeff Burnstein) 告诉 CNBC，目前这种限制的影响并没有那么大，因为美国使用的人形机器人并不多。",
+          "whyItMatters": "“中国人形机器人最大的障碍：人类仍然更好”如果继续发展，可能通过能源价格、航运、贸易、汇率或市场预期传导到国内。了解它的意义在于判断后续风险，而不只停留在事件本身。",
+          "userRelevance": "即使你不在中国，“中国人形机器人最大的障碍：人类仍然更好”也可能通过能源价格、国际航运、贸易成本和市场预期间接影响国内生活与工作判断。",
+          "whatToWatch": "接下来要看“中国人形机器人最大的障碍：人类仍然更好”是否出现更细的城市、行业、平台或企业数据，以及这一变化能否连续保持。"
+        },
+        "sourceLinks": [
+          {
+            "title": "CNBC World News RSS",
+            "url": "https://www.cnbc.com/2026/08/21/chinese-humanoid-robots-face-challenge-of-their-own-capabilities.html",
+            "sourceId": "cnbc-world-rss",
+            "publishedAt": "2026-08-21T01:56:01.000Z",
+            "language": "zh",
+            "originalLanguage": "en",
+            "translationStatus": "translated",
+            "fetchedAt": "2026-08-21T04:49:34.755Z",
+            "sourceMethod": "rss",
+            "verificationStatus": "pending"
+          }
+        ],
+        "images": [],
+        "generatedAt": "2026-08-21T04:49:30.785Z"
+      }
+    },
+    {
+      "candidate": {
+        "id": "real-cnbc-world-rss-py05vf",
+        "title": "由于能源价格上涨，日本整体通胀率创今年最高",
+        "oneLine": "国际最新进展：这条英文来源需要完整整理为中文，并优先说明发生了什么变化、与中国的关系及后续风险。",
+        "categories": [
+          "world",
+          "policy",
+          "finance",
+          "operations"
+        ],
+        "industries": [
+          "generalPublic",
+          "financeInvestment",
+          "operationsGrowth",
+          "ecommerceRetail"
+        ],
+        "regions": [
+          "全球"
+        ],
+        "locations": [
+          "日本"
+        ],
+        "sourceIds": [
+          "cnbc-world-rss"
+        ],
+        "publishedAt": "2026-08-21T02:13:18.000Z",
+        "sourceLinks": [
+          {
+            "title": "CNBC World News RSS",
+            "url": "https://www.cnbc.com/2026/08/21/japan-inflation-iran-war-energy.html",
+            "sourceId": "cnbc-world-rss",
+            "publishedAt": "2026-08-21T02:13:18.000Z",
+            "language": "zh",
+            "originalLanguage": "en",
+            "translationStatus": "translated",
+            "fetchedAt": "2026-08-21T04:49:34.755Z",
+            "sourceMethod": "rss",
+            "verificationStatus": "pending"
+          }
+        ],
+        "images": [],
+        "body": {
+          "background": "国际主流媒体 RSS 用于补充全球突发、政策、贸易、能源和科技事件，不能单独替代事实确认。",
+          "keyProgress": "核心通胀（剔除新鲜食品价格但包括能源）符合预期，为 1.8%。",
+          "whyItMatters": "重大国际变化可能通过外交、贸易、关税、能源、航运、安全或市场预期影响中国用户。",
+          "userRelevance": "这条信息已经命中中国、贸易、关税、能源或航运关联，需要进入中国用户的重点复核。",
+          "whatToWatch": "继续核对官方表态和第二个可靠来源，并关注局势变化、政策生效时间及对中国的传导路径。"
+        },
+        "impactScore": 86,
+        "severityScore": 58,
+        "freshnessScore": 95,
+        "trendScore": 72,
+        "isExample": false
+      },
+      "card": {
+        "id": "draft-real-cnbc-world-rss-py05vf",
+        "title": "由于能源价格上涨，日本整体通胀率创今年最高",
+        "oneLine": "政策变化：由于伊朗战争导致能源成本上涨，日本 7 月份总体通胀率达到 1.9%，为今年最高水平。",
+        "importance": "B",
+        "credibility": "待确认",
+        "tags": [
+          "B",
+          "mustKnow",
+          "industry",
+          "world",
+          "policy",
+          "finance"
+        ],
+        "industries": [
+          "generalPublic",
+          "financeInvestment",
+          "operationsGrowth",
+          "ecommerceRetail"
+        ],
+        "section": "front",
+        "body": {
+          "background": "核心通胀（剔除新鲜食品价格但包括能源）符合预期，为 1.8%。分析师此前曾向 CNBC 表示，相对较低的消费者通胀是由于日本首相高市早苗政府提供补贴，以保护消费者免受能源价格上涨的影响。尽管有政府补贴，但由于中东冲突导致石油成本高昂，能源价格自 2025 年 11 月以来首次上涨。",
+          "keyProgress": "这体现在批发通胀上，7月份的批发通胀率为7.2%，其中电费是最大的贡献者。生鲜食品价格也大幅上涨，较 6 月份上涨 3.9% 上涨 7%。日本央行在上个月的展望报告中警告称，从9月到3月的2026财年下半年起，核心通胀可能会加速至“明显高于”2%的水平。报告指出，工资上涨已转化为销售价格、原油价格上涨以及日元近期贬值。",
+          "whyItMatters": "“由于能源价格上涨，日本整体通胀率创今年最高”如果继续发展，可能通过能源价格、航运、贸易、汇率或市场预期传导到国内。了解它的意义在于判断后续风险，而不只停留在事件本身。",
+          "userRelevance": "即使你不在日本，“由于能源价格上涨，日本整体通胀率创今年最高”也可能通过能源价格、国际航运、贸易成本和市场预期间接影响国内生活与工作判断。",
+          "whatToWatch": "接下来要看“由于能源价格上涨，日本整体通胀率创今年最高”是否出现更细的城市、行业、平台或企业数据，以及这一变化能否连续保持。"
+        },
+        "sourceLinks": [
+          {
+            "title": "CNBC World News RSS",
+            "url": "https://www.cnbc.com/2026/08/21/japan-inflation-iran-war-energy.html",
+            "sourceId": "cnbc-world-rss",
+            "publishedAt": "2026-08-21T02:13:18.000Z",
+            "language": "zh",
+            "originalLanguage": "en",
+            "translationStatus": "translated",
+            "fetchedAt": "2026-08-21T04:49:34.755Z",
+            "sourceMethod": "rss",
+            "verificationStatus": "pending"
+          }
+        ],
+        "images": [],
+        "generatedAt": "2026-08-21T04:49:30.785Z"
+      }
+    },
+    {
+      "candidate": {
+        "id": "real-cnbc-world-rss-1tdvw4w",
+        "title": "摩根大通的沙利文表示，美国债券干预就像“用信用卡支付抵押贷款”",
+        "oneLine": "国际最新进展：这条英文来源需要完整整理为中文，并优先说明发生了什么变化、与中国的关系及后续风险。",
+        "categories": [
+          "world",
+          "policy",
+          "finance",
+          "operations"
+        ],
+        "industries": [
+          "generalPublic",
+          "financeInvestment",
+          "operationsGrowth",
+          "ecommerceRetail"
+        ],
+        "regions": [
+          "全球"
+        ],
+        "locations": [
+          "美国"
+        ],
+        "sourceIds": [
+          "cnbc-world-rss"
+        ],
+        "publishedAt": "2026-08-21T02:48:10.000Z",
+        "sourceLinks": [
+          {
+            "title": "CNBC World News RSS",
+            "url": "https://www.cnbc.com/2026/08/21/us-bond-intervention-shifting-problem-future-jpmorgan.html",
+            "sourceId": "cnbc-world-rss",
+            "publishedAt": "2026-08-21T02:48:10.000Z",
+            "language": "zh",
+            "originalLanguage": "en",
+            "translationStatus": "translated",
+            "fetchedAt": "2026-08-21T04:49:34.755Z",
+            "sourceMethod": "rss",
+            "verificationStatus": "pending"
+          }
+        ],
+        "images": [],
+        "body": {
+          "background": "国际主流媒体 RSS 用于补充全球突发、政策、贸易、能源和科技事件，不能单独替代事实确认。",
+          "keyProgress": "摩根大通的詹姆斯·沙利文表示，美国政府控制国债市场压力的努力只会将问题转移到未来。",
+          "whyItMatters": "重大国际变化可能通过外交、贸易、关税、能源、航运、安全或市场预期影响中国用户。",
+          "userRelevance": "是否推送取决于事件影响范围、严重程度，以及它是否会影响中国或形成全球共同认知。",
+          "whatToWatch": "继续核对官方表态和第二个可靠来源，并关注局势变化、政策生效时间及对中国的传导路径。"
+        },
+        "impactScore": 72,
+        "severityScore": 45,
+        "freshnessScore": 95,
+        "trendScore": 72,
+        "isExample": false
+      },
+      "card": {
+        "id": "draft-real-cnbc-world-rss-1tdvw4w",
+        "title": "摩根大通的沙利文表示，美国债券干预就像“用信用卡支付抵押贷款”",
+        "oneLine": "最新进展：摩根大通的沙利文表示，美国债券干预就像“用信用卡支付抵押贷款”。",
+        "importance": "B",
+        "credibility": "待确认",
+        "tags": [
+          "B",
+          "industry",
+          "world",
+          "policy",
+          "finance"
+        ],
+        "industries": [
+          "generalPublic",
+          "financeInvestment",
+          "operationsGrowth",
+          "ecommerceRetail"
+        ],
+        "section": "industry",
+        "body": {
+          "background": "摩根大通表示，随着全球债务发行激增考验投资者需求，美国政府控制国债市场压力的努力可能只会将问题转移到未来。摩根大通全球基本面研究联席主管詹姆斯·沙利文 (James Sullivan) 周五对 CNBC 的“Squawk Box”节目表示，财政部实际上正在回购长期债券，同时发行短期票据，这一策略可以提供暂时的缓解，但不会影响潜在的债务负担。由部长斯科特·贝森特领导的美国财政部周三宣布，将从 9 月 9 日开始一直持续到 11 月 4 日，将政府债务回购规模至少增加一倍。",
+          "keyProgress": "“大多数时候，政府试图控制市场并不是一个特别有吸引力的故事。”沙利文指出，这一挑战不仅限于美国，美国政府债务约为 40 万亿美元，全球发达市场政府债务约为 76 万亿美元，公司债券发行量创历史新高。沙利文表示，即使经济基本面强劲，债券供应的大幅增加对市场也很重要。随着经济增长变得越来越资本密集型，企业也在大力利用债务市场，部分原因是人工智能基础设施、回流和国家安全相关投资。",
+          "whyItMatters": "“摩根大通的沙利文表示，美国债券干预就像用信用卡支付抵押贷款”如果继续发展，可能通过能源价格、航运、贸易、汇率或市场预期传导到国内。了解它的意义在于判断后续风险，而不只停留在事件本身。",
+          "userRelevance": "即使你不在美国，“摩根大通的沙利文表示，美国债券干预就像用信用卡支付抵押贷款”也可能通过能源价格、国际航运、贸易成本和市场预期间接影响国内生活与工作判断。",
+          "whatToWatch": "接下来要看“摩根大通的沙利文表示，美国债券干预就像用信用卡支付抵押贷款”是否出现更细的城市、行业、平台或企业数据，以及这一变化能否连续保持。"
+        },
+        "sourceLinks": [
+          {
+            "title": "CNBC World News RSS",
+            "url": "https://www.cnbc.com/2026/08/21/us-bond-intervention-shifting-problem-future-jpmorgan.html",
+            "sourceId": "cnbc-world-rss",
+            "publishedAt": "2026-08-21T02:48:10.000Z",
+            "language": "zh",
+            "originalLanguage": "en",
+            "translationStatus": "translated",
+            "fetchedAt": "2026-08-21T04:49:34.755Z",
+            "sourceMethod": "rss",
+            "verificationStatus": "pending"
+          }
+        ],
+        "images": [
+          {
+            "url": "https://image.cnbcfm.com/api/v1/image/108352490-17872760951787276042-47891013048-1080pnbcnews.jpg?v=1787276094&amp;w=750&amp;h=422&amp;vtcrop=y",
+            "sourceUrl": "https://www.cnbc.com/2026/08/21/us-bond-intervention-shifting-problem-future-jpmorgan.html"
+          }
+        ],
+        "generatedAt": "2026-08-21T04:49:30.785Z"
+      }
+    },
+    {
+      "candidate": {
+        "id": "real-cnbc-world-rss-xta5rz",
+        "title": "经济学家表示，台湾人工智能推动的 11% GDP 增长预测可能不可持续",
+        "oneLine": "国际最新进展：这条英文来源需要完整整理为中文，并优先说明发生了什么变化、与中国的关系及后续风险。",
+        "categories": [
+          "world",
+          "policy",
+          "finance",
+          "operations"
+        ],
+        "industries": [
+          "generalPublic",
+          "financeInvestment",
+          "operationsGrowth",
+          "ecommerceRetail"
+        ],
+        "regions": [
+          "全球"
+        ],
+        "locations": [
+          "台湾"
+        ],
+        "sourceIds": [
+          "cnbc-world-rss"
+        ],
+        "publishedAt": "2026-08-21T03:59:53.000Z",
+        "sourceLinks": [
+          {
+            "title": "CNBC World News RSS",
+            "url": "https://www.cnbc.com/2026/08/21/taiwan-gdp-growth-outlook-tech-forecast.html",
+            "sourceId": "cnbc-world-rss",
+            "publishedAt": "2026-08-21T03:59:53.000Z",
+            "language": "zh",
+            "originalLanguage": "en",
+            "translationStatus": "translated",
+            "fetchedAt": "2026-08-21T04:49:34.755Z",
+            "sourceMethod": "rss",
+            "verificationStatus": "pending"
+          }
+        ],
+        "images": [],
+        "body": {
+          "background": "国际主流媒体 RSS 用于补充全球突发、政策、贸易、能源和科技事件，不能单独替代事实确认。",
+          "keyProgress": "由于容易受到资本支出放缓、宏观经济衰退和半导体集中度等风险的影响，台湾的经济增长可能会放缓。",
+          "whyItMatters": "重大国际变化可能通过外交、贸易、关税、能源、航运、安全或市场预期影响中国用户。",
+          "userRelevance": "是否推送取决于事件影响范围、严重程度，以及它是否会影响中国或形成全球共同认知。",
+          "whatToWatch": "继续核对官方表态和第二个可靠来源，并关注局势变化、政策生效时间及对中国的传导路径。"
+        },
+        "impactScore": 72,
+        "severityScore": 45,
+        "freshnessScore": 95,
+        "trendScore": 72,
+        "isExample": false
+      },
+      "card": {
+        "id": "draft-real-cnbc-world-rss-xta5rz",
+        "title": "经济学家表示，台湾人工智能推动的 11% GDP 增长预测可能不可持续",
+        "oneLine": "政策变化：台湾政府预测 2026 年 GDP 将实现两位数增长，这可能反映了对人工智能经济的乐观态度，但考虑到资本支出放缓和宏观经济衰退的风险，以及半导体行业的高度集中，随着时间的推移，增长可能会放缓。",
+        "importance": "B",
+        "credibility": "待确认",
+        "tags": [
+          "B",
+          "industry",
+          "world",
+          "policy",
+          "finance"
+        ],
+        "industries": [
+          "generalPublic",
+          "financeInvestment",
+          "operationsGrowth",
+          "ecommerceRetail"
+        ],
+        "section": "industry",
+        "body": {
+          "background": "本月早些时候，台湾统计机构表示，预计今年 GDP 增长率为 11.05%，高于 5 月份发布的 9.64% 预测。”苏帕特表示，尽管随着人工智能相关产品的需求不断增长，台湾从全球科技公司的巨额投资中受益匪浅，但如果人工智能投资的步伐放缓，“这可能会相对较快地影响台湾的出口、制造业和投资”。Supaat 补充说，台湾对技术和半导体的依赖使其特别容易受到全球技术和人工智能资本支出周期波动以及地缘政治发展的影响。",
+          "keyProgress": "在科技行业人工智能需求的支撑下，台湾加权股指今年迄今已增长超过 56%。马来亚银行外汇研究主管萨克蒂安迪·苏帕特 (Saktiandi Supaat) 表示：“我认为重要的是，不要对今年的超常增长速度做出过分推断。老虎基金管理公司首席执行官杰里米·谭指出，此类风险“使这种增长的长期可持续性受到质疑”。与此同时，由于通胀风险上升，全球利率可能上升，也可能给台湾新兴的人工智能初创企业带来压力。",
+          "whyItMatters": "“经济学家表示，台湾人工智能推动的 11% GDP 增长预测可能不可持续”如果继续发展，可能通过能源价格、航运、贸易、汇率或市场预期传导到国内。了解它的意义在于判断后续风险，而不只停留在事件本身。",
+          "userRelevance": "即使你不在台湾，“经济学家表示，台湾人工智能推动的 11% GDP 增长预测可能不可持续”也可能通过能源价格、国际航运、贸易成本和市场预期间接影响国内生活与工作判断。",
+          "whatToWatch": "接下来要看“经济学家表示，台湾人工智能推动的 11% GDP 增长预测可能不可持续”是否出现更细的城市、行业、平台或企业数据，以及这一变化能否连续保持。"
+        },
+        "sourceLinks": [
+          {
+            "title": "CNBC World News RSS",
+            "url": "https://www.cnbc.com/2026/08/21/taiwan-gdp-growth-outlook-tech-forecast.html",
+            "sourceId": "cnbc-world-rss",
+            "publishedAt": "2026-08-21T03:59:53.000Z",
+            "language": "zh",
+            "originalLanguage": "en",
+            "translationStatus": "translated",
+            "fetchedAt": "2026-08-21T04:49:34.755Z",
+            "sourceMethod": "rss",
+            "verificationStatus": "pending"
+          }
+        ],
+        "images": [],
+        "generatedAt": "2026-08-21T04:49:30.785Z"
+      }
+    },
+    {
+      "candidate": {
+        "id": "real-cnbc-world-rss-177la4f",
+        "title": "CFTC 创新咨询委员会会议讨论新兴预测市场风险",
+        "oneLine": "国际最新进展：这条英文来源需要完整整理为中文，并优先说明发生了什么变化、与中国的关系及后续风险。",
+        "categories": [
+          "world",
+          "policy",
+          "finance",
+          "operations"
+        ],
+        "industries": [
+          "generalPublic",
+          "financeInvestment",
+          "operationsGrowth",
+          "ecommerceRetail"
+        ],
+        "regions": [
+          "全球"
+        ],
+        "locations": [],
+        "sourceIds": [
+          "cnbc-world-rss"
+        ],
+        "publishedAt": "2026-08-21T00:45:58.000Z",
+        "sourceLinks": [
+          {
+            "title": "CNBC World News RSS",
+            "url": "https://www.cnbc.com/2026/08/20/cftcs-committee-meeting-addresses-prediction-market-risks.html",
+            "sourceId": "cnbc-world-rss",
+            "publishedAt": "2026-08-21T00:45:58.000Z",
+            "language": "zh",
+            "originalLanguage": "en",
+            "translationStatus": "translated",
+            "fetchedAt": "2026-08-21T04:49:34.755Z",
+            "sourceMethod": "rss",
+            "verificationStatus": "pending"
+          }
+        ],
+        "images": [],
+        "body": {
+          "background": "国际主流媒体 RSS 用于补充全球突发、政策、贸易、能源和科技事件，不能单独替代事实确认。",
+          "keyProgress": "CFTC 的第一次创新咨询委员会会议讨论了提及市场的风险，成员们主张加强消费者保护。",
+          "whyItMatters": "重大国际变化可能通过外交、贸易、关税、能源、航运、安全或市场预期影响中国用户。",
+          "userRelevance": "是否推送取决于事件影响范围、严重程度，以及它是否会影响中国或形成全球共同认知。",
+          "whatToWatch": "继续核对官方表态和第二个可靠来源，并关注局势变化、政策生效时间及对中国的传导路径。"
+        },
+        "impactScore": 72,
+        "severityScore": 45,
+        "freshnessScore": 95,
+        "trendScore": 72,
+        "isExample": false
+      },
+      "card": {
+        "id": "draft-real-cnbc-world-rss-177la4f",
+        "title": "CFTC 创新咨询委员会会议讨论新兴预测市场风险",
+        "oneLine": "政策变化：根据《商品交易法》，预测市场平台可以在未经 CFTC 事先批准的情况下提出、提交和认证事件合约。",
+        "importance": "B",
+        "credibility": "待确认",
+        "tags": [
+          "B",
+          "industry",
+          "world",
+          "policy",
+          "finance"
+        ],
+        "industries": [
+          "generalPublic",
+          "financeInvestment",
+          "operationsGrowth",
+          "ecommerceRetail"
+        ],
+        "section": "industry",
+        "body": {
+          "background": "商品期货交易委员会的第一次创新咨询委员会会议于周四召开，讨论预测市场监管的最新情况，包括对平台上“提及市场”日益增长的担忧。该委员会由 30 多名成员组成，其中包括来自 Robinhood、纳斯达克和 CME 的高层人士。周四会议上出现的主要担忧包括事件合约的自我认证，以及“提及市场”——交易者根据演讲或财报电话会议中使用的某些词语进行推测的合约——以及它们对操纵的敏感性。",
+          "keyProgress": "CFTC 主席迈克尔·塞利格 (Michael Selig) 是该联邦机构通常由五名成员组成的委员会中的唯一官员，他表示，该委员会的作用是为 CFTC 加强市场监管的决策提供意见。该小组首先讨论了加密货币和人工智能的监管格局，但最激烈的讨论围绕预测市场。Polymarket 的首席执行官兼创始人 Shayne Coplan 和 Kalshi 的联合创始人 Luana Lopes Lara 也出席了这场大约三个小时的会议。委员会成员还讨论了预测市场的监管路线图。",
+          "whyItMatters": "“CFTC 创新咨询委员会会议讨论新兴预测市场风险”如果继续发展，可能通过能源价格、航运、贸易、汇率或市场预期传导到国内。了解它的意义在于判断后续风险，而不只停留在事件本身。",
+          "userRelevance": "即使你不在事发地区，“CFTC 创新咨询委员会会议讨论新兴预测市场风险”也可能通过能源价格、国际航运、贸易成本和市场预期间接影响国内生活与工作判断。",
+          "whatToWatch": "接下来要看“CFTC 创新咨询委员会会议讨论新兴预测市场风险”是否出现更细的城市、行业、平台或企业数据，以及这一变化能否连续保持。"
+        },
+        "sourceLinks": [
+          {
+            "title": "CNBC World News RSS",
+            "url": "https://www.cnbc.com/2026/08/20/cftcs-committee-meeting-addresses-prediction-market-risks.html",
+            "sourceId": "cnbc-world-rss",
+            "publishedAt": "2026-08-21T00:45:58.000Z",
+            "language": "zh",
+            "originalLanguage": "en",
+            "translationStatus": "translated",
+            "fetchedAt": "2026-08-21T04:49:34.755Z",
+            "sourceMethod": "rss",
+            "verificationStatus": "pending"
+          }
+        ],
+        "images": [],
+        "generatedAt": "2026-08-21T04:49:30.785Z"
       }
     }
   ]

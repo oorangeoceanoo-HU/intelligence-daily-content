@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "publishedAt": "2026-08-21T04:21:46.319Z",
+  "publishedAt": "2026-08-21T04:49:30.785Z",
   "issue": {
     "id": "daily-public-2026-08-21",
     "date": "2026-08-21",
@@ -312,7 +312,7 @@
         "generatedAt": "2026-08-20T23:37:34.232Z"
       },
       {
-        "id": "draft-real-cnbc-world-rss-pe0yhh",
+        "id": "draft-real-cnbc-world-rss-py05vf",
         "title": "由于能源价格上涨，日本整体通胀率创今年最高",
         "oneLine": "政策变化：由于伊朗战争导致能源成本上涨，日本 7 月份总体通胀率达到 1.9%，为今年最高水平。",
         "importance": "B",
@@ -348,16 +348,16 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-21T04:21:57.498Z",
+            "fetchedAt": "2026-08-21T04:49:34.755Z",
             "sourceMethod": "rss",
             "verificationStatus": "pending"
           }
         ],
         "images": [],
-        "generatedAt": "2026-08-21T04:21:46.319Z"
+        "generatedAt": "2026-08-21T04:49:30.785Z"
       },
       {
-        "id": "draft-real-cnbc-world-rss-1rit1bo",
+        "id": "draft-real-cnbc-world-rss-1scruel",
         "title": "中国人形机器人最大的障碍：人类仍然（大部分）更好",
         "oneLine": "政策变化：北京——本周在北京举行的世界机器人大会上发表讲话的行业领袖表示，人形机器人面临的最大挑战仍然是让技术发挥良好作用。",
         "importance": "B",
@@ -393,13 +393,13 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-21T04:21:57.498Z",
+            "fetchedAt": "2026-08-21T04:49:34.755Z",
             "sourceMethod": "rss",
             "verificationStatus": "pending"
           }
         ],
         "images": [],
-        "generatedAt": "2026-08-21T04:21:46.319Z"
+        "generatedAt": "2026-08-21T04:49:30.785Z"
       },
       {
         "id": "draft-real-gov-uk-news-1bsu1kn",
@@ -489,16 +489,16 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-21T04:22:00.015Z",
+            "fetchedAt": "2026-08-21T04:49:36.141Z",
             "sourceMethod": "rss",
             "verificationStatus": "pending"
           }
         ],
         "images": [],
-        "generatedAt": "2026-08-21T04:21:46.319Z"
+        "generatedAt": "2026-08-21T04:49:30.785Z"
       },
       {
-        "id": "draft-real-cnbc-world-rss-wpbr03",
+        "id": "draft-real-cnbc-world-rss-xta5rz",
         "title": "经济学家表示，台湾人工智能推动的 11% GDP 增长预测可能不可持续",
         "oneLine": "政策变化：台湾政府预测 2026 年 GDP 将实现两位数增长，这可能反映了对人工智能经济的乐观态度，但考虑到资本支出放缓和宏观经济衰退的风险，以及半导体行业的高度集中，随着时间的推移，增长可能会放缓。",
         "importance": "B",
@@ -533,16 +533,16 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-21T04:21:57.498Z",
+            "fetchedAt": "2026-08-21T04:49:34.755Z",
             "sourceMethod": "rss",
             "verificationStatus": "pending"
           }
         ],
         "images": [],
-        "generatedAt": "2026-08-21T04:21:46.319Z"
+        "generatedAt": "2026-08-21T04:49:30.785Z"
       },
       {
-        "id": "draft-real-cnbc-world-rss-1tnvhtv",
+        "id": "draft-real-cnbc-world-rss-1tdvw4w",
         "title": "摩根大通的沙利文表示，美国债券干预就像“用信用卡支付抵押贷款”",
         "oneLine": "最新进展：摩根大通的沙利文表示，美国债券干预就像“用信用卡支付抵押贷款”。",
         "importance": "B",
@@ -577,7 +577,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-21T04:21:57.498Z",
+            "fetchedAt": "2026-08-21T04:49:34.755Z",
             "sourceMethod": "rss",
             "verificationStatus": "pending"
           }
@@ -588,7 +588,7 @@
             "sourceUrl": "https://www.cnbc.com/2026/08/21/us-bond-intervention-shifting-problem-future-jpmorgan.html"
           }
         ],
-        "generatedAt": "2026-08-21T04:21:46.319Z"
+        "generatedAt": "2026-08-21T04:49:30.785Z"
       },
       {
         "id": "draft-real-cnbc-world-rss-9uuabt",
@@ -626,7 +626,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-21T04:21:57.498Z",
+            "fetchedAt": "2026-08-21T04:49:34.755Z",
             "sourceMethod": "rss",
             "verificationStatus": "pending"
           }
@@ -637,10 +637,10 @@
             "sourceUrl": "https://www.cnbc.com/2026/08/20/us-japan-yen-intervention-bank-of-japan-carry-trade.html"
           }
         ],
-        "generatedAt": "2026-08-21T04:21:46.319Z"
+        "generatedAt": "2026-08-21T04:49:30.785Z"
       },
       {
-        "id": "draft-real-cnbc-world-rss-16dmh1i",
+        "id": "draft-real-cnbc-world-rss-177la4f",
         "title": "CFTC 创新咨询委员会会议讨论新兴预测市场风险",
         "oneLine": "政策变化：根据《商品交易法》，预测市场平台可以在未经 CFTC 事先批准的情况下提出、提交和认证事件合约。",
         "importance": "B",
@@ -675,13 +675,13 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-21T04:21:57.498Z",
+            "fetchedAt": "2026-08-21T04:49:34.755Z",
             "sourceMethod": "rss",
             "verificationStatus": "pending"
           }
         ],
         "images": [],
-        "generatedAt": "2026-08-21T04:21:46.319Z"
+        "generatedAt": "2026-08-21T04:49:30.785Z"
       },
       {
         "id": "draft-real-un-news-rss-80p3ak",
@@ -1201,7 +1201,7 @@
     "estimatedReadMinutes": 38,
     "pageCount": 3,
     "topCardId": "draft-real-cnbc-world-rss-1tti74m",
-    "generatedAt": "2026-08-21T04:21:46.319Z",
+    "generatedAt": "2026-08-21T04:49:30.785Z",
     "pushSlots": [
       "08:30",
       "12:30",
@@ -1215,13 +1215,13 @@
     },
     "basedOnGeneratedAt": "2026-08-20T23:37:34.232Z",
     "editionCardIds": [
-      "draft-real-cnbc-world-rss-1rit1bo",
-      "draft-real-cnbc-world-rss-pe0yhh",
+      "draft-real-cnbc-world-rss-1scruel",
+      "draft-real-cnbc-world-rss-py05vf",
       "draft-real-techcrunch-ai-rss-1y369ky",
-      "draft-real-cnbc-world-rss-1tnvhtv",
-      "draft-real-cnbc-world-rss-wpbr03",
+      "draft-real-cnbc-world-rss-1tdvw4w",
       "draft-real-cnbc-world-rss-9uuabt",
-      "draft-real-cnbc-world-rss-16dmh1i"
+      "draft-real-cnbc-world-rss-xta5rz",
+      "draft-real-cnbc-world-rss-177la4f"
     ],
     "carriedCardIds": [
       "draft-real-cnbc-world-rss-1tti74m",

@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "publishedAt": "2026-08-22T22:54:19.114Z",
+  "publishedAt": "2026-08-22T23:33:22.980Z",
   "issue": {
     "id": "daily-public-2026-08-23",
     "date": "2026-08-23",
@@ -42,13 +42,13 @@
             "language": "zh",
             "originalLanguage": "zh",
             "translationStatus": "not-needed",
-            "fetchedAt": "2026-08-22T22:54:25.029Z",
+            "fetchedAt": "2026-08-22T23:33:26.877Z",
             "sourceMethod": "web",
             "verificationStatus": "confirmed"
           }
         ],
         "images": [],
-        "generatedAt": "2026-08-22T22:54:19.114Z"
+        "generatedAt": "2026-08-22T23:33:22.980Z"
       },
       {
         "id": "draft-cluster-real-npr-world-rss-hbrq62",
@@ -87,7 +87,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-22T22:54:25.937Z",
+            "fetchedAt": "2026-08-22T23:33:27.469Z",
             "sourceMethod": "rss",
             "verificationStatus": "confirmed"
           },
@@ -99,7 +99,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-22T22:54:26.432Z",
+            "fetchedAt": "2026-08-22T23:33:27.781Z",
             "sourceMethod": "rss",
             "verificationStatus": "pending"
           }
@@ -118,7 +118,7 @@
             "sourceUrl": "https://www.npr.org/2026/08/22/nx-s1-5941584/us-canada-tariffs"
           }
         ],
-        "generatedAt": "2026-08-22T22:54:19.114Z"
+        "generatedAt": "2026-08-22T23:33:22.980Z"
       },
       {
         "id": "draft-real-cnbc-world-rss-1wnengs",
@@ -157,7 +157,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-22T22:54:26.432Z",
+            "fetchedAt": "2026-08-22T23:33:27.781Z",
             "sourceMethod": "rss",
             "verificationStatus": "pending"
           }
@@ -168,7 +168,7 @@
             "sourceUrl": "https://www.cnbc.com/2026/08/22/iran-criticizes-us-sanctions-extraterritorial-sovereignty.html"
           }
         ],
-        "generatedAt": "2026-08-22T22:54:19.114Z"
+        "generatedAt": "2026-08-22T23:33:22.980Z"
       },
       {
         "id": "draft-real-mofcom-trade-1cqmgen",
@@ -207,13 +207,13 @@
             "language": "zh",
             "originalLanguage": "zh",
             "translationStatus": "not-needed",
-            "fetchedAt": "2026-08-22T22:54:29.284Z",
+            "fetchedAt": "2026-08-22T23:33:29.664Z",
             "sourceMethod": "web",
             "verificationStatus": "confirmed"
           }
         ],
         "images": [],
-        "generatedAt": "2026-08-22T22:54:19.114Z"
+        "generatedAt": "2026-08-22T23:33:22.980Z"
       },
       {
         "id": "draft-real-mem-cn-15fh75w",
@@ -251,13 +251,13 @@
             "language": "zh",
             "originalLanguage": "zh",
             "translationStatus": "not-needed",
-            "fetchedAt": "2026-08-22T22:54:23.320Z",
+            "fetchedAt": "2026-08-22T23:33:25.494Z",
             "sourceMethod": "web",
             "verificationStatus": "confirmed"
           }
         ],
         "images": [],
-        "generatedAt": "2026-08-22T22:54:19.114Z"
+        "generatedAt": "2026-08-22T23:33:22.980Z"
       },
       {
         "id": "draft-real-xinhua-world-ol70i7",
@@ -295,13 +295,13 @@
             "language": "zh",
             "originalLanguage": "zh",
             "translationStatus": "not-needed",
-            "fetchedAt": "2026-08-22T22:54:25.029Z",
+            "fetchedAt": "2026-08-22T23:33:26.877Z",
             "sourceMethod": "web",
             "verificationStatus": "confirmed"
           }
         ],
         "images": [],
-        "generatedAt": "2026-08-22T22:54:19.114Z"
+        "generatedAt": "2026-08-22T23:33:22.980Z"
       },
       {
         "id": "draft-real-cnbc-world-rss-j1vf7u",
@@ -340,13 +340,13 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-22T22:54:26.432Z",
+            "fetchedAt": "2026-08-22T23:33:27.781Z",
             "sourceMethod": "rss",
             "verificationStatus": "pending"
           }
         ],
         "images": [],
-        "generatedAt": "2026-08-22T22:54:19.114Z"
+        "generatedAt": "2026-08-22T23:33:22.980Z"
       },
       {
         "id": "draft-real-techcrunch-ai-rss-lrw3xh",
@@ -385,13 +385,63 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-22T22:54:29.096Z",
+            "fetchedAt": "2026-08-22T23:33:29.592Z",
             "sourceMethod": "rss",
             "verificationStatus": "pending"
           }
         ],
         "images": [],
-        "generatedAt": "2026-08-22T22:54:19.114Z"
+        "generatedAt": "2026-08-22T23:33:22.980Z"
+      },
+      {
+        "id": "draft-real-techcrunch-ai-rss-1k8hs0q",
+        "title": "前沿人工智能实验室仍然不会说他们将如何包含一个流氓模型",
+        "oneLine": "趋势信号：根据最近的一项研究，很少有顶级人工智能实验室发布或展示了遏制应对计划。",
+        "importance": "B",
+        "credibility": "待确认",
+        "tags": [
+          "B",
+          "industry",
+          "ai",
+          "technology",
+          "product"
+        ],
+        "industries": [
+          "aiProduct",
+          "aiTechnology",
+          "productManagement",
+          "technologyEngineering",
+          "educationResearch"
+        ],
+        "section": "ai",
+        "body": {
+          "background": "遏制计划阐明了一旦人工智能被发现试图颠覆人类控制时会发生什么—哪些访问权限被切断，以及系统何时完全关闭。Guidelight的评估基于Anthropic、Google、OpenAI、Meta和xAI的公开计划，并根据一系列指标进行评分，包括每家公司在内部记录和监控其人工智能系统的工作情况，是否在被标记的不当行为激增后停止系统，独立第三方是否审核其控制和发布调查结果，以及其包含偏离轨道的模型的确切计划。在一系列备受瞩目的网络安全事件之后，人们越来越担心人工智能公司是否能够包含其日益强大的代理模型，在这些事件中， OpenAI、Anthropic和Meta的模型在安全评估期间意外地访问了互联网，并入侵了外部系统。",
+          "keyProgress": "这是Guidelight AI Standards的调查结果，该组织致力于推广安全前沿的人工智能开发实践，该组织对五个领先的实验室进行了评分，以了解他们对这种情况的准备程度。调查结果很重要，因为代理人工智能在公司自己的系统中承担更多的自主角色，并且加利福尼亚州和纽约州的监管机构开始要求披露。对于任何建立或投资这些模型的人来说，这是一个罕见的独立阅读，了解每个实验室如何认真对待运营风险，以及如何谈论运营风险。虽然一些人工智能公司详细介绍了他们在部署之前如何测试其模型的危险功能，但他们通常不太清楚当已经在其系统内运行的模型行为不端时会发生什么。",
+          "whyItMatters": "“前沿人工智能实验室仍然不会说他们将如何包含一个流氓模型”能帮助你判断这项能力是否已经进入工程、产品或商业场景，并据此调整技术选型、产品规划、学习重点或职业判断。",
+          "userRelevance": "如果你从事AI 产品、AI 技术、产品管理、技术研发，可以重点判断“前沿人工智能实验室仍然不会说他们将如何包含一个流氓模型”是否已经具备产品落地、技术选型或业务合作价值。",
+          "whatToWatch": "接下来要看“前沿人工智能实验室仍然不会说他们将如何包含一个流氓模型”是否有更多可靠来源、量产或应用进展，以及它会不会从单点消息发展成持续趋势。"
+        },
+        "sourceLinks": [
+          {
+            "title": "TechCrunch AI RSS",
+            "url": "https://techcrunch.com/2026/08/22/frontier-ai-labs-still-wont-say-how-theyd-contain-a-rogue-model/",
+            "sourceId": "techcrunch-ai-rss",
+            "publishedAt": "2026-08-22T16:00:00.000Z",
+            "language": "zh",
+            "originalLanguage": "en",
+            "translationStatus": "translated",
+            "fetchedAt": "2026-08-22T23:33:29.592Z",
+            "sourceMethod": "rss",
+            "verificationStatus": "pending"
+          }
+        ],
+        "images": [
+          {
+            "url": "https://techcrunch.com/wp-content/uploads/2026/08/Guidelight-AI-containment-plans.jpg?w=680",
+            "sourceUrl": "https://techcrunch.com/2026/08/22/frontier-ai-labs-still-wont-say-how-theyd-contain-a-rogue-model/"
+          }
+        ],
+        "generatedAt": "2026-08-22T23:33:22.980Z"
       },
       {
         "id": "draft-real-cnbc-world-rss-g6i9oe",
@@ -429,7 +479,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-22T22:54:26.432Z",
+            "fetchedAt": "2026-08-22T23:33:27.781Z",
             "sourceMethod": "rss",
             "verificationStatus": "pending"
           }
@@ -444,7 +494,7 @@
             "sourceUrl": "https://www.cnbc.com/2026/08/22/meet-yvonne-gonzalez-rogers-judge-taking-on-meta.html"
           }
         ],
-        "generatedAt": "2026-08-22T22:54:19.114Z"
+        "generatedAt": "2026-08-22T23:33:22.980Z"
       },
       {
         "id": "draft-real-cnbc-world-rss-1ddhhr6",
@@ -482,13 +532,13 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-22T22:54:26.432Z",
+            "fetchedAt": "2026-08-22T23:33:27.781Z",
             "sourceMethod": "rss",
             "verificationStatus": "pending"
           }
         ],
         "images": [],
-        "generatedAt": "2026-08-22T22:54:19.114Z"
+        "generatedAt": "2026-08-22T23:33:22.980Z"
       },
       {
         "id": "draft-real-cnbc-world-rss-1sk5g69",
@@ -526,13 +576,13 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-22T22:54:26.432Z",
+            "fetchedAt": "2026-08-22T23:33:27.781Z",
             "sourceMethod": "rss",
             "verificationStatus": "pending"
           }
         ],
         "images": [],
-        "generatedAt": "2026-08-22T22:54:19.114Z"
+        "generatedAt": "2026-08-22T23:33:22.980Z"
       },
       {
         "id": "draft-real-cnbc-world-rss-1azmsjp",
@@ -570,7 +620,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-22T22:54:26.432Z",
+            "fetchedAt": "2026-08-22T23:33:27.781Z",
             "sourceMethod": "rss",
             "verificationStatus": "pending"
           }
@@ -585,13 +635,13 @@
             "sourceUrl": "https://www.cnbc.com/2026/08/22/investors-market-risks-diversification-stocks-kospi.html"
           }
         ],
-        "generatedAt": "2026-08-22T22:54:19.114Z"
+        "generatedAt": "2026-08-22T23:33:22.980Z"
       }
     ],
-    "estimatedReadMinutes": 20,
+    "estimatedReadMinutes": 22,
     "pageCount": 2,
     "topCardId": "draft-real-xinhua-world-4fwuaz",
-    "generatedAt": "2026-08-22T22:54:19.114Z",
+    "generatedAt": "2026-08-22T23:33:22.980Z",
     "pushSlots": [
       "08:30",
       "12:30",
@@ -612,6 +662,7 @@
       "draft-real-xinhua-world-ol70i7",
       "draft-real-cnbc-world-rss-j1vf7u",
       "draft-real-techcrunch-ai-rss-lrw3xh",
+      "draft-real-techcrunch-ai-rss-1k8hs0q",
       "draft-real-cnbc-world-rss-g6i9oe",
       "draft-real-cnbc-world-rss-1ddhhr6",
       "draft-real-cnbc-world-rss-1sk5g69",

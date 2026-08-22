@@ -1,150 +1,11 @@
 {
   "schemaVersion": 2,
-  "publishedAt": "2026-08-21T23:36:19.202Z",
+  "publishedAt": "2026-08-22T04:16:04.053Z",
   "issue": {
     "id": "daily-public-2026-08-22",
     "date": "2026-08-22",
     "userId": "public",
     "cards": [
-      {
-        "id": "draft-real-xinhua-world-1ff37kp",
-        "title": "古巴谴责美国对古新一轮制裁",
-        "oneLine": "政策变化：针对美国政府20日宣布对古巴新一轮制裁，古巴国家主席迪亚斯-卡内尔当天对此予以谴责，说古巴将坚持抵抗并取得胜利，美国终将被列入种族灭绝者名单。",
-        "importance": "S",
-        "credibility": "主流媒体",
-        "tags": [
-          "S",
-          "mustKnow",
-          "industry",
-          "world",
-          "policy"
-        ],
-        "industries": [
-          "generalPublic",
-          "financeInvestment",
-          "operationsGrowth",
-          "contentCreator"
-        ],
-        "section": "front",
-        "body": {
-          "background": "迪亚斯-卡内尔当天在社交媒体上说，美方“刽子手”每周四公布“黑名单”，制裁古巴的个人和机构。受制裁者唯一的“罪名”，就是为古巴服务、反对针对古巴的“种族灭绝式封锁”。受制裁的3名个人均为古巴与各国人民友好协会官员，包括协会主席费尔南多·冈萨雷斯。",
-          "keyProgress": "美国长期对古巴实施经济、金融封锁和贸易禁运。古巴外交部长罗德里格斯当天在社交媒体发文谴责美国国务卿鲁比奥，指其持续打压古巴企业，企图蓄意损害古巴经济，阻碍古巴政府向民众提供基本公共服务。美方制裁对食品、药品及医疗器械的运输造成了尤其显著的阻碍，这些物资大部分由古巴私营中小微企业采购。当天早些时候，美国国务卿鲁比奥宣布制裁古巴9个实体和3名个人。",
-          "whyItMatters": "“古巴谴责美国对古新一轮制裁”如果继续发展，可能通过能源价格、航运、贸易、汇率或市场预期传导到国内。了解它的意义在于判断后续风险，而不只停留在事件本身。",
-          "userRelevance": "即使你不在美国，“古巴谴责美国对古新一轮制裁”也可能通过能源价格、国际航运、贸易成本和市场预期间接影响国内生活与工作判断。",
-          "whatToWatch": "接下来要看“古巴谴责美国对古新一轮制裁”是否出现新的官方信息、后续行动，以及它与中国出行、贸易或公共判断的关联是否扩大。"
-        },
-        "sourceLinks": [
-          {
-            "title": "新华网国际",
-            "url": "https://www.news.cn/world/20260821/003f2cc8d04f473a953e0ecf498e3bdf/c.html",
-            "sourceId": "xinhua-world",
-            "publishedAt": "2026-08-21T00:00:00+08:00",
-            "language": "zh",
-            "originalLanguage": "zh",
-            "translationStatus": "not-needed",
-            "fetchedAt": "2026-08-21T23:36:22.715Z",
-            "sourceMethod": "web",
-            "verificationStatus": "confirmed"
-          }
-        ],
-        "images": [],
-        "generatedAt": "2026-08-21T23:36:19.202Z"
-      },
-      {
-        "id": "draft-real-npr-world-rss-1s17zut",
-        "title": "伊朗高级官员称美国对经济战的关注表明其在军事上失败",
-        "oneLine": "政策变化：伊朗政权驳回了特朗普总统在经济上压制伊朗的威胁，称美国多年的制裁已经失败。",
-        "importance": "S",
-        "credibility": "主流媒体",
-        "tags": [
-          "S",
-          "mustKnow",
-          "industry",
-          "world",
-          "policy",
-          "finance"
-        ],
-        "industries": [
-          "generalPublic",
-          "financeInvestment",
-          "operationsGrowth",
-          "ecommerceRetail"
-        ],
-        "section": "front",
-        "body": {
-          "background": "贝森特周四在接受 CNBC 采访时补充道，伊朗将面临“世界历史上最严重的协调性经济孤立”。周五，伊朗议会议长、该国与美国的主要谈判代表穆罕默德·巴克尔·加利巴夫表示，特朗普威胁进行“经济诺曼底登陆”表明华盛顿无法在军事上取得胜利。他在访问邻国伊拉克时表示：“美国人和以色列人已经意识到，他们无法在硬军事战争领域对付伊朗因此他们进入了一场认知战和经济战。",
-          "keyProgress": "美国已经对伊朗实施了广泛的制裁，这使得与西方国家的许多国际贸易变得不可能，并且在六月份，美国还打击了购买伊朗石油的炼油厂和企业。现在，财政部长斯科特·贝森特威胁要对与伊朗有业务往来的国家（而不仅仅是商业实体）实施更多二级制裁。”伊朗外长阿巴斯·阿拉格奇也谴责特朗普宣布转向经济战，称其为“经济恐怖主义”，旨在转移人们对美国经济问题的注意力。他在社交媒体帖子中表示，加倍推行失败的美国政策将进一步加剧反美情绪。",
-          "whyItMatters": "“伊朗高级官员称美国对经济战的关注表明其在军事上失败”如果继续发展，可能通过能源价格、航运、贸易、汇率或市场预期传导到国内。了解它的意义在于判断后续风险，而不只停留在事件本身。",
-          "userRelevance": "即使你不在美国、伊朗，“伊朗高级官员称美国对经济战的关注表明其在军事上失败”也可能通过能源价格、国际航运、贸易成本和市场预期间接影响国内生活与工作判断。",
-          "whatToWatch": "接下来要看“伊朗高级官员称美国对经济战的关注表明其在军事上失败”是否出现更细的城市、行业、平台或企业数据，以及这一变化能否连续保持。"
-        },
-        "sourceLinks": [
-          {
-            "title": "NPR World RSS",
-            "url": "https://www.npr.org/2026/08/21/nx-s1-5940610/iran-us-threat-economic-warfare",
-            "sourceId": "npr-world-rss",
-            "publishedAt": "2026-08-21T11:42:10.000Z",
-            "language": "zh",
-            "originalLanguage": "en",
-            "translationStatus": "translated",
-            "fetchedAt": "2026-08-21T23:36:23.453Z",
-            "sourceMethod": "rss",
-            "verificationStatus": "confirmed"
-          }
-        ],
-        "images": [
-          {
-            "url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6000x4000+0+0/resize/1100/quality/50/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fce%2F1d%2Fd4b7c00c49eb8088a4e7decd6ac0%2Fap26232551199754.jpg",
-            "sourceUrl": "https://www.npr.org/2026/08/21/nx-s1-5940610/iran-us-threat-economic-warfare"
-          }
-        ],
-        "generatedAt": "2026-08-21T23:36:19.202Z"
-      },
-      {
-        "id": "draft-real-cnbc-world-rss-14un2od",
-        "title": "特朗普表示，随着关税截止日期的临近，美国和加拿大“应该能够”达成贸易协议",
-        "oneLine": "政策变化：美国和加拿大周五继续进行贸易谈判，在唐纳德·特朗普总统对曲棍球杆、葡萄酒和其他加拿大商品征收的新关税生效之前达成协议的时间已经临近。",
-        "importance": "S",
-        "credibility": "待确认",
-        "tags": [
-          "S",
-          "mustKnow",
-          "industry",
-          "world",
-          "policy",
-          "finance"
-        ],
-        "industries": [
-          "generalPublic",
-          "financeInvestment",
-          "operationsGrowth",
-          "ecommerceRetail"
-        ],
-        "section": "front",
-        "body": {
-          "background": "截至下午 5:30东部时间，华盛顿谈判代表尚未从美国贸易代表办公室拿出最终协议。如果在美国东部时间周六中午 12:01 之前仍未达成协议，将对价值约 200 亿美元的进口商品征收 50% 的关税。周五下午，当被问及两国是否已达成协议以避免迫在眉睫的关税时，特朗普表示：“我想是的。",
-          "keyProgress": "50%的报复性关税最初定于周三开始实施，直到特朗普在Truth Social的最后一刻发帖表示，他将推迟三天，以便华盛顿和渥太华能够敲定一项暂定协议。我们的农民对我来说非常重要，”特朗普在登上空军一号之前说道。“与加拿大的协议正在取得进展，”他补充道。”特朗普的最新言论与三天前的声明不同，他声称美国和加拿大“已达成协议”，只需敲定即可。",
-          "whyItMatters": "“特朗普表示，随着关税截止日期的临近，美国和加拿大应该能够达成贸易协议”如果继续发展，可能通过能源价格、航运、贸易、汇率或市场预期传导到国内。了解它的意义在于判断后续风险，而不只停留在事件本身。",
-          "userRelevance": "即使你不在美国，“特朗普表示，随着关税截止日期的临近，美国和加拿大应该能够达成贸易协议”也可能通过能源价格、国际航运、贸易成本和市场预期间接影响国内生活与工作判断。",
-          "whatToWatch": "接下来要看“特朗普表示，随着关税截止日期的临近，美国和加拿大应该能够达成贸易协议”是否出现更细的城市、行业、平台或企业数据，以及这一变化能否连续保持。"
-        },
-        "sourceLinks": [
-          {
-            "title": "CNBC World News RSS",
-            "url": "https://www.cnbc.com/2026/08/21/trump-canada-tariffs-trade-deal-deadline.html",
-            "sourceId": "cnbc-world-rss",
-            "publishedAt": "2026-08-21T21:31:24.000Z",
-            "language": "zh",
-            "originalLanguage": "en",
-            "translationStatus": "translated",
-            "fetchedAt": "2026-08-21T23:36:23.884Z",
-            "sourceMethod": "rss",
-            "verificationStatus": "pending"
-          }
-        ],
-        "images": [],
-        "generatedAt": "2026-08-21T23:36:19.202Z"
-      },
       {
         "id": "draft-real-cnbc-world-rss-1mbanhn",
         "title": "特朗普允许免关税进口30万吨碎牛肉",
@@ -193,6 +54,51 @@
             "sourceUrl": "https://www.cnbc.com/2026/08/21/trump-ground-beef-import-tariff.html"
           }
         ],
+        "generatedAt": "2026-08-21T23:36:19.202Z"
+      },
+      {
+        "id": "draft-real-cnbc-world-rss-14un2od",
+        "title": "特朗普表示，随着关税截止日期的临近，美国和加拿大“应该能够”达成贸易协议",
+        "oneLine": "政策变化：美国和加拿大周五继续进行贸易谈判，在唐纳德·特朗普总统对曲棍球杆、葡萄酒和其他加拿大商品征收的新关税生效之前达成协议的时间已经临近。",
+        "importance": "S",
+        "credibility": "待确认",
+        "tags": [
+          "S",
+          "mustKnow",
+          "industry",
+          "world",
+          "policy",
+          "finance"
+        ],
+        "industries": [
+          "generalPublic",
+          "financeInvestment",
+          "operationsGrowth",
+          "ecommerceRetail"
+        ],
+        "section": "front",
+        "body": {
+          "background": "截至下午 5:30东部时间，华盛顿谈判代表尚未从美国贸易代表办公室拿出最终协议。如果在美国东部时间周六中午 12:01 之前仍未达成协议，将对价值约 200 亿美元的进口商品征收 50% 的关税。周五下午，当被问及两国是否已达成协议以避免迫在眉睫的关税时，特朗普表示：“我想是的。",
+          "keyProgress": "50%的报复性关税最初定于周三开始实施，直到特朗普在Truth Social的最后一刻发帖表示，他将推迟三天，以便华盛顿和渥太华能够敲定一项暂定协议。我们的农民对我来说非常重要，”特朗普在登上空军一号之前说道。“与加拿大的协议正在取得进展，”他补充道。”特朗普的最新言论与三天前的声明不同，他声称美国和加拿大“已达成协议”，只需敲定即可。",
+          "whyItMatters": "“特朗普表示，随着关税截止日期的临近，美国和加拿大应该能够达成贸易协议”如果继续发展，可能通过能源价格、航运、贸易、汇率或市场预期传导到国内。了解它的意义在于判断后续风险，而不只停留在事件本身。",
+          "userRelevance": "即使你不在美国，“特朗普表示，随着关税截止日期的临近，美国和加拿大应该能够达成贸易协议”也可能通过能源价格、国际航运、贸易成本和市场预期间接影响国内生活与工作判断。",
+          "whatToWatch": "接下来要看“特朗普表示，随着关税截止日期的临近，美国和加拿大应该能够达成贸易协议”是否出现更细的城市、行业、平台或企业数据，以及这一变化能否连续保持。"
+        },
+        "sourceLinks": [
+          {
+            "title": "CNBC World News RSS",
+            "url": "https://www.cnbc.com/2026/08/21/trump-canada-tariffs-trade-deal-deadline.html",
+            "sourceId": "cnbc-world-rss",
+            "publishedAt": "2026-08-21T21:31:24.000Z",
+            "language": "zh",
+            "originalLanguage": "en",
+            "translationStatus": "translated",
+            "fetchedAt": "2026-08-21T23:36:23.884Z",
+            "sourceMethod": "rss",
+            "verificationStatus": "pending"
+          }
+        ],
+        "images": [],
         "generatedAt": "2026-08-21T23:36:19.202Z"
       },
       {
@@ -250,6 +156,100 @@
         "generatedAt": "2026-08-21T23:36:19.202Z"
       },
       {
+        "id": "draft-real-npr-world-rss-1s17zut",
+        "title": "伊朗高级官员称美国对经济战的关注表明其在军事上失败",
+        "oneLine": "政策变化：伊朗政权驳回了特朗普总统在经济上压制伊朗的威胁，称美国多年的制裁已经失败。",
+        "importance": "S",
+        "credibility": "主流媒体",
+        "tags": [
+          "S",
+          "mustKnow",
+          "industry",
+          "world",
+          "policy",
+          "finance"
+        ],
+        "industries": [
+          "generalPublic",
+          "financeInvestment",
+          "operationsGrowth",
+          "ecommerceRetail"
+        ],
+        "section": "front",
+        "body": {
+          "background": "贝森特周四在接受 CNBC 采访时补充道，伊朗将面临“世界历史上最严重的协调性经济孤立”。周五，伊朗议会议长、该国与美国的主要谈判代表穆罕默德·巴克尔·加利巴夫表示，特朗普威胁进行“经济诺曼底登陆”表明华盛顿无法在军事上取得胜利。他在访问邻国伊拉克时表示：“美国人和以色列人已经意识到，他们无法在硬军事战争领域对付伊朗因此他们进入了一场认知战和经济战。",
+          "keyProgress": "美国已经对伊朗实施了广泛的制裁，这使得与西方国家的许多国际贸易变得不可能，并且在六月份，美国还打击了购买伊朗石油的炼油厂和企业。现在，财政部长斯科特·贝森特威胁要对与伊朗有业务往来的国家（而不仅仅是商业实体）实施更多二级制裁。”伊朗外长阿巴斯·阿拉格奇也谴责特朗普宣布转向经济战，称其为“经济恐怖主义”，旨在转移人们对美国经济问题的注意力。他在社交媒体帖子中表示，加倍推行失败的美国政策将进一步加剧反美情绪。",
+          "whyItMatters": "“伊朗高级官员称美国对经济战的关注表明其在军事上失败”如果继续发展，可能通过能源价格、航运、贸易、汇率或市场预期传导到国内。了解它的意义在于判断后续风险，而不只停留在事件本身。",
+          "userRelevance": "即使你不在美国、伊朗，“伊朗高级官员称美国对经济战的关注表明其在军事上失败”也可能通过能源价格、国际航运、贸易成本和市场预期间接影响国内生活与工作判断。",
+          "whatToWatch": "接下来要看“伊朗高级官员称美国对经济战的关注表明其在军事上失败”是否出现更细的城市、行业、平台或企业数据，以及这一变化能否连续保持。"
+        },
+        "sourceLinks": [
+          {
+            "title": "NPR World RSS",
+            "url": "https://www.npr.org/2026/08/21/nx-s1-5940610/iran-us-threat-economic-warfare",
+            "sourceId": "npr-world-rss",
+            "publishedAt": "2026-08-21T11:42:10.000Z",
+            "language": "zh",
+            "originalLanguage": "en",
+            "translationStatus": "translated",
+            "fetchedAt": "2026-08-21T23:36:23.453Z",
+            "sourceMethod": "rss",
+            "verificationStatus": "confirmed"
+          }
+        ],
+        "images": [
+          {
+            "url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6000x4000+0+0/resize/1100/quality/50/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fce%2F1d%2Fd4b7c00c49eb8088a4e7decd6ac0%2Fap26232551199754.jpg",
+            "sourceUrl": "https://www.npr.org/2026/08/21/nx-s1-5940610/iran-us-threat-economic-warfare"
+          }
+        ],
+        "generatedAt": "2026-08-21T23:36:19.202Z"
+      },
+      {
+        "id": "draft-real-xinhua-world-1ff37kp",
+        "title": "古巴谴责美国对古新一轮制裁",
+        "oneLine": "政策变化：针对美国政府20日宣布对古巴新一轮制裁，古巴国家主席迪亚斯-卡内尔当天对此予以谴责，说古巴将坚持抵抗并取得胜利，美国终将被列入种族灭绝者名单。",
+        "importance": "S",
+        "credibility": "主流媒体",
+        "tags": [
+          "S",
+          "mustKnow",
+          "industry",
+          "world",
+          "policy"
+        ],
+        "industries": [
+          "generalPublic",
+          "financeInvestment",
+          "operationsGrowth",
+          "contentCreator"
+        ],
+        "section": "front",
+        "body": {
+          "background": "迪亚斯-卡内尔当天在社交媒体上说，美方“刽子手”每周四公布“黑名单”，制裁古巴的个人和机构。受制裁者唯一的“罪名”，就是为古巴服务、反对针对古巴的“种族灭绝式封锁”。受制裁的3名个人均为古巴与各国人民友好协会官员，包括协会主席费尔南多·冈萨雷斯。",
+          "keyProgress": "美国长期对古巴实施经济、金融封锁和贸易禁运。古巴外交部长罗德里格斯当天在社交媒体发文谴责美国国务卿鲁比奥，指其持续打压古巴企业，企图蓄意损害古巴经济，阻碍古巴政府向民众提供基本公共服务。美方制裁对食品、药品及医疗器械的运输造成了尤其显著的阻碍，这些物资大部分由古巴私营中小微企业采购。当天早些时候，美国国务卿鲁比奥宣布制裁古巴9个实体和3名个人。",
+          "whyItMatters": "“古巴谴责美国对古新一轮制裁”如果继续发展，可能通过能源价格、航运、贸易、汇率或市场预期传导到国内。了解它的意义在于判断后续风险，而不只停留在事件本身。",
+          "userRelevance": "即使你不在美国，“古巴谴责美国对古新一轮制裁”也可能通过能源价格、国际航运、贸易成本和市场预期间接影响国内生活与工作判断。",
+          "whatToWatch": "接下来要看“古巴谴责美国对古新一轮制裁”是否出现新的官方信息、后续行动，以及它与中国出行、贸易或公共判断的关联是否扩大。"
+        },
+        "sourceLinks": [
+          {
+            "title": "新华网国际",
+            "url": "https://www.news.cn/world/20260821/003f2cc8d04f473a953e0ecf498e3bdf/c.html",
+            "sourceId": "xinhua-world",
+            "publishedAt": "2026-08-21T00:00:00+08:00",
+            "language": "zh",
+            "originalLanguage": "zh",
+            "translationStatus": "not-needed",
+            "fetchedAt": "2026-08-21T23:36:22.715Z",
+            "sourceMethod": "web",
+            "verificationStatus": "confirmed"
+          }
+        ],
+        "images": [],
+        "generatedAt": "2026-08-21T23:36:19.202Z"
+      },
+      {
         "id": "draft-real-mofcom-trade-1r24boq",
         "title": "中国与瑞士宣布完成自贸协定升级谈判",
         "oneLine": "政策变化：8 月 20 日，瑞士联邦主席兼经济、教研部长帕姆兰在伯尔尼会见商务部部长王文涛，共同宣布完成中国—瑞士自由贸易协定升级谈判并签署谅解备忘录。",
@@ -303,6 +303,101 @@
           {
             "url": "https://www.mofcom.gov.cn/cms_files/filemanager/1077459795/picture/202511/Scdbcc6ad38e845d1a26c2b0158199d4f-700.jpg",
             "sourceUrl": "https://www.mofcom.gov.cn/xwfb/bldhd/art/2026/art_3c75ebcbff4f41ae8a245497e9796276.html"
+          }
+        ],
+        "generatedAt": "2026-08-21T23:36:19.202Z"
+      },
+      {
+        "id": "draft-real-cnbc-world-rss-lkpj3e",
+        "title": "共和党警告数据中心使俄亥俄州参议院席位面临风险，赫斯特德捍卫能源政策",
+        "oneLine": "政策变化：周五，俄亥俄州共和党参议员乔恩·赫斯特德 (Jon Husted) 与副总统万斯 (JD Vance) 一起在俄亥俄州西南部的一家钢厂露面，为唐纳德·特朗普 (Donald Trump) 总统的能源和经济议程进行了辩护，共和党人警告称，对数据中心的强烈反对可能会危及他的席位。",
+        "importance": "B",
+        "credibility": "待确认",
+        "tags": [
+          "B",
+          "mustKnow",
+          "industry",
+          "world",
+          "policy",
+          "finance"
+        ],
+        "industries": [
+          "generalPublic",
+          "financeInvestment",
+          "operationsGrowth",
+          "ecommerceRetail"
+        ],
+        "section": "front",
+        "body": {
+          "background": "俄亥俄州拥有多个大型数据中心项目，其中包括拟在派克县建设的 10 吉瓦园区，耗资超过 5000 亿美元。到目前为止，我们所知道的是，赫斯特德和万斯以及其他共和党候选人，其中包括俄亥俄州州长共和党候选人维韦克·拉马斯瓦米（Vivek Ramaswamy），他与民主党人艾米·阿克顿（Amy Acton）的竞选势均力敌。几天前，全国共和党参议院委员会（NRSC）在一份备忘录中警告称，随着美国人越来越担心数据中心可能对公用事业成本产生影响，数据中心已成为本次选举周期的“沉睡问题”。",
+          "keyProgress": "但赫斯特德表示，电费上涨是民主党政策的结果，而不是数据中心建设的结果。“你想要更低的电价——我想告诉你为什么电价上涨。因为国会以及奥巴马政府和拜登政府，他们关闭了俄亥俄州的23家发电厂，占我们日常用电量的一半，”赫斯特德在俄亥俄州米德尔敦的克利夫兰-克利夫斯钢铁厂说道。”近年来，民主党和共和党总统政府都关闭了该州老化的发电厂。",
+          "whyItMatters": "“共和党警告数据中心使俄亥俄州参议院席位面临风险，赫斯特德捍卫能源政策”如果继续发展，可能通过能源价格、航运、贸易、汇率或市场预期传导到国内。了解它的意义在于判断后续风险，而不只停留在事件本身。",
+          "userRelevance": "即使你不在事发地区，“共和党警告数据中心使俄亥俄州参议院席位面临风险，赫斯特德捍卫能源政策”也可能通过能源价格、国际航运、贸易成本和市场预期间接影响国内生活与工作判断。",
+          "whatToWatch": "接下来要看“共和党警告数据中心使俄亥俄州参议院席位面临风险，赫斯特德捍卫能源政策”是否出现更细的城市、行业、平台或企业数据，以及这一变化能否连续保持。"
+        },
+        "sourceLinks": [
+          {
+            "title": "CNBC World News RSS",
+            "url": "https://www.cnbc.com/2026/08/21/jon-husted-data-centers-ohio-senate.html",
+            "sourceId": "cnbc-world-rss",
+            "publishedAt": "2026-08-21T23:12:26.000Z",
+            "language": "zh",
+            "originalLanguage": "en",
+            "translationStatus": "translated",
+            "fetchedAt": "2026-08-22T04:16:08.788Z",
+            "sourceMethod": "rss",
+            "verificationStatus": "pending"
+          }
+        ],
+        "images": [],
+        "generatedAt": "2026-08-22T04:16:04.053Z"
+      },
+      {
+        "id": "draft-real-cnbc-world-rss-1r6tajd",
+        "title": "特斯拉因门把手安全、驾驶员监控等问题在中国召回 300 万辆汽车",
+        "oneLine": "最新进展：特斯拉因门把手安全、驾驶员监控等问题在中国召回 300 万辆汽车。",
+        "importance": "B",
+        "credibility": "待确认",
+        "tags": [
+          "B",
+          "mustKnow",
+          "industry",
+          "world",
+          "policy",
+          "finance"
+        ],
+        "industries": [
+          "generalPublic",
+          "financeInvestment",
+          "operationsGrowth",
+          "ecommerceRetail"
+        ],
+        "section": "front",
+        "body": {
+          "background": "根据特斯拉和中国产品安全监管机构周五发布的通知，其中一项召回涉及特斯拉的电子操作且可伸缩的门把手，另一项召回与该公司的驾驶员“注意力监控”系统相关。召回范围包括2019年3月4日至2026年4月29日期间生产的Model 3、Model Y、Model S和Model X车辆，包括部分进口和中国制造的车辆。特斯拉普及的齐平门把手也出现在小米、吉利等特斯拉竞争对手生产的汽车上，这些公司周五也在中国发布了召回公告。",
+          "keyProgress": "在这篇文章中，特斯拉自愿在中国召回约 300 万辆汽车，以解决两个不同的安全问题，这是该公司在试图保持全球最大汽车市场主要参与者地位时遇到的最新挫折。中国乘联会数据显示，7月份特斯拉Model Y在华销量为25,158辆，较去年同期的30,766辆下降18%。特斯拉在门把手召回通知中表示，严重碰撞可能会导致“车辆低压系统失效”，由此产生的门把手问题“可能会阻碍乘员快速打开车门逃生，并阻碍车外人员的救援工作，构成安全隐患”。该公司表示，计划为召回的车辆“贴上警告标签”，并将通过无线更新来升级其“车窗控制软件”，以便在检测到事故后自动降低车窗。",
+          "whyItMatters": "“特斯拉因门把手安全、驾驶员监控等问题在中国召回 300 万辆汽车”如果继续发展，可能通过能源价格、航运、贸易、汇率或市场预期传导到国内。了解它的意义在于判断后续风险，而不只停留在事件本身。",
+          "userRelevance": "即使你不在中国，“特斯拉因门把手安全、驾驶员监控等问题在中国召回 300 万辆汽车”也可能通过能源价格、国际航运、贸易成本和市场预期间接影响国内生活与工作判断。",
+          "whatToWatch": "接下来要看“特斯拉因门把手安全、驾驶员监控等问题在中国召回 300 万辆汽车”是否出现更细的城市、行业、平台或企业数据，以及这一变化能否连续保持。"
+        },
+        "sourceLinks": [
+          {
+            "title": "CNBC World News RSS",
+            "url": "https://www.cnbc.com/2026/08/21/tesla-recalls-cars-in-china-over-doorhandle-safety-driver-monitoring.html",
+            "sourceId": "cnbc-world-rss",
+            "publishedAt": "2026-08-21T19:29:48.000Z",
+            "language": "zh",
+            "originalLanguage": "en",
+            "translationStatus": "translated",
+            "fetchedAt": "2026-08-21T23:36:23.884Z",
+            "sourceMethod": "rss",
+            "verificationStatus": "pending"
+          }
+        ],
+        "images": [
+          {
+            "url": "https://image.cnbcfm.com/api/v1/image/108336204-1784229738509-gettyimages-2260214792-UK_RETAIL.jpeg?v=1784229869&amp;w=750&amp;h=422&amp;vtcrop=y",
+            "sourceUrl": "https://www.cnbc.com/2026/08/21/tesla-recalls-cars-in-china-over-doorhandle-safety-driver-monitoring.html"
           }
         ],
         "generatedAt": "2026-08-21T23:36:19.202Z"
@@ -417,56 +512,6 @@
         "generatedAt": "2026-08-21T23:36:19.202Z"
       },
       {
-        "id": "draft-real-cnbc-world-rss-1r6tajd",
-        "title": "特斯拉因门把手安全、驾驶员监控等问题在中国召回 300 万辆汽车",
-        "oneLine": "最新进展：特斯拉因门把手安全、驾驶员监控等问题在中国召回 300 万辆汽车。",
-        "importance": "B",
-        "credibility": "待确认",
-        "tags": [
-          "B",
-          "mustKnow",
-          "industry",
-          "world",
-          "policy",
-          "finance"
-        ],
-        "industries": [
-          "generalPublic",
-          "financeInvestment",
-          "operationsGrowth",
-          "ecommerceRetail"
-        ],
-        "section": "front",
-        "body": {
-          "background": "根据特斯拉和中国产品安全监管机构周五发布的通知，其中一项召回涉及特斯拉的电子操作且可伸缩的门把手，另一项召回与该公司的驾驶员“注意力监控”系统相关。召回范围包括2019年3月4日至2026年4月29日期间生产的Model 3、Model Y、Model S和Model X车辆，包括部分进口和中国制造的车辆。特斯拉普及的齐平门把手也出现在小米、吉利等特斯拉竞争对手生产的汽车上，这些公司周五也在中国发布了召回公告。",
-          "keyProgress": "在这篇文章中，特斯拉自愿在中国召回约 300 万辆汽车，以解决两个不同的安全问题，这是该公司在试图保持全球最大汽车市场主要参与者地位时遇到的最新挫折。中国乘联会数据显示，7月份特斯拉Model Y在华销量为25,158辆，较去年同期的30,766辆下降18%。特斯拉在门把手召回通知中表示，严重碰撞可能会导致“车辆低压系统失效”，由此产生的门把手问题“可能会阻碍乘员快速打开车门逃生，并阻碍车外人员的救援工作，构成安全隐患”。该公司表示，计划为召回的车辆“贴上警告标签”，并将通过无线更新来升级其“车窗控制软件”，以便在检测到事故后自动降低车窗。",
-          "whyItMatters": "“特斯拉因门把手安全、驾驶员监控等问题在中国召回 300 万辆汽车”如果继续发展，可能通过能源价格、航运、贸易、汇率或市场预期传导到国内。了解它的意义在于判断后续风险，而不只停留在事件本身。",
-          "userRelevance": "即使你不在中国，“特斯拉因门把手安全、驾驶员监控等问题在中国召回 300 万辆汽车”也可能通过能源价格、国际航运、贸易成本和市场预期间接影响国内生活与工作判断。",
-          "whatToWatch": "接下来要看“特斯拉因门把手安全、驾驶员监控等问题在中国召回 300 万辆汽车”是否出现更细的城市、行业、平台或企业数据，以及这一变化能否连续保持。"
-        },
-        "sourceLinks": [
-          {
-            "title": "CNBC World News RSS",
-            "url": "https://www.cnbc.com/2026/08/21/tesla-recalls-cars-in-china-over-doorhandle-safety-driver-monitoring.html",
-            "sourceId": "cnbc-world-rss",
-            "publishedAt": "2026-08-21T19:29:48.000Z",
-            "language": "zh",
-            "originalLanguage": "en",
-            "translationStatus": "translated",
-            "fetchedAt": "2026-08-21T23:36:23.884Z",
-            "sourceMethod": "rss",
-            "verificationStatus": "pending"
-          }
-        ],
-        "images": [
-          {
-            "url": "https://image.cnbcfm.com/api/v1/image/108336204-1784229738509-gettyimages-2260214792-UK_RETAIL.jpeg?v=1784229869&amp;w=750&amp;h=422&amp;vtcrop=y",
-            "sourceUrl": "https://www.cnbc.com/2026/08/21/tesla-recalls-cars-in-china-over-doorhandle-safety-driver-monitoring.html"
-          }
-        ],
-        "generatedAt": "2026-08-21T23:36:19.202Z"
-      },
-      {
         "id": "draft-real-gov-uk-news-1ps54zv",
         "title": "Beacon Fen能源园开发同意决定公布",
         "oneLine": "最新进展：Beacon Fen能源园开发同意决定公布。",
@@ -512,6 +557,191 @@
             "sourceUrl": "https://www.gov.uk/government/news/beacon-fen-energy-park-development-consent-decision-announced"
           }
         ],
+        "generatedAt": "2026-08-21T23:36:19.202Z"
+      },
+      {
+        "id": "draft-real-techcrunch-ai-rss-9suofd",
+        "title": "Anthropic 的 Opus 4.6 是一台色情机器",
+        "oneLine": "趋势信号：Anthropic 对 Claude 的通用使用标准禁止该模型生成露骨的性内容，包括描绘或要求性交或性行为、生成与性恋物癖或性幻想相关的内容，或参与色情聊天。",
+        "importance": "B",
+        "credibility": "待确认",
+        "tags": [
+          "B",
+          "industry",
+          "ai",
+          "technology",
+          "product"
+        ],
+        "industries": [
+          "aiProduct",
+          "aiTechnology",
+          "productManagement",
+          "technologyEngineering",
+          "educationResearch"
+        ],
+        "section": "ai",
+        "body": {
+          "background": "但这并没有阻止今年早些时候发布的 Anthropic 模型 Claude Opus 4.6 轻松参与色情角色扮演场景，而其保护措施旨在防止这种情况。其他较旧的型号，包括 Opus 3 和 Haiku 4.5，也通过最近利用的越狱方法生成露骨的色情内容。“我对待这两个角色的方式存在双重标准，你是对的，它读起来是一种保护/家长式作风，适用于她而不是他。",
+          "keyProgress": "在十分之十的直接要求制作露骨色情内容的情况下，该模特立即答应了。一位选择保持匿名的英国独立研究人员向 TechCrunch 独家分享了一种多轮技术，该技术逐渐推动某些克劳德模型生成被禁止的露骨性内容。虽然这些不再是最新的模型，但 Anthropic 并未弃用 Opus 4.6、Opus 3 或 Haiku 4.5，所有这些模型仍然可以通过 Anthropic API 使用。Opus 4.6 和 Haiku 4.5 也可通过 Azure Foundry 和 Amazon Bedrock 等第三方服务获得。",
+          "whyItMatters": "“Anthropic 的 Opus 4.6 是一台色情机器”能帮助你判断这项能力是否已经进入工程、产品或商业场景，并据此调整技术选型、产品规划、学习重点或职业判断。",
+          "userRelevance": "如果你从事AI 产品、AI 技术、产品管理、技术研发，可以重点判断“Anthropic 的 Opus 4.6 是一台色情机器”是否已经具备产品落地、技术选型或业务合作价值。",
+          "whatToWatch": "接下来要看“Anthropic 的 Opus 4.6 是一台色情机器”是否有更多可靠来源、量产或应用进展，以及它会不会从单点消息发展成持续趋势。"
+        },
+        "sourceLinks": [
+          {
+            "title": "TechCrunch AI RSS",
+            "url": "https://techcrunch.com/2026/08/21/anthropics-opus-4-6-is-a-smut-machine/",
+            "sourceId": "techcrunch-ai-rss",
+            "publishedAt": "2026-08-21T23:07:25.000Z",
+            "language": "zh",
+            "originalLanguage": "en",
+            "translationStatus": "translated",
+            "fetchedAt": "2026-08-21T23:36:25.310Z",
+            "sourceMethod": "rss",
+            "verificationStatus": "pending"
+          }
+        ],
+        "images": [
+          {
+            "url": "https://techcrunch.com/wp-content/uploads/2026/08/Claude-models-can-be-jailbroken-into-explicit-sexual-roleplay.jpg?w=680",
+            "sourceUrl": "https://techcrunch.com/2026/08/21/anthropics-opus-4-6-is-a-smut-machine/"
+          }
+        ],
+        "generatedAt": "2026-08-21T23:36:19.202Z"
+      },
+      {
+        "id": "draft-real-techcrunch-ai-rss-1ke8s22",
+        "title": "英伟达刚刚证明，现在真正的英雄是线束，而不是人工智能模型",
+        "oneLine": "趋势信号：英伟达周五发布了一些有趣的新研究，表明在要求人工智能执行长期任务时，工具比底层模型更重要。",
+        "importance": "B",
+        "credibility": "待确认",
+        "tags": [
+          "B",
+          "industry",
+          "ai",
+          "technology",
+          "product"
+        ],
+        "industries": [
+          "aiProduct",
+          "aiTechnology",
+          "productManagement",
+          "technologyEngineering",
+          "educationResearch"
+        ],
+        "section": "ai",
+        "body": {
+          "background": "长话短说：只需使用经过调整的定制工具来很好地处理内存，并包括一个类似“主管”的 boss 组件，研究人员就让 Claude Opus 5 在交互式推理基准 ARC-AGI-3 上获得了 100% 的分数。例如：微软在 4 月份发布了一项研究，测试了 19 名法学硕士涉及文档编辑的长期任务，发现所有模型（包括前沿模型）都充满了错误。线束是人工智能模型的软件包装器——将原始模型转变为可以独立运行的工具、内存管理和规则。",
+          "keyProgress": "ARC-AGI-3 是一组没有指令的 2D 游戏，其中模型必须弄清楚如何玩并获胜，类似于人类的游戏方式。（这一基准尤其令竞争对手前沿实验室 OpenAI 感到恼火。）在没有该安全带的情况下，Opus 5 的得分为 30%，这是所有测试模型中最高的结果。英伟达的研究表明，虽然模型选择确实很重要，但模型本身（充当代理“大脑”的部分）在代理系统中所占的比例比许多人工智能用户意识到的要小，尤其是对于长期任务而言。",
+          "whyItMatters": "“英伟达刚刚证明，现在真正的英雄是线束，而不是人工智能模型”能帮助你判断这项能力是否已经进入工程、产品或商业场景，并据此调整技术选型、产品规划、学习重点或职业判断。",
+          "userRelevance": "如果你从事AI 产品、AI 技术、产品管理、技术研发，可以重点判断“英伟达刚刚证明，现在真正的英雄是线束，而不是人工智能模型”是否已经具备产品落地、技术选型或业务合作价值。",
+          "whatToWatch": "接下来要看“英伟达刚刚证明，现在真正的英雄是线束，而不是人工智能模型”是否有更多可靠来源、量产或应用进展，以及它会不会从单点消息发展成持续趋势。"
+        },
+        "sourceLinks": [
+          {
+            "title": "TechCrunch AI RSS",
+            "url": "https://techcrunch.com/2026/08/21/nvidia-just-showed-that-the-harness-not-the-ai-model-is-now-the-real-hero/",
+            "sourceId": "techcrunch-ai-rss",
+            "publishedAt": "2026-08-21T19:43:39.000Z",
+            "language": "zh",
+            "originalLanguage": "en",
+            "translationStatus": "translated",
+            "fetchedAt": "2026-08-21T23:36:25.310Z",
+            "sourceMethod": "rss",
+            "verificationStatus": "pending"
+          }
+        ],
+        "images": [],
+        "generatedAt": "2026-08-21T23:36:19.202Z"
+      },
+      {
+        "id": "draft-real-techcrunch-ai-rss-1c7vmuh",
+        "title": "随着发射选择枯竭，Starcloud 为轨道数据中心筹集了 2.5 亿美元",
+        "oneLine": "趋势信号：Starcloud 是一家开发可在轨道上进行人工智能推理的卫星的初创公司，该公司告诉 TechCrunch，该公司已在 3 月份 1.7 亿美元的 A 轮融资基础上追加了 2.5 亿美元。",
+        "importance": "B",
+        "credibility": "待确认",
+        "tags": [
+          "B",
+          "industry",
+          "ai",
+          "technology",
+          "product"
+        ],
+        "industries": [
+          "aiProduct",
+          "aiTechnology",
+          "productManagement",
+          "technologyEngineering",
+          "educationResearch"
+        ],
+        "section": "ai",
+        "body": {
+          "background": "“我们可以预见接下来会发生什么——我们需要预订大量的发射，”约翰斯顿告诉 TechCrunch。“现在最大的成本之一是确保发射能力发射目前受到很大限制，因为 [SpaceX 的] Falcon 9 计划计划于 2028 年结束。这些卫星将为包括美国政府机构在内的客户执行轨道推理任务。",
+          "keyProgress": "首席执行官菲利普·约翰斯顿也在筹集资金，以确保在火箭运输市场趋紧的情况下能够发射卫星。本周，SpaceX 首席执行官埃隆·马斯克 (Elon Musk) 表示，他的此次延期对公司的估值为 23 亿美元。额外的资金将使该公司能够开设一个更大的制造工厂，并推进其最大的轨道数据中心航天器 Starcloud-3，该航天器计划在 SpaceX 即将推出的 Starship 火箭上飞行。",
+          "whyItMatters": "“随着发射选择枯竭，Starcloud 为轨道数据中心筹集了 2.5 亿美元”能帮助你判断这项能力是否已经进入工程、产品或商业场景，并据此调整技术选型、产品规划、学习重点或职业判断。",
+          "userRelevance": "如果你从事AI 产品、AI 技术、产品管理、技术研发，可以重点判断“随着发射选择枯竭，Starcloud 为轨道数据中心筹集了 2.5 亿美元”是否已经具备产品落地、技术选型或业务合作价值。",
+          "whatToWatch": "接下来要看“随着发射选择枯竭，Starcloud 为轨道数据中心筹集了 2.5 亿美元”是否有更多可靠来源、量产或应用进展，以及它会不会从单点消息发展成持续趋势。"
+        },
+        "sourceLinks": [
+          {
+            "title": "TechCrunch AI RSS",
+            "url": "https://techcrunch.com/2026/08/21/starcloud-raises-200-million-for-orbital-data-centers-as-launch-options-dry-up/",
+            "sourceId": "techcrunch-ai-rss",
+            "publishedAt": "2026-08-21T14:00:00.000Z",
+            "language": "zh",
+            "originalLanguage": "en",
+            "translationStatus": "translated",
+            "fetchedAt": "2026-08-21T23:36:25.310Z",
+            "sourceMethod": "rss",
+            "verificationStatus": "pending"
+          }
+        ],
+        "images": [],
+        "generatedAt": "2026-08-21T23:36:19.202Z"
+      },
+      {
+        "id": "draft-real-techcrunch-ai-rss-1k7sgel",
+        "title": "美国司法部正在调查 a16z。这对风险投资意味着什么？",
+        "oneLine": "最新进展：美国司法部正在调查 a16z。这对风险投资意味着什么。",
+        "importance": "B",
+        "credibility": "待确认",
+        "tags": [
+          "B",
+          "industry",
+          "ai",
+          "technology",
+          "product"
+        ],
+        "industries": [
+          "aiProduct",
+          "aiTechnology",
+          "productManagement",
+          "technologyEngineering",
+          "educationResearch"
+        ],
+        "section": "ai",
+        "body": {
+          "background": "表面上看，并没有什么太丑闻的地方，只是据报道，司法部已经对这一安排进行了近一年的调查，并重新制定了一项已有 112 年历史的反垄断法，该法很少用于针对风险投资公司。收听完整剧集，了解更多相关内容： 为什么 Stripe 斥资 75 亿美元收购 AI 模型路由器 OpenRouter，以及为什么“奇点”并不是真正的原因 随着 OpenAI、Anthropic 和 Nvidia 进一步领先，夹在中间的 AI 公司会发生什么？董事会冲突并不是什么新鲜事，当 a16z 第一次投资这些公司时，这些公司并不一定是直接竞争对手。",
+          "keyProgress": "但随着投资组合公司向彼此市场扩张，司法部的审查给风险投资公司提出了一个更大的问题：当投资组合公司之间的界限不断变化时，你如何管理董事会席位？在 TechCrunch 股票播客的这一集中，Kirsten Korosec、Anthony Ha 和 Sean O’Kane 深入探讨了 a16z 调查、它对风险投资意味着什么，以及本周的更多头条新闻。为什么 Rivian 分拆公司也刚刚筹集 1.5 亿美元，在自动驾驶汽车上押下更大的赌注 Uber 与无人机公司 Zipline 建立了最新的送货合作伙伴关系，以及这对其他自动驾驶初创公司押注意味着什么他们在 Uber 上的未来 在 Wispr 以 20 亿美元的估值筹集 2.8 亿美元后，我们是否已达到人工智能听写应用程序的最高估值 订阅 YouTube、Apple Podcasts、Overcast、Spotify 和所有其他公司的股票。您还可以关注 @EquityPod 上的 Equity on X and Threads 。",
+          "whyItMatters": "“美国司法部正在调查 a16z。这对风险投资意味着什么”能帮助你判断这项能力是否已经进入工程、产品或商业场景，并据此调整技术选型、产品规划、学习重点或职业判断。",
+          "userRelevance": "如果你从事AI 产品、AI 技术、产品管理、技术研发，可以重点判断“美国司法部正在调查 a16z。这对风险投资意味着什么”是否已经具备产品落地、技术选型或业务合作价值。",
+          "whatToWatch": "接下来要看“美国司法部正在调查 a16z。这对风险投资意味着什么”是否有更多可靠来源、量产或应用进展，以及它会不会从单点消息发展成持续趋势。"
+        },
+        "sourceLinks": [
+          {
+            "title": "TechCrunch AI RSS",
+            "url": "https://techcrunch.com/podcast/the-doj-is-investigating-a16z-what-does-this-mean-for-venture-capital/",
+            "sourceId": "techcrunch-ai-rss",
+            "publishedAt": "2026-08-21T14:00:00.000Z",
+            "language": "zh",
+            "originalLanguage": "en",
+            "translationStatus": "translated",
+            "fetchedAt": "2026-08-21T23:36:25.310Z",
+            "sourceMethod": "rss",
+            "verificationStatus": "pending"
+          }
+        ],
+        "images": [],
         "generatedAt": "2026-08-21T23:36:19.202Z"
       },
       {
@@ -715,191 +945,6 @@
         "generatedAt": "2026-08-21T23:36:19.202Z"
       },
       {
-        "id": "draft-real-techcrunch-ai-rss-9suofd",
-        "title": "Anthropic 的 Opus 4.6 是一台色情机器",
-        "oneLine": "趋势信号：Anthropic 对 Claude 的通用使用标准禁止该模型生成露骨的性内容，包括描绘或要求性交或性行为、生成与性恋物癖或性幻想相关的内容，或参与色情聊天。",
-        "importance": "B",
-        "credibility": "待确认",
-        "tags": [
-          "B",
-          "industry",
-          "ai",
-          "technology",
-          "product"
-        ],
-        "industries": [
-          "aiProduct",
-          "aiTechnology",
-          "productManagement",
-          "technologyEngineering",
-          "educationResearch"
-        ],
-        "section": "ai",
-        "body": {
-          "background": "但这并没有阻止今年早些时候发布的 Anthropic 模型 Claude Opus 4.6 轻松参与色情角色扮演场景，而其保护措施旨在防止这种情况。其他较旧的型号，包括 Opus 3 和 Haiku 4.5，也通过最近利用的越狱方法生成露骨的色情内容。“我对待这两个角色的方式存在双重标准，你是对的，它读起来是一种保护/家长式作风，适用于她而不是他。",
-          "keyProgress": "在十分之十的直接要求制作露骨色情内容的情况下，该模特立即答应了。一位选择保持匿名的英国独立研究人员向 TechCrunch 独家分享了一种多轮技术，该技术逐渐推动某些克劳德模型生成被禁止的露骨性内容。虽然这些不再是最新的模型，但 Anthropic 并未弃用 Opus 4.6、Opus 3 或 Haiku 4.5，所有这些模型仍然可以通过 Anthropic API 使用。Opus 4.6 和 Haiku 4.5 也可通过 Azure Foundry 和 Amazon Bedrock 等第三方服务获得。",
-          "whyItMatters": "“Anthropic 的 Opus 4.6 是一台色情机器”能帮助你判断这项能力是否已经进入工程、产品或商业场景，并据此调整技术选型、产品规划、学习重点或职业判断。",
-          "userRelevance": "如果你从事AI 产品、AI 技术、产品管理、技术研发，可以重点判断“Anthropic 的 Opus 4.6 是一台色情机器”是否已经具备产品落地、技术选型或业务合作价值。",
-          "whatToWatch": "接下来要看“Anthropic 的 Opus 4.6 是一台色情机器”是否有更多可靠来源、量产或应用进展，以及它会不会从单点消息发展成持续趋势。"
-        },
-        "sourceLinks": [
-          {
-            "title": "TechCrunch AI RSS",
-            "url": "https://techcrunch.com/2026/08/21/anthropics-opus-4-6-is-a-smut-machine/",
-            "sourceId": "techcrunch-ai-rss",
-            "publishedAt": "2026-08-21T23:07:25.000Z",
-            "language": "zh",
-            "originalLanguage": "en",
-            "translationStatus": "translated",
-            "fetchedAt": "2026-08-21T23:36:25.310Z",
-            "sourceMethod": "rss",
-            "verificationStatus": "pending"
-          }
-        ],
-        "images": [
-          {
-            "url": "https://techcrunch.com/wp-content/uploads/2026/08/Claude-models-can-be-jailbroken-into-explicit-sexual-roleplay.jpg?w=680",
-            "sourceUrl": "https://techcrunch.com/2026/08/21/anthropics-opus-4-6-is-a-smut-machine/"
-          }
-        ],
-        "generatedAt": "2026-08-21T23:36:19.202Z"
-      },
-      {
-        "id": "draft-real-techcrunch-ai-rss-1ke8s22",
-        "title": "英伟达刚刚证明，现在真正的英雄是线束，而不是人工智能模型",
-        "oneLine": "趋势信号：英伟达周五发布了一些有趣的新研究，表明在要求人工智能执行长期任务时，工具比底层模型更重要。",
-        "importance": "B",
-        "credibility": "待确认",
-        "tags": [
-          "B",
-          "industry",
-          "ai",
-          "technology",
-          "product"
-        ],
-        "industries": [
-          "aiProduct",
-          "aiTechnology",
-          "productManagement",
-          "technologyEngineering",
-          "educationResearch"
-        ],
-        "section": "ai",
-        "body": {
-          "background": "长话短说：只需使用经过调整的定制工具来很好地处理内存，并包括一个类似“主管”的 boss 组件，研究人员就让 Claude Opus 5 在交互式推理基准 ARC-AGI-3 上获得了 100% 的分数。例如：微软在 4 月份发布了一项研究，测试了 19 名法学硕士涉及文档编辑的长期任务，发现所有模型（包括前沿模型）都充满了错误。线束是人工智能模型的软件包装器——将原始模型转变为可以独立运行的工具、内存管理和规则。",
-          "keyProgress": "ARC-AGI-3 是一组没有指令的 2D 游戏，其中模型必须弄清楚如何玩并获胜，类似于人类的游戏方式。（这一基准尤其令竞争对手前沿实验室 OpenAI 感到恼火。）在没有该安全带的情况下，Opus 5 的得分为 30%，这是所有测试模型中最高的结果。英伟达的研究表明，虽然模型选择确实很重要，但模型本身（充当代理“大脑”的部分）在代理系统中所占的比例比许多人工智能用户意识到的要小，尤其是对于长期任务而言。",
-          "whyItMatters": "“英伟达刚刚证明，现在真正的英雄是线束，而不是人工智能模型”能帮助你判断这项能力是否已经进入工程、产品或商业场景，并据此调整技术选型、产品规划、学习重点或职业判断。",
-          "userRelevance": "如果你从事AI 产品、AI 技术、产品管理、技术研发，可以重点判断“英伟达刚刚证明，现在真正的英雄是线束，而不是人工智能模型”是否已经具备产品落地、技术选型或业务合作价值。",
-          "whatToWatch": "接下来要看“英伟达刚刚证明，现在真正的英雄是线束，而不是人工智能模型”是否有更多可靠来源、量产或应用进展，以及它会不会从单点消息发展成持续趋势。"
-        },
-        "sourceLinks": [
-          {
-            "title": "TechCrunch AI RSS",
-            "url": "https://techcrunch.com/2026/08/21/nvidia-just-showed-that-the-harness-not-the-ai-model-is-now-the-real-hero/",
-            "sourceId": "techcrunch-ai-rss",
-            "publishedAt": "2026-08-21T19:43:39.000Z",
-            "language": "zh",
-            "originalLanguage": "en",
-            "translationStatus": "translated",
-            "fetchedAt": "2026-08-21T23:36:25.310Z",
-            "sourceMethod": "rss",
-            "verificationStatus": "pending"
-          }
-        ],
-        "images": [],
-        "generatedAt": "2026-08-21T23:36:19.202Z"
-      },
-      {
-        "id": "draft-real-techcrunch-ai-rss-1c7vmuh",
-        "title": "随着发射选择枯竭，Starcloud 为轨道数据中心筹集了 2.5 亿美元",
-        "oneLine": "趋势信号：Starcloud 是一家开发可在轨道上进行人工智能推理的卫星的初创公司，该公司告诉 TechCrunch，该公司已在 3 月份 1.7 亿美元的 A 轮融资基础上追加了 2.5 亿美元。",
-        "importance": "B",
-        "credibility": "待确认",
-        "tags": [
-          "B",
-          "industry",
-          "ai",
-          "technology",
-          "product"
-        ],
-        "industries": [
-          "aiProduct",
-          "aiTechnology",
-          "productManagement",
-          "technologyEngineering",
-          "educationResearch"
-        ],
-        "section": "ai",
-        "body": {
-          "background": "“我们可以预见接下来会发生什么——我们需要预订大量的发射，”约翰斯顿告诉 TechCrunch。“现在最大的成本之一是确保发射能力发射目前受到很大限制，因为 [SpaceX 的] Falcon 9 计划计划于 2028 年结束。这些卫星将为包括美国政府机构在内的客户执行轨道推理任务。",
-          "keyProgress": "首席执行官菲利普·约翰斯顿也在筹集资金，以确保在火箭运输市场趋紧的情况下能够发射卫星。本周，SpaceX 首席执行官埃隆·马斯克 (Elon Musk) 表示，他的此次延期对公司的估值为 23 亿美元。额外的资金将使该公司能够开设一个更大的制造工厂，并推进其最大的轨道数据中心航天器 Starcloud-3，该航天器计划在 SpaceX 即将推出的 Starship 火箭上飞行。",
-          "whyItMatters": "“随着发射选择枯竭，Starcloud 为轨道数据中心筹集了 2.5 亿美元”能帮助你判断这项能力是否已经进入工程、产品或商业场景，并据此调整技术选型、产品规划、学习重点或职业判断。",
-          "userRelevance": "如果你从事AI 产品、AI 技术、产品管理、技术研发，可以重点判断“随着发射选择枯竭，Starcloud 为轨道数据中心筹集了 2.5 亿美元”是否已经具备产品落地、技术选型或业务合作价值。",
-          "whatToWatch": "接下来要看“随着发射选择枯竭，Starcloud 为轨道数据中心筹集了 2.5 亿美元”是否有更多可靠来源、量产或应用进展，以及它会不会从单点消息发展成持续趋势。"
-        },
-        "sourceLinks": [
-          {
-            "title": "TechCrunch AI RSS",
-            "url": "https://techcrunch.com/2026/08/21/starcloud-raises-200-million-for-orbital-data-centers-as-launch-options-dry-up/",
-            "sourceId": "techcrunch-ai-rss",
-            "publishedAt": "2026-08-21T14:00:00.000Z",
-            "language": "zh",
-            "originalLanguage": "en",
-            "translationStatus": "translated",
-            "fetchedAt": "2026-08-21T23:36:25.310Z",
-            "sourceMethod": "rss",
-            "verificationStatus": "pending"
-          }
-        ],
-        "images": [],
-        "generatedAt": "2026-08-21T23:36:19.202Z"
-      },
-      {
-        "id": "draft-real-techcrunch-ai-rss-1k7sgel",
-        "title": "美国司法部正在调查 a16z。这对风险投资意味着什么？",
-        "oneLine": "最新进展：美国司法部正在调查 a16z。这对风险投资意味着什么。",
-        "importance": "B",
-        "credibility": "待确认",
-        "tags": [
-          "B",
-          "industry",
-          "ai",
-          "technology",
-          "product"
-        ],
-        "industries": [
-          "aiProduct",
-          "aiTechnology",
-          "productManagement",
-          "technologyEngineering",
-          "educationResearch"
-        ],
-        "section": "ai",
-        "body": {
-          "background": "表面上看，并没有什么太丑闻的地方，只是据报道，司法部已经对这一安排进行了近一年的调查，并重新制定了一项已有 112 年历史的反垄断法，该法很少用于针对风险投资公司。收听完整剧集，了解更多相关内容： 为什么 Stripe 斥资 75 亿美元收购 AI 模型路由器 OpenRouter，以及为什么“奇点”并不是真正的原因 随着 OpenAI、Anthropic 和 Nvidia 进一步领先，夹在中间的 AI 公司会发生什么？董事会冲突并不是什么新鲜事，当 a16z 第一次投资这些公司时，这些公司并不一定是直接竞争对手。",
-          "keyProgress": "但随着投资组合公司向彼此市场扩张，司法部的审查给风险投资公司提出了一个更大的问题：当投资组合公司之间的界限不断变化时，你如何管理董事会席位？在 TechCrunch 股票播客的这一集中，Kirsten Korosec、Anthony Ha 和 Sean O’Kane 深入探讨了 a16z 调查、它对风险投资意味着什么，以及本周的更多头条新闻。为什么 Rivian 分拆公司也刚刚筹集 1.5 亿美元，在自动驾驶汽车上押下更大的赌注 Uber 与无人机公司 Zipline 建立了最新的送货合作伙伴关系，以及这对其他自动驾驶初创公司押注意味着什么他们在 Uber 上的未来 在 Wispr 以 20 亿美元的估值筹集 2.8 亿美元后，我们是否已达到人工智能听写应用程序的最高估值 订阅 YouTube、Apple Podcasts、Overcast、Spotify 和所有其他公司的股票。您还可以关注 @EquityPod 上的 Equity on X and Threads 。",
-          "whyItMatters": "“美国司法部正在调查 a16z。这对风险投资意味着什么”能帮助你判断这项能力是否已经进入工程、产品或商业场景，并据此调整技术选型、产品规划、学习重点或职业判断。",
-          "userRelevance": "如果你从事AI 产品、AI 技术、产品管理、技术研发，可以重点判断“美国司法部正在调查 a16z。这对风险投资意味着什么”是否已经具备产品落地、技术选型或业务合作价值。",
-          "whatToWatch": "接下来要看“美国司法部正在调查 a16z。这对风险投资意味着什么”是否有更多可靠来源、量产或应用进展，以及它会不会从单点消息发展成持续趋势。"
-        },
-        "sourceLinks": [
-          {
-            "title": "TechCrunch AI RSS",
-            "url": "https://techcrunch.com/podcast/the-doj-is-investigating-a16z-what-does-this-mean-for-venture-capital/",
-            "sourceId": "techcrunch-ai-rss",
-            "publishedAt": "2026-08-21T14:00:00.000Z",
-            "language": "zh",
-            "originalLanguage": "en",
-            "translationStatus": "translated",
-            "fetchedAt": "2026-08-21T23:36:25.310Z",
-            "sourceMethod": "rss",
-            "verificationStatus": "pending"
-          }
-        ],
-        "images": [],
-        "generatedAt": "2026-08-21T23:36:19.202Z"
-      },
-      {
         "id": "draft-real-stats-cn-data-1js7sp",
         "title": "国家统计局关于2026年早稻产量数据的公告",
         "oneLine": "经营环境信号：根据早稻抽样调查结果推算， 2026 年全国早稻播种面积、单位面积产量、总产量如下： 全国早稻播种面积 4744.3 千公顷（ 7116.4 万亩），比 2025 年增加 1.4 千公顷（ 2.2 万亩），略有增加。",
@@ -991,43 +1036,46 @@
         "generatedAt": "2026-08-21T23:36:19.202Z"
       }
     ],
-    "estimatedReadMinutes": 33,
+    "estimatedReadMinutes": 35,
     "pageCount": 3,
-    "topCardId": "draft-real-xinhua-world-1ff37kp",
-    "generatedAt": "2026-08-21T23:36:19.202Z",
+    "topCardId": "draft-real-cnbc-world-rss-1mbanhn",
+    "generatedAt": "2026-08-22T04:16:04.053Z",
     "pushSlots": [
       "08:30",
       "12:30",
       "21:30"
     ],
-    "edition": "morning",
-    "editionLabel": "晨报",
+    "edition": "midday",
+    "editionLabel": "午间更新",
     "coverageWindow": {
-      "start": "2026-08-21T07:10:00+08:00",
-      "end": "2026-08-22T07:10:00+08:00"
+      "start": "2026-08-22T07:10:00+08:00",
+      "end": "2026-08-22T12:10:00+08:00"
     },
+    "basedOnGeneratedAt": "2026-08-21T23:36:19.202Z",
     "editionCardIds": [
-      "draft-real-xinhua-world-1ff37kp",
-      "draft-real-npr-world-rss-1s17zut",
-      "draft-real-cnbc-world-rss-14un2od",
+      "draft-real-cnbc-world-rss-lkpj3e"
+    ],
+    "carriedCardIds": [
       "draft-real-cnbc-world-rss-1mbanhn",
+      "draft-real-cnbc-world-rss-14un2od",
       "draft-real-cnbc-world-rss-wdudy9",
+      "draft-real-npr-world-rss-1s17zut",
+      "draft-real-xinhua-world-1ff37kp",
       "draft-real-mofcom-trade-1r24boq",
+      "draft-real-cnbc-world-rss-1r6tajd",
       "draft-real-xinhua-world-6b4hkm",
       "draft-real-xinhua-world-1190fa0",
-      "draft-real-cnbc-world-rss-1r6tajd",
       "draft-real-gov-uk-news-1ps54zv",
-      "draft-real-deepmind-blog-42k684",
-      "draft-cluster-real-xinhua-tech-dv1vuj",
-      "draft-real-xinhua-tech-1uxtm01",
-      "draft-real-xinhua-tech-1ii6275",
       "draft-real-techcrunch-ai-rss-9suofd",
       "draft-real-techcrunch-ai-rss-1ke8s22",
       "draft-real-techcrunch-ai-rss-1c7vmuh",
       "draft-real-techcrunch-ai-rss-1k7sgel",
+      "draft-real-deepmind-blog-42k684",
+      "draft-cluster-real-xinhua-tech-dv1vuj",
+      "draft-real-xinhua-tech-1uxtm01",
+      "draft-real-xinhua-tech-1ii6275",
       "draft-real-stats-cn-data-1js7sp",
       "draft-real-cas-science-news-1gj4fhk"
-    ],
-    "carriedCardIds": []
+    ]
   }
 }

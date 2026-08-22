@@ -1,11 +1,61 @@
 {
   "schemaVersion": 2,
-  "publishedAt": "2026-08-22T04:43:18.053Z",
+  "publishedAt": "2026-08-22T13:16:46.975Z",
   "issue": {
     "id": "daily-public-2026-08-22",
     "date": "2026-08-22",
     "userId": "public",
     "cards": [
+      {
+        "id": "draft-real-cnbc-world-rss-1wnengs",
+        "title": "在美国实施新的严厉制裁之前，伊朗批评“治外法权”",
+        "oneLine": "政策变化：《在美国实施新的严厉制裁之前，伊朗批评“治外法权”》在这篇文章中，伊朗周六继续对美国发表严厉言论。",
+        "importance": "S",
+        "credibility": "待确认",
+        "tags": [
+          "S",
+          "mustKnow",
+          "industry",
+          "world",
+          "policy",
+          "finance"
+        ],
+        "industries": [
+          "generalPublic",
+          "financeInvestment",
+          "operationsGrowth",
+          "ecommerceRetail"
+        ],
+        "section": "front",
+        "body": {
+          "background": "他表示，他将在周一召开新闻发布会，“具体讨论我们将要做什么”。万斯在播客上表示，这一举动是“一场微妙的舞蹈”，因为双方都向对方施加压力，但他补充说，“过去几周的事实是，他们感受到的压力比我们大得多。在这篇文章中，伊朗周六继续对美国发表严厉言论。",
+          "keyProgress": "伊朗外交部发言人埃斯梅尔·巴卡伊(Esmaeil Baqaei)在X网站上发帖称：“美国宣布对伊朗实施新的经济制裁，这远远超出了针对单个国家持续进行非法‘经济战’的范围。特朗普还威胁对任何帮助德黑兰逃避制裁的国家实施严厉的经济处罚，并补充说“这将是规模空前的经济战和孤立”。这是对联合国每个独立会员国的域外主权主张。”美国财政部长斯科特·贝森特 (Scott Bessent) 周四对 CNBC 表示，特朗普政府摧毁伊朗经济的计划可能会削弱美国对伊朗采取重大军事行动的必要性。",
+          "whyItMatters": "“在美国实施新的严厉制裁之前，伊朗批评治外法权”如果继续发展，可能通过能源价格、航运、贸易、汇率或市场预期传导到国内。了解它的意义在于判断后续风险，而不只停留在事件本身。",
+          "userRelevance": "即使你不在美国、伊朗，“在美国实施新的严厉制裁之前，伊朗批评治外法权”也可能通过能源价格、国际航运、贸易成本和市场预期间接影响国内生活与工作判断。",
+          "whatToWatch": "接下来要看“在美国实施新的严厉制裁之前，伊朗批评治外法权”是否出现更细的城市、行业、平台或企业数据，以及这一变化能否连续保持。"
+        },
+        "sourceLinks": [
+          {
+            "title": "CNBC World News RSS",
+            "url": "https://www.cnbc.com/2026/08/22/iran-criticizes-us-sanctions-extraterritorial-sovereignty.html",
+            "sourceId": "cnbc-world-rss",
+            "publishedAt": "2026-08-22T10:34:23.000Z",
+            "language": "zh",
+            "originalLanguage": "en",
+            "translationStatus": "translated",
+            "fetchedAt": "2026-08-22T13:16:51.302Z",
+            "sourceMethod": "rss",
+            "verificationStatus": "pending"
+          }
+        ],
+        "images": [
+          {
+            "url": "https://image.cnbcfm.com/api/v1/image/108352200-17872393601787239357-47882405682-1080pnbcnews.jpg?v=1787239359&amp;w=750&amp;h=422&amp;vtcrop=y",
+            "sourceUrl": "https://www.cnbc.com/2026/08/22/iran-criticizes-us-sanctions-extraterritorial-sovereignty.html"
+          }
+        ],
+        "generatedAt": "2026-08-22T13:16:46.975Z"
+      },
       {
         "id": "draft-real-cnbc-world-rss-1mbanhn",
         "title": "特朗普允许免关税进口30万吨碎牛肉",
@@ -306,6 +356,156 @@
           }
         ],
         "generatedAt": "2026-08-21T23:36:19.202Z"
+      },
+      {
+        "id": "draft-real-cnbc-world-rss-fwinzf",
+        "title": "Meta 是最新一家进入她法庭的科技巨头。认识伊冯·冈萨雷斯·罗杰斯法官",
+        "oneLine": "政策变化：《Meta 是最新一家进入她法庭的科技巨头。认识伊冯·冈萨雷斯·罗杰斯法官》对于伊冯·冈萨雷斯·罗杰斯来说，这是疯狂的四个月。",
+        "importance": "B",
+        "credibility": "待确认",
+        "tags": [
+          "B",
+          "industry",
+          "world",
+          "policy",
+          "finance"
+        ],
+        "industries": [
+          "generalPublic",
+          "financeInvestment",
+          "operationsGrowth",
+          "ecommerceRetail"
+        ],
+        "section": "industry",
+        "body": {
+          "background": "这位加州北区法官在四月底和五月的大部分时间里都在奥克兰市中心的法庭上，监督埃隆·马斯克和萨姆·奥尔特曼之间备受瞩目的争斗。该地区包括 OpenAI 总部所在地旧金山，以及 Meta 及其大多数技术同行所在地的整个硅谷。对于伊冯·冈萨雷斯·罗杰斯来说，这是疯狂的四个月。",
+          "keyProgress": "她接替了担任该职位五年的法官理查德·西博格(Richard Seeborg)，并在科技公司比以往任何时候都规模更大、实力更强、人工智能正在将更多高风险的斗争带入法庭之际接任。现在，61 岁的冈萨雷斯·罗杰斯 (Gonzalez Rogers) 正在为审判的第二周做准备，这场审判可能对决定 Meta 广告业务的命运大有帮助，因为加州总检察长罗布·邦塔 (Rob Bonta) 领导着州检察长联盟，对被誉为社交媒体的“烟草大时刻”提起诉讼。在两次审判之间，冈萨雷斯·罗杰斯 (Gonzalez Rogers) 被任命为该法院首席法官，15 年后，他被时任总统巴拉克·奥巴马 (Barack Obama) 提名担任该法院首席法官。对于冈萨雷斯·罗杰斯 (Gonzalez Rogers) 来说，这份工作是她在加州 35 年法律职业生涯的顶峰，她在加州开始了私人执业，并于 2008 年被时任州长任命为阿拉米达县高等法院法官。",
+          "whyItMatters": "“Meta 是最新一家进入她法庭的科技巨头。认识伊冯·冈萨雷斯·罗杰斯法官”如果继续发展，可能通过能源价格、航运、贸易、汇率或市场预期传导到国内。了解它的意义在于判断后续风险，而不只停留在事件本身。",
+          "userRelevance": "即使你不在事发地区，“Meta 是最新一家进入她法庭的科技巨头。认识伊冯·冈萨雷斯·罗杰斯法官”也可能通过能源价格、国际航运、贸易成本和市场预期间接影响国内生活与工作判断。",
+          "whatToWatch": "接下来要看“Meta 是最新一家进入她法庭的科技巨头。认识伊冯·冈萨雷斯·罗杰斯法官”是否出现更细的城市、行业、平台或企业数据，以及这一变化能否连续保持。"
+        },
+        "sourceLinks": [
+          {
+            "title": "CNBC World News RSS",
+            "url": "https://www.cnbc.com/2026/08/22/meet-yvonne-gonzalez-rogers-judge-taking-on-meta.html",
+            "sourceId": "cnbc-world-rss",
+            "publishedAt": "2026-08-22T12:12:03.000Z",
+            "language": "zh",
+            "originalLanguage": "en",
+            "translationStatus": "translated",
+            "fetchedAt": "2026-08-22T13:16:51.302Z",
+            "sourceMethod": "rss",
+            "verificationStatus": "pending"
+          }
+        ],
+        "images": [
+          {
+            "url": "https://image.cnbcfm.com/api/v1/image/108267283-1771506323326-gettyimages-2261841633-AA_19022026_2660817.jpeg?v=1776975266&amp;w=750&amp;h=422&amp;vtcrop=y",
+            "sourceUrl": "https://www.cnbc.com/2026/08/22/meet-yvonne-gonzalez-rogers-judge-taking-on-meta.html"
+          },
+          {
+            "url": "https://image.cnbcfm.com/api/v1/image/106664454-15974380262020-08-14t184106z_1549139252_rc2udi9077z4_rtrmadp_0_apple-epic-games.jpeg?v=1597438066&amp;w=750&amp;h=422&amp;vtcrop=y",
+            "sourceUrl": "https://www.cnbc.com/2026/08/22/meet-yvonne-gonzalez-rogers-judge-taking-on-meta.html"
+          }
+        ],
+        "generatedAt": "2026-08-22T13:16:46.975Z"
+      },
+      {
+        "id": "draft-real-cnbc-world-rss-1dnh3g5",
+        "title": "可口可乐秘密创新实验室内部：这家饮料巨头希望如何实现脏汽水和清凉饮料的自动化",
+        "oneLine": "最新进展：可口可乐秘密创新实验室内部：这家饮料巨头希望如何实现脏汽水和清凉饮料的自动化。",
+        "importance": "B",
+        "credibility": "待确认",
+        "tags": [
+          "B",
+          "industry",
+          "world",
+          "policy",
+          "finance"
+        ],
+        "industries": [
+          "generalPublic",
+          "financeInvestment",
+          "operationsGrowth",
+          "ecommerceRetail"
+        ],
+        "section": "industry",
+        "body": {
+          "background": "可口可乐公司隐藏在距离其全球总部不远的一个匿名办公园区内，一直在其秘密实验室中进行大量创新，其中包括一种利用 Freestyle 饮料机生产脏苏打水的方法，这种苏打水将汽水与调味糖浆、奶油或其他成分结合在一起。“这些饮料通常是一个休息的机会，可以以较低的价格获取一些能量或蛋白质，享受美食，”Circana 高级副总裁兼食品服务行业顾问 David Portalatin 告诉 CNBC。该公司与 AMC Theaters 合作，正在测试一种可以制作颜色鲜艳的饮料的 Micro Matic 分配器。",
+          "keyProgress": "对于许多餐厅来说，尽管食客普遍削减开支，但清凉饮料或冰咖啡等手工饮品已成为推动客流量和销售的重要方式。当消费者出门在外时，饮料通常不仅仅意味着补充水分，尤其是对于 Z 世代来说。从麦当劳到温迪，可口可乐的长期客户一直在扩大饮料供应，以满足消费者行为的转变并提高利润率。随着运营商寻求在菜单中添加更多饮料，可口可乐必须添加更方便的饮料选择，否则可能会面临销售输给竞争对手的风险。",
+          "whyItMatters": "“可口可乐秘密创新实验室内部：这家饮料巨头希望如何实现脏汽水和清凉饮料的自动化”如果继续发展，可能通过能源价格、航运、贸易、汇率或市场预期传导到国内。了解它的意义在于判断后续风险，而不只停留在事件本身。",
+          "userRelevance": "即使你不在事发地区，“可口可乐秘密创新实验室内部：这家饮料巨头希望如何实现脏汽水和清凉饮料的自动化”也可能通过能源价格、国际航运、贸易成本和市场预期间接影响国内生活与工作判断。",
+          "whatToWatch": "接下来要看“可口可乐秘密创新实验室内部：这家饮料巨头希望如何实现脏汽水和清凉饮料的自动化”是否出现更细的城市、行业、平台或企业数据，以及这一变化能否连续保持。"
+        },
+        "sourceLinks": [
+          {
+            "title": "CNBC World News RSS",
+            "url": "https://www.cnbc.com/2026/08/22/coca-cola-innovation-labs-dirty-sodas-refreshers.html",
+            "sourceId": "cnbc-world-rss",
+            "publishedAt": "2026-08-22T12:00:01.000Z",
+            "language": "zh",
+            "originalLanguage": "en",
+            "translationStatus": "translated",
+            "fetchedAt": "2026-08-22T13:16:51.302Z",
+            "sourceMethod": "rss",
+            "verificationStatus": "pending"
+          }
+        ],
+        "images": [],
+        "generatedAt": "2026-08-22T13:16:46.975Z"
+      },
+      {
+        "id": "draft-real-cnbc-world-rss-1a5nzgs",
+        "title": "六位投资者揭示了最大的市场风险——以及他们同意的一项策略",
+        "oneLine": "最新进展：六位投资者揭示了最大的市场风险——以及他们同意的一项策略。",
+        "importance": "B",
+        "credibility": "待确认",
+        "tags": [
+          "B",
+          "industry",
+          "world",
+          "policy",
+          "finance"
+        ],
+        "industries": [
+          "generalPublic",
+          "financeInvestment",
+          "operationsGrowth",
+          "ecommerceRetail"
+        ],
+        "section": "industry",
+        "body": {
+          "background": "拉什表示，从估值角度来看，房地产投资信托“多年来一直不受欢迎，但现在看起来越来越有吸引力”，它是他的团队用来扩大投资组合的一项资产，与英国股票以及在亚洲和新兴市场上市的股票一样。CNBC 向六位投资者询问了他们所看到的最大风险以及他们如何配置投资组合以应对风险。尽管对市场面临的最大威胁存在不同看法，但投资者一再做出相同的反应：除了今年最大的赢家之外，进行多元化投资。",
+          "keyProgress": "IBOSS 投资经理克里斯·拉什 (Chris Rush) 告诉 CNBC，投资者面临的最大风险是“过于专注于过去的赢家，而错过了世界各地的其他机会”。“但由于美国股市已经在全球投资组合中占据如此大的比例，我们认为集中度是一个更大的风险。美国的例外论也开始从2025年之前的水平消退，而七大巨头的债务水平不断上升，增加了继续追逐同一家公司的风险。如果你像我们一样，准备好不全力以赴地投资赢家（并冒着成为输家的风险），那么今年将是相当不错的一年。",
+          "whyItMatters": "“六位投资者揭示了最大的市场风险——以及他们同意的一项策略”如果继续发展，可能通过能源价格、航运、贸易、汇率或市场预期传导到国内。了解它的意义在于判断后续风险，而不只停留在事件本身。",
+          "userRelevance": "即使你不在事发地区，“六位投资者揭示了最大的市场风险——以及他们同意的一项策略”也可能通过能源价格、国际航运、贸易成本和市场预期间接影响国内生活与工作判断。",
+          "whatToWatch": "接下来要看“六位投资者揭示了最大的市场风险——以及他们同意的一项策略”是否出现更细的城市、行业、平台或企业数据，以及这一变化能否连续保持。"
+        },
+        "sourceLinks": [
+          {
+            "title": "CNBC World News RSS",
+            "url": "https://www.cnbc.com/2026/08/22/investors-market-risks-diversification-stocks-kospi.html",
+            "sourceId": "cnbc-world-rss",
+            "publishedAt": "2026-08-22T05:00:01.000Z",
+            "language": "zh",
+            "originalLanguage": "en",
+            "translationStatus": "translated",
+            "fetchedAt": "2026-08-22T13:16:51.302Z",
+            "sourceMethod": "rss",
+            "verificationStatus": "pending"
+          }
+        ],
+        "images": [
+          {
+            "url": "https://image.cnbcfm.com/api/v1/image/108351915-17871934961787193493-47872129087-1080pnbcnews.jpg?v=1787193495&amp;w=750&amp;h=422&amp;vtcrop=y",
+            "sourceUrl": "https://www.cnbc.com/2026/08/22/investors-market-risks-diversification-stocks-kospi.html"
+          },
+          {
+            "url": "https://image.cnbcfm.com/api/v1/image/108351403-17871360031787136000-47858813927-1080pnbcnews.jpg?v=1787136002&amp;w=750&amp;h=422&amp;vtcrop=y",
+            "sourceUrl": "https://www.cnbc.com/2026/08/22/investors-market-risks-diversification-stocks-kospi.html"
+          }
+        ],
+        "generatedAt": "2026-08-22T13:16:46.975Z"
       },
       {
         "id": "draft-real-cnbc-world-rss-lup4sd",
@@ -988,72 +1188,29 @@
         ],
         "images": [],
         "generatedAt": "2026-08-21T23:36:19.202Z"
-      },
-      {
-        "id": "draft-real-cas-science-news-1gj4fhk",
-        "title": "科学家首次利用暗腔实现真空涨落增强超导",
-        "oneLine": "趋势信号：近日，中国科学技术大学等在量子物态调控领域取得重要进展， 首次利用暗腔实现了真空涨落增强超导 。",
-        "importance": "B",
-        "credibility": "官方来源",
-        "tags": [
-          "B",
-          "industry",
-          "technology",
-          "education"
-        ],
-        "industries": [
-          "technologyEngineering",
-          "educationResearch"
-        ],
-        "section": "industry",
-        "body": {
-          "background": "在此前研究中，团队开展了对真空涨落效应本身的调控，实现了卡西米尔力由吸引到排斥的可逆转变。在量子电动力学世界里，真空并非空无一物，而是伴随虚粒子的不断产生与湮灭，犹如充满真空涨落的动态“海洋”。然而，自由空间中的真空涨落通常较弱，难以对宏观凝聚态体系产生可观测影响。",
-          "keyProgress": "如何将这一效应转化为调控量子物态的资源，是凝聚态物理与腔量子电动力学交叉领域的重要课题。中国科大团队近些年致力于凝聚态体系中量子涨落效应研究。这一成果让团队萌生了进一步的科研设想：能否利用真空涨落，实现对宏观量子物态的可控调节？为此，团队 引入太赫兹分裂环谐振器构成的暗腔，通过重塑电磁环境，显著增强真空涨落 。",
-          "whyItMatters": "“科学家首次利用暗腔实现真空涨落增强超导”提供了一个具体的研究进展信号。它是否重要，要看实验指标、可复现性、开源材料和真实应用，而不能只看论文标题。",
-          "userRelevance": "如果你从事科研、工程或正在攻读相关学位，可以重点查看“科学家首次利用暗腔实现真空涨落增强超导”的实验条件、指标和可复现性；其他用户可把它作为技术趋势背景了解。",
-          "whatToWatch": "接下来要看“科学家首次利用暗腔实现真空涨落增强超导”是否公开论文全文、代码或完整实验条件，以及是否得到独立复现和实际应用。"
-        },
-        "sourceLinks": [
-          {
-            "title": "中国科学院科研动态",
-            "url": "https://www.cas.cn/syky/202608/t20260821_5118765.shtml",
-            "sourceId": "cas-science-news",
-            "publishedAt": "2026-08-21T00:00:00+08:00",
-            "language": "zh",
-            "originalLanguage": "zh",
-            "translationStatus": "not-needed",
-            "fetchedAt": "2026-08-21T23:36:21.021Z",
-            "sourceMethod": "web",
-            "verificationStatus": "confirmed"
-          }
-        ],
-        "images": [
-          {
-            "url": "https://www.cas.cn/syky/202608/W020260821315381919840.png",
-            "sourceUrl": "https://www.cas.cn/syky/202608/t20260821_5118765.shtml"
-          }
-        ],
-        "generatedAt": "2026-08-21T23:36:19.202Z"
       }
     ],
-    "estimatedReadMinutes": 35,
+    "estimatedReadMinutes": 40,
     "pageCount": 3,
-    "topCardId": "draft-real-cnbc-world-rss-1mbanhn",
-    "generatedAt": "2026-08-22T04:43:18.053Z",
+    "topCardId": "draft-real-cnbc-world-rss-1wnengs",
+    "generatedAt": "2026-08-22T13:16:46.975Z",
     "pushSlots": [
       "08:30",
       "12:30",
       "21:30"
     ],
-    "edition": "midday",
-    "editionLabel": "午间更新",
+    "edition": "evening",
+    "editionLabel": "晚间更新",
     "coverageWindow": {
-      "start": "2026-08-22T07:10:00+08:00",
-      "end": "2026-08-22T12:10:00+08:00"
+      "start": "2026-08-22T12:10:00+08:00",
+      "end": "2026-08-22T21:10:00+08:00"
     },
-    "basedOnGeneratedAt": "2026-08-21T23:36:19.202Z",
+    "basedOnGeneratedAt": "2026-08-22T04:43:18.053Z",
     "editionCardIds": [
-      "draft-real-cnbc-world-rss-lup4sd"
+      "draft-real-cnbc-world-rss-1wnengs",
+      "draft-real-cnbc-world-rss-fwinzf",
+      "draft-real-cnbc-world-rss-1dnh3g5",
+      "draft-real-cnbc-world-rss-1a5nzgs"
     ],
     "carriedCardIds": [
       "draft-real-cnbc-world-rss-1mbanhn",
@@ -1062,6 +1219,7 @@
       "draft-real-npr-world-rss-1s17zut",
       "draft-real-xinhua-world-1ff37kp",
       "draft-real-mofcom-trade-1r24boq",
+      "draft-real-cnbc-world-rss-lup4sd",
       "draft-real-cnbc-world-rss-1r6tajd",
       "draft-real-xinhua-world-6b4hkm",
       "draft-real-xinhua-world-1190fa0",
@@ -1074,8 +1232,7 @@
       "draft-cluster-real-xinhua-tech-dv1vuj",
       "draft-real-xinhua-tech-1uxtm01",
       "draft-real-xinhua-tech-1ii6275",
-      "draft-real-stats-cn-data-1js7sp",
-      "draft-real-cas-science-news-1gj4fhk"
+      "draft-real-stats-cn-data-1js7sp"
     ]
   }
 }

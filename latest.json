@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "publishedAt": "2026-08-22T04:16:04.053Z",
+  "publishedAt": "2026-08-22T04:43:18.053Z",
   "issue": {
     "id": "daily-public-2026-08-22",
     "date": "2026-08-22",
@@ -308,7 +308,7 @@
         "generatedAt": "2026-08-21T23:36:19.202Z"
       },
       {
-        "id": "draft-real-cnbc-world-rss-lkpj3e",
+        "id": "draft-real-cnbc-world-rss-lup4sd",
         "title": "共和党警告数据中心使俄亥俄州参议院席位面临风险，赫斯特德捍卫能源政策",
         "oneLine": "政策变化：周五，俄亥俄州共和党参议员乔恩·赫斯特德 (Jon Husted) 与副总统万斯 (JD Vance) 一起在俄亥俄州西南部的一家钢厂露面，为唐纳德·特朗普 (Donald Trump) 总统的能源和经济议程进行了辩护，共和党人警告称，对数据中心的强烈反对可能会危及他的席位。",
         "importance": "B",
@@ -344,13 +344,13 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-22T04:16:08.788Z",
+            "fetchedAt": "2026-08-22T04:43:29.988Z",
             "sourceMethod": "rss",
             "verificationStatus": "pending"
           }
         ],
         "images": [],
-        "generatedAt": "2026-08-22T04:16:04.053Z"
+        "generatedAt": "2026-08-22T04:43:18.053Z"
       },
       {
         "id": "draft-real-cnbc-world-rss-1r6tajd",
@@ -1039,7 +1039,7 @@
     "estimatedReadMinutes": 35,
     "pageCount": 3,
     "topCardId": "draft-real-cnbc-world-rss-1mbanhn",
-    "generatedAt": "2026-08-22T04:16:04.053Z",
+    "generatedAt": "2026-08-22T04:43:18.053Z",
     "pushSlots": [
       "08:30",
       "12:30",
@@ -1053,7 +1053,7 @@
     },
     "basedOnGeneratedAt": "2026-08-21T23:36:19.202Z",
     "editionCardIds": [
-      "draft-real-cnbc-world-rss-lkpj3e"
+      "draft-real-cnbc-world-rss-lup4sd"
     ],
     "carriedCardIds": [
       "draft-real-cnbc-world-rss-1mbanhn",

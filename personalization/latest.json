@@ -306,7 +306,7 @@
         "generatedAt": "2026-08-21T23:36:19.202Z"
       },
       {
-        "id": "draft-real-cnbc-world-rss-lkpj3e",
+        "id": "draft-real-cnbc-world-rss-lup4sd",
         "title": "共和党警告数据中心使俄亥俄州参议院席位面临风险，赫斯特德捍卫能源政策",
         "oneLine": "政策变化：周五，俄亥俄州共和党参议员乔恩·赫斯特德 (Jon Husted) 与副总统万斯 (JD Vance) 一起在俄亥俄州西南部的一家钢厂露面，为唐纳德·特朗普 (Donald Trump) 总统的能源和经济议程进行了辩护，共和党人警告称，对数据中心的强烈反对可能会危及他的席位。",
         "importance": "B",
@@ -342,13 +342,13 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-22T04:16:08.788Z",
+            "fetchedAt": "2026-08-22T04:43:29.988Z",
             "sourceMethod": "rss",
             "verificationStatus": "pending"
           }
         ],
         "images": [],
-        "generatedAt": "2026-08-22T04:16:04.053Z"
+        "generatedAt": "2026-08-22T04:43:18.053Z"
       },
       {
         "id": "draft-real-cnbc-world-rss-1r6tajd",
@@ -1037,7 +1037,7 @@
     "estimatedReadMinutes": 35,
     "pageCount": 3,
     "topCardId": "draft-real-cnbc-world-rss-1mbanhn",
-    "generatedAt": "2026-08-22T04:16:04.053Z",
+    "generatedAt": "2026-08-22T04:43:18.053Z",
     "pushSlots": [
       "08:30",
       "12:30",
@@ -1051,7 +1051,7 @@
     },
     "basedOnGeneratedAt": "2026-08-21T23:36:19.202Z",
     "editionCardIds": [
-      "draft-real-cnbc-world-rss-lkpj3e"
+      "draft-real-cnbc-world-rss-lup4sd"
     ],
     "carriedCardIds": [
       "draft-real-cnbc-world-rss-1mbanhn",
@@ -1079,17 +1079,17 @@
   "meta": {
     "profileName": "多职业公共版",
     "cohortLocationCount": 7,
-    "generatedAt": "2026-08-22T04:16:04.053Z",
+    "generatedAt": "2026-08-22T04:43:18.053Z",
     "edition": "midday",
     "sourceCoverage": {
       "ready": true,
       "sourceAvailabilityReady": true,
       "currentCoverageReady": true,
-      "generatedAt": "2026-08-22T04:18:33.315Z",
+      "generatedAt": "2026-08-22T04:45:42.872Z",
       "totalSources": 33,
-      "successfulSources": 32,
-      "sourcesWithItems": 26,
-      "totalItems": 384,
+      "successfulSources": 30,
+      "sourcesWithItems": 24,
+      "totalItems": 356,
       "lanes": [
         {
           "id": "global",
@@ -1184,10 +1184,10 @@
             "arxiv-cs-api",
             "cas-science-news",
             "moe-cn",
-            "chrm-mohrss",
             "stats-cn-data"
           ],
           "failedSourceIds": [
+            "chrm-mohrss",
             "mohurd-construction"
           ],
           "emptySourceIds": [],
@@ -1283,7 +1283,7 @@
       "stats",
       "mofcom"
     ],
-    "fetchedRawItemCount": 384,
+    "fetchedRawItemCount": 356,
     "rawItemCount": 6,
     "rawCandidateCount": 6,
     "dedupedCandidateCount": 2,
@@ -1354,7 +1354,7 @@
         "method": "api",
         "endpointUrl": "https://export.arxiv.org/api/query",
         "attempts": 1,
-        "durationMs": 652,
+        "durationMs": 128,
         "fallbackUsed": false,
         "rawItemCount": 18,
         "datedItemCount": 18,
@@ -1371,7 +1371,7 @@
         "method": "web",
         "endpointUrl": "https://www.cas.cn/syky/",
         "attempts": 1,
-        "durationMs": 1239,
+        "durationMs": 1530,
         "fallbackUsed": false,
         "rawItemCount": 18,
         "datedItemCount": 18,
@@ -1388,7 +1388,7 @@
         "method": "web",
         "endpointUrl": "https://www.mohurd.gov.cn/xinwen/gzdt/index.html",
         "attempts": 3,
-        "durationMs": 137473,
+        "durationMs": 132768,
         "fallbackUsed": false,
         "rawItemCount": 0,
         "datedItemCount": 0,
@@ -1404,7 +1404,7 @@
         "method": "rss",
         "endpointUrl": "https://www.gdacs.org/xml/rss.xml",
         "attempts": 1,
-        "durationMs": 3572,
+        "durationMs": 6404,
         "fallbackUsed": false,
         "rawItemCount": 18,
         "datedItemCount": 18,
@@ -1421,7 +1421,7 @@
         "method": "web",
         "endpointUrl": "https://www.gov.cn/zhengce/zuixin/",
         "attempts": 1,
-        "durationMs": 1800,
+        "durationMs": 5100,
         "fallbackUsed": false,
         "rawItemCount": 18,
         "datedItemCount": 18,
@@ -1438,7 +1438,7 @@
         "method": "web",
         "endpointUrl": "https://www.mem.gov.cn/xw/yjglbgzdt/",
         "attempts": 1,
-        "durationMs": 1400,
+        "durationMs": 4268,
         "fallbackUsed": false,
         "rawItemCount": 18,
         "datedItemCount": 18,
@@ -1450,19 +1450,18 @@
       {
         "sourceId": "cac-cn",
         "sourceName": "中央网信办 / 国家网信办",
-        "ok": true,
-        "status": "healthy",
+        "ok": false,
+        "status": "failed",
         "method": "web",
         "endpointUrl": "https://www.cac.gov.cn/index.htm",
-        "attempts": 1,
-        "durationMs": 1705,
+        "attempts": 3,
+        "durationMs": 18349,
         "fallbackUsed": false,
-        "rawItemCount": 2,
-        "datedItemCount": 2,
+        "rawItemCount": 0,
+        "datedItemCount": 0,
         "inEditionItemCount": 0,
-        "newestPublishedAt": "2026-07-28T16:00:00.000Z",
-        "oldestPublishedAt": "2026-06-25T16:00:00.000Z",
-        "verificationStatus": "confirmed"
+        "verificationStatus": "confirmed",
+        "error": "https://www.cac.gov.cn/index.htm: TypeError: fetch failed; legacy TLS fallback: AggregateError: request failed without a message | https://www.cac.gov.cn/: TypeError: fetch failed; legacy TLS fallback: AggregateError: request failed without a message"
       },
       {
         "sourceId": "xinhua-world",
@@ -1472,7 +1471,7 @@
         "method": "web",
         "endpointUrl": "https://www.news.cn/world/index.html",
         "attempts": 1,
-        "durationMs": 1368,
+        "durationMs": 2081,
         "fallbackUsed": false,
         "rawItemCount": 18,
         "datedItemCount": 18,
@@ -1489,7 +1488,7 @@
         "method": "web",
         "endpointUrl": "https://www.news.cn/tech/index.html",
         "attempts": 1,
-        "durationMs": 898,
+        "durationMs": 1997,
         "fallbackUsed": false,
         "rawItemCount": 14,
         "datedItemCount": 14,
@@ -1506,7 +1505,7 @@
         "method": "rss",
         "endpointUrl": "https://www.gov.uk/search/news-and-communications.atom?order=updated-newest",
         "attempts": 1,
-        "durationMs": 951,
+        "durationMs": 850,
         "fallbackUsed": false,
         "rawItemCount": 18,
         "datedItemCount": 18,
@@ -1523,13 +1522,13 @@
         "method": "rss",
         "endpointUrl": "https://feeds.npr.org/1004/rss.xml",
         "attempts": 1,
-        "durationMs": 333,
+        "durationMs": 3381,
         "fallbackUsed": false,
         "rawItemCount": 10,
         "datedItemCount": 10,
         "inEditionItemCount": 0,
-        "newestPublishedAt": "2026-08-21T21:34:57.000Z",
-        "oldestPublishedAt": "2026-08-20T06:17:42.000Z",
+        "newestPublishedAt": "2026-08-22T04:36:27.000Z",
+        "oldestPublishedAt": "2026-08-20T07:31:55.000Z",
         "verificationStatus": "confirmed"
       },
       {
@@ -1540,7 +1539,7 @@
         "method": "rss",
         "endpointUrl": "https://feeds.skynews.com/feeds/rss/world.xml",
         "attempts": 1,
-        "durationMs": 182,
+        "durationMs": 1367,
         "fallbackUsed": false,
         "rawItemCount": 10,
         "datedItemCount": 10,
@@ -1557,7 +1556,7 @@
         "method": "rss",
         "endpointUrl": "https://www.france24.com/en/middle-east/rss",
         "attempts": 1,
-        "durationMs": 61,
+        "durationMs": 1695,
         "fallbackUsed": false,
         "rawItemCount": 18,
         "datedItemCount": 18,
@@ -1574,7 +1573,7 @@
         "method": "rss",
         "endpointUrl": "https://www.france24.com/en/asia-pacific/rss",
         "attempts": 1,
-        "durationMs": 24,
+        "durationMs": 44,
         "fallbackUsed": false,
         "rawItemCount": 18,
         "datedItemCount": 18,
@@ -1591,13 +1590,13 @@
         "method": "rss",
         "endpointUrl": "https://www.cnbc.com/id/100727362/device/rss/rss.html",
         "attempts": 1,
-        "durationMs": 56,
+        "durationMs": 97,
         "fallbackUsed": false,
         "rawItemCount": 18,
         "datedItemCount": 18,
         "inEditionItemCount": 1,
         "newestPublishedAt": "2026-08-21T23:12:26.000Z",
-        "oldestPublishedAt": "2026-08-21T02:48:10.000Z",
+        "oldestPublishedAt": "2026-08-19T20:34:09.000Z",
         "verificationStatus": "pending"
       },
       {
@@ -1608,7 +1607,7 @@
         "method": "rss",
         "endpointUrl": "https://news.un.org/feed/subscribe/en/news/all/rss.xml",
         "attempts": 1,
-        "durationMs": 234,
+        "durationMs": 28,
         "fallbackUsed": false,
         "rawItemCount": 18,
         "datedItemCount": 18,
@@ -1625,7 +1624,7 @@
         "method": "web",
         "endpointUrl": "https://www.mfa.gov.cn/wjdt_674879/fyrbt_674889/",
         "attempts": 1,
-        "durationMs": 774,
+        "durationMs": 1872,
         "fallbackUsed": false,
         "rawItemCount": 18,
         "datedItemCount": 18,
@@ -1642,7 +1641,7 @@
         "method": "web",
         "endpointUrl": "https://www.mofcom.gov.cn/xwfb/",
         "attempts": 1,
-        "durationMs": 1492,
+        "durationMs": 2682,
         "fallbackUsed": false,
         "rawItemCount": 15,
         "datedItemCount": 15,
@@ -1659,7 +1658,7 @@
         "method": "rss",
         "endpointUrl": "https://openai.com/news/rss.xml",
         "attempts": 1,
-        "durationMs": 1056,
+        "durationMs": 95,
         "fallbackUsed": false,
         "rawItemCount": 18,
         "datedItemCount": 18,
@@ -1676,7 +1675,7 @@
         "method": "rss",
         "endpointUrl": "https://deepmind.google/blog/rss.xml",
         "attempts": 1,
-        "durationMs": 915,
+        "durationMs": 178,
         "fallbackUsed": false,
         "rawItemCount": 18,
         "datedItemCount": 18,
@@ -1693,7 +1692,7 @@
         "method": "rss",
         "endpointUrl": "https://techcrunch.com/category/artificial-intelligence/feed/",
         "attempts": 1,
-        "durationMs": 85,
+        "durationMs": 98,
         "fallbackUsed": false,
         "rawItemCount": 18,
         "datedItemCount": 18,
@@ -1710,7 +1709,7 @@
         "method": "rss",
         "endpointUrl": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
         "attempts": 1,
-        "durationMs": 43,
+        "durationMs": 30,
         "fallbackUsed": false,
         "rawItemCount": 10,
         "datedItemCount": 10,
@@ -1727,7 +1726,7 @@
         "method": "web",
         "endpointUrl": "https://www.moe.gov.cn/",
         "attempts": 1,
-        "durationMs": 3663,
+        "durationMs": 5921,
         "fallbackUsed": false,
         "rawItemCount": 12,
         "datedItemCount": 12,
@@ -1739,19 +1738,18 @@
       {
         "sourceId": "chrm-mohrss",
         "sourceName": "中国人力资源市场网",
-        "ok": true,
-        "status": "healthy",
+        "ok": false,
+        "status": "failed",
         "method": "web",
         "endpointUrl": "https://chrm.mohrss.gov.cn/announcement/",
-        "attempts": 1,
-        "durationMs": 4075,
+        "attempts": 3,
+        "durationMs": 10290,
         "fallbackUsed": false,
-        "rawItemCount": 8,
-        "datedItemCount": 8,
+        "rawItemCount": 0,
+        "datedItemCount": 0,
         "inEditionItemCount": 0,
-        "newestPublishedAt": "2026-08-20T16:00:00.000Z",
-        "oldestPublishedAt": "2026-07-16T16:00:00.000Z",
-        "verificationStatus": "confirmed"
+        "verificationStatus": "confirmed",
+        "error": "TypeError: fetch failed; legacy TLS fallback: AggregateError: request failed without a message"
       },
       {
         "sourceId": "stats-cn-data",
@@ -1761,7 +1759,7 @@
         "method": "web",
         "endpointUrl": "https://www.stats.gov.cn/sj/zxfb/",
         "attempts": 1,
-        "durationMs": 6274,
+        "durationMs": 4328,
         "fallbackUsed": false,
         "rawItemCount": 13,
         "datedItemCount": 13,
@@ -1778,14 +1776,15 @@
         "method": "web",
         "endpointUrl": "https://scyxs.mofcom.gov.cn/",
         "attempts": 1,
-        "durationMs": 2497,
-        "fallbackUsed": false,
-        "rawItemCount": 18,
-        "datedItemCount": 18,
+        "durationMs": 1672,
+        "fallbackUsed": true,
+        "rawItemCount": 1,
+        "datedItemCount": 1,
         "inEditionItemCount": 0,
-        "newestPublishedAt": "2026-08-19T16:00:00.000Z",
-        "oldestPublishedAt": "2025-08-27T16:00:00.000Z",
-        "verificationStatus": "confirmed"
+        "newestPublishedAt": "2026-08-17T16:00:00.000Z",
+        "oldestPublishedAt": "2026-08-17T16:00:00.000Z",
+        "verificationStatus": "confirmed",
+        "note": "主入口失败后使用了官方备用入口。"
       },
       {
         "sourceId": "city-news-rss:%E4%B8%AD%E5%9B%BD-%E4%B8%8A%E6%B5%B7",
@@ -1795,12 +1794,12 @@
         "method": "web",
         "endpointUrl": "city-source:中国/直辖市/上海",
         "attempts": 1,
-        "durationMs": 3835,
+        "durationMs": 4355,
         "fallbackUsed": false,
-        "rawItemCount": 2,
-        "datedItemCount": 2,
+        "rawItemCount": 1,
+        "datedItemCount": 1,
         "inEditionItemCount": 0,
-        "newestPublishedAt": "2026-08-21T16:00:00.000Z",
+        "newestPublishedAt": "2020-12-29T16:00:00.000Z",
         "oldestPublishedAt": "2020-12-29T16:00:00.000Z",
         "verificationStatus": "pending",
         "note": "城市新闻发现源；政策和风险内容仍需官方或主流来源确认。"
@@ -1813,7 +1812,7 @@
         "method": "web",
         "endpointUrl": "city-source:中国/浙江/杭州",
         "attempts": 1,
-        "durationMs": 10590,
+        "durationMs": 10576,
         "fallbackUsed": false,
         "rawItemCount": 0,
         "datedItemCount": 0,
@@ -1829,7 +1828,7 @@
         "method": "web",
         "endpointUrl": "city-source:英国/英国/伦敦",
         "attempts": 1,
-        "durationMs": 1103,
+        "durationMs": 1788,
         "fallbackUsed": false,
         "rawItemCount": 0,
         "datedItemCount": 0,
@@ -1845,7 +1844,7 @@
         "method": "web",
         "endpointUrl": "city-source:中国/广东/深圳",
         "attempts": 1,
-        "durationMs": 1470,
+        "durationMs": 2251,
         "fallbackUsed": false,
         "rawItemCount": 0,
         "datedItemCount": 0,
@@ -1861,7 +1860,7 @@
         "method": "web",
         "endpointUrl": "city-source:中国/吉林/长春",
         "attempts": 1,
-        "durationMs": 1106,
+        "durationMs": 1766,
         "fallbackUsed": false,
         "rawItemCount": 0,
         "datedItemCount": 0,
@@ -1877,7 +1876,7 @@
         "method": "web",
         "endpointUrl": "city-source:中国/安徽/宿州",
         "attempts": 1,
-        "durationMs": 1121,
+        "durationMs": 1799,
         "fallbackUsed": false,
         "rawItemCount": 0,
         "datedItemCount": 0,
@@ -1893,7 +1892,7 @@
         "method": "web",
         "endpointUrl": "city-source:中国/广东/汕尾",
         "attempts": 1,
-        "durationMs": 1297,
+        "durationMs": 1773,
         "fallbackUsed": false,
         "rawItemCount": 0,
         "datedItemCount": 0,
@@ -1908,9 +1907,27 @@
         "sourceName": "住房和城乡建设部",
         "method": "web",
         "attempts": 3,
-        "durationMs": 137473,
+        "durationMs": 132768,
         "fallbackUsed": false,
         "error": "https://www.mohurd.gov.cn/api-gateway/jpaas-publish-server/front/page/build/unit?parseType=bulidstatic&webId=86ca573ec4df405db627fdc2493677f3&tplSetId=fc259c381af3496d85e61997ea7771cb&pageType=column&tagId=%E6%A0%8F%E7%9B%AE-list&editType=null&pageId=919e942639b5477d96e4c97471c61d9f: TypeError: fetch failed; legacy TLS fallback: Error: Request timed out | https://www.mohurd.gov.cn/xinwen/gzdt/index.html: TypeError: fetch failed; legacy TLS fallback: Error: Request timed out | https://www.mohurd.gov.cn/: TypeError: fetch failed; legacy TLS fallback: Error: Request timed out"
+      },
+      {
+        "sourceId": "cac-cn",
+        "sourceName": "中央网信办 / 国家网信办",
+        "method": "web",
+        "attempts": 3,
+        "durationMs": 18349,
+        "fallbackUsed": false,
+        "error": "https://www.cac.gov.cn/index.htm: TypeError: fetch failed; legacy TLS fallback: AggregateError: request failed without a message | https://www.cac.gov.cn/: TypeError: fetch failed; legacy TLS fallback: AggregateError: request failed without a message"
+      },
+      {
+        "sourceId": "chrm-mohrss",
+        "sourceName": "中国人力资源市场网",
+        "method": "web",
+        "attempts": 3,
+        "durationMs": 10290,
+        "fallbackUsed": false,
+        "error": "TypeError: fetch failed; legacy TLS fallback: AggregateError: request failed without a message"
       }
     ],
     "cardReviewFindings": []
@@ -7976,7 +7993,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-22T04:16:07.772Z",
+            "fetchedAt": "2026-08-22T04:43:24.505Z",
             "sourceMethod": "rss",
             "verificationStatus": "confirmed"
           },
@@ -7988,7 +8005,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-22T04:16:07.772Z",
+            "fetchedAt": "2026-08-22T04:43:24.505Z",
             "sourceMethod": "rss",
             "verificationStatus": "confirmed"
           },
@@ -8000,7 +8017,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-22T04:16:07.772Z",
+            "fetchedAt": "2026-08-22T04:43:24.505Z",
             "sourceMethod": "rss",
             "verificationStatus": "confirmed"
           },
@@ -8012,7 +8029,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-22T04:16:07.772Z",
+            "fetchedAt": "2026-08-22T04:43:24.505Z",
             "sourceMethod": "rss",
             "verificationStatus": "confirmed"
           },
@@ -8024,7 +8041,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-22T04:16:07.772Z",
+            "fetchedAt": "2026-08-22T04:43:24.505Z",
             "sourceMethod": "rss",
             "verificationStatus": "confirmed"
           }
@@ -8076,7 +8093,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-22T04:16:07.772Z",
+            "fetchedAt": "2026-08-22T04:43:24.505Z",
             "sourceMethod": "rss",
             "verificationStatus": "confirmed"
           },
@@ -8088,7 +8105,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-22T04:16:07.772Z",
+            "fetchedAt": "2026-08-22T04:43:24.505Z",
             "sourceMethod": "rss",
             "verificationStatus": "confirmed"
           },
@@ -8100,7 +8117,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-22T04:16:07.772Z",
+            "fetchedAt": "2026-08-22T04:43:24.505Z",
             "sourceMethod": "rss",
             "verificationStatus": "confirmed"
           },
@@ -8112,7 +8129,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-22T04:16:07.772Z",
+            "fetchedAt": "2026-08-22T04:43:24.505Z",
             "sourceMethod": "rss",
             "verificationStatus": "confirmed"
           },
@@ -8124,7 +8141,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-22T04:16:07.772Z",
+            "fetchedAt": "2026-08-22T04:43:24.505Z",
             "sourceMethod": "rss",
             "verificationStatus": "confirmed"
           }
@@ -8135,7 +8152,106 @@
             "sourceUrl": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1030886"
           }
         ],
-        "generatedAt": "2026-08-22T04:16:04.053Z"
+        "generatedAt": "2026-08-22T04:43:18.053Z"
+      }
+    },
+    {
+      "candidate": {
+        "id": "real-cnbc-world-rss-lup4sd",
+        "title": "共和党警告数据中心使俄亥俄州参议院席位面临风险，赫斯特德捍卫能源政策",
+        "oneLine": "国际最新进展：这条英文来源需要完整整理为中文，并优先说明发生了什么变化、与中国的关系及后续风险。",
+        "categories": [
+          "world",
+          "policy",
+          "finance",
+          "operations"
+        ],
+        "industries": [
+          "generalPublic",
+          "financeInvestment",
+          "operationsGrowth",
+          "ecommerceRetail"
+        ],
+        "regions": [
+          "全球"
+        ],
+        "locations": [],
+        "sourceIds": [
+          "cnbc-world-rss"
+        ],
+        "publishedAt": "2026-08-21T23:12:26.000Z",
+        "sourceLinks": [
+          {
+            "title": "CNBC World News RSS",
+            "url": "https://www.cnbc.com/2026/08/21/jon-husted-data-centers-ohio-senate.html",
+            "sourceId": "cnbc-world-rss",
+            "publishedAt": "2026-08-21T23:12:26.000Z",
+            "language": "zh",
+            "originalLanguage": "en",
+            "translationStatus": "translated",
+            "fetchedAt": "2026-08-22T04:43:29.988Z",
+            "sourceMethod": "rss",
+            "verificationStatus": "pending"
+          }
+        ],
+        "images": [],
+        "body": {
+          "background": "国际主流媒体 RSS 用于补充全球突发、政策、贸易、能源和科技事件，不能单独替代事实确认。",
+          "keyProgress": "随着数据中心的担忧迫在眉睫，副总统 JD Vance 与参议员 Jon Husted 和其他共和党领导人一起在俄亥俄州米德尔敦的一家钢铁厂工作。",
+          "whyItMatters": "重大国际变化可能通过外交、贸易、关税、能源、航运、安全或市场预期影响中国用户。",
+          "userRelevance": "这条信息已经命中中国、贸易、关税、能源或航运关联，需要进入中国用户的重点复核。",
+          "whatToWatch": "继续核对官方表态和第二个可靠来源，并关注局势变化、政策生效时间及对中国的传导路径。"
+        },
+        "impactScore": 86,
+        "severityScore": 58,
+        "freshnessScore": 95,
+        "trendScore": 72,
+        "isExample": false
+      },
+      "card": {
+        "id": "draft-real-cnbc-world-rss-lup4sd",
+        "title": "共和党警告数据中心使俄亥俄州参议院席位面临风险，赫斯特德捍卫能源政策",
+        "oneLine": "政策变化：周五，俄亥俄州共和党参议员乔恩·赫斯特德 (Jon Husted) 与副总统万斯 (JD Vance) 一起在俄亥俄州西南部的一家钢厂露面，为唐纳德·特朗普 (Donald Trump) 总统的能源和经济议程进行了辩护，共和党人警告称，对数据中心的强烈反对可能会危及他的席位。",
+        "importance": "B",
+        "credibility": "待确认",
+        "tags": [
+          "B",
+          "mustKnow",
+          "industry",
+          "world",
+          "policy",
+          "finance"
+        ],
+        "industries": [
+          "generalPublic",
+          "financeInvestment",
+          "operationsGrowth",
+          "ecommerceRetail"
+        ],
+        "section": "front",
+        "body": {
+          "background": "俄亥俄州拥有多个大型数据中心项目，其中包括拟在派克县建设的 10 吉瓦园区，耗资超过 5000 亿美元。到目前为止，我们所知道的是，赫斯特德和万斯以及其他共和党候选人，其中包括俄亥俄州州长共和党候选人维韦克·拉马斯瓦米（Vivek Ramaswamy），他与民主党人艾米·阿克顿（Amy Acton）的竞选势均力敌。几天前，全国共和党参议院委员会（NRSC）在一份备忘录中警告称，随着美国人越来越担心数据中心可能对公用事业成本产生影响，数据中心已成为本次选举周期的“沉睡问题”。",
+          "keyProgress": "但赫斯特德表示，电费上涨是民主党政策的结果，而不是数据中心建设的结果。“你想要更低的电价——我想告诉你为什么电价上涨。因为国会以及奥巴马政府和拜登政府，他们关闭了俄亥俄州的23家发电厂，占我们日常用电量的一半，”赫斯特德在俄亥俄州米德尔敦的克利夫兰-克利夫斯钢铁厂说道。”近年来，民主党和共和党总统政府都关闭了该州老化的发电厂。",
+          "whyItMatters": "“共和党警告数据中心使俄亥俄州参议院席位面临风险，赫斯特德捍卫能源政策”如果继续发展，可能通过能源价格、航运、贸易、汇率或市场预期传导到国内。了解它的意义在于判断后续风险，而不只停留在事件本身。",
+          "userRelevance": "即使你不在事发地区，“共和党警告数据中心使俄亥俄州参议院席位面临风险，赫斯特德捍卫能源政策”也可能通过能源价格、国际航运、贸易成本和市场预期间接影响国内生活与工作判断。",
+          "whatToWatch": "接下来要看“共和党警告数据中心使俄亥俄州参议院席位面临风险，赫斯特德捍卫能源政策”是否出现更细的城市、行业、平台或企业数据，以及这一变化能否连续保持。"
+        },
+        "sourceLinks": [
+          {
+            "title": "CNBC World News RSS",
+            "url": "https://www.cnbc.com/2026/08/21/jon-husted-data-centers-ohio-senate.html",
+            "sourceId": "cnbc-world-rss",
+            "publishedAt": "2026-08-21T23:12:26.000Z",
+            "language": "zh",
+            "originalLanguage": "en",
+            "translationStatus": "translated",
+            "fetchedAt": "2026-08-22T04:43:29.988Z",
+            "sourceMethod": "rss",
+            "verificationStatus": "pending"
+          }
+        ],
+        "images": [],
+        "generatedAt": "2026-08-22T04:43:18.053Z"
       }
     }
   ]

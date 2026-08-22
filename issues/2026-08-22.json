@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "publishedAt": "2026-08-22T13:16:46.975Z",
+  "publishedAt": "2026-08-22T13:38:55.321Z",
   "issue": {
     "id": "daily-public-2026-08-22",
     "date": "2026-08-22",
@@ -43,7 +43,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-22T13:16:51.302Z",
+            "fetchedAt": "2026-08-22T13:38:59.638Z",
             "sourceMethod": "rss",
             "verificationStatus": "pending"
           }
@@ -54,7 +54,7 @@
             "sourceUrl": "https://www.cnbc.com/2026/08/22/iran-criticizes-us-sanctions-extraterritorial-sovereignty.html"
           }
         ],
-        "generatedAt": "2026-08-22T13:16:46.975Z"
+        "generatedAt": "2026-08-22T13:38:55.321Z"
       },
       {
         "id": "draft-real-cnbc-world-rss-1mbanhn",
@@ -393,7 +393,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-22T13:16:51.302Z",
+            "fetchedAt": "2026-08-22T13:38:59.638Z",
             "sourceMethod": "rss",
             "verificationStatus": "pending"
           }
@@ -408,7 +408,7 @@
             "sourceUrl": "https://www.cnbc.com/2026/08/22/meet-yvonne-gonzalez-rogers-judge-taking-on-meta.html"
           }
         ],
-        "generatedAt": "2026-08-22T13:16:46.975Z"
+        "generatedAt": "2026-08-22T13:38:55.321Z"
       },
       {
         "id": "draft-real-cnbc-world-rss-1dnh3g5",
@@ -446,13 +446,13 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-22T13:16:51.302Z",
+            "fetchedAt": "2026-08-22T13:38:59.638Z",
             "sourceMethod": "rss",
             "verificationStatus": "pending"
           }
         ],
         "images": [],
-        "generatedAt": "2026-08-22T13:16:46.975Z"
+        "generatedAt": "2026-08-22T13:38:55.321Z"
       },
       {
         "id": "draft-real-cnbc-world-rss-1a5nzgs",
@@ -490,7 +490,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-22T13:16:51.302Z",
+            "fetchedAt": "2026-08-22T13:38:59.638Z",
             "sourceMethod": "rss",
             "verificationStatus": "pending"
           }
@@ -505,7 +505,7 @@
             "sourceUrl": "https://www.cnbc.com/2026/08/22/investors-market-risks-diversification-stocks-kospi.html"
           }
         ],
-        "generatedAt": "2026-08-22T13:16:46.975Z"
+        "generatedAt": "2026-08-22T13:38:55.321Z"
       },
       {
         "id": "draft-real-cnbc-world-rss-lup4sd",
@@ -1193,7 +1193,7 @@
     "estimatedReadMinutes": 40,
     "pageCount": 3,
     "topCardId": "draft-real-cnbc-world-rss-1wnengs",
-    "generatedAt": "2026-08-22T13:16:46.975Z",
+    "generatedAt": "2026-08-22T13:38:55.321Z",
     "pushSlots": [
       "08:30",
       "12:30",

@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "publishedAt": "2026-08-23T22:54:13.666Z",
+  "publishedAt": "2026-08-23T23:34:06.105Z",
   "issue": {
     "id": "daily-public-2026-08-24",
     "date": "2026-08-24",
@@ -42,13 +42,13 @@
             "language": "zh",
             "originalLanguage": "zh",
             "translationStatus": "not-needed",
-            "fetchedAt": "2026-08-23T22:54:18.937Z",
+            "fetchedAt": "2026-08-23T23:34:11.875Z",
             "sourceMethod": "web",
             "verificationStatus": "confirmed"
           }
         ],
         "images": [],
-        "generatedAt": "2026-08-23T22:54:13.666Z"
+        "generatedAt": "2026-08-23T23:34:06.105Z"
       },
       {
         "id": "draft-real-cnbc-world-rss-4k2b1b",
@@ -87,7 +87,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-23T22:54:19.900Z",
+            "fetchedAt": "2026-08-23T23:34:12.521Z",
             "sourceMethod": "rss",
             "verificationStatus": "pending"
           }
@@ -102,7 +102,7 @@
             "sourceUrl": "https://www.cnbc.com/2026/08/23/treasury-secretary-bessent-iran-sanctions-press-conference.html"
           }
         ],
-        "generatedAt": "2026-08-23T22:54:13.666Z"
+        "generatedAt": "2026-08-23T23:34:06.105Z"
       },
       {
         "id": "draft-real-mem-cn-87hk9g",
@@ -140,13 +140,13 @@
             "language": "zh",
             "originalLanguage": "zh",
             "translationStatus": "not-needed",
-            "fetchedAt": "2026-08-23T22:54:17.064Z",
+            "fetchedAt": "2026-08-23T23:34:09.423Z",
             "sourceMethod": "web",
             "verificationStatus": "confirmed"
           }
         ],
         "images": [],
-        "generatedAt": "2026-08-23T22:54:13.666Z"
+        "generatedAt": "2026-08-23T23:34:06.105Z"
       },
       {
         "id": "draft-real-xinhua-world-15n2oz1",
@@ -184,16 +184,61 @@
             "language": "zh",
             "originalLanguage": "zh",
             "translationStatus": "not-needed",
-            "fetchedAt": "2026-08-23T22:54:18.937Z",
+            "fetchedAt": "2026-08-23T23:34:11.875Z",
             "sourceMethod": "web",
             "verificationStatus": "confirmed"
           }
         ],
         "images": [],
-        "generatedAt": "2026-08-23T22:54:13.666Z"
+        "generatedAt": "2026-08-23T23:34:06.105Z"
       },
       {
-        "id": "draft-real-cnbc-world-rss-1gmc1j5",
+        "id": "draft-real-cnbc-world-rss-10052ed",
+        "title": "数据中心贸易陷入困境的原因与需求无关",
+        "oneLine": "最新进展：数据中心贸易陷入困境的原因与需求无关。",
+        "importance": "B",
+        "credibility": "待确认",
+        "tags": [
+          "B",
+          "mustKnow",
+          "industry",
+          "world",
+          "policy",
+          "finance"
+        ],
+        "industries": [
+          "generalPublic",
+          "financeInvestment",
+          "operationsGrowth",
+          "ecommerceRetail"
+        ],
+        "section": "front",
+        "body": {
+          "background": "Mehrotra 听到了包括特斯拉和 SpaceX 首席执行官埃隆·马斯克在内的一些有影响力的声音的观点，即数据中心建设的力量平衡正在向 DRAM 制造商倾斜。他想要击败韩国人，而不是让马斯克或任何其他饥饿的数据中心或新超大规模首席执行官受制于内存供应紧张。工人们知道，他们每人可以赚 20 万美元，甚至更多。",
+          "keyProgress": "Sanjay Mehrotra 自 2017 年起担任美光科技首席执行官，他不希望自己的公司成为美国和世界各地人工智能大发展的瓶颈。全球第三大动态随机存取存储器 (DRAM) 生产商美光科技 (Micron) 仅有两座最先进的晶圆厂。原因只有一个：对 DRAM 的需求如此强劲，以至于这家自豪的美国公司需要尽快将更多芯片引入数据中心，尽管英特尔等同行都关闭了美国工厂，但该公司仍坚持进行内存芯片制造。他非常关心美光科技的表现如何、这家创新公司积累了数千项专利，以及他的半导体（尤其是高带宽设备）的专业性和强大程度。",
+          "whyItMatters": "“数据中心贸易陷入困境的原因与需求无关”如果继续发展，可能通过能源价格、航运、贸易、汇率或市场预期传导到国内。了解它的意义在于判断后续风险，而不只停留在事件本身。",
+          "userRelevance": "即使你不在美国，“数据中心贸易陷入困境的原因与需求无关”也可能通过能源价格、国际航运、贸易成本和市场预期间接影响国内生活与工作判断。",
+          "whatToWatch": "接下来要看“数据中心贸易陷入困境的原因与需求无关”是否出现更细的城市、行业、平台或企业数据，以及这一变化能否连续保持。"
+        },
+        "sourceLinks": [
+          {
+            "title": "CNBC World News RSS",
+            "url": "https://www.cnbc.com/2026/08/23/whats-bogging-down-the-data-center-trade-has-nothing-to-do-with-demand.html",
+            "sourceId": "cnbc-world-rss",
+            "publishedAt": "2026-08-23T22:55:14.000Z",
+            "language": "zh",
+            "originalLanguage": "en",
+            "translationStatus": "translated",
+            "fetchedAt": "2026-08-23T23:34:12.521Z",
+            "sourceMethod": "rss",
+            "verificationStatus": "pending"
+          }
+        ],
+        "images": [],
+        "generatedAt": "2026-08-23T23:34:06.105Z"
+      },
+      {
+        "id": "draft-real-cnbc-world-rss-4egb6m",
         "title": "英国小型发电机因与伊朗有关的网络攻击而关闭：电讯报",
         "oneLine": "政策变化：Elliptic 表示，这些资金从平台钱包转移到带有明确提及 IRGC 的反政府信息的地址，这表明这是一次出于政治动机的网络攻击。",
         "importance": "B",
@@ -229,13 +274,13 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-23T22:54:19.900Z",
+            "fetchedAt": "2026-08-23T23:34:12.521Z",
             "sourceMethod": "rss",
             "verificationStatus": "pending"
           }
         ],
         "images": [],
-        "generatedAt": "2026-08-23T22:54:13.666Z"
+        "generatedAt": "2026-08-23T23:34:06.105Z"
       },
       {
         "id": "draft-real-techcrunch-ai-rss-305xl5",
@@ -274,13 +319,13 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-23T22:54:21.042Z",
+            "fetchedAt": "2026-08-23T23:34:13.870Z",
             "sourceMethod": "rss",
             "verificationStatus": "pending"
           }
         ],
         "images": [],
-        "generatedAt": "2026-08-23T22:54:13.666Z"
+        "generatedAt": "2026-08-23T23:34:06.105Z"
       },
       {
         "id": "draft-real-techcrunch-ai-rss-dm2c9v",
@@ -319,7 +364,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-23T22:54:21.042Z",
+            "fetchedAt": "2026-08-23T23:34:13.870Z",
             "sourceMethod": "rss",
             "verificationStatus": "pending"
           }
@@ -330,7 +375,7 @@
             "sourceUrl": "https://techcrunch.com/2026/08/23/linkdazes-smart-calendar-is-built-to-run-a-household-not-just-track-a-schedule/"
           }
         ],
-        "generatedAt": "2026-08-23T22:54:13.666Z"
+        "generatedAt": "2026-08-23T23:34:06.105Z"
       },
       {
         "id": "draft-real-techcrunch-ai-rss-panw0z",
@@ -369,13 +414,13 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-23T22:54:21.042Z",
+            "fetchedAt": "2026-08-23T23:34:13.870Z",
             "sourceMethod": "rss",
             "verificationStatus": "pending"
           }
         ],
         "images": [],
-        "generatedAt": "2026-08-23T22:54:13.666Z"
+        "generatedAt": "2026-08-23T23:34:06.105Z"
       },
       {
         "id": "draft-real-techcrunch-ai-rss-1qr1u02",
@@ -414,13 +459,13 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-23T22:54:21.042Z",
+            "fetchedAt": "2026-08-23T23:34:13.870Z",
             "sourceMethod": "rss",
             "verificationStatus": "pending"
           }
         ],
         "images": [],
-        "generatedAt": "2026-08-23T22:54:13.666Z"
+        "generatedAt": "2026-08-23T23:34:06.105Z"
       },
       {
         "id": "draft-real-cnbc-world-rss-1pxncq6",
@@ -458,13 +503,13 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-23T22:54:19.900Z",
+            "fetchedAt": "2026-08-23T23:34:12.521Z",
             "sourceMethod": "rss",
             "verificationStatus": "pending"
           }
         ],
         "images": [],
-        "generatedAt": "2026-08-23T22:54:13.666Z"
+        "generatedAt": "2026-08-23T23:34:06.105Z"
       },
       {
         "id": "draft-real-cnbc-world-rss-rqsyag",
@@ -502,7 +547,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-23T22:54:19.900Z",
+            "fetchedAt": "2026-08-23T23:34:12.521Z",
             "sourceMethod": "rss",
             "verificationStatus": "pending"
           }
@@ -513,13 +558,13 @@
             "sourceUrl": "https://www.cnbc.com/2026/08/22/paramount-california-ag-said-to-plan-meeting-on-settling-wbd-suit-.html"
           }
         ],
-        "generatedAt": "2026-08-23T22:54:13.666Z"
+        "generatedAt": "2026-08-23T23:34:06.105Z"
       }
     ],
-    "estimatedReadMinutes": 17,
+    "estimatedReadMinutes": 19,
     "pageCount": 2,
     "topCardId": "draft-real-xinhua-world-z0rw3z",
-    "generatedAt": "2026-08-23T22:54:13.666Z",
+    "generatedAt": "2026-08-23T23:34:06.105Z",
     "pushSlots": [
       "08:30",
       "12:30",
@@ -536,7 +581,8 @@
       "draft-real-cnbc-world-rss-4k2b1b",
       "draft-real-mem-cn-87hk9g",
       "draft-real-xinhua-world-15n2oz1",
-      "draft-real-cnbc-world-rss-1gmc1j5",
+      "draft-real-cnbc-world-rss-10052ed",
+      "draft-real-cnbc-world-rss-4egb6m",
       "draft-real-techcrunch-ai-rss-305xl5",
       "draft-real-techcrunch-ai-rss-dm2c9v",
       "draft-real-techcrunch-ai-rss-panw0z",

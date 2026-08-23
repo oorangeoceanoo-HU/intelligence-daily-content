@@ -1,0 +1,126 @@
+{
+  "schemaVersion": 2,
+  "publishedAt": "2026-08-23T13:18:06.996Z",
+  "issue": {
+    "id": "daily-public-2026-08-23",
+    "date": "2026-08-23",
+    "userId": "public",
+    "cards": [
+      {
+        "id": "draft-real-cnbc-world-rss-1vv1bw2",
+        "title": "随着美加贸易谈判破裂，卡尼表示，报复性关税将于9月8日开始",
+        "oneLine": "最新进展：随着美加贸易谈判破裂，卡尼表示，报复性关税将于9月8日开始。",
+        "importance": "S",
+        "credibility": "待确认",
+        "tags": [
+          "S",
+          "mustKnow",
+          "industry",
+          "world",
+          "policy",
+          "finance"
+        ],
+        "industries": [
+          "generalPublic",
+          "financeInvestment",
+          "operationsGrowth",
+          "ecommerceRetail"
+        ],
+        "section": "front",
+        "body": {
+          "background": "然而，双方都指责对方未能达成协议，因为关税于周六上午生效，影响了加拿大约200亿美元的出口，包括葡萄酒、家具、乳制品、水泥、服装、钓鱼竿、曲棍球装备。”加拿大总理马克·卡尼在周五发布的一份声明中表示，尽管正在努力达成协议，但“进展还不足以实现我们为加拿大人民实现的目标”，并表示“美国提议的条款在最后一刻发生的变化是不公平的、不经济的，并且让人对任何协议的可靠性产生质疑。他表示，有关这些新措施的更多细节将在未来几天内公布，此前他还指出，报复措施将是“一刀切”。",
+          "keyProgress": "唐纳德·特朗普总统在实施前几个小时推迟了原定的周三最后期限，称很快就会敲定一项协议。因此，卡尼表示，加拿大将于 9 月 8 日实施报复性关税，这些关税将针对钢铁、乳制品、农业设备、纸浆和造纸等行业。卡尼还强调了两国之间的能源关系：“加拿大推动了美国的增长……我认为他们不希望我们停止输送任何能源。周五两国贸易谈判破裂后，美国周六对部分加拿大产品征收 50% 的关税。",
+          "whyItMatters": "“随着美加贸易谈判破裂，卡尼表示，报复性关税将于9月8日开始”如果继续发展，可能通过能源价格、航运、贸易、汇率或市场预期传导到国内。了解它的意义在于判断后续风险，而不只停留在事件本身。",
+          "userRelevance": "即使你不在美国，“随着美加贸易谈判破裂，卡尼表示，报复性关税将于9月8日开始”也可能通过能源价格、国际航运、贸易成本和市场预期间接影响国内生活与工作判断。",
+          "whatToWatch": "接下来要看“随着美加贸易谈判破裂，卡尼表示，报复性关税将于9月8日开始”是否出现更细的城市、行业、平台或企业数据，以及这一变化能否连续保持。"
+        },
+        "sourceLinks": [
+          {
+            "title": "CNBC World News RSS",
+            "url": "https://www.cnbc.com/2026/08/22/us-canada-trade-talks-collapse-ushering-in-wave-of-new-tariffs.html",
+            "sourceId": "cnbc-world-rss",
+            "publishedAt": "2026-08-23T06:39:00.000Z",
+            "language": "zh",
+            "originalLanguage": "en",
+            "translationStatus": "translated",
+            "fetchedAt": "2026-08-23T13:18:11.003Z",
+            "sourceMethod": "rss",
+            "verificationStatus": "pending"
+          }
+        ],
+        "images": [
+          {
+            "url": "https://image.cnbcfm.com/api/v1/image/108220326-1762005610231-gettyimages-2239794362-imgl1067_tjnvhhcw.jpeg?v=1770826409&amp;w=750&amp;h=422&amp;vtcrop=y",
+            "sourceUrl": "https://www.cnbc.com/2026/08/22/us-canada-trade-talks-collapse-ushering-in-wave-of-new-tariffs.html"
+          }
+        ],
+        "generatedAt": "2026-08-23T13:18:06.996Z"
+      },
+      {
+        "id": "draft-real-cnbc-world-rss-1gccfu6",
+        "title": "英国小型发电机因与伊朗有关的网络攻击而关闭：电讯报",
+        "oneLine": "政策变化：Elliptic 表示，这些资金从平台钱包转移到带有明确提及 IRGC 的反政府信息的地址，这表明这是一次出于政治动机的网络攻击。",
+        "importance": "B",
+        "credibility": "待确认",
+        "tags": [
+          "B",
+          "mustKnow",
+          "industry",
+          "world",
+          "policy",
+          "finance"
+        ],
+        "industries": [
+          "generalPublic",
+          "financeInvestment",
+          "operationsGrowth",
+          "ecommerceRetail"
+        ],
+        "section": "front",
+        "body": {
+          "background": "该报称，该事件发生前后，包括联邦调查局在内的美国当局警告称，恶意网络行为者可能会针对至少七个州的供水设施进行攻击。据《每日电讯报》周日报道，英国一家小型发电厂在 7 月份遭到与伊朗有关的黑客发起的网络攻击后关闭了四天。网络安全和基础设施安全局、联邦调查局、环境保护局和其他机构将责任归咎于伊朗。",
+          "keyProgress": "这位发言人在一份声明中对 CNBC 表示：“这个故事涉及的是影响小型能源发电机的事件，在任何时候都不会对更广泛的能源系统构成风险。”政府能源安全和净零部表示，它向能源首席执行官们通报了情况，并写信给公司，就下一步行动向他们提供建议。英国政府发言人拒绝将所报道的停电归咎于伊朗，也拒绝透露具体设施的名称。我们与能源部门密切合作，保护基础设施并确保最高的安全标准。",
+          "whyItMatters": "“英国小型发电机因与伊朗有关的网络攻击而关闭：电讯报”如果继续发展，可能通过能源价格、航运、贸易、汇率或市场预期传导到国内。了解它的意义在于判断后续风险，而不只停留在事件本身。",
+          "userRelevance": "即使你不在伊朗、英国，“英国小型发电机因与伊朗有关的网络攻击而关闭：电讯报”也可能通过能源价格、国际航运、贸易成本和市场预期间接影响国内生活与工作判断。",
+          "whatToWatch": "接下来要看“英国小型发电机因与伊朗有关的网络攻击而关闭：电讯报”是否出现更细的城市、行业、平台或企业数据，以及这一变化能否连续保持。"
+        },
+        "sourceLinks": [
+          {
+            "title": "CNBC World News RSS",
+            "url": "https://www.cnbc.com/2026/08/23/small-uk-power-plant-shut-down-after-iran-linked-cyberattack-report.html",
+            "sourceId": "cnbc-world-rss",
+            "publishedAt": "2026-08-23T12:46:01.000Z",
+            "language": "zh",
+            "originalLanguage": "en",
+            "translationStatus": "translated",
+            "fetchedAt": "2026-08-23T13:18:11.003Z",
+            "sourceMethod": "rss",
+            "verificationStatus": "pending"
+          }
+        ],
+        "images": [],
+        "generatedAt": "2026-08-23T13:18:06.996Z"
+      }
+    ],
+    "estimatedReadMinutes": 4,
+    "pageCount": 1,
+    "topCardId": "draft-real-cnbc-world-rss-1vv1bw2",
+    "generatedAt": "2026-08-23T13:18:06.996Z",
+    "pushSlots": [
+      "08:30",
+      "12:30",
+      "21:30"
+    ],
+    "edition": "evening",
+    "editionLabel": "晚间更新",
+    "coverageWindow": {
+      "start": "2026-08-23T12:10:00+08:00",
+      "end": "2026-08-23T21:10:00+08:00"
+    },
+    "editionCardIds": [
+      "draft-real-cnbc-world-rss-1vv1bw2",
+      "draft-real-cnbc-world-rss-1gccfu6"
+    ],
+    "carriedCardIds": []
+  }
+}

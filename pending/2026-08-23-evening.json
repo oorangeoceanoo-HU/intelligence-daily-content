@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "publishedAt": "2026-08-23T13:18:06.996Z",
+  "publishedAt": "2026-08-23T13:40:33.024Z",
   "issue": {
     "id": "daily-public-2026-08-23",
     "date": "2026-08-23",
@@ -43,7 +43,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-23T13:18:11.003Z",
+            "fetchedAt": "2026-08-23T13:40:38.407Z",
             "sourceMethod": "rss",
             "verificationStatus": "pending"
           }
@@ -54,7 +54,7 @@
             "sourceUrl": "https://www.cnbc.com/2026/08/22/us-canada-trade-talks-collapse-ushering-in-wave-of-new-tariffs.html"
           }
         ],
-        "generatedAt": "2026-08-23T13:18:06.996Z"
+        "generatedAt": "2026-08-23T13:40:33.024Z"
       },
       {
         "id": "draft-real-cnbc-world-rss-1gccfu6",
@@ -93,19 +93,19 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-23T13:18:11.003Z",
+            "fetchedAt": "2026-08-23T13:40:38.407Z",
             "sourceMethod": "rss",
             "verificationStatus": "pending"
           }
         ],
         "images": [],
-        "generatedAt": "2026-08-23T13:18:06.996Z"
+        "generatedAt": "2026-08-23T13:40:33.024Z"
       }
     ],
     "estimatedReadMinutes": 4,
     "pageCount": 1,
     "topCardId": "draft-real-cnbc-world-rss-1vv1bw2",
-    "generatedAt": "2026-08-23T13:18:06.996Z",
+    "generatedAt": "2026-08-23T13:40:33.024Z",
     "pushSlots": [
       "08:30",
       "12:30",

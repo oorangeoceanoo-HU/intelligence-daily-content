@@ -1,10 +1,10 @@
 {
   "version": 1,
   "date": "2026-08-23",
-  "generatedAt": "2026-08-23T13:20:47.968Z",
+  "generatedAt": "2026-08-23T13:43:05.018Z",
   "status": "blocked",
   "reviewMode": "generated",
-  "candidateSha256": "000b332e48e8ad018c55c0b60cdae736d9ed8f79fb8217f6753d9dd77a6275e3",
+  "candidateSha256": "f874758ede133ab429720dd7813475b1dbe59abd5c297181e3fd954afa6554e0",
   "counts": {
     "cards": 2,
     "pages": 1,

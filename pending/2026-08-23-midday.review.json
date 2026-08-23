@@ -1,0 +1,61 @@
+{
+  "version": 1,
+  "date": "2026-08-23",
+  "generatedAt": "2026-08-23T04:23:18.799Z",
+  "status": "blocked",
+  "reviewMode": "generated",
+  "candidateSha256": "7fed58e17752a29f5cdd7dbca512b746fd8e46f8cbecbf01e1cfc6a258e7b5fc",
+  "counts": {
+    "cards": 0,
+    "pages": 0,
+    "rawItems": 3,
+    "freshCandidates": 2,
+    "publishableCards": 0,
+    "reviewableCards": 0,
+    "rejectedCards": 0,
+    "blockers": 5,
+    "warnings": 3
+  },
+  "findings": [
+    {
+      "level": "blocker",
+      "code": "too-few-cards",
+      "message": "当前只有 0 条，无法形成每版约 5 条的三版完整日报；系统会保留上一份合格日报，不会用旧闻或未核实内容凑数。"
+    },
+    {
+      "level": "blocker",
+      "code": "page-overflow",
+      "message": "至少有一个版面会超过 10 条，阅读密度过高。"
+    },
+    {
+      "level": "blocker",
+      "code": "missing-base-edition",
+      "message": "午间或晚间更新没有找到当天更早且已批准的版次，不能把一小段增量内容当作完整日报发布。"
+    },
+    {
+      "level": "blocker",
+      "code": "empty-edition-update",
+      "message": "本时段没有新增或替换任何信息，不需要发布一份内容不变的更新。"
+    },
+    {
+      "level": "warning",
+      "code": "source-fetch-failures",
+      "message": "有 1 个来源抓取失败，需要确认是否影响当天覆盖面。"
+    },
+    {
+      "level": "blocker",
+      "code": "current-coverage-chinaImpact",
+      "message": "中国关联与贸易政策在本时段没有足够的新输入：需要至少 1 个来源，当前为 0 个。"
+    },
+    {
+      "level": "warning",
+      "code": "current-coverage-industry",
+      "message": "行业与 AI 产品在本时段没有新的可用条目：已监测 10 个可访问来源，但当前只命中 0 个。当前公共版覆盖多个行业；正式个性化版本仍需按用户画像选择对应来源组合。"
+    },
+    {
+      "level": "warning",
+      "code": "current-coverage-local",
+      "message": "居住城市与家乡城市：上海、杭州、伦敦、深圳、长春、宿州、汕尾在本时段没有新的可用条目：已监测 1 个可访问来源，但当前只命中 0 个。公共共享日报会监测示例城市，但城市无新增不能阻止其他核心内容出版；发现线索仍需官方或主流来源确认。"
+    }
+  ]
+}

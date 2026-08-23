@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 2,
+  "publishedAt": "2026-08-23T04:20:45.761Z",
+  "issue": {
+    "id": "daily-public-2026-08-23",
+    "date": "2026-08-23",
+    "userId": "public",
+    "cards": [],
+    "estimatedReadMinutes": 0,
+    "pageCount": 0,
+    "generatedAt": "2026-08-23T04:20:45.761Z",
+    "pushSlots": [
+      "08:30",
+      "12:30",
+      "21:30"
+    ],
+    "edition": "midday",
+    "editionLabel": "午间更新",
+    "coverageWindow": {
+      "start": "2026-08-23T07:10:00+08:00",
+      "end": "2026-08-23T12:10:00+08:00"
+    },
+    "editionCardIds": [],
+    "carriedCardIds": []
+  }
+}

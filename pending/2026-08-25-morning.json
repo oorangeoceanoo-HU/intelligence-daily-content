@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "publishedAt": "2026-08-24T22:57:20.181Z",
+  "publishedAt": "2026-08-24T23:33:46.966Z",
   "issue": {
     "id": "daily-public-2026-08-25",
     "date": "2026-08-25",
@@ -43,7 +43,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-24T22:57:23.467Z",
+            "fetchedAt": "2026-08-24T23:33:50.968Z",
             "sourceMethod": "rss",
             "verificationStatus": "confirmed"
           }
@@ -58,7 +58,7 @@
             "sourceUrl": "https://www.npr.org/2026/08/24/g-s1-139743/treasury-secretary-scott-bessent-to-unveil-new-economic-sanctions-on-iran"
           }
         ],
-        "generatedAt": "2026-08-24T22:57:20.181Z"
+        "generatedAt": "2026-08-24T23:33:46.966Z"
       },
       {
         "id": "draft-real-npr-world-rss-1sdr7bo",
@@ -97,7 +97,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-24T22:57:23.467Z",
+            "fetchedAt": "2026-08-24T23:33:50.968Z",
             "sourceMethod": "rss",
             "verificationStatus": "confirmed"
           }
@@ -116,57 +116,7 @@
             "sourceUrl": "https://www.npr.org/2026/08/24/g-s1-139736/up-first-newsletter-iran-economic-pressures-canada-tariffs-trump-visa-ban"
           }
         ],
-        "generatedAt": "2026-08-24T22:57:20.181Z"
-      },
-      {
-        "id": "draft-real-cnbc-world-rss-18hh3a8",
-        "title": "随着德黑兰威胁扣押船只，美国将公布对伊朗的“最大金融攻势”",
-        "oneLine": "政策变化：美国财政部长斯科特·贝森特在本文中表示，美国将于周一对伊朗发起“有史以来最大规模的金融攻势”，而德黑兰则威胁要扣押违反霍尔木兹海峡过境规则的船只。",
-        "importance": "S",
-        "credibility": "待确认",
-        "tags": [
-          "S",
-          "mustKnow",
-          "industry",
-          "world",
-          "policy",
-          "finance"
-        ],
-        "industries": [
-          "generalPublic",
-          "financeInvestment",
-          "operationsGrowth",
-          "ecommerceRetail"
-        ],
-        "section": "front",
-        "body": {
-          "background": "他此前曾警告称，将对与伊朗开展业务的国家和实体实施进一步的二级制裁。”伊朗的回应是警告海湾邻国不要加入美国的经济措施，并加强对这个咽喉要道的控制，此前世界上大约五分之一的海运石油都经过这个咽喉要道。紧张局势即将升级之际，双方都错过了达成协议所需的 60 天停火窗口，旨在结束中东战争的正式停火机制现已进入第六个月。",
-          "keyProgress": "据《海湾新闻》报道，尽管人们对新经济制裁的具体细节知之甚少，但伊朗里亚尔周日创下公开市场新低，美元兑美元突破 200 万里亚尔。贝森特周日在《金融时报》上撰文补充道：“伊朗的推动者购买和运输石油。贝森特在周日晚间美国《X》杂志上发表的一篇文章中表示，“经济诺曼底登陆日在黎明时开始”，并将即将采取的措施视为华盛顿针对德黑兰的行动的“最后阶段”。新措施将进一步加强已经针对伊朗银行、能源、航空和加密货币行业的广泛制裁制度。",
-          "whyItMatters": "“随着德黑兰威胁扣押船只，美国将公布对伊朗的最大金融攻势”如果继续发展，可能通过能源价格、航运、贸易、汇率或市场预期传导到国内。了解它的意义在于判断后续风险，而不只停留在事件本身。",
-          "userRelevance": "即使你不在美国、伊朗，“随着德黑兰威胁扣押船只，美国将公布对伊朗的最大金融攻势”也可能通过能源价格、国际航运、贸易成本和市场预期间接影响国内生活与工作判断。",
-          "whatToWatch": "接下来要看“随着德黑兰威胁扣押船只，美国将公布对伊朗的最大金融攻势”是否出现更细的城市、行业、平台或企业数据，以及这一变化能否连续保持。"
-        },
-        "sourceLinks": [
-          {
-            "title": "CNBC World News RSS",
-            "url": "https://www.cnbc.com/2026/08/24/us-iran-war-trump-hormuz-bessent-economic-sanctions-.html",
-            "sourceId": "cnbc-world-rss",
-            "publishedAt": "2026-08-24T11:51:45.000Z",
-            "language": "zh",
-            "originalLanguage": "en",
-            "translationStatus": "translated",
-            "fetchedAt": "2026-08-24T22:57:23.850Z",
-            "sourceMethod": "rss",
-            "verificationStatus": "pending"
-          }
-        ],
-        "images": [
-          {
-            "url": "https://image.cnbcfm.com/api/v1/image/108352206-17872396781787239671-47882470748-1080pnbcnews.jpg?v=1787239677&amp;w=750&amp;h=422&amp;vtcrop=y",
-            "sourceUrl": "https://www.cnbc.com/2026/08/24/us-iran-war-trump-hormuz-bessent-economic-sanctions-.html"
-          }
-        ],
-        "generatedAt": "2026-08-24T22:57:20.181Z"
+        "generatedAt": "2026-08-24T23:33:46.966Z"
       },
       {
         "id": "draft-real-npr-world-rss-hlulk7",
@@ -200,7 +150,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-24T22:57:23.467Z",
+            "fetchedAt": "2026-08-24T23:33:50.968Z",
             "sourceMethod": "rss",
             "verificationStatus": "confirmed"
           }
@@ -211,10 +161,10 @@
             "sourceUrl": "https://www.npr.org/2026/08/24/nx-s1-5943188/six-months-on-u-s-navy-families-who-evacauated-bahrain-remain-in-limbo"
           }
         ],
-        "generatedAt": "2026-08-24T22:57:20.181Z"
+        "generatedAt": "2026-08-24T23:33:46.966Z"
       },
       {
-        "id": "draft-cluster-real-un-news-rss-1abcfnu",
+        "id": "draft-cluster-real-un-news-rss-1alc1ct",
         "title": "安理会直播：俄罗斯-乌克兰战争中平民苦难加剧",
         "oneLine": "最新进展：安理会直播：俄罗斯-乌克兰战争中平民苦难加剧。",
         "importance": "S",
@@ -248,7 +198,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-24T22:57:23.803Z",
+            "fetchedAt": "2026-08-24T23:33:51.552Z",
             "sourceMethod": "rss",
             "verificationStatus": "confirmed"
           },
@@ -260,7 +210,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-24T22:57:23.803Z",
+            "fetchedAt": "2026-08-24T23:33:51.552Z",
             "sourceMethod": "rss",
             "verificationStatus": "confirmed"
           }
@@ -275,10 +225,10 @@
             "sourceUrl": "https://news.un.org/feed/view/en/story/2026/08/1168188"
           }
         ],
-        "generatedAt": "2026-08-24T22:57:20.181Z"
+        "generatedAt": "2026-08-24T23:33:46.966Z"
       },
       {
-        "id": "draft-real-cnbc-world-rss-68mja5",
+        "id": "draft-real-cnbc-world-rss-5onbw7",
         "title": "欧洲领导人会晤时，法国和英国加强对乌克兰的导弹支持",
         "oneLine": "政策变化：法国总统马克龙、英国首相安迪·伯纳姆和德国总理弗里德里希·梅尔茨周一将共同主持一次意愿联盟会议，旨在加强对乌克兰的支持并加大对俄罗斯的压力。",
         "importance": "A",
@@ -314,13 +264,13 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-24T22:57:23.850Z",
+            "fetchedAt": "2026-08-24T23:33:51.548Z",
             "sourceMethod": "rss",
             "verificationStatus": "pending"
           }
         ],
         "images": [],
-        "generatedAt": "2026-08-24T22:57:20.181Z"
+        "generatedAt": "2026-08-24T23:33:46.966Z"
       },
       {
         "id": "draft-real-mem-cn-1atu5tw",
@@ -358,16 +308,149 @@
             "language": "zh",
             "originalLanguage": "zh",
             "translationStatus": "not-needed",
-            "fetchedAt": "2026-08-24T22:57:22.385Z",
+            "fetchedAt": "2026-08-24T23:33:49.171Z",
             "sourceMethod": "web",
             "verificationStatus": "confirmed"
           }
         ],
         "images": [],
-        "generatedAt": "2026-08-24T22:57:20.181Z"
+        "generatedAt": "2026-08-24T23:33:46.966Z"
       },
       {
-        "id": "draft-real-gov-uk-news-1dqw5dl",
+        "id": "draft-real-cnbc-world-rss-13q296f",
+        "title": "CNBC的The China Connection时事通讯：机器人需要帮助学习人类技能。这些人工智能公司正在争先恐后地满足需求",
+        "oneLine": "最新进展：CNBC的The China Connection时事通讯：机器人需要帮助学习人类技能。这些人工智能公司正在争先恐后地满足需求。",
+        "importance": "B",
+        "credibility": "待确认",
+        "tags": [
+          "B",
+          "mustKnow",
+          "industry",
+          "world",
+          "policy",
+          "finance"
+        ],
+        "industries": [
+          "generalPublic",
+          "financeInvestment",
+          "operationsGrowth",
+          "ecommerceRetail"
+        ],
+        "section": "front",
+        "body": {
+          "background": "Unitree创始人上周在世界机器人大会上提醒大家，类人机器人面临的最大挑战是学习人类技能。创始人兼首席执行官高海川告诉我，QJ Robots 是一家帮助机器人学习人类技能的初创公司，得到了淡马锡的支持。该公司的人工智能模型专注于帮助机器人预测周围的世界并更有效地执行任务。",
+          "keyProgress": "QJ Robots 声称，通过将该模型部署到超过 10 万个机器人上，该公司已经赚了超过 1 亿元人民币（1500 万美元），其中大部分是由中国大陆的公司开发的。但这还不够——他说需要更多种类的数据来有效地训练模型。张和首席执行官高都拥有清华大学自动化博士学位，他们成立三年的公司是在清华大学的脑计算研究中心起步的。这都是科技行业日益关注世界模型的一部分，世界模型的目标是比专注于文本生成的 ChatGPT 类型的“大语言模型”更接近地模仿物理世界。",
+          "whyItMatters": "“CNBC的The China Connection时事通讯”如果继续发展，可能通过能源价格、航运、贸易、汇率或市场预期传导到国内。了解它的意义在于判断后续风险，而不只停留在事件本身。",
+          "userRelevance": "即使你不在中国，“CNBC的The China Connection时事通讯”也可能通过能源价格、国际航运、贸易成本和市场预期间接影响国内生活与工作判断。",
+          "whatToWatch": "接下来要看“CNBC的The China Connection时事通讯”是否出现更细的城市、行业、平台或企业数据，以及这一变化能否连续保持。"
+        },
+        "sourceLinks": [
+          {
+            "title": "CNBC World News RSS",
+            "url": "https://www.cnbc.com/2026/08/24/cnbcs-the-china-connection-newsletter-piling-into-human-skills-ai.html",
+            "sourceId": "cnbc-world-rss",
+            "publishedAt": "2026-08-24T23:00:01.000Z",
+            "language": "zh",
+            "originalLanguage": "en",
+            "translationStatus": "translated",
+            "fetchedAt": "2026-08-24T23:33:51.548Z",
+            "sourceMethod": "rss",
+            "verificationStatus": "pending"
+          }
+        ],
+        "images": [],
+        "generatedAt": "2026-08-24T23:33:46.966Z"
+      },
+      {
+        "id": "draft-real-un-news-rss-mjbtg8",
+        "title": "100天的埃博拉疫情和阻止疫情蔓延的竞赛",
+        "oneLine": "最新进展：100天的埃博拉疫情和阻止疫情蔓延的竞赛。",
+        "importance": "B",
+        "credibility": "官方来源",
+        "tags": [
+          "B",
+          "mustKnow",
+          "world"
+        ],
+        "industries": [
+          "generalPublic"
+        ],
+        "section": "front",
+        "body": {
+          "background": "鉴于刚果民主共和国东部武装团体之间持续发生的冲突、与冲突有关的流离失所和日益严重的饥饿，世卫组织呼吁加大应对力度。世卫组织总干事特德罗斯·阿达诺姆·盖布雷耶苏斯表示：“在受影响的社区中进行应对。治疗能力从不足10个床位跃升至1300多个床位，社区参与活动截至 8 月 18 日，接触者追踪率已从疫情爆发第一周的 9% 上升至 84%，包括对潜在治疗方法的临床试验、候选疫苗的评估以及针对本迪布焦病毒的首个分子诊断测试的推出。",
+          "keyProgress": "在100天内，应对措施的规模和能力大幅增长，检测网络从单一地点扩大到19个实验室，目前每天能够分析3000多个样本。世界卫生组织（WHO）报告称，前三个月平均每天记录近 90 例确诊病例，这一数字高于刚果民主共和国 2018 年至 2020 年的疫情爆发率。已有 5,515 例病例和 2,642 人死亡，意味着死亡率接近 48% 疫情目前影响到六个省，伊图里仍然是疫情中心，约占病例数和死亡人数的 79%。”他还强调了由国家和地方当局领导、配备必要资源并得到坚定合作伙伴支持的应对措施的重要性。",
+          "whyItMatters": "“100天的埃博拉疫情和阻止疫情蔓延的竞赛”如果继续发展，可能通过能源价格、航运、贸易、汇率或市场预期传导到国内。了解它的意义在于判断后续风险，而不只停留在事件本身。",
+          "userRelevance": "即使你不在事发地区，“100天的埃博拉疫情和阻止疫情蔓延的竞赛”也可能通过能源价格、国际航运、贸易成本和市场预期间接影响国内生活与工作判断。",
+          "whatToWatch": "接下来要看“100天的埃博拉疫情和阻止疫情蔓延的竞赛”是否出现新的官方信息、后续行动，以及它与中国出行、贸易或公共判断的关联是否扩大。"
+        },
+        "sourceLinks": [
+          {
+            "title": "联合国新闻 RSS",
+            "url": "https://news.un.org/feed/view/en/story/2026/08/1168195",
+            "sourceId": "un-news-rss",
+            "publishedAt": "2026-08-24T12:00:00.000Z",
+            "language": "zh",
+            "originalLanguage": "en",
+            "translationStatus": "translated",
+            "fetchedAt": "2026-08-24T23:33:51.552Z",
+            "sourceMethod": "rss",
+            "verificationStatus": "confirmed"
+          }
+        ],
+        "images": [
+          {
+            "url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/08/18-08-2026-UNOCHA-DR-Congo-ebola-05.jpg/image560x340cropped.jpg",
+            "sourceUrl": "https://news.un.org/feed/view/en/story/2026/08/1168195"
+          }
+        ],
+        "generatedAt": "2026-08-24T23:33:46.966Z"
+      },
+      {
+        "id": "draft-real-un-news-rss-k853u9",
+        "title": "加沙：尽管急性饥饿现象有所减少，但儿童仍面临风险",
+        "oneLine": "最新进展：加沙：尽管急性饥饿现象有所减少，但儿童仍面临风险。",
+        "importance": "B",
+        "credibility": "官方来源",
+        "tags": [
+          "B",
+          "mustKnow",
+          "world"
+        ],
+        "industries": [
+          "generalPublic"
+        ],
+        "section": "front",
+        "body": {
+          "background": "哈马斯与以色列之间的战争持续了两年，以色列严格限制粮食进入巴勒斯坦被占领土，并发动了造成破坏的袭击，导致 2025 年 8 月发生饥荒。2025 年 8 月，联合国支持的粮食不安全措施 IPC 证实加沙发生饥荒。当时，自 2023 年战争爆发以来，人道主义准入受到严格限制，当月有 17,000 名儿童被送往加沙的医院接受急性营养不良治疗。",
+          "keyProgress": "到 2026 年 3 月，这一数字下降至 3,000，但87% 的农田 2025 年 10 月停火后，以色列允许更多人道主义援助进入加沙，从而提高了粮食安全 2026 年 5 月 31 日至 6 月 15 日期间，情况进一步改善，目前只有约 1% 的儿童出现严重营养不良或严重消瘦的迹象，但严重饥饿的长期影响仍然存在 根据联合国儿童基金会的最新调查，12.2%（八分之一的儿童）长期营养不良，儿童基金会中东和北非区域主任爱德华·贝格贝德 (Edouard Beigbeder) 表示，尽管自 2025 年 10 月停火以来，人道主义援助有所增加，但两年多的战争造成的伤亡人数可能会持续增加，但这种损害可能是永久性的：“严重营养不良可以在几周内得到改善”。自十月停火以来，以色列放松了对人道主义援助入境的限制，这有助于防止大规模饥荒。",
+          "whyItMatters": "“加沙：尽管急性饥饿现象有所减少，但儿童仍面临风险”如果继续发展，可能通过能源价格、航运、贸易、汇率或市场预期传导到国内。了解它的意义在于判断后续风险，而不只停留在事件本身。",
+          "userRelevance": "即使你不在加沙，“加沙：尽管急性饥饿现象有所减少，但儿童仍面临风险”也可能通过能源价格、国际航运、贸易成本和市场预期间接影响国内生活与工作判断。",
+          "whatToWatch": "接下来要看“加沙：尽管急性饥饿现象有所减少，但儿童仍面临风险”是否出现新的官方信息、后续行动，以及它与中国出行、贸易或公共判断的关联是否扩大。"
+        },
+        "sourceLinks": [
+          {
+            "title": "联合国新闻 RSS",
+            "url": "https://news.un.org/feed/view/en/story/2026/08/1168193",
+            "sourceId": "un-news-rss",
+            "publishedAt": "2026-08-24T12:00:00.000Z",
+            "language": "zh",
+            "originalLanguage": "en",
+            "translationStatus": "translated",
+            "fetchedAt": "2026-08-24T23:33:51.552Z",
+            "sourceMethod": "rss",
+            "verificationStatus": "confirmed"
+          }
+        ],
+        "images": [
+          {
+            "url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/13-05-2026-IOM-Gaza-04.jpg/image560x340cropped.jpg",
+            "sourceUrl": "https://news.un.org/feed/view/en/story/2026/08/1168193"
+          }
+        ],
+        "generatedAt": "2026-08-24T23:33:46.966Z"
+      },
+      {
+        "id": "draft-real-gov-uk-news-1d6wxzn",
         "title": "历史悠久的市议会房屋建筑卷土重来，帮助家庭成为安全的家园",
         "oneLine": "风险提醒：《历史悠久的市议会房屋建筑卷土重来，帮助家庭成为安全的家园》我们使用一些必要的 cookie 来使该网站正常运行。",
         "importance": "B",
@@ -401,7 +484,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-24T22:57:23.592Z",
+            "fetchedAt": "2026-08-24T23:33:51.606Z",
             "sourceMethod": "rss",
             "verificationStatus": "confirmed"
           }
@@ -412,7 +495,7 @@
             "sourceUrl": "https://www.gov.uk/government/news/historic-council-housebuilding-comeback-to-help-families-into-secure-homes"
           }
         ],
-        "generatedAt": "2026-08-24T22:57:20.181Z"
+        "generatedAt": "2026-08-24T23:33:46.966Z"
       },
       {
         "id": "draft-real-xinhua-tech-13a3t8e",
@@ -452,13 +535,13 @@
             "language": "zh",
             "originalLanguage": "zh",
             "translationStatus": "not-needed",
-            "fetchedAt": "2026-08-24T22:57:23.716Z",
+            "fetchedAt": "2026-08-24T23:33:50.928Z",
             "sourceMethod": "web",
             "verificationStatus": "confirmed"
           }
         ],
         "images": [],
-        "generatedAt": "2026-08-24T22:57:20.181Z"
+        "generatedAt": "2026-08-24T23:33:46.966Z"
       },
       {
         "id": "draft-real-xinhua-tech-j9crr6",
@@ -498,16 +581,16 @@
             "language": "zh",
             "originalLanguage": "zh",
             "translationStatus": "not-needed",
-            "fetchedAt": "2026-08-24T22:57:23.716Z",
+            "fetchedAt": "2026-08-24T23:33:50.928Z",
             "sourceMethod": "web",
             "verificationStatus": "confirmed"
           }
         ],
         "images": [],
-        "generatedAt": "2026-08-24T22:57:20.181Z"
+        "generatedAt": "2026-08-24T23:33:46.966Z"
       },
       {
-        "id": "draft-cluster-real-cnbc-world-rss-n1x7vs",
+        "id": "draft-cluster-real-cnbc-world-rss-o5vmno",
         "title": "Shein 的目标是在香港 IPO 融资 270 亿美元——这只是其 2022 年估值的一小部分",
         "oneLine": "政策变化：根据周一提交的文件，Shein 计划在首次公开募股中筹集至多 138.6 亿港元（合 17.7 亿美元）。",
         "importance": "B",
@@ -542,7 +625,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-24T22:57:23.850Z",
+            "fetchedAt": "2026-08-24T23:33:51.548Z",
             "sourceMethod": "rss",
             "verificationStatus": "pending"
           },
@@ -554,7 +637,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-24T22:57:23.537Z",
+            "fetchedAt": "2026-08-24T23:33:51.159Z",
             "sourceMethod": "rss",
             "verificationStatus": "pending"
           }
@@ -565,10 +648,10 @@
             "sourceUrl": "https://news.sky.com/story/shein-targets-valuation-of-just-27bn-in-stock-market-flotation-13576490"
           }
         ],
-        "generatedAt": "2026-08-24T22:57:20.181Z"
+        "generatedAt": "2026-08-24T23:33:46.966Z"
       },
       {
-        "id": "draft-real-cnbc-world-rss-3yrw3p",
+        "id": "draft-real-cnbc-world-rss-4ir3hn",
         "title": "一场大规模的黄金交易刚刚发生。期权市场热闹非凡",
         "oneLine": "最新进展：一场大规模的黄金交易刚刚发生。期权市场热闹非凡。",
         "importance": "B",
@@ -603,7 +686,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-24T22:57:23.850Z",
+            "fetchedAt": "2026-08-24T23:33:51.548Z",
             "sourceMethod": "rss",
             "verificationStatus": "pending"
           }
@@ -614,10 +697,10 @@
             "sourceUrl": "https://www.cnbc.com/2026/08/24/a-massive-trade-just-happened-in-gold-the-options-market-is-buzzing.html"
           }
         ],
-        "generatedAt": "2026-08-24T22:57:20.181Z"
+        "generatedAt": "2026-08-24T23:33:46.966Z"
       },
       {
-        "id": "draft-real-cnbc-world-rss-1p9gzzf",
+        "id": "draft-real-cnbc-world-rss-1qxem59",
         "title": "UPS 将投资 20 亿美元用于国际、医疗保健和供应链业务",
         "oneLine": "政策变化：联合包裹服务公司周一独家向 CNBC 透露，在本文中，联合包裹服务公司将对其国际、医疗保健和供应链解决方案业务投资超过 20 亿美元。",
         "importance": "B",
@@ -652,63 +735,19 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-24T22:57:23.850Z",
+            "fetchedAt": "2026-08-24T23:33:51.548Z",
             "sourceMethod": "rss",
             "verificationStatus": "pending"
           }
         ],
         "images": [],
-        "generatedAt": "2026-08-24T22:57:20.181Z"
-      },
-      {
-        "id": "draft-real-cnbc-world-rss-1nflaho",
-        "title": "桑托利：为什么现在对债券收益率如此大惊小怪",
-        "oneLine": "最新进展：桑托利：为什么现在对债券收益率如此大惊小怪。",
-        "importance": "B",
-        "credibility": "待确认",
-        "tags": [
-          "B",
-          "industry",
-          "world",
-          "policy",
-          "finance"
-        ],
-        "industries": [
-          "generalPublic",
-          "financeInvestment",
-          "operationsGrowth",
-          "ecommerceRetail"
-        ],
-        "section": "industry",
-        "body": {
-          "background": "正是在这种背景下，财政部长斯科特·贝森特上周试图通过扩大现有计划，在公开市场上回购少量流动性较差的政府债务，来抑制长期国债收益率。美国经济正值成熟的夏季，空调恒温器挂在家里最热的房间——厨房里，阳光照进厨房，烤箱总是在烘烤。在这种情况下，债券市场是恒温器，它通过将借贷成本提高到多年来的高点来抵消政府和企业对债务的强劲需求。",
-          "keyProgress": "此举引发了市场参与者和评论员相当过热的反应，要么是因为财政部长指责其前任不当操纵市场利率，要么是因为规模太小而无足轻重，要么是两者兼而有之。对美国结构性赤字融资能力的不安就像一种自身免疫性疾病：在资本支出过热和战争通胀反馈循环等不利市场刺激的压力下，这种不安会突然爆发，然后往往会再次陷入休眠状态。厨房是人工智能的建设领域，迫切希望在明年年底前将约 2 万亿美元转化为巨大的计算能力储备。债券收益率的上升并没有对减缓融资和企业投资的步伐产生太大影响。",
-          "whyItMatters": "“桑托利：为什么现在对债券收益率如此大惊小怪”如果继续发展，可能通过能源价格、航运、贸易、汇率或市场预期传导到国内。了解它的意义在于判断后续风险，而不只停留在事件本身。",
-          "userRelevance": "即使你不在事发地区，“桑托利：为什么现在对债券收益率如此大惊小怪”也可能通过能源价格、国际航运、贸易成本和市场预期间接影响国内生活与工作判断。",
-          "whatToWatch": "接下来要看“桑托利：为什么现在对债券收益率如此大惊小怪”是否出现更细的城市、行业、平台或企业数据，以及这一变化能否连续保持。"
-        },
-        "sourceLinks": [
-          {
-            "title": "CNBC World News RSS",
-            "url": "https://www.cnbc.com/2026/08/24/why-all-the-fuss-about-bond-yields-is-happening-now.html",
-            "sourceId": "cnbc-world-rss",
-            "publishedAt": "2026-08-24T12:31:13.000Z",
-            "language": "zh",
-            "originalLanguage": "en",
-            "translationStatus": "translated",
-            "fetchedAt": "2026-08-24T22:57:23.850Z",
-            "sourceMethod": "rss",
-            "verificationStatus": "pending"
-          }
-        ],
-        "images": [],
-        "generatedAt": "2026-08-24T22:57:20.181Z"
+        "generatedAt": "2026-08-24T23:33:46.966Z"
       }
     ],
-    "estimatedReadMinutes": 22,
-    "pageCount": 2,
+    "estimatedReadMinutes": 24,
+    "pageCount": 3,
     "topCardId": "draft-real-npr-world-rss-1tklv87",
-    "generatedAt": "2026-08-24T22:57:20.181Z",
+    "generatedAt": "2026-08-24T23:33:46.966Z",
     "pushSlots": [
       "08:30",
       "12:30",
@@ -723,18 +762,19 @@
     "editionCardIds": [
       "draft-real-npr-world-rss-1tklv87",
       "draft-real-npr-world-rss-1sdr7bo",
-      "draft-real-cnbc-world-rss-18hh3a8",
       "draft-real-npr-world-rss-hlulk7",
-      "draft-cluster-real-un-news-rss-1abcfnu",
-      "draft-real-cnbc-world-rss-68mja5",
+      "draft-cluster-real-un-news-rss-1alc1ct",
+      "draft-real-cnbc-world-rss-5onbw7",
       "draft-real-mem-cn-1atu5tw",
-      "draft-real-gov-uk-news-1dqw5dl",
+      "draft-real-cnbc-world-rss-13q296f",
+      "draft-real-un-news-rss-mjbtg8",
+      "draft-real-un-news-rss-k853u9",
+      "draft-real-gov-uk-news-1d6wxzn",
       "draft-real-xinhua-tech-13a3t8e",
       "draft-real-xinhua-tech-j9crr6",
-      "draft-cluster-real-cnbc-world-rss-n1x7vs",
-      "draft-real-cnbc-world-rss-3yrw3p",
-      "draft-real-cnbc-world-rss-1p9gzzf",
-      "draft-real-cnbc-world-rss-1nflaho"
+      "draft-cluster-real-cnbc-world-rss-o5vmno",
+      "draft-real-cnbc-world-rss-4ir3hn",
+      "draft-real-cnbc-world-rss-1qxem59"
     ],
     "carriedCardIds": []
   }

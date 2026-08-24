@@ -1,0 +1,741 @@
+{
+  "schemaVersion": 2,
+  "publishedAt": "2026-08-24T22:57:20.181Z",
+  "issue": {
+    "id": "daily-public-2026-08-25",
+    "date": "2026-08-25",
+    "userId": "public",
+    "cards": [
+      {
+        "id": "draft-real-npr-world-rss-1tklv87",
+        "title": "美国财政部长斯科特·贝森特（ Scott Bessent ）公布新的美国经济制裁措施，以孤立伊朗",
+        "oneLine": "最新进展：美国财政部长斯科特·贝森特（ Scott Bessent ）公布新的美国经济制裁措施，以孤立伊朗。",
+        "importance": "S",
+        "credibility": "主流媒体",
+        "tags": [
+          "S",
+          "mustKnow",
+          "industry",
+          "world",
+          "policy",
+          "finance"
+        ],
+        "industries": [
+          "generalPublic",
+          "financeInvestment",
+          "operationsGrowth",
+          "ecommerceRetail"
+        ],
+        "section": "front",
+        "body": {
+          "background": "美国财政部长斯科特·贝森特周一公布了美国对伊朗的新一轮经济制裁及其所谓的“推动因素”，称这是对该国全球金融联系的“经济冲击”。”他没有详细说明包括中国在内的伊朗最大贸易伙伴何时可能面临二级制裁的时间表。每个工作日收听 NPR 的《世界状况》播客，只需几分钟即可从人类视角了解全球故事。",
+          "keyProgress": "当一名记者询问中资银行是否会成为政府新措施的目标时，贝森特表示，“我们今天想在此明确表示，没有人能逃脱美国制裁的范围。”美国已经对伊朗实施了广泛的制裁，其中一些制裁可以追溯到近 50 年前。就在六月，美国还对帮助伊朗规避现有金融限制的实体实施了进一步的处罚。他说：“我们的目标是切断维持这个暴政政权的每条经济命脉，直到德黑兰独立。",
+          "whyItMatters": "“美国财政部长斯科特·贝森特公布新的美国经济制裁措施，以孤立伊朗”如果继续发展，可能通过能源价格、航运、贸易、汇率或市场预期传导到国内。了解它的意义在于判断后续风险，而不只停留在事件本身。",
+          "userRelevance": "即使你不在美国、伊朗，“美国财政部长斯科特·贝森特公布新的美国经济制裁措施，以孤立伊朗”也可能通过能源价格、国际航运、贸易成本和市场预期间接影响国内生活与工作判断。",
+          "whatToWatch": "接下来要看“美国财政部长斯科特·贝森特公布新的美国经济制裁措施，以孤立伊朗”是否出现更细的城市、行业、平台或企业数据，以及这一变化能否连续保持。"
+        },
+        "sourceLinks": [
+          {
+            "title": "NPR World RSS",
+            "url": "https://www.npr.org/2026/08/24/g-s1-139743/treasury-secretary-scott-bessent-to-unveil-new-economic-sanctions-on-iran",
+            "sourceId": "npr-world-rss",
+            "publishedAt": "2026-08-24T12:26:00.000Z",
+            "language": "zh",
+            "originalLanguage": "en",
+            "translationStatus": "translated",
+            "fetchedAt": "2026-08-24T22:57:23.467Z",
+            "sourceMethod": "rss",
+            "verificationStatus": "confirmed"
+          }
+        ],
+        "images": [
+          {
+            "url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3790x2534+0+0/resize/1100/quality/50/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F68%2F1c%2F23da8dcd4c6d9d50ba932deba0e5%2Fap26236622592645.jpg",
+            "sourceUrl": "https://www.npr.org/2026/08/24/g-s1-139743/treasury-secretary-scott-bessent-to-unveil-new-economic-sanctions-on-iran"
+          },
+          {
+            "url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3000x3000+0+0/resize/100/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fa4%2Fca%2Fb842d62f4895b2d8f64dd4edced2%2Fefe1e326-96a0-480b-98fb-5f885b59d838.jpg",
+            "sourceUrl": "https://www.npr.org/2026/08/24/g-s1-139743/treasury-secretary-scott-bessent-to-unveil-new-economic-sanctions-on-iran"
+          }
+        ],
+        "generatedAt": "2026-08-24T22:57:20.181Z"
+      },
+      {
+        "id": "draft-real-npr-world-rss-1sdr7bo",
+        "title": "美国将详细说明对伊朗的新经济压力。并且，加拿大将对美国征收关税",
+        "oneLine": "政策变化：《美国将详细说明对伊朗的新经济压力。并且，加拿大将对美国征收关税》您正在阅读 Up First 时事通讯。",
+        "importance": "S",
+        "credibility": "主流媒体",
+        "tags": [
+          "S",
+          "mustKnow",
+          "industry",
+          "world",
+          "policy",
+          "finance"
+        ],
+        "industries": [
+          "generalPublic",
+          "financeInvestment",
+          "operationsGrowth",
+          "ecommerceRetail"
+        ],
+        "section": "front",
+        "body": {
+          "background": "此前，特朗普政府对加拿大多种商品征收了50%的关税。受到公众大力支持的总理誓言加拿大将予以反击。您正在阅读 Up First 时事通讯。",
+          "keyProgress": "今天，财政部长斯科特·贝森特将宣布对伊朗实施新一轮经济压力，迫使其重返谈判。雷扎伊还警告称，伊朗可能会针对实施新经济限制的海湾国家。一名联邦法官推翻了特朗普政府对来自 75 个国家的人实施的移民签证禁令，裁定该禁令存在国籍歧视，违反了联邦移民法。在此订阅，将其发送到您的收件箱，并收听 Up First 播客，了解开始新的一天所需的所有新闻。",
+          "whyItMatters": "“美国将详细说明对伊朗的新经济压力。并且，加拿大将对美国征收关税”如果继续发展，可能通过能源价格、航运、贸易、汇率或市场预期传导到国内。了解它的意义在于判断后续风险，而不只停留在事件本身。",
+          "userRelevance": "即使你不在美国、伊朗，“美国将详细说明对伊朗的新经济压力。并且，加拿大将对美国征收关税”也可能通过能源价格、国际航运、贸易成本和市场预期间接影响国内生活与工作判断。",
+          "whatToWatch": "接下来要看“美国将详细说明对伊朗的新经济压力。并且，加拿大将对美国征收关税”是否出现更细的城市、行业、平台或企业数据，以及这一变化能否连续保持。"
+        },
+        "sourceLinks": [
+          {
+            "title": "NPR World RSS",
+            "url": "https://www.npr.org/2026/08/24/g-s1-139736/up-first-newsletter-iran-economic-pressures-canada-tariffs-trump-visa-ban",
+            "sourceId": "npr-world-rss",
+            "publishedAt": "2026-08-24T11:27:44.000Z",
+            "language": "zh",
+            "originalLanguage": "en",
+            "translationStatus": "translated",
+            "fetchedAt": "2026-08-24T22:57:23.467Z",
+            "sourceMethod": "rss",
+            "verificationStatus": "confirmed"
+          }
+        ],
+        "images": [
+          {
+            "url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6000x3375+0+313/resize/1100/quality/50/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F1f%2F51%2Faa6322b24ac0a44957a0b88ba41a%2Fgettyimages-2291295859.jpg",
+            "sourceUrl": "https://www.npr.org/2026/08/24/g-s1-139736/up-first-newsletter-iran-economic-pressures-canada-tariffs-trump-visa-ban"
+          },
+          {
+            "url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3148x1771+3578+1758/resize/1100/quality/50/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fe5%2F6a%2F24597b5040b8b3e7ae79c104bdd4%2Fhowabearbecameabook-9781250358448-int-36-37.jpg",
+            "sourceUrl": "https://www.npr.org/2026/08/24/g-s1-139736/up-first-newsletter-iran-economic-pressures-canada-tariffs-trump-visa-ban"
+          },
+          {
+            "url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4032x2268+0+297/resize/1100/quality/50/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F3c%2F7c%2Ff1eb163047479c477379e538b3ca%2Fap26235796925254.jpg",
+            "sourceUrl": "https://www.npr.org/2026/08/24/g-s1-139736/up-first-newsletter-iran-economic-pressures-canada-tariffs-trump-visa-ban"
+          }
+        ],
+        "generatedAt": "2026-08-24T22:57:20.181Z"
+      },
+      {
+        "id": "draft-real-cnbc-world-rss-18hh3a8",
+        "title": "随着德黑兰威胁扣押船只，美国将公布对伊朗的“最大金融攻势”",
+        "oneLine": "政策变化：美国财政部长斯科特·贝森特在本文中表示，美国将于周一对伊朗发起“有史以来最大规模的金融攻势”，而德黑兰则威胁要扣押违反霍尔木兹海峡过境规则的船只。",
+        "importance": "S",
+        "credibility": "待确认",
+        "tags": [
+          "S",
+          "mustKnow",
+          "industry",
+          "world",
+          "policy",
+          "finance"
+        ],
+        "industries": [
+          "generalPublic",
+          "financeInvestment",
+          "operationsGrowth",
+          "ecommerceRetail"
+        ],
+        "section": "front",
+        "body": {
+          "background": "他此前曾警告称，将对与伊朗开展业务的国家和实体实施进一步的二级制裁。”伊朗的回应是警告海湾邻国不要加入美国的经济措施，并加强对这个咽喉要道的控制，此前世界上大约五分之一的海运石油都经过这个咽喉要道。紧张局势即将升级之际，双方都错过了达成协议所需的 60 天停火窗口，旨在结束中东战争的正式停火机制现已进入第六个月。",
+          "keyProgress": "据《海湾新闻》报道，尽管人们对新经济制裁的具体细节知之甚少，但伊朗里亚尔周日创下公开市场新低，美元兑美元突破 200 万里亚尔。贝森特周日在《金融时报》上撰文补充道：“伊朗的推动者购买和运输石油。贝森特在周日晚间美国《X》杂志上发表的一篇文章中表示，“经济诺曼底登陆日在黎明时开始”，并将即将采取的措施视为华盛顿针对德黑兰的行动的“最后阶段”。新措施将进一步加强已经针对伊朗银行、能源、航空和加密货币行业的广泛制裁制度。",
+          "whyItMatters": "“随着德黑兰威胁扣押船只，美国将公布对伊朗的最大金融攻势”如果继续发展，可能通过能源价格、航运、贸易、汇率或市场预期传导到国内。了解它的意义在于判断后续风险，而不只停留在事件本身。",
+          "userRelevance": "即使你不在美国、伊朗，“随着德黑兰威胁扣押船只，美国将公布对伊朗的最大金融攻势”也可能通过能源价格、国际航运、贸易成本和市场预期间接影响国内生活与工作判断。",
+          "whatToWatch": "接下来要看“随着德黑兰威胁扣押船只，美国将公布对伊朗的最大金融攻势”是否出现更细的城市、行业、平台或企业数据，以及这一变化能否连续保持。"
+        },
+        "sourceLinks": [
+          {
+            "title": "CNBC World News RSS",
+            "url": "https://www.cnbc.com/2026/08/24/us-iran-war-trump-hormuz-bessent-economic-sanctions-.html",
+            "sourceId": "cnbc-world-rss",
+            "publishedAt": "2026-08-24T11:51:45.000Z",
+            "language": "zh",
+            "originalLanguage": "en",
+            "translationStatus": "translated",
+            "fetchedAt": "2026-08-24T22:57:23.850Z",
+            "sourceMethod": "rss",
+            "verificationStatus": "pending"
+          }
+        ],
+        "images": [
+          {
+            "url": "https://image.cnbcfm.com/api/v1/image/108352206-17872396781787239671-47882470748-1080pnbcnews.jpg?v=1787239677&amp;w=750&amp;h=422&amp;vtcrop=y",
+            "sourceUrl": "https://www.cnbc.com/2026/08/24/us-iran-war-trump-hormuz-bessent-economic-sanctions-.html"
+          }
+        ],
+        "generatedAt": "2026-08-24T22:57:20.181Z"
+      },
+      {
+        "id": "draft-real-npr-world-rss-hlulk7",
+        "title": "六个月后，撤离巴林的美国海军家庭仍处于困境",
+        "oneLine": "政策变化：弗吉尼亚州诺福克 - 在一次虚拟市政厅会议上，六个月前突然从巴林撤离的海军家庭提出了许多问题。",
+        "importance": "S",
+        "credibility": "主流媒体",
+        "tags": [
+          "S",
+          "mustKnow",
+          "world",
+          "policy"
+        ],
+        "industries": [
+          "generalPublic"
+        ],
+        "section": "front",
+        "body": {
+          "background": "这个数字不包括同样流离失所的水手和文职工人。他们表示，他们仍然没有得到足够的答案。美国国家公共广播电台查阅了这次会议的录音，以及家属向海军官员询问的完整问题清单。",
+          "keyProgress": "美伊战争爆发后不久，这些家庭就在短时间内带着少量财产离开了巴林。许多人仍然住在美国境内和世界其他地方的临时条件下，住在酒店和短期出租屋里。”当军方和国务院于 3 月 2 日下令疏散家属时，伦肖告诉家人，海军预计只会有短暂的流离失所，类似于 2025 年 6 月美国和以色列军队袭击伊朗核设施时的情况。伦肖在谈话中说：“不幸的是，这种情况一直持续下去，并演变成更大的挑战。",
+          "whyItMatters": "“六个月后，撤离巴林的美国海军家庭仍处于困境”如果继续发展，可能通过能源价格、航运、贸易、汇率或市场预期传导到国内。了解它的意义在于判断后续风险，而不只停留在事件本身。",
+          "userRelevance": "即使你不在美国，“六个月后，撤离巴林的美国海军家庭仍处于困境”也可能通过能源价格、国际航运、贸易成本和市场预期间接影响国内生活与工作判断。",
+          "whatToWatch": "接下来要看“六个月后，撤离巴林的美国海军家庭仍处于困境”是否出现新的官方信息、后续行动，以及它与中国出行、贸易或公共判断的关联是否扩大。"
+        },
+        "sourceLinks": [
+          {
+            "title": "NPR World RSS",
+            "url": "https://www.npr.org/2026/08/24/nx-s1-5943188/six-months-on-u-s-navy-families-who-evacauated-bahrain-remain-in-limbo",
+            "sourceId": "npr-world-rss",
+            "publishedAt": "2026-08-24T22:22:13.000Z",
+            "language": "zh",
+            "originalLanguage": "en",
+            "translationStatus": "translated",
+            "fetchedAt": "2026-08-24T22:57:23.467Z",
+            "sourceMethod": "rss",
+            "verificationStatus": "confirmed"
+          }
+        ],
+        "images": [
+          {
+            "url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3402x2722+0+0/resize/1100/quality/50/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F09%2F8e%2Fcdcdf55840c58c59f6c67c03f089%2Ffifth-fleet-8-24-26.jpg",
+            "sourceUrl": "https://www.npr.org/2026/08/24/nx-s1-5943188/six-months-on-u-s-navy-families-who-evacauated-bahrain-remain-in-limbo"
+          }
+        ],
+        "generatedAt": "2026-08-24T22:57:20.181Z"
+      },
+      {
+        "id": "draft-cluster-real-un-news-rss-1abcfnu",
+        "title": "安理会直播：俄罗斯-乌克兰战争中平民苦难加剧",
+        "oneLine": "最新进展：安理会直播：俄罗斯-乌克兰战争中平民苦难加剧。",
+        "importance": "S",
+        "credibility": "官方来源",
+        "tags": [
+          "S",
+          "mustKnow",
+          "risk",
+          "world",
+          "policy",
+          "disaster"
+        ],
+        "industries": [
+          "generalPublic",
+          "localLife"
+        ],
+        "section": "risk",
+        "body": {
+          "background": "2022 联合国监测员确认，2026 年前六个月有 1,396 名乌克兰平民死亡、7,978 人受伤。俄罗斯弹道导弹袭击导致乌克兰境内及周边地区 17 人死亡、40 多人受伤。过去几天，俄罗斯在乌克兰首都基辅及其周边地区发动的袭击造成 30 多人死亡，乌克兰在俄罗斯领土内发起了自 2017 年入侵以来最大规模的几起无人机袭击。",
+          "keyProgress": "根据联合国人道主义援助办公室 (OCHA) 的数据，7 月是自 2022 年 4 月以来乌克兰平民死亡人数最多的一个月。联合国估计有 1,080 万乌克兰人需要人道主义援助。周四，乌克兰首都基辅地方当局报告称，乌克兰 7 月份的平民伤亡人数达到了自 2022 年 3 月以来的最高水平，联合国驻该国人权监测团 HRMMU 在周四的更新中表示。",
+          "whyItMatters": "“安理会直播：俄罗斯-乌克兰战争中平民苦难加剧”的直接价值是帮助你判断是否需要调整出行、居住或工作安排。影响地区、持续时间、预警等级和官方避险建议比事件热度更重要。",
+          "userRelevance": "对于“安理会直播：俄罗斯-乌克兰战争中平民苦难加剧”，如果你近期计划前往事发地区或与当地有工作、家人联系，需要留意后续预警；没有直接联系时，可把它作为区域风险背景了解。",
+          "whatToWatch": "接下来要看“安理会直播：俄罗斯-乌克兰战争中平民苦难加剧”的影响范围是否扩大、预警等级是否变化，以及是否出现与你所在城市相关的提醒。"
+        },
+        "sourceLinks": [
+          {
+            "title": "联合国新闻 RSS",
+            "url": "https://news.un.org/feed/view/en/story/2026/08/1168191",
+            "sourceId": "un-news-rss",
+            "publishedAt": "2026-08-24T12:00:00.000Z",
+            "language": "zh",
+            "originalLanguage": "en",
+            "translationStatus": "translated",
+            "fetchedAt": "2026-08-24T22:57:23.803Z",
+            "sourceMethod": "rss",
+            "verificationStatus": "confirmed"
+          },
+          {
+            "title": "联合国新闻 RSS",
+            "url": "https://news.un.org/feed/view/en/story/2026/08/1168188",
+            "sourceId": "un-news-rss",
+            "publishedAt": "2026-08-24T12:00:00.000Z",
+            "language": "zh",
+            "originalLanguage": "en",
+            "translationStatus": "translated",
+            "fetchedAt": "2026-08-24T22:57:23.803Z",
+            "sourceMethod": "rss",
+            "verificationStatus": "confirmed"
+          }
+        ],
+        "images": [
+          {
+            "url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/07/21-07-2026-UNICEF-Ukraine-04.jpg/image560x340cropped.jpg",
+            "sourceUrl": "https://news.un.org/feed/view/en/story/2026/08/1168191"
+          },
+          {
+            "url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/08/13-08-2026-UNOCHA-Sudan.jpg/image560x340cropped.jpg",
+            "sourceUrl": "https://news.un.org/feed/view/en/story/2026/08/1168188"
+          }
+        ],
+        "generatedAt": "2026-08-24T22:57:20.181Z"
+      },
+      {
+        "id": "draft-real-cnbc-world-rss-68mja5",
+        "title": "欧洲领导人会晤时，法国和英国加强对乌克兰的导弹支持",
+        "oneLine": "政策变化：法国总统马克龙、英国首相安迪·伯纳姆和德国总理弗里德里希·梅尔茨周一将共同主持一次意愿联盟会议，旨在加强对乌克兰的支持并加大对俄罗斯的压力。",
+        "importance": "A",
+        "credibility": "待确认",
+        "tags": [
+          "A",
+          "mustKnow",
+          "industry",
+          "world",
+          "policy",
+          "finance"
+        ],
+        "industries": [
+          "generalPublic",
+          "financeInvestment",
+          "operationsGrowth",
+          "ecommerceRetail"
+        ],
+        "section": "front",
+        "body": {
+          "background": "乌克兰总统泽连斯基也参加了这次混合会议，此前马克龙总统宣布法国将向基辅提供更多拦截导弹。在英国同意允许国防公司MBDA公布英国SCALP远程导弹组件的机密信息以支持乌克兰当地组装之后，他预计将在那里会见泽连斯基。此前，综合反弹道导弹联盟于 7 月 13 日在巴黎举行首次会议。",
+          "keyProgress": "几天前，俄罗斯无人机袭击克里沃罗格一座拥挤的购物中心，造成至少 16 人死亡，欧洲领导人承诺向基辅提供进一步支持。伯纳姆周一抵达基辅，这是他作为总理的首次出访。克里姆林宫发言人德米特里·佩斯科夫周一表示，英国现在是乌克兰一方战争的参与者，并指责伯纳姆政府阻碍实现最终和平的努力。周一的混合会议恰逢乌克兰独立35周年，将审查旨在加强对基辅的支持、减少俄罗斯继续战争的资源以及打击莫斯科影子舰队的措施。",
+          "whyItMatters": "“欧洲领导人会晤时，法国和英国加强对乌克兰的导弹支持”如果继续发展，可能通过能源价格、航运、贸易、汇率或市场预期传导到国内。了解它的意义在于判断后续风险，而不只停留在事件本身。",
+          "userRelevance": "即使你不在乌克兰、俄罗斯、法国，“欧洲领导人会晤时，法国和英国加强对乌克兰的导弹支持”也可能通过能源价格、国际航运、贸易成本和市场预期间接影响国内生活与工作判断。",
+          "whatToWatch": "接下来要看“欧洲领导人会晤时，法国和英国加强对乌克兰的导弹支持”是否出现更细的城市、行业、平台或企业数据，以及这一变化能否连续保持。"
+        },
+        "sourceLinks": [
+          {
+            "title": "CNBC World News RSS",
+            "url": "https://www.cnbc.com/2026/08/24/ukraine-coalition-support-russia-strikes.html",
+            "sourceId": "cnbc-world-rss",
+            "publishedAt": "2026-08-24T11:00:01.000Z",
+            "language": "zh",
+            "originalLanguage": "en",
+            "translationStatus": "translated",
+            "fetchedAt": "2026-08-24T22:57:23.850Z",
+            "sourceMethod": "rss",
+            "verificationStatus": "pending"
+          }
+        ],
+        "images": [],
+        "generatedAt": "2026-08-24T22:57:20.181Z"
+      },
+      {
+        "id": "draft-real-mem-cn-1atu5tw",
+        "title": "应急管理部针对福建启动国家地质灾害四级应急响应",
+        "oneLine": "风险提醒：根据《国家突发地质灾害应急预案》及有关规定，应急管理部于8月24日针对福建启动地质灾害四级应急响应，派出工作组指导地方做好台风暴雨期间地质灾害防范应对工作。",
+        "importance": "A",
+        "credibility": "官方来源",
+        "tags": [
+          "A",
+          "risk",
+          "industry",
+          "disaster",
+          "publicSafety",
+          "china"
+        ],
+        "industries": [
+          "generalPublic",
+          "localLife",
+          "operationsGrowth"
+        ],
+        "section": "risk",
+        "body": {
+          "background": "应急管理部针对福建启动国家地质灾害四级应急响应 据气象部门预测，受台风 “紫檀”、“简拉维”残余环流影响，8月25日至27日，福建东部部分地区有大暴雨，局地特大暴雨。经与自然资源部联合会商研判，福建东部部分地区发生地质灾害的风险高。应急管理部要求，受台风影响的相关地区要增强风险意识、强化底线思维，全面抓实抓细地质灾害防范应对工作，压紧压实责任，强化多部门会商研判和协同联动，密切监视雨情汛情和地质灾害风险变化趋势，严格落实 “灾害点+风险区”双控管理，对山区沟口、临崖陡坡、施工工地、旅游景区等重点部位加强排查，强化预警叫应，坚决果断实施转移避险，做到应转尽转、应转早转。",
+          "keyProgress": "同时要前置预置抢险救援力量和救灾物资，下沉力量加强对基层的指导帮扶，全力开展救援救灾，确保人民群众生命财产安全。",
+          "whyItMatters": "“应急管理部针对福建启动国家地质灾害四级应急响应”的直接价值是帮助你判断是否需要调整出行、居住或工作安排。影响地区、持续时间、预警等级和官方避险建议比事件热度更重要。",
+          "userRelevance": "对于“应急管理部针对福建启动国家地质灾害四级应急响应”，如果你居住、出行或有家人在福建，应及时查看当地预警和交通变化；不在相关地区时，通常无需改变日常安排。",
+          "whatToWatch": "接下来要看“应急管理部针对福建启动国家地质灾害四级应急响应”的影响范围是否扩大、预警等级是否变化，以及是否出现与你所在城市相关的提醒。"
+        },
+        "sourceLinks": [
+          {
+            "title": "应急管理部",
+            "url": "https://www.mem.gov.cn/xw/yjglbgzdt/202608/t20260824_708426.shtml",
+            "sourceId": "mem-cn",
+            "publishedAt": "2026-08-24T00:00:00+08:00",
+            "language": "zh",
+            "originalLanguage": "zh",
+            "translationStatus": "not-needed",
+            "fetchedAt": "2026-08-24T22:57:22.385Z",
+            "sourceMethod": "web",
+            "verificationStatus": "confirmed"
+          }
+        ],
+        "images": [],
+        "generatedAt": "2026-08-24T22:57:20.181Z"
+      },
+      {
+        "id": "draft-real-gov-uk-news-1dqw5dl",
+        "title": "历史悠久的市议会房屋建筑卷土重来，帮助家庭成为安全的家园",
+        "oneLine": "风险提醒：《历史悠久的市议会房屋建筑卷土重来，帮助家庭成为安全的家园》我们使用一些必要的 cookie 来使该网站正常运行。",
+        "importance": "B",
+        "credibility": "官方来源",
+        "tags": [
+          "B",
+          "mustKnow",
+          "risk",
+          "world",
+          "policy",
+          "local"
+        ],
+        "industries": [
+          "generalPublic",
+          "localLife"
+        ],
+        "section": "risk",
+        "body": {
+          "background": "出生、死亡、婚姻和护理 商业和自营职业 儿童保育和养育 英国公民身份和生活 犯罪、司法和法律 残疾人 驾驶和交通 教育和学习 就业人员 环境和乡村 住房和当地服务 金钱和税收 护照、旅行和国外生活 签证和移民 工作、工作和养老金 部门 部门、机构和公共机构 新闻 新闻故事、演讲、信件和通知 指导和监管 详细指导、法规和规则 研究和统计 报告、分析和官方统计 Policy papers and consultations Consultations and strategy Transparency Data, Freedom of Information releases and corporate reports Housing, local and community Housing and communi。",
+          "keyProgress": "我们还使用其他网站设置的 cookie 来帮助我们从他们的服务中提供内容。您可以随时更改您的 cookie 设置。",
+          "whyItMatters": "“历史悠久的市议会房屋建筑卷土重来，帮助家庭成为安全的家园”的直接价值是帮助你判断是否需要调整出行、居住或工作安排。影响地区、持续时间、预警等级和官方避险建议比事件热度更重要。",
+          "userRelevance": "对于“历史悠久的市议会房屋建筑卷土重来，帮助家庭成为安全的家园”，如果你所在地区出现同类预警，应优先确认当地通知、交通变化和避险要求；其他地区通常无需因此改变日常安排。",
+          "whatToWatch": "接下来要看“历史悠久的市议会房屋建筑卷土重来，帮助家庭成为安全的家园”的影响范围是否扩大、预警等级是否变化，以及是否出现与你所在城市相关的提醒。"
+        },
+        "sourceLinks": [
+          {
+            "title": "GOV.UK News and Communications",
+            "url": "https://www.gov.uk/government/news/historic-council-housebuilding-comeback-to-help-families-into-secure-homes",
+            "sourceId": "gov-uk-news",
+            "publishedAt": "2026-08-24T21:30:00.000Z",
+            "language": "zh",
+            "originalLanguage": "en",
+            "translationStatus": "translated",
+            "fetchedAt": "2026-08-24T22:57:23.592Z",
+            "sourceMethod": "rss",
+            "verificationStatus": "confirmed"
+          }
+        ],
+        "images": [
+          {
+            "url": "https://assets.publishing.service.gov.uk/media/6a8c6939a8f84a582b842857/s300_1111shutterstock_2198229229.jpg",
+            "sourceUrl": "https://www.gov.uk/government/news/historic-council-housebuilding-comeback-to-help-families-into-secure-homes"
+          }
+        ],
+        "generatedAt": "2026-08-24T22:57:20.181Z"
+      },
+      {
+        "id": "draft-real-xinhua-tech-13a3t8e",
+        "title": "AI智能体能自主生成并运行量子计算代码",
+        "oneLine": "趋势信号：科技日报讯 （记者张佳欣）氛围编程（Vibe Coding）正从传统软件开发进入量子计算领域。",
+        "importance": "B",
+        "credibility": "主流媒体",
+        "tags": [
+          "B",
+          "industry",
+          "technology",
+          "ai",
+          "product"
+        ],
+        "industries": [
+          "technologyEngineering",
+          "educationResearch",
+          "aiProduct",
+          "aiTechnology",
+          "productManagement",
+          "operationsGrowth"
+        ],
+        "section": "ai",
+        "body": {
+          "background": "据英国《自然》杂志日前消息，法国量子计算初创企业Pasqal研究人员开发出一种人工智能（AI）智能体，能根据英文自然语言指令生成量子计算代码，并自动在真实量子计算机上运行。研究人员表示，这种量子氛围编程有望降低量子计算实验的技术门槛，让更多人能够开展量子计算研究。所谓氛围编程，是指用户只需要用自然语言告诉AI工具，希望软件实现什么功能，AI便会生成相应程序，并根据用户反馈进行修改和运行。",
+          "keyProgress": "目前，Anthropic公司的Claude等前沿大语言模型已展现出理解量子计算的能力，不少研究人员也开始用这类模型辅助编写量子计算代码。Pasqal研究团队则让这些前沿大语言模型熟悉其量子计算机的技术规格，进一步探索大语言模型能否实现量子领域的氛围编程。Pasqal团队对AI智能体进行了3项测试，每项测试都选取一篇描述某种物理现象的论文，并要求智能体编写和运行代码，以验证这一现象是否可通过量子计算机进行模拟。Pasqal首席技术官伊克·亨里耶说，要完成这一“转换”，通常需要同时掌握材料物理学和量子计算知识的专业团队，而AI智能体现在可协助完成这一过程。",
+          "whyItMatters": "“AI智能体能自主生成并运行量子计算代码”能帮助你判断这项能力是否已经进入工程、产品或商业场景，并据此调整技术选型、产品规划、学习重点或职业判断。",
+          "userRelevance": "如果你从事技术研发、教育研究、AI 产品、AI 技术，可以重点判断“AI智能体能自主生成并运行量子计算代码”是否已经具备产品落地、技术选型或业务合作价值。",
+          "whatToWatch": "接下来要看“AI智能体能自主生成并运行量子计算代码”是否有更多可靠来源、量产或应用进展，以及它会不会从单点消息发展成持续趋势。"
+        },
+        "sourceLinks": [
+          {
+            "title": "新华网科技",
+            "url": "https://www.news.cn/tech/20260824/d980541029ac4af289aa2729506c79d8/c.html",
+            "sourceId": "xinhua-tech",
+            "publishedAt": "2026-08-24T00:00:00+08:00",
+            "language": "zh",
+            "originalLanguage": "zh",
+            "translationStatus": "not-needed",
+            "fetchedAt": "2026-08-24T22:57:23.716Z",
+            "sourceMethod": "web",
+            "verificationStatus": "confirmed"
+          }
+        ],
+        "images": [],
+        "generatedAt": "2026-08-24T22:57:20.181Z"
+      },
+      {
+        "id": "draft-real-xinhua-tech-j9crr6",
+        "title": "AI“点亮”半年报 智能消费持续扩容",
+        "oneLine": "趋势信号：2026年半年报披露季，一组数据勾勒出我国消费市场的新变化：智能助行外骨骼、AI眼镜、AI手机等产品，正以超出预期的速度进入普通消费者的购物车，也在上市公司财报中成为最亮眼的增长极。",
+        "importance": "B",
+        "credibility": "主流媒体",
+        "tags": [
+          "B",
+          "industry",
+          "technology",
+          "ai",
+          "product"
+        ],
+        "industries": [
+          "technologyEngineering",
+          "educationResearch",
+          "aiProduct",
+          "aiTechnology",
+          "productManagement",
+          "operationsGrowth"
+        ],
+        "section": "ai",
+        "body": {
+          "background": "消费电子行业受益AI明显 2026年以来，消费电子市场呈现结构分化的特征，AI智能手机、可穿戴设备等新兴终端的创新浪潮持续涌动，AIGC（人工智能生成内容）与大模型在终端侧的渗透不断深化，产业链正经历深层变革与价值重塑。截至记者发稿，15家申万二级消费电子类上市公司已公布半年报。公司表示，业绩增长主要受益于AI算力需求持续爆发，云计算业务板块营收同比增长75.7%，AI相关业务贡献持续扩大成为公司业绩增长的核心引擎。",
+          "keyProgress": "国家统计局数据显示，1至7月，规模以上可穿戴智能设备零售额增长超过1倍，AI导览、虚拟试衣间等一批沉浸式、互动式的消费场景加快落地，不断激发新的消费潜力。业内人士认为，从公司财报到行业数据，智能消费已从“概念导入”走向“业绩兑现”，成为扩内需重要的增量方向之一。从整体表现看，行业景气度回升态势明显：10家营收同比增长，11家归母净利润同比增长，7家扣非净利润同比增长，其中福日电子增幅最高，达755.90%。透视具体企业表现，产业链各环节又呈现差异化增长逻辑。",
+          "whyItMatters": "“AI点亮半年报 智能消费持续扩容”能帮助你判断这项能力是否已经进入工程、产品或商业场景，并据此调整技术选型、产品规划、学习重点或职业判断。",
+          "userRelevance": "如果你从事技术研发、教育研究、AI 产品、AI 技术，可以重点判断“AI点亮半年报 智能消费持续扩容”是否已经具备产品落地、技术选型或业务合作价值。",
+          "whatToWatch": "接下来要看“AI点亮半年报 智能消费持续扩容”是否有更多可靠来源、量产或应用进展，以及它会不会从单点消息发展成持续趋势。"
+        },
+        "sourceLinks": [
+          {
+            "title": "新华网科技",
+            "url": "https://www.news.cn/tech/20260824/62a999287cee42d5a27bed5d7674357b/c.html",
+            "sourceId": "xinhua-tech",
+            "publishedAt": "2026-08-24T00:00:00+08:00",
+            "language": "zh",
+            "originalLanguage": "zh",
+            "translationStatus": "not-needed",
+            "fetchedAt": "2026-08-24T22:57:23.716Z",
+            "sourceMethod": "web",
+            "verificationStatus": "confirmed"
+          }
+        ],
+        "images": [],
+        "generatedAt": "2026-08-24T22:57:20.181Z"
+      },
+      {
+        "id": "draft-cluster-real-cnbc-world-rss-n1x7vs",
+        "title": "Shein 的目标是在香港 IPO 融资 270 亿美元——这只是其 2022 年估值的一小部分",
+        "oneLine": "政策变化：根据周一提交的文件，Shein 计划在首次公开募股中筹集至多 138.6 亿港元（合 17.7 亿美元）。",
+        "importance": "B",
+        "credibility": "待确认",
+        "tags": [
+          "B",
+          "industry",
+          "world",
+          "policy",
+          "finance"
+        ],
+        "industries": [
+          "generalPublic",
+          "financeInvestment",
+          "operationsGrowth",
+          "ecommerceRetail"
+        ],
+        "section": "industry",
+        "body": {
+          "background": "最终价格将由该公司于 8 月 31 日公布，股票预计将于 9 月 1 日开始交易。GROW Investment Group 首席投资官 William Ma 此前对 CNBC 表示：“公司已经错过了上市的黄金时机。这家快时尚零售商正在出售约 2.8 亿股 B 类股票，每股价格在 47.60 港元至 49.50 港元之间，估值接近 270 亿美元（按该区间上限）。",
+          "keyProgress": "据路透社报道，该公司在 2023 年和 2024 年 4 月的估值为 640 亿美元，较之前几轮私募融资（2022 年估值为 982 亿美元）相比，其估值大幅下降。由于快速增长放缓和盈利压力，公司估值有所下降。收入增长从一年前的 20.7% 降至 2025 年的 8%，而失去美国进口关税豁免和一次性会计费用使其在 2026 年初亏损 9900 万美元。然而，中国市场研究集团董事总经理 Shaun Rein 上个月告诉 CNBC，投资者和消费者不再像以前那样对这家超快时尚零售商感到兴奋。",
+          "whyItMatters": "“Shein 的目标是在香港 IPO 融资 270 亿美元——这只是其 2022 年估值的一小部分”如果继续发展，可能通过能源价格、航运、贸易、汇率或市场预期传导到国内。了解它的意义在于判断后续风险，而不只停留在事件本身。",
+          "userRelevance": "即使你不在香港，“Shein 的目标是在香港 IPO 融资 270 亿美元——这只是其 2022 年估值的一小部分”也可能通过能源价格、国际航运、贸易成本和市场预期间接影响国内生活与工作判断。",
+          "whatToWatch": "接下来要看“Shein 的目标是在香港 IPO 融资 270 亿美元——这只是其 2022 年估值的一小部分”是否出现更细的城市、行业、平台或企业数据，以及这一变化能否连续保持。"
+        },
+        "sourceLinks": [
+          {
+            "title": "CNBC World News RSS",
+            "url": "https://www.cnbc.com/2026/08/24/shein-ipo-valuation-hong-kong.html",
+            "sourceId": "cnbc-world-rss",
+            "publishedAt": "2026-08-24T07:34:17.000Z",
+            "language": "zh",
+            "originalLanguage": "en",
+            "translationStatus": "translated",
+            "fetchedAt": "2026-08-24T22:57:23.850Z",
+            "sourceMethod": "rss",
+            "verificationStatus": "pending"
+          },
+          {
+            "title": "Sky News World RSS",
+            "url": "https://news.sky.com/story/shein-targets-valuation-of-just-27bn-in-stock-market-flotation-13576490",
+            "sourceId": "sky-world-rss",
+            "publishedAt": "2026-08-24T04:47:00.000Z",
+            "language": "zh",
+            "originalLanguage": "en",
+            "translationStatus": "translated",
+            "fetchedAt": "2026-08-24T22:57:23.537Z",
+            "sourceMethod": "rss",
+            "verificationStatus": "pending"
+          }
+        ],
+        "images": [
+          {
+            "url": "https://e3.365dm.com/24/06/1920x1080/skynews-shein-chinese-company_6572211.jpg?20240603135518",
+            "sourceUrl": "https://news.sky.com/story/shein-targets-valuation-of-just-27bn-in-stock-market-flotation-13576490"
+          }
+        ],
+        "generatedAt": "2026-08-24T22:57:20.181Z"
+      },
+      {
+        "id": "draft-real-cnbc-world-rss-3yrw3p",
+        "title": "一场大规模的黄金交易刚刚发生。期权市场热闹非凡",
+        "oneLine": "最新进展：一场大规模的黄金交易刚刚发生。期权市场热闹非凡。",
+        "importance": "B",
+        "credibility": "待确认",
+        "tags": [
+          "B",
+          "industry",
+          "world",
+          "policy",
+          "finance"
+        ],
+        "industries": [
+          "generalPublic",
+          "financeInvestment",
+          "operationsGrowth",
+          "ecommerceRetail"
+        ],
+        "section": "industry",
+        "body": {
+          "background": "在包括重大宏观经济事件在内的一周之前，看跌交易尤其引人注目，其中包括周三发布的个人消费支出通胀数据以及周四在怀俄明州开幕的杰克逊霍尔经济研讨会。今天整个期权市场最大的交易表明，这一行情即将结束。周一开盘后 20 分钟，有人卖出了近 116,000 手 9 月 18 日到期的 SPDR 黄金股 ETF (GLD) 的 420 次行使看涨期权，这些合约目前处于价内状态，总溢价达 2.02 亿美元。",
+          "keyProgress": "然后，交易员用其中的一部分资金以 1.44 亿美元的价格购买了相同数量和到期的 430 次执行看涨期权，从而创造了 5800 万美元的净信用。虽然卖出价差通常可以被视为中性交易，但交易者卖出价内看涨期权的事实将其到期时的盈亏平衡点推至 425 美元，即交易双方的中点。鉴于 GLD 目前的交易价格为 427 美元，这使得该交易成为实际上的看跌押注，需要贵金属在未来 4 周内小幅回落。Arora Report创始人Nigam Arora表示：“黄金出现短期回调的可能性非常大。",
+          "whyItMatters": "“一场大规模的黄金交易刚刚发生。期权市场热闹非凡”如果继续发展，可能通过能源价格、航运、贸易、汇率或市场预期传导到国内。了解它的意义在于判断后续风险，而不只停留在事件本身。",
+          "userRelevance": "即使你不在事发地区，“一场大规模的黄金交易刚刚发生。期权市场热闹非凡”也可能通过能源价格、国际航运、贸易成本和市场预期间接影响国内生活与工作判断。",
+          "whatToWatch": "接下来要看“一场大规模的黄金交易刚刚发生。期权市场热闹非凡”是否出现更细的城市、行业、平台或企业数据，以及这一变化能否连续保持。"
+        },
+        "sourceLinks": [
+          {
+            "title": "CNBC World News RSS",
+            "url": "https://www.cnbc.com/2026/08/24/a-massive-trade-just-happened-in-gold-the-options-market-is-buzzing.html",
+            "sourceId": "cnbc-world-rss",
+            "publishedAt": "2026-08-24T18:41:44.000Z",
+            "language": "zh",
+            "originalLanguage": "en",
+            "translationStatus": "translated",
+            "fetchedAt": "2026-08-24T22:57:23.850Z",
+            "sourceMethod": "rss",
+            "verificationStatus": "pending"
+          }
+        ],
+        "images": [
+          {
+            "url": "https://image.cnbcfm.com/api/v1/image/108353346-17875834581787583455-47958674364-1080pnbcnews.jpg?v=1787583457&amp;w=750&amp;h=422&amp;vtcrop=y",
+            "sourceUrl": "https://www.cnbc.com/2026/08/24/a-massive-trade-just-happened-in-gold-the-options-market-is-buzzing.html"
+          }
+        ],
+        "generatedAt": "2026-08-24T22:57:20.181Z"
+      },
+      {
+        "id": "draft-real-cnbc-world-rss-1p9gzzf",
+        "title": "UPS 将投资 20 亿美元用于国际、医疗保健和供应链业务",
+        "oneLine": "政策变化：联合包裹服务公司周一独家向 CNBC 透露，在本文中，联合包裹服务公司将对其国际、医疗保健和供应链解决方案业务投资超过 20 亿美元。",
+        "importance": "B",
+        "credibility": "待确认",
+        "tags": [
+          "B",
+          "industry",
+          "world",
+          "policy",
+          "finance"
+        ],
+        "industries": [
+          "generalPublic",
+          "financeInvestment",
+          "operationsGrowth",
+          "ecommerceRetail"
+        ],
+        "section": "industry",
+        "body": {
+          "background": "正在进行的投资于 2024 年开始，并将持续到 2028 年，但 UPS 表示，此前并未披露投资总额。”投资的部分项目包括今年在菲律宾的一个新枢纽、明年在安大略省开设的一个新的加拿大设施以及 2028 年在香港国际机场的一个新航空枢纽。” UPS 最近还宣布投资 4800 万美元对其网络中的 27 个温控设施进行补充，以补充其医疗保健计划，包括运输 GLP-1 药物等温度敏感药物。",
+          "keyProgress": "UPS 已在台湾建立了一个技术支持的物流中心，并在阿姆斯特丹建立了一个集货运、经纪和冷链解决方案于一体的供应链解决方案设施。该物流公司还表示，现在每周有五班往返于巴黎和香港以及中国深圳和悉尼之间的航班，以满足不断增长的需求。斯瓦斯特表示，随着全球供应链变得更加复杂，某些全球市场，比如亚洲市场，对企业来说变得比以前更加重要。这一消息发布之际，全球各地的物流公司都在竞相领先于冷链仓储等利基领域日益增长的需求。",
+          "whyItMatters": "“UPS 将投资 20 亿美元用于国际、医疗保健和供应链业务”如果继续发展，可能通过能源价格、航运、贸易、汇率或市场预期传导到国内。了解它的意义在于判断后续风险，而不只停留在事件本身。",
+          "userRelevance": "即使你不在事发地区，“UPS 将投资 20 亿美元用于国际、医疗保健和供应链业务”也可能通过能源价格、国际航运、贸易成本和市场预期间接影响国内生活与工作判断。",
+          "whatToWatch": "接下来要看“UPS 将投资 20 亿美元用于国际、医疗保健和供应链业务”是否出现更细的城市、行业、平台或企业数据，以及这一变化能否连续保持。"
+        },
+        "sourceLinks": [
+          {
+            "title": "CNBC World News RSS",
+            "url": "https://www.cnbc.com/2026/08/24/ups-global-logistics-investment.html",
+            "sourceId": "cnbc-world-rss",
+            "publishedAt": "2026-08-24T11:00:01.000Z",
+            "language": "zh",
+            "originalLanguage": "en",
+            "translationStatus": "translated",
+            "fetchedAt": "2026-08-24T22:57:23.850Z",
+            "sourceMethod": "rss",
+            "verificationStatus": "pending"
+          }
+        ],
+        "images": [],
+        "generatedAt": "2026-08-24T22:57:20.181Z"
+      },
+      {
+        "id": "draft-real-cnbc-world-rss-1nflaho",
+        "title": "桑托利：为什么现在对债券收益率如此大惊小怪",
+        "oneLine": "最新进展：桑托利：为什么现在对债券收益率如此大惊小怪。",
+        "importance": "B",
+        "credibility": "待确认",
+        "tags": [
+          "B",
+          "industry",
+          "world",
+          "policy",
+          "finance"
+        ],
+        "industries": [
+          "generalPublic",
+          "financeInvestment",
+          "operationsGrowth",
+          "ecommerceRetail"
+        ],
+        "section": "industry",
+        "body": {
+          "background": "正是在这种背景下，财政部长斯科特·贝森特上周试图通过扩大现有计划，在公开市场上回购少量流动性较差的政府债务，来抑制长期国债收益率。美国经济正值成熟的夏季，空调恒温器挂在家里最热的房间——厨房里，阳光照进厨房，烤箱总是在烘烤。在这种情况下，债券市场是恒温器，它通过将借贷成本提高到多年来的高点来抵消政府和企业对债务的强劲需求。",
+          "keyProgress": "此举引发了市场参与者和评论员相当过热的反应，要么是因为财政部长指责其前任不当操纵市场利率，要么是因为规模太小而无足轻重，要么是两者兼而有之。对美国结构性赤字融资能力的不安就像一种自身免疫性疾病：在资本支出过热和战争通胀反馈循环等不利市场刺激的压力下，这种不安会突然爆发，然后往往会再次陷入休眠状态。厨房是人工智能的建设领域，迫切希望在明年年底前将约 2 万亿美元转化为巨大的计算能力储备。债券收益率的上升并没有对减缓融资和企业投资的步伐产生太大影响。",
+          "whyItMatters": "“桑托利：为什么现在对债券收益率如此大惊小怪”如果继续发展，可能通过能源价格、航运、贸易、汇率或市场预期传导到国内。了解它的意义在于判断后续风险，而不只停留在事件本身。",
+          "userRelevance": "即使你不在事发地区，“桑托利：为什么现在对债券收益率如此大惊小怪”也可能通过能源价格、国际航运、贸易成本和市场预期间接影响国内生活与工作判断。",
+          "whatToWatch": "接下来要看“桑托利：为什么现在对债券收益率如此大惊小怪”是否出现更细的城市、行业、平台或企业数据，以及这一变化能否连续保持。"
+        },
+        "sourceLinks": [
+          {
+            "title": "CNBC World News RSS",
+            "url": "https://www.cnbc.com/2026/08/24/why-all-the-fuss-about-bond-yields-is-happening-now.html",
+            "sourceId": "cnbc-world-rss",
+            "publishedAt": "2026-08-24T12:31:13.000Z",
+            "language": "zh",
+            "originalLanguage": "en",
+            "translationStatus": "translated",
+            "fetchedAt": "2026-08-24T22:57:23.850Z",
+            "sourceMethod": "rss",
+            "verificationStatus": "pending"
+          }
+        ],
+        "images": [],
+        "generatedAt": "2026-08-24T22:57:20.181Z"
+      }
+    ],
+    "estimatedReadMinutes": 22,
+    "pageCount": 2,
+    "topCardId": "draft-real-npr-world-rss-1tklv87",
+    "generatedAt": "2026-08-24T22:57:20.181Z",
+    "pushSlots": [
+      "08:30",
+      "12:30",
+      "21:30"
+    ],
+    "edition": "morning",
+    "editionLabel": "晨报",
+    "coverageWindow": {
+      "start": "2026-08-24T07:10:00+08:00",
+      "end": "2026-08-25T07:10:00+08:00"
+    },
+    "editionCardIds": [
+      "draft-real-npr-world-rss-1tklv87",
+      "draft-real-npr-world-rss-1sdr7bo",
+      "draft-real-cnbc-world-rss-18hh3a8",
+      "draft-real-npr-world-rss-hlulk7",
+      "draft-cluster-real-un-news-rss-1abcfnu",
+      "draft-real-cnbc-world-rss-68mja5",
+      "draft-real-mem-cn-1atu5tw",
+      "draft-real-gov-uk-news-1dqw5dl",
+      "draft-real-xinhua-tech-13a3t8e",
+      "draft-real-xinhua-tech-j9crr6",
+      "draft-cluster-real-cnbc-world-rss-n1x7vs",
+      "draft-real-cnbc-world-rss-3yrw3p",
+      "draft-real-cnbc-world-rss-1p9gzzf",
+      "draft-real-cnbc-world-rss-1nflaho"
+    ],
+    "carriedCardIds": []
+  }
+}

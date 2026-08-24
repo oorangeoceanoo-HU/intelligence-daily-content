@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "publishedAt": "2026-08-24T13:33:55.531Z",
+  "publishedAt": "2026-08-24T13:57:24.547Z",
   "issue": {
     "id": "daily-public-2026-08-24",
     "date": "2026-08-24",
@@ -43,7 +43,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-24T13:33:59.463Z",
+            "fetchedAt": "2026-08-24T13:57:27.991Z",
             "sourceMethod": "rss",
             "verificationStatus": "confirmed"
           }
@@ -54,7 +54,7 @@
             "sourceUrl": "https://www.npr.org/2026/08/24/g-s1-139743/treasury-secretary-scott-bessent-to-unveil-new-economic-sanctions-on-iran"
           }
         ],
-        "generatedAt": "2026-08-24T13:33:55.531Z"
+        "generatedAt": "2026-08-24T13:57:24.547Z"
       },
       {
         "id": "draft-real-npr-world-rss-1sxqepm",
@@ -93,7 +93,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-24T13:33:59.463Z",
+            "fetchedAt": "2026-08-24T13:57:27.991Z",
             "sourceMethod": "rss",
             "verificationStatus": "confirmed"
           }
@@ -112,7 +112,7 @@
             "sourceUrl": "https://www.npr.org/2026/08/24/g-s1-139736/up-first-newsletter-iran-economic-pressures-canada-tariffs-trump-visa-ban"
           }
         ],
-        "generatedAt": "2026-08-24T13:33:55.531Z"
+        "generatedAt": "2026-08-24T13:57:24.547Z"
       },
       {
         "id": "draft-real-cnbc-world-rss-7jcfhy",
@@ -151,13 +151,13 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-24T13:33:59.735Z",
+            "fetchedAt": "2026-08-24T13:57:28.617Z",
             "sourceMethod": "rss",
             "verificationStatus": "pending"
           }
         ],
         "images": [],
-        "generatedAt": "2026-08-24T13:33:55.531Z"
+        "generatedAt": "2026-08-24T13:57:24.547Z"
       },
       {
         "id": "draft-real-cnbc-world-rss-1xil8fz",
@@ -196,7 +196,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-24T13:33:59.735Z",
+            "fetchedAt": "2026-08-24T13:57:28.617Z",
             "sourceMethod": "rss",
             "verificationStatus": "pending"
           }
@@ -207,7 +207,7 @@
             "sourceUrl": "https://www.cnbc.com/2026/08/24/us-iran-war-trump-hormuz-bessent-economic-sanctions-.html"
           }
         ],
-        "generatedAt": "2026-08-24T13:33:55.531Z"
+        "generatedAt": "2026-08-24T13:57:24.547Z"
       },
       {
         "id": "draft-real-cnbc-world-rss-6bboqv",
@@ -246,121 +246,13 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-24T13:33:59.735Z",
+            "fetchedAt": "2026-08-24T13:57:28.617Z",
             "sourceMethod": "rss",
             "verificationStatus": "pending"
           }
         ],
         "images": [],
-        "generatedAt": "2026-08-24T13:33:55.531Z"
-      },
-      {
-        "id": "draft-real-cnbc-world-rss-vgs1fb",
-        "title": "“他们要求太多”：渥太华和华盛顿陷入全面贸易战，加元下跌",
-        "oneLine": "政策变化：《“他们要求太多”：渥太华和华盛顿陷入全面贸易战，加元下跌》卡尼周六表示，美国“要求太多，提供太少”。",
-        "importance": "B",
-        "credibility": "待确认",
-        "tags": [
-          "B",
-          "mustKnow",
-          "industry",
-          "world",
-          "policy",
-          "finance"
-        ],
-        "industries": [
-          "generalPublic",
-          "financeInvestment",
-          "operationsGrowth",
-          "ecommerceRetail"
-        ],
-        "section": "front",
-        "body": {
-          "background": "受影响的商品涵盖乳制品、葡萄酒、木制品、家具、水泥、陶瓷和许多其他领域。卡尼补充说，详细信息将在“未来几天”公布。美国贸易代表杰米森·格里尔周一在接受 CNBC 采访时表示，协议已接近达成，但在“最后几个小时”，加拿大“想要的”超出了华盛顿愿意提供的。",
-          "keyProgress": "渥太华和华盛顿之间的贸易谈判破裂后，加元周一上午下跌，导致双方多种进口商品面临更高的价格，并威胁加拿大的经济增长。”格里尔补充说，市场“明白这只会影响极少量的贸易”。卡尼周六表示，美国“要求太多，提供太少”。美国周六对价值约 200 亿美元的加拿大进口商品征收 50% 的关税，加拿大是继墨西哥之后的第二大贸易伙伴。",
-          "whyItMatters": "“他们要求太多：渥太华和华盛顿陷入全面贸易战，加元下跌”如果继续发展，可能通过能源价格、航运、贸易、汇率或市场预期传导到国内。了解它的意义在于判断后续风险，而不只停留在事件本身。",
-          "userRelevance": "即使你不在事发地区，“他们要求太多：渥太华和华盛顿陷入全面贸易战，加元下跌”也可能通过能源价格、国际航运、贸易成本和市场预期间接影响国内生活与工作判断。",
-          "whatToWatch": "接下来要看“他们要求太多：渥太华和华盛顿陷入全面贸易战，加元下跌”是否出现更细的城市、行业、平台或企业数据，以及这一变化能否连续保持。"
-        },
-        "sourceLinks": [
-          {
-            "title": "CNBC World News RSS",
-            "url": "https://www.cnbc.com/2026/08/24/canada-us-trade-war-deal.html",
-            "sourceId": "cnbc-world-rss",
-            "publishedAt": "2026-08-24T12:56:17.000Z",
-            "language": "zh",
-            "originalLanguage": "en",
-            "translationStatus": "translated",
-            "fetchedAt": "2026-08-24T13:33:59.735Z",
-            "sourceMethod": "rss",
-            "verificationStatus": "pending"
-          }
-        ],
-        "images": [
-          {
-            "url": "https://image.cnbcfm.com/api/v1/image/108220326-1762005610231-gettyimages-2239794362-imgl1067_tjnvhhcw.jpeg?v=1770826409&amp;w=750&amp;h=422&amp;vtcrop=y",
-            "sourceUrl": "https://www.cnbc.com/2026/08/24/canada-us-trade-war-deal.html"
-          },
-          {
-            "url": "https://image.cnbcfm.com/api/v1/image/108286949-1775162964343-gettyimages-2269564818-aw1a5675_xdx7uyse.jpeg?v=1775163006&amp;w=160&amp;h=90",
-            "sourceUrl": "https://www.cnbc.com/2026/08/24/canada-us-trade-war-deal.html"
-          },
-          {
-            "url": "https://image.cnbcfm.com/api/v1/image/108351356-1787125838744-gettyimages-2281261895-AFP_B79K3Z3.jpeg?v=1787125848&amp;w=160&amp;h=90",
-            "sourceUrl": "https://www.cnbc.com/2026/08/24/canada-us-trade-war-deal.html"
-          }
-        ],
-        "generatedAt": "2026-08-24T13:33:55.531Z"
-      },
-      {
-        "id": "draft-real-gov-uk-news-cgxz99",
-        "title": "财政部将暂停酒吧和酒店的不确定性",
-        "oneLine": "政策变化：《财政部将暂停酒吧和酒店的不确定性》我们使用一些必要的 cookie 来使该网站正常运行。",
-        "importance": "B",
-        "credibility": "官方来源",
-        "tags": [
-          "B",
-          "industry",
-          "world",
-          "policy",
-          "local"
-        ],
-        "industries": [
-          "generalPublic",
-          "localLife",
-          "hrRecruiting",
-          "financeInvestment",
-          "operationsGrowth"
-        ],
-        "section": "industry",
-        "body": {
-          "background": "出生、死亡、婚姻和护理 商业和自营职业 儿童保育和养育 英国公民身份和生活 犯罪、司法和法律 残疾人 驾驶和交通 教育和学习 就业人员 环境和乡村 住房和当地服务 金钱和税收 护照、旅行和国外生活 签证和移民 工作、工作和养老金 部门 部门、机构和公共机构 新闻 新闻故事、演讲、信件和通知 指导和监管 详细指导、法规和规则 研究和统计 报告、分析和官方统计政策文件和咨询 咨询和战略 透明度数据、信息自由发布和公司报告 商业和工业 随着政府采取进一步措施支持有助于推动每个邮政编码增长的企业，酒吧和酒店的估值将变得更加公平。我们使用一些必要的 cookie 来使该网站正常运行。我们希望设置额外的 cookie 来了解您如何使用 GOV.UK、记住您的设置并改善政府服务。",
-          "keyProgress": "人们担心当前的系统不能反映酒吧和酒店市场的现实。领先的商业利率专家 Jerry Schurder 将领导独立审查，并在 2027 年 3 月底之前向财政部报告，以便他的建议能够在下次重估时得到实施。我们还使用其他网站设置的 cookie 来帮助我们从他们的服务中提供内容。您可以随时更改您的 cookie 设置。",
-          "whyItMatters": "“财政部将暂停酒吧和酒店的不确定性”如果继续发展，可能通过能源价格、航运、贸易、汇率或市场预期传导到国内。了解它的意义在于判断后续风险，而不只停留在事件本身。",
-          "userRelevance": "即使你不在事发地区，“财政部将暂停酒吧和酒店的不确定性”也可能通过能源价格、国际航运、贸易成本和市场预期间接影响国内生活与工作判断。",
-          "whatToWatch": "接下来要看“财政部将暂停酒吧和酒店的不确定性”是否出现更细的城市、行业、平台或企业数据，以及这一变化能否连续保持。"
-        },
-        "sourceLinks": [
-          {
-            "title": "GOV.UK News and Communications",
-            "url": "https://www.gov.uk/government/news/treasury-to-call-time-on-uncertainty-for-pubs-and-hotels",
-            "sourceId": "gov-uk-news",
-            "publishedAt": "2026-08-24T09:02:00.000Z",
-            "language": "zh",
-            "originalLanguage": "en",
-            "translationStatus": "translated",
-            "fetchedAt": "2026-08-24T13:33:59.641Z",
-            "sourceMethod": "rss",
-            "verificationStatus": "confirmed"
-          }
-        ],
-        "images": [
-          {
-            "url": "https://assets.publishing.service.gov.uk/media/5a37db09e5274a79051c9235/s300_HMT_buiding_plaque.jpg",
-            "sourceUrl": "https://www.gov.uk/government/news/treasury-to-call-time-on-uncertainty-for-pubs-and-hotels"
-          }
-        ],
-        "generatedAt": "2026-08-24T13:33:55.531Z"
+        "generatedAt": "2026-08-24T13:57:24.547Z"
       },
       {
         "id": "draft-cluster-real-cnbc-world-rss-pycuno",
@@ -398,7 +290,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-24T13:33:59.735Z",
+            "fetchedAt": "2026-08-24T13:57:28.617Z",
             "sourceMethod": "rss",
             "verificationStatus": "pending"
           },
@@ -410,7 +302,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-24T13:33:59.471Z",
+            "fetchedAt": "2026-08-24T13:57:28.312Z",
             "sourceMethod": "rss",
             "verificationStatus": "pending"
           }
@@ -421,7 +313,57 @@
             "sourceUrl": "https://news.sky.com/story/shein-targets-valuation-of-just-27bn-in-stock-market-flotation-13576490"
           }
         ],
-        "generatedAt": "2026-08-24T13:33:55.531Z"
+        "generatedAt": "2026-08-24T13:57:24.547Z"
+      },
+      {
+        "id": "draft-real-gov-uk-news-8l3jjn",
+        "title": "财政部将暂停酒吧和酒店的不确定性",
+        "oneLine": "政策变化：《财政部将暂停酒吧和酒店的不确定性》我们使用一些必要的 cookie 来使该网站正常运行。",
+        "importance": "B",
+        "credibility": "官方来源",
+        "tags": [
+          "B",
+          "industry",
+          "world",
+          "policy",
+          "local"
+        ],
+        "industries": [
+          "generalPublic",
+          "localLife",
+          "hrRecruiting",
+          "financeInvestment",
+          "operationsGrowth"
+        ],
+        "section": "industry",
+        "body": {
+          "background": "出生、死亡、婚姻和护理 商业和自营职业 儿童保育和养育 英国公民身份和生活 犯罪、司法和法律 残疾人 驾驶和交通 教育和学习 就业人员 环境和乡村 住房和当地服务 金钱和税收 护照、旅行和国外生活 签证和移民 工作、工作和养老金 部门 部门、机构和公共机构 新闻 新闻故事、演讲、信件和通知 指导和监管 详细指导、法规和规则 研究和统计 报告、分析和官方统计政策文件和咨询 咨询和战略 透明度数据、信息自由发布和公司报告 商业和工业 随着政府采取进一步措施支持有助于推动每个邮政编码增长的企业，酒吧和酒店的估值将变得更加公平。我们使用一些必要的 cookie 来使该网站正常运行。我们希望设置额外的 cookie 来了解您如何使用 GOV.UK、记住您的设置并改善政府服务。",
+          "keyProgress": "人们担心当前的系统不能反映酒吧和酒店市场的现实。领先的商业利率专家 Jerry Schurder 将领导独立审查，并在 2027 年 3 月底之前向财政部报告，以便他的建议能够在下次重估时得到实施。我们还使用其他网站设置的 cookie 来帮助我们从他们的服务中提供内容。您可以随时更改您的 cookie 设置。",
+          "whyItMatters": "“财政部将暂停酒吧和酒店的不确定性”如果继续发展，可能通过能源价格、航运、贸易、汇率或市场预期传导到国内。了解它的意义在于判断后续风险，而不只停留在事件本身。",
+          "userRelevance": "即使你不在事发地区，“财政部将暂停酒吧和酒店的不确定性”也可能通过能源价格、国际航运、贸易成本和市场预期间接影响国内生活与工作判断。",
+          "whatToWatch": "接下来要看“财政部将暂停酒吧和酒店的不确定性”是否出现更细的城市、行业、平台或企业数据，以及这一变化能否连续保持。"
+        },
+        "sourceLinks": [
+          {
+            "title": "GOV.UK News and Communications",
+            "url": "https://www.gov.uk/government/news/treasury-to-call-time-on-uncertainty-for-pubs-and-hotels",
+            "sourceId": "gov-uk-news",
+            "publishedAt": "2026-08-24T09:02:00.000Z",
+            "language": "zh",
+            "originalLanguage": "en",
+            "translationStatus": "translated",
+            "fetchedAt": "2026-08-24T13:57:28.606Z",
+            "sourceMethod": "rss",
+            "verificationStatus": "confirmed"
+          }
+        ],
+        "images": [
+          {
+            "url": "https://assets.publishing.service.gov.uk/media/5a37db09e5274a79051c9235/s300_HMT_buiding_plaque.jpg",
+            "sourceUrl": "https://www.gov.uk/government/news/treasury-to-call-time-on-uncertainty-for-pubs-and-hotels"
+          }
+        ],
+        "generatedAt": "2026-08-24T13:57:24.547Z"
       },
       {
         "id": "draft-real-cnbc-world-rss-1oza7a9",
@@ -459,13 +401,13 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-24T13:33:59.735Z",
+            "fetchedAt": "2026-08-24T13:57:28.617Z",
             "sourceMethod": "rss",
             "verificationStatus": "pending"
           }
         ],
         "images": [],
-        "generatedAt": "2026-08-24T13:33:55.531Z"
+        "generatedAt": "2026-08-24T13:57:24.547Z"
       },
       {
         "id": "draft-real-cnbc-world-rss-1uqz2ms",
@@ -503,13 +445,13 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-24T13:33:59.735Z",
+            "fetchedAt": "2026-08-24T13:57:28.617Z",
             "sourceMethod": "rss",
             "verificationStatus": "pending"
           }
         ],
         "images": [],
-        "generatedAt": "2026-08-24T13:33:55.531Z"
+        "generatedAt": "2026-08-24T13:57:24.547Z"
       },
       {
         "id": "draft-real-cnbc-world-rss-iph149",
@@ -547,7 +489,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-24T13:33:59.735Z",
+            "fetchedAt": "2026-08-24T13:57:28.617Z",
             "sourceMethod": "rss",
             "verificationStatus": "pending"
           }
@@ -558,13 +500,13 @@
             "sourceUrl": "https://www.cnbc.com/2026/08/24/alibaba-share-placement-drop-ai-hong-kong.html"
           }
         ],
-        "generatedAt": "2026-08-24T13:33:55.531Z"
+        "generatedAt": "2026-08-24T13:57:24.547Z"
       }
     ],
-    "estimatedReadMinutes": 17,
+    "estimatedReadMinutes": 16,
     "pageCount": 2,
     "topCardId": "draft-real-npr-world-rss-1u4l2m5",
-    "generatedAt": "2026-08-24T13:33:55.531Z",
+    "generatedAt": "2026-08-24T13:57:24.547Z",
     "pushSlots": [
       "08:30",
       "12:30",
@@ -582,9 +524,8 @@
       "draft-real-cnbc-world-rss-7jcfhy",
       "draft-real-cnbc-world-rss-1xil8fz",
       "draft-real-cnbc-world-rss-6bboqv",
-      "draft-real-cnbc-world-rss-vgs1fb",
-      "draft-real-gov-uk-news-cgxz99",
       "draft-cluster-real-cnbc-world-rss-pycuno",
+      "draft-real-gov-uk-news-8l3jjn",
       "draft-real-cnbc-world-rss-1oza7a9",
       "draft-real-cnbc-world-rss-1uqz2ms",
       "draft-real-cnbc-world-rss-iph149"

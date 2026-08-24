@@ -1,0 +1,176 @@
+{
+  "schemaVersion": 2,
+  "publishedAt": "2026-08-24T04:26:20.783Z",
+  "issue": {
+    "id": "daily-public-2026-08-24",
+    "date": "2026-08-24",
+    "userId": "public",
+    "cards": [
+      {
+        "id": "draft-real-cnbc-world-rss-feebo",
+        "title": "随着德黑兰威胁扣押船只，美国将公布对伊朗的“最大金融攻势”",
+        "oneLine": "政策变化：美国财政部长斯科特·贝森特（ Scott Bessent ）表示，在这篇文章中，美国将于周一公布针对伊朗的“有史以来最大规模的金融攻势” ，而德黑兰则威胁要扣押违反霍尔木兹海峡过境规则的船只。",
+        "importance": "S",
+        "credibility": "待确认",
+        "tags": [
+          "S",
+          "mustKnow",
+          "industry",
+          "world",
+          "policy",
+          "finance"
+        ],
+        "industries": [
+          "generalPublic",
+          "financeInvestment",
+          "operationsGrowth",
+          "ecommerceRetail"
+        ],
+        "section": "front",
+        "body": {
+          "background": "他此前曾警告称，将对与伊朗开展业务的国家和实体实施进一步的二级制裁。他在接受伊朗国家广播公司采访时表示： “任何国家成为对我们施加经济限制的合作伙伴，都将被我们视为敌人。”在周日X的一系列帖子中，伊朗国家控制的波斯湾海峡管理局（ PGSA ）警告说，违反其在霍尔木兹过境规则的船只可能在未来的通行中面临处罚，包括“罚款、扣押或没收”。",
+          "keyProgress": "迫在眉睫的升级之际，双方都错过了为期60天的停火窗口来达成协议，关闭了旨在结束中东战争的正式停战机制，现在已经是第六个月了。贝森特在美国X周日晚间的一篇帖子中说， “黎明时分开始一个经济D日” ，将即将到来的措施定为华盛顿对德黑兰运动的“最后阶段”。新措施将增加已经针对伊朗银行、能源、航空和加密货币行业的广泛制裁制度。特朗普政府声称，伊朗经济正在自由落体，通货膨胀失控，货币崩溃。",
+          "whyItMatters": "“随着德黑兰威胁扣押船只，美国将公布对伊朗的最大金融攻势”如果继续发展，可能通过能源价格、航运、贸易、汇率或市场预期传导到国内。了解它的意义在于判断后续风险，而不只停留在事件本身。",
+          "userRelevance": "即使你不在美国、伊朗，“随着德黑兰威胁扣押船只，美国将公布对伊朗的最大金融攻势”也可能通过能源价格、国际航运、贸易成本和市场预期间接影响国内生活与工作判断。",
+          "whatToWatch": "接下来要看“随着德黑兰威胁扣押船只，美国将公布对伊朗的最大金融攻势”是否出现更细的城市、行业、平台或企业数据，以及这一变化能否连续保持。"
+        },
+        "sourceLinks": [
+          {
+            "title": "CNBC World News RSS",
+            "url": "https://www.cnbc.com/2026/08/24/us-iran-war-trump-hormuz-bessent-economic-sanctions-.html",
+            "sourceId": "cnbc-world-rss",
+            "publishedAt": "2026-08-24T03:57:57.000Z",
+            "language": "zh",
+            "originalLanguage": "en",
+            "translationStatus": "translated",
+            "fetchedAt": "2026-08-24T04:26:30.171Z",
+            "sourceMethod": "rss",
+            "verificationStatus": "pending"
+          }
+        ],
+        "images": [
+          {
+            "url": "https://image.cnbcfm.com/api/v1/image/108352206-17872396781787239671-47882470748-1080pnbcnews.jpg?v=1787239677&amp;w=750&amp;h=422&amp;vtcrop=y",
+            "sourceUrl": "https://www.cnbc.com/2026/08/24/us-iran-war-trump-hormuz-bessent-economic-sanctions-.html"
+          }
+        ],
+        "generatedAt": "2026-08-24T04:26:20.783Z"
+      },
+      {
+        "id": "draft-real-cnbc-world-rss-83bmvw",
+        "title": "随着投资者等待美国对伊朗实施“最严厉”的制裁，油价下跌",
+        "oneLine": "政策变化：在这篇文章中，油价周一下跌，因为投资者正在等待华盛顿所称的对伊朗有史以来最严厉的制裁行动的细节，而德黑兰则驳斥了经济压力加剧的威胁。",
+        "importance": "S",
+        "credibility": "待确认",
+        "tags": [
+          "S",
+          "mustKnow",
+          "industry",
+          "world",
+          "policy",
+          "finance"
+        ],
+        "industries": [
+          "generalPublic",
+          "financeInvestment",
+          "operationsGrowth",
+          "ecommerceRetail"
+        ],
+        "section": "front",
+        "body": {
+          "background": "财政部长斯科特·贝森特（ Scott Bessent ）将于周一晚些时候公布对伊朗的新一揽子制裁措施。此前，美国总统唐纳德·特朗普(Donald Trump)上周威胁要对伊朗发起“有史以来针对任何国家的最具破坏性的经济行动”。美国基准西德克萨斯中质期货下跌约1.3% ，至每桶85.93 $。",
+          "keyProgress": "据伊朗国家媒体报道，伊斯兰革命卫队表示，德黑兰有办法“应对敌方战争的不利影响” ，并可以“轻松与各国建立经济关系”。澳大利亚联邦银行(Commonwealth Bank of Australia)预计，随着市场权衡华盛顿在经济上孤立伊朗的努力是否会成功，以及德黑兰如何应对，油价将在今年下半年保持波动。但如果美国的措施确实按预期发挥作用，伊朗通过增加暴力做出反应的能力将成为能源市场需要考虑的日益增加的风险， ”CBA在周一的一份报告中写道。该银行表示，如果通过霍尔木兹海峡的石油流量即使温和回升，价格也可能跌至该范围的底部，估计战前数量的50 ％至60 ％就足以重振对供应过剩的全球市场的预期。",
+          "whyItMatters": "“随着投资者等待美国对伊朗实施最严厉的制裁，油价下跌”如果继续发展，可能通过能源价格、航运、贸易、汇率或市场预期传导到国内。了解它的意义在于判断后续风险，而不只停留在事件本身。",
+          "userRelevance": "即使你不在美国、伊朗，“随着投资者等待美国对伊朗实施最严厉的制裁，油价下跌”也可能通过能源价格、国际航运、贸易成本和市场预期间接影响国内生活与工作判断。",
+          "whatToWatch": "接下来要看“随着投资者等待美国对伊朗实施最严厉的制裁，油价下跌”是否出现更细的城市、行业、平台或企业数据，以及这一变化能否连续保持。"
+        },
+        "sourceLinks": [
+          {
+            "title": "CNBC World News RSS",
+            "url": "https://www.cnbc.com/2026/08/24/oil-price-today-wti-brent-us-sanctions-iran.html",
+            "sourceId": "cnbc-world-rss",
+            "publishedAt": "2026-08-24T00:59:57.000Z",
+            "language": "zh",
+            "originalLanguage": "en",
+            "translationStatus": "translated",
+            "fetchedAt": "2026-08-24T04:26:30.171Z",
+            "sourceMethod": "rss",
+            "verificationStatus": "pending"
+          }
+        ],
+        "images": [],
+        "generatedAt": "2026-08-24T04:26:20.783Z"
+      },
+      {
+        "id": "draft-real-cnbc-world-rss-1s6um1v",
+        "title": "阿里巴巴在宣布102亿美元的股票配售以资助AI推动后暴跌",
+        "oneLine": "政策变化：在本文中，阿里巴巴股价周一在香港暴跌多达10% ，此前这家中国科技巨头以800亿港元（ 102亿美元）的价格向非美国投资者发行新发行的股票。",
+        "importance": "B",
+        "credibility": "待确认",
+        "tags": [
+          "B",
+          "industry",
+          "world",
+          "policy",
+          "finance"
+        ],
+        "industries": [
+          "generalPublic",
+          "financeInvestment",
+          "operationsGrowth",
+          "ecommerceRetail"
+        ],
+        "section": "industry",
+        "body": {
+          "background": "该公司表示，计划将所有净收益用于投资其全栈AI功能，包括扩展和增强其AI基础设施。UBP高级股权顾问Vey-Sern Ling上周在阿里巴巴的最新财报发布后告诉CNBC ，该公司有能力追求人工智能的增长。阿里巴巴将以每股112.70港元的价格发行7.1亿股新股，而该股周五收盘价为123港元。",
+          "keyProgress": "此次股票配售预计将于周三结束，就在几天前，阿里巴巴报告称，由于沉重的人工智能支出对其业绩造成压力， 6月季度的利润下降了75%。“我认为阿里巴巴显然有能力追逐这种增长，因为他们拥有云计算部门，他们拥有非常强大的人工智能模型，”他说，并补充说，短期内利润可能会减弱，而资本支出可能会增加。阿里巴巴一直在加大对人工智能的投资，因为它试图让这项技术成为未来增长的关键驱动力。腾讯的资本支出比上一季度增长65% ，至6月季度的528亿元人民币，原因是该公司继续投资计算基础设施，以将其人工智能模型货币化。",
+          "whyItMatters": "“阿里巴巴在宣布102亿美元的股票配售以资助AI推动后暴跌”如果继续发展，可能通过能源价格、航运、贸易、汇率或市场预期传导到国内。了解它的意义在于判断后续风险，而不只停留在事件本身。",
+          "userRelevance": "即使你不在事发地区，“阿里巴巴在宣布102亿美元的股票配售以资助AI推动后暴跌”也可能通过能源价格、国际航运、贸易成本和市场预期间接影响国内生活与工作判断。",
+          "whatToWatch": "接下来要看“阿里巴巴在宣布102亿美元的股票配售以资助AI推动后暴跌”是否出现更细的城市、行业、平台或企业数据，以及这一变化能否连续保持。"
+        },
+        "sourceLinks": [
+          {
+            "title": "CNBC World News RSS",
+            "url": "https://www.cnbc.com/2026/08/24/alibaba-share-placement-drop-ai-hong-kong.html",
+            "sourceId": "cnbc-world-rss",
+            "publishedAt": "2026-08-24T02:55:22.000Z",
+            "language": "zh",
+            "originalLanguage": "en",
+            "translationStatus": "translated",
+            "fetchedAt": "2026-08-24T04:26:30.171Z",
+            "sourceMethod": "rss",
+            "verificationStatus": "pending"
+          }
+        ],
+        "images": [
+          {
+            "url": "https://image.cnbcfm.com/api/v1/image/108352542-17872875281787287524-47893590691-1080pnbcnews.jpg?v=1787287527&amp;w=750&amp;h=422&amp;vtcrop=y",
+            "sourceUrl": "https://www.cnbc.com/2026/08/24/alibaba-share-placement-drop-ai-hong-kong.html"
+          }
+        ],
+        "generatedAt": "2026-08-24T04:26:20.783Z"
+      }
+    ],
+    "estimatedReadMinutes": 5,
+    "pageCount": 1,
+    "topCardId": "draft-real-cnbc-world-rss-feebo",
+    "generatedAt": "2026-08-24T04:26:20.783Z",
+    "pushSlots": [
+      "08:30",
+      "12:30",
+      "21:30"
+    ],
+    "edition": "midday",
+    "editionLabel": "午间更新",
+    "coverageWindow": {
+      "start": "2026-08-24T07:10:00+08:00",
+      "end": "2026-08-24T12:10:00+08:00"
+    },
+    "editionCardIds": [
+      "draft-real-cnbc-world-rss-feebo",
+      "draft-real-cnbc-world-rss-83bmvw",
+      "draft-real-cnbc-world-rss-1s6um1v"
+    ],
+    "carriedCardIds": []
+  }
+}

@@ -1,0 +1,124 @@
+name: Publish Mobile Content To OSS
+
+on:
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+    paths:
+      - "latest.json"
+      - "issues/**"
+      - "editions/**"
+      - "personalization/latest.json"
+      - "aliyun/content-publishing/**"
+      - ".github/workflows/publish-oss-content.yml"
+  workflow_run:
+    workflows:
+      - Prepare Daily Review
+    types:
+      - completed
+
+permissions:
+  contents: read
+
+concurrency:
+  group: publish-mobile-content-to-oss
+  cancel-in-progress: false
+
+jobs:
+  publish:
+    if: github.event_name != 'workflow_run' || github.event.workflow_run.conclusion == 'success'
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out published content
+        uses: actions/checkout@v4
+        with:
+          ref: main
+
+      - name: Check OSS publishing configuration
+        env:
+          OSS_ACCESS_KEY_ID: ${{ secrets.ALIYUN_OSS_ACCESS_KEY_ID }}
+          OSS_ACCESS_KEY_SECRET: ${{ secrets.ALIYUN_OSS_ACCESS_KEY_SECRET }}
+          OSS_ENDPOINT: ${{ vars.ALIYUN_OSS_ENDPOINT }}
+          OSS_DESTINATION: ${{ vars.ALIYUN_OSS_DESTINATION }}
+          OSS_PUBLIC_BASE_URL: ${{ vars.ALIYUN_OSS_PUBLIC_BASE_URL }}
+        run: |
+          for name in OSS_ACCESS_KEY_ID OSS_ACCESS_KEY_SECRET OSS_ENDPOINT OSS_DESTINATION OSS_PUBLIC_BASE_URL; do
+            if [ -z "${!name}" ]; then
+              echo "Missing GitHub Actions configuration: $name" >&2
+              exit 1
+            fi
+          done
+          case "$OSS_DESTINATION" in
+            oss://shixiaobao-content-cn-20260824/public) ;;
+            *)
+              echo "OSS_DESTINATION must be limited to oss://shixiaobao-content-cn-20260824/public" >&2
+              exit 1
+              ;;
+          esac
+
+      - name: Prevent an older repository issue from replacing the mobile issue
+        id: freshness
+        env:
+          OSS_PUBLIC_BASE_URL: ${{ vars.ALIYUN_OSS_PUBLIC_BASE_URL }}
+        run: |
+          curl --fail --silent --show-error --location \
+            "$OSS_PUBLIC_BASE_URL/latest.json?checked_at=$(date +%s)" \
+            --output /tmp/oss-current-latest.json
+          node <<'NODE'
+          const fs = require('node:fs');
+          const local = JSON.parse(fs.readFileSync('latest.json', 'utf8')).issue;
+          const remote = JSON.parse(fs.readFileSync('/tmp/oss-current-latest.json', 'utf8')).issue;
+          const editionRank = { morning: 1, midday: 2, evening: 3 };
+          const localRank = editionRank[local.edition] ?? 0;
+          const remoteRank = editionRank[remote.edition] ?? 0;
+          const isNewEnough = local.date > remote.date || (local.date === remote.date && localRank >= remoteRank);
+          fs.appendFileSync(process.env.GITHUB_OUTPUT, `should_publish=${isNewEnough}\n`);
+          console.log(`Repository issue: ${local.date} ${local.edition}; OSS issue: ${remote.date} ${remote.edition}.`);
+          console.log(isNewEnough ? 'Publishing the repository issue.' : 'Skipping older repository issue.');
+          NODE
+
+      - name: Install ossutil
+        if: steps.freshness.outputs.should_publish == 'true'
+        run: |
+          curl --fail --location --retry 3 --retry-delay 2 \
+            --output /tmp/ossutil.zip \
+            https://gosspublic.alicdn.com/ossutil/1.7.19/ossutil-v1.7.19-linux-amd64.zip
+          unzip -q /tmp/ossutil.zip -d /tmp/ossutil-bin
+          OSSUTIL_BINARY="$(find /tmp/ossutil-bin -type f \( -name ossutil64 -o -name ossutil \) | head -n 1)"
+          test -n "$OSSUTIL_BINARY"
+          chmod +x "$OSSUTIL_BINARY"
+          ln -s "$OSSUTIL_BINARY" /tmp/ossutil
+          /tmp/ossutil version
+
+      - name: Configure least-privilege OSS uploader
+        if: steps.freshness.outputs.should_publish == 'true'
+        env:
+          OSS_ACCESS_KEY_ID: ${{ secrets.ALIYUN_OSS_ACCESS_KEY_ID }}
+          OSS_ACCESS_KEY_SECRET: ${{ secrets.ALIYUN_OSS_ACCESS_KEY_SECRET }}
+          OSS_ENDPOINT: ${{ vars.ALIYUN_OSS_ENDPOINT }}
+        run: |
+          /tmp/ossutil config \
+            -e "$OSS_ENDPOINT" \
+            -i "$OSS_ACCESS_KEY_ID" \
+            -k "$OSS_ACCESS_KEY_SECRET"
+
+      - name: Publish approved daily content
+        if: steps.freshness.outputs.should_publish == 'true'
+        env:
+          OSS_DESTINATION: ${{ vars.ALIYUN_OSS_DESTINATION }}
+          OSSUTIL_BIN: /tmp/ossutil
+        run: ./aliyun/content-publishing/publish-oss.sh
+
+      - name: Verify mobile files are publicly readable
+        env:
+          OSS_PUBLIC_BASE_URL: ${{ vars.ALIYUN_OSS_PUBLIC_BASE_URL }}
+        run: |
+          for path in latest.json manifest.json personalization/latest.json; do
+            output="/tmp/${path//\//-}"
+            curl --fail --silent --show-error --location \
+              "$OSS_PUBLIC_BASE_URL/$path?published_at=$(date +%s)" \
+              --output "$output"
+            test -s "$output"
+          done
+          node -e "const fs=require('node:fs'); const issue=JSON.parse(fs.readFileSync('/tmp/latest.json')).issue; if (!issue?.date || !Array.isArray(issue.cards)) process.exit(1); console.log('OSS latest issue:', issue.date, issue.cards.length, 'cards');"

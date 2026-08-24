@@ -1,61 +1,11 @@
 {
   "schemaVersion": 2,
-  "publishedAt": "2026-08-24T04:26:20.783Z",
+  "publishedAt": "2026-08-24T04:56:24.382Z",
   "issue": {
     "id": "daily-public-2026-08-24",
     "date": "2026-08-24",
     "userId": "public",
     "cards": [
-      {
-        "id": "draft-real-cnbc-world-rss-feebo",
-        "title": "随着德黑兰威胁扣押船只，美国将公布对伊朗的“最大金融攻势”",
-        "oneLine": "政策变化：美国财政部长斯科特·贝森特（ Scott Bessent ）表示，在这篇文章中，美国将于周一公布针对伊朗的“有史以来最大规模的金融攻势” ，而德黑兰则威胁要扣押违反霍尔木兹海峡过境规则的船只。",
-        "importance": "S",
-        "credibility": "待确认",
-        "tags": [
-          "S",
-          "mustKnow",
-          "industry",
-          "world",
-          "policy",
-          "finance"
-        ],
-        "industries": [
-          "generalPublic",
-          "financeInvestment",
-          "operationsGrowth",
-          "ecommerceRetail"
-        ],
-        "section": "front",
-        "body": {
-          "background": "他此前曾警告称，将对与伊朗开展业务的国家和实体实施进一步的二级制裁。他在接受伊朗国家广播公司采访时表示： “任何国家成为对我们施加经济限制的合作伙伴，都将被我们视为敌人。”在周日X的一系列帖子中，伊朗国家控制的波斯湾海峡管理局（ PGSA ）警告说，违反其在霍尔木兹过境规则的船只可能在未来的通行中面临处罚，包括“罚款、扣押或没收”。",
-          "keyProgress": "迫在眉睫的升级之际，双方都错过了为期60天的停火窗口来达成协议，关闭了旨在结束中东战争的正式停战机制，现在已经是第六个月了。贝森特在美国X周日晚间的一篇帖子中说， “黎明时分开始一个经济D日” ，将即将到来的措施定为华盛顿对德黑兰运动的“最后阶段”。新措施将增加已经针对伊朗银行、能源、航空和加密货币行业的广泛制裁制度。特朗普政府声称，伊朗经济正在自由落体，通货膨胀失控，货币崩溃。",
-          "whyItMatters": "“随着德黑兰威胁扣押船只，美国将公布对伊朗的最大金融攻势”如果继续发展，可能通过能源价格、航运、贸易、汇率或市场预期传导到国内。了解它的意义在于判断后续风险，而不只停留在事件本身。",
-          "userRelevance": "即使你不在美国、伊朗，“随着德黑兰威胁扣押船只，美国将公布对伊朗的最大金融攻势”也可能通过能源价格、国际航运、贸易成本和市场预期间接影响国内生活与工作判断。",
-          "whatToWatch": "接下来要看“随着德黑兰威胁扣押船只，美国将公布对伊朗的最大金融攻势”是否出现更细的城市、行业、平台或企业数据，以及这一变化能否连续保持。"
-        },
-        "sourceLinks": [
-          {
-            "title": "CNBC World News RSS",
-            "url": "https://www.cnbc.com/2026/08/24/us-iran-war-trump-hormuz-bessent-economic-sanctions-.html",
-            "sourceId": "cnbc-world-rss",
-            "publishedAt": "2026-08-24T03:57:57.000Z",
-            "language": "zh",
-            "originalLanguage": "en",
-            "translationStatus": "translated",
-            "fetchedAt": "2026-08-24T04:26:30.171Z",
-            "sourceMethod": "rss",
-            "verificationStatus": "pending"
-          }
-        ],
-        "images": [
-          {
-            "url": "https://image.cnbcfm.com/api/v1/image/108352206-17872396781787239671-47882470748-1080pnbcnews.jpg?v=1787239677&amp;w=750&amp;h=422&amp;vtcrop=y",
-            "sourceUrl": "https://www.cnbc.com/2026/08/24/us-iran-war-trump-hormuz-bessent-economic-sanctions-.html"
-          }
-        ],
-        "generatedAt": "2026-08-24T04:26:20.783Z"
-      },
       {
         "id": "draft-real-cnbc-world-rss-83bmvw",
         "title": "随着投资者等待美国对伊朗实施“最严厉”的制裁，油价下跌",
@@ -93,13 +43,13 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-24T04:26:30.171Z",
+            "fetchedAt": "2026-08-24T04:56:33.715Z",
             "sourceMethod": "rss",
             "verificationStatus": "pending"
           }
         ],
         "images": [],
-        "generatedAt": "2026-08-24T04:26:20.783Z"
+        "generatedAt": "2026-08-24T04:56:24.382Z"
       },
       {
         "id": "draft-real-cnbc-world-rss-1s6um1v",
@@ -137,7 +87,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-24T04:26:30.171Z",
+            "fetchedAt": "2026-08-24T04:56:33.715Z",
             "sourceMethod": "rss",
             "verificationStatus": "pending"
           }
@@ -148,13 +98,13 @@
             "sourceUrl": "https://www.cnbc.com/2026/08/24/alibaba-share-placement-drop-ai-hong-kong.html"
           }
         ],
-        "generatedAt": "2026-08-24T04:26:20.783Z"
+        "generatedAt": "2026-08-24T04:56:24.382Z"
       }
     ],
-    "estimatedReadMinutes": 5,
+    "estimatedReadMinutes": 4,
     "pageCount": 1,
-    "topCardId": "draft-real-cnbc-world-rss-feebo",
-    "generatedAt": "2026-08-24T04:26:20.783Z",
+    "topCardId": "draft-real-cnbc-world-rss-83bmvw",
+    "generatedAt": "2026-08-24T04:56:24.382Z",
     "pushSlots": [
       "08:30",
       "12:30",
@@ -167,7 +117,6 @@
       "end": "2026-08-24T12:10:00+08:00"
     },
     "editionCardIds": [
-      "draft-real-cnbc-world-rss-feebo",
       "draft-real-cnbc-world-rss-83bmvw",
       "draft-real-cnbc-world-rss-1s6um1v"
     ],

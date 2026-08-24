@@ -1,0 +1,594 @@
+{
+  "schemaVersion": 2,
+  "publishedAt": "2026-08-24T13:33:55.531Z",
+  "issue": {
+    "id": "daily-public-2026-08-24",
+    "date": "2026-08-24",
+    "userId": "public",
+    "cards": [
+      {
+        "id": "draft-real-npr-world-rss-1u4l2m5",
+        "title": "财政部长斯科特·贝森特将宣布对伊朗实施新的经济制裁",
+        "oneLine": "政策变化：财政部长斯科特·贝森特预计将于周一公布对伊朗的新一轮经济制裁，他称之为“有史以来最大规模的金融攻势”。",
+        "importance": "S",
+        "credibility": "主流媒体",
+        "tags": [
+          "S",
+          "mustKnow",
+          "industry",
+          "world",
+          "policy",
+          "finance"
+        ],
+        "industries": [
+          "generalPublic",
+          "financeInvestment",
+          "operationsGrowth",
+          "ecommerceRetail"
+        ],
+        "section": "front",
+        "body": {
+          "background": "其中包括伊朗最大的石油客户中国，贝森特上周批评中国历史上购买了伊朗约 90% 的石油。伊朗誓言对任何制裁进行“地震式”报复伊朗新任安全局长穆赫森·雷扎伊周末在接受国家电视台采访时表示，伊朗将以“地震式”方式对特朗普最新的经济战尝试进行报复。特朗普总统称其为“经济诺曼底登陆日”，并承诺追击向德黑兰提供经济生命线的其他国家。",
+          "keyProgress": "美国已经对伊朗实施了广泛的制裁，其中一些制裁可以追溯到近 50 年前，最近在 6 月还对帮助伊朗规避现有金融限制的实体实施了进一步的处罚。在预期中，伊朗货币里亚尔已跌至历史新低。美国对伊朗也进行了长达数月的海上封锁，切断了外界对伊朗的大部分货物。特朗普总统和贝森特国务卿的这一最新建议似乎侧重于向为伊朗提供现金流的实体所在的国家和政府——而不仅仅是企业——施加更大的压力。",
+          "whyItMatters": "“财政部长斯科特·贝森特将宣布对伊朗实施新的经济制裁”如果继续发展，可能通过能源价格、航运、贸易、汇率或市场预期传导到国内。了解它的意义在于判断后续风险，而不只停留在事件本身。",
+          "userRelevance": "即使你不在伊朗，“财政部长斯科特·贝森特将宣布对伊朗实施新的经济制裁”也可能通过能源价格、国际航运、贸易成本和市场预期间接影响国内生活与工作判断。",
+          "whatToWatch": "接下来要看“财政部长斯科特·贝森特将宣布对伊朗实施新的经济制裁”是否出现更细的城市、行业、平台或企业数据，以及这一变化能否连续保持。"
+        },
+        "sourceLinks": [
+          {
+            "title": "NPR World RSS",
+            "url": "https://www.npr.org/2026/08/24/g-s1-139743/treasury-secretary-scott-bessent-to-unveil-new-economic-sanctions-on-iran",
+            "sourceId": "npr-world-rss",
+            "publishedAt": "2026-08-24T12:26:00.000Z",
+            "language": "zh",
+            "originalLanguage": "en",
+            "translationStatus": "translated",
+            "fetchedAt": "2026-08-24T13:33:59.463Z",
+            "sourceMethod": "rss",
+            "verificationStatus": "confirmed"
+          }
+        ],
+        "images": [
+          {
+            "url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5616x3744+0+0/resize/1100/quality/50/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F2a%2Fc7%2Fd03614dc43d88cabaee45cf02e8c%2Fap26232565516998.jpg",
+            "sourceUrl": "https://www.npr.org/2026/08/24/g-s1-139743/treasury-secretary-scott-bessent-to-unveil-new-economic-sanctions-on-iran"
+          }
+        ],
+        "generatedAt": "2026-08-24T13:33:55.531Z"
+      },
+      {
+        "id": "draft-real-npr-world-rss-1sxqepm",
+        "title": "美国将详细说明对伊朗的新经济压力。并且，加拿大将对美国征收关税",
+        "oneLine": "政策变化：《美国将详细说明对伊朗的新经济压力。并且，加拿大将对美国征收关税》您正在阅读 Up First 时事通讯。",
+        "importance": "S",
+        "credibility": "主流媒体",
+        "tags": [
+          "S",
+          "mustKnow",
+          "industry",
+          "world",
+          "policy",
+          "finance"
+        ],
+        "industries": [
+          "generalPublic",
+          "financeInvestment",
+          "operationsGrowth",
+          "ecommerceRetail"
+        ],
+        "section": "front",
+        "body": {
+          "background": "此前，特朗普政府对加拿大多种商品征收了50%的关税。受到公众大力支持的总理誓言加拿大将予以反击。您正在阅读 Up First 时事通讯。",
+          "keyProgress": "今天，财政部长斯科特·贝森特将宣布对伊朗实施新一轮经济压力，迫使其重返谈判。雷扎伊还警告称，伊朗可能会针对实施新经济限制的海湾国家。一名联邦法官推翻了特朗普政府对来自 75 个国家的人实施的移民签证禁令，裁定该禁令存在国籍歧视，违反了联邦移民法。在此订阅，将其发送到您的收件箱，并收听 Up First 播客，了解开始新的一天所需的所有新闻。",
+          "whyItMatters": "“美国将详细说明对伊朗的新经济压力。并且，加拿大将对美国征收关税”如果继续发展，可能通过能源价格、航运、贸易、汇率或市场预期传导到国内。了解它的意义在于判断后续风险，而不只停留在事件本身。",
+          "userRelevance": "即使你不在美国、伊朗，“美国将详细说明对伊朗的新经济压力。并且，加拿大将对美国征收关税”也可能通过能源价格、国际航运、贸易成本和市场预期间接影响国内生活与工作判断。",
+          "whatToWatch": "接下来要看“美国将详细说明对伊朗的新经济压力。并且，加拿大将对美国征收关税”是否出现更细的城市、行业、平台或企业数据，以及这一变化能否连续保持。"
+        },
+        "sourceLinks": [
+          {
+            "title": "NPR World RSS",
+            "url": "https://www.npr.org/2026/08/24/g-s1-139736/up-first-newsletter-iran-economic-pressures-canada-tariffs-trump-visa-ban",
+            "sourceId": "npr-world-rss",
+            "publishedAt": "2026-08-24T11:27:44.000Z",
+            "language": "zh",
+            "originalLanguage": "en",
+            "translationStatus": "translated",
+            "fetchedAt": "2026-08-24T13:33:59.463Z",
+            "sourceMethod": "rss",
+            "verificationStatus": "confirmed"
+          }
+        ],
+        "images": [
+          {
+            "url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6000x3375+0+313/resize/1100/quality/50/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F1f%2F51%2Faa6322b24ac0a44957a0b88ba41a%2Fgettyimages-2291295859.jpg",
+            "sourceUrl": "https://www.npr.org/2026/08/24/g-s1-139736/up-first-newsletter-iran-economic-pressures-canada-tariffs-trump-visa-ban"
+          },
+          {
+            "url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3148x1771+3578+1758/resize/1100/quality/50/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fe5%2F6a%2F24597b5040b8b3e7ae79c104bdd4%2Fhowabearbecameabook-9781250358448-int-36-37.jpg",
+            "sourceUrl": "https://www.npr.org/2026/08/24/g-s1-139736/up-first-newsletter-iran-economic-pressures-canada-tariffs-trump-visa-ban"
+          },
+          {
+            "url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4032x2268+0+297/resize/1100/quality/50/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F3c%2F7c%2Ff1eb163047479c477379e538b3ca%2Fap26235796925254.jpg",
+            "sourceUrl": "https://www.npr.org/2026/08/24/g-s1-139736/up-first-newsletter-iran-economic-pressures-canada-tariffs-trump-visa-ban"
+          }
+        ],
+        "generatedAt": "2026-08-24T13:33:55.531Z"
+      },
+      {
+        "id": "draft-real-cnbc-world-rss-7jcfhy",
+        "title": "随着投资者等待美国对伊朗实施“最严厉”的制裁，油价下跌",
+        "oneLine": "政策变化：在这篇文章中，周一油价下跌，因为投资者等待华盛顿所称的对伊朗有史以来最严厉制裁行动的细节，而德黑兰则否认了经济压力加剧的威胁。",
+        "importance": "S",
+        "credibility": "待确认",
+        "tags": [
+          "S",
+          "mustKnow",
+          "industry",
+          "world",
+          "policy",
+          "finance"
+        ],
+        "industries": [
+          "generalPublic",
+          "financeInvestment",
+          "operationsGrowth",
+          "ecommerceRetail"
+        ],
+        "section": "front",
+        "body": {
+          "background": "美国财政部长斯科特·贝森特将于周一晚些时候公布针对伊朗的新一揽子制裁措施。此前，唐纳德·特朗普总统上周威胁要对伊朗发起“有史以来针对任何国家最严厉的经济行动”。特朗普还警告称，帮助德黑兰逃避制裁的国家将受到严厉的经济处罚，称这种行为是“前所未有规模的经济战和孤立”。",
+          "keyProgress": "据伊朗官方媒体报道，伊斯兰革命卫队表示，德黑兰有办法“应对敌人战争的不利影响”，并且可以“轻松地与各国建立经济关系”。澳大利亚联邦银行预计，下半年油价将继续波动，因为市场正在权衡华盛顿在经济上孤立伊朗的努力是否会成功以及德黑兰将如何应对。但如果美国的措施确实按预期发挥作用，伊朗通过增加暴力做出反应的能力将成为能源市场需要考虑的一个越来越大的风险，”CBA在周一的一份报告中写道。该银行表示，如果通过霍尔木兹海峡的石油流量略有恢复，价格可能会跌至该区间的底部，估计仅战前产量的50%至60%就足以重振全球市场供应过剩的预期。",
+          "whyItMatters": "“随着投资者等待美国对伊朗实施最严厉的制裁，油价下跌”如果继续发展，可能通过能源价格、航运、贸易、汇率或市场预期传导到国内。了解它的意义在于判断后续风险，而不只停留在事件本身。",
+          "userRelevance": "即使你不在美国、伊朗，“随着投资者等待美国对伊朗实施最严厉的制裁，油价下跌”也可能通过能源价格、国际航运、贸易成本和市场预期间接影响国内生活与工作判断。",
+          "whatToWatch": "接下来要看“随着投资者等待美国对伊朗实施最严厉的制裁，油价下跌”是否出现更细的城市、行业、平台或企业数据，以及这一变化能否连续保持。"
+        },
+        "sourceLinks": [
+          {
+            "title": "CNBC World News RSS",
+            "url": "https://www.cnbc.com/2026/08/24/oil-price-today-wti-brent-us-sanctions-iran.html",
+            "sourceId": "cnbc-world-rss",
+            "publishedAt": "2026-08-24T04:59:42.000Z",
+            "language": "zh",
+            "originalLanguage": "en",
+            "translationStatus": "translated",
+            "fetchedAt": "2026-08-24T13:33:59.735Z",
+            "sourceMethod": "rss",
+            "verificationStatus": "pending"
+          }
+        ],
+        "images": [],
+        "generatedAt": "2026-08-24T13:33:55.531Z"
+      },
+      {
+        "id": "draft-real-cnbc-world-rss-1xil8fz",
+        "title": "随着德黑兰威胁扣押船只，美国将公布对伊朗的“最大金融攻势”",
+        "oneLine": "政策变化：美国财政部长斯科特·贝森特在本文中表示，美国将于周一对伊朗发起“有史以来最大规模的金融攻势”，而德黑兰则威胁要扣押违反霍尔木兹海峡过境规则的船只。",
+        "importance": "S",
+        "credibility": "待确认",
+        "tags": [
+          "S",
+          "mustKnow",
+          "industry",
+          "world",
+          "policy",
+          "finance"
+        ],
+        "industries": [
+          "generalPublic",
+          "financeInvestment",
+          "operationsGrowth",
+          "ecommerceRetail"
+        ],
+        "section": "front",
+        "body": {
+          "background": "他此前曾警告称，将对与伊朗开展业务的国家和实体实施进一步的二级制裁。”伊朗的回应是警告海湾邻国不要加入美国的经济措施，并加强对这个咽喉要道的控制，此前世界上大约五分之一的海运石油都经过这个咽喉要道。紧张局势即将升级之际，双方都错过了达成协议所需的 60 天停火窗口，旨在结束中东战争的正式停火机制现已进入第六个月。",
+          "keyProgress": "据《海湾新闻》报道，尽管人们对新经济制裁的具体细节知之甚少，但伊朗里亚尔周日创下公开市场新低，美元兑美元突破 200 万里亚尔。贝森特周日在《金融时报》上撰文补充道：“伊朗的推动者购买和运输石油。贝森特在周日晚间美国《X》杂志上发表的一篇文章中表示，“经济诺曼底登陆日在黎明时开始”，并将即将采取的措施视为华盛顿针对德黑兰的行动的“最后阶段”。新措施将进一步加强已经针对伊朗银行、能源、航空和加密货币行业的广泛制裁制度。",
+          "whyItMatters": "“随着德黑兰威胁扣押船只，美国将公布对伊朗的最大金融攻势”如果继续发展，可能通过能源价格、航运、贸易、汇率或市场预期传导到国内。了解它的意义在于判断后续风险，而不只停留在事件本身。",
+          "userRelevance": "即使你不在美国、伊朗，“随着德黑兰威胁扣押船只，美国将公布对伊朗的最大金融攻势”也可能通过能源价格、国际航运、贸易成本和市场预期间接影响国内生活与工作判断。",
+          "whatToWatch": "接下来要看“随着德黑兰威胁扣押船只，美国将公布对伊朗的最大金融攻势”是否出现更细的城市、行业、平台或企业数据，以及这一变化能否连续保持。"
+        },
+        "sourceLinks": [
+          {
+            "title": "CNBC World News RSS",
+            "url": "https://www.cnbc.com/2026/08/24/us-iran-war-trump-hormuz-bessent-economic-sanctions-.html",
+            "sourceId": "cnbc-world-rss",
+            "publishedAt": "2026-08-24T11:51:45.000Z",
+            "language": "zh",
+            "originalLanguage": "en",
+            "translationStatus": "translated",
+            "fetchedAt": "2026-08-24T13:33:59.735Z",
+            "sourceMethod": "rss",
+            "verificationStatus": "pending"
+          }
+        ],
+        "images": [
+          {
+            "url": "https://image.cnbcfm.com/api/v1/image/108352206-17872396781787239671-47882470748-1080pnbcnews.jpg?v=1787239677&amp;w=750&amp;h=422&amp;vtcrop=y",
+            "sourceUrl": "https://www.cnbc.com/2026/08/24/us-iran-war-trump-hormuz-bessent-economic-sanctions-.html"
+          }
+        ],
+        "generatedAt": "2026-08-24T13:33:55.531Z"
+      },
+      {
+        "id": "draft-real-cnbc-world-rss-6bboqv",
+        "title": "欧洲领导人会晤时，法国和英国加强对乌克兰的导弹支持",
+        "oneLine": "政策变化：法国总统马克龙、英国首相安迪·伯纳姆和德国总理弗里德里希·梅尔茨周一将共同主持一次意愿联盟会议，旨在加强对乌克兰的支持并加大对俄罗斯的压力。",
+        "importance": "A",
+        "credibility": "待确认",
+        "tags": [
+          "A",
+          "mustKnow",
+          "industry",
+          "world",
+          "policy",
+          "finance"
+        ],
+        "industries": [
+          "generalPublic",
+          "financeInvestment",
+          "operationsGrowth",
+          "ecommerceRetail"
+        ],
+        "section": "front",
+        "body": {
+          "background": "乌克兰总统泽连斯基也参加了这次混合会议，此前马克龙总统宣布法国将向基辅提供更多拦截导弹。在英国同意允许国防公司MBDA公布英国SCALP远程导弹组件的机密信息以支持乌克兰当地组装之后，他预计将在那里会见泽连斯基。此前，综合反弹道导弹联盟于 7 月 13 日在巴黎举行首次会议。",
+          "keyProgress": "几天前，俄罗斯无人机袭击克里沃罗格一座拥挤的购物中心，造成至少 16 人死亡，欧洲领导人承诺向基辅提供进一步支持。伯纳姆周一抵达基辅，这是他作为总理的首次出访。克里姆林宫发言人德米特里·佩斯科夫周一表示，英国现在是乌克兰一方战争的参与者，并指责伯纳姆政府阻碍实现最终和平的努力。周一的混合会议恰逢乌克兰独立35周年，将审查旨在加强对基辅的支持、减少俄罗斯继续战争的资源以及打击莫斯科影子舰队的措施。",
+          "whyItMatters": "“欧洲领导人会晤时，法国和英国加强对乌克兰的导弹支持”如果继续发展，可能通过能源价格、航运、贸易、汇率或市场预期传导到国内。了解它的意义在于判断后续风险，而不只停留在事件本身。",
+          "userRelevance": "即使你不在乌克兰、俄罗斯、法国，“欧洲领导人会晤时，法国和英国加强对乌克兰的导弹支持”也可能通过能源价格、国际航运、贸易成本和市场预期间接影响国内生活与工作判断。",
+          "whatToWatch": "接下来要看“欧洲领导人会晤时，法国和英国加强对乌克兰的导弹支持”是否出现更细的城市、行业、平台或企业数据，以及这一变化能否连续保持。"
+        },
+        "sourceLinks": [
+          {
+            "title": "CNBC World News RSS",
+            "url": "https://www.cnbc.com/2026/08/24/ukraine-coalition-support-russia-strikes.html",
+            "sourceId": "cnbc-world-rss",
+            "publishedAt": "2026-08-24T11:00:01.000Z",
+            "language": "zh",
+            "originalLanguage": "en",
+            "translationStatus": "translated",
+            "fetchedAt": "2026-08-24T13:33:59.735Z",
+            "sourceMethod": "rss",
+            "verificationStatus": "pending"
+          }
+        ],
+        "images": [],
+        "generatedAt": "2026-08-24T13:33:55.531Z"
+      },
+      {
+        "id": "draft-real-cnbc-world-rss-vgs1fb",
+        "title": "“他们要求太多”：渥太华和华盛顿陷入全面贸易战，加元下跌",
+        "oneLine": "政策变化：《“他们要求太多”：渥太华和华盛顿陷入全面贸易战，加元下跌》卡尼周六表示，美国“要求太多，提供太少”。",
+        "importance": "B",
+        "credibility": "待确认",
+        "tags": [
+          "B",
+          "mustKnow",
+          "industry",
+          "world",
+          "policy",
+          "finance"
+        ],
+        "industries": [
+          "generalPublic",
+          "financeInvestment",
+          "operationsGrowth",
+          "ecommerceRetail"
+        ],
+        "section": "front",
+        "body": {
+          "background": "受影响的商品涵盖乳制品、葡萄酒、木制品、家具、水泥、陶瓷和许多其他领域。卡尼补充说，详细信息将在“未来几天”公布。美国贸易代表杰米森·格里尔周一在接受 CNBC 采访时表示，协议已接近达成，但在“最后几个小时”，加拿大“想要的”超出了华盛顿愿意提供的。",
+          "keyProgress": "渥太华和华盛顿之间的贸易谈判破裂后，加元周一上午下跌，导致双方多种进口商品面临更高的价格，并威胁加拿大的经济增长。”格里尔补充说，市场“明白这只会影响极少量的贸易”。卡尼周六表示，美国“要求太多，提供太少”。美国周六对价值约 200 亿美元的加拿大进口商品征收 50% 的关税，加拿大是继墨西哥之后的第二大贸易伙伴。",
+          "whyItMatters": "“他们要求太多：渥太华和华盛顿陷入全面贸易战，加元下跌”如果继续发展，可能通过能源价格、航运、贸易、汇率或市场预期传导到国内。了解它的意义在于判断后续风险，而不只停留在事件本身。",
+          "userRelevance": "即使你不在事发地区，“他们要求太多：渥太华和华盛顿陷入全面贸易战，加元下跌”也可能通过能源价格、国际航运、贸易成本和市场预期间接影响国内生活与工作判断。",
+          "whatToWatch": "接下来要看“他们要求太多：渥太华和华盛顿陷入全面贸易战，加元下跌”是否出现更细的城市、行业、平台或企业数据，以及这一变化能否连续保持。"
+        },
+        "sourceLinks": [
+          {
+            "title": "CNBC World News RSS",
+            "url": "https://www.cnbc.com/2026/08/24/canada-us-trade-war-deal.html",
+            "sourceId": "cnbc-world-rss",
+            "publishedAt": "2026-08-24T12:56:17.000Z",
+            "language": "zh",
+            "originalLanguage": "en",
+            "translationStatus": "translated",
+            "fetchedAt": "2026-08-24T13:33:59.735Z",
+            "sourceMethod": "rss",
+            "verificationStatus": "pending"
+          }
+        ],
+        "images": [
+          {
+            "url": "https://image.cnbcfm.com/api/v1/image/108220326-1762005610231-gettyimages-2239794362-imgl1067_tjnvhhcw.jpeg?v=1770826409&amp;w=750&amp;h=422&amp;vtcrop=y",
+            "sourceUrl": "https://www.cnbc.com/2026/08/24/canada-us-trade-war-deal.html"
+          },
+          {
+            "url": "https://image.cnbcfm.com/api/v1/image/108286949-1775162964343-gettyimages-2269564818-aw1a5675_xdx7uyse.jpeg?v=1775163006&amp;w=160&amp;h=90",
+            "sourceUrl": "https://www.cnbc.com/2026/08/24/canada-us-trade-war-deal.html"
+          },
+          {
+            "url": "https://image.cnbcfm.com/api/v1/image/108351356-1787125838744-gettyimages-2281261895-AFP_B79K3Z3.jpeg?v=1787125848&amp;w=160&amp;h=90",
+            "sourceUrl": "https://www.cnbc.com/2026/08/24/canada-us-trade-war-deal.html"
+          }
+        ],
+        "generatedAt": "2026-08-24T13:33:55.531Z"
+      },
+      {
+        "id": "draft-real-gov-uk-news-cgxz99",
+        "title": "财政部将暂停酒吧和酒店的不确定性",
+        "oneLine": "政策变化：《财政部将暂停酒吧和酒店的不确定性》我们使用一些必要的 cookie 来使该网站正常运行。",
+        "importance": "B",
+        "credibility": "官方来源",
+        "tags": [
+          "B",
+          "industry",
+          "world",
+          "policy",
+          "local"
+        ],
+        "industries": [
+          "generalPublic",
+          "localLife",
+          "hrRecruiting",
+          "financeInvestment",
+          "operationsGrowth"
+        ],
+        "section": "industry",
+        "body": {
+          "background": "出生、死亡、婚姻和护理 商业和自营职业 儿童保育和养育 英国公民身份和生活 犯罪、司法和法律 残疾人 驾驶和交通 教育和学习 就业人员 环境和乡村 住房和当地服务 金钱和税收 护照、旅行和国外生活 签证和移民 工作、工作和养老金 部门 部门、机构和公共机构 新闻 新闻故事、演讲、信件和通知 指导和监管 详细指导、法规和规则 研究和统计 报告、分析和官方统计政策文件和咨询 咨询和战略 透明度数据、信息自由发布和公司报告 商业和工业 随着政府采取进一步措施支持有助于推动每个邮政编码增长的企业，酒吧和酒店的估值将变得更加公平。我们使用一些必要的 cookie 来使该网站正常运行。我们希望设置额外的 cookie 来了解您如何使用 GOV.UK、记住您的设置并改善政府服务。",
+          "keyProgress": "人们担心当前的系统不能反映酒吧和酒店市场的现实。领先的商业利率专家 Jerry Schurder 将领导独立审查，并在 2027 年 3 月底之前向财政部报告，以便他的建议能够在下次重估时得到实施。我们还使用其他网站设置的 cookie 来帮助我们从他们的服务中提供内容。您可以随时更改您的 cookie 设置。",
+          "whyItMatters": "“财政部将暂停酒吧和酒店的不确定性”如果继续发展，可能通过能源价格、航运、贸易、汇率或市场预期传导到国内。了解它的意义在于判断后续风险，而不只停留在事件本身。",
+          "userRelevance": "即使你不在事发地区，“财政部将暂停酒吧和酒店的不确定性”也可能通过能源价格、国际航运、贸易成本和市场预期间接影响国内生活与工作判断。",
+          "whatToWatch": "接下来要看“财政部将暂停酒吧和酒店的不确定性”是否出现更细的城市、行业、平台或企业数据，以及这一变化能否连续保持。"
+        },
+        "sourceLinks": [
+          {
+            "title": "GOV.UK News and Communications",
+            "url": "https://www.gov.uk/government/news/treasury-to-call-time-on-uncertainty-for-pubs-and-hotels",
+            "sourceId": "gov-uk-news",
+            "publishedAt": "2026-08-24T09:02:00.000Z",
+            "language": "zh",
+            "originalLanguage": "en",
+            "translationStatus": "translated",
+            "fetchedAt": "2026-08-24T13:33:59.641Z",
+            "sourceMethod": "rss",
+            "verificationStatus": "confirmed"
+          }
+        ],
+        "images": [
+          {
+            "url": "https://assets.publishing.service.gov.uk/media/5a37db09e5274a79051c9235/s300_HMT_buiding_plaque.jpg",
+            "sourceUrl": "https://www.gov.uk/government/news/treasury-to-call-time-on-uncertainty-for-pubs-and-hotels"
+          }
+        ],
+        "generatedAt": "2026-08-24T13:33:55.531Z"
+      },
+      {
+        "id": "draft-cluster-real-cnbc-world-rss-pycuno",
+        "title": "Shein 的目标是在香港 IPO 融资 270 亿美元——这只是其 2022 年估值的一小部分",
+        "oneLine": "政策变化：根据周一提交的文件，Shein 计划在首次公开募股中筹集至多 138.6 亿港元（合 17.7 亿美元）。",
+        "importance": "B",
+        "credibility": "待确认",
+        "tags": [
+          "B",
+          "industry",
+          "world",
+          "policy",
+          "finance"
+        ],
+        "industries": [
+          "generalPublic",
+          "financeInvestment",
+          "operationsGrowth",
+          "ecommerceRetail"
+        ],
+        "section": "industry",
+        "body": {
+          "background": "最终价格将由该公司于 8 月 31 日公布，股票预计将于 9 月 1 日开始交易。GROW Investment Group 首席投资官 William Ma 此前对 CNBC 表示：“公司已经错过了上市的黄金时机。这家快时尚零售商正在出售约 2.8 亿股 B 类股票，每股价格在 47.60 港元至 49.50 港元之间，估值接近 270 亿美元（按该区间上限）。",
+          "keyProgress": "据路透社报道，该公司在 2023 年和 2024 年 4 月的估值为 640 亿美元，较之前几轮私募融资（2022 年估值为 982 亿美元）相比，其估值大幅下降。由于快速增长放缓和盈利压力，公司估值有所下降。收入增长从一年前的 20.7% 降至 2025 年的 8%，而失去美国进口关税豁免和一次性会计费用使其在 2026 年初亏损 9900 万美元。然而，中国市场研究集团董事总经理 Shaun Rein 上个月告诉 CNBC，投资者和消费者不再像以前那样对这家超快时尚零售商感到兴奋。",
+          "whyItMatters": "“Shein 的目标是在香港 IPO 融资 270 亿美元——这只是其 2022 年估值的一小部分”如果继续发展，可能通过能源价格、航运、贸易、汇率或市场预期传导到国内。了解它的意义在于判断后续风险，而不只停留在事件本身。",
+          "userRelevance": "即使你不在香港，“Shein 的目标是在香港 IPO 融资 270 亿美元——这只是其 2022 年估值的一小部分”也可能通过能源价格、国际航运、贸易成本和市场预期间接影响国内生活与工作判断。",
+          "whatToWatch": "接下来要看“Shein 的目标是在香港 IPO 融资 270 亿美元——这只是其 2022 年估值的一小部分”是否出现更细的城市、行业、平台或企业数据，以及这一变化能否连续保持。"
+        },
+        "sourceLinks": [
+          {
+            "title": "CNBC World News RSS",
+            "url": "https://www.cnbc.com/2026/08/24/shein-ipo-valuation-hong-kong.html",
+            "sourceId": "cnbc-world-rss",
+            "publishedAt": "2026-08-24T07:34:17.000Z",
+            "language": "zh",
+            "originalLanguage": "en",
+            "translationStatus": "translated",
+            "fetchedAt": "2026-08-24T13:33:59.735Z",
+            "sourceMethod": "rss",
+            "verificationStatus": "pending"
+          },
+          {
+            "title": "Sky News World RSS",
+            "url": "https://news.sky.com/story/shein-targets-valuation-of-just-27bn-in-stock-market-flotation-13576490",
+            "sourceId": "sky-world-rss",
+            "publishedAt": "2026-08-24T04:47:00.000Z",
+            "language": "zh",
+            "originalLanguage": "en",
+            "translationStatus": "translated",
+            "fetchedAt": "2026-08-24T13:33:59.471Z",
+            "sourceMethod": "rss",
+            "verificationStatus": "pending"
+          }
+        ],
+        "images": [
+          {
+            "url": "https://e3.365dm.com/24/06/1920x1080/skynews-shein-chinese-company_6572211.jpg?20240603135518",
+            "sourceUrl": "https://news.sky.com/story/shein-targets-valuation-of-just-27bn-in-stock-market-flotation-13576490"
+          }
+        ],
+        "generatedAt": "2026-08-24T13:33:55.531Z"
+      },
+      {
+        "id": "draft-real-cnbc-world-rss-1oza7a9",
+        "title": "UPS 将投资 20 亿美元用于国际、医疗保健和供应链业务",
+        "oneLine": "政策变化：联合包裹服务公司周一独家向 CNBC 透露，在本文中，联合包裹服务公司将对其国际、医疗保健和供应链解决方案业务投资超过 20 亿美元。",
+        "importance": "B",
+        "credibility": "待确认",
+        "tags": [
+          "B",
+          "industry",
+          "world",
+          "policy",
+          "finance"
+        ],
+        "industries": [
+          "generalPublic",
+          "financeInvestment",
+          "operationsGrowth",
+          "ecommerceRetail"
+        ],
+        "section": "industry",
+        "body": {
+          "background": "正在进行的投资于 2024 年开始，并将持续到 2028 年，但 UPS 表示，此前并未披露投资总额。”投资的部分项目包括今年在菲律宾的一个新枢纽、明年在安大略省开设的一个新的加拿大设施以及 2028 年在香港国际机场的一个新航空枢纽。” UPS 最近还宣布投资 4800 万美元对其网络中的 27 个温控设施进行补充，以补充其医疗保健计划，包括运输 GLP-1 药物等温度敏感药物。",
+          "keyProgress": "UPS 已在台湾建立了一个技术支持的物流中心，并在阿姆斯特丹建立了一个集货运、经纪和冷链解决方案于一体的供应链解决方案设施。该物流公司还表示，现在每周有五班往返于巴黎和香港以及中国深圳和悉尼之间的航班，以满足不断增长的需求。斯瓦斯特表示，随着全球供应链变得更加复杂，某些全球市场，比如亚洲市场，对企业来说变得比以前更加重要。这一消息发布之际，全球各地的物流公司都在竞相领先于冷链仓储等利基领域日益增长的需求。",
+          "whyItMatters": "“UPS 将投资 20 亿美元用于国际、医疗保健和供应链业务”如果继续发展，可能通过能源价格、航运、贸易、汇率或市场预期传导到国内。了解它的意义在于判断后续风险，而不只停留在事件本身。",
+          "userRelevance": "即使你不在事发地区，“UPS 将投资 20 亿美元用于国际、医疗保健和供应链业务”也可能通过能源价格、国际航运、贸易成本和市场预期间接影响国内生活与工作判断。",
+          "whatToWatch": "接下来要看“UPS 将投资 20 亿美元用于国际、医疗保健和供应链业务”是否出现更细的城市、行业、平台或企业数据，以及这一变化能否连续保持。"
+        },
+        "sourceLinks": [
+          {
+            "title": "CNBC World News RSS",
+            "url": "https://www.cnbc.com/2026/08/24/ups-global-logistics-investment.html",
+            "sourceId": "cnbc-world-rss",
+            "publishedAt": "2026-08-24T11:00:01.000Z",
+            "language": "zh",
+            "originalLanguage": "en",
+            "translationStatus": "translated",
+            "fetchedAt": "2026-08-24T13:33:59.735Z",
+            "sourceMethod": "rss",
+            "verificationStatus": "pending"
+          }
+        ],
+        "images": [],
+        "generatedAt": "2026-08-24T13:33:55.531Z"
+      },
+      {
+        "id": "draft-real-cnbc-world-rss-1uqz2ms",
+        "title": "桑托利：为什么现在对债券收益率如此大惊小怪",
+        "oneLine": "最新进展：桑托利：为什么现在对债券收益率如此大惊小怪。",
+        "importance": "B",
+        "credibility": "待确认",
+        "tags": [
+          "B",
+          "industry",
+          "world",
+          "policy",
+          "finance"
+        ],
+        "industries": [
+          "generalPublic",
+          "financeInvestment",
+          "operationsGrowth",
+          "ecommerceRetail"
+        ],
+        "section": "industry",
+        "body": {
+          "background": "正是在这种背景下，财政部长斯科特·贝森特上周试图通过扩大现有计划，在公开市场上回购少量流动性较差的政府债务，来抑制长期国债收益率。美国经济正值成熟的夏季，空调恒温器挂在家里最热的房间——厨房里，阳光照进厨房，烤箱总是在烘烤。在这种情况下，债券市场是恒温器，它通过将借贷成本提高到多年来的高点来抵消政府和企业对债务的强劲需求。",
+          "keyProgress": "此举引发了市场参与者和评论员相当过热的反应，要么是因为财政部长指责其前任不当操纵市场利率，要么是因为规模太小而无足轻重，要么是两者兼而有之。对美国结构性赤字融资能力的不安就像一种自身免疫性疾病：在资本支出过热和战争通胀反馈循环等不利市场刺激的压力下，这种不安会突然爆发，然后往往会再次陷入休眠状态。厨房是人工智能的建设领域，迫切希望在明年年底前将约 2 万亿美元转化为巨大的计算能力储备。债券收益率的上升并没有对减缓融资和企业投资的步伐产生太大影响。",
+          "whyItMatters": "“桑托利：为什么现在对债券收益率如此大惊小怪”如果继续发展，可能通过能源价格、航运、贸易、汇率或市场预期传导到国内。了解它的意义在于判断后续风险，而不只停留在事件本身。",
+          "userRelevance": "即使你不在事发地区，“桑托利：为什么现在对债券收益率如此大惊小怪”也可能通过能源价格、国际航运、贸易成本和市场预期间接影响国内生活与工作判断。",
+          "whatToWatch": "接下来要看“桑托利：为什么现在对债券收益率如此大惊小怪”是否出现更细的城市、行业、平台或企业数据，以及这一变化能否连续保持。"
+        },
+        "sourceLinks": [
+          {
+            "title": "CNBC World News RSS",
+            "url": "https://www.cnbc.com/2026/08/24/why-all-the-fuss-about-bond-yields-is-happening-now.html",
+            "sourceId": "cnbc-world-rss",
+            "publishedAt": "2026-08-24T12:31:13.000Z",
+            "language": "zh",
+            "originalLanguage": "en",
+            "translationStatus": "translated",
+            "fetchedAt": "2026-08-24T13:33:59.735Z",
+            "sourceMethod": "rss",
+            "verificationStatus": "pending"
+          }
+        ],
+        "images": [],
+        "generatedAt": "2026-08-24T13:33:55.531Z"
+      },
+      {
+        "id": "draft-real-cnbc-world-rss-iph149",
+        "title": "阿里巴巴在宣布102亿美元的股票配售以资助AI推动后暴跌",
+        "oneLine": "最新进展：阿里巴巴在宣布102亿美元的股票配售以资助AI推动后暴跌。",
+        "importance": "B",
+        "credibility": "待确认",
+        "tags": [
+          "B",
+          "industry",
+          "world",
+          "policy",
+          "finance"
+        ],
+        "industries": [
+          "generalPublic",
+          "financeInvestment",
+          "operationsGrowth",
+          "ecommerceRetail"
+        ],
+        "section": "industry",
+        "body": {
+          "background": "该公司表示，计划将所有净收益用于投资其全栈人工智能能力，包括扩展和增强其人工智能基础设施。此次配股预计将于周三结束，就在几天前，阿里巴巴公布第二季度利润下降 75%，原因是大量人工智能支出拖累了其业绩。UBP 高级股票顾问 Vey-Sern Ling 上周在阿里巴巴发布最新财报后向 CNBC 表示，该公司处于追求人工智能增长的有利位置。",
+          "keyProgress": "他表示：“我认为阿里巴巴显然处于追逐这种增长的有利位置，因为他们拥有云计算部门，他们拥有非常强大的人工智能模型。阿里巴巴一直在加大对人工智能的投资，力求使这项技术成为未来增长的关键驱动力。在这篇文章中，周一，中国科技巨头阿里巴巴向非美国投资者配售 800 亿港元（102 亿美元）新股后，其股价在香港暴跌 10%。阿里巴巴将以每股112.70港元发行7.1亿股新股，而该股周五收盘价为123港元。",
+          "whyItMatters": "“阿里巴巴在宣布102亿美元的股票配售以资助AI推动后暴跌”如果继续发展，可能通过能源价格、航运、贸易、汇率或市场预期传导到国内。了解它的意义在于判断后续风险，而不只停留在事件本身。",
+          "userRelevance": "即使你不在事发地区，“阿里巴巴在宣布102亿美元的股票配售以资助AI推动后暴跌”也可能通过能源价格、国际航运、贸易成本和市场预期间接影响国内生活与工作判断。",
+          "whatToWatch": "接下来要看“阿里巴巴在宣布102亿美元的股票配售以资助AI推动后暴跌”是否出现更细的城市、行业、平台或企业数据，以及这一变化能否连续保持。"
+        },
+        "sourceLinks": [
+          {
+            "title": "CNBC World News RSS",
+            "url": "https://www.cnbc.com/2026/08/24/alibaba-share-placement-drop-ai-hong-kong.html",
+            "sourceId": "cnbc-world-rss",
+            "publishedAt": "2026-08-24T08:21:17.000Z",
+            "language": "zh",
+            "originalLanguage": "en",
+            "translationStatus": "translated",
+            "fetchedAt": "2026-08-24T13:33:59.735Z",
+            "sourceMethod": "rss",
+            "verificationStatus": "pending"
+          }
+        ],
+        "images": [
+          {
+            "url": "https://image.cnbcfm.com/api/v1/image/108352542-17872875281787287524-47893590691-1080pnbcnews.jpg?v=1787287527&amp;w=750&amp;h=422&amp;vtcrop=y",
+            "sourceUrl": "https://www.cnbc.com/2026/08/24/alibaba-share-placement-drop-ai-hong-kong.html"
+          }
+        ],
+        "generatedAt": "2026-08-24T13:33:55.531Z"
+      }
+    ],
+    "estimatedReadMinutes": 17,
+    "pageCount": 2,
+    "topCardId": "draft-real-npr-world-rss-1u4l2m5",
+    "generatedAt": "2026-08-24T13:33:55.531Z",
+    "pushSlots": [
+      "08:30",
+      "12:30",
+      "21:30"
+    ],
+    "edition": "evening",
+    "editionLabel": "晚间更新",
+    "coverageWindow": {
+      "start": "2026-08-24T12:10:00+08:00",
+      "end": "2026-08-24T21:10:00+08:00"
+    },
+    "editionCardIds": [
+      "draft-real-npr-world-rss-1u4l2m5",
+      "draft-real-npr-world-rss-1sxqepm",
+      "draft-real-cnbc-world-rss-7jcfhy",
+      "draft-real-cnbc-world-rss-1xil8fz",
+      "draft-real-cnbc-world-rss-6bboqv",
+      "draft-real-cnbc-world-rss-vgs1fb",
+      "draft-real-gov-uk-news-cgxz99",
+      "draft-cluster-real-cnbc-world-rss-pycuno",
+      "draft-real-cnbc-world-rss-1oza7a9",
+      "draft-real-cnbc-world-rss-1uqz2ms",
+      "draft-real-cnbc-world-rss-iph149"
+    ],
+    "carriedCardIds": []
+  }
+}

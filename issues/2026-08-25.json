@@ -1,11 +1,56 @@
 {
   "schemaVersion": 2,
-  "publishedAt": "2026-08-24T23:33:46.966Z",
+  "publishedAt": "2026-08-25T04:21:39.040Z",
   "issue": {
     "id": "daily-public-2026-08-25",
     "date": "2026-08-25",
     "userId": "public",
     "cards": [
+      {
+        "id": "draft-real-npr-world-rss-hlulk7",
+        "title": "六个月后，撤离巴林的美国海军家庭仍处于困境",
+        "oneLine": "政策变化：弗吉尼亚州诺福克 - 在一次虚拟市政厅会议上，六个月前突然从巴林撤离的海军家庭提出了许多问题。",
+        "importance": "S",
+        "credibility": "主流媒体",
+        "tags": [
+          "S",
+          "mustKnow",
+          "world",
+          "policy"
+        ],
+        "industries": [
+          "generalPublic"
+        ],
+        "section": "front",
+        "body": {
+          "background": "这个数字不包括同样流离失所的水手和文职工人。他们表示，他们仍然没有得到足够的答案。美国国家公共广播电台查阅了这次会议的录音，以及家属向海军官员询问的完整问题清单。",
+          "keyProgress": "美伊战争爆发后不久，这些家庭就在短时间内带着少量财产离开了巴林。许多人仍然住在美国境内和世界其他地方的临时条件下，住在酒店和短期出租屋里。”当军方和国务院于 3 月 2 日下令疏散家属时，伦肖告诉家人，海军预计只会有短暂的流离失所，类似于 2025 年 6 月美国和以色列军队袭击伊朗核设施时的情况。伦肖在谈话中说：“不幸的是，这种情况一直持续下去，并演变成更大的挑战。",
+          "whyItMatters": "“六个月后，撤离巴林的美国海军家庭仍处于困境”如果继续发展，可能通过能源价格、航运、贸易、汇率或市场预期传导到国内。了解它的意义在于判断后续风险，而不只停留在事件本身。",
+          "userRelevance": "即使你不在美国，“六个月后，撤离巴林的美国海军家庭仍处于困境”也可能通过能源价格、国际航运、贸易成本和市场预期间接影响国内生活与工作判断。",
+          "whatToWatch": "接下来要看“六个月后，撤离巴林的美国海军家庭仍处于困境”是否出现新的官方信息、后续行动，以及它与中国出行、贸易或公共判断的关联是否扩大。"
+        },
+        "sourceLinks": [
+          {
+            "title": "NPR World RSS",
+            "url": "https://www.npr.org/2026/08/24/nx-s1-5943188/six-months-on-u-s-navy-families-who-evacauated-bahrain-remain-in-limbo",
+            "sourceId": "npr-world-rss",
+            "publishedAt": "2026-08-24T22:22:13.000Z",
+            "language": "zh",
+            "originalLanguage": "en",
+            "translationStatus": "translated",
+            "fetchedAt": "2026-08-24T23:33:50.968Z",
+            "sourceMethod": "rss",
+            "verificationStatus": "confirmed"
+          }
+        ],
+        "images": [
+          {
+            "url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3402x2722+0+0/resize/1100/quality/50/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F09%2F8e%2Fcdcdf55840c58c59f6c67c03f089%2Ffifth-fleet-8-24-26.jpg",
+            "sourceUrl": "https://www.npr.org/2026/08/24/nx-s1-5943188/six-months-on-u-s-navy-families-who-evacauated-bahrain-remain-in-limbo"
+          }
+        ],
+        "generatedAt": "2026-08-24T23:33:46.966Z"
+      },
       {
         "id": "draft-real-npr-world-rss-1tklv87",
         "title": "美国财政部长斯科特·贝森特（ Scott Bessent ）公布新的美国经济制裁措施，以孤立伊朗",
@@ -114,51 +159,6 @@
           {
             "url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4032x2268+0+297/resize/1100/quality/50/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F3c%2F7c%2Ff1eb163047479c477379e538b3ca%2Fap26235796925254.jpg",
             "sourceUrl": "https://www.npr.org/2026/08/24/g-s1-139736/up-first-newsletter-iran-economic-pressures-canada-tariffs-trump-visa-ban"
-          }
-        ],
-        "generatedAt": "2026-08-24T23:33:46.966Z"
-      },
-      {
-        "id": "draft-real-npr-world-rss-hlulk7",
-        "title": "六个月后，撤离巴林的美国海军家庭仍处于困境",
-        "oneLine": "政策变化：弗吉尼亚州诺福克 - 在一次虚拟市政厅会议上，六个月前突然从巴林撤离的海军家庭提出了许多问题。",
-        "importance": "S",
-        "credibility": "主流媒体",
-        "tags": [
-          "S",
-          "mustKnow",
-          "world",
-          "policy"
-        ],
-        "industries": [
-          "generalPublic"
-        ],
-        "section": "front",
-        "body": {
-          "background": "这个数字不包括同样流离失所的水手和文职工人。他们表示，他们仍然没有得到足够的答案。美国国家公共广播电台查阅了这次会议的录音，以及家属向海军官员询问的完整问题清单。",
-          "keyProgress": "美伊战争爆发后不久，这些家庭就在短时间内带着少量财产离开了巴林。许多人仍然住在美国境内和世界其他地方的临时条件下，住在酒店和短期出租屋里。”当军方和国务院于 3 月 2 日下令疏散家属时，伦肖告诉家人，海军预计只会有短暂的流离失所，类似于 2025 年 6 月美国和以色列军队袭击伊朗核设施时的情况。伦肖在谈话中说：“不幸的是，这种情况一直持续下去，并演变成更大的挑战。",
-          "whyItMatters": "“六个月后，撤离巴林的美国海军家庭仍处于困境”如果继续发展，可能通过能源价格、航运、贸易、汇率或市场预期传导到国内。了解它的意义在于判断后续风险，而不只停留在事件本身。",
-          "userRelevance": "即使你不在美国，“六个月后，撤离巴林的美国海军家庭仍处于困境”也可能通过能源价格、国际航运、贸易成本和市场预期间接影响国内生活与工作判断。",
-          "whatToWatch": "接下来要看“六个月后，撤离巴林的美国海军家庭仍处于困境”是否出现新的官方信息、后续行动，以及它与中国出行、贸易或公共判断的关联是否扩大。"
-        },
-        "sourceLinks": [
-          {
-            "title": "NPR World RSS",
-            "url": "https://www.npr.org/2026/08/24/nx-s1-5943188/six-months-on-u-s-navy-families-who-evacauated-bahrain-remain-in-limbo",
-            "sourceId": "npr-world-rss",
-            "publishedAt": "2026-08-24T22:22:13.000Z",
-            "language": "zh",
-            "originalLanguage": "en",
-            "translationStatus": "translated",
-            "fetchedAt": "2026-08-24T23:33:50.968Z",
-            "sourceMethod": "rss",
-            "verificationStatus": "confirmed"
-          }
-        ],
-        "images": [
-          {
-            "url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3402x2722+0+0/resize/1100/quality/50/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F09%2F8e%2Fcdcdf55840c58c59f6c67c03f089%2Ffifth-fleet-8-24-26.jpg",
-            "sourceUrl": "https://www.npr.org/2026/08/24/nx-s1-5943188/six-months-on-u-s-navy-families-who-evacauated-bahrain-remain-in-limbo"
           }
         ],
         "generatedAt": "2026-08-24T23:33:46.966Z"
@@ -315,6 +315,187 @@
         ],
         "images": [],
         "generatedAt": "2026-08-24T23:33:46.966Z"
+      },
+      {
+        "id": "draft-real-cnbc-world-rss-1q5m9pw",
+        "title": "小鹏股价下跌，因为交付预测疲软使63亿美元的机器人单位估值蒙上阴影",
+        "oneLine": "政策变化：在本文中，中国电动汽车制造商小鹏汽车(Xpeng)周二在香港股价下跌逾9% ，此前该公司发布了第三季度交付量低于预期的预测，尽管其机器人业务部门在一轮融资中获得了超过63亿美元的估值$。",
+        "importance": "B",
+        "credibility": "待确认",
+        "tags": [
+          "B",
+          "industry",
+          "world",
+          "policy",
+          "finance"
+        ],
+        "industries": [
+          "generalPublic",
+          "financeInvestment",
+          "operationsGrowth",
+          "ecommerceRetail"
+        ],
+        "section": "industry",
+        "body": {
+          "background": "在公司财务业绩公布后，该公司略微下调了小鹏在美国和香港上市股票的目标价。该银行将机器人融资描述为对小鹏的长期积极作用，称这家电动汽车制造商可以将其在算法、人工智能模型和芯片方面的现有优势应用于人形机器人。小鹏在美国上市的股票周一收盘下跌8.5%。",
+          "keyProgress": "该公司报告第二季度净亏损13.4亿元人民币（ 20亿美元） ，同比增长8% ，至197.4亿元人民币。花旗表示，交付指引未达到投资者的预期，主要是由于供应链限制扰乱了小鹏MONA L03车型的增长。小鹏首席执行官何晓鹏去年11月表示，未来10年，该公司的机器人销量将超过汽车销量。这家总部位于广州的初创公司当时透露了其第二代人形机器人，并建立了飞行器业务部门。",
+          "whyItMatters": "“小鹏股价下跌，因为交付预测疲软使63亿美元的机器人单位估值蒙上阴影”如果继续发展，可能通过能源价格、航运、贸易、汇率或市场预期传导到国内。了解它的意义在于判断后续风险，而不只停留在事件本身。",
+          "userRelevance": "即使你不在事发地区，“小鹏股价下跌，因为交付预测疲软使63亿美元的机器人单位估值蒙上阴影”也可能通过能源价格、国际航运、贸易成本和市场预期间接影响国内生活与工作判断。",
+          "whatToWatch": "接下来要看“小鹏股价下跌，因为交付预测疲软使63亿美元的机器人单位估值蒙上阴影”是否出现更细的城市、行业、平台或企业数据，以及这一变化能否连续保持。"
+        },
+        "sourceLinks": [
+          {
+            "title": "CNBC World News RSS",
+            "url": "https://www.cnbc.com/2026/08/25/xpeng-shares-robot-valuation-china.html",
+            "sourceId": "cnbc-world-rss",
+            "publishedAt": "2026-08-25T04:08:37.000Z",
+            "language": "zh",
+            "originalLanguage": "en",
+            "translationStatus": "translated",
+            "fetchedAt": "2026-08-25T04:21:44.568Z",
+            "sourceMethod": "rss",
+            "verificationStatus": "pending"
+          }
+        ],
+        "images": [],
+        "generatedAt": "2026-08-25T04:21:39.040Z"
+      },
+      {
+        "id": "draft-real-cnbc-world-rss-1ikkk4a",
+        "title": "比特币上涨3% ，随着涨势加快，接近8万美元（ $ 80,000 ）",
+        "oneLine": "政策变化：在本文中，比特币周二收于 80,000 美元大关，因为现货比特币 ETF 的新资金流入和风险偏好的改善延续了加密货币近期的涨势。",
+        "importance": "B",
+        "credibility": "待确认",
+        "tags": [
+          "B",
+          "industry",
+          "world",
+          "policy",
+          "finance"
+        ],
+        "industries": [
+          "generalPublic",
+          "financeInvestment",
+          "operationsGrowth",
+          "ecommerceRetail"
+        ],
+        "section": "industry",
+        "body": {
+          "background": "旗舰加密货币上涨 3.1% 至 79,739 美元。这一最新举措延续了上周开始的大幅上涨，当时比特币在三天内飙升了 20% 以上，这是自 2023 年以来的最大三天涨幅。此次上涨的部分原因是轧空，随着价格上涨，超过 40 亿美元的看跌加密货币头寸被清算。",
+          "keyProgress": "此举短暂压低了收益率并重振了对风险资产的需求，而对通胀和政府债务的日益担忧也提振了人们对稀缺资产的兴趣。该研究公司强调，期权市场的活动也表明投资者对涨势能够持续越来越有信心。在美国财政部宣布将购买较长期政府债券的数量增加一倍之后，股市上涨。美国现货比特币交易所交易基金上周吸引了 19.2 亿美元的净流入，这是自 10 月份比特币达到上一个周期峰值以来的最大单周流入量。",
+          "whyItMatters": "“比特币上涨3% ，随着涨势加快，接近8万美元”如果继续发展，可能通过能源价格、航运、贸易、汇率或市场预期传导到国内。了解它的意义在于判断后续风险，而不只停留在事件本身。",
+          "userRelevance": "即使你不在事发地区，“比特币上涨3% ，随着涨势加快，接近8万美元”也可能通过能源价格、国际航运、贸易成本和市场预期间接影响国内生活与工作判断。",
+          "whatToWatch": "接下来要看“比特币上涨3% ，随着涨势加快，接近8万美元”是否出现更细的城市、行业、平台或企业数据，以及这一变化能否连续保持。"
+        },
+        "sourceLinks": [
+          {
+            "title": "CNBC World News RSS",
+            "url": "https://www.cnbc.com/2026/08/25/bitcoin-price-near-80000-cryptocurrency-ether-us-treasuries.html",
+            "sourceId": "cnbc-world-rss",
+            "publishedAt": "2026-08-25T03:05:12.000Z",
+            "language": "zh",
+            "originalLanguage": "en",
+            "translationStatus": "translated",
+            "fetchedAt": "2026-08-25T04:21:44.568Z",
+            "sourceMethod": "rss",
+            "verificationStatus": "pending"
+          }
+        ],
+        "images": [],
+        "generatedAt": "2026-08-25T04:21:39.040Z"
+      },
+      {
+        "id": "draft-real-cnbc-world-rss-b8qu1n",
+        "title": "保时捷与印度最大的IT服务公司塔塔咨询公司达成15亿美元的人工智能部署协议",
+        "oneLine": "政策变化：保时捷已与印度最大的IT服务公司塔塔咨询服务公司签署了一份为期五年的人工智能合同，价值12.5亿欧元（ 14.6亿美元）。",
+        "importance": "B",
+        "credibility": "待确认",
+        "tags": [
+          "B",
+          "industry",
+          "world",
+          "policy",
+          "finance"
+        ],
+        "industries": [
+          "generalPublic",
+          "financeInvestment",
+          "operationsGrowth",
+          "ecommerceRetail"
+        ],
+        "section": "industry",
+        "body": {
+          "background": "该公司在一份新闻稿中表示，作为交易的一部分， TCS将以3.2亿欧元收购保时捷的IT咨询业务MHP。保时捷董事长迈克尔·莱特斯（ Michael Leiters ）在新闻稿中表示，这将把保时捷的“汽车专业知识与TCS的数字和人工智能能力相结合”。此次合作将提升这家欧洲跑车制造商的创新能力、效率和竞争力， ”在日益数据和软件驱动的出行世界中。",
+          "keyProgress": "“自今年年初以来， TCS已经获得了多笔人工智能主导的业务转型交易，并表示其6月季度的年化人工智能收入为26亿美元，比上一季度增长13.6%。Nifty IT指数是IT服务公司股票的基准，比年初下跌近20% ，而Nifty 50指数下跌略高于7%。TCS首席执行官兼董事总经理K. Krithivasan表示，通过此次收购， TCS旨在“为保时捷大规模实现人工智能的产业化”。它还将加强印度软件服务公司在德国市场以及欧洲汽车和工业客户中的影响力。",
+          "whyItMatters": "“保时捷与印度最大的IT服务公司塔塔咨询公司达成15亿美元的人工智能部署协议”如果继续发展，可能通过能源价格、航运、贸易、汇率或市场预期传导到国内。了解它的意义在于判断后续风险，而不只停留在事件本身。",
+          "userRelevance": "即使你不在印度、德国，“保时捷与印度最大的IT服务公司塔塔咨询公司达成15亿美元的人工智能部署协议”也可能通过能源价格、国际航运、贸易成本和市场预期间接影响国内生活与工作判断。",
+          "whatToWatch": "接下来要看“保时捷与印度最大的IT服务公司塔塔咨询公司达成15亿美元的人工智能部署协议”是否出现更细的城市、行业、平台或企业数据，以及这一变化能否连续保持。"
+        },
+        "sourceLinks": [
+          {
+            "title": "CNBC World News RSS",
+            "url": "https://www.cnbc.com/2026/08/25/porsche-inks-billion-ai-deal-india-it-tcs.html",
+            "sourceId": "cnbc-world-rss",
+            "publishedAt": "2026-08-25T03:01:16.000Z",
+            "language": "zh",
+            "originalLanguage": "en",
+            "translationStatus": "translated",
+            "fetchedAt": "2026-08-25T04:21:44.568Z",
+            "sourceMethod": "rss",
+            "verificationStatus": "pending"
+          }
+        ],
+        "images": [
+          {
+            "url": "https://image.cnbcfm.com/api/v1/image/108353107-17875456911787545688-47950421648-1080pnbcnews.jpg?v=1787545690&amp;w=750&amp;h=422&amp;vtcrop=y",
+            "sourceUrl": "https://www.cnbc.com/2026/08/25/porsche-inks-billion-ai-deal-india-it-tcs.html"
+          }
+        ],
+        "generatedAt": "2026-08-25T04:21:39.040Z"
+      },
+      {
+        "id": "draft-real-cnbc-world-rss-bu3mcy",
+        "title": "由于美元疲软，金价触及三个月高位，美国国债回购计划",
+        "oneLine": "政策变化：在本文中，由于美元走弱以及美国财政部的债券回购计划限制了收益率，周二黄金价格升至三个多月来的最高水平。",
+        "importance": "B",
+        "credibility": "待确认",
+        "tags": [
+          "B",
+          "industry",
+          "world",
+          "policy",
+          "finance"
+        ],
+        "industries": [
+          "generalPublic",
+          "financeInvestment",
+          "operationsGrowth",
+          "ecommerceRetail"
+        ],
+        "section": "industry",
+        "body": {
+          "background": "现货黄金上涨0.6%至每盎司4,677.19 $ ，为5月中旬以来的最高水平，大华银行预测黄金有望实现“自1999年9月以来最强劲的月度涨幅”。“本月到目前为止，黄金已经上涨了15%以上。黄金期货上涨0.5%至4,720.3 ，也是三个多月的高点。",
+          "keyProgress": "本月迄今为止，美元指数下跌了0.8% ，虽然8月份大部分时间国债收益率有所上升，但政府计划回购债券，设法控制住了这些收益率--本月下跌了3个基点。花旗在一份报告中表示，虽然鹰派的华尔士演讲可能会使正在进行的黄金反弹停止，但杰克逊霍尔的鸽派意外将对黄金极为看涨， “因为市场不仅会继续对美联储加息进行定价，而且还会重新关注贬值贸易，因为人们对美联储独立性和美国债务可持续性问题再次感到担忧。黄金的强势也蔓延至白银，其现货价格上涨0.4%至每盎司69.19 $。美元走软使得美元定价的黄金对外币持有者具有吸引力，而较低的国债收益率降低了购买黄金的机会成本。",
+          "whyItMatters": "“由于美元疲软，金价触及三个月高位，美国国债回购计划”如果继续发展，可能通过能源价格、航运、贸易、汇率或市场预期传导到国内。了解它的意义在于判断后续风险，而不只停留在事件本身。",
+          "userRelevance": "即使你不在美国，“由于美元疲软，金价触及三个月高位，美国国债回购计划”也可能通过能源价格、国际航运、贸易成本和市场预期间接影响国内生活与工作判断。",
+          "whatToWatch": "接下来要看“由于美元疲软，金价触及三个月高位，美国国债回购计划”是否出现更细的城市、行业、平台或企业数据，以及这一变化能否连续保持。"
+        },
+        "sourceLinks": [
+          {
+            "title": "CNBC World News RSS",
+            "url": "https://www.cnbc.com/2026/08/25/gold-hits-over-three-month-high-on-dollar-weakness-treasury-bond-buyback-plans.html",
+            "sourceId": "cnbc-world-rss",
+            "publishedAt": "2026-08-25T02:28:00.000Z",
+            "language": "zh",
+            "originalLanguage": "en",
+            "translationStatus": "translated",
+            "fetchedAt": "2026-08-25T04:21:44.568Z",
+            "sourceMethod": "rss",
+            "verificationStatus": "pending"
+          }
+        ],
+        "images": [],
+        "generatedAt": "2026-08-25T04:21:39.040Z"
       },
       {
         "id": "draft-real-cnbc-world-rss-13q296f",
@@ -590,67 +771,6 @@
         "generatedAt": "2026-08-24T23:33:46.966Z"
       },
       {
-        "id": "draft-cluster-real-cnbc-world-rss-o5vmno",
-        "title": "Shein 的目标是在香港 IPO 融资 270 亿美元——这只是其 2022 年估值的一小部分",
-        "oneLine": "政策变化：根据周一提交的文件，Shein 计划在首次公开募股中筹集至多 138.6 亿港元（合 17.7 亿美元）。",
-        "importance": "B",
-        "credibility": "待确认",
-        "tags": [
-          "B",
-          "industry",
-          "world",
-          "policy",
-          "finance"
-        ],
-        "industries": [
-          "generalPublic",
-          "financeInvestment",
-          "operationsGrowth",
-          "ecommerceRetail"
-        ],
-        "section": "industry",
-        "body": {
-          "background": "最终价格将由该公司于 8 月 31 日公布，股票预计将于 9 月 1 日开始交易。GROW Investment Group 首席投资官 William Ma 此前对 CNBC 表示：“公司已经错过了上市的黄金时机。这家快时尚零售商正在出售约 2.8 亿股 B 类股票，每股价格在 47.60 港元至 49.50 港元之间，估值接近 270 亿美元（按该区间上限）。",
-          "keyProgress": "据路透社报道，该公司在 2023 年和 2024 年 4 月的估值为 640 亿美元，较之前几轮私募融资（2022 年估值为 982 亿美元）相比，其估值大幅下降。由于快速增长放缓和盈利压力，公司估值有所下降。收入增长从一年前的 20.7% 降至 2025 年的 8%，而失去美国进口关税豁免和一次性会计费用使其在 2026 年初亏损 9900 万美元。然而，中国市场研究集团董事总经理 Shaun Rein 上个月告诉 CNBC，投资者和消费者不再像以前那样对这家超快时尚零售商感到兴奋。",
-          "whyItMatters": "“Shein 的目标是在香港 IPO 融资 270 亿美元——这只是其 2022 年估值的一小部分”如果继续发展，可能通过能源价格、航运、贸易、汇率或市场预期传导到国内。了解它的意义在于判断后续风险，而不只停留在事件本身。",
-          "userRelevance": "即使你不在香港，“Shein 的目标是在香港 IPO 融资 270 亿美元——这只是其 2022 年估值的一小部分”也可能通过能源价格、国际航运、贸易成本和市场预期间接影响国内生活与工作判断。",
-          "whatToWatch": "接下来要看“Shein 的目标是在香港 IPO 融资 270 亿美元——这只是其 2022 年估值的一小部分”是否出现更细的城市、行业、平台或企业数据，以及这一变化能否连续保持。"
-        },
-        "sourceLinks": [
-          {
-            "title": "CNBC World News RSS",
-            "url": "https://www.cnbc.com/2026/08/24/shein-ipo-valuation-hong-kong.html",
-            "sourceId": "cnbc-world-rss",
-            "publishedAt": "2026-08-24T07:34:17.000Z",
-            "language": "zh",
-            "originalLanguage": "en",
-            "translationStatus": "translated",
-            "fetchedAt": "2026-08-24T23:33:51.548Z",
-            "sourceMethod": "rss",
-            "verificationStatus": "pending"
-          },
-          {
-            "title": "Sky News World RSS",
-            "url": "https://news.sky.com/story/shein-targets-valuation-of-just-27bn-in-stock-market-flotation-13576490",
-            "sourceId": "sky-world-rss",
-            "publishedAt": "2026-08-24T04:47:00.000Z",
-            "language": "zh",
-            "originalLanguage": "en",
-            "translationStatus": "translated",
-            "fetchedAt": "2026-08-24T23:33:51.159Z",
-            "sourceMethod": "rss",
-            "verificationStatus": "pending"
-          }
-        ],
-        "images": [
-          {
-            "url": "https://e3.365dm.com/24/06/1920x1080/skynews-shein-chinese-company_6572211.jpg?20240603135518",
-            "sourceUrl": "https://news.sky.com/story/shein-targets-valuation-of-just-27bn-in-stock-market-flotation-13576490"
-          }
-        ],
-        "generatedAt": "2026-08-24T23:33:46.966Z"
-      },
-      {
         "id": "draft-real-cnbc-world-rss-4ir3hn",
         "title": "一场大规模的黄金交易刚刚发生。期权市场热闹非凡",
         "oneLine": "最新进展：一场大规模的黄金交易刚刚发生。期权市场热闹非凡。",
@@ -742,27 +862,95 @@
         ],
         "images": [],
         "generatedAt": "2026-08-24T23:33:46.966Z"
+      },
+      {
+        "id": "draft-cluster-real-cnbc-world-rss-o5vmno",
+        "title": "Shein 的目标是在香港 IPO 融资 270 亿美元——这只是其 2022 年估值的一小部分",
+        "oneLine": "政策变化：根据周一提交的文件，Shein 计划在首次公开募股中筹集至多 138.6 亿港元（合 17.7 亿美元）。",
+        "importance": "B",
+        "credibility": "待确认",
+        "tags": [
+          "B",
+          "industry",
+          "world",
+          "policy",
+          "finance"
+        ],
+        "industries": [
+          "generalPublic",
+          "financeInvestment",
+          "operationsGrowth",
+          "ecommerceRetail"
+        ],
+        "section": "industry",
+        "body": {
+          "background": "最终价格将由该公司于 8 月 31 日公布，股票预计将于 9 月 1 日开始交易。GROW Investment Group 首席投资官 William Ma 此前对 CNBC 表示：“公司已经错过了上市的黄金时机。这家快时尚零售商正在出售约 2.8 亿股 B 类股票，每股价格在 47.60 港元至 49.50 港元之间，估值接近 270 亿美元（按该区间上限）。",
+          "keyProgress": "据路透社报道，该公司在 2023 年和 2024 年 4 月的估值为 640 亿美元，较之前几轮私募融资（2022 年估值为 982 亿美元）相比，其估值大幅下降。由于快速增长放缓和盈利压力，公司估值有所下降。收入增长从一年前的 20.7% 降至 2025 年的 8%，而失去美国进口关税豁免和一次性会计费用使其在 2026 年初亏损 9900 万美元。然而，中国市场研究集团董事总经理 Shaun Rein 上个月告诉 CNBC，投资者和消费者不再像以前那样对这家超快时尚零售商感到兴奋。",
+          "whyItMatters": "“Shein 的目标是在香港 IPO 融资 270 亿美元——这只是其 2022 年估值的一小部分”如果继续发展，可能通过能源价格、航运、贸易、汇率或市场预期传导到国内。了解它的意义在于判断后续风险，而不只停留在事件本身。",
+          "userRelevance": "即使你不在香港，“Shein 的目标是在香港 IPO 融资 270 亿美元——这只是其 2022 年估值的一小部分”也可能通过能源价格、国际航运、贸易成本和市场预期间接影响国内生活与工作判断。",
+          "whatToWatch": "接下来要看“Shein 的目标是在香港 IPO 融资 270 亿美元——这只是其 2022 年估值的一小部分”是否出现更细的城市、行业、平台或企业数据，以及这一变化能否连续保持。"
+        },
+        "sourceLinks": [
+          {
+            "title": "CNBC World News RSS",
+            "url": "https://www.cnbc.com/2026/08/24/shein-ipo-valuation-hong-kong.html",
+            "sourceId": "cnbc-world-rss",
+            "publishedAt": "2026-08-24T07:34:17.000Z",
+            "language": "zh",
+            "originalLanguage": "en",
+            "translationStatus": "translated",
+            "fetchedAt": "2026-08-24T23:33:51.548Z",
+            "sourceMethod": "rss",
+            "verificationStatus": "pending"
+          },
+          {
+            "title": "Sky News World RSS",
+            "url": "https://news.sky.com/story/shein-targets-valuation-of-just-27bn-in-stock-market-flotation-13576490",
+            "sourceId": "sky-world-rss",
+            "publishedAt": "2026-08-24T04:47:00.000Z",
+            "language": "zh",
+            "originalLanguage": "en",
+            "translationStatus": "translated",
+            "fetchedAt": "2026-08-24T23:33:51.159Z",
+            "sourceMethod": "rss",
+            "verificationStatus": "pending"
+          }
+        ],
+        "images": [
+          {
+            "url": "https://e3.365dm.com/24/06/1920x1080/skynews-shein-chinese-company_6572211.jpg?20240603135518",
+            "sourceUrl": "https://news.sky.com/story/shein-targets-valuation-of-just-27bn-in-stock-market-flotation-13576490"
+          }
+        ],
+        "generatedAt": "2026-08-24T23:33:46.966Z"
       }
     ],
-    "estimatedReadMinutes": 24,
+    "estimatedReadMinutes": 30,
     "pageCount": 3,
-    "topCardId": "draft-real-npr-world-rss-1tklv87",
-    "generatedAt": "2026-08-24T23:33:46.966Z",
+    "topCardId": "draft-real-npr-world-rss-hlulk7",
+    "generatedAt": "2026-08-25T04:21:39.040Z",
     "pushSlots": [
       "08:30",
       "12:30",
       "21:30"
     ],
-    "edition": "morning",
-    "editionLabel": "晨报",
+    "edition": "midday",
+    "editionLabel": "午间更新",
     "coverageWindow": {
-      "start": "2026-08-24T07:10:00+08:00",
-      "end": "2026-08-25T07:10:00+08:00"
+      "start": "2026-08-25T07:10:00+08:00",
+      "end": "2026-08-25T12:10:00+08:00"
     },
+    "basedOnGeneratedAt": "2026-08-24T23:33:46.966Z",
     "editionCardIds": [
+      "draft-real-cnbc-world-rss-1q5m9pw",
+      "draft-real-cnbc-world-rss-1ikkk4a",
+      "draft-real-cnbc-world-rss-b8qu1n",
+      "draft-real-cnbc-world-rss-bu3mcy"
+    ],
+    "carriedCardIds": [
+      "draft-real-npr-world-rss-hlulk7",
       "draft-real-npr-world-rss-1tklv87",
       "draft-real-npr-world-rss-1sdr7bo",
-      "draft-real-npr-world-rss-hlulk7",
       "draft-cluster-real-un-news-rss-1alc1ct",
       "draft-real-cnbc-world-rss-5onbw7",
       "draft-real-mem-cn-1atu5tw",
@@ -772,10 +960,9 @@
       "draft-real-gov-uk-news-1d6wxzn",
       "draft-real-xinhua-tech-13a3t8e",
       "draft-real-xinhua-tech-j9crr6",
-      "draft-cluster-real-cnbc-world-rss-o5vmno",
       "draft-real-cnbc-world-rss-4ir3hn",
-      "draft-real-cnbc-world-rss-1qxem59"
-    ],
-    "carriedCardIds": []
+      "draft-real-cnbc-world-rss-1qxem59",
+      "draft-cluster-real-cnbc-world-rss-o5vmno"
+    ]
   }
 }

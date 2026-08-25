@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "publishedAt": "2026-08-25T13:32:06.449Z",
+  "publishedAt": "2026-08-25T13:57:55.259Z",
   "issue": {
     "id": "daily-public-2026-08-25",
     "date": "2026-08-25",
@@ -43,7 +43,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-25T13:32:12.071Z",
+            "fetchedAt": "2026-08-25T13:58:01.787Z",
             "sourceMethod": "rss",
             "verificationStatus": "pending"
           }
@@ -58,7 +58,64 @@
             "sourceUrl": "https://www.cnbc.com/2026/08/25/china-iran-us-sanctions-banks-cips.html"
           }
         ],
-        "generatedAt": "2026-08-25T13:32:06.449Z"
+        "generatedAt": "2026-08-25T13:57:55.259Z"
+      },
+      {
+        "id": "draft-real-npr-world-rss-6hc3mv",
+        "title": "特朗普呼吁领导人孤立伊朗。此外，斯科特斯目前在邮寄投票中支持特朗普",
+        "oneLine": "最新进展：特朗普呼吁领导人孤立伊朗。此外，斯科特斯目前在邮寄投票中支持特朗普。",
+        "importance": "S",
+        "credibility": "主流媒体",
+        "tags": [
+          "S",
+          "mustKnow",
+          "world",
+          "policy"
+        ],
+        "industries": [
+          "generalPublic"
+        ],
+        "section": "front",
+        "body": {
+          "background": "周一，法官暂停了下级法院的裁决，该裁决阻止了特朗普 3 月份发布的行政命令的关键部分。您正在阅读 Up First 时事通讯。在此订阅，将其发送到您的收件箱，并收听 Up First 播客，了解开始新的一天所需的所有新闻。",
+          "keyProgress": "财政部长斯科特·贝森特昨天宣布美国对伊朗及其所谓的“推动者”实施新的经济制裁。在给伊朗士兵的信息中，贝森特要求他们考虑他们的指挥官是否正在带领他们的国家“胜利或毁灭”。特朗普政府将这一举措称为“经济诺曼底登陆”，贝森特将这些行动描述为针对伊朗全球金融联系的“经济攻击”。美国财政部表示，它已经确定了支持伊朗的网络、协调者和金融渠道。",
+          "whyItMatters": "“特朗普呼吁领导人孤立伊朗。此外，斯科特斯目前在邮寄投票中支持特朗普”如果继续发展，可能通过能源价格、航运、贸易、汇率或市场预期传导到国内。了解它的意义在于判断后续风险，而不只停留在事件本身。",
+          "userRelevance": "即使你不在伊朗，“特朗普呼吁领导人孤立伊朗。此外，斯科特斯目前在邮寄投票中支持特朗普”也可能通过能源价格、国际航运、贸易成本和市场预期间接影响国内生活与工作判断。",
+          "whatToWatch": "接下来要看“特朗普呼吁领导人孤立伊朗。此外，斯科特斯目前在邮寄投票中支持特朗普”是否出现新的官方信息、后续行动，以及它与中国出行、贸易或公共判断的关联是否扩大。"
+        },
+        "sourceLinks": [
+          {
+            "title": "NPR World RSS",
+            "url": "https://www.npr.org/2026/08/25/g-s1-140004/up-first-newsletter-iran-economic-war-scotus-mail-in-voting-dhs-privacy",
+            "sourceId": "npr-world-rss",
+            "publishedAt": "2026-08-25T11:09:01.000Z",
+            "language": "zh",
+            "originalLanguage": "en",
+            "translationStatus": "translated",
+            "fetchedAt": "2026-08-25T13:58:00.918Z",
+            "sourceMethod": "rss",
+            "verificationStatus": "confirmed"
+          }
+        ],
+        "images": [
+          {
+            "url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3790x2131+0+104/resize/1100/quality/50/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F68%2F1c%2F23da8dcd4c6d9d50ba932deba0e5%2Fap26236622592645.jpg",
+            "sourceUrl": "https://www.npr.org/2026/08/25/g-s1-140004/up-first-newsletter-iran-economic-war-scotus-mail-in-voting-dhs-privacy"
+          },
+          {
+            "url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2121x1193+0+38/resize/1100/quality/50/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F11%2F7d%2F642906544e268e45c79b93dbad5f%2Fgettyimages-2176112392.jpg",
+            "sourceUrl": "https://www.npr.org/2026/08/25/g-s1-140004/up-first-newsletter-iran-economic-war-scotus-mail-in-voting-dhs-privacy"
+          },
+          {
+            "url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6500x3656+0+340/resize/1100/quality/50/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F7f%2F64%2Fdc815562454f8624b06352288624%2F2026-08-23t172419z-1433634873-rc2h4na1gish-rtrmadp-3-usa-250-grand-prix.JPG",
+            "sourceUrl": "https://www.npr.org/2026/08/25/g-s1-140004/up-first-newsletter-iran-economic-war-scotus-mail-in-voting-dhs-privacy"
+          },
+          {
+            "url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3500x1969+0+150/resize/1100/quality/50/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F92%2F48%2Face884c742c6a37864ee16fd4434%2Fap26184135112797.jpg",
+            "sourceUrl": "https://www.npr.org/2026/08/25/g-s1-140004/up-first-newsletter-iran-economic-war-scotus-mail-in-voting-dhs-privacy"
+          }
+        ],
+        "generatedAt": "2026-08-25T13:57:55.259Z"
       },
       {
         "id": "draft-real-npr-world-rss-ysyd80",
@@ -97,7 +154,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-25T13:32:11.682Z",
+            "fetchedAt": "2026-08-25T13:58:00.918Z",
             "sourceMethod": "rss",
             "verificationStatus": "confirmed"
           }
@@ -120,7 +177,7 @@
             "sourceUrl": "https://www.npr.org/2026/08/25/nx-s1-5943572/trump-iran-sanctions"
           }
         ],
-        "generatedAt": "2026-08-25T13:32:06.449Z"
+        "generatedAt": "2026-08-25T13:57:55.259Z"
       },
       {
         "id": "draft-real-npr-world-rss-hlulk7",
@@ -280,6 +337,150 @@
         "generatedAt": "2026-08-24T23:33:46.966Z"
       },
       {
+        "id": "draft-real-cnbc-world-rss-qkgy3c",
+        "title": "据报道，美国证券交易委员会传唤华尔街银行，反对人工智能对冲基金Situational Awareness濒临崩溃",
+        "oneLine": "最新进展：据报道，美国证券交易委员会传唤华尔街银行，反对人工智能对冲基金Situational Awareness濒临崩溃。",
+        "importance": "A",
+        "credibility": "待确认",
+        "tags": [
+          "A",
+          "mustKnow",
+          "industry",
+          "world",
+          "policy",
+          "finance"
+        ],
+        "industries": [
+          "generalPublic",
+          "financeInvestment",
+          "operationsGrowth",
+          "ecommerceRetail"
+        ],
+        "section": "front",
+        "body": {
+          "background": "在上个月的科技股抛售中受到重创后，态势感知从 7 月底的约 450 亿美元暴跌至约 100 亿美元。该对冲基金由前 OpenAI 研究员 Leopold Aschenbrenner 领导，在损失引发其主要经纪商多次追加保证金后，被迫平仓其公开上市的大型集中杠杆头寸投资组合（其中包括 SK Hynix 和 CoreWeave）。在这篇文章中，据报道，美国证券交易委员会向华尔街几家主要贷款机构发出传票，以收集更多有关它们在以人工智能为中心的对冲基金态势感知几近崩溃中所扮演的角色的信息。",
+          "keyProgress": "格里芬在周五的一封投资者信中表示，Citadel 此后已经摆脱了与态势感知投资组合相关的约 80% 的风险。据路透社援引知情人士的消息称，监管机构正在寻求深入了解 Situational Awareness 的交易、杠杆的使用以及与高盛、摩根大通、花旗集团和美国银行等投资银行的沟通。肯·格里芬 (Ken Griffin) 旗下的大型多策略对冲基金 Citadel 介入以折扣价买入这些头寸，据了解折扣约为 10%。SK Hynix 和 CoreWeave 此后股价上涨。",
+          "whyItMatters": "“据报道，美国证券交易委员会传唤华尔街银行，反对人工智能对冲基金Situational Aware”如果继续发展，可能通过能源价格、航运、贸易、汇率或市场预期传导到国内。了解它的意义在于判断后续风险，而不只停留在事件本身。",
+          "userRelevance": "即使你不在美国，“据报道，美国证券交易委员会传唤华尔街银行，反对人工智能对冲基金Situational Aware”也可能通过能源价格、国际航运、贸易成本和市场预期间接影响国内生活与工作判断。",
+          "whatToWatch": "接下来要看“据报道，美国证券交易委员会传唤华尔街银行，反对人工智能对冲基金Situational Aware”是否出现更细的城市、行业、平台或企业数据，以及这一变化能否连续保持。"
+        },
+        "sourceLinks": [
+          {
+            "title": "CNBC World News RSS",
+            "url": "https://www.cnbc.com/2026/08/25/sec-situational-awareness-hedge-fund-subpoenas.html",
+            "sourceId": "cnbc-world-rss",
+            "publishedAt": "2026-08-25T11:49:33.000Z",
+            "language": "zh",
+            "originalLanguage": "en",
+            "translationStatus": "translated",
+            "fetchedAt": "2026-08-25T13:58:01.787Z",
+            "sourceMethod": "rss",
+            "verificationStatus": "pending"
+          }
+        ],
+        "images": [],
+        "generatedAt": "2026-08-25T13:57:55.259Z"
+      },
+      {
+        "id": "draft-real-cnbc-world-rss-1gacfdd",
+        "title": "特朗普瞄准伊朗的贸易生命线—以下是最容易受到影响的国家",
+        "oneLine": "最新进展：特朗普瞄准伊朗的贸易生命线—以下是最容易受到影响的国家。",
+        "importance": "A",
+        "credibility": "待确认",
+        "tags": [
+          "A",
+          "mustKnow",
+          "industry",
+          "world",
+          "policy",
+          "finance"
+        ],
+        "industries": [
+          "generalPublic",
+          "financeInvestment",
+          "operationsGrowth",
+          "ecommerceRetail"
+        ],
+        "section": "front",
+        "body": {
+          "background": "据美中经济与安全审查委员会称，2025年中国与伊朗的双边贸易额为99.6亿美元，不包括当年未报告的伊朗对华原油出口额约312亿美元。美国周一宣布发起“经济诺曼底登陆”行动，将伊朗从全球经济中孤立出来，并威胁要对继续与德黑兰做生意的“推动者”进行惩罚。此举是华盛顿切断贸易生命线的一部分，该生命线在近六个月的战争中维持了德黑兰的经济。",
+          "keyProgress": "北京公开反对美国对伊朗实施制裁，认为经济压力无法解决争端。“中国当局更关心美元在融资和进入美国市场方面的准入，”她说。据美国政府称，中国是伊朗石油的最大买家，是德黑兰与全球经济的重要纽带，约占德黑兰石油出口的 90%。克普勒表示，中国的独立炼油厂吸收了大部分原油，这些原油通常被重新命名为马来西亚或印度尼西亚原油，并通过美元体系之外的中介机构进行结算。",
+          "whyItMatters": "“特朗普瞄准伊朗的贸易生命线—以下是最容易受到影响的国家”如果继续发展，可能通过能源价格、航运、贸易、汇率或市场预期传导到国内。了解它的意义在于判断后续风险，而不只停留在事件本身。",
+          "userRelevance": "即使你不在伊朗，“特朗普瞄准伊朗的贸易生命线—以下是最容易受到影响的国家”也可能通过能源价格、国际航运、贸易成本和市场预期间接影响国内生活与工作判断。",
+          "whatToWatch": "接下来要看“特朗普瞄准伊朗的贸易生命线—以下是最容易受到影响的国家”是否出现更细的城市、行业、平台或企业数据，以及这一变化能否连续保持。"
+        },
+        "sourceLinks": [
+          {
+            "title": "CNBC World News RSS",
+            "url": "https://www.cnbc.com/2026/08/25/us-iran-secondary-sanctions-china-india-uae-hormuz-trade-.html",
+            "sourceId": "cnbc-world-rss",
+            "publishedAt": "2026-08-25T06:24:36.000Z",
+            "language": "zh",
+            "originalLanguage": "en",
+            "translationStatus": "translated",
+            "fetchedAt": "2026-08-25T13:58:01.787Z",
+            "sourceMethod": "rss",
+            "verificationStatus": "pending"
+          }
+        ],
+        "images": [
+          {
+            "url": "https://image.cnbcfm.com/api/v1/image/108353675-1787634109634-1787626805-47968781364-hd.jpg?v=1787634115&amp;w=750&amp;h=422&amp;vtcrop=y",
+            "sourceUrl": "https://www.cnbc.com/2026/08/25/us-iran-secondary-sanctions-china-india-uae-hormuz-trade-.html"
+          }
+        ],
+        "generatedAt": "2026-08-25T13:57:55.259Z"
+      },
+      {
+        "id": "draft-real-npr-world-rss-52hsqr",
+        "title": "英国将通过分享机密技术信息来帮助乌克兰制造远程导弹",
+        "oneLine": "政策变化：伦敦——英国首相安迪·伯纳姆周一表示，英国将通过分享英国零部件的机密技术信息来帮助乌克兰制造自己的远程导弹。",
+        "importance": "A",
+        "credibility": "主流媒体",
+        "tags": [
+          "A",
+          "mustKnow",
+          "world",
+          "policy"
+        ],
+        "industries": [
+          "generalPublic"
+        ],
+        "section": "front",
+        "body": {
+          "background": "伯纳姆与其他国际领导人一起在基辅参加了乌克兰独立日活动，他表示，国防公司 MBDA 将向乌克兰公布英国制造的 SCALP 导弹零部件的详细信息，以帮助该国组装武器。它们已被用于伊拉克、利比亚和叙利亚的冲突中。“乌克兰需要的是免受俄罗斯弹道导弹袭击的保护，”他说。",
+          "keyProgress": "乌克兰已经在与法国进行谈判，法国最近同意帮助在乌克兰建立导弹装配线，以便基辅能够生产自己版本的武器。然而，专家表示，这不会很快导致导弹投入使用，也不会解决乌克兰在对抗俄罗斯全面入侵的战争中最紧迫的需求。以下是有关这些导弹的信息以及该公告对乌克兰的重要性：SCALP 导弹是英国“风暴之影”导弹的法国生产版本，后者是一种空射高精度导弹，射程超过 250 公里（155 英里）。据 MBDA 称，该导弹长 5.1 米（16.7 英尺），很难被发现，旨在击中固定目标，例如坚固的掩体和关键基础设施。",
+          "whyItMatters": "“英国将通过分享机密技术信息来帮助乌克兰制造远程导弹”如果继续发展，可能通过能源价格、航运、贸易、汇率或市场预期传导到国内。了解它的意义在于判断后续风险，而不只停留在事件本身。",
+          "userRelevance": "即使你不在乌克兰、英国，“英国将通过分享机密技术信息来帮助乌克兰制造远程导弹”也可能通过能源价格、国际航运、贸易成本和市场预期间接影响国内生活与工作判断。",
+          "whatToWatch": "接下来要看“英国将通过分享机密技术信息来帮助乌克兰制造远程导弹”是否出现新的官方信息、后续行动，以及它与中国出行、贸易或公共判断的关联是否扩大。"
+        },
+        "sourceLinks": [
+          {
+            "title": "NPR World RSS",
+            "url": "https://www.npr.org/2026/08/25/nx-s1-5944059/the-uk-will-help-ukraine-make-long-range-missiles-by-sharing-classified-tech-information",
+            "sourceId": "npr-world-rss",
+            "publishedAt": "2026-08-25T05:14:03.000Z",
+            "language": "zh",
+            "originalLanguage": "en",
+            "translationStatus": "translated",
+            "fetchedAt": "2026-08-25T13:58:00.918Z",
+            "sourceMethod": "rss",
+            "verificationStatus": "confirmed"
+          }
+        ],
+        "images": [
+          {
+            "url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/7017x4680+0+0/resize/1100/quality/50/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F5a%2Fe6%2Fc008b1ab4557b84820118a7c7bf7%2Fap26236633973837.jpg",
+            "sourceUrl": "https://www.npr.org/2026/08/25/nx-s1-5944059/the-uk-will-help-ukraine-make-long-range-missiles-by-sharing-classified-tech-information"
+          },
+          {
+            "url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6538x4361+0+0/resize/1100/quality/50/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Ff4%2F7f%2F959866c2419385e429219fa33a9e%2Fap26236671939177.jpg",
+            "sourceUrl": "https://www.npr.org/2026/08/25/nx-s1-5944059/the-uk-will-help-ukraine-make-long-range-missiles-by-sharing-classified-tech-information"
+          }
+        ],
+        "generatedAt": "2026-08-25T13:57:55.259Z"
+      },
+      {
         "id": "draft-cluster-real-un-news-rss-1alc1ct",
         "title": "安理会直播：俄罗斯-乌克兰战争中平民苦难加剧",
         "oneLine": "最新进展：安理会直播：俄罗斯-乌克兰战争中平民苦难加剧。",
@@ -389,6 +590,50 @@
         "generatedAt": "2026-08-24T23:33:46.966Z"
       },
       {
+        "id": "draft-real-un-news-rss-zmem2h",
+        "title": "联合国红十字会主席再次呼吁制定关于致命自主武器的规则",
+        "oneLine": "最新进展：联合国红十字会主席再次呼吁制定关于致命自主武器的规则。",
+        "importance": "B",
+        "credibility": "官方来源",
+        "tags": [
+          "B",
+          "mustKnow",
+          "world"
+        ],
+        "industries": [
+          "generalPublic"
+        ],
+        "section": "front",
+        "body": {
+          "background": "联合国日内瓦办事处裁军事务负责人梅兰妮·雷金巴尔在日内瓦回应了这些担忧，强调联合国秘书长长期以来的立场，即在没有人类控制和判断的情况下选择或攻击目标并夺走人命的系统“在政治上和道义上都是不可接受的”。控制措施要求使用两种类型的自主武器：行动“不可预测”的武器和针对人类的武器。人工智能的进步可能会减少人类对使用致命武力的控制，敦促各国开始就具有法律约束力的协议进行谈判。",
+          "keyProgress": "联合国秘书长古特雷斯在与红十字国际委员会主席米里亚娜·斯波尔加里克·埃格的联合呼吁中表示，在日益强大的人工智能技术的推动下，武器制造和部署的速度和规模越来越先进，就连武器制造商也希望澄清所面临的法律问题。同样在日内瓦，红十字国际委员会的洛朗·吉塞尔描述了冲突“不是一个精确、区分和克制的故事。",
+          "whyItMatters": "“联合国红十字会主席再次呼吁制定关于致命自主武器的规则”如果继续发展，可能通过能源价格、航运、贸易、汇率或市场预期传导到国内。了解它的意义在于判断后续风险，而不只停留在事件本身。",
+          "userRelevance": "即使你不在事发地区，“联合国红十字会主席再次呼吁制定关于致命自主武器的规则”也可能通过能源价格、国际航运、贸易成本和市场预期间接影响国内生活与工作判断。",
+          "whatToWatch": "接下来要看“联合国红十字会主席再次呼吁制定关于致命自主武器的规则”是否出现新的官方信息、后续行动，以及它与中国出行、贸易或公共判断的关联是否扩大。"
+        },
+        "sourceLinks": [
+          {
+            "title": "联合国新闻 RSS",
+            "url": "https://news.un.org/feed/view/en/story/2026/08/1168196",
+            "sourceId": "un-news-rss",
+            "publishedAt": "2026-08-25T12:00:00.000Z",
+            "language": "zh",
+            "originalLanguage": "en",
+            "translationStatus": "translated",
+            "fetchedAt": "2026-08-25T13:58:01.871Z",
+            "sourceMethod": "rss",
+            "verificationStatus": "confirmed"
+          }
+        ],
+        "images": [
+          {
+            "url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/08/25-08-2026-AutonomousWeapon-Adobe.jpg/image560x340cropped.jpg",
+            "sourceUrl": "https://news.un.org/feed/view/en/story/2026/08/1168196"
+          }
+        ],
+        "generatedAt": "2026-08-25T13:57:55.259Z"
+      },
+      {
         "id": "draft-real-mem-cn-1atu5tw",
         "title": "应急管理部针对福建启动国家地质灾害四级应急响应",
         "oneLine": "风险提醒：根据《国家突发地质灾害应急预案》及有关规定，应急管理部于8月24日针对福建启动地质灾害四级应急响应，派出工作组指导地方做好台风暴雨期间地质灾害防范应对工作。",
@@ -431,6 +676,370 @@
         ],
         "images": [],
         "generatedAt": "2026-08-24T23:33:46.966Z"
+      },
+      {
+        "id": "draft-real-techcrunch-ai-rss-ii0ep1",
+        "title": "Accel支持的Keenable正在为人工智能代理索引网络",
+        "oneLine": "最新进展：Accel支持的Keenable正在为人工智能代理索引网络。",
+        "importance": "B",
+        "credibility": "待确认",
+        "tags": [
+          "B",
+          "industry",
+          "ai",
+          "technology",
+          "product"
+        ],
+        "industries": [
+          "aiProduct",
+          "aiTechnology",
+          "productManagement",
+          "technologyEngineering",
+          "educationResearch"
+        ],
+        "section": "ai",
+        "body": {
+          "background": "Keenable 表示，它一直在构建超过 1000 亿份文档的网络搜索索引，其 API 已在多个人工智能实验室和推理提供商的生产中用于训练和运行时。但随着人们越来越多地使用人工智能聊天机器人来搜索网络和执行任务，人们认为互联网当前的基础设施需要更新以迎合人工智能，因为这些机器人可以读取和处理更多的信息。俄罗斯搜索巨头 Yandex 搜索、人工智能和云部门前负责人 Andrey Styskin 和德国人工智能科学家 Matthias Petri 正在通过他们的新初创公司 Keenable 解决这个问题。",
+          "keyProgress": "该初创公司不愿透露其客户是谁，但它最近与语音人工智能公司 Gradium 建立了合作伙伴关系，以支持实时信息检索。该公司最近获得了 2600 万美元的秘密种子资金。Accel 领投了本轮融资，Conviction Partners 和一些天使投资人也参与了本轮融资。从 Styskin 的角度来看，如果人工智能聊天机器人能够根据源文档做出回应，它们往往会做得更好。",
+          "whyItMatters": "“Accel支持的Keenable正在为人工智能代理索引网络”能帮助你判断这项能力是否已经进入工程、产品或商业场景，并据此调整技术选型、产品规划、学习重点或职业判断。",
+          "userRelevance": "如果你从事AI 产品、AI 技术、产品管理、技术研发，可以重点判断“Accel支持的Keenable正在为人工智能代理索引网络”是否已经具备产品落地、技术选型或业务合作价值。",
+          "whatToWatch": "接下来要看“Accel支持的Keenable正在为人工智能代理索引网络”是否有更多可靠来源、量产或应用进展，以及它会不会从单点消息发展成持续趋势。"
+        },
+        "sourceLinks": [
+          {
+            "title": "TechCrunch AI RSS",
+            "url": "https://techcrunch.com/2026/08/25/accel-backed-keenable-is-indexing-the-web-for-ai-agents/",
+            "sourceId": "techcrunch-ai-rss",
+            "publishedAt": "2026-08-25T13:00:00.000Z",
+            "language": "zh",
+            "originalLanguage": "en",
+            "translationStatus": "translated",
+            "fetchedAt": "2026-08-25T13:58:03.448Z",
+            "sourceMethod": "rss",
+            "verificationStatus": "pending"
+          }
+        ],
+        "images": [],
+        "generatedAt": "2026-08-25T13:57:55.259Z"
+      },
+      {
+        "id": "draft-real-techcrunch-ai-rss-1ya92bl",
+        "title": "“世界似乎已经准备好了” ：对OpenAI产品负责人Thibault Sottiaux的采访",
+        "oneLine": "趋势信号：OpenAI 软件工程工具 Codex 的用户可能知道 Thibault Sottiaux，因为每当产品达到增长里程碑时，他就会重置其代币限制。",
+        "importance": "B",
+        "credibility": "待确认",
+        "tags": [
+          "B",
+          "industry",
+          "ai",
+          "technology",
+          "product"
+        ],
+        "industries": [
+          "aiProduct",
+          "aiTechnology",
+          "productManagement",
+          "technologyEngineering",
+          "educationResearch"
+        ],
+        "section": "ai",
+        "body": {
+          "background": "Sottiaux：我领导所有核心产品，即 API、代理基础设施、企业、所有 ChatGPT，其中包括 ChatGPT Work，也包括 ChatGPT classic，以及 Codex 的所有内容。现在，OpenAI 正试图通过 ChatGPT Work（一个供白领工人利用人工智能代理的平台）将多巴胺的刺激带给我们其他人。我与 Sottiaux 讨论了有关该产品及其挑战的专题报道，但我们希望与读者分享更多对话内容。",
+          "keyProgress": "问：为什么 ChatGPT Work 对 OpenAI 如此重要？问：分析人士表示，这里有一个重要的经济动机，即OpenAI需要拥有与用户的应用关系。这是我们采访的经过轻微编辑和浓缩的版本，内容涉及赢得怀疑者、作为产品设计理念的发现以及情报成本。TechCrunch：我知道您是技术人员。",
+          "whyItMatters": "“世界似乎已经准备好了 ：对OpenAI产品负责人Thibault Sottiaux的采访”能帮助你判断这项能力是否已经进入工程、产品或商业场景，并据此调整技术选型、产品规划、学习重点或职业判断。",
+          "userRelevance": "如果你从事AI 产品、AI 技术、产品管理、技术研发，可以重点判断“世界似乎已经准备好了 ：对OpenAI产品负责人Thibault Sottiaux的采访”是否已经具备产品落地、技术选型或业务合作价值。",
+          "whatToWatch": "接下来要看“世界似乎已经准备好了 ：对OpenAI产品负责人Thibault Sottiaux的采访”是否有更多可靠来源、量产或应用进展，以及它会不会从单点消息发展成持续趋势。"
+        },
+        "sourceLinks": [
+          {
+            "title": "TechCrunch AI RSS",
+            "url": "https://techcrunch.com/2026/08/25/the-world-seems-to-be-ready-an-interview-with-openai-head-of-product-thibault-sottiaux/",
+            "sourceId": "techcrunch-ai-rss",
+            "publishedAt": "2026-08-25T12:00:00.000Z",
+            "language": "zh",
+            "originalLanguage": "en",
+            "translationStatus": "translated",
+            "fetchedAt": "2026-08-25T13:58:03.448Z",
+            "sourceMethod": "rss",
+            "verificationStatus": "pending"
+          }
+        ],
+        "images": [],
+        "generatedAt": "2026-08-25T13:57:55.259Z"
+      },
+      {
+        "id": "draft-real-cnbc-world-rss-qzkf6x",
+        "title": "苹果宣布推出带有AI升级的新款Mac Mini和Mac Studio机型",
+        "oneLine": "政策变化：在本文中，随着越来越多的消费者转向苹果电脑来创建和运行人工智能代理，该公司正在推出新的 Mac Mini 和 Mac Studio 型号，配备更新的芯片和人工智能应用程序的其他升级。",
+        "importance": "B",
+        "credibility": "待确认",
+        "tags": [
+          "B",
+          "industry",
+          "world",
+          "policy",
+          "finance"
+        ],
+        "industries": [
+          "generalPublic",
+          "financeInvestment",
+          "operationsGrowth",
+          "ecommerceRetail"
+        ],
+        "section": "industry",
+        "body": {
+          "background": "预计苹果公司将发布新 iPhone 机型的几周前宣布的这一消息表明，台式电脑作为人工智能开发领域的立足点以及展示其处理器功能的平台，对苹果公司来说已变得具有重要的战略意义。苹果在周二的声明中强调，它的 iPhone 和 Mac 芯片采用了专门用于运行模型的称为神经引擎的特殊部件，并且使用了 RAM 架构，消除了一些内存瓶颈。使用 OpenClaw 等软件创建自己的代理的开发人员通常更喜欢在专用的 Mac Mini 计算机上运行它们，而不是在云中。",
+          "keyProgress": "Apple 的 Mac Studio 是尝试训练和部署本地模型的人工智能研究人员的热门选择。苹果在新闻稿中表示：“借助这些框架和新芯片，开发人员可以在 Mac 上本地运行和微调大型人工智能模型。苹果宣布推出带有人工智能升级的新 Mac Mini 和 Mac Studio 机型 英伟达对超大规模计算设备的依赖在收益报告中面临重大考验 OpenAI 禁止在秘密虚假信息活动中使用俄罗斯 ChatGPT 账户 黑莓首席执行官表示，机器人技术是其增长最快的业务之一 之前的版本配备了 M4、M4 Pro 和 M4 Max 芯片。苹果表示，配置 M5 Pro 的电脑处理大型语言模型提示的速度比旧版 Pro 版本的 Mac Mini 快 8.5 倍。",
+          "whyItMatters": "“苹果宣布推出带有AI升级的新款Mac Mini和Mac Studio机型”如果继续发展，可能通过能源价格、航运、贸易、汇率或市场预期传导到国内。了解它的意义在于判断后续风险，而不只停留在事件本身。",
+          "userRelevance": "即使你不在事发地区，“苹果宣布推出带有AI升级的新款Mac Mini和Mac Studio机型”也可能通过能源价格、国际航运、贸易成本和市场预期间接影响国内生活与工作判断。",
+          "whatToWatch": "接下来要看“苹果宣布推出带有AI升级的新款Mac Mini和Mac Studio机型”是否出现更细的城市、行业、平台或企业数据，以及这一变化能否连续保持。"
+        },
+        "sourceLinks": [
+          {
+            "title": "CNBC World News RSS",
+            "url": "https://www.cnbc.com/2026/08/25/apple-announces-new-mac-mini-and-mac-studio-models-with-ai-upgrades.html",
+            "sourceId": "cnbc-world-rss",
+            "publishedAt": "2026-08-25T13:00:01.000Z",
+            "language": "zh",
+            "originalLanguage": "en",
+            "translationStatus": "translated",
+            "fetchedAt": "2026-08-25T13:58:01.787Z",
+            "sourceMethod": "rss",
+            "verificationStatus": "pending"
+          }
+        ],
+        "images": [
+          {
+            "url": "https://image.cnbcfm.com/api/v1/image/108349235-1786637694858-1786634065-47747191115-hd.jpg?v=1786637695&amp;w=750&amp;h=422&amp;vtcrop=y",
+            "sourceUrl": "https://www.cnbc.com/2026/08/25/apple-announces-new-mac-mini-and-mac-studio-models-with-ai-upgrades.html"
+          }
+        ],
+        "generatedAt": "2026-08-25T13:57:55.259Z"
+      },
+      {
+        "id": "draft-real-cnbc-world-rss-8y6ia9",
+        "title": "OpenAI禁止俄罗斯ChatGPT帐户用于隐蔽的虚假信息宣传活动",
+        "oneLine": "政策变化：在本文中，OpenAI 禁止了一组源自俄罗斯的 ChatGPT 帐户，称这些帐户被用来支持秘密的在线影响力活动，以传播错误信息。",
+        "importance": "B",
+        "credibility": "待确认",
+        "tags": [
+          "B",
+          "industry",
+          "world",
+          "policy",
+          "finance"
+        ],
+        "industries": [
+          "generalPublic",
+          "financeInvestment",
+          "operationsGrowth",
+          "ecommerceRetail"
+        ],
+        "section": "industry",
+        "body": {
+          "background": "OpenAI 不允许在俄罗斯访问其模型，但该公司表示 VPN 用于伪装位置。OpenAI 表示，运营商用俄语提示生成发布在 Substack、Telegram、X、Facebook 和 LinkedIn 上的社交媒体评论，并指示 ChatGPT 隐藏任何表明他们是俄语的语言线索。该公司补充说，虽然该行动的直接影响似乎有限，但“该行动的意义不在于它所覆盖的受众，而在于它所建立的基础设施。",
+          "keyProgress": "OpenAI 在周二的博客文章中表示，该公司在调查人工智能生成的社交媒体帖子后发现了这个问题，这导致其采取了“更广泛的影响行动”。该公司补充说，该活动“围绕一个包含复制和错误归属的学术作品的网站、一个对俄罗斯有利的‘主权’指数，以及掩盖运营商俄罗斯血统的努力”。今年 2 月，OpenAI 表示，它已经关闭了与 Rybar 有关的 ChatGPT 账户。OpenAI 表示，影响力活动还创建了一个“主权指数”，该指数赞扬俄罗斯并诋毁西方国家。",
+          "whyItMatters": "“OpenAI禁止俄罗斯ChatGPT帐户用于隐蔽的虚假信息宣传活动”如果继续发展，可能通过能源价格、航运、贸易、汇率或市场预期传导到国内。了解它的意义在于判断后续风险，而不只停留在事件本身。",
+          "userRelevance": "即使你不在俄罗斯，“OpenAI禁止俄罗斯ChatGPT帐户用于隐蔽的虚假信息宣传活动”也可能通过能源价格、国际航运、贸易成本和市场预期间接影响国内生活与工作判断。",
+          "whatToWatch": "接下来要看“OpenAI禁止俄罗斯ChatGPT帐户用于隐蔽的虚假信息宣传活动”是否出现更细的城市、行业、平台或企业数据，以及这一变化能否连续保持。"
+        },
+        "sourceLinks": [
+          {
+            "title": "CNBC World News RSS",
+            "url": "https://www.cnbc.com/2026/08/25/openai-russia-chatgpt-influence-campaign.html",
+            "sourceId": "cnbc-world-rss",
+            "publishedAt": "2026-08-25T11:21:09.000Z",
+            "language": "zh",
+            "originalLanguage": "en",
+            "translationStatus": "translated",
+            "fetchedAt": "2026-08-25T13:58:01.787Z",
+            "sourceMethod": "rss",
+            "verificationStatus": "pending"
+          }
+        ],
+        "images": [],
+        "generatedAt": "2026-08-25T13:57:55.259Z"
+      },
+      {
+        "id": "draft-real-cnbc-world-rss-1rl29mn",
+        "title": "新德里在11周内收入730亿美元，由非居民印度人特别存款提供动力",
+        "oneLine": "政策变化：新德里通过一项特殊计划吸引外国资金，在过去 11 周内推动了 730 亿美元的资金流入，这主要得益于印度非居民在印度银行进行外币存款的激励措施。",
+        "importance": "B",
+        "credibility": "待确认",
+        "tags": [
+          "B",
+          "industry",
+          "world",
+          "policy",
+          "finance"
+        ],
+        "industries": [
+          "generalPublic",
+          "financeInvestment",
+          "operationsGrowth",
+          "ecommerceRetail"
+        ],
+        "section": "industry",
+        "body": {
+          "background": "据官方发布的消息，2013 年，类似的举措导致三个月内资金流入 260 亿美元。此举旨在支撑印度卢比，由于能源进口费用上涨和外国资本外流，印度卢比仍然疲软。印度IDFC第一银行首席经济学家Gaura Sengupta告诉CNBC，尽管最近能源价格飙升，但卢比一直相对稳定，因为这些资金流入为印度储备银行干预货币市场提供了空间。",
+          "keyProgress": "她表示，印度储备银行正在利用这些资金流入来尽量减少“波动”，但不会“影响当地货币的方向”。她补充说，她的公司将卢比兑换成美元兑卢比汇率在 2027 年 3 月之前稳定在 96.50 左右。印度财政部称激励性存款计划（也称为外币非居民（银行）存款）是印度“最​​大、最快的外币动员活动”。印度财政部周一表示，超过 650 亿美元的流入流入了这些银行存款，据全球券商野村证券 (Nomura) 称，在激励措施于 8 月 31 日结束之前，存款可能会增至近 800 亿美元。",
+          "whyItMatters": "“新德里在11周内收入730亿美元，由非居民印度人特别存款提供动力”如果继续发展，可能通过能源价格、航运、贸易、汇率或市场预期传导到国内。了解它的意义在于判断后续风险，而不只停留在事件本身。",
+          "userRelevance": "即使你不在印度，“新德里在11周内收入730亿美元，由非居民印度人特别存款提供动力”也可能通过能源价格、国际航运、贸易成本和市场预期间接影响国内生活与工作判断。",
+          "whatToWatch": "接下来要看“新德里在11周内收入730亿美元，由非居民印度人特别存款提供动力”是否出现更细的城市、行业、平台或企业数据，以及这一变化能否连续保持。"
+        },
+        "sourceLinks": [
+          {
+            "title": "CNBC World News RSS",
+            "url": "https://www.cnbc.com/2026/08/25/india-billion-foreign-inflows-rupee-weakness.html",
+            "sourceId": "cnbc-world-rss",
+            "publishedAt": "2026-08-25T10:23:53.000Z",
+            "language": "zh",
+            "originalLanguage": "en",
+            "translationStatus": "translated",
+            "fetchedAt": "2026-08-25T13:58:01.787Z",
+            "sourceMethod": "rss",
+            "verificationStatus": "pending"
+          }
+        ],
+        "images": [],
+        "generatedAt": "2026-08-25T13:57:55.259Z"
+      },
+      {
+        "id": "draft-real-cnbc-world-rss-18z2x3b",
+        "title": "乌克兰的目标是俄罗斯的零售巨头。臭氧是下一个经济压力点",
+        "oneLine": "政策变化：乌克兰针对俄罗斯电子商务行业的无人机行动正在从Wildberry扩大到Ozon，基辅试图给总统弗拉基米尔·普京的战时经济带来新的痛苦。",
+        "importance": "B",
+        "credibility": "待确认",
+        "tags": [
+          "B",
+          "industry",
+          "world",
+          "policy",
+          "finance"
+        ],
+        "industries": [
+          "generalPublic",
+          "financeInvestment",
+          "operationsGrowth",
+          "ecommerceRetail"
+        ],
+        "section": "industry",
+        "body": {
+          "background": "周一，该公司股价在莫斯科交易所暴跌近 30%，此前该公司报道俄罗斯南部发生无人机袭击事件，导致过去三天遭受袭击的设施数量达到六处。据报道，达吉斯坦马哈奇卡拉的物流中心和克拉斯诺达尔郊区埃内姆镇的物流中心最近几天发生了袭击事件，而萨马拉地区的奥宗物流中心在周六遭到无人机袭击后停止了工作。乌克兰总统泽连斯基此前曾试图为对 Wildberry 仓库的袭击辩护，称这些目标仓库涉及向俄罗斯军队提供无人机部件、导航设备和其他军事部件。",
+          "keyProgress": "乌克兰将亚马逊式零售巨头Wildberry等主要在线零售商的俄罗斯物流基础设施作为目标，以扰乱商业供应​​链并增加银行和企业面临的财务负担。俄罗斯第二大在线零售商 Ozon 现在成为乌克兰的下一个目标。奥宗通过 Telegram 表示，萨马拉地区的袭击导致仓库起火，并“在几分钟内”疏散了 500 多名员工。随着欧洲领导人与俄罗斯经济的会面，法国和英国加大了对乌克兰的导弹支持力度，俄罗斯经济已经无视怀疑论者。",
+          "whyItMatters": "“乌克兰的目标是俄罗斯的零售巨头。臭氧是下一个经济压力点”如果继续发展，可能通过能源价格、航运、贸易、汇率或市场预期传导到国内。了解它的意义在于判断后续风险，而不只停留在事件本身。",
+          "userRelevance": "即使你不在乌克兰、俄罗斯，“乌克兰的目标是俄罗斯的零售巨头。臭氧是下一个经济压力点”也可能通过能源价格、国际航运、贸易成本和市场预期间接影响国内生活与工作判断。",
+          "whatToWatch": "接下来要看“乌克兰的目标是俄罗斯的零售巨头。臭氧是下一个经济压力点”是否出现更细的城市、行业、平台或企业数据，以及这一变化能否连续保持。"
+        },
+        "sourceLinks": [
+          {
+            "title": "CNBC World News RSS",
+            "url": "https://www.cnbc.com/2026/08/25/ukraine-war-russia-ozon-wildberries-economy.html",
+            "sourceId": "cnbc-world-rss",
+            "publishedAt": "2026-08-25T10:20:17.000Z",
+            "language": "zh",
+            "originalLanguage": "en",
+            "translationStatus": "translated",
+            "fetchedAt": "2026-08-25T13:58:01.787Z",
+            "sourceMethod": "rss",
+            "verificationStatus": "pending"
+          }
+        ],
+        "images": [],
+        "generatedAt": "2026-08-25T13:57:55.259Z"
+      },
+      {
+        "id": "draft-real-cnbc-world-rss-1e8ihit",
+        "title": "黑莓首席执行官表示，机器人技术是其增长最快的业务之一",
+        "oneLine": "政策变化：在这篇文章中，这位首席执行官告诉 CNBC，机器人技术是黑莓关键软件部门中增长最快的业务之一，因为该公司将自己定位为物理人工智能的未来。",
+        "importance": "B",
+        "credibility": "待确认",
+        "tags": [
+          "B",
+          "industry",
+          "world",
+          "policy",
+          "finance"
+        ],
+        "industries": [
+          "generalPublic",
+          "financeInvestment",
+          "operationsGrowth",
+          "ecommerceRetail"
+        ],
+        "section": "industry",
+        "body": {
+          "background": "首席执行官 John Giamatteo 表示 QNX 现在正用于机器人领域。黑莓曾经是世界上最大的手机制造商之一，其标志性的手机配有键盘，但多年来已将重点转向其他领域。其最大的业务之一是 QNX，它称之为在汽车中运行的“安全关键”软件。",
+          "keyProgress": "Giamatteo 在 CNBC 的“The Tech Download”播客中表示：“我们认为，对于机器人等行业来说，这甚至可能是该行业增长更快的部分。相反，首席执行官提到了工业环境中的机器人，例如仓库、机器人叉车以及医疗领域中使用的机器人。Giamatteo 表示：“尽管我们对汽车行业的动态及其发展方向感到兴奋，但围绕机器人、医疗仪器和工业自动化的其他应用代表着巨大的增长机会。”这位首席执行官表示，机器人技术是该公司“QNX 产品组合中增长最快的业务”之一。",
+          "whyItMatters": "“黑莓首席执行官表示，机器人技术是其增长最快的业务之一”如果继续发展，可能通过能源价格、航运、贸易、汇率或市场预期传导到国内。了解它的意义在于判断后续风险，而不只停留在事件本身。",
+          "userRelevance": "即使你不在事发地区，“黑莓首席执行官表示，机器人技术是其增长最快的业务之一”也可能通过能源价格、国际航运、贸易成本和市场预期间接影响国内生活与工作判断。",
+          "whatToWatch": "接下来要看“黑莓首席执行官表示，机器人技术是其增长最快的业务之一”是否出现更细的城市、行业、平台或企业数据，以及这一变化能否连续保持。"
+        },
+        "sourceLinks": [
+          {
+            "title": "CNBC World News RSS",
+            "url": "https://www.cnbc.com/2026/08/25/blackberry-qnx-robotics-physical-ai.html",
+            "sourceId": "cnbc-world-rss",
+            "publishedAt": "2026-08-25T09:26:05.000Z",
+            "language": "zh",
+            "originalLanguage": "en",
+            "translationStatus": "translated",
+            "fetchedAt": "2026-08-25T13:58:01.787Z",
+            "sourceMethod": "rss",
+            "verificationStatus": "pending"
+          }
+        ],
+        "images": [
+          {
+            "url": "https://image.cnbcfm.com/api/v1/image/108353218-JOHN_THUMB.jpg?v=1787572471&amp;w=750&amp;h=422&amp;vtcrop=y",
+            "sourceUrl": "https://www.cnbc.com/2026/08/25/blackberry-qnx-robotics-physical-ai.html"
+          }
+        ],
+        "generatedAt": "2026-08-25T13:57:55.259Z"
+      },
+      {
+        "id": "draft-real-cnbc-world-rss-1rt3y64",
+        "title": "Dragon Ball Z主题公园获得$ 70亿绿灯",
+        "oneLine": "政策变化：在本文中，法国总统埃马纽埃尔·马克龙和沙特阿拉伯王储穆罕默德·本·萨勒曼承诺在巴黎北部建造一座耗资 60 亿欧元（70 亿美元）的主题公园。",
+        "importance": "B",
+        "credibility": "待确认",
+        "tags": [
+          "B",
+          "industry",
+          "world",
+          "policy",
+          "finance"
+        ],
+        "industries": [
+          "generalPublic",
+          "financeInvestment",
+          "operationsGrowth",
+          "ecommerceRetail"
+        ],
+        "section": "industry",
+        "body": {
+          "background": "该交易包括三个游乐园，其中一个以日本热门动漫系列《龙珠 Z》为主题的漫画风格公园。此前，沙特王储对法国进行了为期两天的国事访问。2023年，该公司宣布计划在其体验领域投资600亿美元，其中包括主题公园、游轮和消费品。",
+          "keyProgress": "马克龙周一在 X 上发帖称，“自巴黎迪士尼乐园以来从未见过这样的情况”，并补充说，这项投资预计将创造超过 20,000 个就业岗位。两位领导人讨论了他们对动画漫画的共同兴趣，马克龙分享了他“对漫画的热情”和“吸引法国投资的决心”。法国总统利用他的“选择法国”峰会作为吸引外国投资的一种方式。6 月，他宣布全球公司已承诺对 71 个项目投资 1080 亿美元。",
+          "whyItMatters": "“Dragon Ball Z主题公园获得$ 70亿绿灯”如果继续发展，可能通过能源价格、航运、贸易、汇率或市场预期传导到国内。了解它的意义在于判断后续风险，而不只停留在事件本身。",
+          "userRelevance": "即使你不在法国、沙特，“Dragon Ball Z主题公园获得$ 70亿绿灯”也可能通过能源价格、国际航运、贸易成本和市场预期间接影响国内生活与工作判断。",
+          "whatToWatch": "接下来要看“Dragon Ball Z主题公园获得$ 70亿绿灯”是否出现更细的城市、行业、平台或企业数据，以及这一变化能否连续保持。"
+        },
+        "sourceLinks": [
+          {
+            "title": "CNBC World News RSS",
+            "url": "https://www.cnbc.com/2026/08/25/dragon-ball-z-theme-park-france-paris.html",
+            "sourceId": "cnbc-world-rss",
+            "publishedAt": "2026-08-25T08:53:08.000Z",
+            "language": "zh",
+            "originalLanguage": "en",
+            "translationStatus": "translated",
+            "fetchedAt": "2026-08-25T13:58:01.787Z",
+            "sourceMethod": "rss",
+            "verificationStatus": "pending"
+          }
+        ],
+        "images": [],
+        "generatedAt": "2026-08-25T13:57:55.259Z"
       },
       {
         "id": "draft-real-cnbc-world-rss-13q296f",
@@ -564,443 +1173,12 @@
           }
         ],
         "generatedAt": "2026-08-24T23:33:46.966Z"
-      },
-      {
-        "id": "draft-real-gov-uk-news-1d6wxzn",
-        "title": "历史悠久的市议会房屋建筑卷土重来，帮助家庭成为安全的家园",
-        "oneLine": "风险提醒：《历史悠久的市议会房屋建筑卷土重来，帮助家庭成为安全的家园》我们使用一些必要的 cookie 来使该网站正常运行。",
-        "importance": "B",
-        "credibility": "官方来源",
-        "tags": [
-          "B",
-          "mustKnow",
-          "risk",
-          "world",
-          "policy",
-          "local"
-        ],
-        "industries": [
-          "generalPublic",
-          "localLife"
-        ],
-        "section": "risk",
-        "body": {
-          "background": "出生、死亡、婚姻和护理 商业和自营职业 儿童保育和养育 英国公民身份和生活 犯罪、司法和法律 残疾人 驾驶和交通 教育和学习 就业人员 环境和乡村 住房和当地服务 金钱和税收 护照、旅行和国外生活 签证和移民 工作、工作和养老金 部门 部门、机构和公共机构 新闻 新闻故事、演讲、信件和通知 指导和监管 详细指导、法规和规则 研究和统计 报告、分析和官方统计 Policy papers and consultations Consultations and strategy Transparency Data, Freedom of Information releases and corporate reports Housing, local and community Housing and communi。",
-          "keyProgress": "我们还使用其他网站设置的 cookie 来帮助我们从他们的服务中提供内容。您可以随时更改您的 cookie 设置。",
-          "whyItMatters": "“历史悠久的市议会房屋建筑卷土重来，帮助家庭成为安全的家园”的直接价值是帮助你判断是否需要调整出行、居住或工作安排。影响地区、持续时间、预警等级和官方避险建议比事件热度更重要。",
-          "userRelevance": "对于“历史悠久的市议会房屋建筑卷土重来，帮助家庭成为安全的家园”，如果你所在地区出现同类预警，应优先确认当地通知、交通变化和避险要求；其他地区通常无需因此改变日常安排。",
-          "whatToWatch": "接下来要看“历史悠久的市议会房屋建筑卷土重来，帮助家庭成为安全的家园”的影响范围是否扩大、预警等级是否变化，以及是否出现与你所在城市相关的提醒。"
-        },
-        "sourceLinks": [
-          {
-            "title": "GOV.UK News and Communications",
-            "url": "https://www.gov.uk/government/news/historic-council-housebuilding-comeback-to-help-families-into-secure-homes",
-            "sourceId": "gov-uk-news",
-            "publishedAt": "2026-08-24T21:30:00.000Z",
-            "language": "zh",
-            "originalLanguage": "en",
-            "translationStatus": "translated",
-            "fetchedAt": "2026-08-24T23:33:51.606Z",
-            "sourceMethod": "rss",
-            "verificationStatus": "confirmed"
-          }
-        ],
-        "images": [
-          {
-            "url": "https://assets.publishing.service.gov.uk/media/6a8c6939a8f84a582b842857/s300_1111shutterstock_2198229229.jpg",
-            "sourceUrl": "https://www.gov.uk/government/news/historic-council-housebuilding-comeback-to-help-families-into-secure-homes"
-          }
-        ],
-        "generatedAt": "2026-08-24T23:33:46.966Z"
-      },
-      {
-        "id": "draft-real-xinhua-tech-13a3t8e",
-        "title": "AI智能体能自主生成并运行量子计算代码",
-        "oneLine": "趋势信号：科技日报讯 （记者张佳欣）氛围编程（Vibe Coding）正从传统软件开发进入量子计算领域。",
-        "importance": "B",
-        "credibility": "主流媒体",
-        "tags": [
-          "B",
-          "industry",
-          "technology",
-          "ai",
-          "product"
-        ],
-        "industries": [
-          "technologyEngineering",
-          "educationResearch",
-          "aiProduct",
-          "aiTechnology",
-          "productManagement",
-          "operationsGrowth"
-        ],
-        "section": "ai",
-        "body": {
-          "background": "据英国《自然》杂志日前消息，法国量子计算初创企业Pasqal研究人员开发出一种人工智能（AI）智能体，能根据英文自然语言指令生成量子计算代码，并自动在真实量子计算机上运行。研究人员表示，这种量子氛围编程有望降低量子计算实验的技术门槛，让更多人能够开展量子计算研究。所谓氛围编程，是指用户只需要用自然语言告诉AI工具，希望软件实现什么功能，AI便会生成相应程序，并根据用户反馈进行修改和运行。",
-          "keyProgress": "目前，Anthropic公司的Claude等前沿大语言模型已展现出理解量子计算的能力，不少研究人员也开始用这类模型辅助编写量子计算代码。Pasqal研究团队则让这些前沿大语言模型熟悉其量子计算机的技术规格，进一步探索大语言模型能否实现量子领域的氛围编程。Pasqal团队对AI智能体进行了3项测试，每项测试都选取一篇描述某种物理现象的论文，并要求智能体编写和运行代码，以验证这一现象是否可通过量子计算机进行模拟。Pasqal首席技术官伊克·亨里耶说，要完成这一“转换”，通常需要同时掌握材料物理学和量子计算知识的专业团队，而AI智能体现在可协助完成这一过程。",
-          "whyItMatters": "“AI智能体能自主生成并运行量子计算代码”能帮助你判断这项能力是否已经进入工程、产品或商业场景，并据此调整技术选型、产品规划、学习重点或职业判断。",
-          "userRelevance": "如果你从事技术研发、教育研究、AI 产品、AI 技术，可以重点判断“AI智能体能自主生成并运行量子计算代码”是否已经具备产品落地、技术选型或业务合作价值。",
-          "whatToWatch": "接下来要看“AI智能体能自主生成并运行量子计算代码”是否有更多可靠来源、量产或应用进展，以及它会不会从单点消息发展成持续趋势。"
-        },
-        "sourceLinks": [
-          {
-            "title": "新华网科技",
-            "url": "https://www.news.cn/tech/20260824/d980541029ac4af289aa2729506c79d8/c.html",
-            "sourceId": "xinhua-tech",
-            "publishedAt": "2026-08-24T00:00:00+08:00",
-            "language": "zh",
-            "originalLanguage": "zh",
-            "translationStatus": "not-needed",
-            "fetchedAt": "2026-08-24T23:33:50.928Z",
-            "sourceMethod": "web",
-            "verificationStatus": "confirmed"
-          }
-        ],
-        "images": [],
-        "generatedAt": "2026-08-24T23:33:46.966Z"
-      },
-      {
-        "id": "draft-real-xinhua-tech-j9crr6",
-        "title": "AI“点亮”半年报 智能消费持续扩容",
-        "oneLine": "趋势信号：2026年半年报披露季，一组数据勾勒出我国消费市场的新变化：智能助行外骨骼、AI眼镜、AI手机等产品，正以超出预期的速度进入普通消费者的购物车，也在上市公司财报中成为最亮眼的增长极。",
-        "importance": "B",
-        "credibility": "主流媒体",
-        "tags": [
-          "B",
-          "industry",
-          "technology",
-          "ai",
-          "product"
-        ],
-        "industries": [
-          "technologyEngineering",
-          "educationResearch",
-          "aiProduct",
-          "aiTechnology",
-          "productManagement",
-          "operationsGrowth"
-        ],
-        "section": "ai",
-        "body": {
-          "background": "消费电子行业受益AI明显 2026年以来，消费电子市场呈现结构分化的特征，AI智能手机、可穿戴设备等新兴终端的创新浪潮持续涌动，AIGC（人工智能生成内容）与大模型在终端侧的渗透不断深化，产业链正经历深层变革与价值重塑。截至记者发稿，15家申万二级消费电子类上市公司已公布半年报。公司表示，业绩增长主要受益于AI算力需求持续爆发，云计算业务板块营收同比增长75.7%，AI相关业务贡献持续扩大成为公司业绩增长的核心引擎。",
-          "keyProgress": "国家统计局数据显示，1至7月，规模以上可穿戴智能设备零售额增长超过1倍，AI导览、虚拟试衣间等一批沉浸式、互动式的消费场景加快落地，不断激发新的消费潜力。业内人士认为，从公司财报到行业数据，智能消费已从“概念导入”走向“业绩兑现”，成为扩内需重要的增量方向之一。从整体表现看，行业景气度回升态势明显：10家营收同比增长，11家归母净利润同比增长，7家扣非净利润同比增长，其中福日电子增幅最高，达755.90%。透视具体企业表现，产业链各环节又呈现差异化增长逻辑。",
-          "whyItMatters": "“AI点亮半年报 智能消费持续扩容”能帮助你判断这项能力是否已经进入工程、产品或商业场景，并据此调整技术选型、产品规划、学习重点或职业判断。",
-          "userRelevance": "如果你从事技术研发、教育研究、AI 产品、AI 技术，可以重点判断“AI点亮半年报 智能消费持续扩容”是否已经具备产品落地、技术选型或业务合作价值。",
-          "whatToWatch": "接下来要看“AI点亮半年报 智能消费持续扩容”是否有更多可靠来源、量产或应用进展，以及它会不会从单点消息发展成持续趋势。"
-        },
-        "sourceLinks": [
-          {
-            "title": "新华网科技",
-            "url": "https://www.news.cn/tech/20260824/62a999287cee42d5a27bed5d7674357b/c.html",
-            "sourceId": "xinhua-tech",
-            "publishedAt": "2026-08-24T00:00:00+08:00",
-            "language": "zh",
-            "originalLanguage": "zh",
-            "translationStatus": "not-needed",
-            "fetchedAt": "2026-08-24T23:33:50.928Z",
-            "sourceMethod": "web",
-            "verificationStatus": "confirmed"
-          }
-        ],
-        "images": [],
-        "generatedAt": "2026-08-24T23:33:46.966Z"
-      },
-      {
-        "id": "draft-real-cnbc-world-rss-1q5m9pw",
-        "title": "小鹏股价下跌，因为交付预测疲软使63亿美元的机器人单位估值蒙上阴影",
-        "oneLine": "政策变化：在本文中，中国电动汽车制造商小鹏汽车(Xpeng)周二在香港股价下跌逾9% ，此前该公司发布了第三季度交付量低于预期的预测，尽管其机器人业务部门在一轮融资中获得了超过63亿美元的估值$。",
-        "importance": "B",
-        "credibility": "待确认",
-        "tags": [
-          "B",
-          "industry",
-          "world",
-          "policy",
-          "finance"
-        ],
-        "industries": [
-          "generalPublic",
-          "financeInvestment",
-          "operationsGrowth",
-          "ecommerceRetail"
-        ],
-        "section": "industry",
-        "body": {
-          "background": "在公司财务业绩公布后，该公司略微下调了小鹏在美国和香港上市股票的目标价。该银行将机器人融资描述为对小鹏的长期积极作用，称这家电动汽车制造商可以将其在算法、人工智能模型和芯片方面的现有优势应用于人形机器人。小鹏在美国上市的股票周一收盘下跌8.5%。",
-          "keyProgress": "该公司报告第二季度净亏损13.4亿元（ 2亿元） ，比去年同期大幅亏损，而收入增长8 ％至197.4亿元。花旗表示，交付指引未达到投资者的预期，主要是由于供应链限制扰乱了小鹏MONA L03车型的增长。小鹏首席执行官何晓鹏去年11月表示，未来10年，该公司的机器人销量将超过汽车销量。这家总部位于广州的初创公司当时透露了其第二代人形机器人，并建立了飞行器业务部门。",
-          "whyItMatters": "“小鹏股价下跌，因为交付预测疲软使63亿美元的机器人单位估值蒙上阴影”如果继续发展，可能通过能源价格、航运、贸易、汇率或市场预期传导到国内。了解它的意义在于判断后续风险，而不只停留在事件本身。",
-          "userRelevance": "即使你不在事发地区，“小鹏股价下跌，因为交付预测疲软使63亿美元的机器人单位估值蒙上阴影”也可能通过能源价格、国际航运、贸易成本和市场预期间接影响国内生活与工作判断。",
-          "whatToWatch": "接下来要看“小鹏股价下跌，因为交付预测疲软使63亿美元的机器人单位估值蒙上阴影”是否出现更细的城市、行业、平台或企业数据，以及这一变化能否连续保持。"
-        },
-        "sourceLinks": [
-          {
-            "title": "CNBC World News RSS",
-            "url": "https://www.cnbc.com/2026/08/25/xpeng-shares-robot-valuation-china.html",
-            "sourceId": "cnbc-world-rss",
-            "publishedAt": "2026-08-25T04:08:37.000Z",
-            "language": "zh",
-            "originalLanguage": "en",
-            "translationStatus": "translated",
-            "fetchedAt": "2026-08-25T04:48:58.446Z",
-            "sourceMethod": "rss",
-            "verificationStatus": "pending"
-          }
-        ],
-        "images": [],
-        "generatedAt": "2026-08-25T04:48:52.213Z"
-      },
-      {
-        "id": "draft-real-cnbc-world-rss-b8qu1n",
-        "title": "保时捷与印度最大的IT服务公司塔塔咨询公司达成15亿美元的人工智能部署协议",
-        "oneLine": "政策变化：保时捷已与印度最大的IT服务公司塔塔咨询服务公司签署了一份为期五年的人工智能合同，价值12.5亿欧元（ 14.6亿美元）。",
-        "importance": "B",
-        "credibility": "待确认",
-        "tags": [
-          "B",
-          "industry",
-          "world",
-          "policy",
-          "finance"
-        ],
-        "industries": [
-          "generalPublic",
-          "financeInvestment",
-          "operationsGrowth",
-          "ecommerceRetail"
-        ],
-        "section": "industry",
-        "body": {
-          "background": "该公司在一份新闻稿中表示，作为交易的一部分， TCS将以3.2亿欧元收购保时捷的IT咨询业务MHP。保时捷董事长迈克尔·莱特斯（ Michael Leiters ）在新闻稿中表示，这将把保时捷的“汽车专业知识与TCS的数字和人工智能能力相结合”。此次合作将提升这家欧洲跑车制造商的创新能力、效率和竞争力， ”在日益数据和软件驱动的出行世界中。",
-          "keyProgress": "“自今年年初以来， TCS已经获得了多笔人工智能主导的业务转型交易，并表示其6月季度的年化人工智能收入为26亿美元，比上一季度增长13.6%。Nifty IT指数是IT服务公司股票的基准，比年初下跌近20% ，而Nifty 50指数下跌略高于7%。TCS首席执行官兼董事总经理K. Krithivasan表示，通过此次收购， TCS旨在“为保时捷大规模实现人工智能的产业化”。它还将加强印度软件服务公司在德国市场以及欧洲汽车和工业客户中的影响力。",
-          "whyItMatters": "“保时捷与印度最大的IT服务公司塔塔咨询公司达成15亿美元的人工智能部署协议”如果继续发展，可能通过能源价格、航运、贸易、汇率或市场预期传导到国内。了解它的意义在于判断后续风险，而不只停留在事件本身。",
-          "userRelevance": "即使你不在印度、德国，“保时捷与印度最大的IT服务公司塔塔咨询公司达成15亿美元的人工智能部署协议”也可能通过能源价格、国际航运、贸易成本和市场预期间接影响国内生活与工作判断。",
-          "whatToWatch": "接下来要看“保时捷与印度最大的IT服务公司塔塔咨询公司达成15亿美元的人工智能部署协议”是否出现更细的城市、行业、平台或企业数据，以及这一变化能否连续保持。"
-        },
-        "sourceLinks": [
-          {
-            "title": "CNBC World News RSS",
-            "url": "https://www.cnbc.com/2026/08/25/porsche-inks-billion-ai-deal-india-it-tcs.html",
-            "sourceId": "cnbc-world-rss",
-            "publishedAt": "2026-08-25T03:01:16.000Z",
-            "language": "zh",
-            "originalLanguage": "en",
-            "translationStatus": "translated",
-            "fetchedAt": "2026-08-25T04:48:58.446Z",
-            "sourceMethod": "rss",
-            "verificationStatus": "pending"
-          }
-        ],
-        "images": [
-          {
-            "url": "https://image.cnbcfm.com/api/v1/image/108353107-17875456911787545688-47950421648-1080pnbcnews.jpg?v=1787545690&amp;w=750&amp;h=422&amp;vtcrop=y",
-            "sourceUrl": "https://www.cnbc.com/2026/08/25/porsche-inks-billion-ai-deal-india-it-tcs.html"
-          }
-        ],
-        "generatedAt": "2026-08-25T04:48:52.213Z"
-      },
-      {
-        "id": "draft-real-cnbc-world-rss-bu3mcy",
-        "title": "由于美元疲软，金价触及三个月高位，美国国债回购计划",
-        "oneLine": "政策变化：在本文中，由于美元走弱以及美国财政部的债券回购计划限制了收益率，周二黄金价格升至三个多月来的最高水平。",
-        "importance": "B",
-        "credibility": "待确认",
-        "tags": [
-          "B",
-          "industry",
-          "world",
-          "policy",
-          "finance"
-        ],
-        "industries": [
-          "generalPublic",
-          "financeInvestment",
-          "operationsGrowth",
-          "ecommerceRetail"
-        ],
-        "section": "industry",
-        "body": {
-          "background": "现货黄金上涨0.6%至每盎司4,677.19 $ ，为5月中旬以来的最高水平，大华银行预测黄金有望实现“自1999年9月以来最强劲的月度涨幅”。“本月到目前为止，黄金已经上涨了15%以上。黄金期货上涨0.5%至4,720.3 ，也是三个多月的高点。",
-          "keyProgress": "本月迄今为止，美元指数下跌了0.8% ，虽然8月份大部分时间国债收益率有所上升，但政府计划回购债券，设法控制住了这些收益率--本月下跌了3个基点。花旗在一份报告中表示，虽然鹰派的华尔士演讲可能会使正在进行的黄金反弹停止，但杰克逊霍尔的鸽派意外将对黄金极为看涨， “因为市场不仅会继续对美联储加息进行定价，而且还会重新关注贬值贸易，因为人们对美联储独立性和美国债务可持续性问题再次感到担忧。黄金的强势也蔓延至白银，其现货价格上涨0.4%至每盎司69.19 $。美元走软使得美元定价的黄金对外币持有者具有吸引力，而较低的国债收益率降低了购买黄金的机会成本。",
-          "whyItMatters": "“由于美元疲软，金价触及三个月高位，美国国债回购计划”如果继续发展，可能通过能源价格、航运、贸易、汇率或市场预期传导到国内。了解它的意义在于判断后续风险，而不只停留在事件本身。",
-          "userRelevance": "即使你不在美国，“由于美元疲软，金价触及三个月高位，美国国债回购计划”也可能通过能源价格、国际航运、贸易成本和市场预期间接影响国内生活与工作判断。",
-          "whatToWatch": "接下来要看“由于美元疲软，金价触及三个月高位，美国国债回购计划”是否出现更细的城市、行业、平台或企业数据，以及这一变化能否连续保持。"
-        },
-        "sourceLinks": [
-          {
-            "title": "CNBC World News RSS",
-            "url": "https://www.cnbc.com/2026/08/25/gold-hits-over-three-month-high-on-dollar-weakness-treasury-bond-buyback-plans.html",
-            "sourceId": "cnbc-world-rss",
-            "publishedAt": "2026-08-25T02:28:00.000Z",
-            "language": "zh",
-            "originalLanguage": "en",
-            "translationStatus": "translated",
-            "fetchedAt": "2026-08-25T04:48:58.446Z",
-            "sourceMethod": "rss",
-            "verificationStatus": "pending"
-          }
-        ],
-        "images": [],
-        "generatedAt": "2026-08-25T04:48:52.213Z"
-      },
-      {
-        "id": "draft-real-cnbc-world-rss-4ir3hn",
-        "title": "一场大规模的黄金交易刚刚发生。期权市场热闹非凡",
-        "oneLine": "最新进展：一场大规模的黄金交易刚刚发生。期权市场热闹非凡。",
-        "importance": "B",
-        "credibility": "待确认",
-        "tags": [
-          "B",
-          "industry",
-          "world",
-          "policy",
-          "finance"
-        ],
-        "industries": [
-          "generalPublic",
-          "financeInvestment",
-          "operationsGrowth",
-          "ecommerceRetail"
-        ],
-        "section": "industry",
-        "body": {
-          "background": "在包括重大宏观经济事件在内的一周之前，看跌交易尤其引人注目，其中包括周三发布的个人消费支出通胀数据以及周四在怀俄明州开幕的杰克逊霍尔经济研讨会。今天整个期权市场最大的交易表明，这一行情即将结束。周一开盘后 20 分钟，有人卖出了近 116,000 手 9 月 18 日到期的 SPDR 黄金股 ETF (GLD) 的 420 次行使看涨期权，这些合约目前处于价内状态，总溢价达 2.02 亿美元。",
-          "keyProgress": "然后，交易员用其中的一部分资金以 1.44 亿美元的价格购买了相同数量和到期的 430 次执行看涨期权，从而创造了 5800 万美元的净信用。虽然卖出价差通常可以被视为中性交易，但交易者卖出价内看涨期权的事实将其到期时的盈亏平衡点推至 425 美元，即交易双方的中点。鉴于 GLD 目前的交易价格为 427 美元，这使得该交易成为实际上的看跌押注，需要贵金属在未来 4 周内小幅回落。Arora Report创始人Nigam Arora表示：“黄金出现短期回调的可能性非常大。",
-          "whyItMatters": "“一场大规模的黄金交易刚刚发生。期权市场热闹非凡”如果继续发展，可能通过能源价格、航运、贸易、汇率或市场预期传导到国内。了解它的意义在于判断后续风险，而不只停留在事件本身。",
-          "userRelevance": "即使你不在事发地区，“一场大规模的黄金交易刚刚发生。期权市场热闹非凡”也可能通过能源价格、国际航运、贸易成本和市场预期间接影响国内生活与工作判断。",
-          "whatToWatch": "接下来要看“一场大规模的黄金交易刚刚发生。期权市场热闹非凡”是否出现更细的城市、行业、平台或企业数据，以及这一变化能否连续保持。"
-        },
-        "sourceLinks": [
-          {
-            "title": "CNBC World News RSS",
-            "url": "https://www.cnbc.com/2026/08/24/a-massive-trade-just-happened-in-gold-the-options-market-is-buzzing.html",
-            "sourceId": "cnbc-world-rss",
-            "publishedAt": "2026-08-24T18:41:44.000Z",
-            "language": "zh",
-            "originalLanguage": "en",
-            "translationStatus": "translated",
-            "fetchedAt": "2026-08-24T23:33:51.548Z",
-            "sourceMethod": "rss",
-            "verificationStatus": "pending"
-          }
-        ],
-        "images": [
-          {
-            "url": "https://image.cnbcfm.com/api/v1/image/108353346-17875834581787583455-47958674364-1080pnbcnews.jpg?v=1787583457&amp;w=750&amp;h=422&amp;vtcrop=y",
-            "sourceUrl": "https://www.cnbc.com/2026/08/24/a-massive-trade-just-happened-in-gold-the-options-market-is-buzzing.html"
-          }
-        ],
-        "generatedAt": "2026-08-24T23:33:46.966Z"
-      },
-      {
-        "id": "draft-real-cnbc-world-rss-1qxem59",
-        "title": "UPS 将投资 20 亿美元用于国际、医疗保健和供应链业务",
-        "oneLine": "政策变化：联合包裹服务公司周一独家向 CNBC 透露，在本文中，联合包裹服务公司将对其国际、医疗保健和供应链解决方案业务投资超过 20 亿美元。",
-        "importance": "B",
-        "credibility": "待确认",
-        "tags": [
-          "B",
-          "industry",
-          "world",
-          "policy",
-          "finance"
-        ],
-        "industries": [
-          "generalPublic",
-          "financeInvestment",
-          "operationsGrowth",
-          "ecommerceRetail"
-        ],
-        "section": "industry",
-        "body": {
-          "background": "正在进行的投资于 2024 年开始，并将持续到 2028 年，但 UPS 表示，此前并未披露投资总额。”投资的部分项目包括今年在菲律宾的一个新枢纽、明年在安大略省开设的一个新的加拿大设施以及 2028 年在香港国际机场的一个新航空枢纽。” UPS 最近还宣布投资 4800 万美元对其网络中的 27 个温控设施进行补充，以补充其医疗保健计划，包括运输 GLP-1 药物等温度敏感药物。",
-          "keyProgress": "UPS 已在台湾建立了一个技术支持的物流中心，并在阿姆斯特丹建立了一个集货运、经纪和冷链解决方案于一体的供应链解决方案设施。该物流公司还表示，现在每周有五班往返于巴黎和香港以及中国深圳和悉尼之间的航班，以满足不断增长的需求。斯瓦斯特表示，随着全球供应链变得更加复杂，某些全球市场，比如亚洲市场，对企业来说变得比以前更加重要。这一消息发布之际，全球各地的物流公司都在竞相领先于冷链仓储等利基领域日益增长的需求。",
-          "whyItMatters": "“UPS 将投资 20 亿美元用于国际、医疗保健和供应链业务”如果继续发展，可能通过能源价格、航运、贸易、汇率或市场预期传导到国内。了解它的意义在于判断后续风险，而不只停留在事件本身。",
-          "userRelevance": "即使你不在事发地区，“UPS 将投资 20 亿美元用于国际、医疗保健和供应链业务”也可能通过能源价格、国际航运、贸易成本和市场预期间接影响国内生活与工作判断。",
-          "whatToWatch": "接下来要看“UPS 将投资 20 亿美元用于国际、医疗保健和供应链业务”是否出现更细的城市、行业、平台或企业数据，以及这一变化能否连续保持。"
-        },
-        "sourceLinks": [
-          {
-            "title": "CNBC World News RSS",
-            "url": "https://www.cnbc.com/2026/08/24/ups-global-logistics-investment.html",
-            "sourceId": "cnbc-world-rss",
-            "publishedAt": "2026-08-24T11:00:01.000Z",
-            "language": "zh",
-            "originalLanguage": "en",
-            "translationStatus": "translated",
-            "fetchedAt": "2026-08-24T23:33:51.548Z",
-            "sourceMethod": "rss",
-            "verificationStatus": "pending"
-          }
-        ],
-        "images": [],
-        "generatedAt": "2026-08-24T23:33:46.966Z"
-      },
-      {
-        "id": "draft-cluster-real-cnbc-world-rss-o5vmno",
-        "title": "Shein 的目标是在香港 IPO 融资 270 亿美元——这只是其 2022 年估值的一小部分",
-        "oneLine": "政策变化：根据周一提交的文件，Shein 计划在首次公开募股中筹集至多 138.6 亿港元（合 17.7 亿美元）。",
-        "importance": "B",
-        "credibility": "待确认",
-        "tags": [
-          "B",
-          "industry",
-          "world",
-          "policy",
-          "finance"
-        ],
-        "industries": [
-          "generalPublic",
-          "financeInvestment",
-          "operationsGrowth",
-          "ecommerceRetail"
-        ],
-        "section": "industry",
-        "body": {
-          "background": "最终价格将由该公司于 8 月 31 日公布，股票预计将于 9 月 1 日开始交易。GROW Investment Group 首席投资官 William Ma 此前对 CNBC 表示：“公司已经错过了上市的黄金时机。这家快时尚零售商正在出售约 2.8 亿股 B 类股票，每股价格在 47.60 港元至 49.50 港元之间，估值接近 270 亿美元（按该区间上限）。",
-          "keyProgress": "据路透社报道，该公司在 2023 年和 2024 年 4 月的估值为 640 亿美元，较之前几轮私募融资（2022 年估值为 982 亿美元）相比，其估值大幅下降。由于快速增长放缓和盈利压力，公司估值有所下降。收入增长从一年前的 20.7% 降至 2025 年的 8%，而失去美国进口关税豁免和一次性会计费用使其在 2026 年初亏损 9900 万美元。然而，中国市场研究集团董事总经理 Shaun Rein 上个月告诉 CNBC，投资者和消费者不再像以前那样对这家超快时尚零售商感到兴奋。",
-          "whyItMatters": "“Shein 的目标是在香港 IPO 融资 270 亿美元——这只是其 2022 年估值的一小部分”如果继续发展，可能通过能源价格、航运、贸易、汇率或市场预期传导到国内。了解它的意义在于判断后续风险，而不只停留在事件本身。",
-          "userRelevance": "即使你不在香港，“Shein 的目标是在香港 IPO 融资 270 亿美元——这只是其 2022 年估值的一小部分”也可能通过能源价格、国际航运、贸易成本和市场预期间接影响国内生活与工作判断。",
-          "whatToWatch": "接下来要看“Shein 的目标是在香港 IPO 融资 270 亿美元——这只是其 2022 年估值的一小部分”是否出现更细的城市、行业、平台或企业数据，以及这一变化能否连续保持。"
-        },
-        "sourceLinks": [
-          {
-            "title": "CNBC World News RSS",
-            "url": "https://www.cnbc.com/2026/08/24/shein-ipo-valuation-hong-kong.html",
-            "sourceId": "cnbc-world-rss",
-            "publishedAt": "2026-08-24T07:34:17.000Z",
-            "language": "zh",
-            "originalLanguage": "en",
-            "translationStatus": "translated",
-            "fetchedAt": "2026-08-24T23:33:51.548Z",
-            "sourceMethod": "rss",
-            "verificationStatus": "pending"
-          },
-          {
-            "title": "Sky News World RSS",
-            "url": "https://news.sky.com/story/shein-targets-valuation-of-just-27bn-in-stock-market-flotation-13576490",
-            "sourceId": "sky-world-rss",
-            "publishedAt": "2026-08-24T04:47:00.000Z",
-            "language": "zh",
-            "originalLanguage": "en",
-            "translationStatus": "translated",
-            "fetchedAt": "2026-08-24T23:33:51.159Z",
-            "sourceMethod": "rss",
-            "verificationStatus": "pending"
-          }
-        ],
-        "images": [
-          {
-            "url": "https://e3.365dm.com/24/06/1920x1080/skynews-shein-chinese-company_6572211.jpg?20240603135518",
-            "sourceUrl": "https://news.sky.com/story/shein-targets-valuation-of-just-27bn-in-stock-market-flotation-13576490"
-          }
-        ],
-        "generatedAt": "2026-08-24T23:33:46.966Z"
       }
     ],
-    "estimatedReadMinutes": 32,
+    "estimatedReadMinutes": 38,
     "pageCount": 3,
     "topCardId": "draft-real-cnbc-world-rss-1901d8n",
-    "generatedAt": "2026-08-25T13:32:06.449Z",
+    "generatedAt": "2026-08-25T13:57:55.259Z",
     "pushSlots": [
       "08:30",
       "12:30",
@@ -1015,7 +1193,20 @@
     "basedOnGeneratedAt": "2026-08-25T04:48:52.213Z",
     "editionCardIds": [
       "draft-real-npr-world-rss-ysyd80",
-      "draft-real-cnbc-world-rss-1901d8n"
+      "draft-real-cnbc-world-rss-1901d8n",
+      "draft-real-npr-world-rss-6hc3mv",
+      "draft-real-cnbc-world-rss-1gacfdd",
+      "draft-real-cnbc-world-rss-qkgy3c",
+      "draft-real-npr-world-rss-52hsqr",
+      "draft-real-un-news-rss-zmem2h",
+      "draft-real-techcrunch-ai-rss-ii0ep1",
+      "draft-real-techcrunch-ai-rss-1ya92bl",
+      "draft-real-cnbc-world-rss-qzkf6x",
+      "draft-real-cnbc-world-rss-8y6ia9",
+      "draft-real-cnbc-world-rss-1rt3y64",
+      "draft-real-cnbc-world-rss-18z2x3b",
+      "draft-real-cnbc-world-rss-1e8ihit",
+      "draft-real-cnbc-world-rss-1rl29mn"
     ],
     "carriedCardIds": [
       "draft-real-npr-world-rss-hlulk7",
@@ -1026,16 +1217,7 @@
       "draft-real-mem-cn-1atu5tw",
       "draft-real-cnbc-world-rss-13q296f",
       "draft-real-un-news-rss-mjbtg8",
-      "draft-real-un-news-rss-k853u9",
-      "draft-real-gov-uk-news-1d6wxzn",
-      "draft-real-xinhua-tech-13a3t8e",
-      "draft-real-xinhua-tech-j9crr6",
-      "draft-real-cnbc-world-rss-1q5m9pw",
-      "draft-real-cnbc-world-rss-b8qu1n",
-      "draft-real-cnbc-world-rss-bu3mcy",
-      "draft-real-cnbc-world-rss-4ir3hn",
-      "draft-real-cnbc-world-rss-1qxem59",
-      "draft-cluster-real-cnbc-world-rss-o5vmno"
+      "draft-real-un-news-rss-k853u9"
     ]
   }
 }

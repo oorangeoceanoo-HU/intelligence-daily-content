@@ -1,11 +1,127 @@
 {
   "schemaVersion": 2,
-  "publishedAt": "2026-08-25T04:48:52.213Z",
+  "publishedAt": "2026-08-25T13:32:06.449Z",
   "issue": {
     "id": "daily-public-2026-08-25",
     "date": "2026-08-25",
     "userId": "public",
     "cards": [
+      {
+        "id": "draft-real-cnbc-world-rss-1901d8n",
+        "title": "中国需要美元，但正在建立对冲华盛顿制裁的对冲",
+        "oneLine": "最新进展：中国需要美元，但正在建立对冲华盛顿制裁的对冲。",
+        "importance": "S",
+        "credibility": "待确认",
+        "tags": [
+          "S",
+          "mustKnow",
+          "industry",
+          "world",
+          "policy",
+          "finance"
+        ],
+        "industries": [
+          "generalPublic",
+          "financeInvestment",
+          "operationsGrowth",
+          "ecommerceRetail"
+        ],
+        "section": "front",
+        "body": {
+          "background": "北京--美国威胁要削减帮助伊朗逃避美国金融体系制裁的企业。美国财政部长斯科特·贝森特（ Scott Bessent ）周一宣布，任何帮助“代表伊朗洗钱或逃避制裁”的实体都有可能被切断与美国的联系。”这是美国总统唐纳德特朗普宣布的针对伊朗的“经济D日”的一部分。",
+          "keyProgress": "“中国多次明确表示坚决反对没有国际法依据或联合国安理会授权的非法单方面制裁，”中国外交部发言人周二在回答问题时表示。当被问及有关中国银行的具体情况时，贝森特说：“如果他们为交易提供便利，并且是将伊朗石油转化为金钱和压制的生态系统的一部分，他们将成为目标。中国周二表示将“采取一切必要措施”来保护自己。根据美中经济与安全审查委员会(U.S.-China Economic and Security Review Commission) 3月份的分析师，战前，中国购买了伊朗约90%的出口石油，约占中国原油进口总量的12% ，使其成为伊朗最大的贸易伙伴。",
+          "whyItMatters": "“中国需要美元，但正在建立对冲华盛顿制裁的对冲”如果继续发展，可能通过能源价格、航运、贸易、汇率或市场预期传导到国内。了解它的意义在于判断后续风险，而不只停留在事件本身。",
+          "userRelevance": "即使你不在中国、美国、伊朗，“中国需要美元，但正在建立对冲华盛顿制裁的对冲”也可能通过能源价格、国际航运、贸易成本和市场预期间接影响国内生活与工作判断。",
+          "whatToWatch": "接下来要看“中国需要美元，但正在建立对冲华盛顿制裁的对冲”是否出现更细的城市、行业、平台或企业数据，以及这一变化能否连续保持。"
+        },
+        "sourceLinks": [
+          {
+            "title": "CNBC World News RSS",
+            "url": "https://www.cnbc.com/2026/08/25/china-iran-us-sanctions-banks-cips.html",
+            "sourceId": "cnbc-world-rss",
+            "publishedAt": "2026-08-25T12:42:15.000Z",
+            "language": "zh",
+            "originalLanguage": "en",
+            "translationStatus": "translated",
+            "fetchedAt": "2026-08-25T13:32:12.071Z",
+            "sourceMethod": "rss",
+            "verificationStatus": "pending"
+          }
+        ],
+        "images": [
+          {
+            "url": "https://image.cnbcfm.com/api/v1/image/108353776-17876556101787655607-47974928038-1080pnbcnews.jpg?v=1787655609&amp;w=750&amp;h=422&amp;vtcrop=y",
+            "sourceUrl": "https://www.cnbc.com/2026/08/25/china-iran-us-sanctions-banks-cips.html"
+          },
+          {
+            "url": "https://image.cnbcfm.com/api/v1/image/108353675-1787634109634-1787626805-47968781364-hd.jpg?v=1787634115&amp;w=750&amp;h=422&amp;vtcrop=y",
+            "sourceUrl": "https://www.cnbc.com/2026/08/25/china-iran-us-sanctions-banks-cips.html"
+          }
+        ],
+        "generatedAt": "2026-08-25T13:32:06.449Z"
+      },
+      {
+        "id": "draft-real-npr-world-rss-ysyd80",
+        "title": "特朗普对伊朗的经济战争能做空袭和谈判做不到的事情吗？",
+        "oneLine": "政策变化：今年2月，当美国和以色列对伊朗发动战争时，特朗普总统发誓要迅速取得胜利。",
+        "importance": "S",
+        "credibility": "主流媒体",
+        "tags": [
+          "S",
+          "mustKnow",
+          "industry",
+          "world",
+          "policy",
+          "finance"
+        ],
+        "industries": [
+          "generalPublic",
+          "financeInvestment",
+          "operationsGrowth",
+          "ecommerceRetail"
+        ],
+        "section": "front",
+        "body": {
+          "background": "正是在这种背景下，美国 财政部长斯科特·贝森特（ Scott Bessent ）周一公布了一项针对伊朗的新制裁运动，该运动旨在“切断支撑这个专制政权的每一条经济命脉，直到德黑兰独自站立。“过去的政府，包括特朗普的第一届政府，都试图通过各种制裁运动向伊朗施加经济压力。现在，近六个月后，在原本打算结束战争的60天停火期限失败之后，美国却发现自己陷入了一场旷日持久的冲突。",
+          "keyProgress": "总部位于伦敦的Bourse & Bazaar Foundation首席执行官Esfandyar Batmanghelidj表示： “我们多年来看到的一件事是，最大的压力往往会产生伊朗方面的最大阻力。与伊朗的战争打击了全球经济，激怒了海湾盟友，耗尽了美国的军火库。它还削弱了特朗普总统追求其主要战争目标的影响力，该目标已从遏制伊朗的核野心转向政权更迭，现在旨在将霍尔木兹海峡从伊朗的控制下撬开。“贝森特警告那些继续与伊朗做生意的国家，说他们应该”期望分享一个正在萎缩的政权的孤立。",
+          "whyItMatters": "“特朗普对伊朗的经济战争能做空袭和谈判做不到的事情吗”如果继续发展，可能通过能源价格、航运、贸易、汇率或市场预期传导到国内。了解它的意义在于判断后续风险，而不只停留在事件本身。",
+          "userRelevance": "即使你不在美国、伊朗，“特朗普对伊朗的经济战争能做空袭和谈判做不到的事情吗”也可能通过能源价格、国际航运、贸易成本和市场预期间接影响国内生活与工作判断。",
+          "whatToWatch": "接下来要看“特朗普对伊朗的经济战争能做空袭和谈判做不到的事情吗”是否出现更细的城市、行业、平台或企业数据，以及这一变化能否连续保持。"
+        },
+        "sourceLinks": [
+          {
+            "title": "NPR World RSS",
+            "url": "https://www.npr.org/2026/08/25/nx-s1-5943572/trump-iran-sanctions",
+            "sourceId": "npr-world-rss",
+            "publishedAt": "2026-08-25T09:07:09.000Z",
+            "language": "zh",
+            "originalLanguage": "en",
+            "translationStatus": "translated",
+            "fetchedAt": "2026-08-25T13:32:11.682Z",
+            "sourceMethod": "rss",
+            "verificationStatus": "confirmed"
+          }
+        ],
+        "images": [
+          {
+            "url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8516x5678+0+0/resize/1100/quality/50/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F6a%2F47%2Fdba05d284318a540221bd45f9cfb%2Fap26122373189543.jpg",
+            "sourceUrl": "https://www.npr.org/2026/08/25/nx-s1-5943572/trump-iran-sanctions"
+          },
+          {
+            "url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3000x3000+0+0/resize/100/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fd0%2F3f%2F08a5041c4ceca4e96a62754dddd5%2Ff2342d2e-3f73-4259-9556-6c36eb4fc900.jpg",
+            "sourceUrl": "https://www.npr.org/2026/08/25/nx-s1-5943572/trump-iran-sanctions"
+          },
+          {
+            "url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2534x2534+628+0/resize/100/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F68%2F1c%2F23da8dcd4c6d9d50ba932deba0e5%2Fap26236622592645.jpg",
+            "sourceUrl": "https://www.npr.org/2026/08/25/nx-s1-5943572/trump-iran-sanctions"
+          },
+          {
+            "url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4650x3100+0+0/resize/1100/quality/50/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F19%2F3e%2Fdbd1265343d69c3f053d6cdbde98%2Fap26236674162695.jpg",
+            "sourceUrl": "https://www.npr.org/2026/08/25/nx-s1-5943572/trump-iran-sanctions"
+          }
+        ],
+        "generatedAt": "2026-08-25T13:32:06.449Z"
+      },
       {
         "id": "draft-real-npr-world-rss-hlulk7",
         "title": "六个月后，撤离巴林的美国海军家庭仍处于困境",
@@ -317,143 +433,6 @@
         "generatedAt": "2026-08-24T23:33:46.966Z"
       },
       {
-        "id": "draft-real-cnbc-world-rss-1q5m9pw",
-        "title": "小鹏股价下跌，因为交付预测疲软使63亿美元的机器人单位估值蒙上阴影",
-        "oneLine": "政策变化：在本文中，中国电动汽车制造商小鹏汽车(Xpeng)周二在香港股价下跌逾9% ，此前该公司发布了第三季度交付量低于预期的预测，尽管其机器人业务部门在一轮融资中获得了超过63亿美元的估值$。",
-        "importance": "B",
-        "credibility": "待确认",
-        "tags": [
-          "B",
-          "industry",
-          "world",
-          "policy",
-          "finance"
-        ],
-        "industries": [
-          "generalPublic",
-          "financeInvestment",
-          "operationsGrowth",
-          "ecommerceRetail"
-        ],
-        "section": "industry",
-        "body": {
-          "background": "在公司财务业绩公布后，该公司略微下调了小鹏在美国和香港上市股票的目标价。该银行将机器人融资描述为对小鹏的长期积极作用，称这家电动汽车制造商可以将其在算法、人工智能模型和芯片方面的现有优势应用于人形机器人。小鹏在美国上市的股票周一收盘下跌8.5%。",
-          "keyProgress": "该公司报告第二季度净亏损13.4亿元（ 2亿元） ，比去年同期大幅亏损，而收入增长8 ％至197.4亿元。花旗表示，交付指引未达到投资者的预期，主要是由于供应链限制扰乱了小鹏MONA L03车型的增长。小鹏首席执行官何晓鹏去年11月表示，未来10年，该公司的机器人销量将超过汽车销量。这家总部位于广州的初创公司当时透露了其第二代人形机器人，并建立了飞行器业务部门。",
-          "whyItMatters": "“小鹏股价下跌，因为交付预测疲软使63亿美元的机器人单位估值蒙上阴影”如果继续发展，可能通过能源价格、航运、贸易、汇率或市场预期传导到国内。了解它的意义在于判断后续风险，而不只停留在事件本身。",
-          "userRelevance": "即使你不在事发地区，“小鹏股价下跌，因为交付预测疲软使63亿美元的机器人单位估值蒙上阴影”也可能通过能源价格、国际航运、贸易成本和市场预期间接影响国内生活与工作判断。",
-          "whatToWatch": "接下来要看“小鹏股价下跌，因为交付预测疲软使63亿美元的机器人单位估值蒙上阴影”是否出现更细的城市、行业、平台或企业数据，以及这一变化能否连续保持。"
-        },
-        "sourceLinks": [
-          {
-            "title": "CNBC World News RSS",
-            "url": "https://www.cnbc.com/2026/08/25/xpeng-shares-robot-valuation-china.html",
-            "sourceId": "cnbc-world-rss",
-            "publishedAt": "2026-08-25T04:08:37.000Z",
-            "language": "zh",
-            "originalLanguage": "en",
-            "translationStatus": "translated",
-            "fetchedAt": "2026-08-25T04:48:58.446Z",
-            "sourceMethod": "rss",
-            "verificationStatus": "pending"
-          }
-        ],
-        "images": [],
-        "generatedAt": "2026-08-25T04:48:52.213Z"
-      },
-      {
-        "id": "draft-real-cnbc-world-rss-b8qu1n",
-        "title": "保时捷与印度最大的IT服务公司塔塔咨询公司达成15亿美元的人工智能部署协议",
-        "oneLine": "政策变化：保时捷已与印度最大的IT服务公司塔塔咨询服务公司签署了一份为期五年的人工智能合同，价值12.5亿欧元（ 14.6亿美元）。",
-        "importance": "B",
-        "credibility": "待确认",
-        "tags": [
-          "B",
-          "industry",
-          "world",
-          "policy",
-          "finance"
-        ],
-        "industries": [
-          "generalPublic",
-          "financeInvestment",
-          "operationsGrowth",
-          "ecommerceRetail"
-        ],
-        "section": "industry",
-        "body": {
-          "background": "该公司在一份新闻稿中表示，作为交易的一部分， TCS将以3.2亿欧元收购保时捷的IT咨询业务MHP。保时捷董事长迈克尔·莱特斯（ Michael Leiters ）在新闻稿中表示，这将把保时捷的“汽车专业知识与TCS的数字和人工智能能力相结合”。此次合作将提升这家欧洲跑车制造商的创新能力、效率和竞争力， ”在日益数据和软件驱动的出行世界中。",
-          "keyProgress": "“自今年年初以来， TCS已经获得了多笔人工智能主导的业务转型交易，并表示其6月季度的年化人工智能收入为26亿美元，比上一季度增长13.6%。Nifty IT指数是IT服务公司股票的基准，比年初下跌近20% ，而Nifty 50指数下跌略高于7%。TCS首席执行官兼董事总经理K. Krithivasan表示，通过此次收购， TCS旨在“为保时捷大规模实现人工智能的产业化”。它还将加强印度软件服务公司在德国市场以及欧洲汽车和工业客户中的影响力。",
-          "whyItMatters": "“保时捷与印度最大的IT服务公司塔塔咨询公司达成15亿美元的人工智能部署协议”如果继续发展，可能通过能源价格、航运、贸易、汇率或市场预期传导到国内。了解它的意义在于判断后续风险，而不只停留在事件本身。",
-          "userRelevance": "即使你不在印度、德国，“保时捷与印度最大的IT服务公司塔塔咨询公司达成15亿美元的人工智能部署协议”也可能通过能源价格、国际航运、贸易成本和市场预期间接影响国内生活与工作判断。",
-          "whatToWatch": "接下来要看“保时捷与印度最大的IT服务公司塔塔咨询公司达成15亿美元的人工智能部署协议”是否出现更细的城市、行业、平台或企业数据，以及这一变化能否连续保持。"
-        },
-        "sourceLinks": [
-          {
-            "title": "CNBC World News RSS",
-            "url": "https://www.cnbc.com/2026/08/25/porsche-inks-billion-ai-deal-india-it-tcs.html",
-            "sourceId": "cnbc-world-rss",
-            "publishedAt": "2026-08-25T03:01:16.000Z",
-            "language": "zh",
-            "originalLanguage": "en",
-            "translationStatus": "translated",
-            "fetchedAt": "2026-08-25T04:48:58.446Z",
-            "sourceMethod": "rss",
-            "verificationStatus": "pending"
-          }
-        ],
-        "images": [
-          {
-            "url": "https://image.cnbcfm.com/api/v1/image/108353107-17875456911787545688-47950421648-1080pnbcnews.jpg?v=1787545690&amp;w=750&amp;h=422&amp;vtcrop=y",
-            "sourceUrl": "https://www.cnbc.com/2026/08/25/porsche-inks-billion-ai-deal-india-it-tcs.html"
-          }
-        ],
-        "generatedAt": "2026-08-25T04:48:52.213Z"
-      },
-      {
-        "id": "draft-real-cnbc-world-rss-bu3mcy",
-        "title": "由于美元疲软，金价触及三个月高位，美国国债回购计划",
-        "oneLine": "政策变化：在本文中，由于美元走弱以及美国财政部的债券回购计划限制了收益率，周二黄金价格升至三个多月来的最高水平。",
-        "importance": "B",
-        "credibility": "待确认",
-        "tags": [
-          "B",
-          "industry",
-          "world",
-          "policy",
-          "finance"
-        ],
-        "industries": [
-          "generalPublic",
-          "financeInvestment",
-          "operationsGrowth",
-          "ecommerceRetail"
-        ],
-        "section": "industry",
-        "body": {
-          "background": "现货黄金上涨0.6%至每盎司4,677.19 $ ，为5月中旬以来的最高水平，大华银行预测黄金有望实现“自1999年9月以来最强劲的月度涨幅”。“本月到目前为止，黄金已经上涨了15%以上。黄金期货上涨0.5%至4,720.3 ，也是三个多月的高点。",
-          "keyProgress": "本月迄今为止，美元指数下跌了0.8% ，虽然8月份大部分时间国债收益率有所上升，但政府计划回购债券，设法控制住了这些收益率--本月下跌了3个基点。花旗在一份报告中表示，虽然鹰派的华尔士演讲可能会使正在进行的黄金反弹停止，但杰克逊霍尔的鸽派意外将对黄金极为看涨， “因为市场不仅会继续对美联储加息进行定价，而且还会重新关注贬值贸易，因为人们对美联储独立性和美国债务可持续性问题再次感到担忧。黄金的强势也蔓延至白银，其现货价格上涨0.4%至每盎司69.19 $。美元走软使得美元定价的黄金对外币持有者具有吸引力，而较低的国债收益率降低了购买黄金的机会成本。",
-          "whyItMatters": "“由于美元疲软，金价触及三个月高位，美国国债回购计划”如果继续发展，可能通过能源价格、航运、贸易、汇率或市场预期传导到国内。了解它的意义在于判断后续风险，而不只停留在事件本身。",
-          "userRelevance": "即使你不在美国，“由于美元疲软，金价触及三个月高位，美国国债回购计划”也可能通过能源价格、国际航运、贸易成本和市场预期间接影响国内生活与工作判断。",
-          "whatToWatch": "接下来要看“由于美元疲软，金价触及三个月高位，美国国债回购计划”是否出现更细的城市、行业、平台或企业数据，以及这一变化能否连续保持。"
-        },
-        "sourceLinks": [
-          {
-            "title": "CNBC World News RSS",
-            "url": "https://www.cnbc.com/2026/08/25/gold-hits-over-three-month-high-on-dollar-weakness-treasury-bond-buyback-plans.html",
-            "sourceId": "cnbc-world-rss",
-            "publishedAt": "2026-08-25T02:28:00.000Z",
-            "language": "zh",
-            "originalLanguage": "en",
-            "translationStatus": "translated",
-            "fetchedAt": "2026-08-25T04:48:58.446Z",
-            "sourceMethod": "rss",
-            "verificationStatus": "pending"
-          }
-        ],
-        "images": [],
-        "generatedAt": "2026-08-25T04:48:52.213Z"
-      },
-      {
         "id": "draft-real-cnbc-world-rss-13q296f",
         "title": "CNBC的The China Connection时事通讯：机器人需要帮助学习人类技能。这些人工智能公司正在争先恐后地满足需求",
         "oneLine": "最新进展：CNBC的The China Connection时事通讯：机器人需要帮助学习人类技能。这些人工智能公司正在争先恐后地满足需求。",
@@ -727,6 +706,143 @@
         "generatedAt": "2026-08-24T23:33:46.966Z"
       },
       {
+        "id": "draft-real-cnbc-world-rss-1q5m9pw",
+        "title": "小鹏股价下跌，因为交付预测疲软使63亿美元的机器人单位估值蒙上阴影",
+        "oneLine": "政策变化：在本文中，中国电动汽车制造商小鹏汽车(Xpeng)周二在香港股价下跌逾9% ，此前该公司发布了第三季度交付量低于预期的预测，尽管其机器人业务部门在一轮融资中获得了超过63亿美元的估值$。",
+        "importance": "B",
+        "credibility": "待确认",
+        "tags": [
+          "B",
+          "industry",
+          "world",
+          "policy",
+          "finance"
+        ],
+        "industries": [
+          "generalPublic",
+          "financeInvestment",
+          "operationsGrowth",
+          "ecommerceRetail"
+        ],
+        "section": "industry",
+        "body": {
+          "background": "在公司财务业绩公布后，该公司略微下调了小鹏在美国和香港上市股票的目标价。该银行将机器人融资描述为对小鹏的长期积极作用，称这家电动汽车制造商可以将其在算法、人工智能模型和芯片方面的现有优势应用于人形机器人。小鹏在美国上市的股票周一收盘下跌8.5%。",
+          "keyProgress": "该公司报告第二季度净亏损13.4亿元（ 2亿元） ，比去年同期大幅亏损，而收入增长8 ％至197.4亿元。花旗表示，交付指引未达到投资者的预期，主要是由于供应链限制扰乱了小鹏MONA L03车型的增长。小鹏首席执行官何晓鹏去年11月表示，未来10年，该公司的机器人销量将超过汽车销量。这家总部位于广州的初创公司当时透露了其第二代人形机器人，并建立了飞行器业务部门。",
+          "whyItMatters": "“小鹏股价下跌，因为交付预测疲软使63亿美元的机器人单位估值蒙上阴影”如果继续发展，可能通过能源价格、航运、贸易、汇率或市场预期传导到国内。了解它的意义在于判断后续风险，而不只停留在事件本身。",
+          "userRelevance": "即使你不在事发地区，“小鹏股价下跌，因为交付预测疲软使63亿美元的机器人单位估值蒙上阴影”也可能通过能源价格、国际航运、贸易成本和市场预期间接影响国内生活与工作判断。",
+          "whatToWatch": "接下来要看“小鹏股价下跌，因为交付预测疲软使63亿美元的机器人单位估值蒙上阴影”是否出现更细的城市、行业、平台或企业数据，以及这一变化能否连续保持。"
+        },
+        "sourceLinks": [
+          {
+            "title": "CNBC World News RSS",
+            "url": "https://www.cnbc.com/2026/08/25/xpeng-shares-robot-valuation-china.html",
+            "sourceId": "cnbc-world-rss",
+            "publishedAt": "2026-08-25T04:08:37.000Z",
+            "language": "zh",
+            "originalLanguage": "en",
+            "translationStatus": "translated",
+            "fetchedAt": "2026-08-25T04:48:58.446Z",
+            "sourceMethod": "rss",
+            "verificationStatus": "pending"
+          }
+        ],
+        "images": [],
+        "generatedAt": "2026-08-25T04:48:52.213Z"
+      },
+      {
+        "id": "draft-real-cnbc-world-rss-b8qu1n",
+        "title": "保时捷与印度最大的IT服务公司塔塔咨询公司达成15亿美元的人工智能部署协议",
+        "oneLine": "政策变化：保时捷已与印度最大的IT服务公司塔塔咨询服务公司签署了一份为期五年的人工智能合同，价值12.5亿欧元（ 14.6亿美元）。",
+        "importance": "B",
+        "credibility": "待确认",
+        "tags": [
+          "B",
+          "industry",
+          "world",
+          "policy",
+          "finance"
+        ],
+        "industries": [
+          "generalPublic",
+          "financeInvestment",
+          "operationsGrowth",
+          "ecommerceRetail"
+        ],
+        "section": "industry",
+        "body": {
+          "background": "该公司在一份新闻稿中表示，作为交易的一部分， TCS将以3.2亿欧元收购保时捷的IT咨询业务MHP。保时捷董事长迈克尔·莱特斯（ Michael Leiters ）在新闻稿中表示，这将把保时捷的“汽车专业知识与TCS的数字和人工智能能力相结合”。此次合作将提升这家欧洲跑车制造商的创新能力、效率和竞争力， ”在日益数据和软件驱动的出行世界中。",
+          "keyProgress": "“自今年年初以来， TCS已经获得了多笔人工智能主导的业务转型交易，并表示其6月季度的年化人工智能收入为26亿美元，比上一季度增长13.6%。Nifty IT指数是IT服务公司股票的基准，比年初下跌近20% ，而Nifty 50指数下跌略高于7%。TCS首席执行官兼董事总经理K. Krithivasan表示，通过此次收购， TCS旨在“为保时捷大规模实现人工智能的产业化”。它还将加强印度软件服务公司在德国市场以及欧洲汽车和工业客户中的影响力。",
+          "whyItMatters": "“保时捷与印度最大的IT服务公司塔塔咨询公司达成15亿美元的人工智能部署协议”如果继续发展，可能通过能源价格、航运、贸易、汇率或市场预期传导到国内。了解它的意义在于判断后续风险，而不只停留在事件本身。",
+          "userRelevance": "即使你不在印度、德国，“保时捷与印度最大的IT服务公司塔塔咨询公司达成15亿美元的人工智能部署协议”也可能通过能源价格、国际航运、贸易成本和市场预期间接影响国内生活与工作判断。",
+          "whatToWatch": "接下来要看“保时捷与印度最大的IT服务公司塔塔咨询公司达成15亿美元的人工智能部署协议”是否出现更细的城市、行业、平台或企业数据，以及这一变化能否连续保持。"
+        },
+        "sourceLinks": [
+          {
+            "title": "CNBC World News RSS",
+            "url": "https://www.cnbc.com/2026/08/25/porsche-inks-billion-ai-deal-india-it-tcs.html",
+            "sourceId": "cnbc-world-rss",
+            "publishedAt": "2026-08-25T03:01:16.000Z",
+            "language": "zh",
+            "originalLanguage": "en",
+            "translationStatus": "translated",
+            "fetchedAt": "2026-08-25T04:48:58.446Z",
+            "sourceMethod": "rss",
+            "verificationStatus": "pending"
+          }
+        ],
+        "images": [
+          {
+            "url": "https://image.cnbcfm.com/api/v1/image/108353107-17875456911787545688-47950421648-1080pnbcnews.jpg?v=1787545690&amp;w=750&amp;h=422&amp;vtcrop=y",
+            "sourceUrl": "https://www.cnbc.com/2026/08/25/porsche-inks-billion-ai-deal-india-it-tcs.html"
+          }
+        ],
+        "generatedAt": "2026-08-25T04:48:52.213Z"
+      },
+      {
+        "id": "draft-real-cnbc-world-rss-bu3mcy",
+        "title": "由于美元疲软，金价触及三个月高位，美国国债回购计划",
+        "oneLine": "政策变化：在本文中，由于美元走弱以及美国财政部的债券回购计划限制了收益率，周二黄金价格升至三个多月来的最高水平。",
+        "importance": "B",
+        "credibility": "待确认",
+        "tags": [
+          "B",
+          "industry",
+          "world",
+          "policy",
+          "finance"
+        ],
+        "industries": [
+          "generalPublic",
+          "financeInvestment",
+          "operationsGrowth",
+          "ecommerceRetail"
+        ],
+        "section": "industry",
+        "body": {
+          "background": "现货黄金上涨0.6%至每盎司4,677.19 $ ，为5月中旬以来的最高水平，大华银行预测黄金有望实现“自1999年9月以来最强劲的月度涨幅”。“本月到目前为止，黄金已经上涨了15%以上。黄金期货上涨0.5%至4,720.3 ，也是三个多月的高点。",
+          "keyProgress": "本月迄今为止，美元指数下跌了0.8% ，虽然8月份大部分时间国债收益率有所上升，但政府计划回购债券，设法控制住了这些收益率--本月下跌了3个基点。花旗在一份报告中表示，虽然鹰派的华尔士演讲可能会使正在进行的黄金反弹停止，但杰克逊霍尔的鸽派意外将对黄金极为看涨， “因为市场不仅会继续对美联储加息进行定价，而且还会重新关注贬值贸易，因为人们对美联储独立性和美国债务可持续性问题再次感到担忧。黄金的强势也蔓延至白银，其现货价格上涨0.4%至每盎司69.19 $。美元走软使得美元定价的黄金对外币持有者具有吸引力，而较低的国债收益率降低了购买黄金的机会成本。",
+          "whyItMatters": "“由于美元疲软，金价触及三个月高位，美国国债回购计划”如果继续发展，可能通过能源价格、航运、贸易、汇率或市场预期传导到国内。了解它的意义在于判断后续风险，而不只停留在事件本身。",
+          "userRelevance": "即使你不在美国，“由于美元疲软，金价触及三个月高位，美国国债回购计划”也可能通过能源价格、国际航运、贸易成本和市场预期间接影响国内生活与工作判断。",
+          "whatToWatch": "接下来要看“由于美元疲软，金价触及三个月高位，美国国债回购计划”是否出现更细的城市、行业、平台或企业数据，以及这一变化能否连续保持。"
+        },
+        "sourceLinks": [
+          {
+            "title": "CNBC World News RSS",
+            "url": "https://www.cnbc.com/2026/08/25/gold-hits-over-three-month-high-on-dollar-weakness-treasury-bond-buyback-plans.html",
+            "sourceId": "cnbc-world-rss",
+            "publishedAt": "2026-08-25T02:28:00.000Z",
+            "language": "zh",
+            "originalLanguage": "en",
+            "translationStatus": "translated",
+            "fetchedAt": "2026-08-25T04:48:58.446Z",
+            "sourceMethod": "rss",
+            "verificationStatus": "pending"
+          }
+        ],
+        "images": [],
+        "generatedAt": "2026-08-25T04:48:52.213Z"
+      },
+      {
         "id": "draft-real-cnbc-world-rss-4ir3hn",
         "title": "一场大规模的黄金交易刚刚发生。期权市场热闹非凡",
         "oneLine": "最新进展：一场大规模的黄金交易刚刚发生。期权市场热闹非凡。",
@@ -881,26 +997,25 @@
         "generatedAt": "2026-08-24T23:33:46.966Z"
       }
     ],
-    "estimatedReadMinutes": 29,
+    "estimatedReadMinutes": 32,
     "pageCount": 3,
-    "topCardId": "draft-real-npr-world-rss-hlulk7",
-    "generatedAt": "2026-08-25T04:48:52.213Z",
+    "topCardId": "draft-real-cnbc-world-rss-1901d8n",
+    "generatedAt": "2026-08-25T13:32:06.449Z",
     "pushSlots": [
       "08:30",
       "12:30",
       "21:30"
     ],
-    "edition": "midday",
-    "editionLabel": "午间更新",
+    "edition": "evening",
+    "editionLabel": "晚间更新",
     "coverageWindow": {
-      "start": "2026-08-25T07:10:00+08:00",
-      "end": "2026-08-25T12:10:00+08:00"
+      "start": "2026-08-25T12:10:00+08:00",
+      "end": "2026-08-25T21:10:00+08:00"
     },
-    "basedOnGeneratedAt": "2026-08-24T23:33:46.966Z",
+    "basedOnGeneratedAt": "2026-08-25T04:48:52.213Z",
     "editionCardIds": [
-      "draft-real-cnbc-world-rss-1q5m9pw",
-      "draft-real-cnbc-world-rss-b8qu1n",
-      "draft-real-cnbc-world-rss-bu3mcy"
+      "draft-real-npr-world-rss-ysyd80",
+      "draft-real-cnbc-world-rss-1901d8n"
     ],
     "carriedCardIds": [
       "draft-real-npr-world-rss-hlulk7",
@@ -915,6 +1030,9 @@
       "draft-real-gov-uk-news-1d6wxzn",
       "draft-real-xinhua-tech-13a3t8e",
       "draft-real-xinhua-tech-j9crr6",
+      "draft-real-cnbc-world-rss-1q5m9pw",
+      "draft-real-cnbc-world-rss-b8qu1n",
+      "draft-real-cnbc-world-rss-bu3mcy",
       "draft-real-cnbc-world-rss-4ir3hn",
       "draft-real-cnbc-world-rss-1qxem59",
       "draft-cluster-real-cnbc-world-rss-o5vmno"

@@ -5,6 +5,122 @@
     "userId": "preview-public",
     "cards": [
       {
+        "id": "draft-real-cnbc-world-rss-1901d8n",
+        "title": "中国需要美元，但正在建立对冲华盛顿制裁的对冲",
+        "oneLine": "最新进展：中国需要美元，但正在建立对冲华盛顿制裁的对冲。",
+        "importance": "S",
+        "credibility": "待确认",
+        "tags": [
+          "S",
+          "mustKnow",
+          "industry",
+          "world",
+          "policy",
+          "finance"
+        ],
+        "industries": [
+          "generalPublic",
+          "financeInvestment",
+          "operationsGrowth",
+          "ecommerceRetail"
+        ],
+        "section": "front",
+        "body": {
+          "background": "北京--美国威胁要削减帮助伊朗逃避美国金融体系制裁的企业。美国财政部长斯科特·贝森特（ Scott Bessent ）周一宣布，任何帮助“代表伊朗洗钱或逃避制裁”的实体都有可能被切断与美国的联系。”这是美国总统唐纳德特朗普宣布的针对伊朗的“经济D日”的一部分。",
+          "keyProgress": "“中国多次明确表示坚决反对没有国际法依据或联合国安理会授权的非法单方面制裁，”中国外交部发言人周二在回答问题时表示。当被问及有关中国银行的具体情况时，贝森特说：“如果他们为交易提供便利，并且是将伊朗石油转化为金钱和压制的生态系统的一部分，他们将成为目标。中国周二表示将“采取一切必要措施”来保护自己。根据美中经济与安全审查委员会(U.S.-China Economic and Security Review Commission) 3月份的分析师，战前，中国购买了伊朗约90%的出口石油，约占中国原油进口总量的12% ，使其成为伊朗最大的贸易伙伴。",
+          "whyItMatters": "“中国需要美元，但正在建立对冲华盛顿制裁的对冲”如果继续发展，可能通过能源价格、航运、贸易、汇率或市场预期传导到国内。了解它的意义在于判断后续风险，而不只停留在事件本身。",
+          "userRelevance": "即使你不在中国、美国、伊朗，“中国需要美元，但正在建立对冲华盛顿制裁的对冲”也可能通过能源价格、国际航运、贸易成本和市场预期间接影响国内生活与工作判断。",
+          "whatToWatch": "接下来要看“中国需要美元，但正在建立对冲华盛顿制裁的对冲”是否出现更细的城市、行业、平台或企业数据，以及这一变化能否连续保持。"
+        },
+        "sourceLinks": [
+          {
+            "title": "CNBC World News RSS",
+            "url": "https://www.cnbc.com/2026/08/25/china-iran-us-sanctions-banks-cips.html",
+            "sourceId": "cnbc-world-rss",
+            "publishedAt": "2026-08-25T12:42:15.000Z",
+            "language": "zh",
+            "originalLanguage": "en",
+            "translationStatus": "translated",
+            "fetchedAt": "2026-08-25T13:32:12.071Z",
+            "sourceMethod": "rss",
+            "verificationStatus": "pending"
+          }
+        ],
+        "images": [
+          {
+            "url": "https://image.cnbcfm.com/api/v1/image/108353776-17876556101787655607-47974928038-1080pnbcnews.jpg?v=1787655609&amp;w=750&amp;h=422&amp;vtcrop=y",
+            "sourceUrl": "https://www.cnbc.com/2026/08/25/china-iran-us-sanctions-banks-cips.html"
+          },
+          {
+            "url": "https://image.cnbcfm.com/api/v1/image/108353675-1787634109634-1787626805-47968781364-hd.jpg?v=1787634115&amp;w=750&amp;h=422&amp;vtcrop=y",
+            "sourceUrl": "https://www.cnbc.com/2026/08/25/china-iran-us-sanctions-banks-cips.html"
+          }
+        ],
+        "generatedAt": "2026-08-25T13:32:06.449Z"
+      },
+      {
+        "id": "draft-real-npr-world-rss-ysyd80",
+        "title": "特朗普对伊朗的经济战争能做空袭和谈判做不到的事情吗？",
+        "oneLine": "政策变化：今年2月，当美国和以色列对伊朗发动战争时，特朗普总统发誓要迅速取得胜利。",
+        "importance": "S",
+        "credibility": "主流媒体",
+        "tags": [
+          "S",
+          "mustKnow",
+          "industry",
+          "world",
+          "policy",
+          "finance"
+        ],
+        "industries": [
+          "generalPublic",
+          "financeInvestment",
+          "operationsGrowth",
+          "ecommerceRetail"
+        ],
+        "section": "front",
+        "body": {
+          "background": "正是在这种背景下，美国 财政部长斯科特·贝森特（ Scott Bessent ）周一公布了一项针对伊朗的新制裁运动，该运动旨在“切断支撑这个专制政权的每一条经济命脉，直到德黑兰独自站立。“过去的政府，包括特朗普的第一届政府，都试图通过各种制裁运动向伊朗施加经济压力。现在，近六个月后，在原本打算结束战争的60天停火期限失败之后，美国却发现自己陷入了一场旷日持久的冲突。",
+          "keyProgress": "总部位于伦敦的Bourse & Bazaar Foundation首席执行官Esfandyar Batmanghelidj表示： “我们多年来看到的一件事是，最大的压力往往会产生伊朗方面的最大阻力。与伊朗的战争打击了全球经济，激怒了海湾盟友，耗尽了美国的军火库。它还削弱了特朗普总统追求其主要战争目标的影响力，该目标已从遏制伊朗的核野心转向政权更迭，现在旨在将霍尔木兹海峡从伊朗的控制下撬开。“贝森特警告那些继续与伊朗做生意的国家，说他们应该”期望分享一个正在萎缩的政权的孤立。",
+          "whyItMatters": "“特朗普对伊朗的经济战争能做空袭和谈判做不到的事情吗”如果继续发展，可能通过能源价格、航运、贸易、汇率或市场预期传导到国内。了解它的意义在于判断后续风险，而不只停留在事件本身。",
+          "userRelevance": "即使你不在美国、伊朗，“特朗普对伊朗的经济战争能做空袭和谈判做不到的事情吗”也可能通过能源价格、国际航运、贸易成本和市场预期间接影响国内生活与工作判断。",
+          "whatToWatch": "接下来要看“特朗普对伊朗的经济战争能做空袭和谈判做不到的事情吗”是否出现更细的城市、行业、平台或企业数据，以及这一变化能否连续保持。"
+        },
+        "sourceLinks": [
+          {
+            "title": "NPR World RSS",
+            "url": "https://www.npr.org/2026/08/25/nx-s1-5943572/trump-iran-sanctions",
+            "sourceId": "npr-world-rss",
+            "publishedAt": "2026-08-25T09:07:09.000Z",
+            "language": "zh",
+            "originalLanguage": "en",
+            "translationStatus": "translated",
+            "fetchedAt": "2026-08-25T13:32:11.682Z",
+            "sourceMethod": "rss",
+            "verificationStatus": "confirmed"
+          }
+        ],
+        "images": [
+          {
+            "url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8516x5678+0+0/resize/1100/quality/50/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F6a%2F47%2Fdba05d284318a540221bd45f9cfb%2Fap26122373189543.jpg",
+            "sourceUrl": "https://www.npr.org/2026/08/25/nx-s1-5943572/trump-iran-sanctions"
+          },
+          {
+            "url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3000x3000+0+0/resize/100/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fd0%2F3f%2F08a5041c4ceca4e96a62754dddd5%2Ff2342d2e-3f73-4259-9556-6c36eb4fc900.jpg",
+            "sourceUrl": "https://www.npr.org/2026/08/25/nx-s1-5943572/trump-iran-sanctions"
+          },
+          {
+            "url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2534x2534+628+0/resize/100/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F68%2F1c%2F23da8dcd4c6d9d50ba932deba0e5%2Fap26236622592645.jpg",
+            "sourceUrl": "https://www.npr.org/2026/08/25/nx-s1-5943572/trump-iran-sanctions"
+          },
+          {
+            "url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4650x3100+0+0/resize/1100/quality/50/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F19%2F3e%2Fdbd1265343d69c3f053d6cdbde98%2Fap26236674162695.jpg",
+            "sourceUrl": "https://www.npr.org/2026/08/25/nx-s1-5943572/trump-iran-sanctions"
+          }
+        ],
+        "generatedAt": "2026-08-25T13:32:06.449Z"
+      },
+      {
         "id": "draft-real-npr-world-rss-hlulk7",
         "title": "六个月后，撤离巴林的美国海军家庭仍处于困境",
         "oneLine": "政策变化：弗吉尼亚州诺福克 - 在一次虚拟市政厅会议上，六个月前突然从巴林撤离的海军家庭提出了许多问题。",
@@ -315,143 +431,6 @@
         "generatedAt": "2026-08-24T23:33:46.966Z"
       },
       {
-        "id": "draft-real-cnbc-world-rss-1q5m9pw",
-        "title": "小鹏股价下跌，因为交付预测疲软使63亿美元的机器人单位估值蒙上阴影",
-        "oneLine": "政策变化：在本文中，中国电动汽车制造商小鹏汽车(Xpeng)周二在香港股价下跌逾9% ，此前该公司发布了第三季度交付量低于预期的预测，尽管其机器人业务部门在一轮融资中获得了超过63亿美元的估值$。",
-        "importance": "B",
-        "credibility": "待确认",
-        "tags": [
-          "B",
-          "industry",
-          "world",
-          "policy",
-          "finance"
-        ],
-        "industries": [
-          "generalPublic",
-          "financeInvestment",
-          "operationsGrowth",
-          "ecommerceRetail"
-        ],
-        "section": "industry",
-        "body": {
-          "background": "在公司财务业绩公布后，该公司略微下调了小鹏在美国和香港上市股票的目标价。该银行将机器人融资描述为对小鹏的长期积极作用，称这家电动汽车制造商可以将其在算法、人工智能模型和芯片方面的现有优势应用于人形机器人。小鹏在美国上市的股票周一收盘下跌8.5%。",
-          "keyProgress": "该公司报告第二季度净亏损13.4亿元（ 2亿元） ，比去年同期大幅亏损，而收入增长8 ％至197.4亿元。花旗表示，交付指引未达到投资者的预期，主要是由于供应链限制扰乱了小鹏MONA L03车型的增长。小鹏首席执行官何晓鹏去年11月表示，未来10年，该公司的机器人销量将超过汽车销量。这家总部位于广州的初创公司当时透露了其第二代人形机器人，并建立了飞行器业务部门。",
-          "whyItMatters": "“小鹏股价下跌，因为交付预测疲软使63亿美元的机器人单位估值蒙上阴影”如果继续发展，可能通过能源价格、航运、贸易、汇率或市场预期传导到国内。了解它的意义在于判断后续风险，而不只停留在事件本身。",
-          "userRelevance": "即使你不在事发地区，“小鹏股价下跌，因为交付预测疲软使63亿美元的机器人单位估值蒙上阴影”也可能通过能源价格、国际航运、贸易成本和市场预期间接影响国内生活与工作判断。",
-          "whatToWatch": "接下来要看“小鹏股价下跌，因为交付预测疲软使63亿美元的机器人单位估值蒙上阴影”是否出现更细的城市、行业、平台或企业数据，以及这一变化能否连续保持。"
-        },
-        "sourceLinks": [
-          {
-            "title": "CNBC World News RSS",
-            "url": "https://www.cnbc.com/2026/08/25/xpeng-shares-robot-valuation-china.html",
-            "sourceId": "cnbc-world-rss",
-            "publishedAt": "2026-08-25T04:08:37.000Z",
-            "language": "zh",
-            "originalLanguage": "en",
-            "translationStatus": "translated",
-            "fetchedAt": "2026-08-25T04:48:58.446Z",
-            "sourceMethod": "rss",
-            "verificationStatus": "pending"
-          }
-        ],
-        "images": [],
-        "generatedAt": "2026-08-25T04:48:52.213Z"
-      },
-      {
-        "id": "draft-real-cnbc-world-rss-b8qu1n",
-        "title": "保时捷与印度最大的IT服务公司塔塔咨询公司达成15亿美元的人工智能部署协议",
-        "oneLine": "政策变化：保时捷已与印度最大的IT服务公司塔塔咨询服务公司签署了一份为期五年的人工智能合同，价值12.5亿欧元（ 14.6亿美元）。",
-        "importance": "B",
-        "credibility": "待确认",
-        "tags": [
-          "B",
-          "industry",
-          "world",
-          "policy",
-          "finance"
-        ],
-        "industries": [
-          "generalPublic",
-          "financeInvestment",
-          "operationsGrowth",
-          "ecommerceRetail"
-        ],
-        "section": "industry",
-        "body": {
-          "background": "该公司在一份新闻稿中表示，作为交易的一部分， TCS将以3.2亿欧元收购保时捷的IT咨询业务MHP。保时捷董事长迈克尔·莱特斯（ Michael Leiters ）在新闻稿中表示，这将把保时捷的“汽车专业知识与TCS的数字和人工智能能力相结合”。此次合作将提升这家欧洲跑车制造商的创新能力、效率和竞争力， ”在日益数据和软件驱动的出行世界中。",
-          "keyProgress": "“自今年年初以来， TCS已经获得了多笔人工智能主导的业务转型交易，并表示其6月季度的年化人工智能收入为26亿美元，比上一季度增长13.6%。Nifty IT指数是IT服务公司股票的基准，比年初下跌近20% ，而Nifty 50指数下跌略高于7%。TCS首席执行官兼董事总经理K. Krithivasan表示，通过此次收购， TCS旨在“为保时捷大规模实现人工智能的产业化”。它还将加强印度软件服务公司在德国市场以及欧洲汽车和工业客户中的影响力。",
-          "whyItMatters": "“保时捷与印度最大的IT服务公司塔塔咨询公司达成15亿美元的人工智能部署协议”如果继续发展，可能通过能源价格、航运、贸易、汇率或市场预期传导到国内。了解它的意义在于判断后续风险，而不只停留在事件本身。",
-          "userRelevance": "即使你不在印度、德国，“保时捷与印度最大的IT服务公司塔塔咨询公司达成15亿美元的人工智能部署协议”也可能通过能源价格、国际航运、贸易成本和市场预期间接影响国内生活与工作判断。",
-          "whatToWatch": "接下来要看“保时捷与印度最大的IT服务公司塔塔咨询公司达成15亿美元的人工智能部署协议”是否出现更细的城市、行业、平台或企业数据，以及这一变化能否连续保持。"
-        },
-        "sourceLinks": [
-          {
-            "title": "CNBC World News RSS",
-            "url": "https://www.cnbc.com/2026/08/25/porsche-inks-billion-ai-deal-india-it-tcs.html",
-            "sourceId": "cnbc-world-rss",
-            "publishedAt": "2026-08-25T03:01:16.000Z",
-            "language": "zh",
-            "originalLanguage": "en",
-            "translationStatus": "translated",
-            "fetchedAt": "2026-08-25T04:48:58.446Z",
-            "sourceMethod": "rss",
-            "verificationStatus": "pending"
-          }
-        ],
-        "images": [
-          {
-            "url": "https://image.cnbcfm.com/api/v1/image/108353107-17875456911787545688-47950421648-1080pnbcnews.jpg?v=1787545690&amp;w=750&amp;h=422&amp;vtcrop=y",
-            "sourceUrl": "https://www.cnbc.com/2026/08/25/porsche-inks-billion-ai-deal-india-it-tcs.html"
-          }
-        ],
-        "generatedAt": "2026-08-25T04:48:52.213Z"
-      },
-      {
-        "id": "draft-real-cnbc-world-rss-bu3mcy",
-        "title": "由于美元疲软，金价触及三个月高位，美国国债回购计划",
-        "oneLine": "政策变化：在本文中，由于美元走弱以及美国财政部的债券回购计划限制了收益率，周二黄金价格升至三个多月来的最高水平。",
-        "importance": "B",
-        "credibility": "待确认",
-        "tags": [
-          "B",
-          "industry",
-          "world",
-          "policy",
-          "finance"
-        ],
-        "industries": [
-          "generalPublic",
-          "financeInvestment",
-          "operationsGrowth",
-          "ecommerceRetail"
-        ],
-        "section": "industry",
-        "body": {
-          "background": "现货黄金上涨0.6%至每盎司4,677.19 $ ，为5月中旬以来的最高水平，大华银行预测黄金有望实现“自1999年9月以来最强劲的月度涨幅”。“本月到目前为止，黄金已经上涨了15%以上。黄金期货上涨0.5%至4,720.3 ，也是三个多月的高点。",
-          "keyProgress": "本月迄今为止，美元指数下跌了0.8% ，虽然8月份大部分时间国债收益率有所上升，但政府计划回购债券，设法控制住了这些收益率--本月下跌了3个基点。花旗在一份报告中表示，虽然鹰派的华尔士演讲可能会使正在进行的黄金反弹停止，但杰克逊霍尔的鸽派意外将对黄金极为看涨， “因为市场不仅会继续对美联储加息进行定价，而且还会重新关注贬值贸易，因为人们对美联储独立性和美国债务可持续性问题再次感到担忧。黄金的强势也蔓延至白银，其现货价格上涨0.4%至每盎司69.19 $。美元走软使得美元定价的黄金对外币持有者具有吸引力，而较低的国债收益率降低了购买黄金的机会成本。",
-          "whyItMatters": "“由于美元疲软，金价触及三个月高位，美国国债回购计划”如果继续发展，可能通过能源价格、航运、贸易、汇率或市场预期传导到国内。了解它的意义在于判断后续风险，而不只停留在事件本身。",
-          "userRelevance": "即使你不在美国，“由于美元疲软，金价触及三个月高位，美国国债回购计划”也可能通过能源价格、国际航运、贸易成本和市场预期间接影响国内生活与工作判断。",
-          "whatToWatch": "接下来要看“由于美元疲软，金价触及三个月高位，美国国债回购计划”是否出现更细的城市、行业、平台或企业数据，以及这一变化能否连续保持。"
-        },
-        "sourceLinks": [
-          {
-            "title": "CNBC World News RSS",
-            "url": "https://www.cnbc.com/2026/08/25/gold-hits-over-three-month-high-on-dollar-weakness-treasury-bond-buyback-plans.html",
-            "sourceId": "cnbc-world-rss",
-            "publishedAt": "2026-08-25T02:28:00.000Z",
-            "language": "zh",
-            "originalLanguage": "en",
-            "translationStatus": "translated",
-            "fetchedAt": "2026-08-25T04:48:58.446Z",
-            "sourceMethod": "rss",
-            "verificationStatus": "pending"
-          }
-        ],
-        "images": [],
-        "generatedAt": "2026-08-25T04:48:52.213Z"
-      },
-      {
         "id": "draft-real-cnbc-world-rss-13q296f",
         "title": "CNBC的The China Connection时事通讯：机器人需要帮助学习人类技能。这些人工智能公司正在争先恐后地满足需求",
         "oneLine": "最新进展：CNBC的The China Connection时事通讯：机器人需要帮助学习人类技能。这些人工智能公司正在争先恐后地满足需求。",
@@ -725,6 +704,143 @@
         "generatedAt": "2026-08-24T23:33:46.966Z"
       },
       {
+        "id": "draft-real-cnbc-world-rss-1q5m9pw",
+        "title": "小鹏股价下跌，因为交付预测疲软使63亿美元的机器人单位估值蒙上阴影",
+        "oneLine": "政策变化：在本文中，中国电动汽车制造商小鹏汽车(Xpeng)周二在香港股价下跌逾9% ，此前该公司发布了第三季度交付量低于预期的预测，尽管其机器人业务部门在一轮融资中获得了超过63亿美元的估值$。",
+        "importance": "B",
+        "credibility": "待确认",
+        "tags": [
+          "B",
+          "industry",
+          "world",
+          "policy",
+          "finance"
+        ],
+        "industries": [
+          "generalPublic",
+          "financeInvestment",
+          "operationsGrowth",
+          "ecommerceRetail"
+        ],
+        "section": "industry",
+        "body": {
+          "background": "在公司财务业绩公布后，该公司略微下调了小鹏在美国和香港上市股票的目标价。该银行将机器人融资描述为对小鹏的长期积极作用，称这家电动汽车制造商可以将其在算法、人工智能模型和芯片方面的现有优势应用于人形机器人。小鹏在美国上市的股票周一收盘下跌8.5%。",
+          "keyProgress": "该公司报告第二季度净亏损13.4亿元（ 2亿元） ，比去年同期大幅亏损，而收入增长8 ％至197.4亿元。花旗表示，交付指引未达到投资者的预期，主要是由于供应链限制扰乱了小鹏MONA L03车型的增长。小鹏首席执行官何晓鹏去年11月表示，未来10年，该公司的机器人销量将超过汽车销量。这家总部位于广州的初创公司当时透露了其第二代人形机器人，并建立了飞行器业务部门。",
+          "whyItMatters": "“小鹏股价下跌，因为交付预测疲软使63亿美元的机器人单位估值蒙上阴影”如果继续发展，可能通过能源价格、航运、贸易、汇率或市场预期传导到国内。了解它的意义在于判断后续风险，而不只停留在事件本身。",
+          "userRelevance": "即使你不在事发地区，“小鹏股价下跌，因为交付预测疲软使63亿美元的机器人单位估值蒙上阴影”也可能通过能源价格、国际航运、贸易成本和市场预期间接影响国内生活与工作判断。",
+          "whatToWatch": "接下来要看“小鹏股价下跌，因为交付预测疲软使63亿美元的机器人单位估值蒙上阴影”是否出现更细的城市、行业、平台或企业数据，以及这一变化能否连续保持。"
+        },
+        "sourceLinks": [
+          {
+            "title": "CNBC World News RSS",
+            "url": "https://www.cnbc.com/2026/08/25/xpeng-shares-robot-valuation-china.html",
+            "sourceId": "cnbc-world-rss",
+            "publishedAt": "2026-08-25T04:08:37.000Z",
+            "language": "zh",
+            "originalLanguage": "en",
+            "translationStatus": "translated",
+            "fetchedAt": "2026-08-25T04:48:58.446Z",
+            "sourceMethod": "rss",
+            "verificationStatus": "pending"
+          }
+        ],
+        "images": [],
+        "generatedAt": "2026-08-25T04:48:52.213Z"
+      },
+      {
+        "id": "draft-real-cnbc-world-rss-b8qu1n",
+        "title": "保时捷与印度最大的IT服务公司塔塔咨询公司达成15亿美元的人工智能部署协议",
+        "oneLine": "政策变化：保时捷已与印度最大的IT服务公司塔塔咨询服务公司签署了一份为期五年的人工智能合同，价值12.5亿欧元（ 14.6亿美元）。",
+        "importance": "B",
+        "credibility": "待确认",
+        "tags": [
+          "B",
+          "industry",
+          "world",
+          "policy",
+          "finance"
+        ],
+        "industries": [
+          "generalPublic",
+          "financeInvestment",
+          "operationsGrowth",
+          "ecommerceRetail"
+        ],
+        "section": "industry",
+        "body": {
+          "background": "该公司在一份新闻稿中表示，作为交易的一部分， TCS将以3.2亿欧元收购保时捷的IT咨询业务MHP。保时捷董事长迈克尔·莱特斯（ Michael Leiters ）在新闻稿中表示，这将把保时捷的“汽车专业知识与TCS的数字和人工智能能力相结合”。此次合作将提升这家欧洲跑车制造商的创新能力、效率和竞争力， ”在日益数据和软件驱动的出行世界中。",
+          "keyProgress": "“自今年年初以来， TCS已经获得了多笔人工智能主导的业务转型交易，并表示其6月季度的年化人工智能收入为26亿美元，比上一季度增长13.6%。Nifty IT指数是IT服务公司股票的基准，比年初下跌近20% ，而Nifty 50指数下跌略高于7%。TCS首席执行官兼董事总经理K. Krithivasan表示，通过此次收购， TCS旨在“为保时捷大规模实现人工智能的产业化”。它还将加强印度软件服务公司在德国市场以及欧洲汽车和工业客户中的影响力。",
+          "whyItMatters": "“保时捷与印度最大的IT服务公司塔塔咨询公司达成15亿美元的人工智能部署协议”如果继续发展，可能通过能源价格、航运、贸易、汇率或市场预期传导到国内。了解它的意义在于判断后续风险，而不只停留在事件本身。",
+          "userRelevance": "即使你不在印度、德国，“保时捷与印度最大的IT服务公司塔塔咨询公司达成15亿美元的人工智能部署协议”也可能通过能源价格、国际航运、贸易成本和市场预期间接影响国内生活与工作判断。",
+          "whatToWatch": "接下来要看“保时捷与印度最大的IT服务公司塔塔咨询公司达成15亿美元的人工智能部署协议”是否出现更细的城市、行业、平台或企业数据，以及这一变化能否连续保持。"
+        },
+        "sourceLinks": [
+          {
+            "title": "CNBC World News RSS",
+            "url": "https://www.cnbc.com/2026/08/25/porsche-inks-billion-ai-deal-india-it-tcs.html",
+            "sourceId": "cnbc-world-rss",
+            "publishedAt": "2026-08-25T03:01:16.000Z",
+            "language": "zh",
+            "originalLanguage": "en",
+            "translationStatus": "translated",
+            "fetchedAt": "2026-08-25T04:48:58.446Z",
+            "sourceMethod": "rss",
+            "verificationStatus": "pending"
+          }
+        ],
+        "images": [
+          {
+            "url": "https://image.cnbcfm.com/api/v1/image/108353107-17875456911787545688-47950421648-1080pnbcnews.jpg?v=1787545690&amp;w=750&amp;h=422&amp;vtcrop=y",
+            "sourceUrl": "https://www.cnbc.com/2026/08/25/porsche-inks-billion-ai-deal-india-it-tcs.html"
+          }
+        ],
+        "generatedAt": "2026-08-25T04:48:52.213Z"
+      },
+      {
+        "id": "draft-real-cnbc-world-rss-bu3mcy",
+        "title": "由于美元疲软，金价触及三个月高位，美国国债回购计划",
+        "oneLine": "政策变化：在本文中，由于美元走弱以及美国财政部的债券回购计划限制了收益率，周二黄金价格升至三个多月来的最高水平。",
+        "importance": "B",
+        "credibility": "待确认",
+        "tags": [
+          "B",
+          "industry",
+          "world",
+          "policy",
+          "finance"
+        ],
+        "industries": [
+          "generalPublic",
+          "financeInvestment",
+          "operationsGrowth",
+          "ecommerceRetail"
+        ],
+        "section": "industry",
+        "body": {
+          "background": "现货黄金上涨0.6%至每盎司4,677.19 $ ，为5月中旬以来的最高水平，大华银行预测黄金有望实现“自1999年9月以来最强劲的月度涨幅”。“本月到目前为止，黄金已经上涨了15%以上。黄金期货上涨0.5%至4,720.3 ，也是三个多月的高点。",
+          "keyProgress": "本月迄今为止，美元指数下跌了0.8% ，虽然8月份大部分时间国债收益率有所上升，但政府计划回购债券，设法控制住了这些收益率--本月下跌了3个基点。花旗在一份报告中表示，虽然鹰派的华尔士演讲可能会使正在进行的黄金反弹停止，但杰克逊霍尔的鸽派意外将对黄金极为看涨， “因为市场不仅会继续对美联储加息进行定价，而且还会重新关注贬值贸易，因为人们对美联储独立性和美国债务可持续性问题再次感到担忧。黄金的强势也蔓延至白银，其现货价格上涨0.4%至每盎司69.19 $。美元走软使得美元定价的黄金对外币持有者具有吸引力，而较低的国债收益率降低了购买黄金的机会成本。",
+          "whyItMatters": "“由于美元疲软，金价触及三个月高位，美国国债回购计划”如果继续发展，可能通过能源价格、航运、贸易、汇率或市场预期传导到国内。了解它的意义在于判断后续风险，而不只停留在事件本身。",
+          "userRelevance": "即使你不在美国，“由于美元疲软，金价触及三个月高位，美国国债回购计划”也可能通过能源价格、国际航运、贸易成本和市场预期间接影响国内生活与工作判断。",
+          "whatToWatch": "接下来要看“由于美元疲软，金价触及三个月高位，美国国债回购计划”是否出现更细的城市、行业、平台或企业数据，以及这一变化能否连续保持。"
+        },
+        "sourceLinks": [
+          {
+            "title": "CNBC World News RSS",
+            "url": "https://www.cnbc.com/2026/08/25/gold-hits-over-three-month-high-on-dollar-weakness-treasury-bond-buyback-plans.html",
+            "sourceId": "cnbc-world-rss",
+            "publishedAt": "2026-08-25T02:28:00.000Z",
+            "language": "zh",
+            "originalLanguage": "en",
+            "translationStatus": "translated",
+            "fetchedAt": "2026-08-25T04:48:58.446Z",
+            "sourceMethod": "rss",
+            "verificationStatus": "pending"
+          }
+        ],
+        "images": [],
+        "generatedAt": "2026-08-25T04:48:52.213Z"
+      },
+      {
         "id": "draft-real-cnbc-world-rss-4ir3hn",
         "title": "一场大规模的黄金交易刚刚发生。期权市场热闹非凡",
         "oneLine": "最新进展：一场大规模的黄金交易刚刚发生。期权市场热闹非凡。",
@@ -879,26 +995,25 @@
         "generatedAt": "2026-08-24T23:33:46.966Z"
       }
     ],
-    "estimatedReadMinutes": 29,
+    "estimatedReadMinutes": 32,
     "pageCount": 3,
-    "topCardId": "draft-real-npr-world-rss-hlulk7",
-    "generatedAt": "2026-08-25T04:48:52.213Z",
+    "topCardId": "draft-real-cnbc-world-rss-1901d8n",
+    "generatedAt": "2026-08-25T13:32:06.449Z",
     "pushSlots": [
       "08:30",
       "12:30",
       "21:30"
     ],
-    "edition": "midday",
-    "editionLabel": "午间更新",
+    "edition": "evening",
+    "editionLabel": "晚间更新",
     "coverageWindow": {
-      "start": "2026-08-25T07:10:00+08:00",
-      "end": "2026-08-25T12:10:00+08:00"
+      "start": "2026-08-25T12:10:00+08:00",
+      "end": "2026-08-25T21:10:00+08:00"
     },
-    "basedOnGeneratedAt": "2026-08-24T23:33:46.966Z",
+    "basedOnGeneratedAt": "2026-08-25T04:48:52.213Z",
     "editionCardIds": [
-      "draft-real-cnbc-world-rss-1q5m9pw",
-      "draft-real-cnbc-world-rss-b8qu1n",
-      "draft-real-cnbc-world-rss-bu3mcy"
+      "draft-real-npr-world-rss-ysyd80",
+      "draft-real-cnbc-world-rss-1901d8n"
     ],
     "carriedCardIds": [
       "draft-real-npr-world-rss-hlulk7",
@@ -913,6 +1028,9 @@
       "draft-real-gov-uk-news-1d6wxzn",
       "draft-real-xinhua-tech-13a3t8e",
       "draft-real-xinhua-tech-j9crr6",
+      "draft-real-cnbc-world-rss-1q5m9pw",
+      "draft-real-cnbc-world-rss-b8qu1n",
+      "draft-real-cnbc-world-rss-bu3mcy",
       "draft-real-cnbc-world-rss-4ir3hn",
       "draft-real-cnbc-world-rss-1qxem59",
       "draft-cluster-real-cnbc-world-rss-o5vmno"
@@ -921,17 +1039,17 @@
   "meta": {
     "profileName": "多职业公共版",
     "cohortLocationCount": 7,
-    "generatedAt": "2026-08-25T04:48:52.213Z",
-    "edition": "midday",
+    "generatedAt": "2026-08-25T13:32:06.449Z",
+    "edition": "evening",
     "sourceCoverage": {
       "ready": true,
       "sourceAvailabilityReady": true,
       "currentCoverageReady": true,
-      "generatedAt": "2026-08-25T04:51:17.796Z",
+      "generatedAt": "2026-08-25T13:34:35.510Z",
       "totalSources": 33,
       "successfulSources": 32,
       "sourcesWithItems": 26,
-      "totalItems": 365,
+      "totalItems": 383,
       "lanes": [
         {
           "id": "global",
@@ -955,11 +1073,14 @@
           "currentInputRequired": true,
           "currentReady": true,
           "currentSourceIds": [
+            "npr-world-rss",
             "sky-world-rss",
             "france24-middle-east-rss",
-            "cnbc-world-rss"
+            "france24-asia-pacific-rss",
+            "cnbc-world-rss",
+            "un-news-rss"
           ],
-          "currentItemCount": 7,
+          "currentItemCount": 24,
           "note": "至少两个国际来源有内容，避免把单一媒体首页当成全球事件全集。"
         },
         {
@@ -985,9 +1106,10 @@
           "currentReady": true,
           "currentSourceIds": [
             "france24-middle-east-rss",
+            "france24-asia-pacific-rss",
             "cnbc-world-rss"
           ],
-          "currentItemCount": 5,
+          "currentItemCount": 17,
           "note": "同时观察中国官方入口和国际商业新闻，覆盖关税、外贸、能源、航运与外交影响。"
         },
         {
@@ -1009,9 +1131,10 @@
           "currentInputRequired": true,
           "currentReady": true,
           "currentSourceIds": [
-            "gdacs-feed"
+            "gdacs-feed",
+            "un-news-rss"
           ],
-          "currentItemCount": 1,
+          "currentItemCount": 8,
           "note": "国内应急来源与全球灾害来源至少各保持可用的交叉覆盖。"
         },
         {
@@ -1043,12 +1166,12 @@
           "currentSourceIds": [
             "techcrunch-ai-rss"
           ],
-          "currentItemCount": 1,
+          "currentItemCount": 2,
           "note": "当前公共版覆盖多个行业；正式个性化版本仍需按用户画像选择对应来源组合。"
         },
         {
           "id": "local",
-          "label": "居住城市与家乡城市：上海、杭州、伦敦、深圳、长春、宿州、汕尾",
+          "label": "居住城市与家乡城市：上海、杭州、深圳、长春、伦敦、宿州、汕尾",
           "required": false,
           "ready": true,
           "minimumSuccessfulSources": 1,
@@ -1058,9 +1181,9 @@
           "failedSourceIds": [],
           "emptySourceIds": [
             "city-news-rss:%E4%B8%AD%E5%9B%BD-%E6%9D%AD%E5%B7%9E",
-            "city-news-rss:%E8%8B%B1%E5%9B%BD-%E4%BC%A6%E6%95%A6",
             "city-news-rss:%E4%B8%AD%E5%9B%BD-%E6%B7%B1%E5%9C%B3",
             "city-news-rss:%E4%B8%AD%E5%9B%BD-%E9%95%BF%E6%98%A5",
+            "city-news-rss:%E8%8B%B1%E5%9B%BD-%E4%BC%A6%E6%95%A6",
             "city-news-rss:%E4%B8%AD%E5%9B%BD-%E5%AE%BF%E5%B7%9E",
             "city-news-rss:%E4%B8%AD%E5%9B%BD-%E6%B1%95%E5%B0%BE"
           ],
@@ -1130,25 +1253,25 @@
       "stats",
       "mofcom"
     ],
-    "fetchedRawItemCount": 365,
-    "rawItemCount": 10,
-    "rawCandidateCount": 10,
-    "dedupedCandidateCount": 10,
-    "recentCandidateCount": 10,
-    "freshCandidateCount": 10,
+    "fetchedRawItemCount": 383,
+    "rawItemCount": 38,
+    "rawCandidateCount": 38,
+    "dedupedCandidateCount": 35,
+    "recentCandidateCount": 35,
+    "freshCandidateCount": 35,
     "translation": {
-      "requested": 10,
-      "translated": 10,
+      "requested": 38,
+      "translated": 38,
       "failed": 0,
       "skipped": 0,
       "provider": "google-free",
       "failures": []
     },
-    "selectedCandidateCount": 7,
+    "selectedCandidateCount": 22,
     "publishableCardCount": 3,
     "personalizationPoolCardCount": 4,
-    "reviewableCardCount": 2,
-    "rejectedCardCount": 2,
+    "reviewableCardCount": 1,
+    "rejectedCardCount": 18,
     "skippedPublishableCardCount": 0,
     "stats": {
       "inputCardCount": 3,
@@ -1163,11 +1286,11 @@
         "exceptionalBandCount": 0
       },
       "sectionCounts": {
-        "front": 0,
+        "front": 2,
         "world": 0,
         "china": 0,
         "local": 0,
-        "industry": 3,
+        "industry": 1,
         "ai": 0,
         "product": 0,
         "risk": 0,
@@ -1175,21 +1298,21 @@
         "light": 0
       },
       "importanceCounts": {
-        "S": 0,
+        "S": 2,
         "A": 0,
-        "B": 3,
+        "B": 1,
         "C": 0
       }
     },
     "editionMerge": {
       "required": true,
       "baseFound": true,
-      "basePath": "pending/2026-08-25-morning.json",
+      "basePath": "pending/2026-08-25-midday.json",
       "baseSource": "pending",
-      "basedOnGeneratedAt": "2026-08-24T23:33:46.966Z",
+      "basedOnGeneratedAt": "2026-08-25T04:48:52.213Z",
       "incrementalCardCount": 3,
-      "addedCardCount": 3,
-      "carriedCardCount": 15,
+      "addedCardCount": 2,
+      "carriedCardCount": 18,
       "replacedCardCount": 0
     },
     "sourceAudit": [
@@ -1201,7 +1324,7 @@
         "method": "api",
         "endpointUrl": "https://export.arxiv.org/api/query",
         "attempts": 1,
-        "durationMs": 322,
+        "durationMs": 439,
         "fallbackUsed": false,
         "rawItemCount": 18,
         "datedItemCount": 18,
@@ -1218,7 +1341,7 @@
         "method": "web",
         "endpointUrl": "https://www.cas.cn/syky/",
         "attempts": 1,
-        "durationMs": 2131,
+        "durationMs": 1897,
         "fallbackUsed": false,
         "rawItemCount": 18,
         "datedItemCount": 18,
@@ -1235,7 +1358,7 @@
         "method": "web",
         "endpointUrl": "https://www.mohurd.gov.cn/xinwen/gzdt/index.html",
         "attempts": 3,
-        "durationMs": 133844,
+        "durationMs": 137369,
         "fallbackUsed": false,
         "rawItemCount": 0,
         "datedItemCount": 0,
@@ -1251,13 +1374,13 @@
         "method": "rss",
         "endpointUrl": "https://www.gdacs.org/xml/rss.xml",
         "attempts": 1,
-        "durationMs": 2932,
+        "durationMs": 3889,
         "fallbackUsed": false,
         "rawItemCount": 18,
         "datedItemCount": 18,
-        "inEditionItemCount": 1,
-        "newestPublishedAt": "2026-08-25T01:33:33.000Z",
-        "oldestPublishedAt": "2026-08-22T08:00:04.000Z",
+        "inEditionItemCount": 7,
+        "newestPublishedAt": "2026-08-25T12:29:03.000Z",
+        "oldestPublishedAt": "2026-08-22T14:13:37.000Z",
         "verificationStatus": "confirmed"
       },
       {
@@ -1268,7 +1391,7 @@
         "method": "web",
         "endpointUrl": "https://www.gov.cn/zhengce/zuixin/",
         "attempts": 1,
-        "durationMs": 1687,
+        "durationMs": 1457,
         "fallbackUsed": false,
         "rawItemCount": 18,
         "datedItemCount": 18,
@@ -1285,7 +1408,7 @@
         "method": "web",
         "endpointUrl": "https://www.mem.gov.cn/xw/yjglbgzdt/",
         "attempts": 1,
-        "durationMs": 1307,
+        "durationMs": 867,
         "fallbackUsed": false,
         "rawItemCount": 18,
         "datedItemCount": 18,
@@ -1301,16 +1424,15 @@
         "status": "healthy",
         "method": "web",
         "endpointUrl": "https://www.cac.gov.cn/index.htm",
-        "attempts": 3,
-        "durationMs": 21166,
-        "fallbackUsed": true,
+        "attempts": 1,
+        "durationMs": 3379,
+        "fallbackUsed": false,
         "rawItemCount": 2,
         "datedItemCount": 2,
         "inEditionItemCount": 0,
         "newestPublishedAt": "2026-07-28T16:00:00.000Z",
         "oldestPublishedAt": "2026-06-25T16:00:00.000Z",
-        "verificationStatus": "confirmed",
-        "note": "主入口失败后使用了官方备用入口。"
+        "verificationStatus": "confirmed"
       },
       {
         "sourceId": "xinhua-world",
@@ -1320,7 +1442,7 @@
         "method": "web",
         "endpointUrl": "https://www.news.cn/world/index.html",
         "attempts": 1,
-        "durationMs": 1988,
+        "durationMs": 2219,
         "fallbackUsed": false,
         "rawItemCount": 18,
         "datedItemCount": 18,
@@ -1337,7 +1459,7 @@
         "method": "web",
         "endpointUrl": "https://www.news.cn/tech/index.html",
         "attempts": 1,
-        "durationMs": 2275,
+        "durationMs": 1012,
         "fallbackUsed": false,
         "rawItemCount": 14,
         "datedItemCount": 14,
@@ -1354,13 +1476,13 @@
         "method": "rss",
         "endpointUrl": "https://www.gov.uk/search/news-and-communications.atom?order=updated-newest",
         "attempts": 1,
-        "durationMs": 531,
+        "durationMs": 669,
         "fallbackUsed": false,
         "rawItemCount": 18,
         "datedItemCount": 18,
-        "inEditionItemCount": 1,
-        "newestPublishedAt": "2026-08-25T02:19:49.000Z",
-        "oldestPublishedAt": "2026-08-24T09:02:00.000Z",
+        "inEditionItemCount": 5,
+        "newestPublishedAt": "2026-08-25T13:24:01.000Z",
+        "oldestPublishedAt": "2026-08-24T14:06:27.000Z",
         "verificationStatus": "confirmed"
       },
       {
@@ -1371,13 +1493,13 @@
         "method": "rss",
         "endpointUrl": "https://feeds.npr.org/1004/rss.xml",
         "attempts": 1,
-        "durationMs": 181,
+        "durationMs": 252,
         "fallbackUsed": false,
         "rawItemCount": 10,
         "datedItemCount": 10,
-        "inEditionItemCount": 0,
-        "newestPublishedAt": "2026-08-24T22:22:13.000Z",
-        "oldestPublishedAt": "2026-08-21T11:25:10.000Z",
+        "inEditionItemCount": 4,
+        "newestPublishedAt": "2026-08-25T11:09:01.000Z",
+        "oldestPublishedAt": "2026-08-23T21:21:23.000Z",
         "verificationStatus": "confirmed"
       },
       {
@@ -1388,12 +1510,12 @@
         "method": "rss",
         "endpointUrl": "https://feeds.skynews.com/feeds/rss/world.xml",
         "attempts": 1,
-        "durationMs": 335,
+        "durationMs": 124,
         "fallbackUsed": false,
         "rawItemCount": 10,
         "datedItemCount": 10,
         "inEditionItemCount": 2,
-        "newestPublishedAt": "2026-08-25T03:05:00.000Z",
+        "newestPublishedAt": "2026-08-25T08:36:00.000Z",
         "oldestPublishedAt": "2026-08-23T19:29:00.000Z",
         "verificationStatus": "pending"
       },
@@ -1405,13 +1527,13 @@
         "method": "rss",
         "endpointUrl": "https://www.france24.com/en/middle-east/rss",
         "attempts": 1,
-        "durationMs": 301,
+        "durationMs": 188,
         "fallbackUsed": false,
         "rawItemCount": 18,
         "datedItemCount": 18,
         "inEditionItemCount": 1,
-        "newestPublishedAt": "2026-08-25T03:31:45.000Z",
-        "oldestPublishedAt": "2026-08-23T09:23:01.000Z",
+        "newestPublishedAt": "2026-08-25T13:25:54.000Z",
+        "oldestPublishedAt": "2026-08-23T10:09:17.000Z",
         "verificationStatus": "pending"
       },
       {
@@ -1422,13 +1544,13 @@
         "method": "rss",
         "endpointUrl": "https://www.france24.com/en/asia-pacific/rss",
         "attempts": 1,
-        "durationMs": 140,
+        "durationMs": 110,
         "fallbackUsed": false,
         "rawItemCount": 18,
         "datedItemCount": 18,
-        "inEditionItemCount": 0,
-        "newestPublishedAt": "2026-08-24T10:58:10.000Z",
-        "oldestPublishedAt": "2026-08-17T10:56:44.000Z",
+        "inEditionItemCount": 1,
+        "newestPublishedAt": "2026-08-25T12:22:27.000Z",
+        "oldestPublishedAt": "2026-08-17T15:40:43.000Z",
         "verificationStatus": "pending"
       },
       {
@@ -1439,13 +1561,13 @@
         "method": "rss",
         "endpointUrl": "https://www.cnbc.com/id/100727362/device/rss/rss.html",
         "attempts": 1,
-        "durationMs": 168,
+        "durationMs": 154,
         "fallbackUsed": false,
-        "rawItemCount": 17,
-        "datedItemCount": 17,
-        "inEditionItemCount": 4,
-        "newestPublishedAt": "2026-08-25T04:38:30.000Z",
-        "oldestPublishedAt": "2026-08-23T12:00:01.000Z",
+        "rawItemCount": 18,
+        "datedItemCount": 18,
+        "inEditionItemCount": 15,
+        "newestPublishedAt": "2026-08-25T13:29:31.000Z",
+        "oldestPublishedAt": "2026-08-24T13:17:35.000Z",
         "verificationStatus": "pending"
       },
       {
@@ -1456,12 +1578,12 @@
         "method": "rss",
         "endpointUrl": "https://news.un.org/feed/subscribe/en/news/all/rss.xml",
         "attempts": 1,
-        "durationMs": 137,
+        "durationMs": 100,
         "fallbackUsed": false,
         "rawItemCount": 18,
         "datedItemCount": 18,
-        "inEditionItemCount": 0,
-        "newestPublishedAt": "2026-08-24T12:00:00.000Z",
+        "inEditionItemCount": 1,
+        "newestPublishedAt": "2026-08-25T12:00:00.000Z",
         "oldestPublishedAt": "2026-08-20T12:00:00.000Z",
         "verificationStatus": "confirmed"
       },
@@ -1473,13 +1595,13 @@
         "method": "web",
         "endpointUrl": "https://www.mfa.gov.cn/wjdt_674879/fyrbt_674889/",
         "attempts": 1,
-        "durationMs": 1626,
+        "durationMs": 812,
         "fallbackUsed": false,
         "rawItemCount": 18,
         "datedItemCount": 18,
         "inEditionItemCount": 0,
-        "newestPublishedAt": "2026-08-23T16:00:00.000Z",
-        "oldestPublishedAt": "2026-07-27T16:00:00.000Z",
+        "newestPublishedAt": "2026-08-24T16:00:00.000Z",
+        "oldestPublishedAt": "2026-07-28T16:00:00.000Z",
         "verificationStatus": "confirmed"
       },
       {
@@ -1490,7 +1612,7 @@
         "method": "web",
         "endpointUrl": "https://www.mofcom.gov.cn/xwfb/",
         "attempts": 1,
-        "durationMs": 2937,
+        "durationMs": 2145,
         "fallbackUsed": false,
         "rawItemCount": 15,
         "datedItemCount": 15,
@@ -1507,13 +1629,13 @@
         "method": "rss",
         "endpointUrl": "https://openai.com/news/rss.xml",
         "attempts": 1,
-        "durationMs": 952,
+        "durationMs": 1805,
         "fallbackUsed": false,
         "rawItemCount": 18,
         "datedItemCount": 18,
         "inEditionItemCount": 0,
-        "newestPublishedAt": "2026-08-24T12:00:00.000Z",
-        "oldestPublishedAt": "2026-08-13T09:00:00.000Z",
+        "newestPublishedAt": "2026-08-25T00:00:00.000Z",
+        "oldestPublishedAt": "2026-08-13T10:00:00.000Z",
         "verificationStatus": "confirmed"
       },
       {
@@ -1524,7 +1646,7 @@
         "method": "rss",
         "endpointUrl": "https://deepmind.google/blog/rss.xml",
         "attempts": 1,
-        "durationMs": 249,
+        "durationMs": 1204,
         "fallbackUsed": false,
         "rawItemCount": 18,
         "datedItemCount": 18,
@@ -1541,13 +1663,13 @@
         "method": "rss",
         "endpointUrl": "https://techcrunch.com/category/artificial-intelligence/feed/",
         "attempts": 1,
-        "durationMs": 95,
+        "durationMs": 165,
         "fallbackUsed": false,
         "rawItemCount": 18,
         "datedItemCount": 18,
-        "inEditionItemCount": 1,
-        "newestPublishedAt": "2026-08-25T00:23:12.000Z",
-        "oldestPublishedAt": "2026-08-21T22:37:38.000Z",
+        "inEditionItemCount": 2,
+        "newestPublishedAt": "2026-08-25T13:00:00.000Z",
+        "oldestPublishedAt": "2026-08-22T01:31:04.000Z",
         "verificationStatus": "pending"
       },
       {
@@ -1558,7 +1680,7 @@
         "method": "rss",
         "endpointUrl": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
         "attempts": 1,
-        "durationMs": 34,
+        "durationMs": 147,
         "fallbackUsed": false,
         "rawItemCount": 10,
         "datedItemCount": 10,
@@ -1575,7 +1697,7 @@
         "method": "web",
         "endpointUrl": "https://www.moe.gov.cn/",
         "attempts": 1,
-        "durationMs": 3220,
+        "durationMs": 3089,
         "fallbackUsed": false,
         "rawItemCount": 12,
         "datedItemCount": 12,
@@ -1591,8 +1713,8 @@
         "status": "healthy",
         "method": "web",
         "endpointUrl": "https://chrm.mohrss.gov.cn/announcement/",
-        "attempts": 1,
-        "durationMs": 4109,
+        "attempts": 2,
+        "durationMs": 7461,
         "fallbackUsed": false,
         "rawItemCount": 8,
         "datedItemCount": 8,
@@ -1609,7 +1731,7 @@
         "method": "web",
         "endpointUrl": "https://www.stats.gov.cn/sj/zxfb/",
         "attempts": 1,
-        "durationMs": 5154,
+        "durationMs": 7195,
         "fallbackUsed": false,
         "rawItemCount": 13,
         "datedItemCount": 13,
@@ -1626,15 +1748,14 @@
         "method": "web",
         "endpointUrl": "https://scyxs.mofcom.gov.cn/",
         "attempts": 1,
-        "durationMs": 8283,
-        "fallbackUsed": true,
-        "rawItemCount": 1,
-        "datedItemCount": 1,
+        "durationMs": 5033,
+        "fallbackUsed": false,
+        "rawItemCount": 18,
+        "datedItemCount": 18,
         "inEditionItemCount": 0,
-        "newestPublishedAt": "2026-08-17T16:00:00.000Z",
-        "oldestPublishedAt": "2026-08-17T16:00:00.000Z",
-        "verificationStatus": "confirmed",
-        "note": "主入口失败后使用了官方备用入口。"
+        "newestPublishedAt": "2026-08-19T16:00:00.000Z",
+        "oldestPublishedAt": "2025-08-27T16:00:00.000Z",
+        "verificationStatus": "confirmed"
       },
       {
         "sourceId": "city-news-rss:%E4%B8%AD%E5%9B%BD-%E4%B8%8A%E6%B5%B7",
@@ -1644,7 +1765,7 @@
         "method": "web",
         "endpointUrl": "city-source:中国/直辖市/上海",
         "attempts": 1,
-        "durationMs": 6360,
+        "durationMs": 6224,
         "fallbackUsed": false,
         "rawItemCount": 1,
         "datedItemCount": 1,
@@ -1662,23 +1783,7 @@
         "method": "web",
         "endpointUrl": "city-source:中国/浙江/杭州",
         "attempts": 1,
-        "durationMs": 10600,
-        "fallbackUsed": false,
-        "rawItemCount": 0,
-        "datedItemCount": 0,
-        "inEditionItemCount": 0,
-        "verificationStatus": "pending",
-        "note": "城市新闻发现源；政策和风险内容仍需官方或主流来源确认。"
-      },
-      {
-        "sourceId": "city-news-rss:%E8%8B%B1%E5%9B%BD-%E4%BC%A6%E6%95%A6",
-        "sourceName": "城市新闻发现：英国·伦敦",
-        "ok": true,
-        "status": "empty",
-        "method": "web",
-        "endpointUrl": "city-source:英国/英国/伦敦",
-        "attempts": 1,
-        "durationMs": 2643,
+        "durationMs": 10652,
         "fallbackUsed": false,
         "rawItemCount": 0,
         "datedItemCount": 0,
@@ -1694,7 +1799,7 @@
         "method": "web",
         "endpointUrl": "city-source:中国/广东/深圳",
         "attempts": 1,
-        "durationMs": 3127,
+        "durationMs": 5580,
         "fallbackUsed": false,
         "rawItemCount": 0,
         "datedItemCount": 0,
@@ -1710,7 +1815,23 @@
         "method": "web",
         "endpointUrl": "city-source:中国/吉林/长春",
         "attempts": 1,
-        "durationMs": 2758,
+        "durationMs": 4212,
+        "fallbackUsed": false,
+        "rawItemCount": 0,
+        "datedItemCount": 0,
+        "inEditionItemCount": 0,
+        "verificationStatus": "pending",
+        "note": "城市新闻发现源；政策和风险内容仍需官方或主流来源确认。"
+      },
+      {
+        "sourceId": "city-news-rss:%E8%8B%B1%E5%9B%BD-%E4%BC%A6%E6%95%A6",
+        "sourceName": "城市新闻发现：英国·伦敦",
+        "ok": true,
+        "status": "empty",
+        "method": "web",
+        "endpointUrl": "city-source:英国/英国/伦敦",
+        "attempts": 1,
+        "durationMs": 4200,
         "fallbackUsed": false,
         "rawItemCount": 0,
         "datedItemCount": 0,
@@ -1726,7 +1847,7 @@
         "method": "web",
         "endpointUrl": "city-source:中国/安徽/宿州",
         "attempts": 1,
-        "durationMs": 2805,
+        "durationMs": 4199,
         "fallbackUsed": false,
         "rawItemCount": 0,
         "datedItemCount": 0,
@@ -1742,7 +1863,7 @@
         "method": "web",
         "endpointUrl": "city-source:中国/广东/汕尾",
         "attempts": 1,
-        "durationMs": 2715,
+        "durationMs": 4213,
         "fallbackUsed": false,
         "rawItemCount": 0,
         "datedItemCount": 0,
@@ -1757,68 +1878,203 @@
         "sourceName": "住房和城乡建设部",
         "method": "web",
         "attempts": 3,
-        "durationMs": 133844,
+        "durationMs": 137369,
         "fallbackUsed": false,
         "error": "https://www.mohurd.gov.cn/api-gateway/jpaas-publish-server/front/page/build/unit?parseType=bulidstatic&webId=86ca573ec4df405db627fdc2493677f3&tplSetId=fc259c381af3496d85e61997ea7771cb&pageType=column&tagId=%E6%A0%8F%E7%9B%AE-list&editType=null&pageId=919e942639b5477d96e4c97471c61d9f: TypeError: fetch failed; legacy TLS fallback: Error: Request timed out | https://www.mohurd.gov.cn/xinwen/gzdt/index.html: TypeError: fetch failed; legacy TLS fallback: Error: Request timed out | https://www.mohurd.gov.cn/: TypeError: fetch failed; legacy TLS fallback: Error: Request timed out"
       }
     ],
     "cardReviewFindings": [
       {
-        "cardId": "draft-real-france24-middle-east-rss-w987p3",
-        "cardTitle": "中东现场：油轮在阿曼附近的霍尔木兹海峡被炮弹击中",
+        "cardId": "draft-real-france24-middle-east-rss-kyo87s",
+        "cardTitle": "伊朗威胁要进行报复，因为美国的新制裁打击了已经陷入困境的经济",
         "issues": [
           "没有抓到完整正文，目前使用候选摘要回退。",
           "原文信息量有限，需要确认是否足以支持卡片结论。"
-        ]
-      },
-      {
-        "cardId": "draft-real-techcrunch-ai-rss-16po8zy",
-        "cardTitle": "情境意识，几乎崩溃的明星AI对冲基金，现在正在接受美国证券交易委员会的调查",
-        "issues": [
-          "原文篇幅较短且不是官方或主流来源，需要发布前复核。"
         ]
       }
     ]
   },
   "reviewableCards": [
     {
-      "id": "draft-real-france24-middle-east-rss-w987p3",
-      "title": "中东现场：油轮在阿曼附近的霍尔木兹海峡被炮弹击中",
+      "id": "draft-real-france24-middle-east-rss-kyo87s",
+      "title": "伊朗威胁要进行报复，因为美国的新制裁打击了已经陷入困境的经济",
       "finalLabel": "待复核",
       "finalScore": 80,
       "issues": [
         "没有抓到完整正文，目前使用候选摘要回退。",
         "原文信息量有限，需要确认是否足以支持卡片结论。"
       ]
-    },
-    {
-      "id": "draft-real-techcrunch-ai-rss-16po8zy",
-      "title": "情境意识，几乎崩溃的明星AI对冲基金，现在正在接受美国证券交易委员会的调查",
-      "finalLabel": "待复核",
-      "finalScore": 90,
-      "issues": [
-        "原文篇幅较短且不是官方或主流来源，需要发布前复核。"
-      ]
     }
   ],
   "rejectedCards": [
     {
-      "id": "draft-real-sky-world-rss-lbhcpy",
-      "title": "为什么特朗普要对他的邻居征收关税？",
+      "id": "draft-real-npr-world-rss-6hc3mv",
+      "title": "特朗普呼吁领导人孤立伊朗。此外，斯科特斯目前在邮寄投票中支持特朗普",
       "finalLabel": "暂不发布",
-      "finalScore": 30,
+      "finalScore": 40,
       "issues": [
-        "原文正文抓取失败，只能回退到候选摘要。",
-        "原文信息量有限，需要确认是否足以支持卡片结论。",
-        "标题与导读、背景和进展缺少共同事件信息，不能确认它们讲的是同一件事。"
+        "标题与抓取到的原文正文缺少共同事件信息，可能串到了另一条新闻。",
+        "英文来源尚未生成完整中文摘要，不能进入正式日报。"
       ]
     },
     {
-      "id": "draft-real-cnbc-world-rss-y17n1f",
-      "title": "特朗普表示，随着贸易战升级，美国将把加拿大汽车关税提高至50%",
+      "id": "draft-real-cnbc-world-rss-1gacfdd",
+      "title": "特朗普瞄准伊朗的贸易生命线—以下是最容易受到影响的国家",
+      "finalLabel": "暂不发布",
+      "finalScore": 40,
+      "issues": [
+        "标题与抓取到的原文正文缺少共同事件信息，可能串到了另一条新闻。",
+        "英文来源尚未生成完整中文摘要，不能进入正式日报。"
+      ]
+    },
+    {
+      "id": "draft-real-cnbc-world-rss-qkgy3c",
+      "title": "据报道，美国证券交易委员会传唤华尔街银行，反对人工智能对冲基金Situational Awareness濒临崩溃",
       "finalLabel": "暂不发布",
       "finalScore": 70,
       "issues": [
+        "英文来源尚未生成完整中文摘要，不能进入正式日报。"
+      ]
+    },
+    {
+      "id": "draft-real-npr-world-rss-52hsqr",
+      "title": "英国将通过分享机密技术信息来帮助乌克兰制造远程导弹",
+      "finalLabel": "暂不发布",
+      "finalScore": 40,
+      "issues": [
+        "标题与抓取到的原文正文缺少共同事件信息，可能串到了另一条新闻。",
+        "英文来源尚未生成完整中文摘要，不能进入正式日报。"
+      ]
+    },
+    {
+      "id": "draft-real-cnbc-world-rss-10nwam3",
+      "title": "“贬值交易”在贝森特债券策略之后回归。加密货币和黄金重新流行起来",
+      "finalLabel": "暂不发布",
+      "finalScore": 40,
+      "issues": [
+        "标题与抓取到的原文正文缺少共同事件信息，可能串到了另一条新闻。",
+        "英文来源尚未生成完整中文摘要，不能进入正式日报。"
+      ]
+    },
+    {
+      "id": "draft-real-cnbc-world-rss-qzkf6x",
+      "title": "苹果宣布推出带有AI升级的新款Mac Mini和Mac Studio机型",
+      "finalLabel": "暂不发布",
+      "finalScore": 70,
+      "issues": [
+        "英文来源尚未生成完整中文摘要，不能进入正式日报。"
+      ]
+    },
+    {
+      "id": "draft-real-cnbc-world-rss-8y6ia9",
+      "title": "OpenAI禁止俄罗斯ChatGPT帐户用于隐蔽的虚假信息宣传活动",
+      "finalLabel": "暂不发布",
+      "finalScore": 70,
+      "issues": [
+        "英文来源尚未生成完整中文摘要，不能进入正式日报。"
+      ]
+    },
+    {
+      "id": "draft-real-cnbc-world-rss-1rt3y64",
+      "title": "Dragon Ball Z主题公园获得$ 70亿绿灯",
+      "finalLabel": "暂不发布",
+      "finalScore": 70,
+      "issues": [
+        "英文来源尚未生成完整中文摘要，不能进入正式日报。"
+      ]
+    },
+    {
+      "id": "draft-real-cnbc-world-rss-18z2x3b",
+      "title": "乌克兰的目标是俄罗斯的零售巨头。臭氧是下一个经济压力点",
+      "finalLabel": "暂不发布",
+      "finalScore": 40,
+      "issues": [
+        "标题与抓取到的原文正文缺少共同事件信息，可能串到了另一条新闻。",
+        "英文来源尚未生成完整中文摘要，不能进入正式日报。"
+      ]
+    },
+    {
+      "id": "draft-real-cnbc-world-rss-1e8ihit",
+      "title": "黑莓首席执行官表示，机器人技术是其增长最快的业务之一",
+      "finalLabel": "暂不发布",
+      "finalScore": 40,
+      "issues": [
+        "标题与抓取到的原文正文缺少共同事件信息，可能串到了另一条新闻。",
+        "英文来源尚未生成完整中文摘要，不能进入正式日报。"
+      ]
+    },
+    {
+      "id": "draft-real-cnbc-world-rss-d81mtt",
+      "title": "黄金因美元疲软、国债回购计划而徘徊在近三个月高位",
+      "finalLabel": "暂不发布",
+      "finalScore": 40,
+      "issues": [
+        "标题与抓取到的原文正文缺少共同事件信息，可能串到了另一条新闻。",
+        "英文来源尚未生成完整中文摘要，不能进入正式日报。"
+      ]
+    },
+    {
+      "id": "draft-real-cnbc-world-rss-ct2b86",
+      "title": "Dick's Sporting Goods股价下跌15 ％ ，因为零售商未能达到预期，理由是“具有挑战性”的鞋类市场",
+      "finalLabel": "暂不发布",
+      "finalScore": 70,
+      "issues": [
+        "英文来源尚未生成完整中文摘要，不能进入正式日报。"
+      ]
+    },
+    {
+      "id": "draft-real-cnbc-world-rss-1rl29mn",
+      "title": "新德里在11周内收入730亿美元，由非居民印度人特别存款提供动力",
+      "finalLabel": "暂不发布",
+      "finalScore": 40,
+      "issues": [
+        "标题与抓取到的原文正文缺少共同事件信息，可能串到了另一条新闻。",
+        "英文来源尚未生成完整中文摘要，不能进入正式日报。"
+      ]
+    },
+    {
+      "id": "draft-real-cnbc-world-rss-1jjdfjt",
+      "title": "美联航的下一个决定：如何处理多年前订购的所有波音737 Max 10座椅",
+      "finalLabel": "暂不发布",
+      "finalScore": 70,
+      "issues": [
+        "英文来源尚未生成完整中文摘要，不能进入正式日报。"
+      ]
+    },
+    {
+      "id": "draft-real-cnbc-world-rss-er37l8",
+      "title": "乐高发布创纪录的上半年收入，首席执行官吹捧高端和价值定价的强劲销售",
+      "finalLabel": "暂不发布",
+      "finalScore": 70,
+      "issues": [
+        "标题与抓取到的原文正文缺少共同事件信息，可能串到了另一条新闻。"
+      ]
+    },
+    {
+      "id": "draft-real-techcrunch-ai-rss-ii0ep1",
+      "title": "Accel支持的Keenable正在为人工智能代理索引网络",
+      "finalLabel": "暂不发布",
+      "finalScore": 70,
+      "issues": [
+        "英文来源尚未生成完整中文摘要，不能进入正式日报。"
+      ]
+    },
+    {
+      "id": "draft-real-techcrunch-ai-rss-1ya92bl",
+      "title": "“世界似乎已经准备好了” ：对OpenAI产品负责人Thibault Sottiaux的采访",
+      "finalLabel": "暂不发布",
+      "finalScore": 70,
+      "issues": [
+        "英文来源尚未生成完整中文摘要，不能进入正式日报。"
+      ]
+    },
+    {
+      "id": "draft-real-un-news-rss-zmem2h",
+      "title": "联合国红十字会主席再次呼吁制定关于致命自主武器的规则",
+      "finalLabel": "暂不发布",
+      "finalScore": 40,
+      "issues": [
+        "标题与抓取到的原文正文缺少共同事件信息，可能串到了另一条新闻。",
         "英文来源尚未生成完整中文摘要，不能进入正式日报。"
       ]
     }
@@ -5743,6 +5999,505 @@
           }
         ],
         "generatedAt": "2026-08-25T04:48:52.213Z"
+      }
+    },
+    {
+      "candidate": {
+        "id": "real-npr-world-rss-ysyd80",
+        "title": "特朗普对伊朗的经济战争能做空袭和谈判做不到的事情吗？",
+        "oneLine": "国际最新进展：这条英文来源需要完整整理为中文，并优先说明发生了什么变化、与中国的关系及后续风险。",
+        "categories": [
+          "world",
+          "policy",
+          "finance",
+          "operations"
+        ],
+        "industries": [
+          "generalPublic",
+          "financeInvestment",
+          "operationsGrowth",
+          "ecommerceRetail"
+        ],
+        "regions": [
+          "全球"
+        ],
+        "locations": [
+          "美国",
+          "伊朗"
+        ],
+        "sourceIds": [
+          "npr-world-rss"
+        ],
+        "publishedAt": "2026-08-25T09:07:09.000Z",
+        "sourceLinks": [
+          {
+            "title": "NPR World RSS",
+            "url": "https://www.npr.org/2026/08/25/nx-s1-5943572/trump-iran-sanctions",
+            "sourceId": "npr-world-rss",
+            "publishedAt": "2026-08-25T09:07:09.000Z",
+            "language": "zh",
+            "originalLanguage": "en",
+            "translationStatus": "translated",
+            "fetchedAt": "2026-08-25T13:32:11.682Z",
+            "sourceMethod": "rss",
+            "verificationStatus": "confirmed"
+          }
+        ],
+        "images": [],
+        "body": {
+          "background": "国际主流媒体 RSS 用于补充全球突发、政策、贸易、能源和科技事件，不能单独替代事实确认。",
+          "keyProgress": "在与伊朗进行了近六个月的战争以及该国多年的经济压力之后，美国新一轮的制裁可能意味着什么。",
+          "whyItMatters": "重大国际变化可能通过外交、贸易、关税、能源、航运、安全或市场预期影响中国用户。",
+          "userRelevance": "这条信息已经命中中国、贸易、关税、能源或航运关联，需要进入中国用户的重点复核。",
+          "whatToWatch": "继续核对官方表态和第二个可靠来源，并关注局势变化、政策生效时间及对中国的传导路径。"
+        },
+        "impactScore": 92,
+        "severityScore": 82,
+        "freshnessScore": 95,
+        "trendScore": 72,
+        "isExample": false
+      },
+      "card": {
+        "id": "draft-real-npr-world-rss-ysyd80",
+        "title": "特朗普对伊朗的经济战争能做空袭和谈判做不到的事情吗？",
+        "oneLine": "政策变化：今年2月，当美国和以色列对伊朗发动战争时，特朗普总统发誓要迅速取得胜利。",
+        "importance": "S",
+        "credibility": "主流媒体",
+        "tags": [
+          "S",
+          "mustKnow",
+          "industry",
+          "world",
+          "policy",
+          "finance"
+        ],
+        "industries": [
+          "generalPublic",
+          "financeInvestment",
+          "operationsGrowth",
+          "ecommerceRetail"
+        ],
+        "section": "front",
+        "body": {
+          "background": "正是在这种背景下，美国 财政部长斯科特·贝森特（ Scott Bessent ）周一公布了一项针对伊朗的新制裁运动，该运动旨在“切断支撑这个专制政权的每一条经济命脉，直到德黑兰独自站立。“过去的政府，包括特朗普的第一届政府，都试图通过各种制裁运动向伊朗施加经济压力。现在，近六个月后，在原本打算结束战争的60天停火期限失败之后，美国却发现自己陷入了一场旷日持久的冲突。",
+          "keyProgress": "总部位于伦敦的Bourse & Bazaar Foundation首席执行官Esfandyar Batmanghelidj表示： “我们多年来看到的一件事是，最大的压力往往会产生伊朗方面的最大阻力。与伊朗的战争打击了全球经济，激怒了海湾盟友，耗尽了美国的军火库。它还削弱了特朗普总统追求其主要战争目标的影响力，该目标已从遏制伊朗的核野心转向政权更迭，现在旨在将霍尔木兹海峡从伊朗的控制下撬开。“贝森特警告那些继续与伊朗做生意的国家，说他们应该”期望分享一个正在萎缩的政权的孤立。",
+          "whyItMatters": "“特朗普对伊朗的经济战争能做空袭和谈判做不到的事情吗”如果继续发展，可能通过能源价格、航运、贸易、汇率或市场预期传导到国内。了解它的意义在于判断后续风险，而不只停留在事件本身。",
+          "userRelevance": "即使你不在美国、伊朗，“特朗普对伊朗的经济战争能做空袭和谈判做不到的事情吗”也可能通过能源价格、国际航运、贸易成本和市场预期间接影响国内生活与工作判断。",
+          "whatToWatch": "接下来要看“特朗普对伊朗的经济战争能做空袭和谈判做不到的事情吗”是否出现更细的城市、行业、平台或企业数据，以及这一变化能否连续保持。"
+        },
+        "sourceLinks": [
+          {
+            "title": "NPR World RSS",
+            "url": "https://www.npr.org/2026/08/25/nx-s1-5943572/trump-iran-sanctions",
+            "sourceId": "npr-world-rss",
+            "publishedAt": "2026-08-25T09:07:09.000Z",
+            "language": "zh",
+            "originalLanguage": "en",
+            "translationStatus": "translated",
+            "fetchedAt": "2026-08-25T13:32:11.682Z",
+            "sourceMethod": "rss",
+            "verificationStatus": "confirmed"
+          }
+        ],
+        "images": [
+          {
+            "url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8516x5678+0+0/resize/1100/quality/50/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F6a%2F47%2Fdba05d284318a540221bd45f9cfb%2Fap26122373189543.jpg",
+            "sourceUrl": "https://www.npr.org/2026/08/25/nx-s1-5943572/trump-iran-sanctions"
+          },
+          {
+            "url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3000x3000+0+0/resize/100/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fd0%2F3f%2F08a5041c4ceca4e96a62754dddd5%2Ff2342d2e-3f73-4259-9556-6c36eb4fc900.jpg",
+            "sourceUrl": "https://www.npr.org/2026/08/25/nx-s1-5943572/trump-iran-sanctions"
+          },
+          {
+            "url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2534x2534+628+0/resize/100/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F68%2F1c%2F23da8dcd4c6d9d50ba932deba0e5%2Fap26236622592645.jpg",
+            "sourceUrl": "https://www.npr.org/2026/08/25/nx-s1-5943572/trump-iran-sanctions"
+          },
+          {
+            "url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4650x3100+0+0/resize/1100/quality/50/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F19%2F3e%2Fdbd1265343d69c3f053d6cdbde98%2Fap26236674162695.jpg",
+            "sourceUrl": "https://www.npr.org/2026/08/25/nx-s1-5943572/trump-iran-sanctions"
+          }
+        ],
+        "generatedAt": "2026-08-25T13:32:06.449Z"
+      }
+    },
+    {
+      "candidate": {
+        "id": "real-cnbc-world-rss-1901d8n",
+        "title": "中国需要美元，但正在建立对冲华盛顿制裁的对冲",
+        "oneLine": "国际最新进展：这条英文来源需要完整整理为中文，并优先说明发生了什么变化、与中国的关系及后续风险。",
+        "categories": [
+          "world",
+          "policy",
+          "finance",
+          "operations"
+        ],
+        "industries": [
+          "generalPublic",
+          "financeInvestment",
+          "operationsGrowth",
+          "ecommerceRetail"
+        ],
+        "regions": [
+          "全球"
+        ],
+        "locations": [
+          "中国",
+          "美国",
+          "伊朗",
+          "北京"
+        ],
+        "sourceIds": [
+          "cnbc-world-rss"
+        ],
+        "publishedAt": "2026-08-25T12:42:15.000Z",
+        "sourceLinks": [
+          {
+            "title": "CNBC World News RSS",
+            "url": "https://www.cnbc.com/2026/08/25/china-iran-us-sanctions-banks-cips.html",
+            "sourceId": "cnbc-world-rss",
+            "publishedAt": "2026-08-25T12:42:15.000Z",
+            "language": "zh",
+            "originalLanguage": "en",
+            "translationStatus": "translated",
+            "fetchedAt": "2026-08-25T13:32:12.071Z",
+            "sourceMethod": "rss",
+            "verificationStatus": "pending"
+          }
+        ],
+        "images": [],
+        "body": {
+          "background": "国际主流媒体 RSS 用于补充全球突发、政策、贸易、能源和科技事件，不能单独替代事实确认。",
+          "keyProgress": "美国可以通过进入伊朗的金融体系向中国银行施加压力，而北京正在建立CIPS等替代方案。",
+          "whyItMatters": "重大国际变化可能通过外交、贸易、关税、能源、航运、安全或市场预期影响中国用户。",
+          "userRelevance": "这条信息已经命中中国、贸易、关税、能源或航运关联，需要进入中国用户的重点复核。",
+          "whatToWatch": "继续核对官方表态和第二个可靠来源，并关注局势变化、政策生效时间及对中国的传导路径。"
+        },
+        "impactScore": 86,
+        "severityScore": 58,
+        "freshnessScore": 95,
+        "trendScore": 72,
+        "isExample": false
+      },
+      "card": {
+        "id": "draft-real-cnbc-world-rss-1901d8n",
+        "title": "中国需要美元，但正在建立对冲华盛顿制裁的对冲",
+        "oneLine": "最新进展：中国需要美元，但正在建立对冲华盛顿制裁的对冲。",
+        "importance": "S",
+        "credibility": "待确认",
+        "tags": [
+          "S",
+          "mustKnow",
+          "industry",
+          "world",
+          "policy",
+          "finance"
+        ],
+        "industries": [
+          "generalPublic",
+          "financeInvestment",
+          "operationsGrowth",
+          "ecommerceRetail"
+        ],
+        "section": "front",
+        "body": {
+          "background": "北京--美国威胁要削减帮助伊朗逃避美国金融体系制裁的企业。美国财政部长斯科特·贝森特（ Scott Bessent ）周一宣布，任何帮助“代表伊朗洗钱或逃避制裁”的实体都有可能被切断与美国的联系。”这是美国总统唐纳德特朗普宣布的针对伊朗的“经济D日”的一部分。",
+          "keyProgress": "“中国多次明确表示坚决反对没有国际法依据或联合国安理会授权的非法单方面制裁，”中国外交部发言人周二在回答问题时表示。当被问及有关中国银行的具体情况时，贝森特说：“如果他们为交易提供便利，并且是将伊朗石油转化为金钱和压制的生态系统的一部分，他们将成为目标。中国周二表示将“采取一切必要措施”来保护自己。根据美中经济与安全审查委员会(U.S.-China Economic and Security Review Commission) 3月份的分析师，战前，中国购买了伊朗约90%的出口石油，约占中国原油进口总量的12% ，使其成为伊朗最大的贸易伙伴。",
+          "whyItMatters": "“中国需要美元，但正在建立对冲华盛顿制裁的对冲”如果继续发展，可能通过能源价格、航运、贸易、汇率或市场预期传导到国内。了解它的意义在于判断后续风险，而不只停留在事件本身。",
+          "userRelevance": "即使你不在中国、美国、伊朗，“中国需要美元，但正在建立对冲华盛顿制裁的对冲”也可能通过能源价格、国际航运、贸易成本和市场预期间接影响国内生活与工作判断。",
+          "whatToWatch": "接下来要看“中国需要美元，但正在建立对冲华盛顿制裁的对冲”是否出现更细的城市、行业、平台或企业数据，以及这一变化能否连续保持。"
+        },
+        "sourceLinks": [
+          {
+            "title": "CNBC World News RSS",
+            "url": "https://www.cnbc.com/2026/08/25/china-iran-us-sanctions-banks-cips.html",
+            "sourceId": "cnbc-world-rss",
+            "publishedAt": "2026-08-25T12:42:15.000Z",
+            "language": "zh",
+            "originalLanguage": "en",
+            "translationStatus": "translated",
+            "fetchedAt": "2026-08-25T13:32:12.071Z",
+            "sourceMethod": "rss",
+            "verificationStatus": "pending"
+          }
+        ],
+        "images": [
+          {
+            "url": "https://image.cnbcfm.com/api/v1/image/108353776-17876556101787655607-47974928038-1080pnbcnews.jpg?v=1787655609&amp;w=750&amp;h=422&amp;vtcrop=y",
+            "sourceUrl": "https://www.cnbc.com/2026/08/25/china-iran-us-sanctions-banks-cips.html"
+          },
+          {
+            "url": "https://image.cnbcfm.com/api/v1/image/108353675-1787634109634-1787626805-47968781364-hd.jpg?v=1787634115&amp;w=750&amp;h=422&amp;vtcrop=y",
+            "sourceUrl": "https://www.cnbc.com/2026/08/25/china-iran-us-sanctions-banks-cips.html"
+          }
+        ],
+        "generatedAt": "2026-08-25T13:32:06.449Z"
+      }
+    },
+    {
+      "candidate": {
+        "id": "real-cnbc-world-rss-bc1tfd",
+        "title": "小鹏股价下跌，因为交付预测疲软使63亿美元的机器人单位估值蒙上阴影",
+        "oneLine": "国际最新进展：这条英文来源需要完整整理为中文，并优先说明发生了什么变化、与中国的关系及后续风险。",
+        "categories": [
+          "world",
+          "policy",
+          "finance",
+          "operations"
+        ],
+        "industries": [
+          "generalPublic",
+          "financeInvestment",
+          "operationsGrowth",
+          "ecommerceRetail"
+        ],
+        "regions": [
+          "全球"
+        ],
+        "locations": [],
+        "sourceIds": [
+          "cnbc-world-rss"
+        ],
+        "publishedAt": "2026-08-25T04:49:18.000Z",
+        "sourceLinks": [
+          {
+            "title": "CNBC World News RSS",
+            "url": "https://www.cnbc.com/2026/08/25/xpeng-shares-robot-valuation-china.html",
+            "sourceId": "cnbc-world-rss",
+            "publishedAt": "2026-08-25T04:49:18.000Z",
+            "language": "zh",
+            "originalLanguage": "en",
+            "translationStatus": "translated",
+            "fetchedAt": "2026-08-25T13:32:12.071Z",
+            "sourceMethod": "rss",
+            "verificationStatus": "pending"
+          }
+        ],
+        "images": [],
+        "body": {
+          "background": "国际主流媒体 RSS 用于补充全球突发、政策、贸易、能源和科技事件，不能单独替代事实确认。",
+          "keyProgress": "小鹏股价在交付预期疲软后下跌，尽管其新兴机器人业务的估值接近其核心电动汽车业务的估值。",
+          "whyItMatters": "重大国际变化可能通过外交、贸易、关税、能源、航运、安全或市场预期影响中国用户。",
+          "userRelevance": "是否推送取决于事件影响范围、严重程度，以及它是否会影响中国或形成全球共同认知。",
+          "whatToWatch": "继续核对官方表态和第二个可靠来源，并关注局势变化、政策生效时间及对中国的传导路径。"
+        },
+        "impactScore": 72,
+        "severityScore": 45,
+        "freshnessScore": 95,
+        "trendScore": 72,
+        "isExample": false
+      },
+      "card": {
+        "id": "draft-real-cnbc-world-rss-bc1tfd",
+        "title": "小鹏股价下跌，因为交付预测疲软使63亿美元的机器人单位估值蒙上阴影",
+        "oneLine": "政策变化：在本文中，中国电动汽车制造商小鹏汽车(Xpeng)周二在香港股价下跌逾9% ，此前该公司发布了第三季度交付量低于预期的预测，尽管其机器人业务部门在一轮融资中获得了超过63亿美元的估值$。",
+        "importance": "B",
+        "credibility": "待确认",
+        "tags": [
+          "B",
+          "industry",
+          "world",
+          "policy",
+          "finance"
+        ],
+        "industries": [
+          "generalPublic",
+          "financeInvestment",
+          "operationsGrowth",
+          "ecommerceRetail"
+        ],
+        "section": "industry",
+        "body": {
+          "background": "在公司财务业绩公布后，该公司略微下调了小鹏在美国和香港上市股票的目标价。该银行将机器人融资描述为对小鹏的长期积极作用，称这家电动汽车制造商可以将其在算法、人工智能模型和芯片方面的现有优势应用于人形机器人。小鹏在美国上市的股票周一收盘下跌8.5%。",
+          "keyProgress": "该公司报告第二季度净亏损13.4亿元（ 2亿元） ，比去年同期大幅亏损，而收入增长8 ％至197.4亿元。花旗表示，交付指引未达到投资者的预期，主要是由于供应链限制扰乱了小鹏MONA L03车型的增长。小鹏首席执行官何晓鹏去年11月表示，未来10年，该公司的机器人销量将超过汽车销量。这家总部位于广州的初创公司当时透露了其第二代人形机器人，并建立了飞行器业务部门。",
+          "whyItMatters": "“小鹏股价下跌，因为交付预测疲软使63亿美元的机器人单位估值蒙上阴影”如果继续发展，可能通过能源价格、航运、贸易、汇率或市场预期传导到国内。了解它的意义在于判断后续风险，而不只停留在事件本身。",
+          "userRelevance": "即使你不在事发地区，“小鹏股价下跌，因为交付预测疲软使63亿美元的机器人单位估值蒙上阴影”也可能通过能源价格、国际航运、贸易成本和市场预期间接影响国内生活与工作判断。",
+          "whatToWatch": "接下来要看“小鹏股价下跌，因为交付预测疲软使63亿美元的机器人单位估值蒙上阴影”是否出现更细的城市、行业、平台或企业数据，以及这一变化能否连续保持。"
+        },
+        "sourceLinks": [
+          {
+            "title": "CNBC World News RSS",
+            "url": "https://www.cnbc.com/2026/08/25/xpeng-shares-robot-valuation-china.html",
+            "sourceId": "cnbc-world-rss",
+            "publishedAt": "2026-08-25T04:49:18.000Z",
+            "language": "zh",
+            "originalLanguage": "en",
+            "translationStatus": "translated",
+            "fetchedAt": "2026-08-25T13:32:12.071Z",
+            "sourceMethod": "rss",
+            "verificationStatus": "pending"
+          }
+        ],
+        "images": [],
+        "generatedAt": "2026-08-25T13:32:06.449Z"
+      }
+    },
+    {
+      "candidate": {
+        "id": "cluster-real-gdacs-feed-ctjt0c",
+        "title": "坦桑尼亚绿色森林火灾通知",
+        "oneLine": "这是一条全球灾害 / 公共风险候选，是否推送取决于事件严重程度、影响范围和用户所在地相关性。",
+        "categories": [
+          "disaster",
+          "publicSafety",
+          "world"
+        ],
+        "industries": [
+          "generalPublic",
+          "localLife"
+        ],
+        "regions": [
+          "全球"
+        ],
+        "locations": [],
+        "sourceIds": [
+          "gdacs-feed"
+        ],
+        "publishedAt": "2026-08-25T12:00:58.000Z",
+        "sourceLinks": [
+          {
+            "title": "GDACS 灾害 Feed",
+            "url": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1031054",
+            "sourceId": "gdacs-feed",
+            "publishedAt": "2026-08-25T12:00:58.000Z",
+            "language": "zh",
+            "originalLanguage": "en",
+            "translationStatus": "translated",
+            "fetchedAt": "2026-08-25T13:32:10.386Z",
+            "sourceMethod": "rss",
+            "verificationStatus": "confirmed"
+          },
+          {
+            "title": "GDACS 灾害 Feed",
+            "url": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1031095",
+            "sourceId": "gdacs-feed",
+            "publishedAt": "2026-08-25T07:01:21.000Z",
+            "language": "zh",
+            "originalLanguage": "en",
+            "translationStatus": "translated",
+            "fetchedAt": "2026-08-25T13:32:10.386Z",
+            "sourceMethod": "rss",
+            "verificationStatus": "confirmed"
+          },
+          {
+            "title": "GDACS 灾害 Feed",
+            "url": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1031096",
+            "sourceId": "gdacs-feed",
+            "publishedAt": "2026-08-25T08:09:26.000Z",
+            "language": "zh",
+            "originalLanguage": "en",
+            "translationStatus": "translated",
+            "fetchedAt": "2026-08-25T13:32:10.386Z",
+            "sourceMethod": "rss",
+            "verificationStatus": "confirmed"
+          },
+          {
+            "title": "GDACS 灾害 Feed",
+            "url": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1031100",
+            "sourceId": "gdacs-feed",
+            "publishedAt": "2026-08-25T12:05:50.000Z",
+            "language": "zh",
+            "originalLanguage": "en",
+            "translationStatus": "translated",
+            "fetchedAt": "2026-08-25T13:32:10.386Z",
+            "sourceMethod": "rss",
+            "verificationStatus": "confirmed"
+          }
+        ],
+        "images": [],
+        "body": {
+          "background": "GDACS 提供接近实时的自然灾害提醒，适合作为公共风险信息的候选来源。",
+          "keyProgress": "2026年8月24日，坦桑尼亚发生森林大火，直至2026年8月24日。",
+          "whyItMatters": "灾害信息主要服务于风险提醒。绿色级别事件通常不应制造焦虑，只有影响范围或用户相关性足够高时才进入日报。",
+          "userRelevance": "当前还没有命中用户城市，需要继续结合地区和严重程度判断。",
+          "whatToWatch": "后续应结合官方预警、当地影响和事件等级变化再决定是否推送。"
+        },
+        "impactScore": 58,
+        "severityScore": 52,
+        "freshnessScore": 95,
+        "trendScore": 24,
+        "isExample": false
+      },
+      "card": {
+        "id": "draft-cluster-real-gdacs-feed-ctjt0c",
+        "title": "坦桑尼亚绿色森林火灾通知",
+        "oneLine": "风险提醒：根据烧毁面积、受影响人口及其脆弱性，森林火灾造成的人道主义影响较小。",
+        "importance": "B",
+        "credibility": "官方来源",
+        "tags": [
+          "B",
+          "disaster",
+          "publicSafety",
+          "world"
+        ],
+        "industries": [
+          "generalPublic",
+          "localLife"
+        ],
+        "section": "industry",
+        "body": {
+          "background": "对于此事件，GDACS 提供了来自以下来源的信息链接：EC-JRC (28)、WMO (1)、INFORM (2)、JRC (1)、(1)、免责声明 - 版权 虽然我们尽力确保准确性，但此信息纯粹是指示性的，如果没有其他信息来源，不应将其用于任何决策。*（最后一次检测到火灾的热异常）查看更多新闻 美国地质调查局使用全球地震响应即时评估 (PAGER) 产品估算每次地震的伤亡人数。对于因使用本网站提供的信息而造成的任何损害或损失，JRC 不承担任何责任。",
+          "keyProgress": "地图上使用的名称和材料的呈现并不意味着欧盟对任何国家、领土或地区或其当局的法律地位，或对其边界或边界的划定表达任何意见。",
+          "whyItMatters": "“坦桑尼亚绿色森林火灾通知”的直接价值是帮助你判断是否需要调整出行、居住或工作安排。影响地区、持续时间、预警等级和官方避险建议比事件热度更重要。",
+          "userRelevance": "对于“坦桑尼亚绿色森林火灾通知”，如果你近期计划前往事发地区或与当地有工作、家人联系，需要留意后续预警；没有直接联系时，可把它作为区域风险背景了解。",
+          "whatToWatch": "接下来要看“坦桑尼亚绿色森林火灾通知”的影响范围是否扩大、预警等级是否变化，以及是否出现与你所在城市相关的提醒。"
+        },
+        "sourceLinks": [
+          {
+            "title": "GDACS 灾害 Feed",
+            "url": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1031054",
+            "sourceId": "gdacs-feed",
+            "publishedAt": "2026-08-25T12:00:58.000Z",
+            "language": "zh",
+            "originalLanguage": "en",
+            "translationStatus": "translated",
+            "fetchedAt": "2026-08-25T13:32:10.386Z",
+            "sourceMethod": "rss",
+            "verificationStatus": "confirmed"
+          },
+          {
+            "title": "GDACS 灾害 Feed",
+            "url": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1031095",
+            "sourceId": "gdacs-feed",
+            "publishedAt": "2026-08-25T07:01:21.000Z",
+            "language": "zh",
+            "originalLanguage": "en",
+            "translationStatus": "translated",
+            "fetchedAt": "2026-08-25T13:32:10.386Z",
+            "sourceMethod": "rss",
+            "verificationStatus": "confirmed"
+          },
+          {
+            "title": "GDACS 灾害 Feed",
+            "url": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1031096",
+            "sourceId": "gdacs-feed",
+            "publishedAt": "2026-08-25T08:09:26.000Z",
+            "language": "zh",
+            "originalLanguage": "en",
+            "translationStatus": "translated",
+            "fetchedAt": "2026-08-25T13:32:10.386Z",
+            "sourceMethod": "rss",
+            "verificationStatus": "confirmed"
+          },
+          {
+            "title": "GDACS 灾害 Feed",
+            "url": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1031100",
+            "sourceId": "gdacs-feed",
+            "publishedAt": "2026-08-25T12:05:50.000Z",
+            "language": "zh",
+            "originalLanguage": "en",
+            "translationStatus": "translated",
+            "fetchedAt": "2026-08-25T13:32:10.386Z",
+            "sourceMethod": "rss",
+            "verificationStatus": "confirmed"
+          }
+        ],
+        "images": [
+          {
+            "url": "https://www.gdacs.org/images/un_eu.png",
+            "sourceUrl": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1031054"
+          }
+        ],
+        "generatedAt": "2026-08-25T13:32:06.449Z"
       }
     }
   ]

@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "publishedAt": "2026-08-25T22:58:52.500Z",
+  "publishedAt": "2026-08-25T23:35:48.393Z",
   "issue": {
     "id": "daily-public-2026-08-26",
     "date": "2026-08-26",
@@ -42,13 +42,13 @@
             "language": "zh",
             "originalLanguage": "zh",
             "translationStatus": "not-needed",
-            "fetchedAt": "2026-08-25T22:58:55.898Z",
+            "fetchedAt": "2026-08-25T23:35:51.878Z",
             "sourceMethod": "web",
             "verificationStatus": "confirmed"
           }
         ],
         "images": [],
-        "generatedAt": "2026-08-25T22:58:52.500Z"
+        "generatedAt": "2026-08-25T23:35:48.393Z"
       },
       {
         "id": "draft-real-npr-world-rss-ks0eaz",
@@ -87,7 +87,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-25T22:58:58.723Z",
+            "fetchedAt": "2026-08-25T23:35:52.762Z",
             "sourceMethod": "rss",
             "verificationStatus": "confirmed"
           }
@@ -106,7 +106,7 @@
             "sourceUrl": "https://www.npr.org/2026/08/25/nx-s1-5944240/canada-us-tariffs"
           }
         ],
-        "generatedAt": "2026-08-25T22:58:52.500Z"
+        "generatedAt": "2026-08-25T23:35:48.393Z"
       },
       {
         "id": "draft-real-npr-world-rss-zcxkly",
@@ -145,7 +145,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-25T22:58:58.723Z",
+            "fetchedAt": "2026-08-25T23:35:52.762Z",
             "sourceMethod": "rss",
             "verificationStatus": "confirmed"
           }
@@ -168,7 +168,7 @@
             "sourceUrl": "https://www.npr.org/2026/08/25/nx-s1-5943572/trump-iran-sanctions"
           }
         ],
-        "generatedAt": "2026-08-25T22:58:52.500Z"
+        "generatedAt": "2026-08-25T23:35:48.393Z"
       },
       {
         "id": "draft-cluster-real-sky-world-rss-4kzlj2",
@@ -207,7 +207,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-25T22:58:58.874Z",
+            "fetchedAt": "2026-08-25T23:35:52.865Z",
             "sourceMethod": "rss",
             "verificationStatus": "pending"
           },
@@ -219,7 +219,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-25T22:58:58.916Z",
+            "fetchedAt": "2026-08-25T23:35:52.958Z",
             "sourceMethod": "rss",
             "verificationStatus": "pending"
           }
@@ -230,7 +230,7 @@
             "sourceUrl": "https://news.sky.com/story/canada-announces-retaliatory-tariffs-as-trade-war-with-us-heats-up-13577017"
           }
         ],
-        "generatedAt": "2026-08-25T22:58:52.500Z"
+        "generatedAt": "2026-08-25T23:35:48.393Z"
       },
       {
         "id": "draft-real-cnbc-world-rss-18q1rjo",
@@ -269,7 +269,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-25T22:58:58.916Z",
+            "fetchedAt": "2026-08-25T23:35:52.958Z",
             "sourceMethod": "rss",
             "verificationStatus": "pending"
           }
@@ -284,7 +284,7 @@
             "sourceUrl": "https://www.cnbc.com/2026/08/25/china-iran-us-sanctions-banks-cips.html"
           }
         ],
-        "generatedAt": "2026-08-25T22:58:52.500Z"
+        "generatedAt": "2026-08-25T23:35:48.393Z"
       },
       {
         "id": "draft-real-cnbc-world-rss-x6vkom",
@@ -323,7 +323,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-25T22:58:58.916Z",
+            "fetchedAt": "2026-08-25T23:35:52.958Z",
             "sourceMethod": "rss",
             "verificationStatus": "pending"
           }
@@ -334,10 +334,10 @@
             "sourceUrl": "https://www.cnbc.com/2026/08/25/iran-oman-strait-hormuz-oil.html"
           }
         ],
-        "generatedAt": "2026-08-25T22:58:52.500Z"
+        "generatedAt": "2026-08-25T23:35:48.393Z"
       },
       {
-        "id": "draft-real-cnbc-world-rss-alvhvs",
+        "id": "draft-real-cnbc-world-rss-avv3kr",
         "title": "美国转向对伊朗经济施压，缓解对新一轮战争的担忧，油价下跌逾3%",
         "oneLine": "最新进展：美国转向对伊朗经济施压，缓解对新一轮战争的担忧，油价下跌逾3%。",
         "importance": "S",
@@ -373,7 +373,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-25T22:58:58.916Z",
+            "fetchedAt": "2026-08-25T23:35:52.958Z",
             "sourceMethod": "rss",
             "verificationStatus": "pending"
           }
@@ -384,7 +384,7 @@
             "sourceUrl": "https://www.cnbc.com/2026/08/25/oil-prices-iran-trump-hormuz.html"
           }
         ],
-        "generatedAt": "2026-08-25T22:58:52.500Z"
+        "generatedAt": "2026-08-25T23:35:48.393Z"
       },
       {
         "id": "draft-real-npr-world-rss-71bb0t",
@@ -418,7 +418,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-25T22:58:58.723Z",
+            "fetchedAt": "2026-08-25T23:35:52.762Z",
             "sourceMethod": "rss",
             "verificationStatus": "confirmed"
           }
@@ -441,7 +441,7 @@
             "sourceUrl": "https://www.npr.org/2026/08/25/g-s1-140004/up-first-newsletter-iran-economic-war-scotus-mail-in-voting-dhs-privacy"
           }
         ],
-        "generatedAt": "2026-08-25T22:58:52.500Z"
+        "generatedAt": "2026-08-25T23:35:48.393Z"
       },
       {
         "id": "draft-real-mofcom-trade-70kl5o",
@@ -480,13 +480,13 @@
             "language": "zh",
             "originalLanguage": "zh",
             "translationStatus": "not-needed",
-            "fetchedAt": "2026-08-25T22:59:02.311Z",
+            "fetchedAt": "2026-08-25T23:35:55.271Z",
             "sourceMethod": "web",
             "verificationStatus": "confirmed"
           }
         ],
         "images": [],
-        "generatedAt": "2026-08-25T22:58:52.500Z"
+        "generatedAt": "2026-08-25T23:35:48.393Z"
       },
       {
         "id": "draft-real-gov-uk-news-1ihplfl",
@@ -526,7 +526,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-25T22:58:56.767Z",
+            "fetchedAt": "2026-08-25T23:35:52.746Z",
             "sourceMethod": "rss",
             "verificationStatus": "confirmed"
           }
@@ -537,7 +537,7 @@
             "sourceUrl": "https://www.gov.uk/government/news/updated-dbs-update-service-guidance-now-available"
           }
         ],
-        "generatedAt": "2026-08-25T22:58:52.500Z"
+        "generatedAt": "2026-08-25T23:35:48.393Z"
       },
       {
         "id": "draft-cluster-real-gov-uk-news-e8iapl",
@@ -574,7 +574,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-25T22:58:56.767Z",
+            "fetchedAt": "2026-08-25T23:35:52.746Z",
             "sourceMethod": "rss",
             "verificationStatus": "confirmed"
           },
@@ -586,7 +586,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-25T22:58:56.767Z",
+            "fetchedAt": "2026-08-25T23:35:52.746Z",
             "sourceMethod": "rss",
             "verificationStatus": "confirmed"
           },
@@ -598,7 +598,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-25T22:58:56.767Z",
+            "fetchedAt": "2026-08-25T23:35:52.746Z",
             "sourceMethod": "rss",
             "verificationStatus": "confirmed"
           }
@@ -609,7 +609,7 @@
             "sourceUrl": "https://www.gov.uk/government/speeches/an-end-to-the-suffering-in-sudan-will-only-come-through-an-humanitarian-truce-a-permanent-ceasefire-and-an-inclusive-civilian-led-political-process-uk"
           }
         ],
-        "generatedAt": "2026-08-25T22:58:52.500Z"
+        "generatedAt": "2026-08-25T23:35:48.393Z"
       },
       {
         "id": "draft-cluster-real-openai-news-1ns995l",
@@ -648,7 +648,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-25T22:59:02.090Z",
+            "fetchedAt": "2026-08-25T23:35:54.616Z",
             "sourceMethod": "rss",
             "verificationStatus": "confirmed"
           },
@@ -660,7 +660,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-25T22:59:02.113Z",
+            "fetchedAt": "2026-08-25T23:35:54.673Z",
             "sourceMethod": "rss",
             "verificationStatus": "pending"
           },
@@ -672,13 +672,13 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-25T22:59:02.218Z",
+            "fetchedAt": "2026-08-25T23:35:54.720Z",
             "sourceMethod": "rss",
             "verificationStatus": "pending"
           }
         ],
         "images": [],
-        "generatedAt": "2026-08-25T22:58:52.500Z"
+        "generatedAt": "2026-08-25T23:35:48.393Z"
       },
       {
         "id": "draft-real-xinhua-tech-1ye5zbf",
@@ -718,7 +718,7 @@
             "language": "zh",
             "originalLanguage": "zh",
             "translationStatus": "not-needed",
-            "fetchedAt": "2026-08-25T22:58:55.795Z",
+            "fetchedAt": "2026-08-25T23:35:52.108Z",
             "sourceMethod": "web",
             "verificationStatus": "confirmed"
           }
@@ -729,7 +729,7 @@
             "sourceUrl": "https://www.news.cn/tech/20260825/ae394483517640f59eb35598547b2bd2/c.html"
           }
         ],
-        "generatedAt": "2026-08-25T22:58:52.500Z"
+        "generatedAt": "2026-08-25T23:35:48.393Z"
       },
       {
         "id": "draft-real-xinhua-tech-ecslpn",
@@ -769,7 +769,7 @@
             "language": "zh",
             "originalLanguage": "zh",
             "translationStatus": "not-needed",
-            "fetchedAt": "2026-08-25T22:58:55.795Z",
+            "fetchedAt": "2026-08-25T23:35:52.108Z",
             "sourceMethod": "web",
             "verificationStatus": "confirmed"
           }
@@ -780,7 +780,7 @@
             "sourceUrl": "https://www.news.cn/tech/20260825/b11405bc5fcf4a8592aa83556609be50/c.html"
           }
         ],
-        "generatedAt": "2026-08-25T22:58:52.500Z"
+        "generatedAt": "2026-08-25T23:35:48.393Z"
       },
       {
         "id": "draft-real-techcrunch-ai-rss-10qh9su",
@@ -819,13 +819,13 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-25T22:59:02.113Z",
+            "fetchedAt": "2026-08-25T23:35:54.673Z",
             "sourceMethod": "rss",
             "verificationStatus": "pending"
           }
         ],
         "images": [],
-        "generatedAt": "2026-08-25T22:58:52.500Z"
+        "generatedAt": "2026-08-25T23:35:48.393Z"
       },
       {
         "id": "draft-real-techcrunch-ai-rss-1vvmm33",
@@ -864,7 +864,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-25T22:59:02.113Z",
+            "fetchedAt": "2026-08-25T23:35:54.673Z",
             "sourceMethod": "rss",
             "verificationStatus": "pending"
           }
@@ -879,7 +879,64 @@
             "sourceUrl": "https://techcrunch.com/2026/08/25/claude-cowork-finally-remembers-what-you-told-the-app-in-chat/"
           }
         ],
-        "generatedAt": "2026-08-25T22:58:52.500Z"
+        "generatedAt": "2026-08-25T23:35:48.393Z"
+      },
+      {
+        "id": "draft-cluster-real-techcrunch-ai-rss-1aqbcqh",
+        "title": "Gamma 收购 Accel 支持的设计初创公司 Lica",
+        "oneLine": "趋势信号：TechCrunch 独家获悉，演示初创公司 Gamma 已收购 Accel 支持的设计初创公司 Lica，以建立自己的设计研究实验室。",
+        "importance": "B",
+        "credibility": "待确认",
+        "tags": [
+          "B",
+          "industry",
+          "ai",
+          "technology",
+          "product"
+        ],
+        "industries": [
+          "aiProduct",
+          "aiTechnology",
+          "productManagement",
+          "technologyEngineering",
+          "educationResearch"
+        ],
+        "section": "ai",
+        "body": {
+          "background": "Lica 的 Mehta 表示，新的研究部门将致力于为不同受众和品味定制人工智能模型的呈现和沟通风格。Lica 的联合创始人将领导这项工作。Lica 最初是一款可以将屏幕截图和录音转换为项目演示和视频的应用程序。",
+          "keyProgress": "Kalyanaraman 表示，Lica 希望围绕视频和设计等通信方法构建人工智能模型，而且创始人与 Gamma 的首席执行官 Grant Lee 很熟悉，因为两家公司都得到了 Accel 和 South Park Commons 的支持。这些[问题]都要求我们深入思考沟通的核心责任。我们正在考虑建立一个平台，在这个平台上，这两个目标可以个性化到这样的程度，即您可以获得非常好的输出，然后您可以编辑该公司由 Priyaa Kalyanaraman 和 Purvanshi Mehta 于 2023 年创立，一年后从 Accel、South Park Commons 和 Village Global 等投资者那里筹集了 400 万美元。",
+          "whyItMatters": "“Gamma 收购 Accel 支持的设计初创公司 Lica”能帮助你判断这项能力是否已经进入工程、产品或商业场景，并据此调整技术选型、产品规划、学习重点或职业判断。",
+          "userRelevance": "如果你从事AI 产品、AI 技术、产品管理、技术研发，可以重点判断“Gamma 收购 Accel 支持的设计初创公司 Lica”是否已经具备产品落地、技术选型或业务合作价值。",
+          "whatToWatch": "接下来要看“Gamma 收购 Accel 支持的设计初创公司 Lica”是否有更多可靠来源、量产或应用进展，以及它会不会从单点消息发展成持续趋势。"
+        },
+        "sourceLinks": [
+          {
+            "title": "TechCrunch AI RSS",
+            "url": "https://techcrunch.com/2026/08/25/gamma-acquires-accel-backed-design-startup-lica/",
+            "sourceId": "techcrunch-ai-rss",
+            "publishedAt": "2026-08-25T15:00:00.000Z",
+            "language": "zh",
+            "originalLanguage": "en",
+            "translationStatus": "translated",
+            "fetchedAt": "2026-08-25T23:35:54.673Z",
+            "sourceMethod": "rss",
+            "verificationStatus": "pending"
+          },
+          {
+            "title": "TechCrunch AI RSS",
+            "url": "https://techcrunch.com/2026/08/25/accel-backed-keenable-is-indexing-the-web-for-ai-agents/",
+            "sourceId": "techcrunch-ai-rss",
+            "publishedAt": "2026-08-25T13:00:00.000Z",
+            "language": "zh",
+            "originalLanguage": "en",
+            "translationStatus": "translated",
+            "fetchedAt": "2026-08-25T23:35:54.673Z",
+            "sourceMethod": "rss",
+            "verificationStatus": "pending"
+          }
+        ],
+        "images": [],
+        "generatedAt": "2026-08-25T23:35:48.393Z"
       },
       {
         "id": "draft-real-cnbc-world-rss-5w9xhg",
@@ -917,7 +974,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-25T22:58:58.916Z",
+            "fetchedAt": "2026-08-25T23:35:52.958Z",
             "sourceMethod": "rss",
             "verificationStatus": "pending"
           }
@@ -928,13 +985,13 @@
             "sourceUrl": "https://www.cnbc.com/2026/08/25/openais-head-of-data-centers-chris-malone-is-out-in-latest-exec-exit.html"
           }
         ],
-        "generatedAt": "2026-08-25T22:58:52.500Z"
+        "generatedAt": "2026-08-25T23:35:48.393Z"
       }
     ],
-    "estimatedReadMinutes": 28,
+    "estimatedReadMinutes": 30,
     "pageCount": 3,
     "topCardId": "draft-real-xinhua-world-wdi7k4",
-    "generatedAt": "2026-08-25T22:58:52.500Z",
+    "generatedAt": "2026-08-25T23:35:48.393Z",
     "pushSlots": [
       "08:30",
       "12:30",
@@ -953,7 +1010,7 @@
       "draft-cluster-real-sky-world-rss-4kzlj2",
       "draft-real-cnbc-world-rss-18q1rjo",
       "draft-real-cnbc-world-rss-x6vkom",
-      "draft-real-cnbc-world-rss-alvhvs",
+      "draft-real-cnbc-world-rss-avv3kr",
       "draft-real-npr-world-rss-71bb0t",
       "draft-real-mofcom-trade-70kl5o",
       "draft-real-gov-uk-news-1ihplfl",
@@ -963,6 +1020,7 @@
       "draft-real-xinhua-tech-ecslpn",
       "draft-real-techcrunch-ai-rss-10qh9su",
       "draft-real-techcrunch-ai-rss-1vvmm33",
+      "draft-cluster-real-techcrunch-ai-rss-1aqbcqh",
       "draft-real-cnbc-world-rss-5w9xhg"
     ],
     "carriedCardIds": []

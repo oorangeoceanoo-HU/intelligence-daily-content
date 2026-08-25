@@ -40,13 +40,13 @@
             "language": "zh",
             "originalLanguage": "zh",
             "translationStatus": "not-needed",
-            "fetchedAt": "2026-08-25T22:58:55.898Z",
+            "fetchedAt": "2026-08-25T23:35:51.878Z",
             "sourceMethod": "web",
             "verificationStatus": "confirmed"
           }
         ],
         "images": [],
-        "generatedAt": "2026-08-25T22:58:52.500Z"
+        "generatedAt": "2026-08-25T23:35:48.393Z"
       },
       {
         "id": "draft-real-npr-world-rss-ks0eaz",
@@ -85,7 +85,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-25T22:58:58.723Z",
+            "fetchedAt": "2026-08-25T23:35:52.762Z",
             "sourceMethod": "rss",
             "verificationStatus": "confirmed"
           }
@@ -104,7 +104,7 @@
             "sourceUrl": "https://www.npr.org/2026/08/25/nx-s1-5944240/canada-us-tariffs"
           }
         ],
-        "generatedAt": "2026-08-25T22:58:52.500Z"
+        "generatedAt": "2026-08-25T23:35:48.393Z"
       },
       {
         "id": "draft-real-npr-world-rss-zcxkly",
@@ -143,7 +143,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-25T22:58:58.723Z",
+            "fetchedAt": "2026-08-25T23:35:52.762Z",
             "sourceMethod": "rss",
             "verificationStatus": "confirmed"
           }
@@ -166,7 +166,7 @@
             "sourceUrl": "https://www.npr.org/2026/08/25/nx-s1-5943572/trump-iran-sanctions"
           }
         ],
-        "generatedAt": "2026-08-25T22:58:52.500Z"
+        "generatedAt": "2026-08-25T23:35:48.393Z"
       },
       {
         "id": "draft-cluster-real-sky-world-rss-4kzlj2",
@@ -205,7 +205,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-25T22:58:58.874Z",
+            "fetchedAt": "2026-08-25T23:35:52.865Z",
             "sourceMethod": "rss",
             "verificationStatus": "pending"
           },
@@ -217,7 +217,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-25T22:58:58.916Z",
+            "fetchedAt": "2026-08-25T23:35:52.958Z",
             "sourceMethod": "rss",
             "verificationStatus": "pending"
           }
@@ -228,7 +228,7 @@
             "sourceUrl": "https://news.sky.com/story/canada-announces-retaliatory-tariffs-as-trade-war-with-us-heats-up-13577017"
           }
         ],
-        "generatedAt": "2026-08-25T22:58:52.500Z"
+        "generatedAt": "2026-08-25T23:35:48.393Z"
       },
       {
         "id": "draft-real-cnbc-world-rss-18q1rjo",
@@ -267,7 +267,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-25T22:58:58.916Z",
+            "fetchedAt": "2026-08-25T23:35:52.958Z",
             "sourceMethod": "rss",
             "verificationStatus": "pending"
           }
@@ -282,7 +282,7 @@
             "sourceUrl": "https://www.cnbc.com/2026/08/25/china-iran-us-sanctions-banks-cips.html"
           }
         ],
-        "generatedAt": "2026-08-25T22:58:52.500Z"
+        "generatedAt": "2026-08-25T23:35:48.393Z"
       },
       {
         "id": "draft-real-cnbc-world-rss-x6vkom",
@@ -321,7 +321,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-25T22:58:58.916Z",
+            "fetchedAt": "2026-08-25T23:35:52.958Z",
             "sourceMethod": "rss",
             "verificationStatus": "pending"
           }
@@ -332,10 +332,10 @@
             "sourceUrl": "https://www.cnbc.com/2026/08/25/iran-oman-strait-hormuz-oil.html"
           }
         ],
-        "generatedAt": "2026-08-25T22:58:52.500Z"
+        "generatedAt": "2026-08-25T23:35:48.393Z"
       },
       {
-        "id": "draft-real-cnbc-world-rss-alvhvs",
+        "id": "draft-real-cnbc-world-rss-avv3kr",
         "title": "美国转向对伊朗经济施压，缓解对新一轮战争的担忧，油价下跌逾3%",
         "oneLine": "最新进展：美国转向对伊朗经济施压，缓解对新一轮战争的担忧，油价下跌逾3%。",
         "importance": "S",
@@ -371,7 +371,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-25T22:58:58.916Z",
+            "fetchedAt": "2026-08-25T23:35:52.958Z",
             "sourceMethod": "rss",
             "verificationStatus": "pending"
           }
@@ -382,7 +382,7 @@
             "sourceUrl": "https://www.cnbc.com/2026/08/25/oil-prices-iran-trump-hormuz.html"
           }
         ],
-        "generatedAt": "2026-08-25T22:58:52.500Z"
+        "generatedAt": "2026-08-25T23:35:48.393Z"
       },
       {
         "id": "draft-real-npr-world-rss-71bb0t",
@@ -416,7 +416,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-25T22:58:58.723Z",
+            "fetchedAt": "2026-08-25T23:35:52.762Z",
             "sourceMethod": "rss",
             "verificationStatus": "confirmed"
           }
@@ -439,7 +439,7 @@
             "sourceUrl": "https://www.npr.org/2026/08/25/g-s1-140004/up-first-newsletter-iran-economic-war-scotus-mail-in-voting-dhs-privacy"
           }
         ],
-        "generatedAt": "2026-08-25T22:58:52.500Z"
+        "generatedAt": "2026-08-25T23:35:48.393Z"
       },
       {
         "id": "draft-real-mofcom-trade-70kl5o",
@@ -478,13 +478,13 @@
             "language": "zh",
             "originalLanguage": "zh",
             "translationStatus": "not-needed",
-            "fetchedAt": "2026-08-25T22:59:02.311Z",
+            "fetchedAt": "2026-08-25T23:35:55.271Z",
             "sourceMethod": "web",
             "verificationStatus": "confirmed"
           }
         ],
         "images": [],
-        "generatedAt": "2026-08-25T22:58:52.500Z"
+        "generatedAt": "2026-08-25T23:35:48.393Z"
       },
       {
         "id": "draft-real-gov-uk-news-1ihplfl",
@@ -524,7 +524,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-25T22:58:56.767Z",
+            "fetchedAt": "2026-08-25T23:35:52.746Z",
             "sourceMethod": "rss",
             "verificationStatus": "confirmed"
           }
@@ -535,7 +535,7 @@
             "sourceUrl": "https://www.gov.uk/government/news/updated-dbs-update-service-guidance-now-available"
           }
         ],
-        "generatedAt": "2026-08-25T22:58:52.500Z"
+        "generatedAt": "2026-08-25T23:35:48.393Z"
       },
       {
         "id": "draft-cluster-real-gov-uk-news-e8iapl",
@@ -572,7 +572,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-25T22:58:56.767Z",
+            "fetchedAt": "2026-08-25T23:35:52.746Z",
             "sourceMethod": "rss",
             "verificationStatus": "confirmed"
           },
@@ -584,7 +584,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-25T22:58:56.767Z",
+            "fetchedAt": "2026-08-25T23:35:52.746Z",
             "sourceMethod": "rss",
             "verificationStatus": "confirmed"
           },
@@ -596,7 +596,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-25T22:58:56.767Z",
+            "fetchedAt": "2026-08-25T23:35:52.746Z",
             "sourceMethod": "rss",
             "verificationStatus": "confirmed"
           }
@@ -607,7 +607,7 @@
             "sourceUrl": "https://www.gov.uk/government/speeches/an-end-to-the-suffering-in-sudan-will-only-come-through-an-humanitarian-truce-a-permanent-ceasefire-and-an-inclusive-civilian-led-political-process-uk"
           }
         ],
-        "generatedAt": "2026-08-25T22:58:52.500Z"
+        "generatedAt": "2026-08-25T23:35:48.393Z"
       },
       {
         "id": "draft-cluster-real-openai-news-1ns995l",
@@ -646,7 +646,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-25T22:59:02.090Z",
+            "fetchedAt": "2026-08-25T23:35:54.616Z",
             "sourceMethod": "rss",
             "verificationStatus": "confirmed"
           },
@@ -658,7 +658,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-25T22:59:02.113Z",
+            "fetchedAt": "2026-08-25T23:35:54.673Z",
             "sourceMethod": "rss",
             "verificationStatus": "pending"
           },
@@ -670,13 +670,13 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-25T22:59:02.218Z",
+            "fetchedAt": "2026-08-25T23:35:54.720Z",
             "sourceMethod": "rss",
             "verificationStatus": "pending"
           }
         ],
         "images": [],
-        "generatedAt": "2026-08-25T22:58:52.500Z"
+        "generatedAt": "2026-08-25T23:35:48.393Z"
       },
       {
         "id": "draft-real-xinhua-tech-1ye5zbf",
@@ -716,7 +716,7 @@
             "language": "zh",
             "originalLanguage": "zh",
             "translationStatus": "not-needed",
-            "fetchedAt": "2026-08-25T22:58:55.795Z",
+            "fetchedAt": "2026-08-25T23:35:52.108Z",
             "sourceMethod": "web",
             "verificationStatus": "confirmed"
           }
@@ -727,7 +727,7 @@
             "sourceUrl": "https://www.news.cn/tech/20260825/ae394483517640f59eb35598547b2bd2/c.html"
           }
         ],
-        "generatedAt": "2026-08-25T22:58:52.500Z"
+        "generatedAt": "2026-08-25T23:35:48.393Z"
       },
       {
         "id": "draft-real-xinhua-tech-ecslpn",
@@ -767,7 +767,7 @@
             "language": "zh",
             "originalLanguage": "zh",
             "translationStatus": "not-needed",
-            "fetchedAt": "2026-08-25T22:58:55.795Z",
+            "fetchedAt": "2026-08-25T23:35:52.108Z",
             "sourceMethod": "web",
             "verificationStatus": "confirmed"
           }
@@ -778,7 +778,7 @@
             "sourceUrl": "https://www.news.cn/tech/20260825/b11405bc5fcf4a8592aa83556609be50/c.html"
           }
         ],
-        "generatedAt": "2026-08-25T22:58:52.500Z"
+        "generatedAt": "2026-08-25T23:35:48.393Z"
       },
       {
         "id": "draft-real-techcrunch-ai-rss-10qh9su",
@@ -817,13 +817,13 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-25T22:59:02.113Z",
+            "fetchedAt": "2026-08-25T23:35:54.673Z",
             "sourceMethod": "rss",
             "verificationStatus": "pending"
           }
         ],
         "images": [],
-        "generatedAt": "2026-08-25T22:58:52.500Z"
+        "generatedAt": "2026-08-25T23:35:48.393Z"
       },
       {
         "id": "draft-real-techcrunch-ai-rss-1vvmm33",
@@ -862,7 +862,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-25T22:59:02.113Z",
+            "fetchedAt": "2026-08-25T23:35:54.673Z",
             "sourceMethod": "rss",
             "verificationStatus": "pending"
           }
@@ -877,7 +877,64 @@
             "sourceUrl": "https://techcrunch.com/2026/08/25/claude-cowork-finally-remembers-what-you-told-the-app-in-chat/"
           }
         ],
-        "generatedAt": "2026-08-25T22:58:52.500Z"
+        "generatedAt": "2026-08-25T23:35:48.393Z"
+      },
+      {
+        "id": "draft-cluster-real-techcrunch-ai-rss-1aqbcqh",
+        "title": "Gamma 收购 Accel 支持的设计初创公司 Lica",
+        "oneLine": "趋势信号：TechCrunch 独家获悉，演示初创公司 Gamma 已收购 Accel 支持的设计初创公司 Lica，以建立自己的设计研究实验室。",
+        "importance": "B",
+        "credibility": "待确认",
+        "tags": [
+          "B",
+          "industry",
+          "ai",
+          "technology",
+          "product"
+        ],
+        "industries": [
+          "aiProduct",
+          "aiTechnology",
+          "productManagement",
+          "technologyEngineering",
+          "educationResearch"
+        ],
+        "section": "ai",
+        "body": {
+          "background": "Lica 的 Mehta 表示，新的研究部门将致力于为不同受众和品味定制人工智能模型的呈现和沟通风格。Lica 的联合创始人将领导这项工作。Lica 最初是一款可以将屏幕截图和录音转换为项目演示和视频的应用程序。",
+          "keyProgress": "Kalyanaraman 表示，Lica 希望围绕视频和设计等通信方法构建人工智能模型，而且创始人与 Gamma 的首席执行官 Grant Lee 很熟悉，因为两家公司都得到了 Accel 和 South Park Commons 的支持。这些[问题]都要求我们深入思考沟通的核心责任。我们正在考虑建立一个平台，在这个平台上，这两个目标可以个性化到这样的程度，即您可以获得非常好的输出，然后您可以编辑该公司由 Priyaa Kalyanaraman 和 Purvanshi Mehta 于 2023 年创立，一年后从 Accel、South Park Commons 和 Village Global 等投资者那里筹集了 400 万美元。",
+          "whyItMatters": "“Gamma 收购 Accel 支持的设计初创公司 Lica”能帮助你判断这项能力是否已经进入工程、产品或商业场景，并据此调整技术选型、产品规划、学习重点或职业判断。",
+          "userRelevance": "如果你从事AI 产品、AI 技术、产品管理、技术研发，可以重点判断“Gamma 收购 Accel 支持的设计初创公司 Lica”是否已经具备产品落地、技术选型或业务合作价值。",
+          "whatToWatch": "接下来要看“Gamma 收购 Accel 支持的设计初创公司 Lica”是否有更多可靠来源、量产或应用进展，以及它会不会从单点消息发展成持续趋势。"
+        },
+        "sourceLinks": [
+          {
+            "title": "TechCrunch AI RSS",
+            "url": "https://techcrunch.com/2026/08/25/gamma-acquires-accel-backed-design-startup-lica/",
+            "sourceId": "techcrunch-ai-rss",
+            "publishedAt": "2026-08-25T15:00:00.000Z",
+            "language": "zh",
+            "originalLanguage": "en",
+            "translationStatus": "translated",
+            "fetchedAt": "2026-08-25T23:35:54.673Z",
+            "sourceMethod": "rss",
+            "verificationStatus": "pending"
+          },
+          {
+            "title": "TechCrunch AI RSS",
+            "url": "https://techcrunch.com/2026/08/25/accel-backed-keenable-is-indexing-the-web-for-ai-agents/",
+            "sourceId": "techcrunch-ai-rss",
+            "publishedAt": "2026-08-25T13:00:00.000Z",
+            "language": "zh",
+            "originalLanguage": "en",
+            "translationStatus": "translated",
+            "fetchedAt": "2026-08-25T23:35:54.673Z",
+            "sourceMethod": "rss",
+            "verificationStatus": "pending"
+          }
+        ],
+        "images": [],
+        "generatedAt": "2026-08-25T23:35:48.393Z"
       },
       {
         "id": "draft-real-cnbc-world-rss-5w9xhg",
@@ -915,7 +972,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-25T22:58:58.916Z",
+            "fetchedAt": "2026-08-25T23:35:52.958Z",
             "sourceMethod": "rss",
             "verificationStatus": "pending"
           }
@@ -926,13 +983,13 @@
             "sourceUrl": "https://www.cnbc.com/2026/08/25/openais-head-of-data-centers-chris-malone-is-out-in-latest-exec-exit.html"
           }
         ],
-        "generatedAt": "2026-08-25T22:58:52.500Z"
+        "generatedAt": "2026-08-25T23:35:48.393Z"
       }
     ],
-    "estimatedReadMinutes": 28,
+    "estimatedReadMinutes": 30,
     "pageCount": 3,
     "topCardId": "draft-real-xinhua-world-wdi7k4",
-    "generatedAt": "2026-08-25T22:58:52.500Z",
+    "generatedAt": "2026-08-25T23:35:48.393Z",
     "pushSlots": [
       "08:30",
       "12:30",
@@ -951,7 +1008,7 @@
       "draft-cluster-real-sky-world-rss-4kzlj2",
       "draft-real-cnbc-world-rss-18q1rjo",
       "draft-real-cnbc-world-rss-x6vkom",
-      "draft-real-cnbc-world-rss-alvhvs",
+      "draft-real-cnbc-world-rss-avv3kr",
       "draft-real-npr-world-rss-71bb0t",
       "draft-real-mofcom-trade-70kl5o",
       "draft-real-gov-uk-news-1ihplfl",
@@ -961,6 +1018,7 @@
       "draft-real-xinhua-tech-ecslpn",
       "draft-real-techcrunch-ai-rss-10qh9su",
       "draft-real-techcrunch-ai-rss-1vvmm33",
+      "draft-cluster-real-techcrunch-ai-rss-1aqbcqh",
       "draft-real-cnbc-world-rss-5w9xhg"
     ],
     "carriedCardIds": []
@@ -968,13 +1026,13 @@
   "meta": {
     "profileName": "多职业公共版",
     "cohortLocationCount": 7,
-    "generatedAt": "2026-08-25T22:58:52.500Z",
+    "generatedAt": "2026-08-25T23:35:48.393Z",
     "edition": "morning",
     "sourceCoverage": {
       "ready": true,
       "sourceAvailabilityReady": true,
       "currentCoverageReady": true,
-      "generatedAt": "2026-08-25T23:01:21.709Z",
+      "generatedAt": "2026-08-25T23:38:15.403Z",
       "totalSources": 33,
       "successfulSources": 32,
       "sourcesWithItems": 26,
@@ -1010,7 +1068,7 @@
             "cnbc-world-rss",
             "un-news-rss"
           ],
-          "currentItemCount": 51,
+          "currentItemCount": 50,
           "note": "至少两个国际来源有内容，避免把单一媒体首页当成全球事件全集。"
         },
         {
@@ -1042,7 +1100,7 @@
             "france24-asia-pacific-rss",
             "cnbc-world-rss"
           ],
-          "currentItemCount": 36,
+          "currentItemCount": 35,
           "note": "同时观察中国官方入口和国际商业新闻，覆盖关税、外贸、能源、航运与外交影响。"
         },
         {
@@ -1192,14 +1250,14 @@
       "mofcom"
     ],
     "fetchedRawItemCount": 366,
-    "rawItemCount": 103,
-    "rawCandidateCount": 102,
-    "dedupedCandidateCount": 88,
-    "recentCandidateCount": 88,
-    "freshCandidateCount": 88,
+    "rawItemCount": 102,
+    "rawCandidateCount": 101,
+    "dedupedCandidateCount": 87,
+    "recentCandidateCount": 87,
+    "freshCandidateCount": 87,
     "translation": {
-      "requested": 87,
-      "translated": 87,
+      "requested": 86,
+      "translated": 86,
       "failed": 0,
       "skipped": 16,
       "provider": "google-free",
@@ -1207,20 +1265,20 @@
     },
     "selectedCandidateCount": 54,
     "publishableCardCount": 33,
-    "personalizationPoolCardCount": 54,
+    "personalizationPoolCardCount": 53,
     "reviewableCardCount": 13,
     "rejectedCardCount": 8,
-    "skippedPublishableCardCount": 16,
+    "skippedPublishableCardCount": 15,
     "stats": {
       "inputCardCount": 33,
-      "selectedCardCount": 17,
-      "skippedCardCount": 16,
+      "selectedCardCount": 18,
+      "skippedCardCount": 15,
       "sizing": {
         "minimumCards": 15,
         "comfortableMaxCards": 20,
         "absoluteMaxCards": 24,
         "minimumBandCount": 15,
-        "standardBandCount": 2,
+        "standardBandCount": 3,
         "exceptionalBandCount": 0
       },
       "sectionCounts": {
@@ -1229,7 +1287,7 @@
         "china": 0,
         "local": 0,
         "industry": 2,
-        "ai": 5,
+        "ai": 6,
         "product": 0,
         "risk": 2,
         "friends": 0,
@@ -1238,15 +1296,15 @@
       "importanceCounts": {
         "S": 9,
         "A": 1,
-        "B": 7,
+        "B": 8,
         "C": 0
       }
     },
     "editionMerge": {
       "required": false,
       "baseFound": false,
-      "incrementalCardCount": 17,
-      "addedCardCount": 17,
+      "incrementalCardCount": 18,
+      "addedCardCount": 18,
       "carriedCardCount": 0,
       "replacedCardCount": 0
     },
@@ -1259,7 +1317,7 @@
         "method": "api",
         "endpointUrl": "https://export.arxiv.org/api/query",
         "attempts": 1,
-        "durationMs": 464,
+        "durationMs": 287,
         "fallbackUsed": false,
         "rawItemCount": 18,
         "datedItemCount": 18,
@@ -1276,7 +1334,7 @@
         "method": "web",
         "endpointUrl": "https://www.cas.cn/syky/",
         "attempts": 1,
-        "durationMs": 1550,
+        "durationMs": 1532,
         "fallbackUsed": false,
         "rawItemCount": 18,
         "datedItemCount": 18,
@@ -1293,7 +1351,7 @@
         "method": "web",
         "endpointUrl": "https://www.mohurd.gov.cn/xinwen/gzdt/index.html",
         "attempts": 3,
-        "durationMs": 137342,
+        "durationMs": 135104,
         "fallbackUsed": false,
         "rawItemCount": 0,
         "datedItemCount": 0,
@@ -1309,12 +1367,12 @@
         "method": "rss",
         "endpointUrl": "https://www.gdacs.org/xml/rss.xml",
         "attempts": 1,
-        "durationMs": 2158,
+        "durationMs": 2563,
         "fallbackUsed": false,
         "rawItemCount": 18,
         "datedItemCount": 18,
         "inEditionItemCount": 12,
-        "newestPublishedAt": "2026-08-25T19:03:23.000Z",
+        "newestPublishedAt": "2026-08-25T23:02:51.000Z",
         "oldestPublishedAt": "2026-08-23T14:05:47.000Z",
         "verificationStatus": "confirmed"
       },
@@ -1326,7 +1384,7 @@
         "method": "web",
         "endpointUrl": "https://www.gov.cn/zhengce/zuixin/",
         "attempts": 1,
-        "durationMs": 992,
+        "durationMs": 1183,
         "fallbackUsed": false,
         "rawItemCount": 18,
         "datedItemCount": 18,
@@ -1343,7 +1401,7 @@
         "method": "web",
         "endpointUrl": "https://www.mem.gov.cn/xw/yjglbgzdt/",
         "attempts": 1,
-        "durationMs": 499,
+        "durationMs": 1011,
         "fallbackUsed": false,
         "rawItemCount": 18,
         "datedItemCount": 18,
@@ -1360,14 +1418,15 @@
         "method": "web",
         "endpointUrl": "https://www.cac.gov.cn/index.htm",
         "attempts": 1,
-        "durationMs": 1718,
-        "fallbackUsed": false,
+        "durationMs": 3882,
+        "fallbackUsed": true,
         "rawItemCount": 2,
         "datedItemCount": 2,
         "inEditionItemCount": 0,
         "newestPublishedAt": "2026-07-28T16:00:00.000Z",
         "oldestPublishedAt": "2026-07-02T16:00:00.000Z",
-        "verificationStatus": "confirmed"
+        "verificationStatus": "confirmed",
+        "note": "主入口失败后使用了官方备用入口。"
       },
       {
         "sourceId": "xinhua-world",
@@ -1377,7 +1436,7 @@
         "method": "web",
         "endpointUrl": "https://www.news.cn/world/index.html",
         "attempts": 1,
-        "durationMs": 1445,
+        "durationMs": 1011,
         "fallbackUsed": false,
         "rawItemCount": 18,
         "datedItemCount": 18,
@@ -1394,7 +1453,7 @@
         "method": "web",
         "endpointUrl": "https://www.news.cn/tech/index.html",
         "attempts": 1,
-        "durationMs": 1097,
+        "durationMs": 1102,
         "fallbackUsed": false,
         "rawItemCount": 14,
         "datedItemCount": 14,
@@ -1411,7 +1470,7 @@
         "method": "rss",
         "endpointUrl": "https://www.gov.uk/search/news-and-communications.atom?order=updated-newest",
         "attempts": 1,
-        "durationMs": 878,
+        "durationMs": 862,
         "fallbackUsed": false,
         "rawItemCount": 18,
         "datedItemCount": 18,
@@ -1428,7 +1487,7 @@
         "method": "rss",
         "endpointUrl": "https://feeds.npr.org/1004/rss.xml",
         "attempts": 1,
-        "durationMs": 2823,
+        "durationMs": 653,
         "fallbackUsed": false,
         "rawItemCount": 10,
         "datedItemCount": 10,
@@ -1445,7 +1504,7 @@
         "method": "rss",
         "endpointUrl": "https://feeds.skynews.com/feeds/rss/world.xml",
         "attempts": 1,
-        "durationMs": 2972,
+        "durationMs": 117,
         "fallbackUsed": false,
         "rawItemCount": 10,
         "datedItemCount": 10,
@@ -1462,7 +1521,7 @@
         "method": "rss",
         "endpointUrl": "https://www.france24.com/en/middle-east/rss",
         "attempts": 1,
-        "durationMs": 2129,
+        "durationMs": 148,
         "fallbackUsed": false,
         "rawItemCount": 18,
         "datedItemCount": 18,
@@ -1479,7 +1538,7 @@
         "method": "rss",
         "endpointUrl": "https://www.france24.com/en/asia-pacific/rss",
         "attempts": 1,
-        "durationMs": 189,
+        "durationMs": 82,
         "fallbackUsed": false,
         "rawItemCount": 18,
         "datedItemCount": 18,
@@ -1496,13 +1555,13 @@
         "method": "rss",
         "endpointUrl": "https://www.cnbc.com/id/100727362/device/rss/rss.html",
         "attempts": 1,
-        "durationMs": 44,
+        "durationMs": 49,
         "fallbackUsed": false,
         "rawItemCount": 18,
         "datedItemCount": 18,
-        "inEditionItemCount": 18,
+        "inEditionItemCount": 17,
         "newestPublishedAt": "2026-08-25T22:09:01.000Z",
-        "oldestPublishedAt": "2026-08-25T06:24:36.000Z",
+        "oldestPublishedAt": "2026-08-24T23:00:01.000Z",
         "verificationStatus": "pending"
       },
       {
@@ -1513,7 +1572,7 @@
         "method": "rss",
         "endpointUrl": "https://news.un.org/feed/subscribe/en/news/all/rss.xml",
         "attempts": 1,
-        "durationMs": 2104,
+        "durationMs": 39,
         "fallbackUsed": false,
         "rawItemCount": 18,
         "datedItemCount": 18,
@@ -1530,7 +1589,7 @@
         "method": "web",
         "endpointUrl": "https://www.mfa.gov.cn/wjdt_674879/fyrbt_674889/",
         "attempts": 1,
-        "durationMs": 3067,
+        "durationMs": 1121,
         "fallbackUsed": false,
         "rawItemCount": 18,
         "datedItemCount": 18,
@@ -1547,7 +1606,7 @@
         "method": "web",
         "endpointUrl": "https://www.mofcom.gov.cn/xwfb/",
         "attempts": 1,
-        "durationMs": 3396,
+        "durationMs": 2289,
         "fallbackUsed": false,
         "rawItemCount": 15,
         "datedItemCount": 15,
@@ -1564,7 +1623,7 @@
         "method": "rss",
         "endpointUrl": "https://openai.com/news/rss.xml",
         "attempts": 1,
-        "durationMs": 1088,
+        "durationMs": 762,
         "fallbackUsed": false,
         "rawItemCount": 18,
         "datedItemCount": 18,
@@ -1581,7 +1640,7 @@
         "method": "rss",
         "endpointUrl": "https://deepmind.google/blog/rss.xml",
         "attempts": 1,
-        "durationMs": 208,
+        "durationMs": 717,
         "fallbackUsed": false,
         "rawItemCount": 18,
         "datedItemCount": 18,
@@ -1598,7 +1657,7 @@
         "method": "rss",
         "endpointUrl": "https://techcrunch.com/category/artificial-intelligence/feed/",
         "attempts": 1,
-        "durationMs": 23,
+        "durationMs": 55,
         "fallbackUsed": false,
         "rawItemCount": 18,
         "datedItemCount": 18,
@@ -1615,7 +1674,7 @@
         "method": "rss",
         "endpointUrl": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
         "attempts": 1,
-        "durationMs": 105,
+        "durationMs": 48,
         "fallbackUsed": false,
         "rawItemCount": 10,
         "datedItemCount": 10,
@@ -1631,8 +1690,8 @@
         "status": "healthy",
         "method": "web",
         "endpointUrl": "https://www.moe.gov.cn/",
-        "attempts": 2,
-        "durationMs": 4639,
+        "attempts": 1,
+        "durationMs": 4511,
         "fallbackUsed": false,
         "rawItemCount": 12,
         "datedItemCount": 12,
@@ -1649,7 +1708,7 @@
         "method": "web",
         "endpointUrl": "https://chrm.mohrss.gov.cn/announcement/",
         "attempts": 1,
-        "durationMs": 3391,
+        "durationMs": 4612,
         "fallbackUsed": false,
         "rawItemCount": 8,
         "datedItemCount": 8,
@@ -1666,7 +1725,7 @@
         "method": "web",
         "endpointUrl": "https://www.stats.gov.cn/sj/zxfb/",
         "attempts": 1,
-        "durationMs": 4745,
+        "durationMs": 5935,
         "fallbackUsed": false,
         "rawItemCount": 13,
         "datedItemCount": 13,
@@ -1683,7 +1742,7 @@
         "method": "web",
         "endpointUrl": "https://scyxs.mofcom.gov.cn/",
         "attempts": 1,
-        "durationMs": 1254,
+        "durationMs": 1989,
         "fallbackUsed": true,
         "rawItemCount": 1,
         "datedItemCount": 1,
@@ -1701,7 +1760,7 @@
         "method": "web",
         "endpointUrl": "city-source:中国/直辖市/上海",
         "attempts": 1,
-        "durationMs": 3828,
+        "durationMs": 4243,
         "fallbackUsed": false,
         "rawItemCount": 1,
         "datedItemCount": 1,
@@ -1719,7 +1778,7 @@
         "method": "web",
         "endpointUrl": "city-source:中国/浙江/杭州",
         "attempts": 1,
-        "durationMs": 10586,
+        "durationMs": 10588,
         "fallbackUsed": false,
         "rawItemCount": 0,
         "datedItemCount": 0,
@@ -1735,7 +1794,7 @@
         "method": "web",
         "endpointUrl": "city-source:中国/广东/深圳",
         "attempts": 1,
-        "durationMs": 1969,
+        "durationMs": 1904,
         "fallbackUsed": false,
         "rawItemCount": 0,
         "datedItemCount": 0,
@@ -1751,7 +1810,7 @@
         "method": "web",
         "endpointUrl": "city-source:中国/吉林/长春",
         "attempts": 1,
-        "durationMs": 1515,
+        "durationMs": 1349,
         "fallbackUsed": false,
         "rawItemCount": 0,
         "datedItemCount": 0,
@@ -1767,7 +1826,7 @@
         "method": "web",
         "endpointUrl": "city-source:英国/英国/伦敦",
         "attempts": 1,
-        "durationMs": 1475,
+        "durationMs": 1400,
         "fallbackUsed": false,
         "rawItemCount": 0,
         "datedItemCount": 0,
@@ -1783,7 +1842,7 @@
         "method": "web",
         "endpointUrl": "city-source:中国/安徽/宿州",
         "attempts": 1,
-        "durationMs": 1504,
+        "durationMs": 1435,
         "fallbackUsed": false,
         "rawItemCount": 0,
         "datedItemCount": 0,
@@ -1799,7 +1858,7 @@
         "method": "web",
         "endpointUrl": "city-source:中国/广东/汕尾",
         "attempts": 1,
-        "durationMs": 1515,
+        "durationMs": 1341,
         "fallbackUsed": false,
         "rawItemCount": 0,
         "datedItemCount": 0,
@@ -1814,7 +1873,7 @@
         "sourceName": "住房和城乡建设部",
         "method": "web",
         "attempts": 3,
-        "durationMs": 137342,
+        "durationMs": 135104,
         "fallbackUsed": false,
         "error": "https://www.mohurd.gov.cn/api-gateway/jpaas-publish-server/front/page/build/unit?parseType=bulidstatic&webId=86ca573ec4df405db627fdc2493677f3&tplSetId=fc259c381af3496d85e61997ea7771cb&pageType=column&tagId=%E6%A0%8F%E7%9B%AE-list&editType=null&pageId=919e942639b5477d96e4c97471c61d9f: TypeError: fetch failed; legacy TLS fallback: Error: Request timed out | https://www.mohurd.gov.cn/xinwen/gzdt/index.html: TypeError: fetch failed; legacy TLS fallback: Error: Request timed out | https://www.mohurd.gov.cn/: TypeError: fetch failed; legacy TLS fallback: Error: Request timed out"
       }
@@ -2130,13 +2189,13 @@
   ],
   "skippedCards": [
     {
-      "id": "draft-real-cnbc-world-rss-1h4b8ga",
+      "id": "draft-real-cnbc-world-rss-1heau59",
       "title": "特朗普瞄准伊朗的贸易生命线—以下是最容易受到影响的国家",
       "importance": "A",
       "section": "front"
     },
     {
-      "id": "draft-real-cnbc-world-rss-6n6nag",
+      "id": "draft-real-cnbc-world-rss-814nrb",
       "title": "World Liberty Financial 首席执行官扎克·威特科夫",
       "importance": "A",
       "section": "front"
@@ -2172,56 +2231,50 @@
       "section": "industry"
     },
     {
-      "id": "draft-real-cnbc-world-rss-11hv3p0",
+      "id": "draft-real-cnbc-world-rss-11rupdz",
       "title": "“贬值交易”在贝森特债券策略之后回归。加密货币和黄金重新流行起来",
       "importance": "B",
       "section": "industry"
     },
     {
-      "id": "draft-real-cnbc-world-rss-1gjtj7i",
+      "id": "draft-real-cnbc-world-rss-abps6e",
+      "title": "新德里在11周内收入730亿美元，由非居民印度人特别存款提供动力",
+      "importance": "B",
+      "section": "industry"
+    },
+    {
+      "id": "draft-real-cnbc-world-rss-s4k48l",
       "title": "消息人士称，美国卫生与公众服务部计划设立新的 FDA 技术和药物副专员职位",
       "importance": "B",
       "section": "industry"
     },
     {
-      "id": "draft-real-cnbc-world-rss-t8tivq",
+      "id": "draft-real-cnbc-world-rss-soubhs",
       "title": "苹果宣布推出带有AI升级的新款Mac Mini和Mac Studio机型",
       "importance": "B",
       "section": "industry"
     },
     {
-      "id": "draft-real-cnbc-world-rss-z4f8ck",
+      "id": "draft-real-cnbc-world-rss-zoefqi",
       "title": "OpenAI禁止俄罗斯ChatGPT帐户用于隐蔽的虚假信息宣传活动",
       "importance": "B",
       "section": "industry"
     },
     {
-      "id": "draft-real-cnbc-world-rss-z4lrbw",
+      "id": "draft-real-cnbc-world-rss-yum5mx",
       "title": "随着加密货币涨势加快，比特币价格扩大涨幅，短暂突破 81,000 美元",
       "importance": "B",
       "section": "industry"
     },
     {
-      "id": "draft-real-cnbc-world-rss-1gpxxju",
+      "id": "draft-real-cnbc-world-rss-1r67qcc",
+      "title": "保时捷与印度最大的IT服务公司塔塔咨询公司达成15亿美元的人工智能部署协议",
+      "importance": "B",
+      "section": "industry"
+    },
+    {
+      "id": "draft-real-cnbc-world-rss-1g5yq5w",
       "title": "英伟达对超大规模企业的依赖在财报中面临重大考验",
-      "importance": "B",
-      "section": "industry"
-    },
-    {
-      "id": "draft-real-cnbc-world-rss-13osff8",
-      "title": "Dragon Ball Z主题公园获得$ 70亿绿灯",
-      "importance": "B",
-      "section": "industry"
-    },
-    {
-      "id": "draft-real-cnbc-world-rss-1oxrjat",
-      "title": "乌克兰的目标是俄罗斯的零售巨头。臭氧是下一个经济压力点",
-      "importance": "B",
-      "section": "industry"
-    },
-    {
-      "id": "draft-real-cnbc-world-rss-6ib6nr",
-      "title": "黑莓首席执行官表示，机器人技术是其增长最快的业务之一",
       "importance": "B",
       "section": "industry"
     }
@@ -2262,7 +2315,7 @@
             "language": "zh",
             "originalLanguage": "zh",
             "translationStatus": "not-needed",
-            "fetchedAt": "2026-08-25T22:58:55.898Z",
+            "fetchedAt": "2026-08-25T23:35:51.878Z",
             "sourceMethod": "web",
             "verificationStatus": "confirmed"
           }
@@ -2317,13 +2370,13 @@
             "language": "zh",
             "originalLanguage": "zh",
             "translationStatus": "not-needed",
-            "fetchedAt": "2026-08-25T22:58:55.898Z",
+            "fetchedAt": "2026-08-25T23:35:51.878Z",
             "sourceMethod": "web",
             "verificationStatus": "confirmed"
           }
         ],
         "images": [],
-        "generatedAt": "2026-08-25T22:58:52.500Z"
+        "generatedAt": "2026-08-25T23:35:48.393Z"
       }
     },
     {
@@ -2366,7 +2419,7 @@
             "language": "zh",
             "originalLanguage": "zh",
             "translationStatus": "not-needed",
-            "fetchedAt": "2026-08-25T22:59:02.311Z",
+            "fetchedAt": "2026-08-25T23:35:55.271Z",
             "sourceMethod": "web",
             "verificationStatus": "confirmed"
           }
@@ -2422,13 +2475,13 @@
             "language": "zh",
             "originalLanguage": "zh",
             "translationStatus": "not-needed",
-            "fetchedAt": "2026-08-25T22:59:02.311Z",
+            "fetchedAt": "2026-08-25T23:35:55.271Z",
             "sourceMethod": "web",
             "verificationStatus": "confirmed"
           }
         ],
         "images": [],
-        "generatedAt": "2026-08-25T22:58:52.500Z"
+        "generatedAt": "2026-08-25T23:35:48.393Z"
       }
     },
     {
@@ -2467,7 +2520,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-25T22:58:58.723Z",
+            "fetchedAt": "2026-08-25T23:35:52.762Z",
             "sourceMethod": "rss",
             "verificationStatus": "confirmed"
           }
@@ -2523,7 +2576,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-25T22:58:58.723Z",
+            "fetchedAt": "2026-08-25T23:35:52.762Z",
             "sourceMethod": "rss",
             "verificationStatus": "confirmed"
           }
@@ -2542,7 +2595,7 @@
             "sourceUrl": "https://www.npr.org/2026/08/25/nx-s1-5944240/canada-us-tariffs"
           }
         ],
-        "generatedAt": "2026-08-25T22:58:52.500Z"
+        "generatedAt": "2026-08-25T23:35:48.393Z"
       }
     },
     {
@@ -2582,7 +2635,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-25T22:58:58.723Z",
+            "fetchedAt": "2026-08-25T23:35:52.762Z",
             "sourceMethod": "rss",
             "verificationStatus": "confirmed"
           }
@@ -2638,7 +2691,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-25T22:58:58.723Z",
+            "fetchedAt": "2026-08-25T23:35:52.762Z",
             "sourceMethod": "rss",
             "verificationStatus": "confirmed"
           }
@@ -2661,7 +2714,7 @@
             "sourceUrl": "https://www.npr.org/2026/08/25/nx-s1-5943572/trump-iran-sanctions"
           }
         ],
-        "generatedAt": "2026-08-25T22:58:52.500Z"
+        "generatedAt": "2026-08-25T23:35:48.393Z"
       }
     },
     {
@@ -2701,7 +2754,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-25T22:58:58.874Z",
+            "fetchedAt": "2026-08-25T23:35:52.865Z",
             "sourceMethod": "rss",
             "verificationStatus": "pending"
           },
@@ -2713,7 +2766,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-25T22:58:58.916Z",
+            "fetchedAt": "2026-08-25T23:35:52.958Z",
             "sourceMethod": "rss",
             "verificationStatus": "pending"
           }
@@ -2774,7 +2827,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-25T22:58:58.874Z",
+            "fetchedAt": "2026-08-25T23:35:52.865Z",
             "sourceMethod": "rss",
             "verificationStatus": "pending"
           },
@@ -2786,7 +2839,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-25T22:58:58.916Z",
+            "fetchedAt": "2026-08-25T23:35:52.958Z",
             "sourceMethod": "rss",
             "verificationStatus": "pending"
           }
@@ -2797,7 +2850,7 @@
             "sourceUrl": "https://news.sky.com/story/canada-announces-retaliatory-tariffs-as-trade-war-with-us-heats-up-13577017"
           }
         ],
-        "generatedAt": "2026-08-25T22:58:52.500Z"
+        "generatedAt": "2026-08-25T23:35:48.393Z"
       }
     },
     {
@@ -2839,7 +2892,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-25T22:58:58.916Z",
+            "fetchedAt": "2026-08-25T23:35:52.958Z",
             "sourceMethod": "rss",
             "verificationStatus": "pending"
           }
@@ -2895,7 +2948,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-25T22:58:58.916Z",
+            "fetchedAt": "2026-08-25T23:35:52.958Z",
             "sourceMethod": "rss",
             "verificationStatus": "pending"
           }
@@ -2910,7 +2963,7 @@
             "sourceUrl": "https://www.cnbc.com/2026/08/25/china-iran-us-sanctions-banks-cips.html"
           }
         ],
-        "generatedAt": "2026-08-25T22:58:52.500Z"
+        "generatedAt": "2026-08-25T23:35:48.393Z"
       }
     },
     {
@@ -2950,7 +3003,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-25T22:58:58.916Z",
+            "fetchedAt": "2026-08-25T23:35:52.958Z",
             "sourceMethod": "rss",
             "verificationStatus": "pending"
           }
@@ -3006,7 +3059,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-25T22:58:58.916Z",
+            "fetchedAt": "2026-08-25T23:35:52.958Z",
             "sourceMethod": "rss",
             "verificationStatus": "pending"
           }
@@ -3017,7 +3070,7 @@
             "sourceUrl": "https://www.cnbc.com/2026/08/25/iran-oman-strait-hormuz-oil.html"
           }
         ],
-        "generatedAt": "2026-08-25T22:58:52.500Z"
+        "generatedAt": "2026-08-25T23:35:48.393Z"
       }
     },
     {
@@ -3158,7 +3211,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-25T22:58:58.723Z",
+            "fetchedAt": "2026-08-25T23:35:52.762Z",
             "sourceMethod": "rss",
             "verificationStatus": "confirmed"
           }
@@ -3209,7 +3262,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-25T22:58:58.723Z",
+            "fetchedAt": "2026-08-25T23:35:52.762Z",
             "sourceMethod": "rss",
             "verificationStatus": "confirmed"
           }
@@ -3232,7 +3285,7 @@
             "sourceUrl": "https://www.npr.org/2026/08/25/g-s1-140004/up-first-newsletter-iran-economic-war-scotus-mail-in-voting-dhs-privacy"
           }
         ],
-        "generatedAt": "2026-08-25T22:58:52.500Z"
+        "generatedAt": "2026-08-25T23:35:48.393Z"
       }
     },
     {
@@ -3272,7 +3325,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-25T22:58:56.767Z",
+            "fetchedAt": "2026-08-25T23:35:52.746Z",
             "sourceMethod": "rss",
             "verificationStatus": "confirmed"
           }
@@ -3329,7 +3382,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-25T22:58:56.767Z",
+            "fetchedAt": "2026-08-25T23:35:52.746Z",
             "sourceMethod": "rss",
             "verificationStatus": "confirmed"
           }
@@ -3340,7 +3393,7 @@
             "sourceUrl": "https://www.gov.uk/government/news/updated-dbs-update-service-guidance-now-available"
           }
         ],
-        "generatedAt": "2026-08-25T22:58:52.500Z"
+        "generatedAt": "2026-08-25T23:35:48.393Z"
       }
     },
     {
@@ -3580,7 +3633,7 @@
             "language": "zh",
             "originalLanguage": "zh",
             "translationStatus": "not-needed",
-            "fetchedAt": "2026-08-25T22:58:55.898Z",
+            "fetchedAt": "2026-08-25T23:35:51.878Z",
             "sourceMethod": "web",
             "verificationStatus": "confirmed"
           }
@@ -3635,13 +3688,13 @@
             "language": "zh",
             "originalLanguage": "zh",
             "translationStatus": "not-needed",
-            "fetchedAt": "2026-08-25T22:58:55.898Z",
+            "fetchedAt": "2026-08-25T23:35:51.878Z",
             "sourceMethod": "web",
             "verificationStatus": "confirmed"
           }
         ],
         "images": [],
-        "generatedAt": "2026-08-25T22:58:52.500Z"
+        "generatedAt": "2026-08-25T23:35:48.393Z"
       }
     },
     {
@@ -3676,7 +3729,7 @@
             "language": "zh",
             "originalLanguage": "zh",
             "translationStatus": "not-needed",
-            "fetchedAt": "2026-08-25T22:58:55.898Z",
+            "fetchedAt": "2026-08-25T23:35:51.878Z",
             "sourceMethod": "web",
             "verificationStatus": "confirmed"
           }
@@ -3731,13 +3784,13 @@
             "language": "zh",
             "originalLanguage": "zh",
             "translationStatus": "not-needed",
-            "fetchedAt": "2026-08-25T22:58:55.898Z",
+            "fetchedAt": "2026-08-25T23:35:51.878Z",
             "sourceMethod": "web",
             "verificationStatus": "confirmed"
           }
         ],
         "images": [],
-        "generatedAt": "2026-08-25T22:58:52.500Z"
+        "generatedAt": "2026-08-25T23:35:48.393Z"
       }
     },
     {
@@ -3772,7 +3825,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-25T22:58:58.723Z",
+            "fetchedAt": "2026-08-25T23:35:52.762Z",
             "sourceMethod": "rss",
             "verificationStatus": "confirmed"
           }
@@ -3823,7 +3876,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-25T22:58:58.723Z",
+            "fetchedAt": "2026-08-25T23:35:52.762Z",
             "sourceMethod": "rss",
             "verificationStatus": "confirmed"
           }
@@ -3838,7 +3891,7 @@
             "sourceUrl": "https://www.npr.org/2026/08/25/nx-s1-5944059/the-uk-will-help-ukraine-make-long-range-missiles-by-sharing-classified-tech-information"
           }
         ],
-        "generatedAt": "2026-08-25T22:58:52.500Z"
+        "generatedAt": "2026-08-25T23:35:48.393Z"
       }
     },
     {
@@ -3876,7 +3929,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-25T22:58:56.767Z",
+            "fetchedAt": "2026-08-25T23:35:52.746Z",
             "sourceMethod": "rss",
             "verificationStatus": "confirmed"
           },
@@ -3888,7 +3941,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-25T22:58:56.767Z",
+            "fetchedAt": "2026-08-25T23:35:52.746Z",
             "sourceMethod": "rss",
             "verificationStatus": "confirmed"
           },
@@ -3900,7 +3953,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-25T22:58:56.767Z",
+            "fetchedAt": "2026-08-25T23:35:52.746Z",
             "sourceMethod": "rss",
             "verificationStatus": "confirmed"
           }
@@ -3954,7 +4007,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-25T22:58:56.767Z",
+            "fetchedAt": "2026-08-25T23:35:52.746Z",
             "sourceMethod": "rss",
             "verificationStatus": "confirmed"
           },
@@ -3966,7 +4019,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-25T22:58:56.767Z",
+            "fetchedAt": "2026-08-25T23:35:52.746Z",
             "sourceMethod": "rss",
             "verificationStatus": "confirmed"
           },
@@ -3978,7 +4031,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-25T22:58:56.767Z",
+            "fetchedAt": "2026-08-25T23:35:52.746Z",
             "sourceMethod": "rss",
             "verificationStatus": "confirmed"
           }
@@ -3989,7 +4042,7 @@
             "sourceUrl": "https://www.gov.uk/government/speeches/an-end-to-the-suffering-in-sudan-will-only-come-through-an-humanitarian-truce-a-permanent-ceasefire-and-an-inclusive-civilian-led-political-process-uk"
           }
         ],
-        "generatedAt": "2026-08-25T22:58:52.500Z"
+        "generatedAt": "2026-08-25T23:35:48.393Z"
       }
     },
     {
@@ -4028,7 +4081,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-25T22:59:02.090Z",
+            "fetchedAt": "2026-08-25T23:35:54.616Z",
             "sourceMethod": "rss",
             "verificationStatus": "confirmed"
           },
@@ -4040,7 +4093,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-25T22:59:02.113Z",
+            "fetchedAt": "2026-08-25T23:35:54.673Z",
             "sourceMethod": "rss",
             "verificationStatus": "pending"
           },
@@ -4052,7 +4105,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-25T22:59:02.218Z",
+            "fetchedAt": "2026-08-25T23:35:54.720Z",
             "sourceMethod": "rss",
             "verificationStatus": "pending"
           }
@@ -4108,7 +4161,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-25T22:59:02.090Z",
+            "fetchedAt": "2026-08-25T23:35:54.616Z",
             "sourceMethod": "rss",
             "verificationStatus": "confirmed"
           },
@@ -4120,7 +4173,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-25T22:59:02.113Z",
+            "fetchedAt": "2026-08-25T23:35:54.673Z",
             "sourceMethod": "rss",
             "verificationStatus": "pending"
           },
@@ -4132,13 +4185,13 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-25T22:59:02.218Z",
+            "fetchedAt": "2026-08-25T23:35:54.720Z",
             "sourceMethod": "rss",
             "verificationStatus": "pending"
           }
         ],
         "images": [],
-        "generatedAt": "2026-08-25T22:58:52.500Z"
+        "generatedAt": "2026-08-25T23:35:48.393Z"
       }
     },
     {
@@ -4177,7 +4230,7 @@
             "language": "zh",
             "originalLanguage": "zh",
             "translationStatus": "not-needed",
-            "fetchedAt": "2026-08-25T22:58:55.795Z",
+            "fetchedAt": "2026-08-25T23:35:52.108Z",
             "sourceMethod": "web",
             "verificationStatus": "confirmed"
           }
@@ -4234,7 +4287,7 @@
             "language": "zh",
             "originalLanguage": "zh",
             "translationStatus": "not-needed",
-            "fetchedAt": "2026-08-25T22:58:55.795Z",
+            "fetchedAt": "2026-08-25T23:35:52.108Z",
             "sourceMethod": "web",
             "verificationStatus": "confirmed"
           }
@@ -4245,7 +4298,7 @@
             "sourceUrl": "https://www.news.cn/tech/20260825/ae394483517640f59eb35598547b2bd2/c.html"
           }
         ],
-        "generatedAt": "2026-08-25T22:58:52.500Z"
+        "generatedAt": "2026-08-25T23:35:48.393Z"
       }
     },
     {
@@ -4284,7 +4337,7 @@
             "language": "zh",
             "originalLanguage": "zh",
             "translationStatus": "not-needed",
-            "fetchedAt": "2026-08-25T22:58:55.795Z",
+            "fetchedAt": "2026-08-25T23:35:52.108Z",
             "sourceMethod": "web",
             "verificationStatus": "confirmed"
           }
@@ -4341,7 +4394,7 @@
             "language": "zh",
             "originalLanguage": "zh",
             "translationStatus": "not-needed",
-            "fetchedAt": "2026-08-25T22:58:55.795Z",
+            "fetchedAt": "2026-08-25T23:35:52.108Z",
             "sourceMethod": "web",
             "verificationStatus": "confirmed"
           }
@@ -4352,7 +4405,7 @@
             "sourceUrl": "https://www.news.cn/tech/20260825/b11405bc5fcf4a8592aa83556609be50/c.html"
           }
         ],
-        "generatedAt": "2026-08-25T22:58:52.500Z"
+        "generatedAt": "2026-08-25T23:35:48.393Z"
       }
     },
     {
@@ -4389,7 +4442,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-25T22:58:58.916Z",
+            "fetchedAt": "2026-08-25T23:35:52.958Z",
             "sourceMethod": "rss",
             "verificationStatus": "pending"
           }
@@ -4444,7 +4497,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-25T22:58:58.916Z",
+            "fetchedAt": "2026-08-25T23:35:52.958Z",
             "sourceMethod": "rss",
             "verificationStatus": "pending"
           }
@@ -4455,7 +4508,7 @@
             "sourceUrl": "https://www.cnbc.com/2026/08/25/openais-head-of-data-centers-chris-malone-is-out-in-latest-exec-exit.html"
           }
         ],
-        "generatedAt": "2026-08-25T22:58:52.500Z"
+        "generatedAt": "2026-08-25T23:35:48.393Z"
       }
     },
     {
@@ -4492,7 +4545,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-25T22:58:58.916Z",
+            "fetchedAt": "2026-08-25T23:35:52.958Z",
             "sourceMethod": "rss",
             "verificationStatus": "pending"
           }
@@ -4547,13 +4600,13 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-25T22:58:58.916Z",
+            "fetchedAt": "2026-08-25T23:35:52.958Z",
             "sourceMethod": "rss",
             "verificationStatus": "pending"
           }
         ],
         "images": [],
-        "generatedAt": "2026-08-25T22:58:52.500Z"
+        "generatedAt": "2026-08-25T23:35:48.393Z"
       }
     },
     {
@@ -4590,7 +4643,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-25T22:58:58.916Z",
+            "fetchedAt": "2026-08-25T23:35:52.958Z",
             "sourceMethod": "rss",
             "verificationStatus": "pending"
           }
@@ -4645,7 +4698,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-25T22:58:58.916Z",
+            "fetchedAt": "2026-08-25T23:35:52.958Z",
             "sourceMethod": "rss",
             "verificationStatus": "pending"
           }
@@ -4656,7 +4709,7 @@
             "sourceUrl": "https://www.cnbc.com/2026/08/25/spacex-louisiana-spaceport.html"
           }
         ],
-        "generatedAt": "2026-08-25T22:58:52.500Z"
+        "generatedAt": "2026-08-25T23:35:48.393Z"
       }
     },
     {
@@ -5611,7 +5664,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-25T22:59:02.113Z",
+            "fetchedAt": "2026-08-25T23:35:54.673Z",
             "sourceMethod": "rss",
             "verificationStatus": "pending"
           }
@@ -5667,13 +5720,13 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-25T22:59:02.113Z",
+            "fetchedAt": "2026-08-25T23:35:54.673Z",
             "sourceMethod": "rss",
             "verificationStatus": "pending"
           }
         ],
         "images": [],
-        "generatedAt": "2026-08-25T22:58:52.500Z"
+        "generatedAt": "2026-08-25T23:35:48.393Z"
       }
     },
     {
@@ -5710,7 +5763,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-25T22:59:02.113Z",
+            "fetchedAt": "2026-08-25T23:35:54.673Z",
             "sourceMethod": "rss",
             "verificationStatus": "pending"
           }
@@ -5766,7 +5819,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-25T22:59:02.113Z",
+            "fetchedAt": "2026-08-25T23:35:54.673Z",
             "sourceMethod": "rss",
             "verificationStatus": "pending"
           }
@@ -5781,7 +5834,7 @@
             "sourceUrl": "https://techcrunch.com/2026/08/25/claude-cowork-finally-remembers-what-you-told-the-app-in-chat/"
           }
         ],
-        "generatedAt": "2026-08-25T22:58:52.500Z"
+        "generatedAt": "2026-08-25T23:35:48.393Z"
       }
     },
     {
@@ -5818,7 +5871,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-25T22:59:02.113Z",
+            "fetchedAt": "2026-08-25T23:35:54.673Z",
             "sourceMethod": "rss",
             "verificationStatus": "pending"
           },
@@ -5830,7 +5883,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-25T22:59:02.113Z",
+            "fetchedAt": "2026-08-25T23:35:54.673Z",
             "sourceMethod": "rss",
             "verificationStatus": "pending"
           }
@@ -5886,7 +5939,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-25T22:59:02.113Z",
+            "fetchedAt": "2026-08-25T23:35:54.673Z",
             "sourceMethod": "rss",
             "verificationStatus": "pending"
           },
@@ -5898,13 +5951,13 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-25T22:59:02.113Z",
+            "fetchedAt": "2026-08-25T23:35:54.673Z",
             "sourceMethod": "rss",
             "verificationStatus": "pending"
           }
         ],
         "images": [],
-        "generatedAt": "2026-08-25T22:58:52.500Z"
+        "generatedAt": "2026-08-25T23:35:48.393Z"
       }
     },
     {
@@ -5941,7 +5994,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-25T22:59:02.113Z",
+            "fetchedAt": "2026-08-25T23:35:54.673Z",
             "sourceMethod": "rss",
             "verificationStatus": "pending"
           }
@@ -5997,13 +6050,13 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-25T22:59:02.113Z",
+            "fetchedAt": "2026-08-25T23:35:54.673Z",
             "sourceMethod": "rss",
             "verificationStatus": "pending"
           }
         ],
         "images": [],
-        "generatedAt": "2026-08-25T22:58:52.500Z"
+        "generatedAt": "2026-08-25T23:35:48.393Z"
       }
     },
     {
@@ -6034,7 +6087,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-25T22:59:01.002Z",
+            "fetchedAt": "2026-08-25T23:35:52.985Z",
             "sourceMethod": "rss",
             "verificationStatus": "confirmed"
           }
@@ -6089,7 +6142,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-25T22:59:01.002Z",
+            "fetchedAt": "2026-08-25T23:35:52.985Z",
             "sourceMethod": "rss",
             "verificationStatus": "confirmed"
           }
@@ -6100,7 +6153,7 @@
             "sourceUrl": "https://news.un.org/feed/view/en/story/2026/08/1168203"
           }
         ],
-        "generatedAt": "2026-08-25T22:58:52.500Z"
+        "generatedAt": "2026-08-25T23:35:48.393Z"
       }
     },
     {
@@ -6133,7 +6186,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-25T22:59:01.002Z",
+            "fetchedAt": "2026-08-25T23:35:52.985Z",
             "sourceMethod": "rss",
             "verificationStatus": "confirmed"
           }
@@ -6188,7 +6241,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-25T22:59:01.002Z",
+            "fetchedAt": "2026-08-25T23:35:52.985Z",
             "sourceMethod": "rss",
             "verificationStatus": "confirmed"
           }
@@ -6199,7 +6252,7 @@
             "sourceUrl": "https://news.un.org/feed/view/en/story/2026/08/1168197"
           }
         ],
-        "generatedAt": "2026-08-25T22:58:52.500Z"
+        "generatedAt": "2026-08-25T23:35:48.393Z"
       }
     },
     {
@@ -6230,7 +6283,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-25T22:59:01.002Z",
+            "fetchedAt": "2026-08-25T23:35:52.985Z",
             "sourceMethod": "rss",
             "verificationStatus": "confirmed"
           }
@@ -6285,7 +6338,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-25T22:59:01.002Z",
+            "fetchedAt": "2026-08-25T23:35:52.985Z",
             "sourceMethod": "rss",
             "verificationStatus": "confirmed"
           }
@@ -6296,7 +6349,7 @@
             "sourceUrl": "https://news.un.org/feed/view/en/story/2026/08/1168196"
           }
         ],
-        "generatedAt": "2026-08-25T22:58:52.500Z"
+        "generatedAt": "2026-08-25T23:35:48.393Z"
       }
     },
     {
@@ -6320,17 +6373,17 @@
         "sourceIds": [
           "gdacs-feed"
         ],
-        "publishedAt": "2026-08-25T19:02:06.000Z",
+        "publishedAt": "2026-08-25T23:01:10.000Z",
         "sourceLinks": [
           {
             "title": "GDACS 灾害 Feed",
             "url": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1031054",
             "sourceId": "gdacs-feed",
-            "publishedAt": "2026-08-25T19:02:06.000Z",
+            "publishedAt": "2026-08-25T23:01:10.000Z",
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-25T22:58:54.793Z",
+            "fetchedAt": "2026-08-25T23:35:51.004Z",
             "sourceMethod": "rss",
             "verificationStatus": "confirmed"
           },
@@ -6342,7 +6395,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-25T22:58:54.793Z",
+            "fetchedAt": "2026-08-25T23:35:51.004Z",
             "sourceMethod": "rss",
             "verificationStatus": "confirmed"
           },
@@ -6354,7 +6407,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-25T22:58:54.793Z",
+            "fetchedAt": "2026-08-25T23:35:51.004Z",
             "sourceMethod": "rss",
             "verificationStatus": "confirmed"
           },
@@ -6362,11 +6415,11 @@
             "title": "GDACS 灾害 Feed",
             "url": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1031115",
             "sourceId": "gdacs-feed",
-            "publishedAt": "2026-08-25T19:02:17.000Z",
+            "publishedAt": "2026-08-25T23:02:28.000Z",
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-25T22:58:54.793Z",
+            "fetchedAt": "2026-08-25T23:35:51.004Z",
             "sourceMethod": "rss",
             "verificationStatus": "confirmed"
           },
@@ -6378,7 +6431,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-25T22:58:54.793Z",
+            "fetchedAt": "2026-08-25T23:35:51.004Z",
             "sourceMethod": "rss",
             "verificationStatus": "confirmed"
           },
@@ -6386,11 +6439,11 @@
             "title": "GDACS 灾害 Feed",
             "url": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1031117",
             "sourceId": "gdacs-feed",
-            "publishedAt": "2026-08-25T19:03:13.000Z",
+            "publishedAt": "2026-08-25T23:02:43.000Z",
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-25T22:58:54.793Z",
+            "fetchedAt": "2026-08-25T23:35:51.004Z",
             "sourceMethod": "rss",
             "verificationStatus": "confirmed"
           },
@@ -6398,11 +6451,11 @@
             "title": "GDACS 灾害 Feed",
             "url": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1031118",
             "sourceId": "gdacs-feed",
-            "publishedAt": "2026-08-25T19:03:23.000Z",
+            "publishedAt": "2026-08-25T23:02:51.000Z",
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-25T22:58:54.793Z",
+            "fetchedAt": "2026-08-25T23:35:51.004Z",
             "sourceMethod": "rss",
             "verificationStatus": "confirmed"
           },
@@ -6414,7 +6467,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-25T22:58:54.793Z",
+            "fetchedAt": "2026-08-25T23:35:51.004Z",
             "sourceMethod": "rss",
             "verificationStatus": "confirmed"
           }
@@ -6462,11 +6515,11 @@
             "title": "GDACS 灾害 Feed",
             "url": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1031054",
             "sourceId": "gdacs-feed",
-            "publishedAt": "2026-08-25T19:02:06.000Z",
+            "publishedAt": "2026-08-25T23:01:10.000Z",
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-25T22:58:54.793Z",
+            "fetchedAt": "2026-08-25T23:35:51.004Z",
             "sourceMethod": "rss",
             "verificationStatus": "confirmed"
           },
@@ -6478,7 +6531,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-25T22:58:54.793Z",
+            "fetchedAt": "2026-08-25T23:35:51.004Z",
             "sourceMethod": "rss",
             "verificationStatus": "confirmed"
           },
@@ -6490,7 +6543,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-25T22:58:54.793Z",
+            "fetchedAt": "2026-08-25T23:35:51.004Z",
             "sourceMethod": "rss",
             "verificationStatus": "confirmed"
           },
@@ -6498,11 +6551,11 @@
             "title": "GDACS 灾害 Feed",
             "url": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1031115",
             "sourceId": "gdacs-feed",
-            "publishedAt": "2026-08-25T19:02:17.000Z",
+            "publishedAt": "2026-08-25T23:02:28.000Z",
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-25T22:58:54.793Z",
+            "fetchedAt": "2026-08-25T23:35:51.004Z",
             "sourceMethod": "rss",
             "verificationStatus": "confirmed"
           },
@@ -6514,7 +6567,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-25T22:58:54.793Z",
+            "fetchedAt": "2026-08-25T23:35:51.004Z",
             "sourceMethod": "rss",
             "verificationStatus": "confirmed"
           },
@@ -6522,11 +6575,11 @@
             "title": "GDACS 灾害 Feed",
             "url": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1031117",
             "sourceId": "gdacs-feed",
-            "publishedAt": "2026-08-25T19:03:13.000Z",
+            "publishedAt": "2026-08-25T23:02:43.000Z",
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-25T22:58:54.793Z",
+            "fetchedAt": "2026-08-25T23:35:51.004Z",
             "sourceMethod": "rss",
             "verificationStatus": "confirmed"
           },
@@ -6534,11 +6587,11 @@
             "title": "GDACS 灾害 Feed",
             "url": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1031118",
             "sourceId": "gdacs-feed",
-            "publishedAt": "2026-08-25T19:03:23.000Z",
+            "publishedAt": "2026-08-25T23:02:51.000Z",
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-25T22:58:54.793Z",
+            "fetchedAt": "2026-08-25T23:35:51.004Z",
             "sourceMethod": "rss",
             "verificationStatus": "confirmed"
           },
@@ -6550,7 +6603,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-25T22:58:54.793Z",
+            "fetchedAt": "2026-08-25T23:35:51.004Z",
             "sourceMethod": "rss",
             "verificationStatus": "confirmed"
           }
@@ -6561,7 +6614,7 @@
             "sourceUrl": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1031054"
           }
         ],
-        "generatedAt": "2026-08-25T22:58:52.500Z"
+        "generatedAt": "2026-08-25T23:35:48.393Z"
       }
     },
     {
@@ -6598,7 +6651,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-25T22:58:54.793Z",
+            "fetchedAt": "2026-08-25T23:35:51.004Z",
             "sourceMethod": "rss",
             "verificationStatus": "confirmed"
           }
@@ -6650,7 +6703,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-25T22:58:54.793Z",
+            "fetchedAt": "2026-08-25T23:35:51.004Z",
             "sourceMethod": "rss",
             "verificationStatus": "confirmed"
           }
@@ -6661,7 +6714,7 @@
             "sourceUrl": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1031101"
           }
         ],
-        "generatedAt": "2026-08-25T22:58:52.500Z"
+        "generatedAt": "2026-08-25T23:35:48.393Z"
       }
     },
     {
@@ -6702,7 +6755,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-25T22:58:56.767Z",
+            "fetchedAt": "2026-08-25T23:35:52.746Z",
             "sourceMethod": "rss",
             "verificationStatus": "confirmed"
           }
@@ -6758,7 +6811,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-25T22:58:56.767Z",
+            "fetchedAt": "2026-08-25T23:35:52.746Z",
             "sourceMethod": "rss",
             "verificationStatus": "confirmed"
           }
@@ -6769,7 +6822,7 @@
             "sourceUrl": "https://www.gov.uk/government/news/british-diplomacy-to-help-uk-businesses-grow-internationally"
           }
         ],
-        "generatedAt": "2026-08-25T22:58:52.500Z"
+        "generatedAt": "2026-08-25T23:35:48.393Z"
       }
     },
     {
@@ -6800,7 +6853,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-25T22:58:58.723Z",
+            "fetchedAt": "2026-08-25T23:35:52.762Z",
             "sourceMethod": "rss",
             "verificationStatus": "confirmed"
           }
@@ -6849,7 +6902,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-25T22:58:58.723Z",
+            "fetchedAt": "2026-08-25T23:35:52.762Z",
             "sourceMethod": "rss",
             "verificationStatus": "confirmed"
           }
@@ -6876,7 +6929,7 @@
             "sourceUrl": "https://www.npr.org/2026/08/25/g-s1-140007/forget-about-going-back-9-years-on-rohingya-crisis-enters-dangerous-phase"
           }
         ],
-        "generatedAt": "2026-08-25T22:58:52.500Z"
+        "generatedAt": "2026-08-25T23:35:48.393Z"
       }
     },
     {
@@ -6910,7 +6963,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-25T22:58:58.723Z",
+            "fetchedAt": "2026-08-25T23:35:52.762Z",
             "sourceMethod": "rss",
             "verificationStatus": "confirmed"
           }
@@ -6959,7 +7012,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-25T22:58:58.723Z",
+            "fetchedAt": "2026-08-25T23:35:52.762Z",
             "sourceMethod": "rss",
             "verificationStatus": "confirmed"
           }
@@ -6974,7 +7027,7 @@
             "sourceUrl": "https://www.npr.org/2026/08/25/nx-s1-5944062/indonesia-battles-wildfires"
           }
         ],
-        "generatedAt": "2026-08-25T22:58:52.500Z"
+        "generatedAt": "2026-08-25T23:35:48.393Z"
       }
     },
     {
@@ -7010,7 +7063,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-25T22:58:56.767Z",
+            "fetchedAt": "2026-08-25T23:35:52.746Z",
             "sourceMethod": "rss",
             "verificationStatus": "confirmed"
           }
@@ -7062,7 +7115,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-25T22:58:56.767Z",
+            "fetchedAt": "2026-08-25T23:35:52.746Z",
             "sourceMethod": "rss",
             "verificationStatus": "confirmed"
           }
@@ -7073,7 +7126,7 @@
             "sourceUrl": "https://www.gov.uk/government/news/10000-work-experience-opportunities-for-young-people-as-sainsburys-joins-national-drive-to-tackle-youth-unemployment"
           }
         ],
-        "generatedAt": "2026-08-25T22:58:52.500Z"
+        "generatedAt": "2026-08-25T23:35:48.393Z"
       }
     },
     {
@@ -7109,7 +7162,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-25T22:58:56.767Z",
+            "fetchedAt": "2026-08-25T23:35:52.746Z",
             "sourceMethod": "rss",
             "verificationStatus": "confirmed"
           }
@@ -7161,7 +7214,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-25T22:58:56.767Z",
+            "fetchedAt": "2026-08-25T23:35:52.746Z",
             "sourceMethod": "rss",
             "verificationStatus": "confirmed"
           }
@@ -7172,7 +7225,7 @@
             "sourceUrl": "https://www.gov.uk/government/news/chancellor-statement-on-iran-sanctions"
           }
         ],
-        "generatedAt": "2026-08-25T22:58:52.500Z"
+        "generatedAt": "2026-08-25T23:35:48.393Z"
       }
     },
     {
@@ -7208,7 +7261,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-25T22:58:56.767Z",
+            "fetchedAt": "2026-08-25T23:35:52.746Z",
             "sourceMethod": "rss",
             "verificationStatus": "confirmed"
           }
@@ -7260,7 +7313,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-25T22:58:56.767Z",
+            "fetchedAt": "2026-08-25T23:35:52.746Z",
             "sourceMethod": "rss",
             "verificationStatus": "confirmed"
           }
@@ -7271,7 +7324,7 @@
             "sourceUrl": "https://www.gov.uk/government/news/cadets-in-lincolnshire-helping-young-people-build-skills-for-life"
           }
         ],
-        "generatedAt": "2026-08-25T22:58:52.500Z"
+        "generatedAt": "2026-08-25T23:35:48.393Z"
       }
     },
     {
@@ -7312,7 +7365,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-25T22:58:56.767Z",
+            "fetchedAt": "2026-08-25T23:35:52.746Z",
             "sourceMethod": "rss",
             "verificationStatus": "confirmed"
           }
@@ -7364,7 +7417,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-25T22:58:56.767Z",
+            "fetchedAt": "2026-08-25T23:35:52.746Z",
             "sourceMethod": "rss",
             "verificationStatus": "confirmed"
           }
@@ -7375,7 +7428,7 @@
             "sourceUrl": "https://www.gov.uk/government/news/joint-statement-from-the-leaders-of-the-united-kingdom-france-germany-italy-the-netherlands-canada-and-norway-on-the-e1-west-bank-settlement-plan"
           }
         ],
-        "generatedAt": "2026-08-25T22:58:52.500Z"
+        "generatedAt": "2026-08-25T23:35:48.393Z"
       }
     },
     {
@@ -7411,7 +7464,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-25T22:58:56.767Z",
+            "fetchedAt": "2026-08-25T23:35:52.746Z",
             "sourceMethod": "rss",
             "verificationStatus": "confirmed"
           }
@@ -7463,13 +7516,13 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-25T22:58:56.767Z",
+            "fetchedAt": "2026-08-25T23:35:52.746Z",
             "sourceMethod": "rss",
             "verificationStatus": "confirmed"
           }
         ],
         "images": [],
-        "generatedAt": "2026-08-25T22:58:52.500Z"
+        "generatedAt": "2026-08-25T23:35:48.393Z"
       }
     },
     {
@@ -7503,7 +7556,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-25T22:58:56.767Z",
+            "fetchedAt": "2026-08-25T23:35:52.746Z",
             "sourceMethod": "rss",
             "verificationStatus": "confirmed"
           }
@@ -7555,13 +7608,13 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-25T22:58:56.767Z",
+            "fetchedAt": "2026-08-25T23:35:52.746Z",
             "sourceMethod": "rss",
             "verificationStatus": "confirmed"
           }
         ],
         "images": [],
-        "generatedAt": "2026-08-25T22:58:52.500Z"
+        "generatedAt": "2026-08-25T23:35:48.393Z"
       }
     },
     {
@@ -7595,7 +7648,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-25T22:58:56.767Z",
+            "fetchedAt": "2026-08-25T23:35:52.746Z",
             "sourceMethod": "rss",
             "verificationStatus": "confirmed"
           }
@@ -7647,7 +7700,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-25T22:58:56.767Z",
+            "fetchedAt": "2026-08-25T23:35:52.746Z",
             "sourceMethod": "rss",
             "verificationStatus": "confirmed"
           }
@@ -7658,7 +7711,7 @@
             "sourceUrl": "https://www.gov.uk/government/news/grenfell-tower-crown-development-application-given-approval"
           }
         ],
-        "generatedAt": "2026-08-25T22:58:52.500Z"
+        "generatedAt": "2026-08-25T23:35:48.393Z"
       }
     },
     {
@@ -7692,7 +7745,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-25T22:58:56.767Z",
+            "fetchedAt": "2026-08-25T23:35:52.746Z",
             "sourceMethod": "rss",
             "verificationStatus": "confirmed"
           }
@@ -7744,7 +7797,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-25T22:58:56.767Z",
+            "fetchedAt": "2026-08-25T23:35:52.746Z",
             "sourceMethod": "rss",
             "verificationStatus": "confirmed"
           }
@@ -7755,7 +7808,7 @@
             "sourceUrl": "https://www.gov.uk/government/news/apha-strengthens-bluetongue-disease-response"
           }
         ],
-        "generatedAt": "2026-08-25T22:58:52.500Z"
+        "generatedAt": "2026-08-25T23:35:48.393Z"
       }
     },
     {
@@ -7789,7 +7842,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-25T22:58:56.767Z",
+            "fetchedAt": "2026-08-25T23:35:52.746Z",
             "sourceMethod": "rss",
             "verificationStatus": "confirmed"
           }
@@ -7841,7 +7894,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-25T22:58:56.767Z",
+            "fetchedAt": "2026-08-25T23:35:52.746Z",
             "sourceMethod": "rss",
             "verificationStatus": "confirmed"
           }
@@ -7852,7 +7905,7 @@
             "sourceUrl": "https://www.gov.uk/government/news/regulated-activity-with-children-common-misconceptions-about-the-sept-2026-supervision-exemption-changes"
           }
         ],
-        "generatedAt": "2026-08-25T22:58:52.500Z"
+        "generatedAt": "2026-08-25T23:35:48.393Z"
       }
     },
     {
@@ -7886,7 +7939,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-25T22:58:56.767Z",
+            "fetchedAt": "2026-08-25T23:35:52.746Z",
             "sourceMethod": "rss",
             "verificationStatus": "confirmed"
           }
@@ -7938,7 +7991,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-25T22:58:56.767Z",
+            "fetchedAt": "2026-08-25T23:35:52.746Z",
             "sourceMethod": "rss",
             "verificationStatus": "confirmed"
           }
@@ -7949,7 +8002,7 @@
             "sourceUrl": "https://www.gov.uk/government/news/anniversary-statement-robinson-r44-ii-g-oclv"
           }
         ],
-        "generatedAt": "2026-08-25T22:58:52.500Z"
+        "generatedAt": "2026-08-25T23:35:48.393Z"
       }
     },
     {
@@ -7983,7 +8036,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-25T22:58:56.767Z",
+            "fetchedAt": "2026-08-25T23:35:52.746Z",
             "sourceMethod": "rss",
             "verificationStatus": "confirmed"
           }
@@ -8035,13 +8088,1144 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-25T22:58:56.767Z",
+            "fetchedAt": "2026-08-25T23:35:52.746Z",
             "sourceMethod": "rss",
             "verificationStatus": "confirmed"
           }
         ],
         "images": [],
-        "generatedAt": "2026-08-25T22:58:52.500Z"
+        "generatedAt": "2026-08-25T23:35:48.393Z"
+      }
+    },
+    {
+      "candidate": {
+        "id": "real-cnbc-world-rss-avv3kr",
+        "title": "美国转向对伊朗经济施压，缓解对新一轮战争的担忧，油价下跌逾3%",
+        "oneLine": "国际最新进展：这条英文来源需要完整整理为中文，并优先说明发生了什么变化、与中国的关系及后续风险。",
+        "categories": [
+          "world",
+          "policy",
+          "finance",
+          "operations"
+        ],
+        "industries": [
+          "generalPublic",
+          "financeInvestment",
+          "operationsGrowth",
+          "ecommerceRetail"
+        ],
+        "regions": [
+          "全球"
+        ],
+        "locations": [
+          "美国",
+          "伊朗"
+        ],
+        "sourceIds": [
+          "cnbc-world-rss"
+        ],
+        "publishedAt": "2026-08-25T19:00:07.000Z",
+        "sourceLinks": [
+          {
+            "title": "CNBC World News RSS",
+            "url": "https://www.cnbc.com/2026/08/25/oil-prices-iran-trump-hormuz.html",
+            "sourceId": "cnbc-world-rss",
+            "publishedAt": "2026-08-25T19:00:07.000Z",
+            "language": "zh",
+            "originalLanguage": "en",
+            "translationStatus": "translated",
+            "fetchedAt": "2026-08-25T23:35:52.958Z",
+            "sourceMethod": "rss",
+            "verificationStatus": "pending"
+          }
+        ],
+        "images": [],
+        "body": {
+          "background": "国际主流媒体 RSS 用于补充全球突发、政策、贸易、能源和科技事件，不能单独替代事实确认。",
+          "keyProgress": "投资者对美伊战争的最新进展不屑一顾。",
+          "whyItMatters": "重大国际变化可能通过外交、贸易、关税、能源、航运、安全或市场预期影响中国用户。",
+          "userRelevance": "这条信息已经命中中国、贸易、关税、能源或航运关联，需要进入中国用户的重点复核。",
+          "whatToWatch": "继续核对官方表态和第二个可靠来源，并关注局势变化、政策生效时间及对中国的传导路径。"
+        },
+        "impactScore": 92,
+        "severityScore": 82,
+        "freshnessScore": 95,
+        "trendScore": 72,
+        "isExample": false
+      },
+      "card": {
+        "id": "draft-real-cnbc-world-rss-avv3kr",
+        "title": "美国转向对伊朗经济施压，缓解对新一轮战争的担忧，油价下跌逾3%",
+        "oneLine": "最新进展：美国转向对伊朗经济施压，缓解对新一轮战争的担忧，油价下跌逾3%。",
+        "importance": "S",
+        "credibility": "待确认",
+        "tags": [
+          "S",
+          "mustKnow",
+          "industry",
+          "world",
+          "policy",
+          "finance"
+        ],
+        "industries": [
+          "generalPublic",
+          "financeInvestment",
+          "operationsGrowth",
+          "ecommerceRetail"
+        ],
+        "section": "front",
+        "body": {
+          "background": "财政部长周四在接受“Squawk on the Street”节目采访时表示：“如果我们施加最大的经济压力，那么这意味着可能不会出现大规模的经济重启。在本文中，随着美国转向经济制裁而不是军事打击来向伊朗施压，周二油价下跌超过 3%。国际基准布伦特原油期货下跌 3.9%，收于每桶 88.58 美元。",
+          "keyProgress": "在美国政府宣布对伊朗以及继续与伊朗进行贸易的所谓推动者实施一系列新制裁后，本周价格下跌了 5% 以上。美国西德克萨斯中质原油下跌 3.1%，收于每桶 82.36 美元。白宫将其行动称为“经济诺曼底登陆”，财政部长斯科特·贝森特称此次行动是“有史以来最伟大的金融攻势”。贝森特上周对 CNBC 表示，加大经济压力的决定意味着目前不太可能重返战争。",
+          "whyItMatters": "“美国转向对伊朗经济施压，缓解对新一轮战争的担忧，油价下跌逾3%”如果继续发展，可能通过能源价格、航运、贸易、汇率或市场预期传导到国内。了解它的意义在于判断后续风险，而不只停留在事件本身。",
+          "userRelevance": "即使你不在美国、伊朗，“美国转向对伊朗经济施压，缓解对新一轮战争的担忧，油价下跌逾3%”也可能通过能源价格、国际航运、贸易成本和市场预期间接影响国内生活与工作判断。",
+          "whatToWatch": "接下来要看“美国转向对伊朗经济施压，缓解对新一轮战争的担忧，油价下跌逾3%”是否出现更细的城市、行业、平台或企业数据，以及这一变化能否连续保持。"
+        },
+        "sourceLinks": [
+          {
+            "title": "CNBC World News RSS",
+            "url": "https://www.cnbc.com/2026/08/25/oil-prices-iran-trump-hormuz.html",
+            "sourceId": "cnbc-world-rss",
+            "publishedAt": "2026-08-25T19:00:07.000Z",
+            "language": "zh",
+            "originalLanguage": "en",
+            "translationStatus": "translated",
+            "fetchedAt": "2026-08-25T23:35:52.958Z",
+            "sourceMethod": "rss",
+            "verificationStatus": "pending"
+          }
+        ],
+        "images": [
+          {
+            "url": "https://image.cnbcfm.com/api/v1/image/108353522-17876008711787600868-47962830587-1080pnbcnews.jpg?v=1787600869&amp;w=750&amp;h=422&amp;vtcrop=y",
+            "sourceUrl": "https://www.cnbc.com/2026/08/25/oil-prices-iran-trump-hormuz.html"
+          }
+        ],
+        "generatedAt": "2026-08-25T23:35:48.393Z"
+      }
+    },
+    {
+      "candidate": {
+        "id": "real-cnbc-world-rss-1heau59",
+        "title": "特朗普瞄准伊朗的贸易生命线—以下是最容易受到影响的国家",
+        "oneLine": "国际最新进展：这条英文来源需要完整整理为中文，并优先说明发生了什么变化、与中国的关系及后续风险。",
+        "categories": [
+          "world",
+          "policy",
+          "finance",
+          "operations"
+        ],
+        "industries": [
+          "generalPublic",
+          "financeInvestment",
+          "operationsGrowth",
+          "ecommerceRetail"
+        ],
+        "regions": [
+          "全球"
+        ],
+        "locations": [
+          "伊朗"
+        ],
+        "sourceIds": [
+          "cnbc-world-rss"
+        ],
+        "publishedAt": "2026-08-25T06:24:36.000Z",
+        "sourceLinks": [
+          {
+            "title": "CNBC World News RSS",
+            "url": "https://www.cnbc.com/2026/08/25/us-iran-secondary-sanctions-china-india-uae-hormuz-trade-.html",
+            "sourceId": "cnbc-world-rss",
+            "publishedAt": "2026-08-25T06:24:36.000Z",
+            "language": "zh",
+            "originalLanguage": "en",
+            "translationStatus": "translated",
+            "fetchedAt": "2026-08-25T23:35:52.958Z",
+            "sourceMethod": "rss",
+            "verificationStatus": "pending"
+          }
+        ],
+        "images": [],
+        "body": {
+          "background": "国际主流媒体 RSS 用于补充全球突发、政策、贸易、能源和科技事件，不能单独替代事实确认。",
+          "keyProgress": "华盛顿的“经济D日”威胁与一小撮政府发生冲突，这些政府占伊朗对外贸易剩余的大部分。",
+          "whyItMatters": "重大国际变化可能通过外交、贸易、关税、能源、航运、安全或市场预期影响中国用户。",
+          "userRelevance": "这条信息已经命中中国、贸易、关税、能源或航运关联，需要进入中国用户的重点复核。",
+          "whatToWatch": "继续核对官方表态和第二个可靠来源，并关注局势变化、政策生效时间及对中国的传导路径。"
+        },
+        "impactScore": 92,
+        "severityScore": 82,
+        "freshnessScore": 95,
+        "trendScore": 72,
+        "isExample": false
+      },
+      "card": {
+        "id": "draft-real-cnbc-world-rss-1heau59",
+        "title": "特朗普瞄准伊朗的贸易生命线—以下是最容易受到影响的国家",
+        "oneLine": "最新进展：特朗普瞄准伊朗的贸易生命线—以下是最容易受到影响的国家。",
+        "importance": "A",
+        "credibility": "待确认",
+        "tags": [
+          "A",
+          "mustKnow",
+          "industry",
+          "world",
+          "policy",
+          "finance"
+        ],
+        "industries": [
+          "generalPublic",
+          "financeInvestment",
+          "operationsGrowth",
+          "ecommerceRetail"
+        ],
+        "section": "front",
+        "body": {
+          "background": "据美中经济与安全审查委员会称，2025年中国与伊朗的双边贸易额为99.6亿美元，不包括当年未报告的伊朗对华原油出口额约312亿美元。美国周一宣布发起“经济诺曼底登陆”行动，将伊朗从全球经济中孤立出来，并威胁要对继续与德黑兰做生意的“推动者”进行惩罚。此举是华盛顿切断贸易生命线的一部分，该生命线在近六个月的战争中维持了德黑兰的经济。",
+          "keyProgress": "北京公开反对美国对伊朗实施制裁，认为经济压力无法解决争端。“中国当局更关心美元在融资和进入美国市场方面的准入，”她说。据美国政府称，中国是伊朗石油的最大买家，是德黑兰与全球经济的重要纽带，约占德黑兰石油出口的 90%。克普勒表示，中国的独立炼油厂吸收了大部分原油，这些原油通常被重新命名为马来西亚或印度尼西亚原油，并通过美元体系之外的中介机构进行结算。",
+          "whyItMatters": "“特朗普瞄准伊朗的贸易生命线—以下是最容易受到影响的国家”如果继续发展，可能通过能源价格、航运、贸易、汇率或市场预期传导到国内。了解它的意义在于判断后续风险，而不只停留在事件本身。",
+          "userRelevance": "即使你不在伊朗，“特朗普瞄准伊朗的贸易生命线—以下是最容易受到影响的国家”也可能通过能源价格、国际航运、贸易成本和市场预期间接影响国内生活与工作判断。",
+          "whatToWatch": "接下来要看“特朗普瞄准伊朗的贸易生命线—以下是最容易受到影响的国家”是否出现更细的城市、行业、平台或企业数据，以及这一变化能否连续保持。"
+        },
+        "sourceLinks": [
+          {
+            "title": "CNBC World News RSS",
+            "url": "https://www.cnbc.com/2026/08/25/us-iran-secondary-sanctions-china-india-uae-hormuz-trade-.html",
+            "sourceId": "cnbc-world-rss",
+            "publishedAt": "2026-08-25T06:24:36.000Z",
+            "language": "zh",
+            "originalLanguage": "en",
+            "translationStatus": "translated",
+            "fetchedAt": "2026-08-25T23:35:52.958Z",
+            "sourceMethod": "rss",
+            "verificationStatus": "pending"
+          }
+        ],
+        "images": [
+          {
+            "url": "https://image.cnbcfm.com/api/v1/image/108353675-1787634109634-1787626805-47968781364-hd.jpg?v=1787634115&amp;w=750&amp;h=422&amp;vtcrop=y",
+            "sourceUrl": "https://www.cnbc.com/2026/08/25/us-iran-secondary-sanctions-china-india-uae-hormuz-trade-.html"
+          }
+        ],
+        "generatedAt": "2026-08-25T23:35:48.393Z"
+      }
+    },
+    {
+      "candidate": {
+        "id": "real-cnbc-world-rss-814nrb",
+        "title": "World Liberty Financial 首席执行官扎克·威特科夫 (Zach Witkoff) 表示，稳定币的成功平息了对特朗普任人唯亲的指控",
+        "oneLine": "国际最新进展：这条英文来源需要完整整理为中文，并优先说明发生了什么变化、与中国的关系及后续风险。",
+        "categories": [
+          "world",
+          "policy",
+          "finance",
+          "operations"
+        ],
+        "industries": [
+          "generalPublic",
+          "financeInvestment",
+          "operationsGrowth",
+          "ecommerceRetail"
+        ],
+        "regions": [
+          "全球"
+        ],
+        "locations": [],
+        "sourceIds": [
+          "cnbc-world-rss"
+        ],
+        "publishedAt": "2026-08-25T16:15:06.000Z",
+        "sourceLinks": [
+          {
+            "title": "CNBC World News RSS",
+            "url": "https://www.cnbc.com/2026/08/25/world-liberty-financial-says-stablecoin-success-refutes-trump-cronyism-charge.html",
+            "sourceId": "cnbc-world-rss",
+            "publishedAt": "2026-08-25T16:15:06.000Z",
+            "language": "zh",
+            "originalLanguage": "en",
+            "translationStatus": "translated",
+            "fetchedAt": "2026-08-25T23:35:52.958Z",
+            "sourceMethod": "rss",
+            "verificationStatus": "pending"
+          }
+        ],
+        "images": [],
+        "body": {
+          "background": "国际主流媒体 RSS 用于补充全球突发、政策、贸易、能源和科技事件，不能单独替代事实确认。",
+          "keyProgress": "与特朗普有联系的世界自由金融公司首席执行官扎克·威特科夫表示，与特朗普家族有关的利益冲突担忧是错误的。",
+          "whyItMatters": "重大国际变化可能通过外交、贸易、关税、能源、航运、安全或市场预期影响中国用户。",
+          "userRelevance": "是否推送取决于事件影响范围、严重程度，以及它是否会影响中国或形成全球共同认知。",
+          "whatToWatch": "继续核对官方表态和第二个可靠来源，并关注局势变化、政策生效时间及对中国的传导路径。"
+        },
+        "impactScore": 92,
+        "severityScore": 82,
+        "freshnessScore": 95,
+        "trendScore": 72,
+        "isExample": false
+      },
+      "card": {
+        "id": "draft-real-cnbc-world-rss-814nrb",
+        "title": "World Liberty Financial 首席执行官扎克·威特科夫",
+        "oneLine": "最新进展：World Liberty Financial 首席执行官扎克·威特科夫。",
+        "importance": "A",
+        "credibility": "待确认",
+        "tags": [
+          "A",
+          "mustKnow",
+          "industry",
+          "world",
+          "policy",
+          "finance"
+        ],
+        "industries": [
+          "generalPublic",
+          "financeInvestment",
+          "operationsGrowth",
+          "ecommerceRetail"
+        ],
+        "section": "front",
+        "body": {
+          "background": "这家加密货币企业由唐纳德·特朗普总统及其儿子和同事于 2024 年创立，运营 1 美元稳定币，最近获得了国家信托银行章程的有条件批准，允许该公司在内部发行和托管 1 美元。特朗普的年度财务披露显示，2025年，出售World Liberty Financial发行的代币收入约为5.15亿美元，出售WLF控股公司股权的收入约为6500万美元。首席执行官扎克·威特科夫(Zach Witkoff)是政府中东特使史蒂夫·威特科夫(Steve Witkoff)的儿子，他表示，对公司或国家是否可以使用1美元向特朗普及其家人输送资金的担忧是错误的，他指出1美元的效用、流动性和分配性。",
+          "keyProgress": "“我花时间思考如何代表我们的员工以及最终我们的客户执行任务。他周二上午在 CNBC 的“Squawk Box”节目中表示：“1 美元的流通量超过 40 亿美元，每天的交易量也超过 10 亿美元。” “在我上场之前，我检查了交易量指标——过去 24 小时内交易量为 17 亿美元，这说明了 1 美元的用例，也说明了实际使用它的客户。”据报道，一个与阿拉伯联合酋长国有关的组织购买了 49% 的股份，这加剧了围绕世界自由组织的利益冲突担忧，这引发了国会民主党人的质疑，即这项投资是否影响了涉及武器销售和人工智能芯片出口的政府政策。",
+          "whyItMatters": "“World Liberty Financial 首席执行官扎克·威特科夫”如果继续发展，可能通过能源价格、航运、贸易、汇率或市场预期传导到国内。了解它的意义在于判断后续风险，而不只停留在事件本身。",
+          "userRelevance": "即使你不在事发地区，“World Liberty Financial 首席执行官扎克·威特科夫”也可能通过能源价格、国际航运、贸易成本和市场预期间接影响国内生活与工作判断。",
+          "whatToWatch": "接下来要看“World Liberty Financial 首席执行官扎克·威特科夫”是否出现更细的城市、行业、平台或企业数据，以及这一变化能否连续保持。"
+        },
+        "sourceLinks": [
+          {
+            "title": "CNBC World News RSS",
+            "url": "https://www.cnbc.com/2026/08/25/world-liberty-financial-says-stablecoin-success-refutes-trump-cronyism-charge.html",
+            "sourceId": "cnbc-world-rss",
+            "publishedAt": "2026-08-25T16:15:06.000Z",
+            "language": "zh",
+            "originalLanguage": "en",
+            "translationStatus": "translated",
+            "fetchedAt": "2026-08-25T23:35:52.958Z",
+            "sourceMethod": "rss",
+            "verificationStatus": "pending"
+          }
+        ],
+        "images": [],
+        "generatedAt": "2026-08-25T23:35:48.393Z"
+      }
+    },
+    {
+      "candidate": {
+        "id": "real-cnbc-world-rss-11rupdz",
+        "title": "“贬值交易”在贝森特债券策略之后回归。加密货币和黄金重新流行起来",
+        "oneLine": "国际最新进展：这条英文来源需要完整整理为中文，并优先说明发生了什么变化、与中国的关系及后续风险。",
+        "categories": [
+          "world",
+          "policy",
+          "finance",
+          "operations"
+        ],
+        "industries": [
+          "generalPublic",
+          "financeInvestment",
+          "operationsGrowth",
+          "ecommerceRetail"
+        ],
+        "regions": [
+          "全球"
+        ],
+        "locations": [
+          "美国"
+        ],
+        "sourceIds": [
+          "cnbc-world-rss"
+        ],
+        "publishedAt": "2026-08-25T15:16:02.000Z",
+        "sourceLinks": [
+          {
+            "title": "CNBC World News RSS",
+            "url": "https://www.cnbc.com/2026/08/25/debasement-trade-debt-gold-bitcoin-dollar.html",
+            "sourceId": "cnbc-world-rss",
+            "publishedAt": "2026-08-25T15:16:02.000Z",
+            "language": "zh",
+            "originalLanguage": "en",
+            "translationStatus": "translated",
+            "fetchedAt": "2026-08-25T23:35:52.958Z",
+            "sourceMethod": "rss",
+            "verificationStatus": "pending"
+          }
+        ],
+        "images": [],
+        "body": {
+          "background": "国际主流媒体 RSS 用于补充全球突发、政策、贸易、能源和科技事件，不能单独替代事实确认。",
+          "keyProgress": "对美国政府支出规模和成本的担忧为贬值交易注入了新的活力。",
+          "whyItMatters": "重大国际变化可能通过外交、贸易、关税、能源、航运、安全或市场预期影响中国用户。",
+          "userRelevance": "是否推送取决于事件影响范围、严重程度，以及它是否会影响中国或形成全球共同认知。",
+          "whatToWatch": "继续核对官方表态和第二个可靠来源，并关注局势变化、政策生效时间及对中国的传导路径。"
+        },
+        "impactScore": 72,
+        "severityScore": 45,
+        "freshnessScore": 95,
+        "trendScore": 72,
+        "isExample": false
+      },
+      "card": {
+        "id": "draft-real-cnbc-world-rss-11rupdz",
+        "title": "“贬值交易”在贝森特债券策略之后回归。加密货币和黄金重新流行起来",
+        "oneLine": "政策变化：随着人们对预算赤字规模和成本的担忧加剧，贬值交易在华尔街获得了新的关注。",
+        "importance": "B",
+        "credibility": "待确认",
+        "tags": [
+          "B",
+          "industry",
+          "world",
+          "policy",
+          "finance"
+        ],
+        "industries": [
+          "generalPublic",
+          "financeInvestment",
+          "operationsGrowth",
+          "ecommerceRetail"
+        ],
+        "section": "industry",
+        "body": {
+          "background": "交易背后的传统观点是，当投资者在政府支出膨胀的情况下试图对冲美元和国债疲软时，加密货币和贵金属等硬资产就会上涨。上周，在财政部长斯科特·贝森特(Scott Bessent)领导下，财政部采取了不同寻常的增加债务回购的举措之前和之后，这些担忧达到了白热化的程度。专注于加密货币的交易所交易基金创建者 21Shares 的宏观主管 Stephen Coltman 表示：“与整个市场的规模相比，Bessent 迄今为止宣布的国债购买规模微不足道，但[信号]效应非常强大。",
+          "keyProgress": "The U.S. dollar index , which tracks the dollar against six other leading currencies, hit three-month lows last week and recorded its third down week in the last four.周一该指数几乎没有变化，因为投资者没有表现出抬高美元的兴趣。贝森特上周对 CNBC 表示，在人们对政府财务健康状况的担忧之际，他动用了一个“大工具包”来安抚政府债券市场。”金价周一触及三个月高位，继上周上涨逾 5% 的基础上。这种黄色金属已连续五周上涨，8 月份有望创下 1999 年以来的最大月度涨幅。",
+          "whyItMatters": "“贬值交易在贝森特债券策略之后回归。加密货币和黄金重新流行起来”如果继续发展，可能通过能源价格、航运、贸易、汇率或市场预期传导到国内。了解它的意义在于判断后续风险，而不只停留在事件本身。",
+          "userRelevance": "即使你不在美国，“贬值交易在贝森特债券策略之后回归。加密货币和黄金重新流行起来”也可能通过能源价格、国际航运、贸易成本和市场预期间接影响国内生活与工作判断。",
+          "whatToWatch": "接下来要看“贬值交易在贝森特债券策略之后回归。加密货币和黄金重新流行起来”是否出现更细的城市、行业、平台或企业数据，以及这一变化能否连续保持。"
+        },
+        "sourceLinks": [
+          {
+            "title": "CNBC World News RSS",
+            "url": "https://www.cnbc.com/2026/08/25/debasement-trade-debt-gold-bitcoin-dollar.html",
+            "sourceId": "cnbc-world-rss",
+            "publishedAt": "2026-08-25T15:16:02.000Z",
+            "language": "zh",
+            "originalLanguage": "en",
+            "translationStatus": "translated",
+            "fetchedAt": "2026-08-25T23:35:52.958Z",
+            "sourceMethod": "rss",
+            "verificationStatus": "pending"
+          }
+        ],
+        "images": [
+          {
+            "url": "https://image.cnbcfm.com/api/v1/image/108353091-17875387681787538766-47948911243-1080pnbcnews.jpg?v=1787538768&amp;w=750&amp;h=422&amp;vtcrop=y",
+            "sourceUrl": "https://www.cnbc.com/2026/08/25/debasement-trade-debt-gold-bitcoin-dollar.html"
+          }
+        ],
+        "generatedAt": "2026-08-25T23:35:48.393Z"
+      }
+    },
+    {
+      "candidate": {
+        "id": "real-cnbc-world-rss-abps6e",
+        "title": "新德里在11周内收入730亿美元，由非居民印度人特别存款提供动力",
+        "oneLine": "国际最新进展：这条英文来源需要完整整理为中文，并优先说明发生了什么变化、与中国的关系及后续风险。",
+        "categories": [
+          "world",
+          "policy",
+          "finance",
+          "operations"
+        ],
+        "industries": [
+          "generalPublic",
+          "financeInvestment",
+          "operationsGrowth",
+          "ecommerceRetail"
+        ],
+        "regions": [
+          "全球"
+        ],
+        "locations": [
+          "印度"
+        ],
+        "sourceIds": [
+          "cnbc-world-rss"
+        ],
+        "publishedAt": "2026-08-25T10:23:53.000Z",
+        "sourceLinks": [
+          {
+            "title": "CNBC World News RSS",
+            "url": "https://www.cnbc.com/2026/08/25/india-billion-foreign-inflows-rupee-weakness.html",
+            "sourceId": "cnbc-world-rss",
+            "publishedAt": "2026-08-25T10:23:53.000Z",
+            "language": "zh",
+            "originalLanguage": "en",
+            "translationStatus": "translated",
+            "fetchedAt": "2026-08-25T23:35:52.958Z",
+            "sourceMethod": "rss",
+            "verificationStatus": "pending"
+          }
+        ],
+        "images": [],
+        "body": {
+          "background": "国际主流媒体 RSS 用于补充全球突发、政策、贸易、能源和科技事件，不能单独替代事实确认。",
+          "keyProgress": "印度在11周内吸引了730亿美元的资金流入，主要是由非印度居民的外币银行存款推动的。",
+          "whyItMatters": "重大国际变化可能通过外交、贸易、关税、能源、航运、安全或市场预期影响中国用户。",
+          "userRelevance": "是否推送取决于事件影响范围、严重程度，以及它是否会影响中国或形成全球共同认知。",
+          "whatToWatch": "继续核对官方表态和第二个可靠来源，并关注局势变化、政策生效时间及对中国的传导路径。"
+        },
+        "impactScore": 72,
+        "severityScore": 45,
+        "freshnessScore": 95,
+        "trendScore": 72,
+        "isExample": false
+      },
+      "card": {
+        "id": "draft-real-cnbc-world-rss-abps6e",
+        "title": "新德里在11周内收入730亿美元，由非居民印度人特别存款提供动力",
+        "oneLine": "政策变化：新德里通过一项特殊计划吸引外国资金，在过去 11 周内推动了 730 亿美元的资金流入，这主要得益于印度非居民在印度银行进行外币存款的激励措施。",
+        "importance": "B",
+        "credibility": "待确认",
+        "tags": [
+          "B",
+          "industry",
+          "world",
+          "policy",
+          "finance"
+        ],
+        "industries": [
+          "generalPublic",
+          "financeInvestment",
+          "operationsGrowth",
+          "ecommerceRetail"
+        ],
+        "section": "industry",
+        "body": {
+          "background": "据官方发布的消息，2013 年，类似的举措导致三个月内资金流入 260 亿美元。此举旨在支撑印度卢比，由于能源进口费用上涨和外国资本外流，印度卢比仍然疲软。印度IDFC第一银行首席经济学家Gaura Sengupta告诉CNBC，尽管最近能源价格飙升，但卢比一直相对稳定，因为这些资金流入为印度储备银行干预货币市场提供了空间。",
+          "keyProgress": "她表示，印度储备银行正在利用这些资金流入来尽量减少“波动”，但不会“影响当地货币的方向”。她补充说，她的公司将卢比兑换成美元兑卢比汇率在 2027 年 3 月之前稳定在 96.50 左右。印度财政部称激励性存款计划（也称为外币非居民（银行）存款）是印度“最​​大、最快的外币动员活动”。印度财政部周一表示，超过 650 亿美元的流入流入了这些银行存款，据全球券商野村证券 (Nomura) 称，在激励措施于 8 月 31 日结束之前，存款可能会增至近 800 亿美元。",
+          "whyItMatters": "“新德里在11周内收入730亿美元，由非居民印度人特别存款提供动力”如果继续发展，可能通过能源价格、航运、贸易、汇率或市场预期传导到国内。了解它的意义在于判断后续风险，而不只停留在事件本身。",
+          "userRelevance": "即使你不在印度，“新德里在11周内收入730亿美元，由非居民印度人特别存款提供动力”也可能通过能源价格、国际航运、贸易成本和市场预期间接影响国内生活与工作判断。",
+          "whatToWatch": "接下来要看“新德里在11周内收入730亿美元，由非居民印度人特别存款提供动力”是否出现更细的城市、行业、平台或企业数据，以及这一变化能否连续保持。"
+        },
+        "sourceLinks": [
+          {
+            "title": "CNBC World News RSS",
+            "url": "https://www.cnbc.com/2026/08/25/india-billion-foreign-inflows-rupee-weakness.html",
+            "sourceId": "cnbc-world-rss",
+            "publishedAt": "2026-08-25T10:23:53.000Z",
+            "language": "zh",
+            "originalLanguage": "en",
+            "translationStatus": "translated",
+            "fetchedAt": "2026-08-25T23:35:52.958Z",
+            "sourceMethod": "rss",
+            "verificationStatus": "pending"
+          }
+        ],
+        "images": [],
+        "generatedAt": "2026-08-25T23:35:48.393Z"
+      }
+    },
+    {
+      "candidate": {
+        "id": "real-cnbc-world-rss-s4k48l",
+        "title": "消息人士称，美国卫生与公众服务部计划设立新的 FDA 技术和药物副专员职位",
+        "oneLine": "国际最新进展：这条英文来源需要完整整理为中文，并优先说明发生了什么变化、与中国的关系及后续风险。",
+        "categories": [
+          "world",
+          "policy",
+          "finance",
+          "operations"
+        ],
+        "industries": [
+          "generalPublic",
+          "financeInvestment",
+          "operationsGrowth",
+          "ecommerceRetail"
+        ],
+        "regions": [
+          "全球"
+        ],
+        "locations": [
+          "美国"
+        ],
+        "sourceIds": [
+          "cnbc-world-rss"
+        ],
+        "publishedAt": "2026-08-25T17:00:01.000Z",
+        "sourceLinks": [
+          {
+            "title": "CNBC World News RSS",
+            "url": "https://www.cnbc.com/2026/08/25/hhs-fda-leadership-roles-technology-drugs.html",
+            "sourceId": "cnbc-world-rss",
+            "publishedAt": "2026-08-25T17:00:01.000Z",
+            "language": "zh",
+            "originalLanguage": "en",
+            "translationStatus": "translated",
+            "fetchedAt": "2026-08-25T23:35:52.958Z",
+            "sourceMethod": "rss",
+            "verificationStatus": "pending"
+          }
+        ],
+        "images": [],
+        "body": {
+          "background": "国际主流媒体 RSS 用于补充全球突发、政策、贸易、能源和科技事件，不能单独替代事实确认。",
+          "keyProgress": "两位知情人士称，美国卫生与公众服务部计划任命两名负责技术和药品的副专员。",
+          "whyItMatters": "重大国际变化可能通过外交、贸易、关税、能源、航运、安全或市场预期影响中国用户。",
+          "userRelevance": "是否推送取决于事件影响范围、严重程度，以及它是否会影响中国或形成全球共同认知。",
+          "whatToWatch": "继续核对官方表态和第二个可靠来源，并关注局势变化、政策生效时间及对中国的传导路径。"
+        },
+        "impactScore": 72,
+        "severityScore": 45,
+        "freshnessScore": 95,
+        "trendScore": 72,
+        "isExample": false
+      },
+      "card": {
+        "id": "draft-real-cnbc-world-rss-s4k48l",
+        "title": "消息人士称，美国卫生与公众服务部计划设立新的 FDA 技术和药物副专员职位",
+        "oneLine": "政策变化：《消息人士称，美国卫生与公众服务部计划设立新的 FDA 技术和药物副专员职位》消息人士要求保持匿名，因为他们无权公开发言。",
+        "importance": "B",
+        "credibility": "待确认",
+        "tags": [
+          "B",
+          "industry",
+          "world",
+          "policy",
+          "finance"
+        ],
+        "industries": [
+          "generalPublic",
+          "financeInvestment",
+          "operationsGrowth",
+          "ecommerceRetail"
+        ],
+        "section": "industry",
+        "body": {
+          "background": "该机构已经有几名副专员，其中包括一名负责食品的代理副专员，但目前尚不清楚谁将永久担任该职位。FDA 还因围绕某些新药品做出的一系列决定而受到关注。据 CNBC 获悉，美国卫生与公众服务部正计划在食品和药物管理局设立两个新的副局长职位，其中一个将专注于技术以及健康与人工智能的交叉领域。",
+          "keyProgress": "消息人士要求保持匿名，因为他们无权公开发言。Seehafer 是生命科学合规软件公司 Enzyme 的联合创始人兼前首席执行官，最近在旧金山的一家风险投资公司工作，然后于去年 8 月担任 FDA 顾问。据两位熟悉该计划的消息人士透露，另一个新职位是药品副专员。消息人士称，美国卫生与公众服务部官员将任命新领导人，特朗普政府的一些人认为这是为了对该机构施加更大的影响。",
+          "whyItMatters": "“消息人士称，美国卫生与公众服务部计划设立新的 FDA 技术和药物副专员职位”如果继续发展，可能通过能源价格、航运、贸易、汇率或市场预期传导到国内。了解它的意义在于判断后续风险，而不只停留在事件本身。",
+          "userRelevance": "即使你不在美国，“消息人士称，美国卫生与公众服务部计划设立新的 FDA 技术和药物副专员职位”也可能通过能源价格、国际航运、贸易成本和市场预期间接影响国内生活与工作判断。",
+          "whatToWatch": "接下来要看“消息人士称，美国卫生与公众服务部计划设立新的 FDA 技术和药物副专员职位”是否出现更细的城市、行业、平台或企业数据，以及这一变化能否连续保持。"
+        },
+        "sourceLinks": [
+          {
+            "title": "CNBC World News RSS",
+            "url": "https://www.cnbc.com/2026/08/25/hhs-fda-leadership-roles-technology-drugs.html",
+            "sourceId": "cnbc-world-rss",
+            "publishedAt": "2026-08-25T17:00:01.000Z",
+            "language": "zh",
+            "originalLanguage": "en",
+            "translationStatus": "translated",
+            "fetchedAt": "2026-08-25T23:35:52.958Z",
+            "sourceMethod": "rss",
+            "verificationStatus": "pending"
+          }
+        ],
+        "images": [],
+        "generatedAt": "2026-08-25T23:35:48.393Z"
+      }
+    },
+    {
+      "candidate": {
+        "id": "real-cnbc-world-rss-soubhs",
+        "title": "苹果宣布推出带有AI升级的新款Mac Mini和Mac Studio机型",
+        "oneLine": "国际最新进展：这条英文来源需要完整整理为中文，并优先说明发生了什么变化、与中国的关系及后续风险。",
+        "categories": [
+          "world",
+          "policy",
+          "finance",
+          "operations"
+        ],
+        "industries": [
+          "generalPublic",
+          "financeInvestment",
+          "operationsGrowth",
+          "ecommerceRetail"
+        ],
+        "regions": [
+          "全球"
+        ],
+        "locations": [],
+        "sourceIds": [
+          "cnbc-world-rss"
+        ],
+        "publishedAt": "2026-08-25T13:00:01.000Z",
+        "sourceLinks": [
+          {
+            "title": "CNBC World News RSS",
+            "url": "https://www.cnbc.com/2026/08/25/apple-announces-new-mac-mini-and-mac-studio-models-with-ai-upgrades.html",
+            "sourceId": "cnbc-world-rss",
+            "publishedAt": "2026-08-25T13:00:01.000Z",
+            "language": "zh",
+            "originalLanguage": "en",
+            "translationStatus": "translated",
+            "fetchedAt": "2026-08-25T23:35:52.958Z",
+            "sourceMethod": "rss",
+            "verificationStatus": "pending"
+          }
+        ],
+        "images": [],
+        "body": {
+          "background": "国际主流媒体 RSS 用于补充全球突发、政策、贸易、能源和科技事件，不能单独替代事实确认。",
+          "keyProgress": "“有了这些框架和新芯片，开发人员可以在Mac上本地运行和微调大型AI模型，”苹果表示。",
+          "whyItMatters": "重大国际变化可能通过外交、贸易、关税、能源、航运、安全或市场预期影响中国用户。",
+          "userRelevance": "是否推送取决于事件影响范围、严重程度，以及它是否会影响中国或形成全球共同认知。",
+          "whatToWatch": "继续核对官方表态和第二个可靠来源，并关注局势变化、政策生效时间及对中国的传导路径。"
+        },
+        "impactScore": 72,
+        "severityScore": 45,
+        "freshnessScore": 95,
+        "trendScore": 72,
+        "isExample": false
+      },
+      "card": {
+        "id": "draft-real-cnbc-world-rss-soubhs",
+        "title": "苹果宣布推出带有AI升级的新款Mac Mini和Mac Studio机型",
+        "oneLine": "政策变化：在本文中，随着越来越多的消费者转向苹果电脑来创建和运行人工智能代理，该公司正在推出新的 Mac Mini 和 Mac Studio 型号，配备更新的芯片和人工智能应用程序的其他升级。",
+        "importance": "B",
+        "credibility": "待确认",
+        "tags": [
+          "B",
+          "industry",
+          "world",
+          "policy",
+          "finance"
+        ],
+        "industries": [
+          "generalPublic",
+          "financeInvestment",
+          "operationsGrowth",
+          "ecommerceRetail"
+        ],
+        "section": "industry",
+        "body": {
+          "background": "预计苹果公司将发布新 iPhone 机型的几周前宣布的这一消息表明，台式电脑作为人工智能开发领域的立足点以及展示其处理器功能的平台，对苹果公司来说已变得具有重要的战略意义。苹果在周二的声明中强调，它的 iPhone 和 Mac 芯片采用了专门用于运行模型的称为神经引擎的特殊部件，并且使用了 RAM 架构，消除了一些内存瓶颈。使用 OpenClaw 等软件创建自己的代理的开发人员通常更喜欢在专用的 Mac Mini 计算机上运行它们，而不是在云中。",
+          "keyProgress": "Apple 的 Mac Studio 是尝试训练和部署本地模型的人工智能研究人员的热门选择。苹果在新闻稿中表示：“借助这些框架和新芯片，开发人员可以在 Mac 上本地运行和微调大型人工智能模型。苹果宣布推出带有人工智能升级的新 Mac Mini 和 Mac Studio 机型 英伟达对超大规模计算设备的依赖在收益报告中面临重大考验 OpenAI 禁止在秘密虚假信息活动中使用俄罗斯 ChatGPT 账户 黑莓首席执行官表示，机器人技术是其增长最快的业务之一 之前的版本配备了 M4、M4 Pro 和 M4 Max 芯片。苹果表示，配置 M5 Pro 的电脑处理大型语言模型提示的速度比旧版 Pro 版本的 Mac Mini 快 8.5 倍。",
+          "whyItMatters": "“苹果宣布推出带有AI升级的新款Mac Mini和Mac Studio机型”如果继续发展，可能通过能源价格、航运、贸易、汇率或市场预期传导到国内。了解它的意义在于判断后续风险，而不只停留在事件本身。",
+          "userRelevance": "即使你不在事发地区，“苹果宣布推出带有AI升级的新款Mac Mini和Mac Studio机型”也可能通过能源价格、国际航运、贸易成本和市场预期间接影响国内生活与工作判断。",
+          "whatToWatch": "接下来要看“苹果宣布推出带有AI升级的新款Mac Mini和Mac Studio机型”是否出现更细的城市、行业、平台或企业数据，以及这一变化能否连续保持。"
+        },
+        "sourceLinks": [
+          {
+            "title": "CNBC World News RSS",
+            "url": "https://www.cnbc.com/2026/08/25/apple-announces-new-mac-mini-and-mac-studio-models-with-ai-upgrades.html",
+            "sourceId": "cnbc-world-rss",
+            "publishedAt": "2026-08-25T13:00:01.000Z",
+            "language": "zh",
+            "originalLanguage": "en",
+            "translationStatus": "translated",
+            "fetchedAt": "2026-08-25T23:35:52.958Z",
+            "sourceMethod": "rss",
+            "verificationStatus": "pending"
+          }
+        ],
+        "images": [
+          {
+            "url": "https://image.cnbcfm.com/api/v1/image/108349235-1786637694858-1786634065-47747191115-hd.jpg?v=1786637695&amp;w=750&amp;h=422&amp;vtcrop=y",
+            "sourceUrl": "https://www.cnbc.com/2026/08/25/apple-announces-new-mac-mini-and-mac-studio-models-with-ai-upgrades.html"
+          }
+        ],
+        "generatedAt": "2026-08-25T23:35:48.393Z"
+      }
+    },
+    {
+      "candidate": {
+        "id": "real-cnbc-world-rss-zoefqi",
+        "title": "OpenAI禁止俄罗斯ChatGPT帐户用于隐蔽的虚假信息宣传活动",
+        "oneLine": "国际最新进展：这条英文来源需要完整整理为中文，并优先说明发生了什么变化、与中国的关系及后续风险。",
+        "categories": [
+          "world",
+          "policy",
+          "finance",
+          "operations"
+        ],
+        "industries": [
+          "generalPublic",
+          "financeInvestment",
+          "operationsGrowth",
+          "ecommerceRetail"
+        ],
+        "regions": [
+          "全球"
+        ],
+        "locations": [
+          "俄罗斯"
+        ],
+        "sourceIds": [
+          "cnbc-world-rss"
+        ],
+        "publishedAt": "2026-08-25T11:21:09.000Z",
+        "sourceLinks": [
+          {
+            "title": "CNBC World News RSS",
+            "url": "https://www.cnbc.com/2026/08/25/openai-russia-chatgpt-influence-campaign.html",
+            "sourceId": "cnbc-world-rss",
+            "publishedAt": "2026-08-25T11:21:09.000Z",
+            "language": "zh",
+            "originalLanguage": "en",
+            "translationStatus": "translated",
+            "fetchedAt": "2026-08-25T23:35:52.958Z",
+            "sourceMethod": "rss",
+            "verificationStatus": "pending"
+          }
+        ],
+        "images": [],
+        "body": {
+          "background": "国际主流媒体 RSS 用于补充全球突发、政策、贸易、能源和科技事件，不能单独替代事实确认。",
+          "keyProgress": "这家AI公司表示，这一事件“说明了参与者如何在更广泛的制造权威的努力中将AI用作支持工具。”",
+          "whyItMatters": "重大国际变化可能通过外交、贸易、关税、能源、航运、安全或市场预期影响中国用户。",
+          "userRelevance": "是否推送取决于事件影响范围、严重程度，以及它是否会影响中国或形成全球共同认知。",
+          "whatToWatch": "继续核对官方表态和第二个可靠来源，并关注局势变化、政策生效时间及对中国的传导路径。"
+        },
+        "impactScore": 72,
+        "severityScore": 45,
+        "freshnessScore": 95,
+        "trendScore": 72,
+        "isExample": false
+      },
+      "card": {
+        "id": "draft-real-cnbc-world-rss-zoefqi",
+        "title": "OpenAI禁止俄罗斯ChatGPT帐户用于隐蔽的虚假信息宣传活动",
+        "oneLine": "政策变化：在本文中，OpenAI 禁止了一组源自俄罗斯的 ChatGPT 帐户，称这些帐户被用来支持秘密的在线影响力活动，以传播错误信息。",
+        "importance": "B",
+        "credibility": "待确认",
+        "tags": [
+          "B",
+          "industry",
+          "world",
+          "policy",
+          "finance"
+        ],
+        "industries": [
+          "generalPublic",
+          "financeInvestment",
+          "operationsGrowth",
+          "ecommerceRetail"
+        ],
+        "section": "industry",
+        "body": {
+          "background": "OpenAI 不允许在俄罗斯访问其模型，但该公司表示 VPN 用于伪装位置。OpenAI 表示，运营商用俄语提示生成发布在 Substack、Telegram、X、Facebook 和 LinkedIn 上的社交媒体评论，并指示 ChatGPT 隐藏任何表明他们是俄语的语言线索。该公司补充说，虽然该行动的直接影响似乎有限，但“该行动的意义不在于它所覆盖的受众，而在于它所建立的基础设施。",
+          "keyProgress": "OpenAI 在周二的博客文章中表示，该公司在调查人工智能生成的社交媒体帖子后发现了这个问题，这导致其采取了“更广泛的影响行动”。该公司补充说，该活动“围绕一个包含复制和错误归属的学术作品的网站、一个对俄罗斯有利的‘主权’指数，以及掩盖运营商俄罗斯血统的努力”。今年 2 月，OpenAI 表示，它已经关闭了与 Rybar 有关的 ChatGPT 账户。OpenAI 表示，影响力活动还创建了一个“主权指数”，该指数赞扬俄罗斯并诋毁西方国家。",
+          "whyItMatters": "“OpenAI禁止俄罗斯ChatGPT帐户用于隐蔽的虚假信息宣传活动”如果继续发展，可能通过能源价格、航运、贸易、汇率或市场预期传导到国内。了解它的意义在于判断后续风险，而不只停留在事件本身。",
+          "userRelevance": "即使你不在俄罗斯，“OpenAI禁止俄罗斯ChatGPT帐户用于隐蔽的虚假信息宣传活动”也可能通过能源价格、国际航运、贸易成本和市场预期间接影响国内生活与工作判断。",
+          "whatToWatch": "接下来要看“OpenAI禁止俄罗斯ChatGPT帐户用于隐蔽的虚假信息宣传活动”是否出现更细的城市、行业、平台或企业数据，以及这一变化能否连续保持。"
+        },
+        "sourceLinks": [
+          {
+            "title": "CNBC World News RSS",
+            "url": "https://www.cnbc.com/2026/08/25/openai-russia-chatgpt-influence-campaign.html",
+            "sourceId": "cnbc-world-rss",
+            "publishedAt": "2026-08-25T11:21:09.000Z",
+            "language": "zh",
+            "originalLanguage": "en",
+            "translationStatus": "translated",
+            "fetchedAt": "2026-08-25T23:35:52.958Z",
+            "sourceMethod": "rss",
+            "verificationStatus": "pending"
+          }
+        ],
+        "images": [],
+        "generatedAt": "2026-08-25T23:35:48.393Z"
+      }
+    },
+    {
+      "candidate": {
+        "id": "real-cnbc-world-rss-yum5mx",
+        "title": "随着加密货币涨势加快，比特币价格扩大涨幅，短暂突破 81,000 美元",
+        "oneLine": "国际最新进展：这条英文来源需要完整整理为中文，并优先说明发生了什么变化、与中国的关系及后续风险。",
+        "categories": [
+          "world",
+          "policy",
+          "finance",
+          "operations"
+        ],
+        "industries": [
+          "generalPublic",
+          "financeInvestment",
+          "operationsGrowth",
+          "ecommerceRetail"
+        ],
+        "regions": [
+          "全球"
+        ],
+        "locations": [],
+        "sourceIds": [
+          "cnbc-world-rss"
+        ],
+        "publishedAt": "2026-08-25T16:46:40.000Z",
+        "sourceLinks": [
+          {
+            "title": "CNBC World News RSS",
+            "url": "https://www.cnbc.com/2026/08/25/bitcoin-price-near-80000-cryptocurrency-ether-us-treasuries.html",
+            "sourceId": "cnbc-world-rss",
+            "publishedAt": "2026-08-25T16:46:40.000Z",
+            "language": "zh",
+            "originalLanguage": "en",
+            "translationStatus": "translated",
+            "fetchedAt": "2026-08-25T23:35:52.958Z",
+            "sourceMethod": "rss",
+            "verificationStatus": "pending"
+          }
+        ],
+        "images": [],
+        "body": {
+          "background": "国际主流媒体 RSS 用于补充全球突发、政策、贸易、能源和科技事件，不能单独替代事实确认。",
+          "keyProgress": "随着现货比特币 ETF 的重新流入以及风险偏好的改善延续了近期加密货币的涨势，比特币一度飙升至 81,000 美元以上。",
+          "whyItMatters": "重大国际变化可能通过外交、贸易、关税、能源、航运、安全或市场预期影响中国用户。",
+          "userRelevance": "是否推送取决于事件影响范围、严重程度，以及它是否会影响中国或形成全球共同认知。",
+          "whatToWatch": "继续核对官方表态和第二个可靠来源，并关注局势变化、政策生效时间及对中国的传导路径。"
+        },
+        "impactScore": 72,
+        "severityScore": 45,
+        "freshnessScore": 95,
+        "trendScore": 72,
+        "isExample": false
+      },
+      "card": {
+        "id": "draft-real-cnbc-world-rss-yum5mx",
+        "title": "随着加密货币涨势加快，比特币价格扩大涨幅，短暂突破 81,000 美元",
+        "oneLine": "政策变化：在本文中，比特币周二延续涨势，因为现货比特币 ETF 的新资金流入和风险偏好的改善延续了加密货币近期的涨势。",
+        "importance": "B",
+        "credibility": "待确认",
+        "tags": [
+          "B",
+          "industry",
+          "world",
+          "policy",
+          "finance"
+        ],
+        "industries": [
+          "generalPublic",
+          "financeInvestment",
+          "operationsGrowth",
+          "ecommerceRetail"
+        ],
+        "section": "industry",
+        "body": {
+          "background": "旗舰加密货币最后上涨不到 1%，至 79,287.12 美元。早些时候，其交易价格高达 81,240.68 美元。这一最新举措延续了上周开始的大幅上涨，当时比特币在三天内飙升了 20% 以上，这是自 2023 年以来的最大三天涨幅。",
+          "keyProgress": "此举短暂压低了收益率并重振了对风险资产的需求，而对通胀和政府债务的日益担忧也提振了人们对稀缺资产的兴趣。该研究公司强调，期权市场的活动也表明投资者对涨势能够持续越来越有信心。此次上涨的部分原因是轧空，随着价格上涨，超过 40 亿美元的看跌加密货币头寸被清算。在美国财政部宣布将购买较长期政府债券的数量增加一倍之后，股市上涨。",
+          "whyItMatters": "“随着加密货币涨势加快，比特币价格扩大涨幅，短暂突破 81,000 美元”如果继续发展，可能通过能源价格、航运、贸易、汇率或市场预期传导到国内。了解它的意义在于判断后续风险，而不只停留在事件本身。",
+          "userRelevance": "即使你不在事发地区，“随着加密货币涨势加快，比特币价格扩大涨幅，短暂突破 81,000 美元”也可能通过能源价格、国际航运、贸易成本和市场预期间接影响国内生活与工作判断。",
+          "whatToWatch": "接下来要看“随着加密货币涨势加快，比特币价格扩大涨幅，短暂突破 81,000 美元”是否出现更细的城市、行业、平台或企业数据，以及这一变化能否连续保持。"
+        },
+        "sourceLinks": [
+          {
+            "title": "CNBC World News RSS",
+            "url": "https://www.cnbc.com/2026/08/25/bitcoin-price-near-80000-cryptocurrency-ether-us-treasuries.html",
+            "sourceId": "cnbc-world-rss",
+            "publishedAt": "2026-08-25T16:46:40.000Z",
+            "language": "zh",
+            "originalLanguage": "en",
+            "translationStatus": "translated",
+            "fetchedAt": "2026-08-25T23:35:52.958Z",
+            "sourceMethod": "rss",
+            "verificationStatus": "pending"
+          }
+        ],
+        "images": [],
+        "generatedAt": "2026-08-25T23:35:48.393Z"
+      }
+    },
+    {
+      "candidate": {
+        "id": "real-cnbc-world-rss-1r67qcc",
+        "title": "保时捷与印度最大的IT服务公司塔塔咨询公司达成15亿美元的人工智能部署协议",
+        "oneLine": "国际最新进展：这条英文来源需要完整整理为中文，并优先说明发生了什么变化、与中国的关系及后续风险。",
+        "categories": [
+          "world",
+          "policy",
+          "finance",
+          "operations"
+        ],
+        "industries": [
+          "generalPublic",
+          "financeInvestment",
+          "operationsGrowth",
+          "ecommerceRetail"
+        ],
+        "regions": [
+          "全球"
+        ],
+        "locations": [
+          "印度",
+          "德国"
+        ],
+        "sourceIds": [
+          "cnbc-world-rss"
+        ],
+        "publishedAt": "2026-08-25T03:01:16.000Z",
+        "sourceLinks": [
+          {
+            "title": "CNBC World News RSS",
+            "url": "https://www.cnbc.com/2026/08/25/porsche-inks-billion-ai-deal-india-it-tcs.html",
+            "sourceId": "cnbc-world-rss",
+            "publishedAt": "2026-08-25T03:01:16.000Z",
+            "language": "zh",
+            "originalLanguage": "en",
+            "translationStatus": "translated",
+            "fetchedAt": "2026-08-25T23:35:52.958Z",
+            "sourceMethod": "rss",
+            "verificationStatus": "pending"
+          }
+        ],
+        "images": [],
+        "body": {
+          "background": "国际主流媒体 RSS 用于补充全球突发、政策、贸易、能源和科技事件，不能单独替代事实确认。",
+          "keyProgress": "印度IT服务巨头TCS已获得一份价值15亿美元的合同，为德国跑车制造商保时捷部署人工智能。",
+          "whyItMatters": "重大国际变化可能通过外交、贸易、关税、能源、航运、安全或市场预期影响中国用户。",
+          "userRelevance": "是否推送取决于事件影响范围、严重程度，以及它是否会影响中国或形成全球共同认知。",
+          "whatToWatch": "继续核对官方表态和第二个可靠来源，并关注局势变化、政策生效时间及对中国的传导路径。"
+        },
+        "impactScore": 72,
+        "severityScore": 45,
+        "freshnessScore": 95,
+        "trendScore": 72,
+        "isExample": false
+      },
+      "card": {
+        "id": "draft-real-cnbc-world-rss-1r67qcc",
+        "title": "保时捷与印度最大的IT服务公司塔塔咨询公司达成15亿美元的人工智能部署协议",
+        "oneLine": "政策变化：保时捷已与印度最大的IT服务公司塔塔咨询服务公司签署了一份为期五年的人工智能合同，价值12.5亿欧元（ 14.6亿美元）。",
+        "importance": "B",
+        "credibility": "待确认",
+        "tags": [
+          "B",
+          "industry",
+          "world",
+          "policy",
+          "finance"
+        ],
+        "industries": [
+          "generalPublic",
+          "financeInvestment",
+          "operationsGrowth",
+          "ecommerceRetail"
+        ],
+        "section": "industry",
+        "body": {
+          "background": "该公司在一份新闻稿中表示，作为交易的一部分， TCS将以3.2亿欧元收购保时捷的IT咨询业务MHP。保时捷董事长迈克尔·莱特斯（ Michael Leiters ）在新闻稿中表示，这将把保时捷的“汽车专业知识与TCS的数字和人工智能能力相结合”。此次合作将提升这家欧洲跑车制造商的创新能力、效率和竞争力， ”在日益数据和软件驱动的出行世界中。",
+          "keyProgress": "“自今年年初以来， TCS已经获得了多笔人工智能主导的业务转型交易，并表示其6月季度的年化人工智能收入为26亿美元，比上一季度增长13.6%。Nifty IT指数是IT服务公司股票的基准，比年初下跌近20% ，而Nifty 50指数下跌略高于7%。TCS首席执行官兼董事总经理K. Krithivasan表示，通过此次收购， TCS旨在“为保时捷大规模实现人工智能的产业化”。它还将加强印度软件服务公司在德国市场以及欧洲汽车和工业客户中的影响力。",
+          "whyItMatters": "“保时捷与印度最大的IT服务公司塔塔咨询公司达成15亿美元的人工智能部署协议”如果继续发展，可能通过能源价格、航运、贸易、汇率或市场预期传导到国内。了解它的意义在于判断后续风险，而不只停留在事件本身。",
+          "userRelevance": "即使你不在印度、德国，“保时捷与印度最大的IT服务公司塔塔咨询公司达成15亿美元的人工智能部署协议”也可能通过能源价格、国际航运、贸易成本和市场预期间接影响国内生活与工作判断。",
+          "whatToWatch": "接下来要看“保时捷与印度最大的IT服务公司塔塔咨询公司达成15亿美元的人工智能部署协议”是否出现更细的城市、行业、平台或企业数据，以及这一变化能否连续保持。"
+        },
+        "sourceLinks": [
+          {
+            "title": "CNBC World News RSS",
+            "url": "https://www.cnbc.com/2026/08/25/porsche-inks-billion-ai-deal-india-it-tcs.html",
+            "sourceId": "cnbc-world-rss",
+            "publishedAt": "2026-08-25T03:01:16.000Z",
+            "language": "zh",
+            "originalLanguage": "en",
+            "translationStatus": "translated",
+            "fetchedAt": "2026-08-25T23:35:52.958Z",
+            "sourceMethod": "rss",
+            "verificationStatus": "pending"
+          }
+        ],
+        "images": [
+          {
+            "url": "https://image.cnbcfm.com/api/v1/image/108353107-17875456911787545688-47950421648-1080pnbcnews.jpg?v=1787545690&amp;w=750&amp;h=422&amp;vtcrop=y",
+            "sourceUrl": "https://www.cnbc.com/2026/08/25/porsche-inks-billion-ai-deal-india-it-tcs.html"
+          }
+        ],
+        "generatedAt": "2026-08-25T23:35:48.393Z"
+      }
+    },
+    {
+      "candidate": {
+        "id": "real-cnbc-world-rss-1g5yq5w",
+        "title": "英伟达对超大规模企业的依赖在财报中面临重大考验",
+        "oneLine": "国际最新进展：这条英文来源需要完整整理为中文，并优先说明发生了什么变化、与中国的关系及后续风险。",
+        "categories": [
+          "world",
+          "policy",
+          "finance",
+          "operations"
+        ],
+        "industries": [
+          "generalPublic",
+          "financeInvestment",
+          "operationsGrowth",
+          "ecommerceRetail"
+        ],
+        "regions": [
+          "全球"
+        ],
+        "locations": [],
+        "sourceIds": [
+          "cnbc-world-rss"
+        ],
+        "publishedAt": "2026-08-25T14:46:59.000Z",
+        "sourceLinks": [
+          {
+            "title": "CNBC World News RSS",
+            "url": "https://www.cnbc.com/2026/08/25/nvidias-dependence-on-hyperscalers-faces-big-test-in-earnings-report.html",
+            "sourceId": "cnbc-world-rss",
+            "publishedAt": "2026-08-25T14:46:59.000Z",
+            "language": "zh",
+            "originalLanguage": "en",
+            "translationStatus": "translated",
+            "fetchedAt": "2026-08-25T23:35:52.958Z",
+            "sourceMethod": "rss",
+            "verificationStatus": "pending"
+          }
+        ],
+        "images": [],
+        "body": {
+          "background": "国际主流媒体 RSS 用于补充全球突发、政策、贸易、能源和科技事件，不能单独替代事实确认。",
+          "keyProgress": "英伟达正试图通过创造新的融资方案来扩大其客户群，让更多客户能够购买其昂贵的系统。",
+          "whyItMatters": "重大国际变化可能通过外交、贸易、关税、能源、航运、安全或市场预期影响中国用户。",
+          "userRelevance": "是否推送取决于事件影响范围、严重程度，以及它是否会影响中国或形成全球共同认知。",
+          "whatToWatch": "继续核对官方表态和第二个可靠来源，并关注局势变化、政策生效时间及对中国的传导路径。"
+        },
+        "impactScore": 72,
+        "severityScore": 45,
+        "freshnessScore": 95,
+        "trendScore": 72,
+        "isExample": false
+      },
+      "card": {
+        "id": "draft-real-cnbc-world-rss-1g5yq5w",
+        "title": "英伟达对超大规模企业的依赖在财报中面临重大考验",
+        "oneLine": "最新进展：英伟达对超大规模企业的依赖在财报中面临重大考验。",
+        "importance": "B",
+        "credibility": "待确认",
+        "tags": [
+          "B",
+          "industry",
+          "world",
+          "policy",
+          "finance"
+        ],
+        "industries": [
+          "generalPublic",
+          "financeInvestment",
+          "operationsGrowth",
+          "ecommerceRetail"
+        ],
+        "section": "industry",
+        "body": {
+          "background": "随着华尔街在周三收盘后准备发布 Nvidia 第二季度财报，ACIE 部分客户群正在受到密切关注。但如果投资者对英伟达是否有能力在其 5 万亿美元的市值基础上继续发展存在持续担忧的话，那就是客户集中度。英伟达依靠被称为超大规模企业（亚马逊、谷歌和微软）的巨额收入，因为这些公司为自己的工作负载批量购买 GPU，并通过其庞大的云业务出售对这些 GPU 的访问权。",
+          "keyProgress": "除此之外，Meta 和 SpaceX 也是大量买家，因为他们构建了自己的模型，同时也开始将 Nvidia 的部分产能出租给其他立即需要的公司。英伟达没有具体说明哪些公司属于前一组，但首席执行官黄仁勋已经非常清楚地定义了该组。黄仁勋在五月份的财报电话会议上表示：“当然，最容易进入市场的是超大规模企业，因为只有五六个。第一季度，这两个细分市场几乎持平，Nvidia 的超大规模销售额为 379 亿美元，ACIE 收入接近 375 亿美元。",
+          "whyItMatters": "“英伟达对超大规模企业的依赖在财报中面临重大考验”如果继续发展，可能通过能源价格、航运、贸易、汇率或市场预期传导到国内。了解它的意义在于判断后续风险，而不只停留在事件本身。",
+          "userRelevance": "即使你不在事发地区，“英伟达对超大规模企业的依赖在财报中面临重大考验”也可能通过能源价格、国际航运、贸易成本和市场预期间接影响国内生活与工作判断。",
+          "whatToWatch": "接下来要看“英伟达对超大规模企业的依赖在财报中面临重大考验”是否出现更细的城市、行业、平台或企业数据，以及这一变化能否连续保持。"
+        },
+        "sourceLinks": [
+          {
+            "title": "CNBC World News RSS",
+            "url": "https://www.cnbc.com/2026/08/25/nvidias-dependence-on-hyperscalers-faces-big-test-in-earnings-report.html",
+            "sourceId": "cnbc-world-rss",
+            "publishedAt": "2026-08-25T14:46:59.000Z",
+            "language": "zh",
+            "originalLanguage": "en",
+            "translationStatus": "translated",
+            "fetchedAt": "2026-08-25T23:35:52.958Z",
+            "sourceMethod": "rss",
+            "verificationStatus": "pending"
+          }
+        ],
+        "images": [
+          {
+            "url": "https://image.cnbcfm.com/api/v1/image/108353074-17875311191787531115-47947181780-1080pnbcnews.jpg?v=1787531118&amp;w=750&amp;h=422&amp;vtcrop=y",
+            "sourceUrl": "https://www.cnbc.com/2026/08/25/nvidias-dependence-on-hyperscalers-faces-big-test-in-earnings-report.html"
+          },
+          {
+            "url": "https://image.cnbcfm.com/api/v1/image/108269471-1771975189715-Dion_Katie_Vera_Rubin1.jpg?v=1771975367&amp;w=750&amp;h=422&amp;vtcrop=y",
+            "sourceUrl": "https://www.cnbc.com/2026/08/25/nvidias-dependence-on-hyperscalers-faces-big-test-in-earnings-report.html"
+          }
+        ],
+        "generatedAt": "2026-08-25T23:35:48.393Z"
       }
     }
   ]

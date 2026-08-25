@@ -67,7 +67,20 @@ jobs:
           if [ -n "$REQUESTED_DATE" ]; then
             DATE="$REQUESTED_DATE"
           else
-            DATE="$(date +%F)"
+            # GitHub-hosted runners use UTC by default. Resolve the issue date
+            # in the product timezone explicitly so a near-midnight run cannot
+            # be written into the previous day's archive.
+            DATE="$(node <<'NODE'
+          const parts = new Intl.DateTimeFormat('en-CA', {
+            timeZone: 'Asia/Shanghai',
+            year: 'numeric',
+            month: '2-digit',
+            day: '2-digit'
+          }).formatToParts(new Date());
+          const value = (type) => parts.find((part) => part.type === type)?.value ?? '';
+          process.stdout.write(`${value('year')}-${value('month')}-${value('day')}`);
+          NODE
+            )"
           fi
           if ! [[ "$DATE" =~ ^[0-9]{4}-[0-9]{2}-[0-9]{2}$ ]]; then
             echo "Invalid date: $DATE" >&2
@@ -84,7 +97,15 @@ jobs:
           if [ "$REQUESTED_EDITION" = "morning" ] || [ "$REQUESTED_EDITION" = "midday" ] || [ "$REQUESTED_EDITION" = "evening" ]; then
             EDITION="$REQUESTED_EDITION"
           else
-            HOUR="$(date +%H)"
+            HOUR="$(node <<'NODE'
+          const parts = new Intl.DateTimeFormat('en-GB', {
+            timeZone: 'Asia/Shanghai',
+            hour: '2-digit',
+            hour12: false
+          }).formatToParts(new Date());
+          process.stdout.write(parts.find((part) => part.type === 'hour')?.value ?? '00');
+          NODE
+            )"
             if [ "$HOUR" -lt 10 ]; then EDITION="morning"; elif [ "$HOUR" -lt 17 ]; then EDITION="midday"; else EDITION="evening"; fi
           fi
           echo "edition=$EDITION" >> "$GITHUB_OUTPUT"

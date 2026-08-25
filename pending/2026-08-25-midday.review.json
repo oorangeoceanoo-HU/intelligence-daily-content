@@ -1,16 +1,16 @@
 {
   "version": 1,
   "date": "2026-08-25",
-  "generatedAt": "2026-08-25T04:24:43.321Z",
+  "generatedAt": "2026-08-25T04:51:27.027Z",
   "status": "review",
   "reviewMode": "generated",
-  "candidateSha256": "b4aaadab7a1f7991fa77cf084029bd8905e73c7fdbeb11949a06acbcd5777234",
+  "candidateSha256": "33cb717ff2dbe07c31cc52dc4bdbeb03aae7498a3ebbd58fad7dfa7584321bf9",
   "counts": {
-    "cards": 19,
+    "cards": 18,
     "pages": 3,
-    "rawItems": 11,
-    "freshCandidates": 11,
-    "publishableCards": 4,
+    "rawItems": 10,
+    "freshCandidates": 10,
+    "publishableCards": 3,
     "reviewableCards": 2,
     "rejectedCards": 2,
     "blockers": 0,
@@ -20,7 +20,7 @@
     {
       "level": "warning",
       "code": "source-concentration",
-      "message": "cnbc-world-rss 占 9/19 条，需要确认没有因其他来源缺失而过度集中。"
+      "message": "cnbc-world-rss 占 8/18 条，需要确认没有因其他来源缺失而过度集中。"
     },
     {
       "level": "warning",

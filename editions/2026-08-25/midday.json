@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "publishedAt": "2026-08-25T04:21:39.040Z",
+  "publishedAt": "2026-08-25T04:48:52.213Z",
   "issue": {
     "id": "daily-public-2026-08-25",
     "date": "2026-08-25",
@@ -338,7 +338,7 @@
         "section": "industry",
         "body": {
           "background": "在公司财务业绩公布后，该公司略微下调了小鹏在美国和香港上市股票的目标价。该银行将机器人融资描述为对小鹏的长期积极作用，称这家电动汽车制造商可以将其在算法、人工智能模型和芯片方面的现有优势应用于人形机器人。小鹏在美国上市的股票周一收盘下跌8.5%。",
-          "keyProgress": "该公司报告第二季度净亏损13.4亿元人民币（ 20亿美元） ，同比增长8% ，至197.4亿元人民币。花旗表示，交付指引未达到投资者的预期，主要是由于供应链限制扰乱了小鹏MONA L03车型的增长。小鹏首席执行官何晓鹏去年11月表示，未来10年，该公司的机器人销量将超过汽车销量。这家总部位于广州的初创公司当时透露了其第二代人形机器人，并建立了飞行器业务部门。",
+          "keyProgress": "该公司报告第二季度净亏损13.4亿元（ 2亿元） ，比去年同期大幅亏损，而收入增长8 ％至197.4亿元。花旗表示，交付指引未达到投资者的预期，主要是由于供应链限制扰乱了小鹏MONA L03车型的增长。小鹏首席执行官何晓鹏去年11月表示，未来10年，该公司的机器人销量将超过汽车销量。这家总部位于广州的初创公司当时透露了其第二代人形机器人，并建立了飞行器业务部门。",
           "whyItMatters": "“小鹏股价下跌，因为交付预测疲软使63亿美元的机器人单位估值蒙上阴影”如果继续发展，可能通过能源价格、航运、贸易、汇率或市场预期传导到国内。了解它的意义在于判断后续风险，而不只停留在事件本身。",
           "userRelevance": "即使你不在事发地区，“小鹏股价下跌，因为交付预测疲软使63亿美元的机器人单位估值蒙上阴影”也可能通过能源价格、国际航运、贸易成本和市场预期间接影响国内生活与工作判断。",
           "whatToWatch": "接下来要看“小鹏股价下跌，因为交付预测疲软使63亿美元的机器人单位估值蒙上阴影”是否出现更细的城市、行业、平台或企业数据，以及这一变化能否连续保持。"
@@ -352,57 +352,13 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-25T04:21:44.568Z",
+            "fetchedAt": "2026-08-25T04:48:58.446Z",
             "sourceMethod": "rss",
             "verificationStatus": "pending"
           }
         ],
         "images": [],
-        "generatedAt": "2026-08-25T04:21:39.040Z"
-      },
-      {
-        "id": "draft-real-cnbc-world-rss-1ikkk4a",
-        "title": "比特币上涨3% ，随着涨势加快，接近8万美元（ $ 80,000 ）",
-        "oneLine": "政策变化：在本文中，比特币周二收于 80,000 美元大关，因为现货比特币 ETF 的新资金流入和风险偏好的改善延续了加密货币近期的涨势。",
-        "importance": "B",
-        "credibility": "待确认",
-        "tags": [
-          "B",
-          "industry",
-          "world",
-          "policy",
-          "finance"
-        ],
-        "industries": [
-          "generalPublic",
-          "financeInvestment",
-          "operationsGrowth",
-          "ecommerceRetail"
-        ],
-        "section": "industry",
-        "body": {
-          "background": "旗舰加密货币上涨 3.1% 至 79,739 美元。这一最新举措延续了上周开始的大幅上涨，当时比特币在三天内飙升了 20% 以上，这是自 2023 年以来的最大三天涨幅。此次上涨的部分原因是轧空，随着价格上涨，超过 40 亿美元的看跌加密货币头寸被清算。",
-          "keyProgress": "此举短暂压低了收益率并重振了对风险资产的需求，而对通胀和政府债务的日益担忧也提振了人们对稀缺资产的兴趣。该研究公司强调，期权市场的活动也表明投资者对涨势能够持续越来越有信心。在美国财政部宣布将购买较长期政府债券的数量增加一倍之后，股市上涨。美国现货比特币交易所交易基金上周吸引了 19.2 亿美元的净流入，这是自 10 月份比特币达到上一个周期峰值以来的最大单周流入量。",
-          "whyItMatters": "“比特币上涨3% ，随着涨势加快，接近8万美元”如果继续发展，可能通过能源价格、航运、贸易、汇率或市场预期传导到国内。了解它的意义在于判断后续风险，而不只停留在事件本身。",
-          "userRelevance": "即使你不在事发地区，“比特币上涨3% ，随着涨势加快，接近8万美元”也可能通过能源价格、国际航运、贸易成本和市场预期间接影响国内生活与工作判断。",
-          "whatToWatch": "接下来要看“比特币上涨3% ，随着涨势加快，接近8万美元”是否出现更细的城市、行业、平台或企业数据，以及这一变化能否连续保持。"
-        },
-        "sourceLinks": [
-          {
-            "title": "CNBC World News RSS",
-            "url": "https://www.cnbc.com/2026/08/25/bitcoin-price-near-80000-cryptocurrency-ether-us-treasuries.html",
-            "sourceId": "cnbc-world-rss",
-            "publishedAt": "2026-08-25T03:05:12.000Z",
-            "language": "zh",
-            "originalLanguage": "en",
-            "translationStatus": "translated",
-            "fetchedAt": "2026-08-25T04:21:44.568Z",
-            "sourceMethod": "rss",
-            "verificationStatus": "pending"
-          }
-        ],
-        "images": [],
-        "generatedAt": "2026-08-25T04:21:39.040Z"
+        "generatedAt": "2026-08-25T04:48:52.213Z"
       },
       {
         "id": "draft-real-cnbc-world-rss-b8qu1n",
@@ -440,7 +396,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-25T04:21:44.568Z",
+            "fetchedAt": "2026-08-25T04:48:58.446Z",
             "sourceMethod": "rss",
             "verificationStatus": "pending"
           }
@@ -451,7 +407,7 @@
             "sourceUrl": "https://www.cnbc.com/2026/08/25/porsche-inks-billion-ai-deal-india-it-tcs.html"
           }
         ],
-        "generatedAt": "2026-08-25T04:21:39.040Z"
+        "generatedAt": "2026-08-25T04:48:52.213Z"
       },
       {
         "id": "draft-real-cnbc-world-rss-bu3mcy",
@@ -489,13 +445,13 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-25T04:21:44.568Z",
+            "fetchedAt": "2026-08-25T04:48:58.446Z",
             "sourceMethod": "rss",
             "verificationStatus": "pending"
           }
         ],
         "images": [],
-        "generatedAt": "2026-08-25T04:21:39.040Z"
+        "generatedAt": "2026-08-25T04:48:52.213Z"
       },
       {
         "id": "draft-real-cnbc-world-rss-13q296f",
@@ -925,10 +881,10 @@
         "generatedAt": "2026-08-24T23:33:46.966Z"
       }
     ],
-    "estimatedReadMinutes": 30,
+    "estimatedReadMinutes": 29,
     "pageCount": 3,
     "topCardId": "draft-real-npr-world-rss-hlulk7",
-    "generatedAt": "2026-08-25T04:21:39.040Z",
+    "generatedAt": "2026-08-25T04:48:52.213Z",
     "pushSlots": [
       "08:30",
       "12:30",
@@ -943,7 +899,6 @@
     "basedOnGeneratedAt": "2026-08-24T23:33:46.966Z",
     "editionCardIds": [
       "draft-real-cnbc-world-rss-1q5m9pw",
-      "draft-real-cnbc-world-rss-1ikkk4a",
       "draft-real-cnbc-world-rss-b8qu1n",
       "draft-real-cnbc-world-rss-bu3mcy"
     ],

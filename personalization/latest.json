@@ -574,13 +574,103 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-26T04:21:59.946Z",
+            "fetchedAt": "2026-08-26T04:50:53.846Z",
             "sourceMethod": "rss",
             "verificationStatus": "pending"
           }
         ],
         "images": [],
-        "generatedAt": "2026-08-26T04:21:54.642Z"
+        "generatedAt": "2026-08-26T04:50:44.404Z"
+      },
+      {
+        "id": "draft-real-techcrunch-ai-rss-b8s7el",
+        "title": "消息人士称，机器人初创公司Generalist的估值达到$ 3B",
+        "oneLine": "趋势信号：据两位知情人士透露，机器人初创公司Generalist在8VC牵头筹集了额外资金后，现在的估值为30亿美元。",
+        "importance": "B",
+        "credibility": "待确认",
+        "tags": [
+          "B",
+          "industry",
+          "ai",
+          "technology",
+          "product"
+        ],
+        "industries": [
+          "aiProduct",
+          "aiTechnology",
+          "productManagement",
+          "technologyEngineering",
+          "educationResearch"
+        ],
+        "section": "ai",
+        "body": {
+          "background": "它声称其新发布的第1.5代模型使机器人能够从短至3至12秒的视频演示中掌握新任务。其他竞争对手包括据报道估值110亿美元的Physical Intelligence ，以及软银支持的估值140亿美元的Skild AI ，以及上个月正在谈判以30亿美元估值筹集资金的Genesis AI。根据监管文件，新资本总额近2亿美元。",
+          "keyProgress": "通才正在开发一种可以与各种机器人一起工作的人工智能基础模型。据一位消息人士称，这家初创公司正在与少数客户合作，利用他们的反馈为特定用例定制模型。资金激增反映了一些投资者的赌注，即机器人可能很快就会达到自己的“ChatGPT时刻” ，这意味着机器人将能够执行一般任务，而无需为每个任务进行明确的培训。然而，由于机器人无法像LLM那样在整个互联网数据上进行训练，一些VC警告说，真正通用的机器人模型可能还需要数年时间。",
+          "whyItMatters": "“消息人士称，机器人初创公司Generalist的估值达到$ 3B”能帮助你判断这项能力是否已经进入工程、产品或商业场景，并据此调整技术选型、产品规划、学习重点或职业判断。",
+          "userRelevance": "如果你从事AI 产品、AI 技术、产品管理、技术研发，可以重点判断“消息人士称，机器人初创公司Generalist的估值达到$ 3B”是否已经具备产品落地、技术选型或业务合作价值。",
+          "whatToWatch": "接下来要看“消息人士称，机器人初创公司Generalist的估值达到$ 3B”是否有更多可靠来源、量产或应用进展，以及它会不会从单点消息发展成持续趋势。"
+        },
+        "sourceLinks": [
+          {
+            "title": "TechCrunch AI RSS",
+            "url": "https://techcrunch.com/2026/08/25/robotics-startup-generalist-reaches-3b-valuation-sources-say/",
+            "sourceId": "techcrunch-ai-rss",
+            "publishedAt": "2026-08-26T00:40:59.000Z",
+            "language": "zh",
+            "originalLanguage": "en",
+            "translationStatus": "translated",
+            "fetchedAt": "2026-08-26T04:50:53.846Z",
+            "sourceMethod": "rss",
+            "verificationStatus": "pending"
+          }
+        ],
+        "images": [],
+        "generatedAt": "2026-08-26T04:50:44.404Z"
+      },
+      {
+        "id": "draft-real-techcrunch-ai-rss-1iijpn5",
+        "title": "随着高调离职潮的持续， OpenAI失去了一名顶级数据中心高管",
+        "oneLine": "趋势信号：OpenAI 又失去了另一位高管，考虑到这位高管负责监督公司数据中心战略的执行，这位高管的离职时机尤其引人注目。",
+        "importance": "B",
+        "credibility": "待确认",
+        "tags": [
+          "B",
+          "industry",
+          "ai",
+          "technology",
+          "product"
+        ],
+        "industries": [
+          "aiProduct",
+          "aiTechnology",
+          "productManagement",
+          "technologyEngineering",
+          "educationResearch"
+        ],
+        "section": "ai",
+        "body": {
+          "background": "马龙曾在 Meta 工作了近五年，此前在谷歌工作了十多年，去年 3 月加入 OpenAI，任期相对较短。随着人工智能基础设施建设热潮在整个行业全面展开，数据中心战略已成为人工智能实验室中最受关注的角色之一，这使得该席位的人员流动尤其令人惊讶。据说其他几位高管目前正在监督 OpenAI 的数据中心战略，其中包括领导该公司数据中心团队的 Uday Ruddarraju；",
+          "keyProgress": "据《华尔街日报》报道，OpenAI 前数据中心主管 Chris Malone 上周离开了公司。马龙在 Stargate 项目启动后不久加入了该公司，这是一项由特朗普政府支持的价值 5 亿美元的数据中心计划，旨在寻求在美国开发数据中心。OpenAI 与甲骨文、英伟达、软银和微软一起被认为是这一努力的关键合作伙伴。在向 TechCrunch 发表的关于马龙离职的声明中，OpenAI 表示，它“最近重组”了其“基础设施组织，以支持我们工作的规模和节奏”。",
+          "whyItMatters": "“随着高调离职潮的持续， OpenAI失去了一名顶级数据中心高管”能帮助你判断这项能力是否已经进入工程、产品或商业场景，并据此调整技术选型、产品规划、学习重点或职业判断。",
+          "userRelevance": "如果你从事AI 产品、AI 技术、产品管理、技术研发，可以重点判断“随着高调离职潮的持续， OpenAI失去了一名顶级数据中心高管”是否已经具备产品落地、技术选型或业务合作价值。",
+          "whatToWatch": "接下来要看“随着高调离职潮的持续， OpenAI失去了一名顶级数据中心高管”是否有更多可靠来源、量产或应用进展，以及它会不会从单点消息发展成持续趋势。"
+        },
+        "sourceLinks": [
+          {
+            "title": "TechCrunch AI RSS",
+            "url": "https://techcrunch.com/2026/08/25/openai-loses-a-top-data-center-exec-as-stream-of-high-profile-departures-continues/",
+            "sourceId": "techcrunch-ai-rss",
+            "publishedAt": "2026-08-26T00:06:20.000Z",
+            "language": "zh",
+            "originalLanguage": "en",
+            "translationStatus": "translated",
+            "fetchedAt": "2026-08-26T04:50:53.846Z",
+            "sourceMethod": "rss",
+            "verificationStatus": "pending"
+          }
+        ],
+        "images": [],
+        "generatedAt": "2026-08-26T04:50:44.404Z"
       },
       {
         "id": "draft-real-cnbc-world-rss-1wte1st",
@@ -618,7 +708,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-26T04:21:58.624Z",
+            "fetchedAt": "2026-08-26T04:50:52.533Z",
             "sourceMethod": "rss",
             "verificationStatus": "pending"
           }
@@ -629,7 +719,7 @@
             "sourceUrl": "https://www.cnbc.com/2026/08/26/trump-saudi-nuclear-agreement-congress-iran-deal-.html"
           }
         ],
-        "generatedAt": "2026-08-26T04:21:54.642Z"
+        "generatedAt": "2026-08-26T04:50:44.404Z"
       },
       {
         "id": "draft-real-cnbc-world-rss-154vl52",
@@ -667,13 +757,13 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-26T04:21:58.624Z",
+            "fetchedAt": "2026-08-26T04:50:52.533Z",
             "sourceMethod": "rss",
             "verificationStatus": "pending"
           }
         ],
         "images": [],
-        "generatedAt": "2026-08-26T04:21:54.642Z"
+        "generatedAt": "2026-08-26T04:50:44.404Z"
       },
       {
         "id": "draft-real-cnbc-world-rss-bw0zme",
@@ -711,13 +801,13 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-26T04:21:58.624Z",
+            "fetchedAt": "2026-08-26T04:50:52.533Z",
             "sourceMethod": "rss",
             "verificationStatus": "pending"
           }
         ],
         "images": [],
-        "generatedAt": "2026-08-26T04:21:54.642Z"
+        "generatedAt": "2026-08-26T04:50:44.404Z"
       },
       {
         "id": "draft-cluster-real-gov-uk-news-e8iapl",
@@ -1168,10 +1258,10 @@
         "generatedAt": "2026-08-25T23:35:48.393Z"
       }
     ],
-    "estimatedReadMinutes": 36,
+    "estimatedReadMinutes": 39,
     "pageCount": 3,
     "topCardId": "draft-real-cnbc-world-rss-x6vkom",
-    "generatedAt": "2026-08-26T04:21:54.642Z",
+    "generatedAt": "2026-08-26T04:50:44.404Z",
     "pushSlots": [
       "08:30",
       "12:30",
@@ -1186,6 +1276,8 @@
     "basedOnGeneratedAt": "2026-08-25T23:35:48.393Z",
     "editionCardIds": [
       "draft-real-techcrunch-ai-rss-6e0sye",
+      "draft-real-techcrunch-ai-rss-b8s7el",
+      "draft-real-techcrunch-ai-rss-1iijpn5",
       "draft-real-cnbc-world-rss-1wte1st",
       "draft-real-cnbc-world-rss-154vl52",
       "draft-real-cnbc-world-rss-bw0zme"
@@ -1214,17 +1306,17 @@
   "meta": {
     "profileName": "多职业公共版",
     "cohortLocationCount": 7,
-    "generatedAt": "2026-08-26T04:21:54.642Z",
+    "generatedAt": "2026-08-26T04:50:44.404Z",
     "edition": "midday",
     "sourceCoverage": {
       "ready": true,
       "sourceAvailabilityReady": true,
       "currentCoverageReady": true,
-      "generatedAt": "2026-08-26T04:24:22.554Z",
+      "generatedAt": "2026-08-26T04:53:13.509Z",
       "totalSources": 33,
-      "successfulSources": 32,
-      "sourcesWithItems": 26,
-      "totalItems": 385,
+      "successfulSources": 31,
+      "sourcesWithItems": 25,
+      "totalItems": 364,
       "lanes": [
         {
           "id": "global",
@@ -1250,7 +1342,7 @@
           "currentSourceIds": [
             "cnbc-world-rss"
           ],
-          "currentItemCount": 4,
+          "currentItemCount": 3,
           "note": "至少两个国际来源有内容，避免把单一媒体首页当成全球事件全集。"
         },
         {
@@ -1277,7 +1369,7 @@
           "currentSourceIds": [
             "cnbc-world-rss"
           ],
-          "currentItemCount": 4,
+          "currentItemCount": 3,
           "note": "同时观察中国官方入口和国际商业新闻，覆盖关税、外贸、能源、航运与外交影响。"
         },
         {
@@ -1420,35 +1512,35 @@
       "stats",
       "mofcom"
     ],
-    "fetchedRawItemCount": 385,
-    "rawItemCount": 11,
-    "rawCandidateCount": 11,
-    "dedupedCandidateCount": 9,
-    "recentCandidateCount": 9,
-    "freshCandidateCount": 9,
+    "fetchedRawItemCount": 364,
+    "rawItemCount": 10,
+    "rawCandidateCount": 10,
+    "dedupedCandidateCount": 8,
+    "recentCandidateCount": 8,
+    "freshCandidateCount": 8,
     "translation": {
-      "requested": 11,
-      "translated": 11,
+      "requested": 10,
+      "translated": 10,
       "failed": 0,
       "skipped": 0,
       "provider": "google-free",
       "failures": []
     },
-    "selectedCandidateCount": 7,
-    "publishableCardCount": 4,
-    "personalizationPoolCardCount": 4,
-    "reviewableCardCount": 1,
-    "rejectedCardCount": 2,
+    "selectedCandidateCount": 6,
+    "publishableCardCount": 6,
+    "personalizationPoolCardCount": 8,
+    "reviewableCardCount": 0,
+    "rejectedCardCount": 0,
     "skippedPublishableCardCount": 0,
     "stats": {
-      "inputCardCount": 4,
-      "selectedCardCount": 4,
+      "inputCardCount": 6,
+      "selectedCardCount": 6,
       "skippedCardCount": 0,
       "sizing": {
         "minimumCards": 15,
         "comfortableMaxCards": 20,
         "absoluteMaxCards": 24,
-        "minimumBandCount": 4,
+        "minimumBandCount": 6,
         "standardBandCount": 0,
         "exceptionalBandCount": 0
       },
@@ -1458,7 +1550,7 @@
         "china": 0,
         "local": 0,
         "industry": 3,
-        "ai": 1,
+        "ai": 3,
         "product": 0,
         "risk": 0,
         "friends": 0,
@@ -1467,7 +1559,7 @@
       "importanceCounts": {
         "S": 0,
         "A": 0,
-        "B": 4,
+        "B": 6,
         "C": 0
       }
     },
@@ -1477,8 +1569,8 @@
       "basePath": "pending/2026-08-26-morning.json",
       "baseSource": "pending",
       "basedOnGeneratedAt": "2026-08-25T23:35:48.393Z",
-      "incrementalCardCount": 4,
-      "addedCardCount": 4,
+      "incrementalCardCount": 6,
+      "addedCardCount": 6,
       "carriedCardCount": 18,
       "replacedCardCount": 0
     },
@@ -1491,7 +1583,7 @@
         "method": "api",
         "endpointUrl": "https://export.arxiv.org/api/query",
         "attempts": 1,
-        "durationMs": 379,
+        "durationMs": 117,
         "fallbackUsed": false,
         "rawItemCount": 18,
         "datedItemCount": 18,
@@ -1508,7 +1600,7 @@
         "method": "web",
         "endpointUrl": "https://www.cas.cn/syky/",
         "attempts": 1,
-        "durationMs": 1179,
+        "durationMs": 1769,
         "fallbackUsed": false,
         "rawItemCount": 18,
         "datedItemCount": 18,
@@ -1525,7 +1617,7 @@
         "method": "web",
         "endpointUrl": "https://www.mohurd.gov.cn/xinwen/gzdt/index.html",
         "attempts": 3,
-        "durationMs": 136116,
+        "durationMs": 137281,
         "fallbackUsed": false,
         "rawItemCount": 0,
         "datedItemCount": 0,
@@ -1541,7 +1633,7 @@
         "method": "rss",
         "endpointUrl": "https://www.gdacs.org/xml/rss.xml",
         "attempts": 1,
-        "durationMs": 3271,
+        "durationMs": 3240,
         "fallbackUsed": false,
         "rawItemCount": 18,
         "datedItemCount": 18,
@@ -1558,7 +1650,7 @@
         "method": "web",
         "endpointUrl": "https://www.gov.cn/zhengce/zuixin/",
         "attempts": 1,
-        "durationMs": 1070,
+        "durationMs": 989,
         "fallbackUsed": false,
         "rawItemCount": 18,
         "datedItemCount": 18,
@@ -1575,7 +1667,7 @@
         "method": "web",
         "endpointUrl": "https://www.mem.gov.cn/xw/yjglbgzdt/",
         "attempts": 1,
-        "durationMs": 619,
+        "durationMs": 488,
         "fallbackUsed": false,
         "rawItemCount": 18,
         "datedItemCount": 18,
@@ -1587,19 +1679,18 @@
       {
         "sourceId": "cac-cn",
         "sourceName": "中央网信办 / 国家网信办",
-        "ok": true,
-        "status": "healthy",
+        "ok": false,
+        "status": "failed",
         "method": "web",
         "endpointUrl": "https://www.cac.gov.cn/index.htm",
-        "attempts": 1,
-        "durationMs": 2820,
+        "attempts": 3,
+        "durationMs": 24454,
         "fallbackUsed": false,
-        "rawItemCount": 2,
-        "datedItemCount": 2,
+        "rawItemCount": 0,
+        "datedItemCount": 0,
         "inEditionItemCount": 0,
-        "newestPublishedAt": "2026-07-28T16:00:00.000Z",
-        "oldestPublishedAt": "2026-07-02T16:00:00.000Z",
-        "verificationStatus": "confirmed"
+        "verificationStatus": "confirmed",
+        "error": "https://www.cac.gov.cn/index.htm: TypeError: fetch failed; legacy TLS fallback: AggregateError: request failed without a message | https://www.cac.gov.cn/: TypeError: fetch failed; legacy TLS fallback: AggregateError: request failed without a message"
       },
       {
         "sourceId": "xinhua-world",
@@ -1609,7 +1700,7 @@
         "method": "web",
         "endpointUrl": "https://www.news.cn/world/index.html",
         "attempts": 1,
-        "durationMs": 1463,
+        "durationMs": 5814,
         "fallbackUsed": false,
         "rawItemCount": 18,
         "datedItemCount": 18,
@@ -1626,7 +1717,7 @@
         "method": "web",
         "endpointUrl": "https://www.news.cn/tech/index.html",
         "attempts": 1,
-        "durationMs": 327,
+        "durationMs": 3872,
         "fallbackUsed": false,
         "rawItemCount": 16,
         "datedItemCount": 16,
@@ -1643,7 +1734,7 @@
         "method": "rss",
         "endpointUrl": "https://www.gov.uk/search/news-and-communications.atom?order=updated-newest",
         "attempts": 1,
-        "durationMs": 442,
+        "durationMs": 365,
         "fallbackUsed": false,
         "rawItemCount": 18,
         "datedItemCount": 18,
@@ -1660,7 +1751,7 @@
         "method": "rss",
         "endpointUrl": "https://feeds.npr.org/1004/rss.xml",
         "attempts": 1,
-        "durationMs": 193,
+        "durationMs": 205,
         "fallbackUsed": false,
         "rawItemCount": 10,
         "datedItemCount": 10,
@@ -1677,10 +1768,10 @@
         "method": "rss",
         "endpointUrl": "https://feeds.skynews.com/feeds/rss/world.xml",
         "attempts": 1,
-        "durationMs": 76,
+        "durationMs": 258,
         "fallbackUsed": false,
-        "rawItemCount": 10,
-        "datedItemCount": 10,
+        "rawItemCount": 9,
+        "datedItemCount": 9,
         "inEditionItemCount": 0,
         "newestPublishedAt": "2026-08-25T17:57:00.000Z",
         "oldestPublishedAt": "2026-08-23T19:29:00.000Z",
@@ -1694,7 +1785,7 @@
         "method": "rss",
         "endpointUrl": "https://www.france24.com/en/middle-east/rss",
         "attempts": 1,
-        "durationMs": 90,
+        "durationMs": 353,
         "fallbackUsed": false,
         "rawItemCount": 18,
         "datedItemCount": 18,
@@ -1711,7 +1802,7 @@
         "method": "rss",
         "endpointUrl": "https://www.france24.com/en/asia-pacific/rss",
         "attempts": 1,
-        "durationMs": 772,
+        "durationMs": 124,
         "fallbackUsed": false,
         "rawItemCount": 18,
         "datedItemCount": 18,
@@ -1728,12 +1819,12 @@
         "method": "rss",
         "endpointUrl": "https://www.cnbc.com/id/100727362/device/rss/rss.html",
         "attempts": 1,
-        "durationMs": 61,
+        "durationMs": 118,
         "fallbackUsed": false,
         "rawItemCount": 17,
         "datedItemCount": 17,
-        "inEditionItemCount": 4,
-        "newestPublishedAt": "2026-08-26T04:20:31.000Z",
+        "inEditionItemCount": 3,
+        "newestPublishedAt": "2026-08-26T04:35:22.000Z",
         "oldestPublishedAt": "2026-08-24T23:00:01.000Z",
         "verificationStatus": "pending"
       },
@@ -1745,7 +1836,7 @@
         "method": "rss",
         "endpointUrl": "https://news.un.org/feed/subscribe/en/news/all/rss.xml",
         "attempts": 1,
-        "durationMs": 315,
+        "durationMs": 43,
         "fallbackUsed": false,
         "rawItemCount": 18,
         "datedItemCount": 18,
@@ -1762,7 +1853,7 @@
         "method": "web",
         "endpointUrl": "https://www.mfa.gov.cn/wjdt_674879/fyrbt_674889/",
         "attempts": 1,
-        "durationMs": 624,
+        "durationMs": 845,
         "fallbackUsed": false,
         "rawItemCount": 18,
         "datedItemCount": 18,
@@ -1779,7 +1870,7 @@
         "method": "web",
         "endpointUrl": "https://www.mofcom.gov.cn/xwfb/",
         "attempts": 1,
-        "durationMs": 1143,
+        "durationMs": 1459,
         "fallbackUsed": false,
         "rawItemCount": 15,
         "datedItemCount": 15,
@@ -1796,7 +1887,7 @@
         "method": "rss",
         "endpointUrl": "https://openai.com/news/rss.xml",
         "attempts": 1,
-        "durationMs": 633,
+        "durationMs": 159,
         "fallbackUsed": false,
         "rawItemCount": 18,
         "datedItemCount": 18,
@@ -1813,7 +1904,7 @@
         "method": "rss",
         "endpointUrl": "https://deepmind.google/blog/rss.xml",
         "attempts": 1,
-        "durationMs": 573,
+        "durationMs": 192,
         "fallbackUsed": false,
         "rawItemCount": 18,
         "datedItemCount": 18,
@@ -1830,7 +1921,7 @@
         "method": "rss",
         "endpointUrl": "https://techcrunch.com/category/artificial-intelligence/feed/",
         "attempts": 1,
-        "durationMs": 55,
+        "durationMs": 120,
         "fallbackUsed": false,
         "rawItemCount": 18,
         "datedItemCount": 18,
@@ -1847,7 +1938,7 @@
         "method": "rss",
         "endpointUrl": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
         "attempts": 1,
-        "durationMs": 44,
+        "durationMs": 134,
         "fallbackUsed": false,
         "rawItemCount": 10,
         "datedItemCount": 10,
@@ -1863,8 +1954,8 @@
         "status": "healthy",
         "method": "web",
         "endpointUrl": "https://www.moe.gov.cn/",
-        "attempts": 1,
-        "durationMs": 3441,
+        "attempts": 3,
+        "durationMs": 19752,
         "fallbackUsed": false,
         "rawItemCount": 12,
         "datedItemCount": 12,
@@ -1881,7 +1972,7 @@
         "method": "web",
         "endpointUrl": "https://chrm.mohrss.gov.cn/announcement/",
         "attempts": 1,
-        "durationMs": 3780,
+        "durationMs": 6817,
         "fallbackUsed": false,
         "rawItemCount": 8,
         "datedItemCount": 8,
@@ -1898,7 +1989,7 @@
         "method": "web",
         "endpointUrl": "https://www.stats.gov.cn/sj/zxfb/",
         "attempts": 1,
-        "durationMs": 5734,
+        "durationMs": 10411,
         "fallbackUsed": false,
         "rawItemCount": 13,
         "datedItemCount": 13,
@@ -1915,14 +2006,15 @@
         "method": "web",
         "endpointUrl": "https://scyxs.mofcom.gov.cn/",
         "attempts": 1,
-        "durationMs": 2505,
-        "fallbackUsed": false,
-        "rawItemCount": 18,
-        "datedItemCount": 18,
+        "durationMs": 1549,
+        "fallbackUsed": true,
+        "rawItemCount": 1,
+        "datedItemCount": 1,
         "inEditionItemCount": 0,
-        "newestPublishedAt": "2026-08-19T16:00:00.000Z",
-        "oldestPublishedAt": "2025-08-27T16:00:00.000Z",
-        "verificationStatus": "confirmed"
+        "newestPublishedAt": "2026-08-17T16:00:00.000Z",
+        "oldestPublishedAt": "2026-08-17T16:00:00.000Z",
+        "verificationStatus": "confirmed",
+        "note": "主入口失败后使用了官方备用入口。"
       },
       {
         "sourceId": "city-news-rss:%E4%B8%AD%E5%9B%BD-%E4%B8%8A%E6%B5%B7",
@@ -1932,12 +2024,12 @@
         "method": "web",
         "endpointUrl": "city-source:中国/直辖市/上海",
         "attempts": 1,
-        "durationMs": 2858,
+        "durationMs": 5086,
         "fallbackUsed": false,
-        "rawItemCount": 2,
-        "datedItemCount": 2,
+        "rawItemCount": 1,
+        "datedItemCount": 1,
         "inEditionItemCount": 0,
-        "newestPublishedAt": "2026-08-25T16:00:00.000Z",
+        "newestPublishedAt": "2020-12-29T16:00:00.000Z",
         "oldestPublishedAt": "2020-12-29T16:00:00.000Z",
         "verificationStatus": "pending",
         "note": "城市新闻发现源；政策和风险内容仍需官方或主流来源确认。"
@@ -1950,7 +2042,7 @@
         "method": "web",
         "endpointUrl": "city-source:中国/浙江/杭州",
         "attempts": 1,
-        "durationMs": 10599,
+        "durationMs": 10614,
         "fallbackUsed": false,
         "rawItemCount": 0,
         "datedItemCount": 0,
@@ -1966,7 +2058,7 @@
         "method": "web",
         "endpointUrl": "city-source:中国/广东/深圳",
         "attempts": 1,
-        "durationMs": 1562,
+        "durationMs": 4351,
         "fallbackUsed": false,
         "rawItemCount": 0,
         "datedItemCount": 0,
@@ -1982,7 +2074,7 @@
         "method": "web",
         "endpointUrl": "city-source:中国/吉林/长春",
         "attempts": 1,
-        "durationMs": 1165,
+        "durationMs": 3986,
         "fallbackUsed": false,
         "rawItemCount": 0,
         "datedItemCount": 0,
@@ -1998,7 +2090,7 @@
         "method": "web",
         "endpointUrl": "city-source:英国/英国/伦敦",
         "attempts": 1,
-        "durationMs": 1217,
+        "durationMs": 4431,
         "fallbackUsed": false,
         "rawItemCount": 0,
         "datedItemCount": 0,
@@ -2014,7 +2106,7 @@
         "method": "web",
         "endpointUrl": "city-source:中国/安徽/宿州",
         "attempts": 1,
-        "durationMs": 1160,
+        "durationMs": 3982,
         "fallbackUsed": false,
         "rawItemCount": 0,
         "datedItemCount": 0,
@@ -2030,7 +2122,7 @@
         "method": "web",
         "endpointUrl": "city-source:中国/广东/汕尾",
         "attempts": 1,
-        "durationMs": 1205,
+        "durationMs": 3973,
         "fallbackUsed": false,
         "rawItemCount": 0,
         "datedItemCount": 0,
@@ -2045,52 +2137,24 @@
         "sourceName": "住房和城乡建设部",
         "method": "web",
         "attempts": 3,
-        "durationMs": 136116,
+        "durationMs": 137281,
         "fallbackUsed": false,
         "error": "https://www.mohurd.gov.cn/api-gateway/jpaas-publish-server/front/page/build/unit?parseType=bulidstatic&webId=86ca573ec4df405db627fdc2493677f3&tplSetId=fc259c381af3496d85e61997ea7771cb&pageType=column&tagId=%E6%A0%8F%E7%9B%AE-list&editType=null&pageId=919e942639b5477d96e4c97471c61d9f: TypeError: fetch failed; legacy TLS fallback: Error: Request timed out | https://www.mohurd.gov.cn/xinwen/gzdt/index.html: TypeError: fetch failed; legacy TLS fallback: Error: Request timed out | https://www.mohurd.gov.cn/: TypeError: fetch failed; legacy TLS fallback: Error: Request timed out"
+      },
+      {
+        "sourceId": "cac-cn",
+        "sourceName": "中央网信办 / 国家网信办",
+        "method": "web",
+        "attempts": 3,
+        "durationMs": 24454,
+        "fallbackUsed": false,
+        "error": "https://www.cac.gov.cn/index.htm: TypeError: fetch failed; legacy TLS fallback: AggregateError: request failed without a message | https://www.cac.gov.cn/: TypeError: fetch failed; legacy TLS fallback: AggregateError: request failed without a message"
       }
     ],
-    "cardReviewFindings": [
-      {
-        "cardId": "draft-real-cnbc-world-rss-95efzc",
-        "cardTitle": "随着美国转向对伊朗施加经济压力，油价下跌，缓解了对重新紧张局势的担忧",
-        "issues": [
-          "原文篇幅较短且不是官方或主流来源，需要发布前复核。"
-        ]
-      }
-    ]
+    "cardReviewFindings": []
   },
-  "reviewableCards": [
-    {
-      "id": "draft-real-cnbc-world-rss-95efzc",
-      "title": "随着美国转向对伊朗施加经济压力，油价下跌，缓解了对重新紧张局势的担忧",
-      "finalLabel": "待复核",
-      "finalScore": 90,
-      "issues": [
-        "原文篇幅较短且不是官方或主流来源，需要发布前复核。"
-      ]
-    }
-  ],
-  "rejectedCards": [
-    {
-      "id": "draft-real-techcrunch-ai-rss-b8s7el",
-      "title": "消息人士称，机器人初创公司Generalist的估值达到$ 3B",
-      "finalLabel": "暂不发布",
-      "finalScore": 70,
-      "issues": [
-        "英文来源尚未生成完整中文摘要，不能进入正式日报。"
-      ]
-    },
-    {
-      "id": "draft-real-techcrunch-ai-rss-1iijpn5",
-      "title": "随着高调离职潮的持续， OpenAI失去了一名顶级数据中心高管",
-      "finalLabel": "暂不发布",
-      "finalScore": 70,
-      "issues": [
-        "英文来源尚未生成完整中文摘要，不能进入正式日报。"
-      ]
-    }
-  ],
+  "reviewableCards": [],
+  "rejectedCards": [],
   "skippedCards": [],
   "personalizationPool": [
     {
@@ -9077,7 +9141,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-26T04:21:58.624Z",
+            "fetchedAt": "2026-08-26T04:50:52.533Z",
             "sourceMethod": "rss",
             "verificationStatus": "pending"
           }
@@ -9132,7 +9196,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-26T04:21:58.624Z",
+            "fetchedAt": "2026-08-26T04:50:52.533Z",
             "sourceMethod": "rss",
             "verificationStatus": "pending"
           }
@@ -9143,7 +9207,7 @@
             "sourceUrl": "https://www.cnbc.com/2026/08/26/trump-saudi-nuclear-agreement-congress-iran-deal-.html"
           }
         ],
-        "generatedAt": "2026-08-26T04:21:54.642Z"
+        "generatedAt": "2026-08-26T04:50:44.404Z"
       }
     },
     {
@@ -9180,7 +9244,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-26T04:21:58.624Z",
+            "fetchedAt": "2026-08-26T04:50:52.533Z",
             "sourceMethod": "rss",
             "verificationStatus": "pending"
           }
@@ -9235,13 +9299,13 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-26T04:21:58.624Z",
+            "fetchedAt": "2026-08-26T04:50:52.533Z",
             "sourceMethod": "rss",
             "verificationStatus": "pending"
           }
         ],
         "images": [],
-        "generatedAt": "2026-08-26T04:21:54.642Z"
+        "generatedAt": "2026-08-26T04:50:44.404Z"
       }
     },
     {
@@ -9278,7 +9342,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-26T04:21:58.624Z",
+            "fetchedAt": "2026-08-26T04:50:52.533Z",
             "sourceMethod": "rss",
             "verificationStatus": "pending"
           }
@@ -9333,13 +9397,13 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-26T04:21:58.624Z",
+            "fetchedAt": "2026-08-26T04:50:52.533Z",
             "sourceMethod": "rss",
             "verificationStatus": "pending"
           }
         ],
         "images": [],
-        "generatedAt": "2026-08-26T04:21:54.642Z"
+        "generatedAt": "2026-08-26T04:50:44.404Z"
       }
     },
     {
@@ -9378,7 +9442,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-26T04:21:59.946Z",
+            "fetchedAt": "2026-08-26T04:50:53.846Z",
             "sourceMethod": "rss",
             "verificationStatus": "pending"
           }
@@ -9434,13 +9498,455 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-26T04:21:59.946Z",
+            "fetchedAt": "2026-08-26T04:50:53.846Z",
             "sourceMethod": "rss",
             "verificationStatus": "pending"
           }
         ],
         "images": [],
-        "generatedAt": "2026-08-26T04:21:54.642Z"
+        "generatedAt": "2026-08-26T04:50:44.404Z"
+      }
+    },
+    {
+      "candidate": {
+        "id": "real-techcrunch-ai-rss-b8s7el",
+        "title": "消息人士称，机器人初创公司Generalist的估值达到$ 3B",
+        "oneLine": "AI 与科技最新动态：重点区分正式产品发布、模型能力变化、研究进展和普通行业讨论。",
+        "categories": [
+          "ai",
+          "technology",
+          "product"
+        ],
+        "industries": [
+          "aiProduct",
+          "aiTechnology",
+          "productManagement",
+          "technologyEngineering",
+          "educationResearch"
+        ],
+        "regions": [
+          "全球"
+        ],
+        "locations": [],
+        "sourceIds": [
+          "techcrunch-ai-rss"
+        ],
+        "publishedAt": "2026-08-26T00:40:59.000Z",
+        "sourceLinks": [
+          {
+            "title": "TechCrunch AI RSS",
+            "url": "https://techcrunch.com/2026/08/25/robotics-startup-generalist-reaches-3b-valuation-sources-say/",
+            "sourceId": "techcrunch-ai-rss",
+            "publishedAt": "2026-08-26T00:40:59.000Z",
+            "language": "zh",
+            "originalLanguage": "en",
+            "translationStatus": "translated",
+            "fetchedAt": "2026-08-26T04:50:53.846Z",
+            "sourceMethod": "rss",
+            "verificationStatus": "pending"
+          }
+        ],
+        "images": [],
+        "body": {
+          "background": "国际科技主流媒体用于发现 AI、芯片、平台和科技产品变化。",
+          "keyProgress": "$ 2亿的扩展是在这家物理AI初创公司达到$ 20亿估值后几个月。",
+          "whyItMatters": "正式产品和技术变化可能影响 AI 产品设计、技术选型、行业竞争和职业判断。",
+          "userRelevance": "对 AI 产品经理、产品经理、技术研发、科研和关注 AI 行业的用户更相关。",
+          "whatToWatch": "后续核对官方文档、能力边界、发布时间、开放范围和真实用户影响。"
+        },
+        "impactScore": 72,
+        "severityScore": 20,
+        "freshnessScore": 95,
+        "trendScore": 80,
+        "isExample": false
+      },
+      "card": {
+        "id": "draft-real-techcrunch-ai-rss-b8s7el",
+        "title": "消息人士称，机器人初创公司Generalist的估值达到$ 3B",
+        "oneLine": "趋势信号：据两位知情人士透露，机器人初创公司Generalist在8VC牵头筹集了额外资金后，现在的估值为30亿美元。",
+        "importance": "B",
+        "credibility": "待确认",
+        "tags": [
+          "B",
+          "industry",
+          "ai",
+          "technology",
+          "product"
+        ],
+        "industries": [
+          "aiProduct",
+          "aiTechnology",
+          "productManagement",
+          "technologyEngineering",
+          "educationResearch"
+        ],
+        "section": "ai",
+        "body": {
+          "background": "它声称其新发布的第1.5代模型使机器人能够从短至3至12秒的视频演示中掌握新任务。其他竞争对手包括据报道估值110亿美元的Physical Intelligence ，以及软银支持的估值140亿美元的Skild AI ，以及上个月正在谈判以30亿美元估值筹集资金的Genesis AI。根据监管文件，新资本总额近2亿美元。",
+          "keyProgress": "通才正在开发一种可以与各种机器人一起工作的人工智能基础模型。据一位消息人士称，这家初创公司正在与少数客户合作，利用他们的反馈为特定用例定制模型。资金激增反映了一些投资者的赌注，即机器人可能很快就会达到自己的“ChatGPT时刻” ，这意味着机器人将能够执行一般任务，而无需为每个任务进行明确的培训。然而，由于机器人无法像LLM那样在整个互联网数据上进行训练，一些VC警告说，真正通用的机器人模型可能还需要数年时间。",
+          "whyItMatters": "“消息人士称，机器人初创公司Generalist的估值达到$ 3B”能帮助你判断这项能力是否已经进入工程、产品或商业场景，并据此调整技术选型、产品规划、学习重点或职业判断。",
+          "userRelevance": "如果你从事AI 产品、AI 技术、产品管理、技术研发，可以重点判断“消息人士称，机器人初创公司Generalist的估值达到$ 3B”是否已经具备产品落地、技术选型或业务合作价值。",
+          "whatToWatch": "接下来要看“消息人士称，机器人初创公司Generalist的估值达到$ 3B”是否有更多可靠来源、量产或应用进展，以及它会不会从单点消息发展成持续趋势。"
+        },
+        "sourceLinks": [
+          {
+            "title": "TechCrunch AI RSS",
+            "url": "https://techcrunch.com/2026/08/25/robotics-startup-generalist-reaches-3b-valuation-sources-say/",
+            "sourceId": "techcrunch-ai-rss",
+            "publishedAt": "2026-08-26T00:40:59.000Z",
+            "language": "zh",
+            "originalLanguage": "en",
+            "translationStatus": "translated",
+            "fetchedAt": "2026-08-26T04:50:53.846Z",
+            "sourceMethod": "rss",
+            "verificationStatus": "pending"
+          }
+        ],
+        "images": [],
+        "generatedAt": "2026-08-26T04:50:44.404Z"
+      }
+    },
+    {
+      "candidate": {
+        "id": "real-techcrunch-ai-rss-1iijpn5",
+        "title": "随着高调离职潮的持续， OpenAI失去了一名顶级数据中心高管",
+        "oneLine": "AI 与科技最新动态：重点区分正式产品发布、模型能力变化、研究进展和普通行业讨论。",
+        "categories": [
+          "ai",
+          "technology",
+          "product"
+        ],
+        "industries": [
+          "aiProduct",
+          "aiTechnology",
+          "productManagement",
+          "technologyEngineering",
+          "educationResearch"
+        ],
+        "regions": [
+          "全球"
+        ],
+        "locations": [],
+        "sourceIds": [
+          "techcrunch-ai-rss"
+        ],
+        "publishedAt": "2026-08-26T00:06:20.000Z",
+        "sourceLinks": [
+          {
+            "title": "TechCrunch AI RSS",
+            "url": "https://techcrunch.com/2026/08/25/openai-loses-a-top-data-center-exec-as-stream-of-high-profile-departures-continues/",
+            "sourceId": "techcrunch-ai-rss",
+            "publishedAt": "2026-08-26T00:06:20.000Z",
+            "language": "zh",
+            "originalLanguage": "en",
+            "translationStatus": "translated",
+            "fetchedAt": "2026-08-26T04:50:53.846Z",
+            "sourceMethod": "rss",
+            "verificationStatus": "pending"
+          }
+        ],
+        "images": [],
+        "body": {
+          "background": "国际科技主流媒体用于发现 AI、芯片、平台和科技产品变化。",
+          "keyProgress": "在马龙离开之前， OpenAI已经重组了其基础设施组织，将他的报告线从总裁格雷格·布罗克曼（ Greg Brockman ）转移到副总裁萨钦·卡蒂（ Sachin Katti ）负责该组织。",
+          "whyItMatters": "正式产品和技术变化可能影响 AI 产品设计、技术选型、行业竞争和职业判断。",
+          "userRelevance": "对 AI 产品经理、产品经理、技术研发、科研和关注 AI 行业的用户更相关。",
+          "whatToWatch": "后续核对官方文档、能力边界、发布时间、开放范围和真实用户影响。"
+        },
+        "impactScore": 72,
+        "severityScore": 20,
+        "freshnessScore": 95,
+        "trendScore": 80,
+        "isExample": false
+      },
+      "card": {
+        "id": "draft-real-techcrunch-ai-rss-1iijpn5",
+        "title": "随着高调离职潮的持续， OpenAI失去了一名顶级数据中心高管",
+        "oneLine": "趋势信号：OpenAI 又失去了另一位高管，考虑到这位高管负责监督公司数据中心战略的执行，这位高管的离职时机尤其引人注目。",
+        "importance": "B",
+        "credibility": "待确认",
+        "tags": [
+          "B",
+          "industry",
+          "ai",
+          "technology",
+          "product"
+        ],
+        "industries": [
+          "aiProduct",
+          "aiTechnology",
+          "productManagement",
+          "technologyEngineering",
+          "educationResearch"
+        ],
+        "section": "ai",
+        "body": {
+          "background": "马龙曾在 Meta 工作了近五年，此前在谷歌工作了十多年，去年 3 月加入 OpenAI，任期相对较短。随着人工智能基础设施建设热潮在整个行业全面展开，数据中心战略已成为人工智能实验室中最受关注的角色之一，这使得该席位的人员流动尤其令人惊讶。据说其他几位高管目前正在监督 OpenAI 的数据中心战略，其中包括领导该公司数据中心团队的 Uday Ruddarraju；",
+          "keyProgress": "据《华尔街日报》报道，OpenAI 前数据中心主管 Chris Malone 上周离开了公司。马龙在 Stargate 项目启动后不久加入了该公司，这是一项由特朗普政府支持的价值 5 亿美元的数据中心计划，旨在寻求在美国开发数据中心。OpenAI 与甲骨文、英伟达、软银和微软一起被认为是这一努力的关键合作伙伴。在向 TechCrunch 发表的关于马龙离职的声明中，OpenAI 表示，它“最近重组”了其“基础设施组织，以支持我们工作的规模和节奏”。",
+          "whyItMatters": "“随着高调离职潮的持续， OpenAI失去了一名顶级数据中心高管”能帮助你判断这项能力是否已经进入工程、产品或商业场景，并据此调整技术选型、产品规划、学习重点或职业判断。",
+          "userRelevance": "如果你从事AI 产品、AI 技术、产品管理、技术研发，可以重点判断“随着高调离职潮的持续， OpenAI失去了一名顶级数据中心高管”是否已经具备产品落地、技术选型或业务合作价值。",
+          "whatToWatch": "接下来要看“随着高调离职潮的持续， OpenAI失去了一名顶级数据中心高管”是否有更多可靠来源、量产或应用进展，以及它会不会从单点消息发展成持续趋势。"
+        },
+        "sourceLinks": [
+          {
+            "title": "TechCrunch AI RSS",
+            "url": "https://techcrunch.com/2026/08/25/openai-loses-a-top-data-center-exec-as-stream-of-high-profile-departures-continues/",
+            "sourceId": "techcrunch-ai-rss",
+            "publishedAt": "2026-08-26T00:06:20.000Z",
+            "language": "zh",
+            "originalLanguage": "en",
+            "translationStatus": "translated",
+            "fetchedAt": "2026-08-26T04:50:53.846Z",
+            "sourceMethod": "rss",
+            "verificationStatus": "pending"
+          }
+        ],
+        "images": [],
+        "generatedAt": "2026-08-26T04:50:44.404Z"
+      }
+    },
+    {
+      "candidate": {
+        "id": "cluster-real-gdacs-feed-ke37wt",
+        "title": "巴西绿色森林火灾通知",
+        "oneLine": "这是一条全球灾害 / 公共风险候选，是否推送取决于事件严重程度、影响范围和用户所在地相关性。",
+        "categories": [
+          "disaster",
+          "publicSafety",
+          "world"
+        ],
+        "industries": [
+          "generalPublic",
+          "localLife"
+        ],
+        "regions": [
+          "全球"
+        ],
+        "locations": [],
+        "sourceIds": [
+          "gdacs-feed"
+        ],
+        "publishedAt": "2026-08-26T03:01:05.000Z",
+        "sourceLinks": [
+          {
+            "title": "GDACS 灾害 Feed",
+            "url": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1031152",
+            "sourceId": "gdacs-feed",
+            "publishedAt": "2026-08-26T03:01:05.000Z",
+            "language": "zh",
+            "originalLanguage": "en",
+            "translationStatus": "translated",
+            "fetchedAt": "2026-08-26T04:50:47.690Z",
+            "sourceMethod": "rss",
+            "verificationStatus": "confirmed"
+          },
+          {
+            "title": "GDACS 灾害 Feed",
+            "url": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1031115",
+            "sourceId": "gdacs-feed",
+            "publishedAt": "2026-08-26T03:02:41.000Z",
+            "language": "zh",
+            "originalLanguage": "en",
+            "translationStatus": "translated",
+            "fetchedAt": "2026-08-26T04:50:47.690Z",
+            "sourceMethod": "rss",
+            "verificationStatus": "confirmed"
+          },
+          {
+            "title": "GDACS 灾害 Feed",
+            "url": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1031117",
+            "sourceId": "gdacs-feed",
+            "publishedAt": "2026-08-26T03:03:22.000Z",
+            "language": "zh",
+            "originalLanguage": "en",
+            "translationStatus": "translated",
+            "fetchedAt": "2026-08-26T04:50:47.690Z",
+            "sourceMethod": "rss",
+            "verificationStatus": "confirmed"
+          }
+        ],
+        "images": [],
+        "body": {
+          "background": "GDACS 提供接近实时的自然灾害提醒，适合作为公共风险信息的候选来源。",
+          "keyProgress": "2026年8月24日，巴西发生森林大火，一直持续到2026年8月25日。",
+          "whyItMatters": "灾害信息主要服务于风险提醒。绿色级别事件通常不应制造焦虑，只有影响范围或用户相关性足够高时才进入日报。",
+          "userRelevance": "当前还没有命中用户城市，需要继续结合地区和严重程度判断。",
+          "whatToWatch": "后续应结合官方预警、当地影响和事件等级变化再决定是否推送。"
+        },
+        "impactScore": 58,
+        "severityScore": 52,
+        "freshnessScore": 95,
+        "trendScore": 24,
+        "isExample": false
+      },
+      "card": {
+        "id": "draft-cluster-real-gdacs-feed-ke37wt",
+        "title": "巴西绿色森林火灾通知",
+        "oneLine": "风险提醒：根据烧毁面积、受影响人口及其脆弱性，森林火灾造成的人道主义影响较小。",
+        "importance": "B",
+        "credibility": "官方来源",
+        "tags": [
+          "B",
+          "disaster",
+          "publicSafety",
+          "world"
+        ],
+        "industries": [
+          "generalPublic",
+          "localLife"
+        ],
+        "section": "industry",
+        "body": {
+          "background": "对于此事件，GDACS 提供了来自以下来源的信息链接：EC-JRC (28)、WMO (1)、INFORM (2)、JRC (1)、(1)、免责声明 - 版权 虽然我们尽力确保准确性，但此信息纯粹是指示性的，如果没有其他信息来源，不应将其用于任何决策。*（最后一次检测到火灾的热异常）查看更多新闻 美国地质调查局使用全球地震响应即时评估 (PAGER) 产品估算每次地震的伤亡人数。对于因使用本网站提供的信息而造成的任何损害或损失，JRC 不承担任何责任。",
+          "keyProgress": "地图上使用的名称和材料的呈现并不意味着欧盟对任何国家、领土或地区或其当局的法律地位，或对其边界或边界的划定表达任何意见。",
+          "whyItMatters": "“巴西绿色森林火灾通知”的直接价值是帮助你判断是否需要调整出行、居住或工作安排。影响地区、持续时间、预警等级和官方避险建议比事件热度更重要。",
+          "userRelevance": "对于“巴西绿色森林火灾通知”，如果你近期计划前往事发地区或与当地有工作、家人联系，需要留意后续预警；没有直接联系时，可把它作为区域风险背景了解。",
+          "whatToWatch": "接下来要看“巴西绿色森林火灾通知”的影响范围是否扩大、预警等级是否变化，以及是否出现与你所在城市相关的提醒。"
+        },
+        "sourceLinks": [
+          {
+            "title": "GDACS 灾害 Feed",
+            "url": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1031152",
+            "sourceId": "gdacs-feed",
+            "publishedAt": "2026-08-26T03:01:05.000Z",
+            "language": "zh",
+            "originalLanguage": "en",
+            "translationStatus": "translated",
+            "fetchedAt": "2026-08-26T04:50:47.690Z",
+            "sourceMethod": "rss",
+            "verificationStatus": "confirmed"
+          },
+          {
+            "title": "GDACS 灾害 Feed",
+            "url": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1031115",
+            "sourceId": "gdacs-feed",
+            "publishedAt": "2026-08-26T03:02:41.000Z",
+            "language": "zh",
+            "originalLanguage": "en",
+            "translationStatus": "translated",
+            "fetchedAt": "2026-08-26T04:50:47.690Z",
+            "sourceMethod": "rss",
+            "verificationStatus": "confirmed"
+          },
+          {
+            "title": "GDACS 灾害 Feed",
+            "url": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1031117",
+            "sourceId": "gdacs-feed",
+            "publishedAt": "2026-08-26T03:03:22.000Z",
+            "language": "zh",
+            "originalLanguage": "en",
+            "translationStatus": "translated",
+            "fetchedAt": "2026-08-26T04:50:47.690Z",
+            "sourceMethod": "rss",
+            "verificationStatus": "confirmed"
+          }
+        ],
+        "images": [
+          {
+            "url": "https://www.gdacs.org/images/un_eu.png",
+            "sourceUrl": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1031152"
+          }
+        ],
+        "generatedAt": "2026-08-26T04:50:44.404Z"
+      }
+    },
+    {
+      "candidate": {
+        "id": "real-gov-uk-news-1xt3gdz",
+        "title": "英国高级专员更换为新西兰： Louise Cantillon",
+        "oneLine": "英国官方更新涉及英国，需要结合生效时间和适用人群判断影响。",
+        "categories": [
+          "world",
+          "policy",
+          "local"
+        ],
+        "industries": [
+          "generalPublic",
+          "localLife"
+        ],
+        "regions": [
+          "英国"
+        ],
+        "locations": [
+          "英国"
+        ],
+        "sourceIds": [
+          "gov-uk-news"
+        ],
+        "publishedAt": "2026-08-26T02:14:40.000Z",
+        "sourceLinks": [
+          {
+            "title": "GOV.UK News and Communications",
+            "url": "https://www.gov.uk/government/news/change-of-british-high-commissioner-to-new-zealand-louise-cantillon",
+            "sourceId": "gov-uk-news",
+            "publishedAt": "2026-08-26T02:14:40.000Z",
+            "language": "zh",
+            "originalLanguage": "en",
+            "translationStatus": "translated",
+            "fetchedAt": "2026-08-26T04:50:51.927Z",
+            "sourceMethod": "rss",
+            "verificationStatus": "confirmed"
+          }
+        ],
+        "images": [],
+        "body": {
+          "background": "这条信息来自英国政府官方新闻与公告更新流。",
+          "keyProgress": "Louise Cantillon被任命为英国驻新西兰高级专员兼皮特凯恩、亨德森、迪西和奥埃诺群岛总督。",
+          "whyItMatters": "官方政策、公共服务和监管变化可能直接影响在英国生活、工作、学习或经营的人。",
+          "userRelevance": "当前识别到英国地区：英国。居住地命中时应提高排序。",
+          "whatToWatch": "继续确认正式文件、生效日期、适用对象以及地方政府后续执行说明。"
+        },
+        "impactScore": 74,
+        "severityScore": 42,
+        "freshnessScore": 95,
+        "trendScore": 45,
+        "isExample": false
+      },
+      "card": {
+        "id": "draft-real-gov-uk-news-1xt3gdz",
+        "title": "英国高级专员更换为新西兰： Louise Cantillon",
+        "oneLine": "政策变化：《英国高级专员更换为新西兰： Louise Cantillon》我们使用一些必要的 cookie 来使该网站正常运行。",
+        "importance": "B",
+        "credibility": "官方来源",
+        "tags": [
+          "B",
+          "world",
+          "policy",
+          "local"
+        ],
+        "industries": [
+          "generalPublic",
+          "localLife"
+        ],
+        "section": "industry",
+        "body": {
+          "background": "出生、死亡、婚姻和护理 商业和自营职业 儿童保育和养育 英国公民身份和生活 犯罪、司法和法律 残疾人 驾驶和交通 教育和学习 就业人员 环境和乡村 住房和当地服务 金钱和税收 护照、旅行和国外生活 签证和移民 工作、工作和养老金 部门 部门、机构和公共机构 新闻 新闻故事、演讲、信件和通知 指导和监管 详细指导、法规和规则 研究和统计 报告、分析和官方统计政策文件和磋商 磋商和战略 透明度 数据、信息自由发布和公司报告 国际外交事务 Louise Cantillon 被任命为英国驻新西兰高级专员以及皮特凯恩群岛、亨德森群岛、杜西群岛和奥埃诺群岛总督。我们使用一些必要的 cookie 来使该网站正常运行。我们希望设置额外的 cookie 来了解您如何使用 GOV.UK、记住您的设置并改善政府服务。",
+          "keyProgress": "她还将与政府、企业和民间社会的合作伙伴合作，促进经济增长，加强集体安全，并应对影响印太地区及其他地区的全球挑战。我们还使用其他网站设置的 cookie 来帮助我们从他们的服务中提供内容。您可以随时更改您的 cookie 设置。路易丝·坎蒂隆 (Louise Cantillon) 在英国政府任职期间有着杰出的职业生涯，加入英国高级专员公署。",
+          "whyItMatters": "“英国高级专员更换为新西兰： Louise Cantillon”如果继续发展，可能通过能源价格、航运、贸易、汇率或市场预期传导到国内。了解它的意义在于判断后续风险，而不只停留在事件本身。",
+          "userRelevance": "即使你不在英国，“英国高级专员更换为新西兰： Louise Cantillon”也可能通过能源价格、国际航运、贸易成本和市场预期间接影响国内生活与工作判断。",
+          "whatToWatch": "接下来要看“英国高级专员更换为新西兰： Louise Cantillon”是否出现新的官方信息、后续行动，以及它与中国出行、贸易或公共判断的关联是否扩大。"
+        },
+        "sourceLinks": [
+          {
+            "title": "GOV.UK News and Communications",
+            "url": "https://www.gov.uk/government/news/change-of-british-high-commissioner-to-new-zealand-louise-cantillon",
+            "sourceId": "gov-uk-news",
+            "publishedAt": "2026-08-26T02:14:40.000Z",
+            "language": "zh",
+            "originalLanguage": "en",
+            "translationStatus": "translated",
+            "fetchedAt": "2026-08-26T04:50:51.927Z",
+            "sourceMethod": "rss",
+            "verificationStatus": "confirmed"
+          }
+        ],
+        "images": [
+          {
+            "url": "https://assets.publishing.service.gov.uk/media/6a8e4b8df5b35599aec18d55/s300_Cantillon_GOV.UK.png",
+            "sourceUrl": "https://www.gov.uk/government/news/change-of-british-high-commissioner-to-new-zealand-louise-cantillon"
+          }
+        ],
+        "generatedAt": "2026-08-26T04:50:44.404Z"
       }
     }
   ]

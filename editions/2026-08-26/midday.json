@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "publishedAt": "2026-08-26T04:21:54.642Z",
+  "publishedAt": "2026-08-26T04:50:44.404Z",
   "issue": {
     "id": "daily-public-2026-08-26",
     "date": "2026-08-26",
@@ -576,13 +576,103 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-26T04:21:59.946Z",
+            "fetchedAt": "2026-08-26T04:50:53.846Z",
             "sourceMethod": "rss",
             "verificationStatus": "pending"
           }
         ],
         "images": [],
-        "generatedAt": "2026-08-26T04:21:54.642Z"
+        "generatedAt": "2026-08-26T04:50:44.404Z"
+      },
+      {
+        "id": "draft-real-techcrunch-ai-rss-b8s7el",
+        "title": "消息人士称，机器人初创公司Generalist的估值达到$ 3B",
+        "oneLine": "趋势信号：据两位知情人士透露，机器人初创公司Generalist在8VC牵头筹集了额外资金后，现在的估值为30亿美元。",
+        "importance": "B",
+        "credibility": "待确认",
+        "tags": [
+          "B",
+          "industry",
+          "ai",
+          "technology",
+          "product"
+        ],
+        "industries": [
+          "aiProduct",
+          "aiTechnology",
+          "productManagement",
+          "technologyEngineering",
+          "educationResearch"
+        ],
+        "section": "ai",
+        "body": {
+          "background": "它声称其新发布的第1.5代模型使机器人能够从短至3至12秒的视频演示中掌握新任务。其他竞争对手包括据报道估值110亿美元的Physical Intelligence ，以及软银支持的估值140亿美元的Skild AI ，以及上个月正在谈判以30亿美元估值筹集资金的Genesis AI。根据监管文件，新资本总额近2亿美元。",
+          "keyProgress": "通才正在开发一种可以与各种机器人一起工作的人工智能基础模型。据一位消息人士称，这家初创公司正在与少数客户合作，利用他们的反馈为特定用例定制模型。资金激增反映了一些投资者的赌注，即机器人可能很快就会达到自己的“ChatGPT时刻” ，这意味着机器人将能够执行一般任务，而无需为每个任务进行明确的培训。然而，由于机器人无法像LLM那样在整个互联网数据上进行训练，一些VC警告说，真正通用的机器人模型可能还需要数年时间。",
+          "whyItMatters": "“消息人士称，机器人初创公司Generalist的估值达到$ 3B”能帮助你判断这项能力是否已经进入工程、产品或商业场景，并据此调整技术选型、产品规划、学习重点或职业判断。",
+          "userRelevance": "如果你从事AI 产品、AI 技术、产品管理、技术研发，可以重点判断“消息人士称，机器人初创公司Generalist的估值达到$ 3B”是否已经具备产品落地、技术选型或业务合作价值。",
+          "whatToWatch": "接下来要看“消息人士称，机器人初创公司Generalist的估值达到$ 3B”是否有更多可靠来源、量产或应用进展，以及它会不会从单点消息发展成持续趋势。"
+        },
+        "sourceLinks": [
+          {
+            "title": "TechCrunch AI RSS",
+            "url": "https://techcrunch.com/2026/08/25/robotics-startup-generalist-reaches-3b-valuation-sources-say/",
+            "sourceId": "techcrunch-ai-rss",
+            "publishedAt": "2026-08-26T00:40:59.000Z",
+            "language": "zh",
+            "originalLanguage": "en",
+            "translationStatus": "translated",
+            "fetchedAt": "2026-08-26T04:50:53.846Z",
+            "sourceMethod": "rss",
+            "verificationStatus": "pending"
+          }
+        ],
+        "images": [],
+        "generatedAt": "2026-08-26T04:50:44.404Z"
+      },
+      {
+        "id": "draft-real-techcrunch-ai-rss-1iijpn5",
+        "title": "随着高调离职潮的持续， OpenAI失去了一名顶级数据中心高管",
+        "oneLine": "趋势信号：OpenAI 又失去了另一位高管，考虑到这位高管负责监督公司数据中心战略的执行，这位高管的离职时机尤其引人注目。",
+        "importance": "B",
+        "credibility": "待确认",
+        "tags": [
+          "B",
+          "industry",
+          "ai",
+          "technology",
+          "product"
+        ],
+        "industries": [
+          "aiProduct",
+          "aiTechnology",
+          "productManagement",
+          "technologyEngineering",
+          "educationResearch"
+        ],
+        "section": "ai",
+        "body": {
+          "background": "马龙曾在 Meta 工作了近五年，此前在谷歌工作了十多年，去年 3 月加入 OpenAI，任期相对较短。随着人工智能基础设施建设热潮在整个行业全面展开，数据中心战略已成为人工智能实验室中最受关注的角色之一，这使得该席位的人员流动尤其令人惊讶。据说其他几位高管目前正在监督 OpenAI 的数据中心战略，其中包括领导该公司数据中心团队的 Uday Ruddarraju；",
+          "keyProgress": "据《华尔街日报》报道，OpenAI 前数据中心主管 Chris Malone 上周离开了公司。马龙在 Stargate 项目启动后不久加入了该公司，这是一项由特朗普政府支持的价值 5 亿美元的数据中心计划，旨在寻求在美国开发数据中心。OpenAI 与甲骨文、英伟达、软银和微软一起被认为是这一努力的关键合作伙伴。在向 TechCrunch 发表的关于马龙离职的声明中，OpenAI 表示，它“最近重组”了其“基础设施组织，以支持我们工作的规模和节奏”。",
+          "whyItMatters": "“随着高调离职潮的持续， OpenAI失去了一名顶级数据中心高管”能帮助你判断这项能力是否已经进入工程、产品或商业场景，并据此调整技术选型、产品规划、学习重点或职业判断。",
+          "userRelevance": "如果你从事AI 产品、AI 技术、产品管理、技术研发，可以重点判断“随着高调离职潮的持续， OpenAI失去了一名顶级数据中心高管”是否已经具备产品落地、技术选型或业务合作价值。",
+          "whatToWatch": "接下来要看“随着高调离职潮的持续， OpenAI失去了一名顶级数据中心高管”是否有更多可靠来源、量产或应用进展，以及它会不会从单点消息发展成持续趋势。"
+        },
+        "sourceLinks": [
+          {
+            "title": "TechCrunch AI RSS",
+            "url": "https://techcrunch.com/2026/08/25/openai-loses-a-top-data-center-exec-as-stream-of-high-profile-departures-continues/",
+            "sourceId": "techcrunch-ai-rss",
+            "publishedAt": "2026-08-26T00:06:20.000Z",
+            "language": "zh",
+            "originalLanguage": "en",
+            "translationStatus": "translated",
+            "fetchedAt": "2026-08-26T04:50:53.846Z",
+            "sourceMethod": "rss",
+            "verificationStatus": "pending"
+          }
+        ],
+        "images": [],
+        "generatedAt": "2026-08-26T04:50:44.404Z"
       },
       {
         "id": "draft-real-cnbc-world-rss-1wte1st",
@@ -620,7 +710,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-26T04:21:58.624Z",
+            "fetchedAt": "2026-08-26T04:50:52.533Z",
             "sourceMethod": "rss",
             "verificationStatus": "pending"
           }
@@ -631,7 +721,7 @@
             "sourceUrl": "https://www.cnbc.com/2026/08/26/trump-saudi-nuclear-agreement-congress-iran-deal-.html"
           }
         ],
-        "generatedAt": "2026-08-26T04:21:54.642Z"
+        "generatedAt": "2026-08-26T04:50:44.404Z"
       },
       {
         "id": "draft-real-cnbc-world-rss-154vl52",
@@ -669,13 +759,13 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-26T04:21:58.624Z",
+            "fetchedAt": "2026-08-26T04:50:52.533Z",
             "sourceMethod": "rss",
             "verificationStatus": "pending"
           }
         ],
         "images": [],
-        "generatedAt": "2026-08-26T04:21:54.642Z"
+        "generatedAt": "2026-08-26T04:50:44.404Z"
       },
       {
         "id": "draft-real-cnbc-world-rss-bw0zme",
@@ -713,13 +803,13 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-26T04:21:58.624Z",
+            "fetchedAt": "2026-08-26T04:50:52.533Z",
             "sourceMethod": "rss",
             "verificationStatus": "pending"
           }
         ],
         "images": [],
-        "generatedAt": "2026-08-26T04:21:54.642Z"
+        "generatedAt": "2026-08-26T04:50:44.404Z"
       },
       {
         "id": "draft-cluster-real-gov-uk-news-e8iapl",
@@ -1170,10 +1260,10 @@
         "generatedAt": "2026-08-25T23:35:48.393Z"
       }
     ],
-    "estimatedReadMinutes": 36,
+    "estimatedReadMinutes": 39,
     "pageCount": 3,
     "topCardId": "draft-real-cnbc-world-rss-x6vkom",
-    "generatedAt": "2026-08-26T04:21:54.642Z",
+    "generatedAt": "2026-08-26T04:50:44.404Z",
     "pushSlots": [
       "08:30",
       "12:30",
@@ -1188,6 +1278,8 @@
     "basedOnGeneratedAt": "2026-08-25T23:35:48.393Z",
     "editionCardIds": [
       "draft-real-techcrunch-ai-rss-6e0sye",
+      "draft-real-techcrunch-ai-rss-b8s7el",
+      "draft-real-techcrunch-ai-rss-1iijpn5",
       "draft-real-cnbc-world-rss-1wte1st",
       "draft-real-cnbc-world-rss-154vl52",
       "draft-real-cnbc-world-rss-bw0zme"

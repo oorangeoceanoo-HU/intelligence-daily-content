@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "publishedAt": "2026-08-26T13:38:26.107Z",
+  "publishedAt": "2026-08-26T14:00:12.272Z",
   "issue": {
     "id": "daily-public-2026-08-26",
     "date": "2026-08-26",
@@ -43,7 +43,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-26T13:38:31.080Z",
+            "fetchedAt": "2026-08-26T14:00:16.971Z",
             "sourceMethod": "rss",
             "verificationStatus": "confirmed"
           }
@@ -66,7 +66,7 @@
             "sourceUrl": "https://www.npr.org/2026/08/26/g-s1-140207/up-first-newsletter-canada-tariffs-visa-revocations-dolly-parton-nevada-voters"
           }
         ],
-        "generatedAt": "2026-08-26T13:38:26.107Z"
+        "generatedAt": "2026-08-26T14:00:12.272Z"
       },
       {
         "id": "draft-real-cnbc-world-rss-x6vkom",
@@ -587,7 +587,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-26T13:38:31.565Z",
+            "fetchedAt": "2026-08-26T14:00:17.351Z",
             "sourceMethod": "rss",
             "verificationStatus": "pending"
           }
@@ -598,7 +598,7 @@
             "sourceUrl": "https://www.cnbc.com/2026/08/26/temasek-unitree-humanoids-robotics-trump-ban-.html"
           }
         ],
-        "generatedAt": "2026-08-26T13:38:26.107Z"
+        "generatedAt": "2026-08-26T14:00:12.272Z"
       },
       {
         "id": "draft-real-gov-uk-news-1ihplfl",
@@ -688,13 +688,13 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-26T13:38:32.492Z",
+            "fetchedAt": "2026-08-26T14:00:18.966Z",
             "sourceMethod": "rss",
             "verificationStatus": "pending"
           }
         ],
         "images": [],
-        "generatedAt": "2026-08-26T13:38:26.107Z"
+        "generatedAt": "2026-08-26T14:00:12.272Z"
       },
       {
         "id": "draft-real-techcrunch-ai-rss-1tyj443",
@@ -733,7 +733,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-26T13:38:32.492Z",
+            "fetchedAt": "2026-08-26T14:00:18.966Z",
             "sourceMethod": "rss",
             "verificationStatus": "pending"
           }
@@ -752,7 +752,7 @@
             "sourceUrl": "https://techcrunch.com/2026/08/26/hearing-tech-startup-legato-emerges-from-stealth-with-12m-and-a-peek-at-its-ai-hearing-glasses/"
           }
         ],
-        "generatedAt": "2026-08-26T13:38:26.107Z"
+        "generatedAt": "2026-08-26T14:00:12.272Z"
       },
       {
         "id": "draft-real-theverge-ai-rss-oa2s1d",
@@ -791,13 +791,13 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-26T13:38:32.534Z",
+            "fetchedAt": "2026-08-26T14:00:19.032Z",
             "sourceMethod": "rss",
             "verificationStatus": "pending"
           }
         ],
         "images": [],
-        "generatedAt": "2026-08-26T13:38:26.107Z"
+        "generatedAt": "2026-08-26T14:00:12.272Z"
       },
       {
         "id": "draft-real-techcrunch-ai-rss-7va96j",
@@ -836,57 +836,13 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-26T13:38:32.492Z",
+            "fetchedAt": "2026-08-26T14:00:18.966Z",
             "sourceMethod": "rss",
             "verificationStatus": "pending"
           }
         ],
         "images": [],
-        "generatedAt": "2026-08-26T13:38:26.107Z"
-      },
-      {
-        "id": "draft-real-cnbc-world-rss-1cpfbir",
-        "title": "马克·沃尔特 (Mark Walter) 的 TWG Global 猛烈抨击“攻击”，坚称在联邦调查中“不存在欺诈”",
-        "oneLine": "政策变化：TWG Global 在声明中表示：“TWG 和 Group 1001 保险公司已提出一项计划来解决任何监管问题。",
-        "importance": "B",
-        "credibility": "待确认",
-        "tags": [
-          "B",
-          "industry",
-          "world",
-          "policy",
-          "finance"
-        ],
-        "industries": [
-          "generalPublic",
-          "financeInvestment",
-          "operationsGrowth",
-          "ecommerceRetail"
-        ],
-        "section": "industry",
-        "body": {
-          "background": "该声明发布之际，媒体纷纷报道沃尔特的帝国以及联邦刑事和民事调查，调查沃尔特的两家保险公司与洛杉矶道奇队老板控制的公司之间数十亿美元的金融交易。”加拿大对约 20B 美元的美国商品征收报复性关税 特朗普瞄准伊朗的贸易生命线——以下是受影响最严重的国家 马克·沃尔特 (Mark Walter) 的 TWG Global 聘请高盛资深专家马科维茨 (Markowitz) 担任首席律师，调查特朗普石油和天然气股票上涨了 1,550 万美元，民主党人表示，特朗普政府公布了反伊朗全球制裁计划，表明中国也不能幸免。没有人受到伤害，也没有人声称自己受到伤害。",
-          "keyProgress": "马克·沃尔特 (Mark Walter) 的 TWG Global 在周三上午的一份非同寻常的声明中，猛烈抨击了针对控股公司及其子公司的“多管齐下的攻击”，并表示“尽管有报道称，这些公司并没有欺诈行为”。TWG还表示，“不打算以‘贱卖’价格出售其体育资产来为其保险业务筹集资金。这是 TWG 自对保险公司的调查再次引起关注以来，TWG 发表的最详细、最强烈的言论。沃尔特斯表示，他将在 8 月初出售其在洛杉矶湖人队的多数股权，此时距离购买该队还不到一年。",
-          "whyItMatters": "“马克·沃尔特  的 TWG Global 猛烈抨击攻击，坚称在联邦调查中不存在欺诈”如果继续发展，可能通过能源价格、航运、贸易、汇率或市场预期传导到国内。了解它的意义在于判断后续风险，而不只停留在事件本身。",
-          "userRelevance": "即使你不在事发地区，“马克·沃尔特  的 TWG Global 猛烈抨击攻击，坚称在联邦调查中不存在欺诈”也可能通过能源价格、国际航运、贸易成本和市场预期间接影响国内生活与工作判断。",
-          "whatToWatch": "接下来要看“马克·沃尔特  的 TWG Global 猛烈抨击攻击，坚称在联邦调查中不存在欺诈”是否出现更细的城市、行业、平台或企业数据，以及这一变化能否连续保持。"
-        },
-        "sourceLinks": [
-          {
-            "title": "CNBC World News RSS",
-            "url": "https://www.cnbc.com/2026/08/26/mark-walter-twg-guggenheim-lakers.html",
-            "sourceId": "cnbc-world-rss",
-            "publishedAt": "2026-08-26T13:06:55.000Z",
-            "language": "zh",
-            "originalLanguage": "en",
-            "translationStatus": "translated",
-            "fetchedAt": "2026-08-26T13:38:31.565Z",
-            "sourceMethod": "rss",
-            "verificationStatus": "pending"
-          }
-        ],
-        "images": [],
-        "generatedAt": "2026-08-26T13:38:26.107Z"
+        "generatedAt": "2026-08-26T14:00:12.272Z"
       },
       {
         "id": "draft-real-cnbc-world-rss-vih2gk",
@@ -924,7 +880,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-26T13:38:31.565Z",
+            "fetchedAt": "2026-08-26T14:00:17.351Z",
             "sourceMethod": "rss",
             "verificationStatus": "pending"
           }
@@ -939,7 +895,7 @@
             "sourceUrl": "https://www.cnbc.com/2026/08/26/hyundai-sales-us-investment.html"
           }
         ],
-        "generatedAt": "2026-08-26T13:38:26.107Z"
+        "generatedAt": "2026-08-26T14:00:12.272Z"
       },
       {
         "id": "draft-real-cnbc-world-rss-18tv4e9",
@@ -977,13 +933,13 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-26T13:38:31.565Z",
+            "fetchedAt": "2026-08-26T14:00:17.351Z",
             "sourceMethod": "rss",
             "verificationStatus": "pending"
           }
         ],
         "images": [],
-        "generatedAt": "2026-08-26T13:38:26.107Z"
+        "generatedAt": "2026-08-26T14:00:12.272Z"
       },
       {
         "id": "draft-real-cnbc-world-rss-1cj0bem",
@@ -1021,16 +977,16 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-26T13:38:31.565Z",
+            "fetchedAt": "2026-08-26T14:00:17.351Z",
             "sourceMethod": "rss",
             "verificationStatus": "pending"
           }
         ],
         "images": [],
-        "generatedAt": "2026-08-26T13:38:26.107Z"
+        "generatedAt": "2026-08-26T14:00:12.272Z"
       },
       {
-        "id": "draft-real-gov-uk-news-gxciga",
+        "id": "draft-real-gov-uk-news-n4n521",
         "title": "您的能源账单上有喘息空间",
         "oneLine": "政策变化：从 2026 年 10 月 1 日起，此要求将被取消，这意味着我们希望所有供应商不会在您的电费单上收取增值税。",
         "importance": "B",
@@ -1066,7 +1022,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-26T13:38:31.592Z",
+            "fetchedAt": "2026-08-26T14:00:16.917Z",
             "sourceMethod": "rss",
             "verificationStatus": "confirmed"
           }
@@ -1077,7 +1033,7 @@
             "sourceUrl": "https://www.gov.uk/government/news/breathing-space-on-your-energy-bill"
           }
         ],
-        "generatedAt": "2026-08-26T13:38:26.107Z"
+        "generatedAt": "2026-08-26T14:00:12.272Z"
       },
       {
         "id": "draft-cluster-real-gov-uk-news-e8iapl",
@@ -1240,12 +1196,57 @@
         ],
         "images": [],
         "generatedAt": "2026-08-26T04:50:44.404Z"
+      },
+      {
+        "id": "draft-real-techcrunch-ai-rss-1iijpn5",
+        "title": "随着高调离职潮的持续， OpenAI失去了一名顶级数据中心高管",
+        "oneLine": "趋势信号：OpenAI 又失去了另一位高管，考虑到这位高管负责监督公司数据中心战略的执行，这位高管的离职时机尤其引人注目。",
+        "importance": "B",
+        "credibility": "待确认",
+        "tags": [
+          "B",
+          "industry",
+          "ai",
+          "technology",
+          "product"
+        ],
+        "industries": [
+          "aiProduct",
+          "aiTechnology",
+          "productManagement",
+          "technologyEngineering",
+          "educationResearch"
+        ],
+        "section": "ai",
+        "body": {
+          "background": "马龙曾在 Meta 工作了近五年，此前在谷歌工作了十多年，去年 3 月加入 OpenAI，任期相对较短。随着人工智能基础设施建设热潮在整个行业全面展开，数据中心战略已成为人工智能实验室中最受关注的角色之一，这使得该席位的人员流动尤其令人惊讶。据说其他几位高管目前正在监督 OpenAI 的数据中心战略，其中包括领导该公司数据中心团队的 Uday Ruddarraju；",
+          "keyProgress": "据《华尔街日报》报道，OpenAI 前数据中心主管 Chris Malone 上周离开了公司。马龙在 Stargate 项目启动后不久加入了该公司，这是一项由特朗普政府支持的价值 5 亿美元的数据中心计划，旨在寻求在美国开发数据中心。OpenAI 与甲骨文、英伟达、软银和微软一起被认为是这一努力的关键合作伙伴。在向 TechCrunch 发表的关于马龙离职的声明中，OpenAI 表示，它“最近重组”了其“基础设施组织，以支持我们工作的规模和节奏”。",
+          "whyItMatters": "“随着高调离职潮的持续， OpenAI失去了一名顶级数据中心高管”能帮助你判断这项能力是否已经进入工程、产品或商业场景，并据此调整技术选型、产品规划、学习重点或职业判断。",
+          "userRelevance": "如果你从事AI 产品、AI 技术、产品管理、技术研发，可以重点判断“随着高调离职潮的持续， OpenAI失去了一名顶级数据中心高管”是否已经具备产品落地、技术选型或业务合作价值。",
+          "whatToWatch": "接下来要看“随着高调离职潮的持续， OpenAI失去了一名顶级数据中心高管”是否有更多可靠来源、量产或应用进展，以及它会不会从单点消息发展成持续趋势。"
+        },
+        "sourceLinks": [
+          {
+            "title": "TechCrunch AI RSS",
+            "url": "https://techcrunch.com/2026/08/25/openai-loses-a-top-data-center-exec-as-stream-of-high-profile-departures-continues/",
+            "sourceId": "techcrunch-ai-rss",
+            "publishedAt": "2026-08-26T00:06:20.000Z",
+            "language": "zh",
+            "originalLanguage": "en",
+            "translationStatus": "translated",
+            "fetchedAt": "2026-08-26T04:50:53.846Z",
+            "sourceMethod": "rss",
+            "verificationStatus": "pending"
+          }
+        ],
+        "images": [],
+        "generatedAt": "2026-08-26T04:50:44.404Z"
       }
     ],
     "estimatedReadMinutes": 39,
     "pageCount": 3,
     "topCardId": "draft-real-npr-world-rss-4wwb6",
-    "generatedAt": "2026-08-26T13:38:26.107Z",
+    "generatedAt": "2026-08-26T14:00:12.272Z",
     "pushSlots": [
       "08:30",
       "12:30",
@@ -1265,11 +1266,10 @@
       "draft-real-techcrunch-ai-rss-1tyj443",
       "draft-real-techcrunch-ai-rss-7va96j",
       "draft-real-theverge-ai-rss-oa2s1d",
-      "draft-real-cnbc-world-rss-1cpfbir",
       "draft-real-cnbc-world-rss-vih2gk",
       "draft-real-cnbc-world-rss-18tv4e9",
-      "draft-real-gov-uk-news-gxciga",
-      "draft-real-cnbc-world-rss-1cj0bem"
+      "draft-real-cnbc-world-rss-1cj0bem",
+      "draft-real-gov-uk-news-n4n521"
     ],
     "carriedCardIds": [
       "draft-real-cnbc-world-rss-x6vkom",
@@ -1284,7 +1284,8 @@
       "draft-real-gov-uk-news-1ihplfl",
       "draft-cluster-real-gov-uk-news-e8iapl",
       "draft-real-techcrunch-ai-rss-6e0sye",
-      "draft-real-techcrunch-ai-rss-b8s7el"
+      "draft-real-techcrunch-ai-rss-b8s7el",
+      "draft-real-techcrunch-ai-rss-1iijpn5"
     ]
   }
 }

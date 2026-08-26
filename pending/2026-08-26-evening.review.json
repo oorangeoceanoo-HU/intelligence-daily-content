@@ -1,0 +1,71 @@
+{
+  "version": 1,
+  "date": "2026-08-26",
+  "generatedAt": "2026-08-26T13:41:54.498Z",
+  "status": "review",
+  "reviewMode": "generated",
+  "candidateSha256": "13fd720ebd8967cfe6d42ab31d6ab1b33a096f2ade5f4c2f30c27ec08a69a4eb",
+  "counts": {
+    "cards": 24,
+    "pages": 3,
+    "rawItems": 34,
+    "freshCandidates": 32,
+    "publishableCards": 11,
+    "reviewableCards": 3,
+    "rejectedCards": 1,
+    "blockers": 0,
+    "warnings": 8
+  },
+  "findings": [
+    {
+      "level": "warning",
+      "code": "source-fetch-failures",
+      "message": "有 3 个来源抓取失败，需要确认是否影响当天覆盖面。"
+    },
+    {
+      "level": "warning",
+      "code": "coverage-local",
+      "message": "居住城市与家乡城市：上海、杭州、长春、深圳、伦敦、宿州、汕尾尚未形成真实来源覆盖：公共共享日报会监测示例城市，但城市无新增不能阻止其他核心内容出版；发现线索仍需官方或主流来源确认。"
+    },
+    {
+      "level": "warning",
+      "code": "current-coverage-local",
+      "message": "居住城市与家乡城市：上海、杭州、长春、深圳、伦敦、宿州、汕尾在本时段没有新的可用条目：已监测 0 个可访问来源，但当前只命中 0 个。公共共享日报会监测示例城市，但城市无新增不能阻止其他核心内容出版；发现线索仍需官方或主流来源确认。"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "没有抓到完整正文，目前使用候选摘要回退。",
+      "cardId": "draft-real-france24-middle-east-rss-1q6yl9f",
+      "cardTitle": "中东直播：内塔尼亚胡表示不可能与伊朗“野蛮人”达成外交协议"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "原文篇幅较短且不是官方或主流来源，需要发布前复核。",
+      "cardId": "draft-real-france24-middle-east-rss-1q6yl9f",
+      "cardTitle": "中东直播：内塔尼亚胡表示不可能与伊朗“野蛮人”达成外交协议"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "原文篇幅较短且不是官方或主流来源，需要发布前复核。",
+      "cardId": "draft-real-cnbc-world-rss-ajcgg7",
+      "cardTitle": "霍尔木兹协议希望导致油价下跌，美国原油价格徘徊在 80 美元左右"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "没有抓到完整正文，目前使用候选摘要回退。",
+      "cardId": "draft-cluster-real-france24-asia-pacific-rss-s74aer",
+      "cardTitle": "尼泊尔-西藏山洪爆发后至少找到22具尸体，数百人失踪"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "原文信息量有限，需要确认是否足以支持卡片结论。",
+      "cardId": "draft-cluster-real-france24-asia-pacific-rss-s74aer",
+      "cardTitle": "尼泊尔-西藏山洪爆发后至少找到22具尸体，数百人失踪"
+    }
+  ]
+}

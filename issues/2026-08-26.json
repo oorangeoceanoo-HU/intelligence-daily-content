@@ -1,11 +1,73 @@
 {
   "schemaVersion": 2,
-  "publishedAt": "2026-08-26T04:50:44.404Z",
+  "publishedAt": "2026-08-26T13:38:26.107Z",
   "issue": {
     "id": "daily-public-2026-08-26",
     "date": "2026-08-26",
     "userId": "public",
     "cards": [
+      {
+        "id": "draft-real-npr-world-rss-4wwb6",
+        "title": "加拿大将对美国征收报复性关税。并且，纪念音乐传奇人物多莉·帕顿",
+        "oneLine": "政策变化：《加拿大将对美国征收报复性关税。并且，纪念音乐传奇人物多莉·帕顿》您正在阅读 Up First 时事通讯。",
+        "importance": "S",
+        "credibility": "主流媒体",
+        "tags": [
+          "S",
+          "mustKnow",
+          "industry",
+          "world",
+          "policy",
+          "finance"
+        ],
+        "industries": [
+          "generalPublic",
+          "financeInvestment",
+          "operationsGrowth",
+          "ecommerceRetail"
+        ],
+        "section": "front",
+        "body": {
+          "background": "您正在阅读 Up First 时事通讯。在此订阅，将其发送到您的收件箱，并收听 Up First 播客，了解开始新的一天所需的所有新闻。加拿大宣布对美国征收报复性关税，并表示将“一元对一元”地对美国征收关税。",
+          "keyProgress": "加拿大财政部长商鹏飞表示，该国将从9月8日起对多种美国出口产品征收15%、25%和50%的关税。反关税将针对钢铁、乳制品、电器、农业设备、纸浆和纸张以及电子产品，影响每年从美国进口的近200亿美元商品🎧这200亿美元的关税商品不会对美国经济产生重大影响，NPR 的 Stephan Bisaha 告诉 Up First。但如果贸易战继续加剧，美国汽车和加拿大石油等商品加入其中，将会产生更大的影响。Bisaha 补充道，2000 万美元的数字并非巧合。",
+          "whyItMatters": "“加拿大将对美国征收报复性关税。并且，纪念音乐传奇人物多莉·帕顿”如果继续发展，可能通过能源价格、航运、贸易、汇率或市场预期传导到国内。了解它的意义在于判断后续风险，而不只停留在事件本身。",
+          "userRelevance": "即使你不在美国，“加拿大将对美国征收报复性关税。并且，纪念音乐传奇人物多莉·帕顿”也可能通过能源价格、国际航运、贸易成本和市场预期间接影响国内生活与工作判断。",
+          "whatToWatch": "接下来要看“加拿大将对美国征收报复性关税。并且，纪念音乐传奇人物多莉·帕顿”是否出现更细的城市、行业、平台或企业数据，以及这一变化能否连续保持。"
+        },
+        "sourceLinks": [
+          {
+            "title": "NPR World RSS",
+            "url": "https://www.npr.org/2026/08/26/g-s1-140207/up-first-newsletter-canada-tariffs-visa-revocations-dolly-parton-nevada-voters",
+            "sourceId": "npr-world-rss",
+            "publishedAt": "2026-08-26T11:05:46.000Z",
+            "language": "zh",
+            "originalLanguage": "en",
+            "translationStatus": "translated",
+            "fetchedAt": "2026-08-26T13:38:31.080Z",
+            "sourceMethod": "rss",
+            "verificationStatus": "confirmed"
+          }
+        ],
+        "images": [
+          {
+            "url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8192x4608+0+428/resize/1100/quality/50/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fdb%2Ff0%2Ff7db928c4a758bb35800e85b7300%2Fgettyimages-2290660201.jpg",
+            "sourceUrl": "https://www.npr.org/2026/08/26/g-s1-140207/up-first-newsletter-canada-tariffs-visa-revocations-dolly-parton-nevada-voters"
+          },
+          {
+            "url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/7439x4184+0+387/resize/1100/quality/50/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F29%2F19%2Fbe3be846478fa55daca484d487d6%2Fgettyimages-2287657636.jpg",
+            "sourceUrl": "https://www.npr.org/2026/08/26/g-s1-140207/up-first-newsletter-canada-tariffs-visa-revocations-dolly-parton-nevada-voters"
+          },
+          {
+            "url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4500x2531+0+234/resize/1100/quality/50/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Faa%2F0d%2Fa46f60a842ba897f050d339a7e5f%2F20260805-dsc7274.jpg",
+            "sourceUrl": "https://www.npr.org/2026/08/26/g-s1-140207/up-first-newsletter-canada-tariffs-visa-revocations-dolly-parton-nevada-voters"
+          },
+          {
+            "url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2632x1481+0+137/resize/1100/quality/50/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fe6%2Ff6%2F718f30824a7e8bdbd02ffe379f77%2Fgettyimages-2291482471.jpg",
+            "sourceUrl": "https://www.npr.org/2026/08/26/g-s1-140207/up-first-newsletter-canada-tariffs-visa-revocations-dolly-parton-nevada-voters"
+          }
+        ],
+        "generatedAt": "2026-08-26T13:38:26.107Z"
+      },
       {
         "id": "draft-real-cnbc-world-rss-x6vkom",
         "title": "伊朗和阿曼讨论霍尔木兹海峡联合航线和扫雷任务",
@@ -489,6 +551,56 @@
         "generatedAt": "2026-08-25T23:35:48.393Z"
       },
       {
+        "id": "draft-real-cnbc-world-rss-f8bitu",
+        "title": "Unitree背后的淡马锡控股投资者将新加坡视为中国机器人进入美国的路径",
+        "oneLine": "政策变化：新加坡——一家由淡马锡支持的风险投资公司表示，由于对先进机器人的新限制而被排除在美国之外的中国机器人公司仍然可以通过在新加坡建立真正的业务来接触美国买家，该公司将人形机器人制造商 Unitree Robotics 纳入其投资组合公司之列。",
+        "importance": "B",
+        "credibility": "待确认",
+        "tags": [
+          "B",
+          "mustKnow",
+          "industry",
+          "world",
+          "policy",
+          "finance"
+        ],
+        "industries": [
+          "generalPublic",
+          "financeInvestment",
+          "operationsGrowth",
+          "ecommerceRetail"
+        ],
+        "section": "front",
+        "body": {
+          "background": "美国政府表示，国际贸易规则通常根据产品发生实质性转变的地点来确定产品的原产地。其投资组合包括Unitree、自动驾驶芯片制造商Horizo​​n Robotics、物流机器人提供商Geek+、手术机器人制造商Edge Medical和光子芯片制造商Lightelligence。祥峰投资中国 (Vertex Ventures China) 管理合伙人 Choon Chong Tay 表示，与中国有关联的初创公司仍然可以通过将日常运营、招聘和关键组件控制在这个城邦来占领美国市场。",
+          "keyProgress": "这位驻上海的风险投资家周二对 CNBC 表示，在新加坡拥有“大量内容”的中国初创企业可以进军美国市场，这些企业在新加坡控制着为这些机器人提供动力的芯片。今年7月，特朗普政府以国家安全为由，禁止新型外国制造的人形机器人和其他移动机器人进入美国，在中国制造商一直引领机器人技术之际，关闭了全球最大的消费市场。“这使得美国成为 Unitree 的一个有意义的市场，失去访问权可能会显着影响其收入增长，”李说。他说，美国消费者和企业想要中国工厂廉价生产的产品，但目前还没有国内工业能够填补这一空白。",
+          "whyItMatters": "“Unitree背后的淡马锡控股投资者将新加坡视为中国机器人进入美国的路径”如果继续发展，可能通过能源价格、航运、贸易、汇率或市场预期传导到国内。了解它的意义在于判断后续风险，而不只停留在事件本身。",
+          "userRelevance": "即使你不在中国、美国，“Unitree背后的淡马锡控股投资者将新加坡视为中国机器人进入美国的路径”也可能通过能源价格、国际航运、贸易成本和市场预期间接影响国内生活与工作判断。",
+          "whatToWatch": "接下来要看“Unitree背后的淡马锡控股投资者将新加坡视为中国机器人进入美国的路径”是否出现更细的城市、行业、平台或企业数据，以及这一变化能否连续保持。"
+        },
+        "sourceLinks": [
+          {
+            "title": "CNBC World News RSS",
+            "url": "https://www.cnbc.com/2026/08/26/temasek-unitree-humanoids-robotics-trump-ban-.html",
+            "sourceId": "cnbc-world-rss",
+            "publishedAt": "2026-08-26T07:06:07.000Z",
+            "language": "zh",
+            "originalLanguage": "en",
+            "translationStatus": "translated",
+            "fetchedAt": "2026-08-26T13:38:31.565Z",
+            "sourceMethod": "rss",
+            "verificationStatus": "pending"
+          }
+        ],
+        "images": [
+          {
+            "url": "https://image.cnbcfm.com/api/v1/image/108352538-17872870441787287041-47893488810-1080pnbcnews.jpg?v=1787287043&amp;w=750&amp;h=422&amp;vtcrop=y",
+            "sourceUrl": "https://www.cnbc.com/2026/08/26/temasek-unitree-humanoids-robotics-trump-ban-.html"
+          }
+        ],
+        "generatedAt": "2026-08-26T13:38:26.107Z"
+      },
+      {
         "id": "draft-real-gov-uk-news-1ihplfl",
         "title": "星展银行更新服务指南现已更新",
         "oneLine": "风险提醒：这些变化遵循内政部对更新服务的审查提出的建议，旨在帮助雇主就如何在其组织内使用该服务做出明智的决定。",
@@ -535,6 +647,506 @@
           {
             "url": "https://assets.publishing.service.gov.uk/media/6a8d95d95a0c25165ae4646f/s300_Gov.uk_thumbnail_-___19_.png",
             "sourceUrl": "https://www.gov.uk/government/news/updated-dbs-update-service-guidance-now-available"
+          }
+        ],
+        "generatedAt": "2026-08-25T23:35:48.393Z"
+      },
+      {
+        "id": "draft-real-techcrunch-ai-rss-6d7l81",
+        "title": "Arga Labs 正在构建一种更好的方法来培训企业人工智能代理",
+        "oneLine": "趋势信号：让人工智能代理在实践中发挥作用比许多公司预期的要困难得多，但帮助正在路上。",
+        "importance": "B",
+        "credibility": "待确认",
+        "tags": [
+          "B",
+          "industry",
+          "ai",
+          "technology",
+          "product"
+        ],
+        "industries": [
+          "aiProduct",
+          "aiTechnology",
+          "productManagement",
+          "technologyEngineering",
+          "educationResearch"
+        ],
+        "section": "ai",
+        "body": {
+          "background": "一批新的初创公司正在寻找更好的方法来在部署这些代理之前对其进行测试和培训，特别是针对现代企业的复杂性。Arga Labs 就是这样的一家公司，该公司于周三宣布了 1000 万美元的种子轮融资。此轮融资由 General Catalyst 领投，Box Group、Emergence、Gradient 和 SV Angel 跟投。",
+          "keyProgress": "首席执行官兼联合创始人 Philip Li 举了一个例子：一位潜在客户在销售队伍中建立了领先优势，而他们的同事则通过 Hubspot 单独进行了接触。Arga Labs 为 Salesforce、Workday 和电子邮件客户端等企业软件构建培训环境。大多数测试环境都采用无状态 API 端点，而 Arga 构建了程序的全面数字孪生，有效克隆了整个企业程序，且权限系统和 Web 挂钩完好无损。其结果是提供了一种更稳健的方法来跨多个系统培训代理。",
+          "whyItMatters": "“Arga Labs 正在构建一种更好的方法来培训企业人工智能代理”能帮助你判断这项能力是否已经进入工程、产品或商业场景，并据此调整技术选型、产品规划、学习重点或职业判断。",
+          "userRelevance": "如果你从事AI 产品、AI 技术、产品管理、技术研发，可以重点判断“Arga Labs 正在构建一种更好的方法来培训企业人工智能代理”是否已经具备产品落地、技术选型或业务合作价值。",
+          "whatToWatch": "接下来要看“Arga Labs 正在构建一种更好的方法来培训企业人工智能代理”是否有更多可靠来源、量产或应用进展，以及它会不会从单点消息发展成持续趋势。"
+        },
+        "sourceLinks": [
+          {
+            "title": "TechCrunch AI RSS",
+            "url": "https://techcrunch.com/2026/08/26/arga-is-building-a-better-way-to-train-enterprise-ai-agents/",
+            "sourceId": "techcrunch-ai-rss",
+            "publishedAt": "2026-08-26T12:55:28.000Z",
+            "language": "zh",
+            "originalLanguage": "en",
+            "translationStatus": "translated",
+            "fetchedAt": "2026-08-26T13:38:32.492Z",
+            "sourceMethod": "rss",
+            "verificationStatus": "pending"
+          }
+        ],
+        "images": [],
+        "generatedAt": "2026-08-26T13:38:26.107Z"
+      },
+      {
+        "id": "draft-real-techcrunch-ai-rss-1tyj443",
+        "title": "听力科技初创公司 Legato 以 1200 万美元的价格脱颖而出，并展示了其人工智能助听眼镜",
+        "oneLine": "趋势信号：据估计，美国有 5000 万成年人患有听力损失，但只有约 20% 的确诊听力损失患者寻求治疗。",
+        "importance": "B",
+        "credibility": "待确认",
+        "tags": [
+          "B",
+          "industry",
+          "ai",
+          "technology",
+          "product"
+        ],
+        "industries": [
+          "aiProduct",
+          "aiTechnology",
+          "productManagement",
+          "technologyEngineering",
+          "educationResearch"
+        ],
+        "section": "ai",
+        "body": {
+          "background": "“我们的目标是让听觉像视觉一样无处不在，”Trivedi 在接受 TechCrunch 采访时表示。Legato 是一家新的听力技术公司，旨在缩小这一差距。该公司独家向 TechCrunch 透露，周三，这家初创公司获得了 1200 万美元的融资，并首次展示了其人工智能助听眼镜。",
+          "keyProgress": "这款眼镜名为 Legato Frames，将公司的专利助听技术集成到眼镜镜腿中。Legato Frames 预计将于今年秋季晚些时候推出。Legato 由 Mehul Trivedi 和 Steve Romine 创立，他们带来了 Bose 在可穿戴设备和听力保健方面的丰富经验，Trivedi 领导了 Bose Frames 的创建，Romine 负责助听器部门。Trivedi 离开 Bose 前往 EssilorLuxottica 工作，在那里领导智能眼镜工作并开发 Meta Ray-Bans，而 Romine 随后担任听力保健公司 Audicus 的首席运营官。",
+          "whyItMatters": "“听力科技初创公司 Legato 以 1200 万美元的价格脱颖而出，并展示了其人工智能助听眼镜”能帮助你判断这项能力是否已经进入工程、产品或商业场景，并据此调整技术选型、产品规划、学习重点或职业判断。",
+          "userRelevance": "如果你从事AI 产品、AI 技术、产品管理、技术研发，可以重点判断“听力科技初创公司 Legato 以 1200 万美元的价格脱颖而出，并展示了其人工智能助听眼镜”是否已经具备产品落地、技术选型或业务合作价值。",
+          "whatToWatch": "接下来要看“听力科技初创公司 Legato 以 1200 万美元的价格脱颖而出，并展示了其人工智能助听眼镜”是否有更多可靠来源、量产或应用进展，以及它会不会从单点消息发展成持续趋势。"
+        },
+        "sourceLinks": [
+          {
+            "title": "TechCrunch AI RSS",
+            "url": "https://techcrunch.com/2026/08/26/hearing-tech-startup-legato-emerges-from-stealth-with-12m-and-a-peek-at-its-ai-hearing-glasses/",
+            "sourceId": "techcrunch-ai-rss",
+            "publishedAt": "2026-08-26T12:00:00.000Z",
+            "language": "zh",
+            "originalLanguage": "en",
+            "translationStatus": "translated",
+            "fetchedAt": "2026-08-26T13:38:32.492Z",
+            "sourceMethod": "rss",
+            "verificationStatus": "pending"
+          }
+        ],
+        "images": [
+          {
+            "url": "https://techcrunch.com/wp-content/uploads/2026/08/Screenshot-2026-08-25-at-1.27.01-PM.png?w=680",
+            "sourceUrl": "https://techcrunch.com/2026/08/26/hearing-tech-startup-legato-emerges-from-stealth-with-12m-and-a-peek-at-its-ai-hearing-glasses/"
+          },
+          {
+            "url": "https://techcrunch.com/wp-content/uploads/2026/08/legato-founders.jpeg?w=680",
+            "sourceUrl": "https://techcrunch.com/2026/08/26/hearing-tech-startup-legato-emerges-from-stealth-with-12m-and-a-peek-at-its-ai-hearing-glasses/"
+          },
+          {
+            "url": "https://techcrunch.com/wp-content/uploads/2026/08/Screenshot-2026-08-25-at-1.56.58-PM.png?w=680",
+            "sourceUrl": "https://techcrunch.com/2026/08/26/hearing-tech-startup-legato-emerges-from-stealth-with-12m-and-a-peek-at-its-ai-hearing-glasses/"
+          }
+        ],
+        "generatedAt": "2026-08-26T13:38:26.107Z"
+      },
+      {
+        "id": "draft-real-theverge-ai-rss-oa2s1d",
+        "title": "比尔·盖茨对人工智能深感担忧，他不再保持沉默",
+        "oneLine": "趋势信号：比尔·盖茨最近对人工智能进行了很多思考，这个过程引发了人们的彻底觉醒。",
+        "importance": "B",
+        "credibility": "待确认",
+        "tags": [
+          "B",
+          "industry",
+          "ai",
+          "technology",
+          "product"
+        ],
+        "industries": [
+          "aiProduct",
+          "aiTechnology",
+          "productManagement",
+          "technologyEngineering",
+          "educationResearch"
+        ],
+        "section": "ai",
+        "body": {
+          "background": "盖茨表示，政治领导人需要“在失业率急剧上升、社区受到伤害、公众信任受到侵蚀之前”立即采取行动。这位微软联合创始人曾经是一位坚定的人工智能乐观主义者，但现在对人工智能对我们共同未来的意义深感悲观。最近在人工智能问题上一直保持沉默的盖茨带着一篇近 6000 字的文章回来了，试图重新夺回在全球技术塑造中的核心作用。",
+          "keyProgress": "他警告说：“许多工作将永远消失，”白领和蓝领工作都面临被取代的风险。盖茨在题为“动荡的人工智能时代已经到来。我们现在做出的选择至关重要”的文章中警告说，世界还没有为即将到来的事情做好准备。更糟糕的是，他指出，“我们还没有为此做好准备。",
+          "whyItMatters": "“比尔·盖茨对人工智能深感担忧，他不再保持沉默”能帮助你判断这项能力是否已经进入工程、产品或商业场景，并据此调整技术选型、产品规划、学习重点或职业判断。",
+          "userRelevance": "如果你从事AI 产品、AI 技术、产品管理、技术研发，可以重点判断“比尔·盖茨对人工智能深感担忧，他不再保持沉默”是否已经具备产品落地、技术选型或业务合作价值。",
+          "whatToWatch": "接下来要看“比尔·盖茨对人工智能深感担忧，他不再保持沉默”是否有更多可靠来源、量产或应用进展，以及它会不会从单点消息发展成持续趋势。"
+        },
+        "sourceLinks": [
+          {
+            "title": "The Verge AI RSS",
+            "url": "https://www.theverge.com/ai-artificial-intelligence/984923/bill-gates-is-deeply-worried-about-ai-and-hes-no-longer-staying-quiet",
+            "sourceId": "theverge-ai-rss",
+            "publishedAt": "2026-08-26T11:07:40.000Z",
+            "language": "zh",
+            "originalLanguage": "en",
+            "translationStatus": "translated",
+            "fetchedAt": "2026-08-26T13:38:32.534Z",
+            "sourceMethod": "rss",
+            "verificationStatus": "pending"
+          }
+        ],
+        "images": [],
+        "generatedAt": "2026-08-26T13:38:26.107Z"
+      },
+      {
+        "id": "draft-real-techcrunch-ai-rss-7va96j",
+        "title": "Runable 筹集了 2100 万美元，押注人工智能代理可以从建立业务到发展业务",
+        "oneLine": "趋势信号：随着人工智能使构建网站和应用程序变得比以往任何时候都更加容易，印度初创公司 Runable 押注下一个机会在于接下来的事情：寻找客户并帮助企业发展。",
+        "importance": "B",
+        "credibility": "待确认",
+        "tags": [
+          "B",
+          "industry",
+          "ai",
+          "technology",
+          "product"
+        ],
+        "industries": [
+          "aiProduct",
+          "aiTechnology",
+          "productManagement",
+          "technologyEngineering",
+          "educationResearch"
+        ],
+        "section": "ai",
+        "body": {
+          "background": "该初创公司已筹集 2100 万美元，用于朝这个方向扩张。联合创始人兼首席执行官 Umesh Kumar（上图右）在接受独家采访时表示，投资后，全股权主要资金对 Runable 的估值为 6500 万美元。Runable 成立于 2025 年，面向日益拥挤的市场中的小型企业，其中包括 Anthropic 和 OpenAI 等人工智能巨头以及 Cursor、Lovable 和 Replit 等编码平台。",
+          "keyProgress": "然而，两人注意到用户越来越多地要求其基于浏览器的代理创建幻灯片和网站等内容。该初创公司目前正在将代理扩展到所谓的业务“增长”方面，其目标是开展广告活动、管理社交媒体、处理搜索引擎优化以及优化企业在人工智能聊天机器人结果中的表现等任务。Kumar 告诉 TechCrunch，目标是最终帮助小企业主要求 Runable 获得一定的数量……A 轮融资由 Susquehanna Venture Capital 和 Nexus Venture Partners 共同领投，现有投资者 Together Fund 和 Array VC 也参与其中。",
+          "whyItMatters": "“Runable 筹集了 2100 万美元，押注人工智能代理可以从建立业务到发展业务”能帮助你判断这项能力是否已经进入工程、产品或商业场景，并据此调整技术选型、产品规划、学习重点或职业判断。",
+          "userRelevance": "如果你从事AI 产品、AI 技术、产品管理、技术研发，可以重点判断“Runable 筹集了 2100 万美元，押注人工智能代理可以从建立业务到发展业务”是否已经具备产品落地、技术选型或业务合作价值。",
+          "whatToWatch": "接下来要看“Runable 筹集了 2100 万美元，押注人工智能代理可以从建立业务到发展业务”是否有更多可靠来源、量产或应用进展，以及它会不会从单点消息发展成持续趋势。"
+        },
+        "sourceLinks": [
+          {
+            "title": "TechCrunch AI RSS",
+            "url": "https://techcrunch.com/2026/08/26/runable-hits-21m-to-bet-ai-agents-can-go-from-building-businesses-to-growing-them/",
+            "sourceId": "techcrunch-ai-rss",
+            "publishedAt": "2026-08-26T11:00:00.000Z",
+            "language": "zh",
+            "originalLanguage": "en",
+            "translationStatus": "translated",
+            "fetchedAt": "2026-08-26T13:38:32.492Z",
+            "sourceMethod": "rss",
+            "verificationStatus": "pending"
+          }
+        ],
+        "images": [],
+        "generatedAt": "2026-08-26T13:38:26.107Z"
+      },
+      {
+        "id": "draft-real-cnbc-world-rss-1cpfbir",
+        "title": "马克·沃尔特 (Mark Walter) 的 TWG Global 猛烈抨击“攻击”，坚称在联邦调查中“不存在欺诈”",
+        "oneLine": "政策变化：TWG Global 在声明中表示：“TWG 和 Group 1001 保险公司已提出一项计划来解决任何监管问题。",
+        "importance": "B",
+        "credibility": "待确认",
+        "tags": [
+          "B",
+          "industry",
+          "world",
+          "policy",
+          "finance"
+        ],
+        "industries": [
+          "generalPublic",
+          "financeInvestment",
+          "operationsGrowth",
+          "ecommerceRetail"
+        ],
+        "section": "industry",
+        "body": {
+          "background": "该声明发布之际，媒体纷纷报道沃尔特的帝国以及联邦刑事和民事调查，调查沃尔特的两家保险公司与洛杉矶道奇队老板控制的公司之间数十亿美元的金融交易。”加拿大对约 20B 美元的美国商品征收报复性关税 特朗普瞄准伊朗的贸易生命线——以下是受影响最严重的国家 马克·沃尔特 (Mark Walter) 的 TWG Global 聘请高盛资深专家马科维茨 (Markowitz) 担任首席律师，调查特朗普石油和天然气股票上涨了 1,550 万美元，民主党人表示，特朗普政府公布了反伊朗全球制裁计划，表明中国也不能幸免。没有人受到伤害，也没有人声称自己受到伤害。",
+          "keyProgress": "马克·沃尔特 (Mark Walter) 的 TWG Global 在周三上午的一份非同寻常的声明中，猛烈抨击了针对控股公司及其子公司的“多管齐下的攻击”，并表示“尽管有报道称，这些公司并没有欺诈行为”。TWG还表示，“不打算以‘贱卖’价格出售其体育资产来为其保险业务筹集资金。这是 TWG 自对保险公司的调查再次引起关注以来，TWG 发表的最详细、最强烈的言论。沃尔特斯表示，他将在 8 月初出售其在洛杉矶湖人队的多数股权，此时距离购买该队还不到一年。",
+          "whyItMatters": "“马克·沃尔特  的 TWG Global 猛烈抨击攻击，坚称在联邦调查中不存在欺诈”如果继续发展，可能通过能源价格、航运、贸易、汇率或市场预期传导到国内。了解它的意义在于判断后续风险，而不只停留在事件本身。",
+          "userRelevance": "即使你不在事发地区，“马克·沃尔特  的 TWG Global 猛烈抨击攻击，坚称在联邦调查中不存在欺诈”也可能通过能源价格、国际航运、贸易成本和市场预期间接影响国内生活与工作判断。",
+          "whatToWatch": "接下来要看“马克·沃尔特  的 TWG Global 猛烈抨击攻击，坚称在联邦调查中不存在欺诈”是否出现更细的城市、行业、平台或企业数据，以及这一变化能否连续保持。"
+        },
+        "sourceLinks": [
+          {
+            "title": "CNBC World News RSS",
+            "url": "https://www.cnbc.com/2026/08/26/mark-walter-twg-guggenheim-lakers.html",
+            "sourceId": "cnbc-world-rss",
+            "publishedAt": "2026-08-26T13:06:55.000Z",
+            "language": "zh",
+            "originalLanguage": "en",
+            "translationStatus": "translated",
+            "fetchedAt": "2026-08-26T13:38:31.565Z",
+            "sourceMethod": "rss",
+            "verificationStatus": "pending"
+          }
+        ],
+        "images": [],
+        "generatedAt": "2026-08-26T13:38:26.107Z"
+      },
+      {
+        "id": "draft-real-cnbc-world-rss-vih2gk",
+        "title": "现代汽车的发展速度超过了美国任何一家汽车制造商——而且这一切还没有结束",
+        "oneLine": "政策变化：旧金山——现代汽车公司首席执行官何塞·穆尼奥斯 (José Muñoz) 微笑着点头，在其新旗舰 Genesis GV90 SUV 发布会上，一位高管讨论了该汽车制造商的“mueos-ideun ganeunghada”理念。",
+        "importance": "B",
+        "credibility": "待确认",
+        "tags": [
+          "B",
+          "industry",
+          "world",
+          "policy",
+          "finance"
+        ],
+        "industries": [
+          "generalPublic",
+          "financeInvestment",
+          "operationsGrowth",
+          "ecommerceRetail"
+        ],
+        "section": "industry",
+        "body": {
+          "background": "“我的三大优先事项是美国，”上周《创世纪》曝光后，穆尼奥斯在接受 CNBC 采访时表示。” Mobility Global 的数据显示，现代汽车集团旗下包括同名汽车以及起亚和豪华 Genesis 品牌，其市场份额在这十年中的增幅超过美国任何主要汽车制造商。现代汽车集团执行主席郑义宣 (Euisun Chung) 上周在接受 CNBC 采访时淡化了公司的快速崛起：“这很重要，但速度并不重要。",
+          "keyProgress": "尽管地缘政治变化和市场放缓，现代汽车近十年来在美国仍经历了快速增长。该公司正在提高佐治亚州一座耗资 76 亿美元的新工厂的产量，以继续获得更多的销售额和市场份额。“美国正在帮助我们真正取得良好进展，不仅在世界上最重要的市场和竞争最激烈的市场上，而且在其他地方也是如此。该集团的美国市场份额从 2020 年的 8.4% 增长到去年的 11.2%，同期销售额增长了 50%，使这家韩国公司成为美国第四大畅销汽车制造商。",
+          "whyItMatters": "“现代汽车的发展速度超过了美国任何一家汽车制造商——而且这一切还没有结束”如果继续发展，可能通过能源价格、航运、贸易、汇率或市场预期传导到国内。了解它的意义在于判断后续风险，而不只停留在事件本身。",
+          "userRelevance": "即使你不在美国、韩国，“现代汽车的发展速度超过了美国任何一家汽车制造商——而且这一切还没有结束”也可能通过能源价格、国际航运、贸易成本和市场预期间接影响国内生活与工作判断。",
+          "whatToWatch": "接下来要看“现代汽车的发展速度超过了美国任何一家汽车制造商——而且这一切还没有结束”是否出现更细的城市、行业、平台或企业数据，以及这一变化能否连续保持。"
+        },
+        "sourceLinks": [
+          {
+            "title": "CNBC World News RSS",
+            "url": "https://www.cnbc.com/2026/08/26/hyundai-sales-us-investment.html",
+            "sourceId": "cnbc-world-rss",
+            "publishedAt": "2026-08-26T12:00:01.000Z",
+            "language": "zh",
+            "originalLanguage": "en",
+            "translationStatus": "translated",
+            "fetchedAt": "2026-08-26T13:38:31.565Z",
+            "sourceMethod": "rss",
+            "verificationStatus": "pending"
+          }
+        ],
+        "images": [
+          {
+            "url": "https://image.cnbcfm.com/api/v1/image/108354186-Carbon_Thumb_Hyundai.jpg?v=1787691488&amp;w=750&amp;h=422&amp;vtcrop=y",
+            "sourceUrl": "https://www.cnbc.com/2026/08/26/hyundai-sales-us-investment.html"
+          },
+          {
+            "url": "https://image.cnbcfm.com/api/v1/image/108352557-1787293452595-1787263794539-260820_cn_23_tech_hyundai_intv_dirty.jpg?v=1787293650&amp;w=750&amp;h=422&amp;vtcrop=y",
+            "sourceUrl": "https://www.cnbc.com/2026/08/26/hyundai-sales-us-investment.html"
+          }
+        ],
+        "generatedAt": "2026-08-26T13:38:26.107Z"
+      },
+      {
+        "id": "draft-real-cnbc-world-rss-18tv4e9",
+        "title": "抵押贷款利率创三周最高水平，需求进一步减弱",
+        "oneLine": "政策变化：《抵押贷款利率创三周最高水平，需求进一步减弱》上周抵押贷款利率进一步走高，导致贷款需求再次减弱。",
+        "importance": "B",
+        "credibility": "待确认",
+        "tags": [
+          "B",
+          "industry",
+          "world",
+          "policy",
+          "finance"
+        ],
+        "industries": [
+          "generalPublic",
+          "financeInvestment",
+          "operationsGrowth",
+          "ecommerceRetail"
+        ],
+        "section": "industry",
+        "body": {
+          "background": "合格贷款余额高达 832,750 美元的 30 年期固定利率抵押贷款的平均合同利率上周从前一周的 6.77% 上升至 6.78%，首付 20% 的贷款的利率从 0.65 上升至 0.66，其中包括启动费。整体市场竞争较少，使得卖家更有可能接受需要融资的买家。根据抵押贷款银行家协会的季节性调整指数，抵押贷款申请总量较前一周下降 1%。",
+          "keyProgress": "对每周利率变动最敏感的住房贷款再融资申请本周下降了 2%。与一年前同一周相比，利率下降了 17%，当时利率低了 9 个基点。住房抵押贷款申请本周下降 0.3%，比去年同期下降 5%。Kan 补充道：“由于 FHA 申请数量减少 7%，本周购买活动有所下降。",
+          "whyItMatters": "“抵押贷款利率创三周最高水平，需求进一步减弱”如果继续发展，可能通过能源价格、航运、贸易、汇率或市场预期传导到国内。了解它的意义在于判断后续风险，而不只停留在事件本身。",
+          "userRelevance": "即使你不在事发地区，“抵押贷款利率创三周最高水平，需求进一步减弱”也可能通过能源价格、国际航运、贸易成本和市场预期间接影响国内生活与工作判断。",
+          "whatToWatch": "接下来要看“抵押贷款利率创三周最高水平，需求进一步减弱”是否出现更细的城市、行业、平台或企业数据，以及这一变化能否连续保持。"
+        },
+        "sourceLinks": [
+          {
+            "title": "CNBC World News RSS",
+            "url": "https://www.cnbc.com/2026/08/26/mortgage-rates-hit-highest-level-in-3-weeks-weakening-demand-further.html",
+            "sourceId": "cnbc-world-rss",
+            "publishedAt": "2026-08-26T11:33:07.000Z",
+            "language": "zh",
+            "originalLanguage": "en",
+            "translationStatus": "translated",
+            "fetchedAt": "2026-08-26T13:38:31.565Z",
+            "sourceMethod": "rss",
+            "verificationStatus": "pending"
+          }
+        ],
+        "images": [],
+        "generatedAt": "2026-08-26T13:38:26.107Z"
+      },
+      {
+        "id": "draft-real-cnbc-world-rss-1cj0bem",
+        "title": "随着配送增长和新餐厅品牌提振前景，海底捞股价上涨",
+        "oneLine": "政策变化：周三，中国火锅连锁店海底捞国际的股价在香港上涨了 7%，此前该公司上半年业绩显示外卖收入增长了一倍多。",
+        "importance": "B",
+        "credibility": "待确认",
+        "tags": [
+          "B",
+          "industry",
+          "world",
+          "policy",
+          "finance"
+        ],
+        "industries": [
+          "generalPublic",
+          "financeInvestment",
+          "operationsGrowth",
+          "ecommerceRetail"
+        ],
+        "section": "industry",
+        "body": {
+          "background": "周二公布的业绩显示，截至 6 月份的六个月内，海底捞的收入同比增长 7.9% 至 223.4 亿元人民币（合 33.2 亿美元），而核心营业利润（非国际财务报告准则指标）增长 4.4% 至 25.1 亿元人民币。外卖是海底捞增长最快的业务板块，收入增长121.2%至20.5亿元，主要得益于单一服务快餐业务的快速增长以及通过更多本地中心扩展外卖网络。占集团销售额79.9%的海底捞品牌餐厅收入下降4%至178.4亿元，主要是由于自营餐厅数量下降。",
+          "keyProgress": "其他餐厅业务收入大幅增长113.1%至12.7亿元，海底捞将其归功于“石榴计划”下餐饮品牌的发展，探索新的餐饮业态以及野营火锅、深夜火锅等餐饮场景的贡献。该公司表示，其大排档火锅和寿司业态已发展出相对成熟的单店模式，进入“大规模复制”阶段，计划从今年下半年开始逐步规模化，成为2027年其他餐厅业务收入增长的重要来源。花旗在财报后的报告中表示，海底捞上半年未计其他收入的营业利润同比增长13%，较预期高出6%。该银行还指出，海底捞的海鲜摊火锅和寿司业态预计将在 2026 年下半年开始扩大规模，而海底捞品牌门店预计将在 2027 年加速开业，明年的营收增长可能会加速。",
+          "whyItMatters": "“随着配送增长和新餐厅品牌提振前景，海底捞股价上涨”如果继续发展，可能通过能源价格、航运、贸易、汇率或市场预期传导到国内。了解它的意义在于判断后续风险，而不只停留在事件本身。",
+          "userRelevance": "即使你不在事发地区，“随着配送增长和新餐厅品牌提振前景，海底捞股价上涨”也可能通过能源价格、国际航运、贸易成本和市场预期间接影响国内生活与工作判断。",
+          "whatToWatch": "接下来要看“随着配送增长和新餐厅品牌提振前景，海底捞股价上涨”是否出现更细的城市、行业、平台或企业数据，以及这一变化能否连续保持。"
+        },
+        "sourceLinks": [
+          {
+            "title": "CNBC World News RSS",
+            "url": "https://www.cnbc.com/2026/08/26/haidilao-shares-delivery-restaurant-growth.html",
+            "sourceId": "cnbc-world-rss",
+            "publishedAt": "2026-08-26T09:35:08.000Z",
+            "language": "zh",
+            "originalLanguage": "en",
+            "translationStatus": "translated",
+            "fetchedAt": "2026-08-26T13:38:31.565Z",
+            "sourceMethod": "rss",
+            "verificationStatus": "pending"
+          }
+        ],
+        "images": [],
+        "generatedAt": "2026-08-26T13:38:26.107Z"
+      },
+      {
+        "id": "draft-real-gov-uk-news-gxciga",
+        "title": "您的能源账单上有喘息空间",
+        "oneLine": "政策变化：从 2026 年 10 月 1 日起，此要求将被取消，这意味着我们希望所有供应商不会在您的电费单上收取增值税。",
+        "importance": "B",
+        "credibility": "官方来源",
+        "tags": [
+          "B",
+          "industry",
+          "world",
+          "policy",
+          "local"
+        ],
+        "industries": [
+          "generalPublic",
+          "localLife",
+          "hrRecruiting",
+          "financeInvestment",
+          "operationsGrowth"
+        ],
+        "section": "industry",
+        "body": {
+          "background": "出生、死亡、婚姻和护理 商业和自营职业 儿童保育和养育 英国公民身份和生活 犯罪、司法和法律 残疾人 驾驶和交通 教育和学习 就业人员 环境和乡村 住房和当地服务 金钱和税收 护照、旅行和国外生活 签证和移民 工作、工作和养老金 部门 部门、机构和公共机构 新闻 新闻故事、演讲、信件和通知 指导和监管 详细指导、法规和规则 研究和统计 报告、分析和官方统计政策文件和咨询 咨询和战略 透明度 数据、信息自由 发布和公司报告 住房、地方和社区 家庭能源 了解家庭电费增值税减免对您有何帮助。今年冬天，大约 600 万家庭还有资格享受我们的 Warm Home Discount，电费可进一步享受 150 英镑的折扣。其中包括您已经锁定费率的固定能源关税。",
+          "keyProgress": "您无需执行任何操作即可领取节省的费用。我们使用一些必要的 cookie 来使该网站正常运行。我们希望设置额外的 cookie 来了解您如何使用 GOV.UK、记住您的设置并改善政府服务。我们还使用其他网站设置的 cookie 来帮助我们从他们的服务中提供内容。",
+          "whyItMatters": "“您的能源账单上有喘息空间”如果继续发展，可能通过能源价格、航运、贸易、汇率或市场预期传导到国内。了解它的意义在于判断后续风险，而不只停留在事件本身。",
+          "userRelevance": "即使你不在事发地区，“您的能源账单上有喘息空间”也可能通过能源价格、国际航运、贸易成本和市场预期间接影响国内生活与工作判断。",
+          "whatToWatch": "接下来要看“您的能源账单上有喘息空间”是否出现更细的城市、行业、平台或企业数据，以及这一变化能否连续保持。"
+        },
+        "sourceLinks": [
+          {
+            "title": "GOV.UK News and Communications",
+            "url": "https://www.gov.uk/government/news/breathing-space-on-your-energy-bill",
+            "sourceId": "gov-uk-news",
+            "publishedAt": "2026-08-26T08:44:23.000Z",
+            "language": "zh",
+            "originalLanguage": "en",
+            "translationStatus": "translated",
+            "fetchedAt": "2026-08-26T13:38:31.592Z",
+            "sourceMethod": "rss",
+            "verificationStatus": "confirmed"
+          }
+        ],
+        "images": [
+          {
+            "url": "https://assets.publishing.service.gov.uk/media/6a8d7feef5b35599aec18d11/s300_GFX256-VAT-PRICE-CAP.jpg",
+            "sourceUrl": "https://www.gov.uk/government/news/breathing-space-on-your-energy-bill"
+          }
+        ],
+        "generatedAt": "2026-08-26T13:38:26.107Z"
+      },
+      {
+        "id": "draft-cluster-real-gov-uk-news-e8iapl",
+        "title": "英国在联合国安理会的声明：只有通过人道主义休战、永久停火和包容性的平民主导的政治进程，才能结束苏丹的苦难",
+        "oneLine": "风险提醒：《英国在联合国安理会的声明：只有通过人道主义休战、永久停火和包容性的平民主导的政治进程，才能结束苏丹的苦难》我们使用一些必要的 cookie 来使该网站正常运行。",
+        "importance": "B",
+        "credibility": "官方来源",
+        "tags": [
+          "B",
+          "mustKnow",
+          "risk",
+          "world",
+          "policy",
+          "local"
+        ],
+        "industries": [
+          "generalPublic",
+          "localLife"
+        ],
+        "section": "risk",
+        "body": {
+          "background": "出生、死亡、婚姻和护理 商业和自营职业 儿童保育和养育 英国公民身份和生活 犯罪、司法和法律 残疾人 驾驶和交通 教育和学习 就业人员 环境和乡村 住房和当地服务 金钱和税收 护照、旅行和国外生活 签证和移民 工作、工作和养老金 部门 部门、机构和公共机构 新闻 新闻故事、演讲、信件和通知 指导和监管 详细指导、法规和规则 研究和统计 报告、分析和官方统计政策文件和磋商 磋商和战略 透明度 数据、信息自由发布和公司报告 国际外交事务 英国常驻联合国代表莎拉·麦金托什大使在联合国安理会苏丹问题会议上的声明。战事已在苏丹各地蔓延，来自该地区内外的武器供应助长了战事，其资金至少部分来自绑架勒索和滥用苏丹的自然资源（包括黄金），而无人机的大量使用则加剧了战事，有 3300 万人需要人道主义援助；",
+          "keyProgress": "并努力建立包容性的苏丹人之间对话，作为和平政治过渡的基础……我们希望设置额外的 cookie 来了解您如何使用 GOV.UK、记住您的设置并改善政府服务。我们还使用其他网站设置的 cookie 来帮助我们从他们的服务中提供内容。您可以随时更改您的 cookie 设置。",
+          "whyItMatters": "“英国在联合国安理会的声明”的直接价值是帮助你判断是否需要调整出行、居住或工作安排。影响地区、持续时间、预警等级和官方避险建议比事件热度更重要。",
+          "userRelevance": "对于“英国在联合国安理会的声明”，如果你居住、出行或有家人在英国、乌克兰，应及时查看当地预警和交通变化；不在相关地区时，通常无需改变日常安排。",
+          "whatToWatch": "接下来要看“英国在联合国安理会的声明”的影响范围是否扩大、预警等级是否变化，以及是否出现与你所在城市相关的提醒。"
+        },
+        "sourceLinks": [
+          {
+            "title": "GOV.UK News and Communications",
+            "url": "https://www.gov.uk/government/speeches/an-end-to-the-suffering-in-sudan-will-only-come-through-an-humanitarian-truce-a-permanent-ceasefire-and-an-inclusive-civilian-led-political-process-uk",
+            "sourceId": "gov-uk-news",
+            "publishedAt": "2026-08-25T13:24:00.000Z",
+            "language": "zh",
+            "originalLanguage": "en",
+            "translationStatus": "translated",
+            "fetchedAt": "2026-08-25T23:35:52.746Z",
+            "sourceMethod": "rss",
+            "verificationStatus": "confirmed"
+          },
+          {
+            "title": "GOV.UK News and Communications",
+            "url": "https://www.gov.uk/government/speeches/hunger-is-not-inevitable-but-often-results-from-choices-that-deny-civilians-food-aid-and-essential-services-uk-statement-at-the-un-security-council",
+            "sourceId": "gov-uk-news",
+            "publishedAt": "2026-08-25T16:18:13.000Z",
+            "language": "zh",
+            "originalLanguage": "en",
+            "translationStatus": "translated",
+            "fetchedAt": "2026-08-25T23:35:52.746Z",
+            "sourceMethod": "rss",
+            "verificationStatus": "confirmed"
+          },
+          {
+            "title": "GOV.UK News and Communications",
+            "url": "https://www.gov.uk/government/speeches/the-ukrainian-people-should-be-in-no-doubt-the-united-kingdom-is-behind-you-today-and-for-as-long-as-it-takes-uk-statement-at-the-un-security-council",
+            "sourceId": "gov-uk-news",
+            "publishedAt": "2026-08-25T14:24:48.000Z",
+            "language": "zh",
+            "originalLanguage": "en",
+            "translationStatus": "translated",
+            "fetchedAt": "2026-08-25T23:35:52.746Z",
+            "sourceMethod": "rss",
+            "verificationStatus": "confirmed"
+          }
+        ],
+        "images": [
+          {
+            "url": "https://assets.publishing.service.gov.uk/media/6a8d979c9a177a1decf97955/sudan_24_august.png",
+            "sourceUrl": "https://www.gov.uk/government/speeches/an-end-to-the-suffering-in-sudan-will-only-come-through-an-humanitarian-truce-a-permanent-ceasefire-and-an-inclusive-civilian-led-political-process-uk"
           }
         ],
         "generatedAt": "2026-08-25T23:35:48.393Z"
@@ -628,661 +1240,36 @@
         ],
         "images": [],
         "generatedAt": "2026-08-26T04:50:44.404Z"
-      },
-      {
-        "id": "draft-real-techcrunch-ai-rss-1iijpn5",
-        "title": "随着高调离职潮的持续， OpenAI失去了一名顶级数据中心高管",
-        "oneLine": "趋势信号：OpenAI 又失去了另一位高管，考虑到这位高管负责监督公司数据中心战略的执行，这位高管的离职时机尤其引人注目。",
-        "importance": "B",
-        "credibility": "待确认",
-        "tags": [
-          "B",
-          "industry",
-          "ai",
-          "technology",
-          "product"
-        ],
-        "industries": [
-          "aiProduct",
-          "aiTechnology",
-          "productManagement",
-          "technologyEngineering",
-          "educationResearch"
-        ],
-        "section": "ai",
-        "body": {
-          "background": "马龙曾在 Meta 工作了近五年，此前在谷歌工作了十多年，去年 3 月加入 OpenAI，任期相对较短。随着人工智能基础设施建设热潮在整个行业全面展开，数据中心战略已成为人工智能实验室中最受关注的角色之一，这使得该席位的人员流动尤其令人惊讶。据说其他几位高管目前正在监督 OpenAI 的数据中心战略，其中包括领导该公司数据中心团队的 Uday Ruddarraju；",
-          "keyProgress": "据《华尔街日报》报道，OpenAI 前数据中心主管 Chris Malone 上周离开了公司。马龙在 Stargate 项目启动后不久加入了该公司，这是一项由特朗普政府支持的价值 5 亿美元的数据中心计划，旨在寻求在美国开发数据中心。OpenAI 与甲骨文、英伟达、软银和微软一起被认为是这一努力的关键合作伙伴。在向 TechCrunch 发表的关于马龙离职的声明中，OpenAI 表示，它“最近重组”了其“基础设施组织，以支持我们工作的规模和节奏”。",
-          "whyItMatters": "“随着高调离职潮的持续， OpenAI失去了一名顶级数据中心高管”能帮助你判断这项能力是否已经进入工程、产品或商业场景，并据此调整技术选型、产品规划、学习重点或职业判断。",
-          "userRelevance": "如果你从事AI 产品、AI 技术、产品管理、技术研发，可以重点判断“随着高调离职潮的持续， OpenAI失去了一名顶级数据中心高管”是否已经具备产品落地、技术选型或业务合作价值。",
-          "whatToWatch": "接下来要看“随着高调离职潮的持续， OpenAI失去了一名顶级数据中心高管”是否有更多可靠来源、量产或应用进展，以及它会不会从单点消息发展成持续趋势。"
-        },
-        "sourceLinks": [
-          {
-            "title": "TechCrunch AI RSS",
-            "url": "https://techcrunch.com/2026/08/25/openai-loses-a-top-data-center-exec-as-stream-of-high-profile-departures-continues/",
-            "sourceId": "techcrunch-ai-rss",
-            "publishedAt": "2026-08-26T00:06:20.000Z",
-            "language": "zh",
-            "originalLanguage": "en",
-            "translationStatus": "translated",
-            "fetchedAt": "2026-08-26T04:50:53.846Z",
-            "sourceMethod": "rss",
-            "verificationStatus": "pending"
-          }
-        ],
-        "images": [],
-        "generatedAt": "2026-08-26T04:50:44.404Z"
-      },
-      {
-        "id": "draft-real-cnbc-world-rss-1wte1st",
-        "title": "特朗普的沙特核协议到达国会，专家警告扩散危险",
-        "oneLine": "最新进展：特朗普的沙特核协议到达国会，专家警告扩散危险。",
-        "importance": "B",
-        "credibility": "待确认",
-        "tags": [
-          "B",
-          "industry",
-          "world",
-          "policy",
-          "finance"
-        ],
-        "industries": [
-          "generalPublic",
-          "financeInvestment",
-          "operationsGrowth",
-          "ecommerceRetail"
-        ],
-        "section": "industry",
-        "body": {
-          "background": "总统上个月在社交媒体上说，并补充说，该协议“完全取决于沙特阿拉伯加入非常受人尊敬和成功的亚伯拉罕协议。“一些民主党立法者和不扩散倡导者批评该协议没有包括永久禁止浓缩或后处理，并削弱了对将技术转化为军事用途的标准控制。在这篇文章中，唐纳德·特朗普总统周一向国会提交了一份与沙特阿拉伯关于民用核能的拟议协议，开始对一项向美国开放核技术的协议进行强制性审查。",
-          "keyProgress": "一位美国官员现在证实了向MS提交的文件，称由能源部牵头的协议符合《原子能法》。这位官员说，总统的立场保持不变：只有沙特阿拉伯加入亚伯拉罕协议，协议才会向前推进。该协议于7月达成，将允许美国公司向沙特阿拉伯出口民用核技术。国会现在有90天的连续会议来审查该协议，如果没有异议，该协议将生效。",
-          "whyItMatters": "“特朗普的沙特核协议到达国会，专家警告扩散危险”如果继续发展，可能通过能源价格、航运、贸易、汇率或市场预期传导到国内。了解它的意义在于判断后续风险，而不只停留在事件本身。",
-          "userRelevance": "即使你不在沙特，“特朗普的沙特核协议到达国会，专家警告扩散危险”也可能通过能源价格、国际航运、贸易成本和市场预期间接影响国内生活与工作判断。",
-          "whatToWatch": "接下来要看“特朗普的沙特核协议到达国会，专家警告扩散危险”是否出现更细的城市、行业、平台或企业数据，以及这一变化能否连续保持。"
-        },
-        "sourceLinks": [
-          {
-            "title": "CNBC World News RSS",
-            "url": "https://www.cnbc.com/2026/08/26/trump-saudi-nuclear-agreement-congress-iran-deal-.html",
-            "sourceId": "cnbc-world-rss",
-            "publishedAt": "2026-08-26T02:34:28.000Z",
-            "language": "zh",
-            "originalLanguage": "en",
-            "translationStatus": "translated",
-            "fetchedAt": "2026-08-26T04:50:52.533Z",
-            "sourceMethod": "rss",
-            "verificationStatus": "pending"
-          }
-        ],
-        "images": [
-          {
-            "url": "https://image.cnbcfm.com/api/v1/image/108354222-17876959381787695936-47984449655-1080pnbcnews.jpg?v=1787695937&amp;w=750&amp;h=422&amp;vtcrop=y",
-            "sourceUrl": "https://www.cnbc.com/2026/08/26/trump-saudi-nuclear-agreement-congress-iran-deal-.html"
-          }
-        ],
-        "generatedAt": "2026-08-26T04:50:44.404Z"
-      },
-      {
-        "id": "draft-real-cnbc-world-rss-154vl52",
-        "title": "从军事联盟到经济伙伴关系：特朗普如何重新定义美韩关系",
-        "oneLine": "最新进展：从军事联盟到经济伙伴关系：特朗普如何重新定义美韩关系。",
-        "importance": "B",
-        "credibility": "待确认",
-        "tags": [
-          "B",
-          "industry",
-          "world",
-          "policy",
-          "finance"
-        ],
-        "industries": [
-          "generalPublic",
-          "financeInvestment",
-          "operationsGrowth",
-          "ecommerceRetail"
-        ],
-        "section": "industry",
-        "body": {
-          "background": "该职位是在韩国贸易部长Kim Jung-kwan抵达华盛顿特区与商务部长Howard Lutnick讨论投资承诺和关税时发布的。“交换条件可能会发生变化，但亚洲的军事足迹较小，承诺范围较窄，也将使美国经济自由……专家表示，特朗普对美国海外军费开支的沮丧以及韩国投资的实施停滞不前，标志着盟国关系从基于安全的关系转向经济关系。",
-          "keyProgress": "现在人们仍然怀疑投资是否能确保美国 卡内基国际和平基金会研究员Darcie Draudt-Véjares表示，正如首尔和华盛顿的许多人所希望的那样，对韩国安全的承诺。她指的是韩国承诺去年在美国投资3500亿美元，以换取较低的“互惠”关税。“从另一个角度来看，我们可以看到以军事联盟为中心的关系转变为以综合工业生态系统为中心的关系，” Draudt-Véjares说。这使得“经济而不是安全成为美韩伙伴关系的基础。",
-          "whyItMatters": "“从军事联盟到经济伙伴关系：特朗普如何重新定义美韩关系”如果继续发展，可能通过能源价格、航运、贸易、汇率或市场预期传导到国内。了解它的意义在于判断后续风险，而不只停留在事件本身。",
-          "userRelevance": "即使你不在事发地区，“从军事联盟到经济伙伴关系：特朗普如何重新定义美韩关系”也可能通过能源价格、国际航运、贸易成本和市场预期间接影响国内生活与工作判断。",
-          "whatToWatch": "接下来要看“从军事联盟到经济伙伴关系：特朗普如何重新定义美韩关系”是否出现更细的城市、行业、平台或企业数据，以及这一变化能否连续保持。"
-        },
-        "sourceLinks": [
-          {
-            "title": "CNBC World News RSS",
-            "url": "https://www.cnbc.com/2026/08/26/trump-us-south-korea-alliance-military-drills-.html",
-            "sourceId": "cnbc-world-rss",
-            "publishedAt": "2026-08-26T02:06:21.000Z",
-            "language": "zh",
-            "originalLanguage": "en",
-            "translationStatus": "translated",
-            "fetchedAt": "2026-08-26T04:50:52.533Z",
-            "sourceMethod": "rss",
-            "verificationStatus": "pending"
-          }
-        ],
-        "images": [],
-        "generatedAt": "2026-08-26T04:50:44.404Z"
-      },
-      {
-        "id": "draft-real-cnbc-world-rss-bw0zme",
-        "title": "特朗普选出的南卡罗来纳州参议员达琳·格雷厄姆赢得共和党初选",
-        "oneLine": "最新进展：特朗普选出的南卡罗来纳州参议员达琳·格雷厄姆赢得共和党初选。",
-        "importance": "B",
-        "credibility": "待确认",
-        "tags": [
-          "B",
-          "industry",
-          "world",
-          "policy",
-          "finance"
-        ],
-        "industries": [
-          "generalPublic",
-          "financeInvestment",
-          "operationsGrowth",
-          "ecommerceRetail"
-        ],
-        "section": "industry",
-        "body": {
-          "background": "特朗普是该党事实上的领导人，传统上一直扮演着造王者的角色，但最近遭受了一系列的损失。南卡罗来纳州参议员达琳·格雷厄姆(Darline Graham)在该州参议院初选中避开了众议员拉尔夫·诺曼(Ralph Norman)的挑战，在唐纳德·特朗普(Donald Trump)总统的支持下，格雷厄姆将进入11月的大选。格雷厄姆—参议员林赛·格雷厄姆（ Lindsey Graham ）的妹妹，她在7月意外去世后被任命填补其席位—在美联社宣布比赛时领先诺曼4个百分点。",
-          "keyProgress": "她将在11月的大选中面对民主党人安妮·安德鲁斯（ Annie Andrews ）。与艾米·沃尔特（ Amy Walter ）合作的《库克政治报告》（ Cook Political Report ）将竞选标记为“坚实的R”。林赛·格雷厄姆（ Lindsey Graham ）在他去世前这次竞选是对特朗普在党内力量的考验，因为他全力支持格雷厄姆。但诺曼是众议院自由核心小组的强硬派成员，他偶尔会发现自己与特朗普有交叉，部分原因是他最初在2024年共和党总统初选中支持前南卡罗来纳州州长尼基·黑利。",
-          "whyItMatters": "“特朗普选出的南卡罗来纳州参议员达琳·格雷厄姆赢得共和党初选”如果继续发展，可能通过能源价格、航运、贸易、汇率或市场预期传导到国内。了解它的意义在于判断后续风险，而不只停留在事件本身。",
-          "userRelevance": "即使你不在事发地区，“特朗普选出的南卡罗来纳州参议员达琳·格雷厄姆赢得共和党初选”也可能通过能源价格、国际航运、贸易成本和市场预期间接影响国内生活与工作判断。",
-          "whatToWatch": "接下来要看“特朗普选出的南卡罗来纳州参议员达琳·格雷厄姆赢得共和党初选”是否出现更细的城市、行业、平台或企业数据，以及这一变化能否连续保持。"
-        },
-        "sourceLinks": [
-          {
-            "title": "CNBC World News RSS",
-            "url": "https://www.cnbc.com/2026/08/25/trump-darline-graham-south-carolina-primary.html",
-            "sourceId": "cnbc-world-rss",
-            "publishedAt": "2026-08-26T01:07:28.000Z",
-            "language": "zh",
-            "originalLanguage": "en",
-            "translationStatus": "translated",
-            "fetchedAt": "2026-08-26T04:50:52.533Z",
-            "sourceMethod": "rss",
-            "verificationStatus": "pending"
-          }
-        ],
-        "images": [],
-        "generatedAt": "2026-08-26T04:50:44.404Z"
-      },
-      {
-        "id": "draft-cluster-real-gov-uk-news-e8iapl",
-        "title": "英国在联合国安理会的声明：只有通过人道主义休战、永久停火和包容性的平民主导的政治进程，才能结束苏丹的苦难",
-        "oneLine": "风险提醒：《英国在联合国安理会的声明：只有通过人道主义休战、永久停火和包容性的平民主导的政治进程，才能结束苏丹的苦难》我们使用一些必要的 cookie 来使该网站正常运行。",
-        "importance": "B",
-        "credibility": "官方来源",
-        "tags": [
-          "B",
-          "mustKnow",
-          "risk",
-          "world",
-          "policy",
-          "local"
-        ],
-        "industries": [
-          "generalPublic",
-          "localLife"
-        ],
-        "section": "risk",
-        "body": {
-          "background": "出生、死亡、婚姻和护理 商业和自营职业 儿童保育和养育 英国公民身份和生活 犯罪、司法和法律 残疾人 驾驶和交通 教育和学习 就业人员 环境和乡村 住房和当地服务 金钱和税收 护照、旅行和国外生活 签证和移民 工作、工作和养老金 部门 部门、机构和公共机构 新闻 新闻故事、演讲、信件和通知 指导和监管 详细指导、法规和规则 研究和统计 报告、分析和官方统计政策文件和磋商 磋商和战略 透明度 数据、信息自由发布和公司报告 国际外交事务 英国常驻联合国代表莎拉·麦金托什大使在联合国安理会苏丹问题会议上的声明。战事已在苏丹各地蔓延，来自该地区内外的武器供应助长了战事，其资金至少部分来自绑架勒索和滥用苏丹的自然资源（包括黄金），而无人机的大量使用则加剧了战事，有 3300 万人需要人道主义援助；",
-          "keyProgress": "并努力建立包容性的苏丹人之间对话，作为和平政治过渡的基础……我们希望设置额外的 cookie 来了解您如何使用 GOV.UK、记住您的设置并改善政府服务。我们还使用其他网站设置的 cookie 来帮助我们从他们的服务中提供内容。您可以随时更改您的 cookie 设置。",
-          "whyItMatters": "“英国在联合国安理会的声明”的直接价值是帮助你判断是否需要调整出行、居住或工作安排。影响地区、持续时间、预警等级和官方避险建议比事件热度更重要。",
-          "userRelevance": "对于“英国在联合国安理会的声明”，如果你居住、出行或有家人在英国、乌克兰，应及时查看当地预警和交通变化；不在相关地区时，通常无需改变日常安排。",
-          "whatToWatch": "接下来要看“英国在联合国安理会的声明”的影响范围是否扩大、预警等级是否变化，以及是否出现与你所在城市相关的提醒。"
-        },
-        "sourceLinks": [
-          {
-            "title": "GOV.UK News and Communications",
-            "url": "https://www.gov.uk/government/speeches/an-end-to-the-suffering-in-sudan-will-only-come-through-an-humanitarian-truce-a-permanent-ceasefire-and-an-inclusive-civilian-led-political-process-uk",
-            "sourceId": "gov-uk-news",
-            "publishedAt": "2026-08-25T13:24:00.000Z",
-            "language": "zh",
-            "originalLanguage": "en",
-            "translationStatus": "translated",
-            "fetchedAt": "2026-08-25T23:35:52.746Z",
-            "sourceMethod": "rss",
-            "verificationStatus": "confirmed"
-          },
-          {
-            "title": "GOV.UK News and Communications",
-            "url": "https://www.gov.uk/government/speeches/hunger-is-not-inevitable-but-often-results-from-choices-that-deny-civilians-food-aid-and-essential-services-uk-statement-at-the-un-security-council",
-            "sourceId": "gov-uk-news",
-            "publishedAt": "2026-08-25T16:18:13.000Z",
-            "language": "zh",
-            "originalLanguage": "en",
-            "translationStatus": "translated",
-            "fetchedAt": "2026-08-25T23:35:52.746Z",
-            "sourceMethod": "rss",
-            "verificationStatus": "confirmed"
-          },
-          {
-            "title": "GOV.UK News and Communications",
-            "url": "https://www.gov.uk/government/speeches/the-ukrainian-people-should-be-in-no-doubt-the-united-kingdom-is-behind-you-today-and-for-as-long-as-it-takes-uk-statement-at-the-un-security-council",
-            "sourceId": "gov-uk-news",
-            "publishedAt": "2026-08-25T14:24:48.000Z",
-            "language": "zh",
-            "originalLanguage": "en",
-            "translationStatus": "translated",
-            "fetchedAt": "2026-08-25T23:35:52.746Z",
-            "sourceMethod": "rss",
-            "verificationStatus": "confirmed"
-          }
-        ],
-        "images": [
-          {
-            "url": "https://assets.publishing.service.gov.uk/media/6a8d979c9a177a1decf97955/sudan_24_august.png",
-            "sourceUrl": "https://www.gov.uk/government/speeches/an-end-to-the-suffering-in-sudan-will-only-come-through-an-humanitarian-truce-a-permanent-ceasefire-and-an-inclusive-civilian-led-political-process-uk"
-          }
-        ],
-        "generatedAt": "2026-08-25T23:35:48.393Z"
-      },
-      {
-        "id": "draft-real-techcrunch-ai-rss-10qh9su",
-        "title": "图像生成器 Stable Diffusion 的制造商 Stability AI 筹集了 7600 万美元的新资金",
-        "oneLine": "趋势信号：Stability AI 是人工智能图像生成模型 Stable Diffusion 背后的初创公司，已在 B 轮融资中筹集了 7600 万美元。",
-        "importance": "B",
-        "credibility": "待确认",
-        "tags": [
-          "B",
-          "industry",
-          "ai",
-          "technology",
-          "product"
-        ],
-        "industries": [
-          "aiProduct",
-          "aiTechnology",
-          "productManagement",
-          "technologyEngineering",
-          "educationResearch"
-        ],
-        "section": "ai",
-        "body": {
-          "background": "该公司周二宣布了这一轮融资，称新资金部分来自多家知名娱乐行业组织，包括环球音乐集团、索尼音乐集团、华纳音乐集团和游戏巨头艺电公司 (EA)。新一轮融资使该公司的融资总额达到 2.32 亿美元。AMD Ventures 和 Pacific Alliance Ventures 两家投资公司也参与其中。",
-          "keyProgress": "与 Stability 目前依赖的一系列公司进行内容许可和发行交易相比，这是一个不寻常的名单，也是一次不太典型的风险投资。Stability AI 首席执行官 Prem Akkaraju 于 2024 年加入该公司，他称这笔资金“是对我们愿景的肯定，即生成式人工智能为每个制作人、音乐家和故事讲述者赋能”。目前，Stability 提供了多种专为 AI 音乐、视频和图像生成而设计的 AI 模型。去年 10 月，它与环球音乐和 EA 建立了合作伙伴关系，去年 11 月又与华纳音乐建立了合作伙伴关系，双方都为这些公司提供了共同开发 Stability 人工智能工具的机会，而不仅仅是授权产品。",
-          "whyItMatters": "“图像生成器 Stable Diffusion 的制造商 Stability AI 筹集了 760”能帮助你判断这项能力是否已经进入工程、产品或商业场景，并据此调整技术选型、产品规划、学习重点或职业判断。",
-          "userRelevance": "如果你从事AI 产品、AI 技术、产品管理、技术研发，可以重点判断“图像生成器 Stable Diffusion 的制造商 Stability AI 筹集了 760”是否已经具备产品落地、技术选型或业务合作价值。",
-          "whatToWatch": "接下来要看“图像生成器 Stable Diffusion 的制造商 Stability AI 筹集了 760”是否有更多可靠来源、量产或应用进展，以及它会不会从单点消息发展成持续趋势。"
-        },
-        "sourceLinks": [
-          {
-            "title": "TechCrunch AI RSS",
-            "url": "https://techcrunch.com/2026/08/25/stability-ai-maker-of-image-generator-stable-diffusion-raises-76-million-in-fresh-funding/",
-            "sourceId": "techcrunch-ai-rss",
-            "publishedAt": "2026-08-25T19:03:47.000Z",
-            "language": "zh",
-            "originalLanguage": "en",
-            "translationStatus": "translated",
-            "fetchedAt": "2026-08-25T23:35:54.673Z",
-            "sourceMethod": "rss",
-            "verificationStatus": "pending"
-          }
-        ],
-        "images": [],
-        "generatedAt": "2026-08-25T23:35:48.393Z"
-      },
-      {
-        "id": "draft-real-techcrunch-ai-rss-1vvmm33",
-        "title": "克劳德·科沃克终于记住了你在聊天中告诉应用程序的内容",
-        "oneLine": "最新进展：克劳德·科沃克终于记住了你在聊天中告诉应用程序的内容。",
-        "importance": "B",
-        "credibility": "待确认",
-        "tags": [
-          "B",
-          "industry",
-          "ai",
-          "technology",
-          "product"
-        ],
-        "industries": [
-          "aiProduct",
-          "aiTechnology",
-          "productManagement",
-          "technologyEngineering",
-          "educationResearch"
-        ],
-        "section": "ai",
-        "body": {
-          "background": "然而，该公司表示，克劳德永远不会保存某些信息，例如政府颁发的身份证号码和社会安全号码、犯罪记录、移民身份或其他违反其可接受使用政策的信息。周二，Anthropic 宣布它将合并聊天和 Claude Cowork 使用的记忆系统，这意味着 Claude 将永远记住它在一个领域学到的东西，即使你在另一个领域参与其中。Anthropic 还公开了 Claude 保留在记忆中的内容，允许用户阅读、编辑或删除任何主题的信息。",
-          "keyProgress": "以前，您可能在与 Claude 聊天时逐渐形成了项目想法，但当真正实施更改时，您必须通过告诉 Cowork 所有细节来重新开始。此次更新将改善 Claude 用户的体验，让他们能够在研究阶段和采取行动之间更加无缝地切换。这一更新让 Claude 现在感觉自己就像一位连续的助手，而不是同一屋檐下的两个独立产品。Anthropic 提供了一个例子，某人需要为他们的经理起草更新或会议议程，而 Cowork 已经因为过去关于当前问题的对话而理解了这些参考资料。",
-          "whyItMatters": "“克劳德·科沃克终于记住了你在聊天中告诉应用程序的内容”能帮助你判断这项能力是否已经进入工程、产品或商业场景，并据此调整技术选型、产品规划、学习重点或职业判断。",
-          "userRelevance": "如果你从事AI 产品、AI 技术、产品管理、技术研发，可以重点判断“克劳德·科沃克终于记住了你在聊天中告诉应用程序的内容”是否已经具备产品落地、技术选型或业务合作价值。",
-          "whatToWatch": "接下来要看“克劳德·科沃克终于记住了你在聊天中告诉应用程序的内容”是否有更多可靠来源、量产或应用进展，以及它会不会从单点消息发展成持续趋势。"
-        },
-        "sourceLinks": [
-          {
-            "title": "TechCrunch AI RSS",
-            "url": "https://techcrunch.com/2026/08/25/claude-cowork-finally-remembers-what-you-told-the-app-in-chat/",
-            "sourceId": "techcrunch-ai-rss",
-            "publishedAt": "2026-08-25T17:50:33.000Z",
-            "language": "zh",
-            "originalLanguage": "en",
-            "translationStatus": "translated",
-            "fetchedAt": "2026-08-25T23:35:54.673Z",
-            "sourceMethod": "rss",
-            "verificationStatus": "pending"
-          }
-        ],
-        "images": [
-          {
-            "url": "https://techcrunch.com/wp-content/uploads/2026/08/Claude-improved-memory-list.png",
-            "sourceUrl": "https://techcrunch.com/2026/08/25/claude-cowork-finally-remembers-what-you-told-the-app-in-chat/"
-          },
-          {
-            "url": "https://techcrunch.com/wp-content/uploads/2026/08/Claude-improved-memory-hero-customize-off-1.png",
-            "sourceUrl": "https://techcrunch.com/2026/08/25/claude-cowork-finally-remembers-what-you-told-the-app-in-chat/"
-          }
-        ],
-        "generatedAt": "2026-08-25T23:35:48.393Z"
-      },
-      {
-        "id": "draft-cluster-real-techcrunch-ai-rss-1aqbcqh",
-        "title": "Gamma 收购 Accel 支持的设计初创公司 Lica",
-        "oneLine": "趋势信号：TechCrunch 独家获悉，演示初创公司 Gamma 已收购 Accel 支持的设计初创公司 Lica，以建立自己的设计研究实验室。",
-        "importance": "B",
-        "credibility": "待确认",
-        "tags": [
-          "B",
-          "industry",
-          "ai",
-          "technology",
-          "product"
-        ],
-        "industries": [
-          "aiProduct",
-          "aiTechnology",
-          "productManagement",
-          "technologyEngineering",
-          "educationResearch"
-        ],
-        "section": "ai",
-        "body": {
-          "background": "Lica 的 Mehta 表示，新的研究部门将致力于为不同受众和品味定制人工智能模型的呈现和沟通风格。Lica 的联合创始人将领导这项工作。Lica 最初是一款可以将屏幕截图和录音转换为项目演示和视频的应用程序。",
-          "keyProgress": "Kalyanaraman 表示，Lica 希望围绕视频和设计等通信方法构建人工智能模型，而且创始人与 Gamma 的首席执行官 Grant Lee 很熟悉，因为两家公司都得到了 Accel 和 South Park Commons 的支持。这些[问题]都要求我们深入思考沟通的核心责任。我们正在考虑建立一个平台，在这个平台上，这两个目标可以个性化到这样的程度，即您可以获得非常好的输出，然后您可以编辑该公司由 Priyaa Kalyanaraman 和 Purvanshi Mehta 于 2023 年创立，一年后从 Accel、South Park Commons 和 Village Global 等投资者那里筹集了 400 万美元。",
-          "whyItMatters": "“Gamma 收购 Accel 支持的设计初创公司 Lica”能帮助你判断这项能力是否已经进入工程、产品或商业场景，并据此调整技术选型、产品规划、学习重点或职业判断。",
-          "userRelevance": "如果你从事AI 产品、AI 技术、产品管理、技术研发，可以重点判断“Gamma 收购 Accel 支持的设计初创公司 Lica”是否已经具备产品落地、技术选型或业务合作价值。",
-          "whatToWatch": "接下来要看“Gamma 收购 Accel 支持的设计初创公司 Lica”是否有更多可靠来源、量产或应用进展，以及它会不会从单点消息发展成持续趋势。"
-        },
-        "sourceLinks": [
-          {
-            "title": "TechCrunch AI RSS",
-            "url": "https://techcrunch.com/2026/08/25/gamma-acquires-accel-backed-design-startup-lica/",
-            "sourceId": "techcrunch-ai-rss",
-            "publishedAt": "2026-08-25T15:00:00.000Z",
-            "language": "zh",
-            "originalLanguage": "en",
-            "translationStatus": "translated",
-            "fetchedAt": "2026-08-25T23:35:54.673Z",
-            "sourceMethod": "rss",
-            "verificationStatus": "pending"
-          },
-          {
-            "title": "TechCrunch AI RSS",
-            "url": "https://techcrunch.com/2026/08/25/accel-backed-keenable-is-indexing-the-web-for-ai-agents/",
-            "sourceId": "techcrunch-ai-rss",
-            "publishedAt": "2026-08-25T13:00:00.000Z",
-            "language": "zh",
-            "originalLanguage": "en",
-            "translationStatus": "translated",
-            "fetchedAt": "2026-08-25T23:35:54.673Z",
-            "sourceMethod": "rss",
-            "verificationStatus": "pending"
-          }
-        ],
-        "images": [],
-        "generatedAt": "2026-08-25T23:35:48.393Z"
-      },
-      {
-        "id": "draft-cluster-real-openai-news-1ns995l",
-        "title": "Jalapeo 的首批结果显示了人工智能推理行业领先的速度和效率",
-        "oneLine": "趋势信号：在周二的 Hot Chips 会议上，OpenAI 分享了对 Jalapeo 的更详细了解，包括新系统的第一批基准测试结果。",
-        "importance": "B",
-        "credibility": "多源确认",
-        "tags": [
-          "B",
-          "industry",
-          "ai",
-          "technology",
-          "product"
-        ],
-        "industries": [
-          "aiProduct",
-          "aiTechnology",
-          "productManagement",
-          "technologyEngineering",
-          "educationResearch"
-        ],
-        "section": "ai",
-        "body": {
-          "background": "OpenAI 硬件主管 Richard Ho 在一次新闻发布会上表示：“最重要的是，结果表明其性能比现有技术有了非常非常显着的进步。Jalapeño 于去年 10 月首次发布，由 OpenAI 与 Broadcom 密切合作开发，OpenAI 自己的模型在开发过程中提供协助。” “这意味着模型状态，包括生成响应时使用的 KV 缓存，可以显式放置并保留在本地，同时系统为每个推理阶段激活计算、内存和网络的正确组合。",
-          "keyProgress": "Jalapeo 可以在每单位功率上服务更多的 AI 工作，同时也可以更快地返回响应。该公司计划将 Jalapeo 打造成一个多代平台，允许人工智能产品、模型、芯片和内存协同开发。由于采用了全栈方法，OpenAI 能够解决推理过程中经常导致推理处理过程中出现摩擦的特定阶段。特别是，Jalapeño 旨在最大限度地减少处理的预填充和通信阶段的延迟，OpenAI 表示这通常是瓶颈。",
-          "whyItMatters": "“Jalapeo 的首批结果显示了人工智能推理行业领先的速度和效率”能帮助你判断这项能力是否已经进入工程、产品或商业场景，并据此调整技术选型、产品规划、学习重点或职业判断。",
-          "userRelevance": "如果你从事AI 产品、AI 技术、产品管理、技术研发，可以重点判断“Jalapeo 的首批结果显示了人工智能推理行业领先的速度和效率”是否已经具备产品落地、技术选型或业务合作价值。",
-          "whatToWatch": "接下来要看“Jalapeo 的首批结果显示了人工智能推理行业领先的速度和效率”是否有更多可靠来源、量产或应用进展，以及它会不会从单点消息发展成持续趋势。"
-        },
-        "sourceLinks": [
-          {
-            "title": "OpenAI News",
-            "url": "https://openai.com/index/jalapeno-first-results",
-            "sourceId": "openai-news",
-            "publishedAt": "2026-08-25T07:00:00.000Z",
-            "language": "zh",
-            "originalLanguage": "en",
-            "translationStatus": "translated",
-            "fetchedAt": "2026-08-25T23:35:54.616Z",
-            "sourceMethod": "rss",
-            "verificationStatus": "confirmed"
-          },
-          {
-            "title": "TechCrunch AI RSS",
-            "url": "https://techcrunch.com/2026/08/25/openais-jalapeno-chip-is-built-for-fast-inference-at-scale-benchmarks-show/",
-            "sourceId": "techcrunch-ai-rss",
-            "publishedAt": "2026-08-25T14:22:04.000Z",
-            "language": "zh",
-            "originalLanguage": "en",
-            "translationStatus": "translated",
-            "fetchedAt": "2026-08-25T23:35:54.673Z",
-            "sourceMethod": "rss",
-            "verificationStatus": "pending"
-          },
-          {
-            "title": "The Verge AI RSS",
-            "url": "https://www.theverge.com/ai-artificial-intelligence/984290/openai-jalapeno-ai-chip-benchmarks",
-            "sourceId": "theverge-ai-rss",
-            "publishedAt": "2026-08-25T14:00:00.000Z",
-            "language": "zh",
-            "originalLanguage": "en",
-            "translationStatus": "translated",
-            "fetchedAt": "2026-08-25T23:35:54.720Z",
-            "sourceMethod": "rss",
-            "verificationStatus": "pending"
-          }
-        ],
-        "images": [],
-        "generatedAt": "2026-08-25T23:35:48.393Z"
-      },
-      {
-        "id": "draft-real-xinhua-tech-1ye5zbf",
-        "title": "AI解码人类基因关键DNA“起始子”序列特征",
-        "oneLine": "趋势信号：美国加州大学圣迭戈分校研究人员利用高通量DNA测序和人工智能技术，解码了人类基因中一段名为“起始子”的关键DNA序列特征。",
-        "importance": "B",
-        "credibility": "主流媒体",
-        "tags": [
-          "B",
-          "industry",
-          "technology",
-          "ai",
-          "product"
-        ],
-        "industries": [
-          "technologyEngineering",
-          "educationResearch",
-          "aiProduct",
-          "aiTechnology",
-          "productManagement",
-          "operationsGrowth"
-        ],
-        "section": "ai",
-        "body": {
-          "background": "如果这些基因没有被正确激活，细胞可能无法正常发挥功能，并可能引发包括癌症在内的多种疾病。随后，他们将这些实验数据用于训练机器学习模型，使AI能够识别“起始子”特有的DNA序列模式。相关数据和模型还可用于预测“起始子”相关DNA突变的影响，以及设计具有特定功能的合成启动子，即能够调控基因开启和关闭的DNA序列。",
-          "keyProgress": "人体不同类型的细胞虽然拥有基本相同的DNA，但由于被激活的基因不同，最终能够形成不同的细胞类型，并执行各自特定的功能。为了进一步弄清DNA中哪些序列负责启动基因表达，研究人员将目光投向了“起始子”。利用训练出的模型，研究人员进一步在人体基因中搜索“起始子”的特征序列，发现约60%的人类基因含有“起始子”。他们表示，这些AI模型首次能够预测人类基因中是否存在“起始子”，并解码其DNA碱基序列模式。",
-          "whyItMatters": "“AI解码人类基因关键DNA起始子序列特征”能帮助你判断这项能力是否已经进入工程、产品或商业场景，并据此调整技术选型、产品规划、学习重点或职业判断。",
-          "userRelevance": "如果你从事技术研发、教育研究、AI 产品、AI 技术，可以重点判断“AI解码人类基因关键DNA起始子序列特征”是否已经具备产品落地、技术选型或业务合作价值。",
-          "whatToWatch": "接下来要看“AI解码人类基因关键DNA起始子序列特征”是否有更多可靠来源、量产或应用进展，以及它会不会从单点消息发展成持续趋势。"
-        },
-        "sourceLinks": [
-          {
-            "title": "新华网科技",
-            "url": "https://www.news.cn/tech/20260825/ae394483517640f59eb35598547b2bd2/c.html",
-            "sourceId": "xinhua-tech",
-            "publishedAt": "2026-08-25T00:00:00+08:00",
-            "language": "zh",
-            "originalLanguage": "zh",
-            "translationStatus": "not-needed",
-            "fetchedAt": "2026-08-25T23:35:52.108Z",
-            "sourceMethod": "web",
-            "verificationStatus": "confirmed"
-          }
-        ],
-        "images": [
-          {
-            "url": "https://www.news.cn/tech/20260825/ae394483517640f59eb35598547b2bd2/20260825ae394483517640f59eb35598547b2bd2_20260825137bdc94016142dca3c0ad34c8f8ec7c.jpg",
-            "sourceUrl": "https://www.news.cn/tech/20260825/ae394483517640f59eb35598547b2bd2/c.html"
-          }
-        ],
-        "generatedAt": "2026-08-25T23:35:48.393Z"
-      },
-      {
-        "id": "draft-real-xinhua-tech-ecslpn",
-        "title": "2026世界机器人大会｜破解世界模型落地的技术与数据难题",
-        "oneLine": "趋势信号：世界模型作为人工智能领域的前沿方向，是具备对物理世界因果理解与未来推演能力的智能系统，是机器人“看懂世界”和“改变世界”的关键技术底座。",
-        "importance": "B",
-        "credibility": "主流媒体",
-        "tags": [
-          "B",
-          "industry",
-          "technology",
-          "ai",
-          "product"
-        ],
-        "industries": [
-          "technologyEngineering",
-          "educationResearch",
-          "aiProduct",
-          "aiTechnology",
-          "productManagement",
-          "operationsGrowth"
-        ],
-        "section": "ai",
-        "body": {
-          "background": "8月21日，在2026世界机器人大会主论坛，中国电子学会世界模型专家委员会正式成立，王坚院士受聘担任主任委员，并主持“世界模型到服务人类的现实距离”主题圆桌，八位来自产业一线的专委会委员共同剖析技术路线、产业痛点与落地路径。”跨维智能创始人贾奎认为，理想的世界模型不仅能生成机器人末端的有效执行轨迹，还可以预测机器人、其他物理智能体作用于环境之后，环境会发生怎样真实的动态改变。当大语言模型完成数字世界的认知跃迁，行业开始期待世界模型打通虚拟与现实的边界，让具身智能真正落地到生产生活中。",
-          "keyProgress": "本次圆桌汇聚大晓机器人王晓刚、奥比中光黄源浩、无界动力张玉峰、跨维智能贾奎、智澄AI胡鲁辉、飞渡科技宋彬、蚂蚁灵波科技沈宇军、极佳视界朱政，覆盖传感器硬件、机器人本体、空间数字孪生、AI基础模型等产业链关键环节。对话从技术路径切入，厘清世界模型与VLA、大语言模型的本质差异。机器人是AI实现闭环落地的最好场景 在物理世界中，谈及人形机器人，就绕不开通用人工智能向物理世界赋能这一命题，“机器人，是人工智能实现闭环、完成落地的最佳场景之一。”智澄AI创始人胡鲁辉表示，通用人工智能实现闭环落地，其核心正是世界模型与机器人的深度结合。",
-          "whyItMatters": "“2026世界机器人大会｜破解世界模型落地的技术与数据难题”能帮助你判断这项能力是否已经进入工程、产品或商业场景，并据此调整技术选型、产品规划、学习重点或职业判断。",
-          "userRelevance": "如果你从事技术研发、教育研究、AI 产品、AI 技术，可以重点判断“2026世界机器人大会｜破解世界模型落地的技术与数据难题”是否已经具备产品落地、技术选型或业务合作价值。",
-          "whatToWatch": "接下来要看“2026世界机器人大会｜破解世界模型落地的技术与数据难题”是否有更多可靠来源、量产或应用进展，以及它会不会从单点消息发展成持续趋势。"
-        },
-        "sourceLinks": [
-          {
-            "title": "新华网科技",
-            "url": "https://www.news.cn/tech/20260825/b11405bc5fcf4a8592aa83556609be50/c.html",
-            "sourceId": "xinhua-tech",
-            "publishedAt": "2026-08-25T00:00:00+08:00",
-            "language": "zh",
-            "originalLanguage": "zh",
-            "translationStatus": "not-needed",
-            "fetchedAt": "2026-08-25T23:35:52.108Z",
-            "sourceMethod": "web",
-            "verificationStatus": "confirmed"
-          }
-        ],
-        "images": [
-          {
-            "url": "https://www.news.cn/tech/20260825/b11405bc5fcf4a8592aa83556609be50/20260825b11405bc5fcf4a8592aa83556609be50_XxjxjsC000001_20260824_CBMFN0A001.jpeg",
-            "sourceUrl": "https://www.news.cn/tech/20260825/b11405bc5fcf4a8592aa83556609be50/c.html"
-          }
-        ],
-        "generatedAt": "2026-08-25T23:35:48.393Z"
-      },
-      {
-        "id": "draft-real-cnbc-world-rss-5w9xhg",
-        "title": "OpenAI 数据中心负责人 Chris Malone 离职，这是一系列高管退出中的最新一例",
-        "oneLine": "最新进展：OpenAI 数据中心负责人 Chris Malone 离职，这是一系列高管退出中的最新一例。",
-        "importance": "B",
-        "credibility": "待确认",
-        "tags": [
-          "B",
-          "industry",
-          "world",
-          "policy",
-          "finance"
-        ],
-        "industries": [
-          "generalPublic",
-          "financeInvestment",
-          "operationsGrowth",
-          "ecommerceRetail"
-        ],
-        "section": "industry",
-        "body": {
-          "background": "根据 LinkedIn 的信息，Malone 于 2025 年 3 月加入 OpenAI，此前他曾在 Meta 和 Google 担任“杰出工程师”从事数据中心基础设施工作。他帮助监督 OpenAI 雄心勃勃的基础设施计划，其中包括到 2030 年在计算上花费约 6000 亿美元的目标。苹果发布新的 Mac Mini 和 Mac Studio 机型，进行人工智能升级 英伟达对超大规模的依赖在收益报告中面临重大考验 OpenAI 禁止在秘密虚假信息活动中使用俄罗斯 ChatGPT 账户 黑莓首席执行官表示，机器人技术是其增长最快的业务之一 本月早些时候，OpenAI 的营收主管 Denise Dresser 突然宣布，她将在任职不到一年后离开公司。",
-          "keyProgress": "在这篇文章中，CNBC 证实，OpenAI 数据中心负责人 Chris Malone 已离开公司，这又增加了人工智能实验室最近高管离职的浪潮。“我们最近重组了我们的基础设施组织，以支持我们工作的规模和节奏，”OpenAI 发言人在一份声明中表示。就在她退出的几天前，另一位长期高管布拉德·莱特卡普(Brad Lightcap)表示，他将结束在 OpenAI 的八年任期，“开始一些新的事情”。除了 Dresser 和 Lightcap 之外，曾担任 OpenAI 产品和业务主管的 Fidji Simo 上个月宣布，她将辞去职务，专注于管理慢性病。",
-          "whyItMatters": "“OpenAI 数据中心负责人 Chris Malone 离职，这是一系列高管退出中的最新一例”如果继续发展，可能通过能源价格、航运、贸易、汇率或市场预期传导到国内。了解它的意义在于判断后续风险，而不只停留在事件本身。",
-          "userRelevance": "即使你不在事发地区，“OpenAI 数据中心负责人 Chris Malone 离职，这是一系列高管退出中的最新一例”也可能通过能源价格、国际航运、贸易成本和市场预期间接影响国内生活与工作判断。",
-          "whatToWatch": "接下来要看“OpenAI 数据中心负责人 Chris Malone 离职，这是一系列高管退出中的最新一例”是否出现更细的城市、行业、平台或企业数据，以及这一变化能否连续保持。"
-        },
-        "sourceLinks": [
-          {
-            "title": "CNBC World News RSS",
-            "url": "https://www.cnbc.com/2026/08/25/openais-head-of-data-centers-chris-malone-is-out-in-latest-exec-exit.html",
-            "sourceId": "cnbc-world-rss",
-            "publishedAt": "2026-08-25T21:26:00.000Z",
-            "language": "zh",
-            "originalLanguage": "en",
-            "translationStatus": "translated",
-            "fetchedAt": "2026-08-25T23:35:52.958Z",
-            "sourceMethod": "rss",
-            "verificationStatus": "pending"
-          }
-        ],
-        "images": [
-          {
-            "url": "https://image.cnbcfm.com/api/v1/image/108352742-17873231801787323177-47901505284-1080pnbcnews.jpg?v=1787323179&amp;w=750&amp;h=422&amp;vtcrop=y",
-            "sourceUrl": "https://www.cnbc.com/2026/08/25/openais-head-of-data-centers-chris-malone-is-out-in-latest-exec-exit.html"
-          }
-        ],
-        "generatedAt": "2026-08-25T23:35:48.393Z"
       }
     ],
     "estimatedReadMinutes": 39,
     "pageCount": 3,
-    "topCardId": "draft-real-cnbc-world-rss-x6vkom",
-    "generatedAt": "2026-08-26T04:50:44.404Z",
+    "topCardId": "draft-real-npr-world-rss-4wwb6",
+    "generatedAt": "2026-08-26T13:38:26.107Z",
     "pushSlots": [
       "08:30",
       "12:30",
       "21:30"
     ],
-    "edition": "midday",
-    "editionLabel": "午间更新",
+    "edition": "evening",
+    "editionLabel": "晚间更新",
     "coverageWindow": {
-      "start": "2026-08-26T07:10:00+08:00",
-      "end": "2026-08-26T12:10:00+08:00"
+      "start": "2026-08-26T12:10:00+08:00",
+      "end": "2026-08-26T21:10:00+08:00"
     },
-    "basedOnGeneratedAt": "2026-08-25T23:35:48.393Z",
+    "basedOnGeneratedAt": "2026-08-26T04:50:44.404Z",
     "editionCardIds": [
-      "draft-real-techcrunch-ai-rss-6e0sye",
-      "draft-real-techcrunch-ai-rss-b8s7el",
-      "draft-real-techcrunch-ai-rss-1iijpn5",
-      "draft-real-cnbc-world-rss-1wte1st",
-      "draft-real-cnbc-world-rss-154vl52",
-      "draft-real-cnbc-world-rss-bw0zme"
+      "draft-real-npr-world-rss-4wwb6",
+      "draft-real-cnbc-world-rss-f8bitu",
+      "draft-real-techcrunch-ai-rss-6d7l81",
+      "draft-real-techcrunch-ai-rss-1tyj443",
+      "draft-real-techcrunch-ai-rss-7va96j",
+      "draft-real-theverge-ai-rss-oa2s1d",
+      "draft-real-cnbc-world-rss-1cpfbir",
+      "draft-real-cnbc-world-rss-vih2gk",
+      "draft-real-cnbc-world-rss-18tv4e9",
+      "draft-real-gov-uk-news-gxciga",
+      "draft-real-cnbc-world-rss-1cj0bem"
     ],
     "carriedCardIds": [
       "draft-real-cnbc-world-rss-x6vkom",
@@ -1296,13 +1283,8 @@
       "draft-real-mofcom-trade-70kl5o",
       "draft-real-gov-uk-news-1ihplfl",
       "draft-cluster-real-gov-uk-news-e8iapl",
-      "draft-real-techcrunch-ai-rss-10qh9su",
-      "draft-real-techcrunch-ai-rss-1vvmm33",
-      "draft-cluster-real-techcrunch-ai-rss-1aqbcqh",
-      "draft-cluster-real-openai-news-1ns995l",
-      "draft-real-xinhua-tech-1ye5zbf",
-      "draft-real-xinhua-tech-ecslpn",
-      "draft-real-cnbc-world-rss-5w9xhg"
+      "draft-real-techcrunch-ai-rss-6e0sye",
+      "draft-real-techcrunch-ai-rss-b8s7el"
     ]
   }
 }

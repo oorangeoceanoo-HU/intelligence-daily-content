@@ -1,291 +1,11 @@
 {
   "schemaVersion": 2,
-  "publishedAt": "2026-08-25T23:35:48.393Z",
+  "publishedAt": "2026-08-26T04:21:54.642Z",
   "issue": {
     "id": "daily-public-2026-08-26",
     "date": "2026-08-26",
     "userId": "public",
     "cards": [
-      {
-        "id": "draft-real-xinhua-world-wdi7k4",
-        "title": "巴基斯坦与伊朗商讨重新开放霍尔木兹海峡",
-        "oneLine": "政策变化：巴基斯坦三军新闻局25日发表声明说，巴陆军参谋长穆尼尔与内政部长纳克维结束了对伊朗为期一天的访问，巴伊双方重点围绕防止局势进一步升级、重新开放霍尔木兹海峡以及加快结束冲突的措施进行了全面讨论。",
-        "importance": "S",
-        "credibility": "主流媒体",
-        "tags": [
-          "S",
-          "mustKnow",
-          "industry",
-          "world",
-          "policy"
-        ],
-        "industries": [
-          "generalPublic",
-          "financeInvestment",
-          "operationsGrowth",
-          "contentCreator"
-        ],
-        "section": "front",
-        "body": {
-          "background": "声明说，双方还就地区和平以及如何通过谈判解决争端交换了意见。伊方赞赏巴方在促进对话、缓和局势及和平解决冲突方面所发挥的建设性作用及作出的真诚努力。纳克维25日在社交媒体发文说，他和穆尼尔与伊朗总统佩泽希齐扬进行了积极且富有成效的会晤。",
-          "keyProgress": "纳克维表示，双方重点讨论了伊朗和美国的冲突、中东地区紧张局势和未来走势，以及双方为恢复落实伊斯兰堡谅解备忘录需采取的措施，从而最终实现冲突的全面解决。会谈取得显著进展，并在积极的氛围中结束。",
-          "whyItMatters": "“霍尔木兹海峡局势”如果继续发展，可能通过能源价格、航运、贸易、汇率或市场预期传导到国内。了解它的意义在于判断后续风险，而不只停留在事件本身。",
-          "userRelevance": "即使你不在伊朗、霍尔木兹海峡，“霍尔木兹海峡局势”也可能通过能源价格、国际航运、贸易成本和市场预期间接影响国内生活与工作判断。",
-          "whatToWatch": "接下来要看霍尔木兹海峡实际通航量、油价和保险成本是否继续变化，以及美伊双方是否出现新的正式行动。"
-        },
-        "sourceLinks": [
-          {
-            "title": "新华网国际",
-            "url": "https://www.news.cn/world/20260825/00038fa3e0f343739ee4bd4b21950df7/c.html",
-            "sourceId": "xinhua-world",
-            "publishedAt": "2026-08-25T00:00:00+08:00",
-            "language": "zh",
-            "originalLanguage": "zh",
-            "translationStatus": "not-needed",
-            "fetchedAt": "2026-08-25T23:35:51.878Z",
-            "sourceMethod": "web",
-            "verificationStatus": "confirmed"
-          }
-        ],
-        "images": [],
-        "generatedAt": "2026-08-25T23:35:48.393Z"
-      },
-      {
-        "id": "draft-real-npr-world-rss-ks0eaz",
-        "title": "随着美国贸易战的升级，加拿大以关税回击美国",
-        "oneLine": "政策变化：“当美国要求太多而提供太少时，我们选择为加拿大人挺身而出，”商鹏飞在谈到失败的谈判时说道。",
-        "importance": "S",
-        "credibility": "主流媒体",
-        "tags": [
-          "S",
-          "mustKnow",
-          "industry",
-          "world",
-          "policy",
-          "finance"
-        ],
-        "industries": [
-          "generalPublic",
-          "financeInvestment",
-          "operationsGrowth",
-          "ecommerceRetail"
-        ],
-        "section": "front",
-        "body": {
-          "background": "加拿大反关税的主要目的是为受美国关税影响的加拿大工业提供保护，并允许它们在加拿大市场上与美国产品竞争，”商鹏飞说。”此前，特朗普总统对部分加拿大商品征收 50% 的关税，并在周五贸易谈判破裂后威胁征收更多关税。卡尼周五暂停了与美国的贸易谈判，并在一份声明中表示，美国提议的最后一刻的改变是“不公平、不经济的，并且使任何协议的可靠性受到质疑”。",
-          "keyProgress": "随着两国陷入贸易战，加拿大周二宣布对数百种美国商品征收报复性关税。加拿大财政部长商鹏飞表示，反制措施将与美国的关税相匹配，从9月8日起对一系列美国出口产品征收15%、25%和50%的关税。他表示，反关税措施将集中在钢铁、乳制品、电器、农业设备、纸浆和纸张以及电子产品上，这些产品每年从美国进口的商品价值近200亿美元。这都是为了支持加拿大工人和加拿大企业。",
-          "whyItMatters": "“随着美国贸易战的升级，加拿大以关税回击美国”如果继续发展，可能通过能源价格、航运、贸易、汇率或市场预期传导到国内。了解它的意义在于判断后续风险，而不只停留在事件本身。",
-          "userRelevance": "即使你不在美国，“随着美国贸易战的升级，加拿大以关税回击美国”也可能通过能源价格、国际航运、贸易成本和市场预期间接影响国内生活与工作判断。",
-          "whatToWatch": "接下来要看“随着美国贸易战的升级，加拿大以关税回击美国”是否出现更细的城市、行业、平台或企业数据，以及这一变化能否连续保持。"
-        },
-        "sourceLinks": [
-          {
-            "title": "NPR World RSS",
-            "url": "https://www.npr.org/2026/08/25/nx-s1-5944240/canada-us-tariffs",
-            "sourceId": "npr-world-rss",
-            "publishedAt": "2026-08-25T15:20:18.000Z",
-            "language": "zh",
-            "originalLanguage": "en",
-            "translationStatus": "translated",
-            "fetchedAt": "2026-08-25T23:35:52.762Z",
-            "sourceMethod": "rss",
-            "verificationStatus": "confirmed"
-          }
-        ],
-        "images": [
-          {
-            "url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8192x5464+0+0/resize/1100/quality/50/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fdb%2Ff0%2Ff7db928c4a758bb35800e85b7300%2Fgettyimages-2290660201.jpg",
-            "sourceUrl": "https://www.npr.org/2026/08/25/nx-s1-5944240/canada-us-tariffs"
-          },
-          {
-            "url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5678x5678+1419+0/resize/100/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F6a%2F47%2Fdba05d284318a540221bd45f9cfb%2Fap26122373189543.jpg",
-            "sourceUrl": "https://www.npr.org/2026/08/25/nx-s1-5944240/canada-us-tariffs"
-          },
-          {
-            "url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/746x746+139+0/resize/100/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F62%2F76%2Fce6c9c994f5eab171f25f577f3bb%2Fgetty-uscanadatariffs.jpg",
-            "sourceUrl": "https://www.npr.org/2026/08/25/nx-s1-5944240/canada-us-tariffs"
-          }
-        ],
-        "generatedAt": "2026-08-25T23:35:48.393Z"
-      },
-      {
-        "id": "draft-real-npr-world-rss-zcxkly",
-        "title": "特朗普对伊朗的经济战争能做空袭和谈判做不到的事情吗？",
-        "oneLine": "最新进展：特朗普对伊朗的经济战争能做空袭和谈判做不到的事情吗。",
-        "importance": "S",
-        "credibility": "主流媒体",
-        "tags": [
-          "S",
-          "mustKnow",
-          "industry",
-          "world",
-          "policy",
-          "finance"
-        ],
-        "industries": [
-          "generalPublic",
-          "financeInvestment",
-          "operationsGrowth",
-          "ecommerceRetail"
-        ],
-        "section": "front",
-        "body": {
-          "background": "正是在这种背景下，美国财政部长斯科特·贝森特周一公布了针对伊朗的新制裁行动，旨在“切断维持这个暴政政权的每一条经济命脉，直到德黑兰孤立无援”。过去的几届政府，包括特朗普第一届政府，多年来一直试图通过各种制裁活动向伊朗施加经济压力。当美国和以色列二月份对伊朗发动战争时，特朗普总统发誓要迅速取得胜利。",
-          "keyProgress": "“多年来我们看到的一件事是，最大的压力往往会引发伊朗方面的最大阻力，”总部位于伦敦的交易所与集市基金会(Bourse & Bazaar Foundation)首席执行官埃斯凡迪亚尔·巴特曼赫利吉(Esfandyar Batmanghelidj)表示，该基金会是一家专注于伊朗经济的智库。如今，近六个月过去了，在本应结束战争的 60 天停火期限未能实现之后，美国却发现自己陷入了一场旷日持久的冲突。与伊朗的战争重创了全球经济，激怒了海湾盟友，并耗尽了美国的军火库。它还削弱了特朗普总统追求其主要战争目标的影响力，该目标已从遏制伊朗核野心转向政权更迭，现在的目标是使霍尔木兹海峡摆脱伊朗的控制。",
-          "whyItMatters": "“特朗普对伊朗的经济战争能做空袭和谈判做不到的事情吗”如果继续发展，可能通过能源价格、航运、贸易、汇率或市场预期传导到国内。了解它的意义在于判断后续风险，而不只停留在事件本身。",
-          "userRelevance": "即使你不在美国、伊朗，“特朗普对伊朗的经济战争能做空袭和谈判做不到的事情吗”也可能通过能源价格、国际航运、贸易成本和市场预期间接影响国内生活与工作判断。",
-          "whatToWatch": "接下来要看“特朗普对伊朗的经济战争能做空袭和谈判做不到的事情吗”是否出现更细的城市、行业、平台或企业数据，以及这一变化能否连续保持。"
-        },
-        "sourceLinks": [
-          {
-            "title": "NPR World RSS",
-            "url": "https://www.npr.org/2026/08/25/nx-s1-5943572/trump-iran-sanctions",
-            "sourceId": "npr-world-rss",
-            "publishedAt": "2026-08-25T09:07:09.000Z",
-            "language": "zh",
-            "originalLanguage": "en",
-            "translationStatus": "translated",
-            "fetchedAt": "2026-08-25T23:35:52.762Z",
-            "sourceMethod": "rss",
-            "verificationStatus": "confirmed"
-          }
-        ],
-        "images": [
-          {
-            "url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8516x5678+0+0/resize/1100/quality/50/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F6a%2F47%2Fdba05d284318a540221bd45f9cfb%2Fap26122373189543.jpg",
-            "sourceUrl": "https://www.npr.org/2026/08/25/nx-s1-5943572/trump-iran-sanctions"
-          },
-          {
-            "url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3000x3000+0+0/resize/100/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fd0%2F3f%2F08a5041c4ceca4e96a62754dddd5%2Ff2342d2e-3f73-4259-9556-6c36eb4fc900.jpg",
-            "sourceUrl": "https://www.npr.org/2026/08/25/nx-s1-5943572/trump-iran-sanctions"
-          },
-          {
-            "url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2534x2534+628+0/resize/100/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F68%2F1c%2F23da8dcd4c6d9d50ba932deba0e5%2Fap26236622592645.jpg",
-            "sourceUrl": "https://www.npr.org/2026/08/25/nx-s1-5943572/trump-iran-sanctions"
-          },
-          {
-            "url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4650x3100+0+0/resize/1100/quality/50/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F19%2F3e%2Fdbd1265343d69c3f053d6cdbde98%2Fap26236674162695.jpg",
-            "sourceUrl": "https://www.npr.org/2026/08/25/nx-s1-5943572/trump-iran-sanctions"
-          }
-        ],
-        "generatedAt": "2026-08-25T23:35:48.393Z"
-      },
-      {
-        "id": "draft-cluster-real-sky-world-rss-4kzlj2",
-        "title": "加拿大宣布对价值200亿美元的美国商品加征关税",
-        "oneLine": "政策变化：《加拿大宣布对价值200亿美元的美国商品加征关税》“当美利坚合众国要求太多而提供太少时，我们做出了选择。",
-        "importance": "S",
-        "credibility": "待确认",
-        "tags": [
-          "S",
-          "mustKnow",
-          "industry",
-          "world",
-          "policy",
-          "finance"
-        ],
-        "industries": [
-          "generalPublic",
-          "financeInvestment",
-          "operationsGrowth",
-          "ecommerceRetail"
-        ],
-        "section": "front",
-        "body": {
-          "background": "反制关税范围为 15% 至 50%，针对加拿大从美国进口的多种商品，包括乳制品、海鲜、电器、木材和纸制品以及服装。加拿大还公布了额外的 75 亿美元一揽子计划，以支持受到美国关税伤害的企业和工人。我们选择了加拿大，”加拿大财政部长弗朗索瓦·菲利普·商鹏飞在周二上午的新闻发布会上表示。",
-          "keyProgress": "“当美利坚合众国要求太多而提供太少时，我们做出了选择。The new duties would have been averted if the two sides struck a trade deal before they took effect on Saturday.特朗普本周早些时候声称协议已基本完成，但加拿大周五晚上暂停了谈判，声称美国提出了不合理的要求和“最后一刻的改变”。加拿大周二宣布对美国征收报复性关税，与唐纳德·特朗普总统在贸易谈判破裂后周末征收的 50% 关税相匹配。渥太华的新关税涵盖700多种美国商品，价值约200亿美元，反映了特朗普最新对加拿大葡萄酒、水泥、曲棍球杆等征收的进口税的规模。",
-          "whyItMatters": "“加拿大宣布对价值200亿美元的美国商品加征关税”如果继续发展，可能通过能源价格、航运、贸易、汇率或市场预期传导到国内。了解它的意义在于判断后续风险，而不只停留在事件本身。",
-          "userRelevance": "即使你不在美国，“加拿大宣布对价值200亿美元的美国商品加征关税”也可能通过能源价格、国际航运、贸易成本和市场预期间接影响国内生活与工作判断。",
-          "whatToWatch": "接下来要看“加拿大宣布对价值200亿美元的美国商品加征关税”是否出现更细的城市、行业、平台或企业数据，以及这一变化能否连续保持。"
-        },
-        "sourceLinks": [
-          {
-            "title": "Sky News World RSS",
-            "url": "https://news.sky.com/story/canada-announces-retaliatory-tariffs-as-trade-war-with-us-heats-up-13577017",
-            "sourceId": "sky-world-rss",
-            "publishedAt": "2026-08-25T14:29:00.000Z",
-            "language": "zh",
-            "originalLanguage": "en",
-            "translationStatus": "translated",
-            "fetchedAt": "2026-08-25T23:35:52.865Z",
-            "sourceMethod": "rss",
-            "verificationStatus": "pending"
-          },
-          {
-            "title": "CNBC World News RSS",
-            "url": "https://www.cnbc.com/2026/08/25/canada-trump-tariffs-trade-carney-leblanc.html",
-            "sourceId": "cnbc-world-rss",
-            "publishedAt": "2026-08-25T21:26:01.000Z",
-            "language": "zh",
-            "originalLanguage": "en",
-            "translationStatus": "translated",
-            "fetchedAt": "2026-08-25T23:35:52.958Z",
-            "sourceMethod": "rss",
-            "verificationStatus": "pending"
-          }
-        ],
-        "images": [
-          {
-            "url": "https://e3.365dm.com/25/02/1920x1080/skynews-canada-stocks_6818670.jpg?20250203150849",
-            "sourceUrl": "https://news.sky.com/story/canada-announces-retaliatory-tariffs-as-trade-war-with-us-heats-up-13577017"
-          }
-        ],
-        "generatedAt": "2026-08-25T23:35:48.393Z"
-      },
-      {
-        "id": "draft-real-cnbc-world-rss-18q1rjo",
-        "title": "中国需要美元，但正在建立对冲华盛顿制裁的对冲",
-        "oneLine": "最新进展：中国需要美元，但正在建立对冲华盛顿制裁的对冲。",
-        "importance": "S",
-        "credibility": "待确认",
-        "tags": [
-          "S",
-          "mustKnow",
-          "industry",
-          "world",
-          "policy",
-          "finance"
-        ],
-        "industries": [
-          "generalPublic",
-          "financeInvestment",
-          "operationsGrowth",
-          "ecommerceRetail"
-        ],
-        "section": "front",
-        "body": {
-          "background": "北京——美国威胁要削减帮助伊朗逃避美国金融体系制裁的业务。美国财政部长斯科特·贝森特周一宣布，任何为“代表伊朗洗钱或逃避制裁”提供便利的实体都有可能被美国金融体系切断。这是美国总统唐纳德·特朗普宣布的针对伊朗的“经济诺曼底登陆”的一部分。",
-          "keyProgress": "中国外交部发言人周二在回答问题时表示：“中方已多次明确表示坚决反对没有国际法依据、也没有联合国安理会授权的非法单边制裁。当被具体问及中国银行时，贝森特表示，“如果它们促进交易，并且成为将伊朗石油变成金钱、进行镇压的生态系统的一部分，那么它们就会成为目标。”中国周二表示将“采取一切必要措施”保护自己。”据美中经济与安全审查委员会分析​​师 3 月份的数据，战前，中国购买了伊朗约 90% 的出口石油，约占中国原油进口总量的 12%，使其成为伊朗最大的贸易伙伴。",
-          "whyItMatters": "“中国需要美元，但正在建立对冲华盛顿制裁的对冲”如果继续发展，可能通过能源价格、航运、贸易、汇率或市场预期传导到国内。了解它的意义在于判断后续风险，而不只停留在事件本身。",
-          "userRelevance": "即使你不在中国、美国、伊朗，“中国需要美元，但正在建立对冲华盛顿制裁的对冲”也可能通过能源价格、国际航运、贸易成本和市场预期间接影响国内生活与工作判断。",
-          "whatToWatch": "接下来要看“中国需要美元，但正在建立对冲华盛顿制裁的对冲”是否出现更细的城市、行业、平台或企业数据，以及这一变化能否连续保持。"
-        },
-        "sourceLinks": [
-          {
-            "title": "CNBC World News RSS",
-            "url": "https://www.cnbc.com/2026/08/25/china-iran-us-sanctions-banks-cips.html",
-            "sourceId": "cnbc-world-rss",
-            "publishedAt": "2026-08-25T16:00:40.000Z",
-            "language": "zh",
-            "originalLanguage": "en",
-            "translationStatus": "translated",
-            "fetchedAt": "2026-08-25T23:35:52.958Z",
-            "sourceMethod": "rss",
-            "verificationStatus": "pending"
-          }
-        ],
-        "images": [
-          {
-            "url": "https://image.cnbcfm.com/api/v1/image/108353776-17876556101787655607-47974928038-1080pnbcnews.jpg?v=1787655609&amp;w=750&amp;h=422&amp;vtcrop=y",
-            "sourceUrl": "https://www.cnbc.com/2026/08/25/china-iran-us-sanctions-banks-cips.html"
-          },
-          {
-            "url": "https://image.cnbcfm.com/api/v1/image/108353675-1787634109634-1787626805-47968781364-hd.jpg?v=1787634115&amp;w=750&amp;h=422&amp;vtcrop=y",
-            "sourceUrl": "https://www.cnbc.com/2026/08/25/china-iran-us-sanctions-banks-cips.html"
-          }
-        ],
-        "generatedAt": "2026-08-25T23:35:48.393Z"
-      },
       {
         "id": "draft-real-cnbc-world-rss-x6vkom",
         "title": "伊朗和阿曼讨论霍尔木兹海峡联合航线和扫雷任务",
@@ -387,6 +107,180 @@
         "generatedAt": "2026-08-25T23:35:48.393Z"
       },
       {
+        "id": "draft-real-cnbc-world-rss-18q1rjo",
+        "title": "中国需要美元，但正在建立对冲华盛顿制裁的对冲",
+        "oneLine": "最新进展：中国需要美元，但正在建立对冲华盛顿制裁的对冲。",
+        "importance": "S",
+        "credibility": "待确认",
+        "tags": [
+          "S",
+          "mustKnow",
+          "industry",
+          "world",
+          "policy",
+          "finance"
+        ],
+        "industries": [
+          "generalPublic",
+          "financeInvestment",
+          "operationsGrowth",
+          "ecommerceRetail"
+        ],
+        "section": "front",
+        "body": {
+          "background": "北京——美国威胁要削减帮助伊朗逃避美国金融体系制裁的业务。美国财政部长斯科特·贝森特周一宣布，任何为“代表伊朗洗钱或逃避制裁”提供便利的实体都有可能被美国金融体系切断。这是美国总统唐纳德·特朗普宣布的针对伊朗的“经济诺曼底登陆”的一部分。",
+          "keyProgress": "中国外交部发言人周二在回答问题时表示：“中方已多次明确表示坚决反对没有国际法依据、也没有联合国安理会授权的非法单边制裁。当被具体问及中国银行时，贝森特表示，“如果它们促进交易，并且成为将伊朗石油变成金钱、进行镇压的生态系统的一部分，那么它们就会成为目标。”中国周二表示将“采取一切必要措施”保护自己。”据美中经济与安全审查委员会分析​​师 3 月份的数据，战前，中国购买了伊朗约 90% 的出口石油，约占中国原油进口总量的 12%，使其成为伊朗最大的贸易伙伴。",
+          "whyItMatters": "“中国需要美元，但正在建立对冲华盛顿制裁的对冲”如果继续发展，可能通过能源价格、航运、贸易、汇率或市场预期传导到国内。了解它的意义在于判断后续风险，而不只停留在事件本身。",
+          "userRelevance": "即使你不在中国、美国、伊朗，“中国需要美元，但正在建立对冲华盛顿制裁的对冲”也可能通过能源价格、国际航运、贸易成本和市场预期间接影响国内生活与工作判断。",
+          "whatToWatch": "接下来要看“中国需要美元，但正在建立对冲华盛顿制裁的对冲”是否出现更细的城市、行业、平台或企业数据，以及这一变化能否连续保持。"
+        },
+        "sourceLinks": [
+          {
+            "title": "CNBC World News RSS",
+            "url": "https://www.cnbc.com/2026/08/25/china-iran-us-sanctions-banks-cips.html",
+            "sourceId": "cnbc-world-rss",
+            "publishedAt": "2026-08-25T16:00:40.000Z",
+            "language": "zh",
+            "originalLanguage": "en",
+            "translationStatus": "translated",
+            "fetchedAt": "2026-08-25T23:35:52.958Z",
+            "sourceMethod": "rss",
+            "verificationStatus": "pending"
+          }
+        ],
+        "images": [
+          {
+            "url": "https://image.cnbcfm.com/api/v1/image/108353776-17876556101787655607-47974928038-1080pnbcnews.jpg?v=1787655609&amp;w=750&amp;h=422&amp;vtcrop=y",
+            "sourceUrl": "https://www.cnbc.com/2026/08/25/china-iran-us-sanctions-banks-cips.html"
+          },
+          {
+            "url": "https://image.cnbcfm.com/api/v1/image/108353675-1787634109634-1787626805-47968781364-hd.jpg?v=1787634115&amp;w=750&amp;h=422&amp;vtcrop=y",
+            "sourceUrl": "https://www.cnbc.com/2026/08/25/china-iran-us-sanctions-banks-cips.html"
+          }
+        ],
+        "generatedAt": "2026-08-25T23:35:48.393Z"
+      },
+      {
+        "id": "draft-real-npr-world-rss-ks0eaz",
+        "title": "随着美国贸易战的升级，加拿大以关税回击美国",
+        "oneLine": "政策变化：“当美国要求太多而提供太少时，我们选择为加拿大人挺身而出，”商鹏飞在谈到失败的谈判时说道。",
+        "importance": "S",
+        "credibility": "主流媒体",
+        "tags": [
+          "S",
+          "mustKnow",
+          "industry",
+          "world",
+          "policy",
+          "finance"
+        ],
+        "industries": [
+          "generalPublic",
+          "financeInvestment",
+          "operationsGrowth",
+          "ecommerceRetail"
+        ],
+        "section": "front",
+        "body": {
+          "background": "加拿大反关税的主要目的是为受美国关税影响的加拿大工业提供保护，并允许它们在加拿大市场上与美国产品竞争，”商鹏飞说。”此前，特朗普总统对部分加拿大商品征收 50% 的关税，并在周五贸易谈判破裂后威胁征收更多关税。卡尼周五暂停了与美国的贸易谈判，并在一份声明中表示，美国提议的最后一刻的改变是“不公平、不经济的，并且使任何协议的可靠性受到质疑”。",
+          "keyProgress": "随着两国陷入贸易战，加拿大周二宣布对数百种美国商品征收报复性关税。加拿大财政部长商鹏飞表示，反制措施将与美国的关税相匹配，从9月8日起对一系列美国出口产品征收15%、25%和50%的关税。他表示，反关税措施将集中在钢铁、乳制品、电器、农业设备、纸浆和纸张以及电子产品上，这些产品每年从美国进口的商品价值近200亿美元。这都是为了支持加拿大工人和加拿大企业。",
+          "whyItMatters": "“随着美国贸易战的升级，加拿大以关税回击美国”如果继续发展，可能通过能源价格、航运、贸易、汇率或市场预期传导到国内。了解它的意义在于判断后续风险，而不只停留在事件本身。",
+          "userRelevance": "即使你不在美国，“随着美国贸易战的升级，加拿大以关税回击美国”也可能通过能源价格、国际航运、贸易成本和市场预期间接影响国内生活与工作判断。",
+          "whatToWatch": "接下来要看“随着美国贸易战的升级，加拿大以关税回击美国”是否出现更细的城市、行业、平台或企业数据，以及这一变化能否连续保持。"
+        },
+        "sourceLinks": [
+          {
+            "title": "NPR World RSS",
+            "url": "https://www.npr.org/2026/08/25/nx-s1-5944240/canada-us-tariffs",
+            "sourceId": "npr-world-rss",
+            "publishedAt": "2026-08-25T15:20:18.000Z",
+            "language": "zh",
+            "originalLanguage": "en",
+            "translationStatus": "translated",
+            "fetchedAt": "2026-08-25T23:35:52.762Z",
+            "sourceMethod": "rss",
+            "verificationStatus": "confirmed"
+          }
+        ],
+        "images": [
+          {
+            "url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8192x5464+0+0/resize/1100/quality/50/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fdb%2Ff0%2Ff7db928c4a758bb35800e85b7300%2Fgettyimages-2290660201.jpg",
+            "sourceUrl": "https://www.npr.org/2026/08/25/nx-s1-5944240/canada-us-tariffs"
+          },
+          {
+            "url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5678x5678+1419+0/resize/100/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F6a%2F47%2Fdba05d284318a540221bd45f9cfb%2Fap26122373189543.jpg",
+            "sourceUrl": "https://www.npr.org/2026/08/25/nx-s1-5944240/canada-us-tariffs"
+          },
+          {
+            "url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/746x746+139+0/resize/100/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F62%2F76%2Fce6c9c994f5eab171f25f577f3bb%2Fgetty-uscanadatariffs.jpg",
+            "sourceUrl": "https://www.npr.org/2026/08/25/nx-s1-5944240/canada-us-tariffs"
+          }
+        ],
+        "generatedAt": "2026-08-25T23:35:48.393Z"
+      },
+      {
+        "id": "draft-cluster-real-sky-world-rss-4kzlj2",
+        "title": "加拿大宣布对价值200亿美元的美国商品加征关税",
+        "oneLine": "政策变化：《加拿大宣布对价值200亿美元的美国商品加征关税》“当美利坚合众国要求太多而提供太少时，我们做出了选择。",
+        "importance": "S",
+        "credibility": "待确认",
+        "tags": [
+          "S",
+          "mustKnow",
+          "industry",
+          "world",
+          "policy",
+          "finance"
+        ],
+        "industries": [
+          "generalPublic",
+          "financeInvestment",
+          "operationsGrowth",
+          "ecommerceRetail"
+        ],
+        "section": "front",
+        "body": {
+          "background": "反制关税范围为 15% 至 50%，针对加拿大从美国进口的多种商品，包括乳制品、海鲜、电器、木材和纸制品以及服装。加拿大还公布了额外的 75 亿美元一揽子计划，以支持受到美国关税伤害的企业和工人。我们选择了加拿大，”加拿大财政部长弗朗索瓦·菲利普·商鹏飞在周二上午的新闻发布会上表示。",
+          "keyProgress": "“当美利坚合众国要求太多而提供太少时，我们做出了选择。The new duties would have been averted if the two sides struck a trade deal before they took effect on Saturday.特朗普本周早些时候声称协议已基本完成，但加拿大周五晚上暂停了谈判，声称美国提出了不合理的要求和“最后一刻的改变”。加拿大周二宣布对美国征收报复性关税，与唐纳德·特朗普总统在贸易谈判破裂后周末征收的 50% 关税相匹配。渥太华的新关税涵盖700多种美国商品，价值约200亿美元，反映了特朗普最新对加拿大葡萄酒、水泥、曲棍球杆等征收的进口税的规模。",
+          "whyItMatters": "“加拿大宣布对价值200亿美元的美国商品加征关税”如果继续发展，可能通过能源价格、航运、贸易、汇率或市场预期传导到国内。了解它的意义在于判断后续风险，而不只停留在事件本身。",
+          "userRelevance": "即使你不在美国，“加拿大宣布对价值200亿美元的美国商品加征关税”也可能通过能源价格、国际航运、贸易成本和市场预期间接影响国内生活与工作判断。",
+          "whatToWatch": "接下来要看“加拿大宣布对价值200亿美元的美国商品加征关税”是否出现更细的城市、行业、平台或企业数据，以及这一变化能否连续保持。"
+        },
+        "sourceLinks": [
+          {
+            "title": "Sky News World RSS",
+            "url": "https://news.sky.com/story/canada-announces-retaliatory-tariffs-as-trade-war-with-us-heats-up-13577017",
+            "sourceId": "sky-world-rss",
+            "publishedAt": "2026-08-25T14:29:00.000Z",
+            "language": "zh",
+            "originalLanguage": "en",
+            "translationStatus": "translated",
+            "fetchedAt": "2026-08-25T23:35:52.865Z",
+            "sourceMethod": "rss",
+            "verificationStatus": "pending"
+          },
+          {
+            "title": "CNBC World News RSS",
+            "url": "https://www.cnbc.com/2026/08/25/canada-trump-tariffs-trade-carney-leblanc.html",
+            "sourceId": "cnbc-world-rss",
+            "publishedAt": "2026-08-25T21:26:01.000Z",
+            "language": "zh",
+            "originalLanguage": "en",
+            "translationStatus": "translated",
+            "fetchedAt": "2026-08-25T23:35:52.958Z",
+            "sourceMethod": "rss",
+            "verificationStatus": "pending"
+          }
+        ],
+        "images": [
+          {
+            "url": "https://e3.365dm.com/25/02/1920x1080/skynews-canada-stocks_6818670.jpg?20250203150849",
+            "sourceUrl": "https://news.sky.com/story/canada-announces-retaliatory-tariffs-as-trade-war-with-us-heats-up-13577017"
+          }
+        ],
+        "generatedAt": "2026-08-25T23:35:48.393Z"
+      },
+      {
         "id": "draft-real-npr-world-rss-71bb0t",
         "title": "特朗普呼吁领导人孤立伊朗。此外，斯科特斯目前在邮寄投票中支持特朗普",
         "oneLine": "最新进展：特朗普呼吁领导人孤立伊朗。此外，斯科特斯目前在邮寄投票中支持特朗普。",
@@ -441,6 +335,112 @@
             "sourceUrl": "https://www.npr.org/2026/08/25/g-s1-140004/up-first-newsletter-iran-economic-war-scotus-mail-in-voting-dhs-privacy"
           }
         ],
+        "generatedAt": "2026-08-25T23:35:48.393Z"
+      },
+      {
+        "id": "draft-real-npr-world-rss-zcxkly",
+        "title": "特朗普对伊朗的经济战争能做空袭和谈判做不到的事情吗？",
+        "oneLine": "最新进展：特朗普对伊朗的经济战争能做空袭和谈判做不到的事情吗。",
+        "importance": "S",
+        "credibility": "主流媒体",
+        "tags": [
+          "S",
+          "mustKnow",
+          "industry",
+          "world",
+          "policy",
+          "finance"
+        ],
+        "industries": [
+          "generalPublic",
+          "financeInvestment",
+          "operationsGrowth",
+          "ecommerceRetail"
+        ],
+        "section": "front",
+        "body": {
+          "background": "正是在这种背景下，美国财政部长斯科特·贝森特周一公布了针对伊朗的新制裁行动，旨在“切断维持这个暴政政权的每一条经济命脉，直到德黑兰孤立无援”。过去的几届政府，包括特朗普第一届政府，多年来一直试图通过各种制裁活动向伊朗施加经济压力。当美国和以色列二月份对伊朗发动战争时，特朗普总统发誓要迅速取得胜利。",
+          "keyProgress": "“多年来我们看到的一件事是，最大的压力往往会引发伊朗方面的最大阻力，”总部位于伦敦的交易所与集市基金会(Bourse & Bazaar Foundation)首席执行官埃斯凡迪亚尔·巴特曼赫利吉(Esfandyar Batmanghelidj)表示，该基金会是一家专注于伊朗经济的智库。如今，近六个月过去了，在本应结束战争的 60 天停火期限未能实现之后，美国却发现自己陷入了一场旷日持久的冲突。与伊朗的战争重创了全球经济，激怒了海湾盟友，并耗尽了美国的军火库。它还削弱了特朗普总统追求其主要战争目标的影响力，该目标已从遏制伊朗核野心转向政权更迭，现在的目标是使霍尔木兹海峡摆脱伊朗的控制。",
+          "whyItMatters": "“特朗普对伊朗的经济战争能做空袭和谈判做不到的事情吗”如果继续发展，可能通过能源价格、航运、贸易、汇率或市场预期传导到国内。了解它的意义在于判断后续风险，而不只停留在事件本身。",
+          "userRelevance": "即使你不在美国、伊朗，“特朗普对伊朗的经济战争能做空袭和谈判做不到的事情吗”也可能通过能源价格、国际航运、贸易成本和市场预期间接影响国内生活与工作判断。",
+          "whatToWatch": "接下来要看“特朗普对伊朗的经济战争能做空袭和谈判做不到的事情吗”是否出现更细的城市、行业、平台或企业数据，以及这一变化能否连续保持。"
+        },
+        "sourceLinks": [
+          {
+            "title": "NPR World RSS",
+            "url": "https://www.npr.org/2026/08/25/nx-s1-5943572/trump-iran-sanctions",
+            "sourceId": "npr-world-rss",
+            "publishedAt": "2026-08-25T09:07:09.000Z",
+            "language": "zh",
+            "originalLanguage": "en",
+            "translationStatus": "translated",
+            "fetchedAt": "2026-08-25T23:35:52.762Z",
+            "sourceMethod": "rss",
+            "verificationStatus": "confirmed"
+          }
+        ],
+        "images": [
+          {
+            "url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8516x5678+0+0/resize/1100/quality/50/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F6a%2F47%2Fdba05d284318a540221bd45f9cfb%2Fap26122373189543.jpg",
+            "sourceUrl": "https://www.npr.org/2026/08/25/nx-s1-5943572/trump-iran-sanctions"
+          },
+          {
+            "url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3000x3000+0+0/resize/100/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fd0%2F3f%2F08a5041c4ceca4e96a62754dddd5%2Ff2342d2e-3f73-4259-9556-6c36eb4fc900.jpg",
+            "sourceUrl": "https://www.npr.org/2026/08/25/nx-s1-5943572/trump-iran-sanctions"
+          },
+          {
+            "url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2534x2534+628+0/resize/100/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F68%2F1c%2F23da8dcd4c6d9d50ba932deba0e5%2Fap26236622592645.jpg",
+            "sourceUrl": "https://www.npr.org/2026/08/25/nx-s1-5943572/trump-iran-sanctions"
+          },
+          {
+            "url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4650x3100+0+0/resize/1100/quality/50/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F19%2F3e%2Fdbd1265343d69c3f053d6cdbde98%2Fap26236674162695.jpg",
+            "sourceUrl": "https://www.npr.org/2026/08/25/nx-s1-5943572/trump-iran-sanctions"
+          }
+        ],
+        "generatedAt": "2026-08-25T23:35:48.393Z"
+      },
+      {
+        "id": "draft-real-xinhua-world-wdi7k4",
+        "title": "巴基斯坦与伊朗商讨重新开放霍尔木兹海峡",
+        "oneLine": "政策变化：巴基斯坦三军新闻局25日发表声明说，巴陆军参谋长穆尼尔与内政部长纳克维结束了对伊朗为期一天的访问，巴伊双方重点围绕防止局势进一步升级、重新开放霍尔木兹海峡以及加快结束冲突的措施进行了全面讨论。",
+        "importance": "S",
+        "credibility": "主流媒体",
+        "tags": [
+          "S",
+          "mustKnow",
+          "industry",
+          "world",
+          "policy"
+        ],
+        "industries": [
+          "generalPublic",
+          "financeInvestment",
+          "operationsGrowth",
+          "contentCreator"
+        ],
+        "section": "front",
+        "body": {
+          "background": "声明说，双方还就地区和平以及如何通过谈判解决争端交换了意见。伊方赞赏巴方在促进对话、缓和局势及和平解决冲突方面所发挥的建设性作用及作出的真诚努力。纳克维25日在社交媒体发文说，他和穆尼尔与伊朗总统佩泽希齐扬进行了积极且富有成效的会晤。",
+          "keyProgress": "纳克维表示，双方重点讨论了伊朗和美国的冲突、中东地区紧张局势和未来走势，以及双方为恢复落实伊斯兰堡谅解备忘录需采取的措施，从而最终实现冲突的全面解决。会谈取得显著进展，并在积极的氛围中结束。",
+          "whyItMatters": "“霍尔木兹海峡局势”如果继续发展，可能通过能源价格、航运、贸易、汇率或市场预期传导到国内。了解它的意义在于判断后续风险，而不只停留在事件本身。",
+          "userRelevance": "即使你不在伊朗、霍尔木兹海峡，“霍尔木兹海峡局势”也可能通过能源价格、国际航运、贸易成本和市场预期间接影响国内生活与工作判断。",
+          "whatToWatch": "接下来要看霍尔木兹海峡实际通航量、油价和保险成本是否继续变化，以及美伊双方是否出现新的正式行动。"
+        },
+        "sourceLinks": [
+          {
+            "title": "新华网国际",
+            "url": "https://www.news.cn/world/20260825/00038fa3e0f343739ee4bd4b21950df7/c.html",
+            "sourceId": "xinhua-world",
+            "publishedAt": "2026-08-25T00:00:00+08:00",
+            "language": "zh",
+            "originalLanguage": "zh",
+            "translationStatus": "not-needed",
+            "fetchedAt": "2026-08-25T23:35:51.878Z",
+            "sourceMethod": "web",
+            "verificationStatus": "confirmed"
+          }
+        ],
+        "images": [],
         "generatedAt": "2026-08-25T23:35:48.393Z"
       },
       {
@@ -540,6 +540,188 @@
         "generatedAt": "2026-08-25T23:35:48.393Z"
       },
       {
+        "id": "draft-real-techcrunch-ai-rss-6e0sye",
+        "title": "印度的Ringg获得Peak XV的支持，因为它将语音AI推过电话",
+        "oneLine": "最新进展：印度的Ringg获得Peak XV的支持，因为它将语音AI推过电话。",
+        "importance": "B",
+        "credibility": "待确认",
+        "tags": [
+          "B",
+          "industry",
+          "ai",
+          "technology",
+          "product"
+        ],
+        "industries": [
+          "aiProduct",
+          "aiTechnology",
+          "productManagement",
+          "technologyEngineering",
+          "educationResearch"
+        ],
+        "section": "ai",
+        "body": {
+          "background": "它此前在今年早些时候的A轮融资中筹集了550万美元，使该轮融资总额达到1550万美元。语音通话仍占Ringg业务的70%以上，但这家初创公司已经开始涉足其他渠道，包括聊天和WhatsApp。由于语音仍然是消费者的首选沟通方式，这为在该国使用语音人工智能自动化支持和外联呼叫留下了巨大的机会。",
+          "keyProgress": "Ringg最初是一家名为DesiVocal的文本语音转换初创公司，但事实证明，训练自己的语音模型是昂贵的，因此创始人向上移动—为企业构建语音AI代理。语音人工智能初创公司Ringg已经每月处理2000万次通话尝试，它押注未来几个月的通话量将继续攀升，它只是在这一信念上筹集了更多资金。该公司今天表示，它已从Peak XV Partners获得1000万美元，作为其A轮融资的延伸。印度金融科技Cred成为其第一个客户， Ringg此后与Flipkart、Practo、Groww和PolicyBazaar等印度初创公司签约。",
+          "whyItMatters": "“印度的Ringg获得Peak XV的支持，因为它将语音AI推过电话”能帮助你判断这项能力是否已经进入工程、产品或商业场景，并据此调整技术选型、产品规划、学习重点或职业判断。",
+          "userRelevance": "如果你从事AI 产品、AI 技术、产品管理、技术研发，可以重点判断“印度的Ringg获得Peak XV的支持，因为它将语音AI推过电话”是否已经具备产品落地、技术选型或业务合作价值。",
+          "whatToWatch": "接下来要看“印度的Ringg获得Peak XV的支持，因为它将语音AI推过电话”是否有更多可靠来源、量产或应用进展，以及它会不会从单点消息发展成持续趋势。"
+        },
+        "sourceLinks": [
+          {
+            "title": "TechCrunch AI RSS",
+            "url": "https://techcrunch.com/2026/08/25/indias-ringg-gets-backing-from-peak-xv-as-it-pushes-voice-ai-past-the-phone-call/",
+            "sourceId": "techcrunch-ai-rss",
+            "publishedAt": "2026-08-26T03:30:00.000Z",
+            "language": "zh",
+            "originalLanguage": "en",
+            "translationStatus": "translated",
+            "fetchedAt": "2026-08-26T04:21:59.946Z",
+            "sourceMethod": "rss",
+            "verificationStatus": "pending"
+          }
+        ],
+        "images": [],
+        "generatedAt": "2026-08-26T04:21:54.642Z"
+      },
+      {
+        "id": "draft-real-cnbc-world-rss-1wte1st",
+        "title": "特朗普的沙特核协议到达国会，专家警告扩散危险",
+        "oneLine": "最新进展：特朗普的沙特核协议到达国会，专家警告扩散危险。",
+        "importance": "B",
+        "credibility": "待确认",
+        "tags": [
+          "B",
+          "industry",
+          "world",
+          "policy",
+          "finance"
+        ],
+        "industries": [
+          "generalPublic",
+          "financeInvestment",
+          "operationsGrowth",
+          "ecommerceRetail"
+        ],
+        "section": "industry",
+        "body": {
+          "background": "总统上个月在社交媒体上说，并补充说，该协议“完全取决于沙特阿拉伯加入非常受人尊敬和成功的亚伯拉罕协议。“一些民主党立法者和不扩散倡导者批评该协议没有包括永久禁止浓缩或后处理，并削弱了对将技术转化为军事用途的标准控制。在这篇文章中，唐纳德·特朗普总统周一向国会提交了一份与沙特阿拉伯关于民用核能的拟议协议，开始对一项向美国开放核技术的协议进行强制性审查。",
+          "keyProgress": "一位美国官员现在证实了向MS提交的文件，称由能源部牵头的协议符合《原子能法》。这位官员说，总统的立场保持不变：只有沙特阿拉伯加入亚伯拉罕协议，协议才会向前推进。该协议于7月达成，将允许美国公司向沙特阿拉伯出口民用核技术。国会现在有90天的连续会议来审查该协议，如果没有异议，该协议将生效。",
+          "whyItMatters": "“特朗普的沙特核协议到达国会，专家警告扩散危险”如果继续发展，可能通过能源价格、航运、贸易、汇率或市场预期传导到国内。了解它的意义在于判断后续风险，而不只停留在事件本身。",
+          "userRelevance": "即使你不在沙特，“特朗普的沙特核协议到达国会，专家警告扩散危险”也可能通过能源价格、国际航运、贸易成本和市场预期间接影响国内生活与工作判断。",
+          "whatToWatch": "接下来要看“特朗普的沙特核协议到达国会，专家警告扩散危险”是否出现更细的城市、行业、平台或企业数据，以及这一变化能否连续保持。"
+        },
+        "sourceLinks": [
+          {
+            "title": "CNBC World News RSS",
+            "url": "https://www.cnbc.com/2026/08/26/trump-saudi-nuclear-agreement-congress-iran-deal-.html",
+            "sourceId": "cnbc-world-rss",
+            "publishedAt": "2026-08-26T02:34:28.000Z",
+            "language": "zh",
+            "originalLanguage": "en",
+            "translationStatus": "translated",
+            "fetchedAt": "2026-08-26T04:21:58.624Z",
+            "sourceMethod": "rss",
+            "verificationStatus": "pending"
+          }
+        ],
+        "images": [
+          {
+            "url": "https://image.cnbcfm.com/api/v1/image/108354222-17876959381787695936-47984449655-1080pnbcnews.jpg?v=1787695937&amp;w=750&amp;h=422&amp;vtcrop=y",
+            "sourceUrl": "https://www.cnbc.com/2026/08/26/trump-saudi-nuclear-agreement-congress-iran-deal-.html"
+          }
+        ],
+        "generatedAt": "2026-08-26T04:21:54.642Z"
+      },
+      {
+        "id": "draft-real-cnbc-world-rss-154vl52",
+        "title": "从军事联盟到经济伙伴关系：特朗普如何重新定义美韩关系",
+        "oneLine": "最新进展：从军事联盟到经济伙伴关系：特朗普如何重新定义美韩关系。",
+        "importance": "B",
+        "credibility": "待确认",
+        "tags": [
+          "B",
+          "industry",
+          "world",
+          "policy",
+          "finance"
+        ],
+        "industries": [
+          "generalPublic",
+          "financeInvestment",
+          "operationsGrowth",
+          "ecommerceRetail"
+        ],
+        "section": "industry",
+        "body": {
+          "background": "该职位是在韩国贸易部长Kim Jung-kwan抵达华盛顿特区与商务部长Howard Lutnick讨论投资承诺和关税时发布的。“交换条件可能会发生变化，但亚洲的军事足迹较小，承诺范围较窄，也将使美国经济自由……专家表示，特朗普对美国海外军费开支的沮丧以及韩国投资的实施停滞不前，标志着盟国关系从基于安全的关系转向经济关系。",
+          "keyProgress": "现在人们仍然怀疑投资是否能确保美国 卡内基国际和平基金会研究员Darcie Draudt-Véjares表示，正如首尔和华盛顿的许多人所希望的那样，对韩国安全的承诺。她指的是韩国承诺去年在美国投资3500亿美元，以换取较低的“互惠”关税。“从另一个角度来看，我们可以看到以军事联盟为中心的关系转变为以综合工业生态系统为中心的关系，” Draudt-Véjares说。这使得“经济而不是安全成为美韩伙伴关系的基础。",
+          "whyItMatters": "“从军事联盟到经济伙伴关系：特朗普如何重新定义美韩关系”如果继续发展，可能通过能源价格、航运、贸易、汇率或市场预期传导到国内。了解它的意义在于判断后续风险，而不只停留在事件本身。",
+          "userRelevance": "即使你不在事发地区，“从军事联盟到经济伙伴关系：特朗普如何重新定义美韩关系”也可能通过能源价格、国际航运、贸易成本和市场预期间接影响国内生活与工作判断。",
+          "whatToWatch": "接下来要看“从军事联盟到经济伙伴关系：特朗普如何重新定义美韩关系”是否出现更细的城市、行业、平台或企业数据，以及这一变化能否连续保持。"
+        },
+        "sourceLinks": [
+          {
+            "title": "CNBC World News RSS",
+            "url": "https://www.cnbc.com/2026/08/26/trump-us-south-korea-alliance-military-drills-.html",
+            "sourceId": "cnbc-world-rss",
+            "publishedAt": "2026-08-26T02:06:21.000Z",
+            "language": "zh",
+            "originalLanguage": "en",
+            "translationStatus": "translated",
+            "fetchedAt": "2026-08-26T04:21:58.624Z",
+            "sourceMethod": "rss",
+            "verificationStatus": "pending"
+          }
+        ],
+        "images": [],
+        "generatedAt": "2026-08-26T04:21:54.642Z"
+      },
+      {
+        "id": "draft-real-cnbc-world-rss-bw0zme",
+        "title": "特朗普选出的南卡罗来纳州参议员达琳·格雷厄姆赢得共和党初选",
+        "oneLine": "最新进展：特朗普选出的南卡罗来纳州参议员达琳·格雷厄姆赢得共和党初选。",
+        "importance": "B",
+        "credibility": "待确认",
+        "tags": [
+          "B",
+          "industry",
+          "world",
+          "policy",
+          "finance"
+        ],
+        "industries": [
+          "generalPublic",
+          "financeInvestment",
+          "operationsGrowth",
+          "ecommerceRetail"
+        ],
+        "section": "industry",
+        "body": {
+          "background": "特朗普是该党事实上的领导人，传统上一直扮演着造王者的角色，但最近遭受了一系列的损失。南卡罗来纳州参议员达琳·格雷厄姆(Darline Graham)在该州参议院初选中避开了众议员拉尔夫·诺曼(Ralph Norman)的挑战，在唐纳德·特朗普(Donald Trump)总统的支持下，格雷厄姆将进入11月的大选。格雷厄姆—参议员林赛·格雷厄姆（ Lindsey Graham ）的妹妹，她在7月意外去世后被任命填补其席位—在美联社宣布比赛时领先诺曼4个百分点。",
+          "keyProgress": "她将在11月的大选中面对民主党人安妮·安德鲁斯（ Annie Andrews ）。与艾米·沃尔特（ Amy Walter ）合作的《库克政治报告》（ Cook Political Report ）将竞选标记为“坚实的R”。林赛·格雷厄姆（ Lindsey Graham ）在他去世前这次竞选是对特朗普在党内力量的考验，因为他全力支持格雷厄姆。但诺曼是众议院自由核心小组的强硬派成员，他偶尔会发现自己与特朗普有交叉，部分原因是他最初在2024年共和党总统初选中支持前南卡罗来纳州州长尼基·黑利。",
+          "whyItMatters": "“特朗普选出的南卡罗来纳州参议员达琳·格雷厄姆赢得共和党初选”如果继续发展，可能通过能源价格、航运、贸易、汇率或市场预期传导到国内。了解它的意义在于判断后续风险，而不只停留在事件本身。",
+          "userRelevance": "即使你不在事发地区，“特朗普选出的南卡罗来纳州参议员达琳·格雷厄姆赢得共和党初选”也可能通过能源价格、国际航运、贸易成本和市场预期间接影响国内生活与工作判断。",
+          "whatToWatch": "接下来要看“特朗普选出的南卡罗来纳州参议员达琳·格雷厄姆赢得共和党初选”是否出现更细的城市、行业、平台或企业数据，以及这一变化能否连续保持。"
+        },
+        "sourceLinks": [
+          {
+            "title": "CNBC World News RSS",
+            "url": "https://www.cnbc.com/2026/08/25/trump-darline-graham-south-carolina-primary.html",
+            "sourceId": "cnbc-world-rss",
+            "publishedAt": "2026-08-26T01:07:28.000Z",
+            "language": "zh",
+            "originalLanguage": "en",
+            "translationStatus": "translated",
+            "fetchedAt": "2026-08-26T04:21:58.624Z",
+            "sourceMethod": "rss",
+            "verificationStatus": "pending"
+          }
+        ],
+        "images": [],
+        "generatedAt": "2026-08-26T04:21:54.642Z"
+      },
+      {
         "id": "draft-cluster-real-gov-uk-news-e8iapl",
         "title": "英国在联合国安理会的声明：只有通过人道主义休战、永久停火和包容性的平民主导的政治进程，才能结束苏丹的苦难",
         "oneLine": "风险提醒：《英国在联合国安理会的声明：只有通过人道主义休战、永久停火和包容性的平民主导的政治进程，才能结束苏丹的苦难》我们使用一些必要的 cookie 来使该网站正常运行。",
@@ -609,6 +791,162 @@
             "sourceUrl": "https://www.gov.uk/government/speeches/an-end-to-the-suffering-in-sudan-will-only-come-through-an-humanitarian-truce-a-permanent-ceasefire-and-an-inclusive-civilian-led-political-process-uk"
           }
         ],
+        "generatedAt": "2026-08-25T23:35:48.393Z"
+      },
+      {
+        "id": "draft-real-techcrunch-ai-rss-10qh9su",
+        "title": "图像生成器 Stable Diffusion 的制造商 Stability AI 筹集了 7600 万美元的新资金",
+        "oneLine": "趋势信号：Stability AI 是人工智能图像生成模型 Stable Diffusion 背后的初创公司，已在 B 轮融资中筹集了 7600 万美元。",
+        "importance": "B",
+        "credibility": "待确认",
+        "tags": [
+          "B",
+          "industry",
+          "ai",
+          "technology",
+          "product"
+        ],
+        "industries": [
+          "aiProduct",
+          "aiTechnology",
+          "productManagement",
+          "technologyEngineering",
+          "educationResearch"
+        ],
+        "section": "ai",
+        "body": {
+          "background": "该公司周二宣布了这一轮融资，称新资金部分来自多家知名娱乐行业组织，包括环球音乐集团、索尼音乐集团、华纳音乐集团和游戏巨头艺电公司 (EA)。新一轮融资使该公司的融资总额达到 2.32 亿美元。AMD Ventures 和 Pacific Alliance Ventures 两家投资公司也参与其中。",
+          "keyProgress": "与 Stability 目前依赖的一系列公司进行内容许可和发行交易相比，这是一个不寻常的名单，也是一次不太典型的风险投资。Stability AI 首席执行官 Prem Akkaraju 于 2024 年加入该公司，他称这笔资金“是对我们愿景的肯定，即生成式人工智能为每个制作人、音乐家和故事讲述者赋能”。目前，Stability 提供了多种专为 AI 音乐、视频和图像生成而设计的 AI 模型。去年 10 月，它与环球音乐和 EA 建立了合作伙伴关系，去年 11 月又与华纳音乐建立了合作伙伴关系，双方都为这些公司提供了共同开发 Stability 人工智能工具的机会，而不仅仅是授权产品。",
+          "whyItMatters": "“图像生成器 Stable Diffusion 的制造商 Stability AI 筹集了 760”能帮助你判断这项能力是否已经进入工程、产品或商业场景，并据此调整技术选型、产品规划、学习重点或职业判断。",
+          "userRelevance": "如果你从事AI 产品、AI 技术、产品管理、技术研发，可以重点判断“图像生成器 Stable Diffusion 的制造商 Stability AI 筹集了 760”是否已经具备产品落地、技术选型或业务合作价值。",
+          "whatToWatch": "接下来要看“图像生成器 Stable Diffusion 的制造商 Stability AI 筹集了 760”是否有更多可靠来源、量产或应用进展，以及它会不会从单点消息发展成持续趋势。"
+        },
+        "sourceLinks": [
+          {
+            "title": "TechCrunch AI RSS",
+            "url": "https://techcrunch.com/2026/08/25/stability-ai-maker-of-image-generator-stable-diffusion-raises-76-million-in-fresh-funding/",
+            "sourceId": "techcrunch-ai-rss",
+            "publishedAt": "2026-08-25T19:03:47.000Z",
+            "language": "zh",
+            "originalLanguage": "en",
+            "translationStatus": "translated",
+            "fetchedAt": "2026-08-25T23:35:54.673Z",
+            "sourceMethod": "rss",
+            "verificationStatus": "pending"
+          }
+        ],
+        "images": [],
+        "generatedAt": "2026-08-25T23:35:48.393Z"
+      },
+      {
+        "id": "draft-real-techcrunch-ai-rss-1vvmm33",
+        "title": "克劳德·科沃克终于记住了你在聊天中告诉应用程序的内容",
+        "oneLine": "最新进展：克劳德·科沃克终于记住了你在聊天中告诉应用程序的内容。",
+        "importance": "B",
+        "credibility": "待确认",
+        "tags": [
+          "B",
+          "industry",
+          "ai",
+          "technology",
+          "product"
+        ],
+        "industries": [
+          "aiProduct",
+          "aiTechnology",
+          "productManagement",
+          "technologyEngineering",
+          "educationResearch"
+        ],
+        "section": "ai",
+        "body": {
+          "background": "然而，该公司表示，克劳德永远不会保存某些信息，例如政府颁发的身份证号码和社会安全号码、犯罪记录、移民身份或其他违反其可接受使用政策的信息。周二，Anthropic 宣布它将合并聊天和 Claude Cowork 使用的记忆系统，这意味着 Claude 将永远记住它在一个领域学到的东西，即使你在另一个领域参与其中。Anthropic 还公开了 Claude 保留在记忆中的内容，允许用户阅读、编辑或删除任何主题的信息。",
+          "keyProgress": "以前，您可能在与 Claude 聊天时逐渐形成了项目想法，但当真正实施更改时，您必须通过告诉 Cowork 所有细节来重新开始。此次更新将改善 Claude 用户的体验，让他们能够在研究阶段和采取行动之间更加无缝地切换。这一更新让 Claude 现在感觉自己就像一位连续的助手，而不是同一屋檐下的两个独立产品。Anthropic 提供了一个例子，某人需要为他们的经理起草更新或会议议程，而 Cowork 已经因为过去关于当前问题的对话而理解了这些参考资料。",
+          "whyItMatters": "“克劳德·科沃克终于记住了你在聊天中告诉应用程序的内容”能帮助你判断这项能力是否已经进入工程、产品或商业场景，并据此调整技术选型、产品规划、学习重点或职业判断。",
+          "userRelevance": "如果你从事AI 产品、AI 技术、产品管理、技术研发，可以重点判断“克劳德·科沃克终于记住了你在聊天中告诉应用程序的内容”是否已经具备产品落地、技术选型或业务合作价值。",
+          "whatToWatch": "接下来要看“克劳德·科沃克终于记住了你在聊天中告诉应用程序的内容”是否有更多可靠来源、量产或应用进展，以及它会不会从单点消息发展成持续趋势。"
+        },
+        "sourceLinks": [
+          {
+            "title": "TechCrunch AI RSS",
+            "url": "https://techcrunch.com/2026/08/25/claude-cowork-finally-remembers-what-you-told-the-app-in-chat/",
+            "sourceId": "techcrunch-ai-rss",
+            "publishedAt": "2026-08-25T17:50:33.000Z",
+            "language": "zh",
+            "originalLanguage": "en",
+            "translationStatus": "translated",
+            "fetchedAt": "2026-08-25T23:35:54.673Z",
+            "sourceMethod": "rss",
+            "verificationStatus": "pending"
+          }
+        ],
+        "images": [
+          {
+            "url": "https://techcrunch.com/wp-content/uploads/2026/08/Claude-improved-memory-list.png",
+            "sourceUrl": "https://techcrunch.com/2026/08/25/claude-cowork-finally-remembers-what-you-told-the-app-in-chat/"
+          },
+          {
+            "url": "https://techcrunch.com/wp-content/uploads/2026/08/Claude-improved-memory-hero-customize-off-1.png",
+            "sourceUrl": "https://techcrunch.com/2026/08/25/claude-cowork-finally-remembers-what-you-told-the-app-in-chat/"
+          }
+        ],
+        "generatedAt": "2026-08-25T23:35:48.393Z"
+      },
+      {
+        "id": "draft-cluster-real-techcrunch-ai-rss-1aqbcqh",
+        "title": "Gamma 收购 Accel 支持的设计初创公司 Lica",
+        "oneLine": "趋势信号：TechCrunch 独家获悉，演示初创公司 Gamma 已收购 Accel 支持的设计初创公司 Lica，以建立自己的设计研究实验室。",
+        "importance": "B",
+        "credibility": "待确认",
+        "tags": [
+          "B",
+          "industry",
+          "ai",
+          "technology",
+          "product"
+        ],
+        "industries": [
+          "aiProduct",
+          "aiTechnology",
+          "productManagement",
+          "technologyEngineering",
+          "educationResearch"
+        ],
+        "section": "ai",
+        "body": {
+          "background": "Lica 的 Mehta 表示，新的研究部门将致力于为不同受众和品味定制人工智能模型的呈现和沟通风格。Lica 的联合创始人将领导这项工作。Lica 最初是一款可以将屏幕截图和录音转换为项目演示和视频的应用程序。",
+          "keyProgress": "Kalyanaraman 表示，Lica 希望围绕视频和设计等通信方法构建人工智能模型，而且创始人与 Gamma 的首席执行官 Grant Lee 很熟悉，因为两家公司都得到了 Accel 和 South Park Commons 的支持。这些[问题]都要求我们深入思考沟通的核心责任。我们正在考虑建立一个平台，在这个平台上，这两个目标可以个性化到这样的程度，即您可以获得非常好的输出，然后您可以编辑该公司由 Priyaa Kalyanaraman 和 Purvanshi Mehta 于 2023 年创立，一年后从 Accel、South Park Commons 和 Village Global 等投资者那里筹集了 400 万美元。",
+          "whyItMatters": "“Gamma 收购 Accel 支持的设计初创公司 Lica”能帮助你判断这项能力是否已经进入工程、产品或商业场景，并据此调整技术选型、产品规划、学习重点或职业判断。",
+          "userRelevance": "如果你从事AI 产品、AI 技术、产品管理、技术研发，可以重点判断“Gamma 收购 Accel 支持的设计初创公司 Lica”是否已经具备产品落地、技术选型或业务合作价值。",
+          "whatToWatch": "接下来要看“Gamma 收购 Accel 支持的设计初创公司 Lica”是否有更多可靠来源、量产或应用进展，以及它会不会从单点消息发展成持续趋势。"
+        },
+        "sourceLinks": [
+          {
+            "title": "TechCrunch AI RSS",
+            "url": "https://techcrunch.com/2026/08/25/gamma-acquires-accel-backed-design-startup-lica/",
+            "sourceId": "techcrunch-ai-rss",
+            "publishedAt": "2026-08-25T15:00:00.000Z",
+            "language": "zh",
+            "originalLanguage": "en",
+            "translationStatus": "translated",
+            "fetchedAt": "2026-08-25T23:35:54.673Z",
+            "sourceMethod": "rss",
+            "verificationStatus": "pending"
+          },
+          {
+            "title": "TechCrunch AI RSS",
+            "url": "https://techcrunch.com/2026/08/25/accel-backed-keenable-is-indexing-the-web-for-ai-agents/",
+            "sourceId": "techcrunch-ai-rss",
+            "publishedAt": "2026-08-25T13:00:00.000Z",
+            "language": "zh",
+            "originalLanguage": "en",
+            "translationStatus": "translated",
+            "fetchedAt": "2026-08-25T23:35:54.673Z",
+            "sourceMethod": "rss",
+            "verificationStatus": "pending"
+          }
+        ],
+        "images": [],
         "generatedAt": "2026-08-25T23:35:48.393Z"
       },
       {
@@ -783,162 +1121,6 @@
         "generatedAt": "2026-08-25T23:35:48.393Z"
       },
       {
-        "id": "draft-real-techcrunch-ai-rss-10qh9su",
-        "title": "图像生成器 Stable Diffusion 的制造商 Stability AI 筹集了 7600 万美元的新资金",
-        "oneLine": "趋势信号：Stability AI 是人工智能图像生成模型 Stable Diffusion 背后的初创公司，已在 B 轮融资中筹集了 7600 万美元。",
-        "importance": "B",
-        "credibility": "待确认",
-        "tags": [
-          "B",
-          "industry",
-          "ai",
-          "technology",
-          "product"
-        ],
-        "industries": [
-          "aiProduct",
-          "aiTechnology",
-          "productManagement",
-          "technologyEngineering",
-          "educationResearch"
-        ],
-        "section": "ai",
-        "body": {
-          "background": "该公司周二宣布了这一轮融资，称新资金部分来自多家知名娱乐行业组织，包括环球音乐集团、索尼音乐集团、华纳音乐集团和游戏巨头艺电公司 (EA)。新一轮融资使该公司的融资总额达到 2.32 亿美元。AMD Ventures 和 Pacific Alliance Ventures 两家投资公司也参与其中。",
-          "keyProgress": "与 Stability 目前依赖的一系列公司进行内容许可和发行交易相比，这是一个不寻常的名单，也是一次不太典型的风险投资。Stability AI 首席执行官 Prem Akkaraju 于 2024 年加入该公司，他称这笔资金“是对我们愿景的肯定，即生成式人工智能为每个制作人、音乐家和故事讲述者赋能”。目前，Stability 提供了多种专为 AI 音乐、视频和图像生成而设计的 AI 模型。去年 10 月，它与环球音乐和 EA 建立了合作伙伴关系，去年 11 月又与华纳音乐建立了合作伙伴关系，双方都为这些公司提供了共同开发 Stability 人工智能工具的机会，而不仅仅是授权产品。",
-          "whyItMatters": "“图像生成器 Stable Diffusion 的制造商 Stability AI 筹集了 760”能帮助你判断这项能力是否已经进入工程、产品或商业场景，并据此调整技术选型、产品规划、学习重点或职业判断。",
-          "userRelevance": "如果你从事AI 产品、AI 技术、产品管理、技术研发，可以重点判断“图像生成器 Stable Diffusion 的制造商 Stability AI 筹集了 760”是否已经具备产品落地、技术选型或业务合作价值。",
-          "whatToWatch": "接下来要看“图像生成器 Stable Diffusion 的制造商 Stability AI 筹集了 760”是否有更多可靠来源、量产或应用进展，以及它会不会从单点消息发展成持续趋势。"
-        },
-        "sourceLinks": [
-          {
-            "title": "TechCrunch AI RSS",
-            "url": "https://techcrunch.com/2026/08/25/stability-ai-maker-of-image-generator-stable-diffusion-raises-76-million-in-fresh-funding/",
-            "sourceId": "techcrunch-ai-rss",
-            "publishedAt": "2026-08-25T19:03:47.000Z",
-            "language": "zh",
-            "originalLanguage": "en",
-            "translationStatus": "translated",
-            "fetchedAt": "2026-08-25T23:35:54.673Z",
-            "sourceMethod": "rss",
-            "verificationStatus": "pending"
-          }
-        ],
-        "images": [],
-        "generatedAt": "2026-08-25T23:35:48.393Z"
-      },
-      {
-        "id": "draft-real-techcrunch-ai-rss-1vvmm33",
-        "title": "克劳德·科沃克终于记住了你在聊天中告诉应用程序的内容",
-        "oneLine": "最新进展：克劳德·科沃克终于记住了你在聊天中告诉应用程序的内容。",
-        "importance": "B",
-        "credibility": "待确认",
-        "tags": [
-          "B",
-          "industry",
-          "ai",
-          "technology",
-          "product"
-        ],
-        "industries": [
-          "aiProduct",
-          "aiTechnology",
-          "productManagement",
-          "technologyEngineering",
-          "educationResearch"
-        ],
-        "section": "ai",
-        "body": {
-          "background": "然而，该公司表示，克劳德永远不会保存某些信息，例如政府颁发的身份证号码和社会安全号码、犯罪记录、移民身份或其他违反其可接受使用政策的信息。周二，Anthropic 宣布它将合并聊天和 Claude Cowork 使用的记忆系统，这意味着 Claude 将永远记住它在一个领域学到的东西，即使你在另一个领域参与其中。Anthropic 还公开了 Claude 保留在记忆中的内容，允许用户阅读、编辑或删除任何主题的信息。",
-          "keyProgress": "以前，您可能在与 Claude 聊天时逐渐形成了项目想法，但当真正实施更改时，您必须通过告诉 Cowork 所有细节来重新开始。此次更新将改善 Claude 用户的体验，让他们能够在研究阶段和采取行动之间更加无缝地切换。这一更新让 Claude 现在感觉自己就像一位连续的助手，而不是同一屋檐下的两个独立产品。Anthropic 提供了一个例子，某人需要为他们的经理起草更新或会议议程，而 Cowork 已经因为过去关于当前问题的对话而理解了这些参考资料。",
-          "whyItMatters": "“克劳德·科沃克终于记住了你在聊天中告诉应用程序的内容”能帮助你判断这项能力是否已经进入工程、产品或商业场景，并据此调整技术选型、产品规划、学习重点或职业判断。",
-          "userRelevance": "如果你从事AI 产品、AI 技术、产品管理、技术研发，可以重点判断“克劳德·科沃克终于记住了你在聊天中告诉应用程序的内容”是否已经具备产品落地、技术选型或业务合作价值。",
-          "whatToWatch": "接下来要看“克劳德·科沃克终于记住了你在聊天中告诉应用程序的内容”是否有更多可靠来源、量产或应用进展，以及它会不会从单点消息发展成持续趋势。"
-        },
-        "sourceLinks": [
-          {
-            "title": "TechCrunch AI RSS",
-            "url": "https://techcrunch.com/2026/08/25/claude-cowork-finally-remembers-what-you-told-the-app-in-chat/",
-            "sourceId": "techcrunch-ai-rss",
-            "publishedAt": "2026-08-25T17:50:33.000Z",
-            "language": "zh",
-            "originalLanguage": "en",
-            "translationStatus": "translated",
-            "fetchedAt": "2026-08-25T23:35:54.673Z",
-            "sourceMethod": "rss",
-            "verificationStatus": "pending"
-          }
-        ],
-        "images": [
-          {
-            "url": "https://techcrunch.com/wp-content/uploads/2026/08/Claude-improved-memory-list.png",
-            "sourceUrl": "https://techcrunch.com/2026/08/25/claude-cowork-finally-remembers-what-you-told-the-app-in-chat/"
-          },
-          {
-            "url": "https://techcrunch.com/wp-content/uploads/2026/08/Claude-improved-memory-hero-customize-off-1.png",
-            "sourceUrl": "https://techcrunch.com/2026/08/25/claude-cowork-finally-remembers-what-you-told-the-app-in-chat/"
-          }
-        ],
-        "generatedAt": "2026-08-25T23:35:48.393Z"
-      },
-      {
-        "id": "draft-cluster-real-techcrunch-ai-rss-1aqbcqh",
-        "title": "Gamma 收购 Accel 支持的设计初创公司 Lica",
-        "oneLine": "趋势信号：TechCrunch 独家获悉，演示初创公司 Gamma 已收购 Accel 支持的设计初创公司 Lica，以建立自己的设计研究实验室。",
-        "importance": "B",
-        "credibility": "待确认",
-        "tags": [
-          "B",
-          "industry",
-          "ai",
-          "technology",
-          "product"
-        ],
-        "industries": [
-          "aiProduct",
-          "aiTechnology",
-          "productManagement",
-          "technologyEngineering",
-          "educationResearch"
-        ],
-        "section": "ai",
-        "body": {
-          "background": "Lica 的 Mehta 表示，新的研究部门将致力于为不同受众和品味定制人工智能模型的呈现和沟通风格。Lica 的联合创始人将领导这项工作。Lica 最初是一款可以将屏幕截图和录音转换为项目演示和视频的应用程序。",
-          "keyProgress": "Kalyanaraman 表示，Lica 希望围绕视频和设计等通信方法构建人工智能模型，而且创始人与 Gamma 的首席执行官 Grant Lee 很熟悉，因为两家公司都得到了 Accel 和 South Park Commons 的支持。这些[问题]都要求我们深入思考沟通的核心责任。我们正在考虑建立一个平台，在这个平台上，这两个目标可以个性化到这样的程度，即您可以获得非常好的输出，然后您可以编辑该公司由 Priyaa Kalyanaraman 和 Purvanshi Mehta 于 2023 年创立，一年后从 Accel、South Park Commons 和 Village Global 等投资者那里筹集了 400 万美元。",
-          "whyItMatters": "“Gamma 收购 Accel 支持的设计初创公司 Lica”能帮助你判断这项能力是否已经进入工程、产品或商业场景，并据此调整技术选型、产品规划、学习重点或职业判断。",
-          "userRelevance": "如果你从事AI 产品、AI 技术、产品管理、技术研发，可以重点判断“Gamma 收购 Accel 支持的设计初创公司 Lica”是否已经具备产品落地、技术选型或业务合作价值。",
-          "whatToWatch": "接下来要看“Gamma 收购 Accel 支持的设计初创公司 Lica”是否有更多可靠来源、量产或应用进展，以及它会不会从单点消息发展成持续趋势。"
-        },
-        "sourceLinks": [
-          {
-            "title": "TechCrunch AI RSS",
-            "url": "https://techcrunch.com/2026/08/25/gamma-acquires-accel-backed-design-startup-lica/",
-            "sourceId": "techcrunch-ai-rss",
-            "publishedAt": "2026-08-25T15:00:00.000Z",
-            "language": "zh",
-            "originalLanguage": "en",
-            "translationStatus": "translated",
-            "fetchedAt": "2026-08-25T23:35:54.673Z",
-            "sourceMethod": "rss",
-            "verificationStatus": "pending"
-          },
-          {
-            "title": "TechCrunch AI RSS",
-            "url": "https://techcrunch.com/2026/08/25/accel-backed-keenable-is-indexing-the-web-for-ai-agents/",
-            "sourceId": "techcrunch-ai-rss",
-            "publishedAt": "2026-08-25T13:00:00.000Z",
-            "language": "zh",
-            "originalLanguage": "en",
-            "translationStatus": "translated",
-            "fetchedAt": "2026-08-25T23:35:54.673Z",
-            "sourceMethod": "rss",
-            "verificationStatus": "pending"
-          }
-        ],
-        "images": [],
-        "generatedAt": "2026-08-25T23:35:48.393Z"
-      },
-      {
         "id": "draft-real-cnbc-world-rss-5w9xhg",
         "title": "OpenAI 数据中心负责人 Chris Malone 离职，这是一系列高管退出中的最新一例",
         "oneLine": "最新进展：OpenAI 数据中心负责人 Chris Malone 离职，这是一系列高管退出中的最新一例。",
@@ -988,41 +1170,47 @@
         "generatedAt": "2026-08-25T23:35:48.393Z"
       }
     ],
-    "estimatedReadMinutes": 30,
+    "estimatedReadMinutes": 36,
     "pageCount": 3,
-    "topCardId": "draft-real-xinhua-world-wdi7k4",
-    "generatedAt": "2026-08-25T23:35:48.393Z",
+    "topCardId": "draft-real-cnbc-world-rss-x6vkom",
+    "generatedAt": "2026-08-26T04:21:54.642Z",
     "pushSlots": [
       "08:30",
       "12:30",
       "21:30"
     ],
-    "edition": "morning",
-    "editionLabel": "晨报",
+    "edition": "midday",
+    "editionLabel": "午间更新",
     "coverageWindow": {
-      "start": "2026-08-25T07:10:00+08:00",
-      "end": "2026-08-26T07:10:00+08:00"
+      "start": "2026-08-26T07:10:00+08:00",
+      "end": "2026-08-26T12:10:00+08:00"
     },
+    "basedOnGeneratedAt": "2026-08-25T23:35:48.393Z",
     "editionCardIds": [
-      "draft-real-xinhua-world-wdi7k4",
-      "draft-real-npr-world-rss-ks0eaz",
-      "draft-real-npr-world-rss-zcxkly",
-      "draft-cluster-real-sky-world-rss-4kzlj2",
-      "draft-real-cnbc-world-rss-18q1rjo",
+      "draft-real-techcrunch-ai-rss-6e0sye",
+      "draft-real-cnbc-world-rss-1wte1st",
+      "draft-real-cnbc-world-rss-154vl52",
+      "draft-real-cnbc-world-rss-bw0zme"
+    ],
+    "carriedCardIds": [
       "draft-real-cnbc-world-rss-x6vkom",
       "draft-real-cnbc-world-rss-avv3kr",
+      "draft-real-cnbc-world-rss-18q1rjo",
+      "draft-real-npr-world-rss-ks0eaz",
+      "draft-cluster-real-sky-world-rss-4kzlj2",
       "draft-real-npr-world-rss-71bb0t",
+      "draft-real-npr-world-rss-zcxkly",
+      "draft-real-xinhua-world-wdi7k4",
       "draft-real-mofcom-trade-70kl5o",
       "draft-real-gov-uk-news-1ihplfl",
       "draft-cluster-real-gov-uk-news-e8iapl",
-      "draft-cluster-real-openai-news-1ns995l",
-      "draft-real-xinhua-tech-1ye5zbf",
-      "draft-real-xinhua-tech-ecslpn",
       "draft-real-techcrunch-ai-rss-10qh9su",
       "draft-real-techcrunch-ai-rss-1vvmm33",
       "draft-cluster-real-techcrunch-ai-rss-1aqbcqh",
+      "draft-cluster-real-openai-news-1ns995l",
+      "draft-real-xinhua-tech-1ye5zbf",
+      "draft-real-xinhua-tech-ecslpn",
       "draft-real-cnbc-world-rss-5w9xhg"
-    ],
-    "carriedCardIds": []
+    ]
   }
 }

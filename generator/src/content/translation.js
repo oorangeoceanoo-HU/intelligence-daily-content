@@ -31,6 +31,23 @@ const apiKey = () => env("CONTENT_TRANSLATION_API_KEY");
 const myMemoryEndpoint = () => env("CONTENT_TRANSLATION_MYMEMORY_ENDPOINT") ??
     "https://api.mymemory.translated.net/get";
 const translationTimeoutMs = 20000;
+const translationRetryDelaysMs = [500, 1500];
+const delay = (milliseconds) => new Promise((resolve) => setTimeout(resolve, milliseconds));
+const withTranslationRetries = async (operation) => {
+    let lastError;
+    for (let attempt = 0; attempt <= translationRetryDelaysMs.length; attempt += 1) {
+        try {
+            return await operation();
+        }
+        catch (error) {
+            lastError = error;
+            if (attempt < translationRetryDelaysMs.length) {
+                await delay(translationRetryDelaysMs[attempt]);
+            }
+        }
+    }
+    throw lastError;
+};
 const fetchTextWithLegacyTls = async (url, init = {}) => new Promise((resolve, reject) => {
     const nodeRequire = typeof require === "function" ? require : undefined;
     if (!nodeRequire) {
@@ -115,7 +132,7 @@ const fetchJson = async (url, init) => {
         clearTimeout(timeoutId);
     }
 };
-const googleTranslate = async (text) => {
+const googleTranslate = async (text) => withTranslationRetries(async () => {
     const url = new URL(endpoint());
     url.searchParams.set("client", "gtx");
     url.searchParams.set("sl", "auto");
@@ -135,7 +152,7 @@ const googleTranslate = async (text) => {
         throw new Error("translation response was empty");
     }
     return translated;
-};
+});
 const openAiCompatibleTranslate = async (text) => {
     const key = apiKey();
     if (!key) {
@@ -220,7 +237,7 @@ const myMemoryTranslate = async (text) => {
     }
     return translated.join(" ").trim();
 };
-const googleTranslateViaPowerShell = async (text) => {
+const googleTranslateViaPowerShell = async (text) => withTranslationRetries(async () => {
     if (!nodeRequire || nodeRequire("node:process").platform !== "win32") {
         throw new Error("PowerShell translation adapter is only available on Windows");
     }
@@ -254,7 +271,7 @@ const googleTranslateViaPowerShell = async (text) => {
             resolve(translated);
         });
     });
-};
+});
 const translationCache = new Map();
 let cacheLoaded = false;
 let cacheDirty = false;
@@ -388,7 +405,9 @@ async function translateRawContentItems(items) {
         failures: []
     };
     const output = [];
-    const concurrency = 4;
+    // Avoid burst-limiting the free fallback while a stable translation API
+    // has not yet been configured for the scheduled job.
+    const concurrency = 2;
     for (let start = 0; start < items.length; start += concurrency) {
         const batch = items.slice(start, start + concurrency);
         const translatedBatch = await Promise.all(batch.map(async (item) => {

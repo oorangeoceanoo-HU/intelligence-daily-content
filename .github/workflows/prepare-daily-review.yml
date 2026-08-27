@@ -38,11 +38,12 @@ permissions:
 
 concurrency:
   group: prepare-daily-review
-  cancel-in-progress: false
+  cancel-in-progress: true
 
 jobs:
   prepare:
     runs-on: ubuntu-latest
+    timeout-minutes: 35
     steps:
       - name: Check out content repository
         uses: actions/checkout@v4
@@ -51,6 +52,22 @@ jobs:
         uses: actions/setup-node@v4
         with:
           node-version: 22
+
+      - name: Check translation configuration
+        env:
+          CONTENT_TRANSLATION_PROVIDER: ${{ vars.CONTENT_TRANSLATION_PROVIDER || 'google-free' }}
+          CONTENT_TRANSLATION_API_KEY: ${{ secrets.CONTENT_TRANSLATION_API_KEY }}
+        run: |
+          if [ "$CONTENT_TRANSLATION_PROVIDER" = "openai-compatible" ] && [ -z "$CONTENT_TRANSLATION_API_KEY" ]; then
+            echo "CONTENT_TRANSLATION_API_KEY is required for the configured stable translation provider." >&2
+            exit 1
+          fi
+          if [ "$CONTENT_TRANSLATION_PROVIDER" = "google-free" ]; then
+            echo "::warning::The scheduled job is using rate-limited free translation. Configure an OpenAI-compatible provider for stable unattended publishing."
+            echo "Translation mode: rate-limited fallback; publication remains protected by the quality gate." >> "$GITHUB_STEP_SUMMARY"
+          else
+            echo "Translation mode: $CONTENT_TRANSLATION_PROVIDER" >> "$GITHUB_STEP_SUMMARY"
+          fi
 
       - name: Restore translation cache
         uses: actions/cache@v4
@@ -268,3 +285,9 @@ jobs:
           path: tmp/personalized-${{ steps.issue-date.outputs.date }}-${{ steps.issue-edition.outputs.edition }}.json
           if-no-files-found: ignore
           retention-days: 14
+
+      - name: Mark blocked publication as failed
+        if: steps.quality-gate.outputs.status == 'blocked'
+        run: |
+          echo "The edition was not published because the quality gate found blocking issues." >&2
+          exit 1

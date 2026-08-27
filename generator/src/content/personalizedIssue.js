@@ -163,13 +163,17 @@ const resolveTargetCount = (ranked, minimumCards, comfortableMaxCards, absoluteM
     const exceptionalExtra = Math.max(0, Math.min(absoluteMaxCards - comfortableMaxCards, exceptionalCount - comfortableMaxCards));
     return Math.min(available, comfortableTarget + exceptionalExtra);
 };
-const layerTargetsFor = (targetCount) => {
+const layerTargetsFor = (targetCount, availableProfessionalCount, enforceContentMix) => {
     // The product promise is one public-news page plus two personalized
     // pages. Seven to eight cards keep the public page readable; the rest is
     // reserved for the user's selected professional directions.
-    const general = targetCount < 15
+    const desiredGeneral = targetCount < 15
         ? Math.min(targetCount, Math.max(1, Math.round(targetCount * 0.3)))
         : Math.min(8, Math.max(7, Math.round(targetCount * 0.3)));
+    const maxGeneralForMix = enforceContentMix
+        ? Math.max(0, Math.floor(availableProfessionalCount / 0.65) - availableProfessionalCount)
+        : desiredGeneral;
+    const general = Math.min(desiredGeneral, maxGeneralForMix, targetCount);
     return {
         general,
         shared: general,
@@ -289,8 +293,16 @@ function buildPersonalizedDailyIssue(params) {
     const comfortableMaxCards = params.comfortableMaxCards ?? 20;
     const absoluteMaxCards = params.absoluteMaxCards ?? 24;
     const ranked = rankPoolForProfile(params.pool, params.profile, preferences);
-    const targetCount = resolveTargetCount(ranked, minimumCards, comfortableMaxCards, absoluteMaxCards);
-    const layerTargets = layerTargetsFor(targetCount);
+    const initialTargetCount = resolveTargetCount(ranked, minimumCards, comfortableMaxCards, absoluteMaxCards);
+    const availableProfessionalCount = ranked.filter((item) => item.layerMatches.professional).length;
+    const enforceContentMix = minimumCards >= 15;
+    const mixCapacity = availableProfessionalCount
+        ? Math.floor(availableProfessionalCount / 0.65)
+        : 1;
+    const targetCount = enforceContentMix
+        ? Math.max(1, Math.min(initialTargetCount, mixCapacity))
+        : initialTargetCount;
+    const layerTargets = layerTargetsFor(targetCount, availableProfessionalCount, enforceContentMix);
     const selection = selectBalancedItems(ranked, targetCount, layerTargets);
     const generalCards = selection.selected.filter((item) => item.selectedLayer !== "professional");
     const industryCards = selection.selected.filter((item) => item.selectedLayer === "professional");
@@ -381,3 +393,4 @@ function buildPersonalizedDailyIssue(params) {
         }
     };
 }
+

@@ -186,7 +186,9 @@ async function main() {
         };
         return {
             databaseRow,
-            complete: (0, personalizedIssue_1.isCompletePersonalizedIssue)(result.issue)
+            complete: (0, personalizedIssue_1.isCompletePersonalizedIssue)(result.issue) &&
+                result.summary.meetsContentMix &&
+                result.summary.fallbackCardCount === 0
         };
     })
         .filter((entry) => entry.databaseRow.payload.issue.cards.length > 0);

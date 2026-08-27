@@ -14,6 +14,7 @@ const stableSources = [
     "france24-middle-east-rss",
     "france24-asia-pacific-rss",
     "moe-cn",
+    "mohrss-cn",
     "chrm-mohrss",
     "stats-cn-data",
     "mofcom-consumption"
@@ -27,6 +28,7 @@ const allSources = [
     "xinhua-world",
     "xinhua-tech",
     "moe-cn",
+    "mohrss-cn",
     "chrm-mohrss",
     "stats-cn-data",
     "mofcom-consumption",
@@ -48,6 +50,7 @@ const shortSourceNames = {
     "france24-middle-east-rss": "france24-middle-east",
     "france24-asia-pacific-rss": "france24-asia",
     "moe-cn": "moe",
+    "mohrss-cn": "mohrss",
     "chrm-mohrss": "chrm",
     "stats-cn-data": "stats",
     "mofcom-consumption": "mofcom",

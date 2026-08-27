@@ -334,19 +334,60 @@ const govUkProfile = (item) => {
         "健康",
         "安全"
     ]);
-    const workRelated = hasAny(text, [
+    const employmentRelated = hasAny(text, [
         "employment",
+        "employee",
         "worker",
-        "business",
-        "tax",
-        "visa",
-        "education",
+        "job",
+        "jobs",
+        "recruit",
+        "workforce",
+        "labour",
+        "labor",
+        "unemployment",
+        "wage",
+        "salary",
+        "pay",
+        "apprenticeship",
         "就业",
         "雇员",
+        "招聘",
+        "劳动力",
+        "失业",
+        "工资",
+        "薪资",
+        "就业保障"
+    ]);
+    const businessRelated = hasAny(text, [
+        "business",
+        "tax",
+        "trade",
+        "investment",
+        "economy",
+        "economic",
+        "industry",
         "企业",
         "税",
-        "签证",
-        "教育"
+        "贸易",
+        "投资",
+        "经济",
+        "产业"
+    ]);
+    const educationRelated = hasAny(text, [
+        "education",
+        "school",
+        "schools",
+        "university",
+        "universities",
+        "teacher",
+        "student",
+        "curriculum",
+        "教育",
+        "学校",
+        "高校",
+        "教师",
+        "学生",
+        "课程"
     ]);
     return {
         categories: unique([
@@ -354,12 +395,16 @@ const govUkProfile = (item) => {
             "policy",
             "local",
             ...(riskRelated ? ["publicSafety"] : []),
-            ...(workRelated ? ["hr", "finance"] : [])
+            ...(employmentRelated ? ["hr"] : []),
+            ...(businessRelated ? ["finance"] : []),
+            ...(educationRelated ? ["education"] : [])
         ]),
         industries: unique([
             "generalPublic",
             "localLife",
-            ...(workRelated ? ["hrRecruiting", "financeInvestment", "operationsGrowth"] : [])
+            ...(employmentRelated ? ["hrRecruiting"] : []),
+            ...(businessRelated ? ["financeInvestment", "operationsGrowth"] : []),
+            ...(educationRelated ? ["teacher", "educationResearch"] : [])
         ]),
         regions: ["英国"],
         locations,
@@ -520,7 +565,7 @@ const memProfile = (item) => {
     const severe = hasAny(text, ["一级应急响应", "二级应急响应", "重大", "特大", "死亡", "失联"]);
     return {
         categories: ["disaster", "publicSafety", "china", "local"],
-        industries: ["generalPublic", "localLife", "operationsGrowth"],
+        industries: ["generalPublic", "localLife"],
         regions: ["中国"],
         locations,
         impactScore: severe ? 88 : locations.length > 1 ? 80 : 72,
@@ -616,14 +661,57 @@ const xinhuaWorldProfile = (item) => {
         impactScore = 86;
         severityScore = 82;
     }
+    const businessTopic = hasAny(text, [
+        "trade",
+        "tariff",
+        "market",
+        "markets",
+        "economy",
+        "economic",
+        "inflation",
+        "interest rate",
+        "stock",
+        "shares",
+        "investment",
+        "company",
+        "companies",
+        "revenue",
+        "profit",
+        "industry",
+        "汽车",
+        "贸易",
+        "关税",
+        "市场",
+        "经济",
+        "通胀",
+        "利率",
+        "股票",
+        "投资",
+        "公司",
+        "营收",
+        "利润",
+        "行业"
+    ]);
+    if (businessTopic) {
+        categories.push("finance", "operations");
+    }
+    const creatorTopic = hasAny(text, ["短剧", "电影", "音乐", "文化产业", "创作", "媒体", "出版"]);
+    if (creatorTopic) {
+        categories.push("creator");
+    }
     return {
         categories: unique(categories),
-        industries: ["generalPublic", "financeInvestment", "operationsGrowth", "contentCreator"],
+        industries: unique([
+            "generalPublic",
+            ...(businessTopic ? ["financeInvestment", "operationsGrowth"] : []),
+            ...(hasAny(text, ["电商", "电子商务", "零售", "消费品牌"]) ? ["ecommerceRetail", "consumerBrand"] : []),
+            ...(creatorTopic ? ["contentCreator"] : [])
+        ]),
         regions: ["全球"],
         locations,
         impactScore,
         severityScore,
-        trendScore: 54,
+        trendScore: businessTopic ? 72 : 54,
         oneLine: "这是一条国际局势候选，需要优先说明最新变化、影响范围，以及它是否可能影响中国或用户判断。",
         body: {
             background: "新华网国际用于补充中文主流媒体对国际局势、外交、战争冲突、能源和重大公共事件的报道。",
@@ -705,14 +793,45 @@ const internationalRssProfile = (item) => {
     if (majorConflict || chinaImpact || businessSource) {
         categories.push("policy");
     }
-    if (businessSource || chinaImpact) {
+    const businessTopic = hasAny(text, [
+        "trade",
+        "tariff",
+        "market",
+        "markets",
+        "economy",
+        "economic",
+        "inflation",
+        "interest rate",
+        "stock",
+        "shares",
+        "investment",
+        "company",
+        "companies",
+        "revenue",
+        "profit",
+        "industry",
+        "汽车",
+        "贸易",
+        "关税",
+        "市场",
+        "经济",
+        "通胀",
+        "利率",
+        "股票",
+        "投资",
+        "公司",
+        "营收",
+        "利润",
+        "行业"
+    ]);
+    if (businessTopic) {
         categories.push("finance", "operations");
     }
     if (disaster) {
         categories.push("disaster", "publicSafety");
     }
     const industries = ["generalPublic"];
-    if (businessSource || chinaImpact) {
+    if (businessTopic) {
         industries.push("financeInvestment", "operationsGrowth", "ecommerceRetail");
     }
     if (disaster) {
@@ -725,7 +844,7 @@ const internationalRssProfile = (item) => {
         locations,
         impactScore: majorConflict ? 92 : chinaImpact ? 86 : disaster ? 84 : officialMultilateral ? 78 : 72,
         severityScore: majorConflict ? 82 : disaster ? 80 : chinaImpact ? 58 : 45,
-        trendScore: businessSource || chinaImpact ? 72 : 54,
+        trendScore: businessTopic ? 72 : 54,
         oneLine: "国际最新进展：这条英文来源需要完整整理为中文，并优先说明发生了什么变化、与中国的关系及后续风险。",
         body: {
             background: officialMultilateral
@@ -807,7 +926,7 @@ const xinhuaTechProfile = (item) => {
     const industries = ["technologyEngineering", "educationResearch"];
     if (aiRelated) {
         categories.push("ai", "product");
-        industries.push("aiProduct", "aiTechnology", "productManagement", "operationsGrowth");
+        industries.push("aiProduct", "aiTechnology", "productManagement");
     }
     return {
         categories,
@@ -833,7 +952,7 @@ const xinhuaTechProfile = (item) => {
 };
 const reliefWebProfile = (item) => ({
     categories: ["disaster", "publicSafety", "world"],
-    industries: ["generalPublic", "localLife", "operationsGrowth"],
+    industries: ["generalPublic", "localLife"],
     regions: ["全球"],
     locations: extractLocations(item),
     impactScore: 70,
@@ -871,7 +990,7 @@ const profileForRawItem = (item) => {
         }
         return {
             categories,
-            industries: ["localLife", "generalPublic", "operationsGrowth"],
+            industries: ["localLife", "generalPublic"],
             regions: ["中国"],
             locations: item.localCity ? [item.localCity] : [],
             impactScore: isPublicRisk ? 76 : 64,

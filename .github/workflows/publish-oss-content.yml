@@ -57,9 +57,25 @@ jobs:
         env:
           OSS_PUBLIC_BASE_URL: ${{ vars.ALIYUN_OSS_PUBLIC_BASE_URL || 'https://shixiaobao-content-cn-20260824.oss-cn-hangzhou.aliyuncs.com/public' }}
         run: |
-          curl --fail --silent --show-error --location \
+          HTTP_STATUS="$(curl --silent --show-error --location \
             "$OSS_PUBLIC_BASE_URL/latest.json?checked_at=$(date +%s)" \
-            --output /tmp/oss-current-latest.json
+            --output /tmp/oss-current-latest.json \
+            --write-out '%{http_code}' || true)"
+          if [ "$HTTP_STATUS" = "404" ]; then
+            echo "OSS latest.json does not exist yet; allowing the first upload."
+            echo "should_publish=true" >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
+          if [[ ! "$HTTP_STATUS" =~ ^2 ]]; then
+            echo "Unable to read the current OSS latest.json (HTTP $HTTP_STATUS); refusing to overwrite it." >&2
+            exit 1
+          fi
+          if [ -s /tmp/oss-current-latest.json ]; then
+            echo "Existing OSS latest.json found."
+          else
+            echo "OSS latest.json returned an empty response; refusing to overwrite it." >&2
+            exit 1
+          fi
           node <<'NODE'
           const fs = require('node:fs');
           const local = JSON.parse(fs.readFileSync('latest.json', 'utf8')).issue;
@@ -116,4 +132,21 @@ jobs:
               --output "$output"
             test -s "$output"
           done
+          cp /tmp/personalization-latest.json /tmp/oss-personalization-latest.json
           node -e "const fs=require('node:fs'); const issue=JSON.parse(fs.readFileSync('/tmp/latest.json')).issue; if (!issue?.date || !Array.isArray(issue.cards)) process.exit(1); console.log('OSS latest issue:', issue.date, issue.cards.length, 'cards');"
+          node <<'NODE'
+          const fs = require('node:fs');
+          const rank = { morning: 1, midday: 2, evening: 3 };
+          const local = JSON.parse(fs.readFileSync('latest.json')).issue;
+          const remote = JSON.parse(fs.readFileSync('/tmp/latest.json')).issue;
+          const localIsNewEnough = local.date > remote.date || (local.date === remote.date && (rank[local.edition] ?? 0) >= (rank[remote.edition] ?? 0));
+          if (!localIsNewEnough) {
+            throw new Error(`OSS latest is older than repository latest: ${remote.date} ${remote.edition} vs ${local.date} ${local.edition}`);
+          }
+          const localPersonalization = JSON.parse(fs.readFileSync('personalization/latest.json')).issue;
+          const remotePersonalization = JSON.parse(fs.readFileSync('/tmp/oss-personalization-latest.json')).issue;
+          if (localPersonalization.date !== remotePersonalization.date || localPersonalization.edition !== remotePersonalization.edition) {
+            throw new Error(`OSS personalization is stale: ${remotePersonalization.date} ${remotePersonalization.edition} vs ${localPersonalization.date} ${localPersonalization.edition}`);
+          }
+          console.log('OSS content matches the repository date and edition.');
+          NODE

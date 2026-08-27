@@ -36,6 +36,7 @@ const stableSources = [
     "techcrunch-ai-rss",
     "theverge-ai-rss",
     "moe-cn",
+    "mohrss-cn",
     "chrm-mohrss",
     "stats-cn-data",
     "mofcom-consumption"
@@ -64,6 +65,7 @@ const allSources = [
     "techcrunch-ai-rss",
     "theverge-ai-rss",
     "moe-cn",
+    "mohrss-cn",
     "chrm-mohrss",
     "stats-cn-data",
     "mofcom-consumption"
@@ -97,6 +99,7 @@ const shortSourceNames = {
     "techcrunch-ai-rss": "techcrunch-ai",
     "theverge-ai-rss": "theverge-ai",
     "moe-cn": "moe",
+    "mohrss-cn": "mohrss",
     "chrm-mohrss": "chrm",
     "stats-cn-data": "stats",
     "mofcom-consumption": "mofcom",

@@ -51,6 +51,7 @@ const baseLaneRules = [
             "arxiv-cs-api",
             "cas-science-news",
             "moe-cn",
+            "mohrss-cn",
             "chrm-mohrss",
             "stats-cn-data",
             "mohurd-construction"

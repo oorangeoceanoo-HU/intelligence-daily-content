@@ -18,6 +18,7 @@ const allSources = [
     "xinhua-world",
     "xinhua-tech",
     "moe-cn",
+    "mohrss-cn",
     "chrm-mohrss",
     "stats-cn-data",
     "mofcom-consumption"
@@ -33,6 +34,7 @@ const shortSourceNames = {
     "xinhua-world": "xinhua-world",
     "xinhua-tech": "xinhua-tech",
     "moe-cn": "moe",
+    "mohrss-cn": "mohrss",
     "chrm-mohrss": "chrm",
     "stats-cn-data": "stats",
     "mofcom-consumption": "mofcom",

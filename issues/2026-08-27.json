@@ -1,15 +1,15 @@
 {
   "schemaVersion": 2,
-  "publishedAt": "2026-08-27T04:10:00.000Z",
+  "publishedAt": "2026-08-27T14:43:00.636Z",
   "issue": {
     "id": "daily-public-2026-08-27",
     "date": "2026-08-27",
     "userId": "public",
     "cards": [
       {
-        "id": "draft-cluster-real-cnbc-world-rss-1uq2qnn",
-        "title": "伊朗表示，在与阿曼的谈判期间，美国阻碍了霍尔木兹协议的达成。",
-        "oneLine": "政策变化：伊朗伊斯兰革命卫队周三称，美国正在阻挠伊朗与阿曼就确保霍尔木兹海峡安全通行路线达成协议。",
+        "id": "draft-real-cnbc-world-rss-1ixe8wg",
+        "title": "报告称，美国考虑对半导体征收新一轮关税",
+        "oneLine": "政策变化：在这篇文章中，据报道，美国总统唐纳德·特朗普政府正在考虑对美国半导体征收新关税，因为科技巨头在人工智能基础设施建设中竞相击败中国。",
         "importance": "S",
         "credibility": "待确认",
         "tags": [
@@ -28,57 +28,122 @@
         ],
         "section": "front",
         "body": {
-          "background": "这家颇具影响力的军事团体向半官方塔斯尼姆通讯社表示，伊朗和阿曼已就这条重要经济动脉各自所占份额达成一致，其中争议性地包括了与该海峡管理相关的收入。革命卫队表示，如果美国不接受伊朗的条件，该海峡将保持关闭状态。美国总统唐纳德·特朗普在周三早间接受电台采访时坚称，该海峡已经开放。",
-          "keyProgress": "革命卫队的声明是在周二伊朗和阿曼发表联合声明之后作出的，声明称两国外长讨论了建立“霍尔木兹海峡联合临时航行通道”的“拟议框架”，并达成实施清除海峡水雷联合项目的协议。这些在近六个月战争期间公布的制裁尚未实施。“我们现在有很多船只通过海峡，我们也在接收它们。”特朗普告诉保守派电台主持人格伦·贝克，“偶尔会有无人机、火箭或其他东西被发射，但这是一个运作良好的海峡。",
-          "whyItMatters": "“霍尔木兹海峡局势”如果继续发展，可能通过能源价格、航运、贸易、汇率或市场预期传导到国内。了解它的意义在于判断后续风险，而不只停留在事件本身。",
-          "userRelevance": "即使你不在美国、伊朗、霍尔木兹海峡，“霍尔木兹海峡局势”也可能通过能源价格、国际航运、贸易成本和市场预期间接影响国内生活与工作判断。",
-          "whatToWatch": "接下来要看“霍尔木兹海峡局势”是否出现更细的城市、行业、平台或企业数据，以及这一变化能否连续保持。"
+          "background": "八名熟悉此事的人士在周四发布的一份报告中告诉Politico ，这些关税将适用于与芯片一起生产的更多技术产品，包括笔记本电脑、数据中心服务器和游戏硬件。根据该报告，这些措施仍处于早期阶段，并将在未来几个月内发生重大变化，将通过错开推出期推出。据报道，尽管受到美国严格的出口限制，中国公司仍能够获得英伟达的芯片。",
+          "keyProgress": "行业观察人士表示，通过海外云提供商访问高级计算是中国人工智能模型获得能力的关键因素。— CNBC的Kai Nicol-Schwarz为本报告做出了贡献。白宫没有立即回应CNBC的评论请求，但告诉Politico ： “撤回半导体制造业是特朗普总统的首要任务，他的政策已经在这一关键领域获得了数千亿美元的投资。“美国总统乔·拜登（ Joe Biden ）政府对中国半导体征收现有关税。",
+          "whyItMatters": "“报告称，美国考虑对半导体征收新一轮关税”如果继续发展，可能通过能源价格、航运、贸易、汇率或市场预期传导到国内。了解它的意义在于判断后续风险，而不只停留在事件本身。",
+          "userRelevance": "即使你不在中国、美国，“报告称，美国考虑对半导体征收新一轮关税”也可能通过能源价格、国际航运、贸易成本和市场预期间接影响国内生活与工作判断。",
+          "whatToWatch": "接下来要看“报告称，美国考虑对半导体征收新一轮关税”是否出现更细的城市、行业、平台或企业数据，以及这一变化能否连续保持。"
         },
         "sourceLinks": [
           {
             "title": "CNBC World News RSS",
-            "url": "https://www.cnbc.com/2026/08/26/us-iran-war-trump-hormuz.html",
+            "url": "https://www.cnbc.com/2026/08/27/trump-semiconductor-tech-tariffs.html",
             "sourceId": "cnbc-world-rss",
-            "publishedAt": "2026-08-26T17:54:01.000Z",
+            "publishedAt": "2026-08-27T11:29:19.000Z",
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-27T06:16:32.913Z",
+            "fetchedAt": "2026-08-27T14:43:04.245Z",
             "sourceMethod": "rss",
             "verificationStatus": "pending"
-          },
-          {
-            "title": "France 24 Middle East RSS",
-            "url": "https://www.france24.com/en/middle-east/20260826-navigation-jurisdiction-costs-iran-oman-attempt-to-hammer-out-hormuz-deal",
-            "sourceId": "france24-middle-east-rss",
-            "publishedAt": "2026-08-26T20:29:00.000Z",
-            "language": "zh",
-            "originalLanguage": "en",
-            "translationStatus": "translated",
-            "fetchedAt": "2026-08-27T06:16:32.656Z",
-            "sourceMethod": "rss",
-            "verificationStatus": "pending"
-          },
+          }
+        ],
+        "images": [],
+        "generatedAt": "2026-08-27T14:43:00.636Z"
+      },
+      {
+        "id": "draft-real-cnbc-world-rss-126k2i3",
+        "title": "卡塔尔总理前往伊朗“缓和紧张局势” ，因为油轮袭击测试了特朗普的霍尔木兹声称",
+        "oneLine": "政策变化：在这篇文章中，美国盟友卡塔尔总理将于周四在伊朗进行会谈，作为德黑兰和华盛顿之间“缓和紧张局势”的努力的一部分。",
+        "importance": "S",
+        "credibility": "待确认",
+        "tags": [
+          "S",
+          "mustKnow",
+          "world",
+          "policy"
+        ],
+        "industries": [
+          "generalPublic"
+        ],
+        "section": "front",
+        "body": {
+          "background": "“此前，英国海上贸易运营机构表示，周四早些时候，另一艘油轮在霍尔木兹海峡被一枚不明身份的抛射物击中，这是一系列零星袭击中的最新一次，这些袭击使船只远离重要的 能量走廊。” UKMTO表示，最近对霍尔木兹海峡一艘油轮的袭击是在阿曼海岸外发生的，并补充说，由此产生的火灾已被扑灭，所有船员都被报告安全，调查正在进行中。卡塔尔一直是交战国之间的后方渠道，宣布穆罕默德·本·阿卜杜勒拉赫曼·阿勒萨尼（ Mohammed bin Abdulrahman Al Thani ）将访问德黑兰， “讨论如何缓和紧张局势，创造有利于对话的条件。",
+          "keyProgress": "本周通过霍尔木兹的交通量呈下降趋势，仍远低于战前水平，尽管美国一直在寻求帮助护送海峡阿曼一侧的船只。本·阿卜杜勒拉赫曼·阿勒萨尼（ Bin Abdulrahman Al Thani ）的发言人在X上的一篇帖子中表示，卡塔尔总理将在访问期间“会见一些伊朗官员”。他说： “讨论还将涉及霍尔木兹海峡的航行自由以及2月28日之前恢复现状的必要性。上周，一艘通过水道的货船遭到袭击，造成一名船员死亡。",
+          "whyItMatters": "“霍尔木兹海峡局势”如果继续发展，可能通过能源价格、航运、贸易、汇率或市场预期传导到国内。了解它的意义在于判断后续风险，而不只停留在事件本身。",
+          "userRelevance": "即使你不在美国、伊朗，“霍尔木兹海峡局势”也可能通过能源价格、国际航运、贸易成本和市场预期间接影响国内生活与工作判断。",
+          "whatToWatch": "接下来要看霍尔木兹海峡实际通航量、油价和保险成本是否继续变化，以及美伊双方是否出现新的正式行动。"
+        },
+        "sourceLinks": [
           {
             "title": "CNBC World News RSS",
-            "url": "https://www.cnbc.com/2026/08/26/oil-falls-as-the-us-pivots-to-economic-pressure-on-iran-.html",
+            "url": "https://www.cnbc.com/2026/08/27/us-iran-war-trump-hormuz-attack-mine-.html",
             "sourceId": "cnbc-world-rss",
-            "publishedAt": "2026-08-26T19:48:49.000Z",
+            "publishedAt": "2026-08-27T08:22:29.000Z",
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-27T06:16:32.913Z",
+            "fetchedAt": "2026-08-27T14:43:04.245Z",
             "sourceMethod": "rss",
             "verificationStatus": "pending"
           }
         ],
         "images": [
           {
-            "url": "https://s.france24.com/media/display/3748a8b2-a186-11f1-a403-005056bfb2b6/w:1024/p:16x9/AP26225375678305.jpg",
-            "sourceUrl": "https://www.france24.com/en/middle-east/20260826-navigation-jurisdiction-costs-iran-oman-attempt-to-hammer-out-hormuz-deal"
+            "url": "https://image.cnbcfm.com/api/v1/image/108354697-17877676771787767675-48000666526-1080pnbcnews.jpg?v=1787767676&amp;w=750&amp;h=422&amp;vtcrop=y",
+            "sourceUrl": "https://www.cnbc.com/2026/08/27/us-iran-war-trump-hormuz-attack-mine-.html"
           }
         ],
-        "generatedAt": "2026-08-26T23:10:00.000Z"
+        "generatedAt": "2026-08-27T14:43:00.636Z"
+      },
+      {
+        "id": "draft-real-npr-world-rss-m2ff0x",
+        "title": "领导特朗普加沙停火努力的官方批评以色列的袭击",
+        "oneLine": "政策变化：联合国--周三，负责唐纳德·特朗普总统加沙停火计划的官员批评以色列袭击了这片饱受战争蹂躏的巴勒斯坦领土，并警告说，下一场战争将是美国提议的替代方案。",
+        "importance": "S",
+        "credibility": "主流媒体",
+        "tags": [
+          "S",
+          "mustKnow",
+          "world",
+          "policy"
+        ],
+        "industries": [
+          "generalPublic"
+        ],
+        "section": "front",
+        "body": {
+          "background": "它只会拖延可能发生的非军事化” ，并阻碍向文职政府转移。7日， 2023年，以色列南部发生袭击事件。姆拉德诺夫警告说，路线图与地面发生的事情之间存在距离，并表示如果战争再次爆发，将没有路线图可以返回，也不会有任何东西留在地面上进行重建。",
+          "keyProgress": "和平委员会高级代表尼古拉·姆拉德诺夫（ Nikolay Mladenov ）向联合国 安理会认为，特朗普的20点计划并没有停滞不前， “已经从谈判桌转移到工程桌。他说：“激进组织哈马斯已同意该提案的关键条款，即解除武装并将加沙交给平民统治。但他说，自去年10月停火以来，以色列的持续罢工仍在杀害巴勒斯坦人—尽管少得多-加沙人无法感觉到冲突正在结束。“经过三年的战争和20年的军事行动，我要问，对弹药库的另一次打击是否会阻止哈马斯重新武装或加强对加沙的控制？",
+          "whyItMatters": "“领导特朗普加沙停火努力的官方批评以色列的袭击”如果继续发展，可能通过能源价格、航运、贸易、汇率或市场预期传导到国内。了解它的意义在于判断后续风险，而不只停留在事件本身。",
+          "userRelevance": "即使你不在美国、以色列、加沙，“领导特朗普加沙停火努力的官方批评以色列的袭击”也可能通过能源价格、国际航运、贸易成本和市场预期间接影响国内生活与工作判断。",
+          "whatToWatch": "接下来要看“领导特朗普加沙停火努力的官方批评以色列的袭击”是否出现新的官方信息、后续行动，以及它与中国出行、贸易或公共判断的关联是否扩大。"
+        },
+        "sourceLinks": [
+          {
+            "title": "NPR World RSS",
+            "url": "https://www.npr.org/2026/08/27/g-s1-140400/israel-gaza-ceasefire",
+            "sourceId": "npr-world-rss",
+            "publishedAt": "2026-08-27T06:04:56.000Z",
+            "language": "zh",
+            "originalLanguage": "en",
+            "translationStatus": "translated",
+            "fetchedAt": "2026-08-27T14:43:02.525Z",
+            "sourceMethod": "rss",
+            "verificationStatus": "confirmed"
+          }
+        ],
+        "images": [
+          {
+            "url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8640x5760+0+0/resize/1100/quality/50/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Faf%2F9d%2F9b2fcf214d0fa0b690afa5854355%2Fap26238387762183.jpg",
+            "sourceUrl": "https://www.npr.org/2026/08/27/g-s1-140400/israel-gaza-ceasefire"
+          },
+          {
+            "url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2961x2961+1480+0/resize/100/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fc1%2F68%2F193b68e74e048932d77c41dfeff7%2Fap26208782971465.jpg",
+            "sourceUrl": "https://www.npr.org/2026/08/27/g-s1-140400/israel-gaza-ceasefire"
+          }
+        ],
+        "generatedAt": "2026-08-27T14:43:00.636Z"
       },
       {
         "id": "draft-real-npr-world-rss-1ym1qwc",
@@ -532,51 +597,6 @@
         "generatedAt": "2026-08-26T23:10:00.000Z"
       },
       {
-        "id": "draft-real-techcrunch-ai-rss-1qq54x2",
-        "title": "亚马逊因“需求激增”将其英伟达芯片订单量增至三倍",
-        "oneLine": "这条信息主要围绕亚马逊因“需求激增”将其英伟达芯片订单量增至三倍展开，核心影响需要结合适用范围和时间节点判断。",
-        "importance": "B",
-        "credibility": "待确认",
-        "tags": [
-          "B",
-          "industry",
-          "ai",
-          "technology",
-          "product"
-        ],
-        "industries": [
-          "aiProduct",
-          "aiTechnology",
-          "productManagement",
-          "technologyEngineering",
-          "educationResearch"
-        ],
-        "section": "ai",
-        "body": {
-          "background": "两家公司周三宣布扩大合作伙伴关系，其中包括一项向亚马逊数据中心增购200万块英伟达GPU芯片的协议。这些专为应对AI模型训练和运行的高算力需求而设计的GPU包括英伟达Blackwell Ultra、Rubin以及Rubin Ultra芯片。该公告是在英伟达季度财报电话会议上发布的，距离今年早些时候亚马逊同意在AWS基础设施上部署超过100万块英伟达GPU仅过去五个月。",
-          "keyProgress": "此次公告引人注目，不仅因为其规模庞大且增长迅速，还因为它超越了单纯的芯片采购。与此同时，亚马逊也在投资其自身可能构成竞争的AI芯片。英伟达周三表示，其技术——包括将数千个GPU连接成一个系统的网络硬件，以及其开放模型、CPU、数据处理软件和机器人平台——也将整合到AWS中。两家公司称，来自初创企业、大型企业、AI实验室甚至政府的“激增需求”促使双方决定更紧密地合作。",
-          "whyItMatters": "“亚马逊因需求激增将其英伟达芯片订单量增至三倍”能帮助你判断这项能力是否已经进入工程、产品或商业场景，并据此调整技术选型、产品规划、学习重点或职业判断。",
-          "userRelevance": "如果你从事AI 产品、AI 技术、产品管理、技术研发，可以重点判断“亚马逊因需求激增将其英伟达芯片订单量增至三倍”是否已经具备产品落地、技术选型或业务合作价值。",
-          "whatToWatch": "接下来要看“亚马逊因需求激增将其英伟达芯片订单量增至三倍”是否有更多可靠来源、量产或应用进展，以及它会不会从单点消息发展成持续趋势。"
-        },
-        "sourceLinks": [
-          {
-            "title": "TechCrunch AI RSS",
-            "url": "https://techcrunch.com/2026/08/26/amazon-just-tripled-its-order-of-nvidia-chips-over-surging-demand/",
-            "sourceId": "techcrunch-ai-rss",
-            "publishedAt": "2026-08-26T23:47:18.000Z",
-            "language": "zh",
-            "originalLanguage": "en",
-            "translationStatus": "translated",
-            "fetchedAt": "2026-08-27T14:07:05.156Z",
-            "sourceMethod": "rss",
-            "verificationStatus": "pending"
-          }
-        ],
-        "images": [],
-        "generatedAt": "2026-08-27T04:10:00.000Z"
-      },
-      {
         "id": "draft-real-cnbc-world-rss-1uik8on",
         "title": "中国短剧制作方大量投放低成本作品，交由观众决定哪些能脱颖而出",
         "oneLine": "最新进展：中国短剧制作方大量投放低成本作品，交由观众决定哪些能脱颖而出。",
@@ -765,6 +785,51 @@
           }
         ],
         "generatedAt": "2026-08-26T23:10:00.000Z"
+      },
+      {
+        "id": "draft-real-techcrunch-ai-rss-1qq54x2",
+        "title": "亚马逊因“需求激增”将其英伟达芯片订单量增至三倍",
+        "oneLine": "这条信息主要围绕亚马逊因“需求激增”将其英伟达芯片订单量增至三倍展开，核心影响需要结合适用范围和时间节点判断。",
+        "importance": "B",
+        "credibility": "待确认",
+        "tags": [
+          "B",
+          "industry",
+          "ai",
+          "technology",
+          "product"
+        ],
+        "industries": [
+          "aiProduct",
+          "aiTechnology",
+          "productManagement",
+          "technologyEngineering",
+          "educationResearch"
+        ],
+        "section": "ai",
+        "body": {
+          "background": "两家公司周三宣布扩大合作伙伴关系，其中包括一项向亚马逊数据中心增购200万块英伟达GPU芯片的协议。这些专为应对AI模型训练和运行的高算力需求而设计的GPU包括英伟达Blackwell Ultra、Rubin以及Rubin Ultra芯片。该公告是在英伟达季度财报电话会议上发布的，距离今年早些时候亚马逊同意在AWS基础设施上部署超过100万块英伟达GPU仅过去五个月。",
+          "keyProgress": "此次公告引人注目，不仅因为其规模庞大且增长迅速，还因为它超越了单纯的芯片采购。与此同时，亚马逊也在投资其自身可能构成竞争的AI芯片。英伟达周三表示，其技术——包括将数千个GPU连接成一个系统的网络硬件，以及其开放模型、CPU、数据处理软件和机器人平台——也将整合到AWS中。两家公司称，来自初创企业、大型企业、AI实验室甚至政府的“激增需求”促使双方决定更紧密地合作。",
+          "whyItMatters": "“亚马逊因需求激增将其英伟达芯片订单量增至三倍”能帮助你判断这项能力是否已经进入工程、产品或商业场景，并据此调整技术选型、产品规划、学习重点或职业判断。",
+          "userRelevance": "如果你从事AI 产品、AI 技术、产品管理、技术研发，可以重点判断“亚马逊因需求激增将其英伟达芯片订单量增至三倍”是否已经具备产品落地、技术选型或业务合作价值。",
+          "whatToWatch": "接下来要看“亚马逊因需求激增将其英伟达芯片订单量增至三倍”是否有更多可靠来源、量产或应用进展，以及它会不会从单点消息发展成持续趋势。"
+        },
+        "sourceLinks": [
+          {
+            "title": "TechCrunch AI RSS",
+            "url": "https://techcrunch.com/2026/08/26/amazon-just-tripled-its-order-of-nvidia-chips-over-surging-demand/",
+            "sourceId": "techcrunch-ai-rss",
+            "publishedAt": "2026-08-26T23:47:18.000Z",
+            "language": "zh",
+            "originalLanguage": "en",
+            "translationStatus": "translated",
+            "fetchedAt": "2026-08-27T14:07:05.156Z",
+            "sourceMethod": "rss",
+            "verificationStatus": "pending"
+          }
+        ],
+        "images": [],
+        "generatedAt": "2026-08-27T04:10:00.000Z"
       },
       {
         "id": "draft-cluster-real-techcrunch-ai-rss-137u499",
@@ -1110,27 +1175,28 @@
         "generatedAt": "2026-08-26T23:10:00.000Z"
       }
     ],
-    "estimatedReadMinutes": 33,
+    "estimatedReadMinutes": 36,
     "pageCount": 3,
-    "topCardId": "draft-cluster-real-cnbc-world-rss-1uq2qnn",
-    "generatedAt": "2026-08-27T04:10:00.000Z",
+    "topCardId": "draft-real-cnbc-world-rss-1ixe8wg",
+    "generatedAt": "2026-08-27T14:43:00.636Z",
     "pushSlots": [
       "08:30",
       "12:30",
       "21:30"
     ],
-    "edition": "midday",
-    "editionLabel": "午间更新",
+    "edition": "evening",
+    "editionLabel": "晚间更新",
     "coverageWindow": {
-      "start": "2026-08-27T07:10:00+08:00",
-      "end": "2026-08-27T12:10:00+08:00"
+      "start": "2026-08-27T12:10:00+08:00",
+      "end": "2026-08-27T21:10:00+08:00"
     },
-    "basedOnGeneratedAt": "2026-08-26T23:10:00.000Z",
+    "basedOnGeneratedAt": "2026-08-27T04:10:00.000Z",
     "editionCardIds": [
-      "draft-real-techcrunch-ai-rss-1qq54x2"
+      "draft-real-cnbc-world-rss-1ixe8wg",
+      "draft-real-npr-world-rss-m2ff0x",
+      "draft-real-cnbc-world-rss-126k2i3"
     ],
     "carriedCardIds": [
-      "draft-cluster-real-cnbc-world-rss-1uq2qnn",
       "draft-real-npr-world-rss-1ym1qwc",
       "draft-real-npr-world-rss-16qlal7",
       "draft-real-xinhua-world-8p49sg",
@@ -1144,6 +1210,7 @@
       "draft-real-xinhua-world-809as8",
       "draft-real-gov-uk-news-14bs64t",
       "draft-real-gov-uk-news-dly2um",
+      "draft-real-techcrunch-ai-rss-1qq54x2",
       "draft-cluster-real-techcrunch-ai-rss-137u499",
       "draft-real-deepmind-blog-10opvju",
       "draft-cluster-real-openai-news-s9r3dt",

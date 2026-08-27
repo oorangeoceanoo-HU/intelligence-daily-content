@@ -32,8 +32,7 @@ jobs:
           mkdir -p tmp
           node generator/scripts/publishPersonalizedIssues.js \
             --input personalization/latest.json \
-            --output tmp/personalized-refresh.json \
-            --skip-when-unconfigured
+            --output tmp/personalized-refresh.json
 
       - name: Show generation summary
         run: |
@@ -44,6 +43,9 @@ jobs:
           console.log(`- Configured profiles: ${report.configuredProfileCount}`);
           console.log(`- Published profiles: ${report.publishedProfileCount}`);
           console.log(`- Deferred profiles: ${report.deferredProfileCount}`);
+          if (report.configuredProfileCount === 0 || report.publishedProfileCount === 0) {
+            throw new Error('Personalized refresh did not publish an issue for any configured profile.');
+          }
           NODE
 
       - name: Save generation report

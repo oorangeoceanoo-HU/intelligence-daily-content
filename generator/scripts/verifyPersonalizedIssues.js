@@ -159,6 +159,8 @@ const concentratedPool = Array.from({ length: 30 }, (_, index) => {
         id: `candidate-diversity-${index}`,
         title: `Personalization diversity candidate ${index}`,
         oneLine: `Candidate ${index} verifies minimum issue sizing after source diversity limits.`,
+        categories: ["ai", "product", "technology"],
+        industries: ["aiProduct", "aiTechnology", "productManagement"],
         sourceIds: [sourceId],
         sourceLinks: [{
                 ...base.sourceLinks[0],

@@ -26,6 +26,25 @@ const specializedCategories = [
     "design",
     "lightTrend"
 ];
+const publicCategories = ["world", "china", "local", "policy", "disaster", "publicSafety"];
+const businessCategories = ["finance", "operations", "ecommerce", "consumer", "startup"];
+const focusedIndustryRequirements = [
+    {
+        industries: ["teacher", "educationResearch"],
+        categories: ["education"],
+        sourceIds: ["moe-cn", "cas-science-news", "arxiv-cs-api"]
+    },
+    {
+        industries: ["hrRecruiting"],
+        categories: ["hr"],
+        sourceIds: ["chrm-mohrss", "mohrss-cn"]
+    },
+    {
+        industries: ["communicationsResearch"],
+        categories: ["technology"],
+        sourceIds: ["arxiv-cs-api", "cas-science-news"]
+    }
+];
 const intersects = (left, right) => left.some((item) => right.includes(item));
 const unique = (items) => Array.from(new Set(items));
 const normalizeText = (value) => value.trim().toLocaleLowerCase();
@@ -90,12 +109,6 @@ const industryMatchesForProfile = (candidate, profile) => {
     return topics.filter((topic) => {
         const categories = (0, profileMapping_1.deriveTopicCategories)(topic)
             .filter((category) => specializedCategories.includes(category));
-        // "运营" and "金融" also appear on broad trade and macro-policy
-        // candidates. For a topic that has a stronger domain signal (AI,
-        // product, education, HR, etc.), require that stronger signal so a
-        // generic international story cannot masquerade as a professional
-        // recommendation.
-        const strongCategories = categories.filter((category) => !["operations", "finance"].includes(category));
         const industries = specificIndustries((0, profileMapping_1.deriveTopicIndustryTags)(topic));
         if (!categories.length && !industries.length) {
             return false;
@@ -107,14 +120,43 @@ const industryMatchesForProfile = (candidate, profile) => {
             candidate.body.whatToWatch
         ].filter(Boolean).join(" "));
         const normalizedTopic = normalizeText(topic).replace(/[\/\s]+/gu, "");
-        const candidateDomainSignal = intersects(candidate.categories, specializedCategories
-            .filter((category) => !["operations", "finance"].includes(category)));
-        const candidateFinanceOnlySignal = candidate.categories.includes("finance") &&
-            !intersects(candidate.categories, ["world", "china", "policy"]);
-        const industryTagMatch = intersects(specificIndustries(candidate.industries), industries);
-        return (intersects(candidate.categories, strongCategories.length ? strongCategories : categories) ||
-            ((candidateDomainSignal || candidateFinanceOnlySignal) && industryTagMatch) ||
-            (normalizedTopic.length >= 2 && haystack.replace(/\s+/gu, "").includes(normalizedTopic)));
+        const candidateCategories = candidate.categories ?? [];
+        const candidateIndustries = specificIndustries(candidate.industries ?? []);
+        const candidateSources = [
+            ...(candidate.sourceIds ?? []),
+            ...(candidate.sourceLinks ?? []).map((source) => source.sourceId).filter(Boolean)
+        ];
+        const candidateIsPublic = intersects(candidateCategories, publicCategories);
+        const topicNeedsSpecificSubject = intersects(categories, ["ai", "product"]);
+        // A generic "technology" tag is useful for an engineer, but it is too
+        // broad for an AI/product preference. AI/product profiles need the
+        // explicit AI or product signal instead of every technology article.
+        const categorySignals = categories.filter((category) =>
+            !(topicNeedsSpecificSubject && (category === "technology" || businessCategories.includes(category))));
+        const industrySignals = industries.filter((industry) =>
+            !(topicNeedsSpecificSubject && ["operationsGrowth", "financeInvestment", "ecommerceRetail", "consumerBrand", "startupBusiness"].includes(industry)));
+        const candidateSpecificCategories = candidateCategories.filter((category) =>
+            !publicCategories.includes(category) && !businessCategories.includes(category));
+        const businessEvidence = candidateIsPublic &&
+            intersects(candidateCategories, businessCategories) &&
+            /经济|贸易|经贸|关税|企业|公司|市场|消费|零售|电商|汽车|金融|投资|利润|行业|营收|价格|economy|economic|trade|tariff|market|company|companies|business|investment|profit|industry|revenue|stocks?/iu.test(haystack);
+        const candidateDomainEvidence = candidateSpecificCategories.length > 0 || businessEvidence;
+        const focusedRequirement = focusedIndustryRequirements.find((requirement) =>
+            intersects(industrySignals, requirement.industries));
+        const focusedEvidence = !focusedRequirement ||
+            intersects(candidateCategories, focusedRequirement.categories) ||
+            intersects(candidateSources, focusedRequirement.sourceIds);
+        const categoryMatch = intersects(candidateCategories, categorySignals) &&
+            (!candidateIsPublic || !intersects(categorySignals, businessCategories) || candidateDomainEvidence) &&
+            focusedEvidence;
+        const industryTagMatch = intersects(candidateIndustries, industrySignals) &&
+            (!candidateIsPublic || candidateDomainEvidence) &&
+            focusedEvidence;
+        const textMatch = normalizedTopic.length >= 2 &&
+            haystack.replace(/\s+/gu, "").includes(normalizedTopic) &&
+            (!candidateIsPublic || candidateDomainEvidence) &&
+            focusedEvidence;
+        return categoryMatch || industryTagMatch || textMatch;
     });
 };
 const layerMatchesFor = (candidate, rankedCandidate, profile) => {
@@ -147,12 +189,35 @@ const rankPoolForProfile = (pool, profile, preferences) => pool
         layerMatches,
         blockedByPreference: preference.blocked && !isProtectedSharedItem
     };
-})
+    })
     .filter((item) => !item.blockedByPreference)
     .sort((left, right) => {
     const importanceDifference = right.rankedCandidate.importanceScore.total - left.rankedCandidate.importanceScore.total;
-    return importanceDifference || right.adjustedScore - left.adjustedScore;
-});
+        return importanceDifference || right.adjustedScore - left.adjustedScore;
+    });
+const normalizedEventTitle = (value) => (value ?? "")
+    .toLocaleLowerCase()
+    .replace(/[^\p{L}\p{N}]+/gu, "")
+    .trim();
+const dedupeRankedEvents = (ranked) => {
+    const result = [];
+    const indexesByTitle = new Map();
+    ranked.forEach((item) => {
+        const key = normalizedEventTitle(item.candidate.title);
+        const existingIndex = indexesByTitle.get(key);
+        if (existingIndex === undefined || !key) {
+            indexesByTitle.set(key, result.length);
+            result.push(item);
+            return;
+        }
+        const existing = result[existingIndex];
+        if (item.adjustedScore > existing.adjustedScore ||
+            (item.adjustedScore === existing.adjustedScore && item.candidate.freshnessScore > existing.candidate.freshnessScore)) {
+            result[existingIndex] = item;
+        }
+    });
+    return result;
+};
 const resolveTargetCount = (ranked, minimumCards, comfortableMaxCards, absoluteMaxCards) => {
     const available = ranked.length;
     const strongCount = ranked.filter((item) => item.rankedCandidate.importanceScore.level === "S" ||
@@ -292,7 +357,7 @@ function buildPersonalizedDailyIssue(params) {
     const minimumCards = params.minimumCards ?? 20;
     const comfortableMaxCards = params.comfortableMaxCards ?? 20;
     const absoluteMaxCards = params.absoluteMaxCards ?? 24;
-    const ranked = rankPoolForProfile(params.pool, params.profile, preferences);
+    const ranked = dedupeRankedEvents(rankPoolForProfile(params.pool, params.profile, preferences));
     const initialTargetCount = resolveTargetCount(ranked, minimumCards, comfortableMaxCards, absoluteMaxCards);
     const availableProfessionalCount = ranked.filter((item) => item.layerMatches.professional).length;
     const enforceContentMix = minimumCards >= 15;
@@ -320,8 +385,11 @@ function buildPersonalizedDailyIssue(params) {
             absoluteMaxCards: Math.max(1, targetCount)
         },
         selectionLimits: {
-            maxCardsPerSource: 6,
-            maxCardsPerSection: 12,
+            // Specialized feeds can legitimately be concentrated in a small
+            // number of trusted sources. Keep a source cap for diversity, but
+            // do not let it prevent a complete AI, education, or HR issue.
+            maxCardsPerSource: 10,
+            maxCardsPerSection: 16,
             minimumFallbackMaxCardsPerSource: 8,
             minimumFallbackMaxCardsPerSection: 14
         },
@@ -368,6 +436,19 @@ function buildPersonalizedDailyIssue(params) {
     // what the user will actually read: at least roughly 65% industry cards,
     // with no more than eight general-news cards in the first page.
     const requiredIndustryCardCount = Math.ceil(merged.cards.length * 0.65);
+    const mixReasons = [];
+    if (mergedGeneralCardCount > layerTargets.general) {
+        mixReasons.push(`综合卡片超过上限（${mergedGeneralCardCount}/${layerTargets.general}）`);
+    }
+    if (mergedIndustryCardCount < requiredIndustryCardCount) {
+        mixReasons.push(`行业卡片不足（${mergedIndustryCardCount}/${requiredIndustryCardCount}）`);
+    }
+    if (mergedFallbackCardCount > 0) {
+        mixReasons.push(`含有${mergedFallbackCardCount}条无关回退内容`);
+    }
+    if (merged.cards.length < 15 || merged.pageCount !== 3) {
+        mixReasons.push(`日报未达到15条且三版的完整规格（${merged.cards.length}条/${merged.pageCount}版）`);
+    }
     publishedLayerCounts.general = mergedGeneralCardCount;
     publishedLayerCounts.industry = mergedIndustryCardCount;
     return {
@@ -387,9 +468,14 @@ function buildPersonalizedDailyIssue(params) {
             matchedCareerDirections: params.profile.careerDirections,
             matchedInterests: params.profile.interests,
             fallbackCardCount: mergedFallbackCardCount,
+            availableProfessionalCount,
+            mixCapacity,
+            mixReasons,
             meetsContentMix: mergedGeneralCardCount <= layerTargets.general &&
                 mergedIndustryCardCount >= requiredIndustryCardCount &&
-                mergedFallbackCardCount === 0
+                mergedFallbackCardCount === 0 &&
+                merged.cards.length >= 15 &&
+                merged.pageCount === 3
         }
     };
 }

@@ -185,7 +185,9 @@ async function main() {
             generated_at: generatedAt
         };
         return {
+            profile,
             databaseRow,
+            summary: result.summary,
             complete: (0, personalizedIssue_1.isCompletePersonalizedIssue)(result.issue) &&
                 result.summary.meetsContentMix &&
                 result.summary.fallbackCardCount === 0
@@ -198,6 +200,12 @@ async function main() {
     const deferredRows = personalizedRows
         .filter((entry) => !entry.complete)
         .map((entry) => entry.databaseRow);
+    personalizedRows.forEach((entry) => {
+        const summary = entry.summary;
+        const state = entry.complete ? "Generated" : "Deferred";
+        const reason = summary.mixReasons?.length ? `; ${summary.mixReasons.join(" / ")}` : "";
+        console.log(`${state} ${entry.databaseRow.user_id}: ${summary.selectedCardCount} cards; industry=${summary.industryCardCount}; general=${summary.generalCardCount}; fallback=${summary.fallbackCardCount}${reason}`);
+    });
     if (!options.dryRun && !options.profilesFile && generatedRows.length) {
         await supabaseRequest({
             baseUrl: normalizeSupabaseUrl(requireString(supabaseUrl, "SUPABASE_URL")),
@@ -224,12 +232,20 @@ async function main() {
             cardIds: row.payload.issue.cards.map((card) => card.id),
             profileKey: row.profile_key,
             layerCounts: row.personalization_summary.layerCounts,
-            fallbackCardCount: row.personalization_summary.fallbackCardCount
+            fallbackCardCount: row.personalization_summary.fallbackCardCount,
+            availableProfessionalCount: row.personalization_summary.availableProfessionalCount,
+            mixReasons: row.personalization_summary.mixReasons
         })),
         deferredIssues: deferredRows.map((row) => ({
             userId: row.user_id,
             cardCount: row.payload.issue.cards.length,
-            reason: "below-complete-issue-minimum"
+            profileKey: row.profile_key,
+            reason: row.personalization_summary.mixReasons?.join("；") || "below-complete-issue-minimum",
+            layerCounts: row.personalization_summary.layerCounts,
+            industryCardCount: row.personalization_summary.industryCardCount,
+            generalCardCount: row.personalization_summary.generalCardCount,
+            fallbackCardCount: row.personalization_summary.fallbackCardCount,
+            availableProfessionalCount: row.personalization_summary.availableProfessionalCount
         }))
     };
     await fs.mkdir(path.dirname(path.resolve(options.output)), { recursive: true });

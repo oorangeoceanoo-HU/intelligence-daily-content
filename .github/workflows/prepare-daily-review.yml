@@ -38,7 +38,10 @@ permissions:
 
 concurrency:
   group: prepare-daily-review
-  cancel-in-progress: true
+  # The +20 minute entries are retries for delayed or failed scheduled runs.
+  # Cancelling the primary run here can leave the day without a published issue
+  # when source fetching or translation takes longer than expected.
+  cancel-in-progress: false
 
 jobs:
   prepare:
@@ -274,8 +277,29 @@ jobs:
         run: |
           node generator/scripts/publishPersonalizedIssues.js \
             --input "tmp/review-$DATE-$EDITION.json" \
-            --output "tmp/personalized-$DATE-$EDITION.json" \
-            --skip-when-unconfigured
+            --output "tmp/personalized-$DATE-$EDITION.json"
+
+      - name: Enforce personalized publishing configuration
+        if: steps.quality-gate.outputs.status != 'blocked'
+        env:
+          DATE: ${{ steps.issue-date.outputs.date }}
+          EDITION: ${{ steps.issue-edition.outputs.edition }}
+        run: |
+          node - <<'NODE'
+          const fs = require('node:fs');
+          const path = `tmp/personalized-${process.env.DATE}-${process.env.EDITION}.json`;
+          const report = JSON.parse(fs.readFileSync(path, 'utf8'));
+          if (report.configuredProfileCount === 0) {
+            throw new Error('No configured user profiles were found; personalized publication is not complete.');
+          }
+          if (report.publishedProfileCount === 0) {
+            throw new Error(`No personalized issue was published for ${report.configuredProfileCount} configured profile(s).`);
+          }
+          console.log(`Personalized publication ready: ${report.publishedProfileCount}/${report.configuredProfileCount} profile(s).`);
+          if (report.deferredProfileCount > 0) {
+            console.warn(`${report.deferredProfileCount} profile(s) were deferred because the current source pool did not meet the quality mix.`);
+          }
+          NODE
 
       - name: Save personalized generation report
         if: steps.quality-gate.outputs.status != 'blocked'

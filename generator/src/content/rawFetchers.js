@@ -67,6 +67,7 @@ const sourceAliases = {
     moe: "moe-cn",
     hr: "chrm-mohrss",
     chrm: "chrm-mohrss",
+    mohrss: "mohrss-cn",
     stats: "stats-cn-data",
     nbs: "stats-cn-data",
     operations: "stats-cn-data",
@@ -107,6 +108,7 @@ const sourceAliases = {
     "openai-news": "openai-news",
     "deepmind-blog": "deepmind-blog",
     "moe-cn": "moe-cn",
+    "mohrss-cn": "mohrss-cn",
     "chrm-mohrss": "chrm-mohrss",
     "stats-cn-data": "stats-cn-data",
     "mofcom-consumption": "mofcom-consumption",
@@ -997,6 +999,32 @@ async function fetchChrmRawItems(limit) {
         fetchedAt
     }));
 }
+async function fetchMohrssRawItems(limit) {
+    const sourceId = "mohrss-cn";
+    const page = await fetchChinesePageCandidates(sourceId, sourceEndpointCandidates(sourceId));
+    const fetchedAt = new Date().toISOString();
+    const links = uniqueByUrl(htmlLinks(page.text, page.url))
+        .filter((link) => /mohrss\.gov\.cn/u.test(link.url))
+        .filter((link) => /就业|招聘|人才|人事|劳动|社保|养老|工资|职称|职业|失业|用工|毕业生|就业服务/.test(link.title))
+        .map((link) => ({
+        ...link,
+        publishedAt: dateFromMoeUrl(link.url) ?? dateFromSlashUrl(link.url) ?? dateFromChineseListText(link.title)
+    }))
+        .filter((link) => Boolean(link.publishedAt))
+        .slice(0, limit);
+    return links.map((link, index) => ({
+        id: makeId(sourceId, link.url, index),
+        sourceId,
+        title: link.title,
+        url: link.url,
+        publishedAt: link.publishedAt,
+        language: "zh",
+        summaryFromSource: "人力资源和社会保障部官方信息，用于就业、社保、人力资源、劳动政策和人才服务相关动态发现。",
+        rawText: link.title,
+        imageUrls: [],
+        fetchedAt
+    }));
+}
 async function fetchStatsDataRawItems(limit) {
     const sourceId = "stats-cn-data";
     const listUrl = sourceUrl(sourceId);
@@ -1177,6 +1205,7 @@ async function fetchRawContentSource(sourceId, limit) {
             "openai-news": (itemLimit) => fetchRssRawItems("openai-news", itemLimit),
             "deepmind-blog": (itemLimit) => fetchRssRawItems("deepmind-blog", itemLimit),
             "moe-cn": fetchMoeRawItems,
+            "mohrss-cn": fetchMohrssRawItems,
             "chrm-mohrss": fetchChrmRawItems,
             "stats-cn-data": fetchStatsDataRawItems,
             "mofcom-consumption": fetchMofcomConsumptionRawItems,

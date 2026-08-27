@@ -530,57 +530,7 @@
         "generatedAt": "2026-08-26T23:10:00.000Z"
       },
       {
-        "id": "draft-real-cnbc-world-rss-1dnlcsr",
-        "title": "中国经济放缓加剧，工业利润增速降至七个月来最低",
-        "oneLine": "政策变化：7月，中国工业利润增速放缓至年内最弱水平，同比增长11.2%，受需求疲软及经济整体放缓拖累。",
-        "importance": "B",
-        "credibility": "待确认",
-        "tags": [
-          "B",
-          "mustKnow",
-          "industry",
-          "world",
-          "policy",
-          "finance"
-        ],
-        "industries": [
-          "generalPublic",
-          "financeInvestment",
-          "operationsGrowth",
-          "ecommerceRetail"
-        ],
-        "section": "front",
-        "body": {
-          "background": "国家统计局周四发布的数据显示，今年前七个月，工业利润同比增长17.6%，较上半年的18.7%有所回落。据官方发布的数据，以计算机和存储芯片制造商为主导的集成电路行业，在1月至7月期间利润同比增长18.5%，占电子行业利润增量的80%以上。“增长减速主要受房地产和基础设施投资下滑拖累，钢铁和水泥行业利润恶化即为佐证。",
-          "keyProgress": "不过，工业企业盈利能力已出现显著转折，从去年几乎零增长转为今年的两位数增长。这一复苏在很大程度上得益于全球人工智能热潮推动了对计算机和电子设备制造的需求。光纤制造业利润增幅超过五倍，也提振了先进制造业的整体增长。截至7月底，原材料制造商利润同比增长55.2%。",
-          "whyItMatters": "“中国经济放缓加剧，工业利润增速降至七个月来最低”如果继续发展，可能通过能源价格、航运、贸易、汇率或市场预期传导到国内。了解它的意义在于判断后续风险，而不只停留在事件本身。",
-          "userRelevance": "即使你不在中国，“中国经济放缓加剧，工业利润增速降至七个月来最低”也可能通过能源价格、国际航运、贸易成本和市场预期间接影响国内生活与工作判断。",
-          "whatToWatch": "接下来要看“中国经济放缓加剧，工业利润增速降至七个月来最低”是否出现更细的城市、行业、平台或企业数据，以及这一变化能否连续保持。"
-        },
-        "sourceLinks": [
-          {
-            "title": "CNBC World News RSS",
-            "url": "https://www.cnbc.com/2026/08/27/china-industrial-profits-july-factory-production-.html",
-            "sourceId": "cnbc-world-rss",
-            "publishedAt": "2026-08-27T03:22:14.000Z",
-            "language": "zh",
-            "originalLanguage": "en",
-            "translationStatus": "translated",
-            "fetchedAt": "2026-08-27T13:47:04.851Z",
-            "sourceMethod": "rss",
-            "verificationStatus": "pending"
-          }
-        ],
-        "images": [
-          {
-            "url": "https://image.cnbcfm.com/api/v1/image/108353679-17876359391787635936-47970767216-1080pnbcnews.jpg?v=1787635938&amp;w=750&amp;h=422&amp;vtcrop=y",
-            "sourceUrl": "https://www.cnbc.com/2026/08/27/china-industrial-profits-july-factory-production-.html"
-          }
-        ],
-        "generatedAt": "2026-08-27T04:10:00.000Z"
-      },
-      {
-        "id": "draft-real-techcrunch-ai-rss-1r04qm1",
+        "id": "draft-real-techcrunch-ai-rss-1qq54x2",
         "title": "亚马逊因“需求激增”将其英伟达芯片订单量增至三倍",
         "oneLine": "这条信息主要围绕亚马逊因“需求激增”将其英伟达芯片订单量增至三倍展开，核心影响需要结合适用范围和时间节点判断。",
         "importance": "B",
@@ -616,7 +566,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-27T13:47:06.614Z",
+            "fetchedAt": "2026-08-27T14:07:05.156Z",
             "sourceMethod": "rss",
             "verificationStatus": "pending"
           }
@@ -1158,7 +1108,7 @@
         "generatedAt": "2026-08-26T23:10:00.000Z"
       }
     ],
-    "estimatedReadMinutes": 34,
+    "estimatedReadMinutes": 33,
     "pageCount": 3,
     "topCardId": "draft-cluster-real-cnbc-world-rss-1uq2qnn",
     "generatedAt": "2026-08-27T04:10:00.000Z",
@@ -1175,8 +1125,7 @@
     },
     "basedOnGeneratedAt": "2026-08-26T23:10:00.000Z",
     "editionCardIds": [
-      "draft-real-cnbc-world-rss-1dnlcsr",
-      "draft-real-techcrunch-ai-rss-1r04qm1"
+      "draft-real-techcrunch-ai-rss-1qq54x2"
     ],
     "carriedCardIds": [
       "draft-cluster-real-cnbc-world-rss-1uq2qnn",
@@ -1210,11 +1159,11 @@
       "ready": true,
       "sourceAvailabilityReady": true,
       "currentCoverageReady": true,
-      "generatedAt": "2026-08-27T13:49:28.632Z",
+      "generatedAt": "2026-08-27T14:09:24.463Z",
       "totalSources": 33,
-      "successfulSources": 30,
-      "sourcesWithItems": 24,
-      "totalItems": 356,
+      "successfulSources": 32,
+      "sourcesWithItems": 26,
+      "totalItems": 382,
       "lanes": [
         {
           "id": "global",
@@ -1239,10 +1188,9 @@
           "currentReady": true,
           "currentSourceIds": [
             "xinhua-world",
-            "france24-asia-pacific-rss",
-            "cnbc-world-rss"
+            "france24-asia-pacific-rss"
           ],
-          "currentItemCount": 7,
+          "currentItemCount": 6,
           "note": "至少两个国际来源有内容，避免把单一媒体首页当成全球事件全集。"
         },
         {
@@ -1270,10 +1218,9 @@
             "mfa-cn-news",
             "mofcom-trade",
             "xinhua-world",
-            "france24-asia-pacific-rss",
-            "cnbc-world-rss"
+            "france24-asia-pacific-rss"
           ],
-          "currentItemCount": 10,
+          "currentItemCount": 9,
           "note": "同时观察中国官方入口和国际商业新闻，覆盖关税、外贸、能源、航运与外交影响。"
         },
         {
@@ -1284,12 +1231,11 @@
           "minimumSuccessfulSources": 2,
           "successfulSourceIds": [
             "mem-cn",
+            "gdacs-feed",
             "un-news-rss",
             "xinhua-world"
           ],
-          "failedSourceIds": [
-            "gdacs-feed"
-          ],
+          "failedSourceIds": [],
           "emptySourceIds": [],
           "currentWindowChecked": true,
           "minimumCurrentSources": 1,
@@ -1297,9 +1243,10 @@
           "currentReady": true,
           "currentSourceIds": [
             "mem-cn",
+            "gdacs-feed",
             "xinhua-world"
           ],
-          "currentItemCount": 8,
+          "currentItemCount": 11,
           "note": "国内应急来源与全球灾害来源至少各保持可用的交叉覆盖。"
         },
         {
@@ -1317,10 +1264,10 @@
             "arxiv-cs-api",
             "cas-science-news",
             "moe-cn",
+            "chrm-mohrss",
             "stats-cn-data"
           ],
           "failedSourceIds": [
-            "chrm-mohrss",
             "mohurd-construction"
           ],
           "emptySourceIds": [],
@@ -1422,44 +1369,44 @@
       "stats",
       "mofcom"
     ],
-    "fetchedRawItemCount": 356,
-    "rawItemCount": 24,
-    "rawCandidateCount": 23,
-    "dedupedCandidateCount": 21,
-    "recentCandidateCount": 21,
-    "freshCandidateCount": 21,
+    "fetchedRawItemCount": 382,
+    "rawItemCount": 26,
+    "rawCandidateCount": 25,
+    "dedupedCandidateCount": 22,
+    "recentCandidateCount": 22,
+    "freshCandidateCount": 22,
     "translation": {
-      "requested": 7,
-      "translated": 7,
+      "requested": 9,
+      "translated": 9,
       "failed": 0,
       "skipped": 17,
       "provider": "openai-compatible",
       "failures": []
     },
-    "selectedCandidateCount": 20,
-    "publishableCardCount": 7,
+    "selectedCandidateCount": 19,
+    "publishableCardCount": 5,
     "personalizationPoolCardCount": 7,
     "reviewableCardCount": 6,
-    "rejectedCardCount": 7,
+    "rejectedCardCount": 8,
     "skippedPublishableCardCount": 0,
     "stats": {
-      "inputCardCount": 7,
-      "selectedCardCount": 7,
+      "inputCardCount": 5,
+      "selectedCardCount": 5,
       "skippedCardCount": 0,
       "sizing": {
         "minimumCards": 15,
         "comfortableMaxCards": 20,
         "absoluteMaxCards": 24,
-        "minimumBandCount": 7,
+        "minimumBandCount": 5,
         "standardBandCount": 0,
         "exceptionalBandCount": 0
       },
       "sectionCounts": {
-        "front": 2,
+        "front": 1,
         "world": 0,
         "china": 0,
         "local": 0,
-        "industry": 3,
+        "industry": 2,
         "ai": 1,
         "product": 0,
         "risk": 1,
@@ -1469,7 +1416,7 @@
       "importanceCounts": {
         "S": 1,
         "A": 2,
-        "B": 4,
+        "B": 2,
         "C": 0
       }
     },
@@ -1479,8 +1426,8 @@
       "basePath": "pending/2026-08-27-morning.json",
       "baseSource": "pending",
       "basedOnGeneratedAt": "2026-08-26T23:10:00.000Z",
-      "incrementalCardCount": 7,
-      "addedCardCount": 2,
+      "incrementalCardCount": 5,
+      "addedCardCount": 1,
       "carriedCardCount": 20,
       "replacedCardCount": 0
     },
@@ -1493,7 +1440,7 @@
         "method": "api",
         "endpointUrl": "https://export.arxiv.org/api/query",
         "attempts": 1,
-        "durationMs": 432,
+        "durationMs": 363,
         "fallbackUsed": false,
         "rawItemCount": 18,
         "datedItemCount": 18,
@@ -1510,7 +1457,7 @@
         "method": "web",
         "endpointUrl": "https://www.cas.cn/syky/",
         "attempts": 1,
-        "durationMs": 1546,
+        "durationMs": 3283,
         "fallbackUsed": false,
         "rawItemCount": 18,
         "datedItemCount": 18,
@@ -1527,7 +1474,7 @@
         "method": "web",
         "endpointUrl": "https://www.mohurd.gov.cn/xinwen/gzdt/index.html",
         "attempts": 3,
-        "durationMs": 137047,
+        "durationMs": 135006,
         "fallbackUsed": false,
         "rawItemCount": 0,
         "datedItemCount": 0,
@@ -1538,18 +1485,19 @@
       {
         "sourceId": "gdacs-feed",
         "sourceName": "GDACS 灾害 Feed",
-        "ok": false,
-        "status": "failed",
+        "ok": true,
+        "status": "healthy",
         "method": "rss",
         "endpointUrl": "https://www.gdacs.org/xml/rss.xml",
-        "attempts": 3,
-        "durationMs": 50226,
+        "attempts": 1,
+        "durationMs": 3751,
         "fallbackUsed": false,
-        "rawItemCount": 0,
-        "datedItemCount": 0,
-        "inEditionItemCount": 0,
-        "verificationStatus": "confirmed",
-        "error": "Request timed out"
+        "rawItemCount": 18,
+        "datedItemCount": 18,
+        "inEditionItemCount": 3,
+        "newestPublishedAt": "2026-08-27T11:02:45.000Z",
+        "oldestPublishedAt": "2026-08-24T10:23:39.000Z",
+        "verificationStatus": "confirmed"
       },
       {
         "sourceId": "gov-cn-policy-library",
@@ -1559,7 +1507,7 @@
         "method": "web",
         "endpointUrl": "https://www.gov.cn/zhengce/zuixin/",
         "attempts": 1,
-        "durationMs": 1683,
+        "durationMs": 1484,
         "fallbackUsed": false,
         "rawItemCount": 18,
         "datedItemCount": 18,
@@ -1576,7 +1524,7 @@
         "method": "web",
         "endpointUrl": "https://www.mem.gov.cn/xw/yjglbgzdt/",
         "attempts": 1,
-        "durationMs": 638,
+        "durationMs": 534,
         "fallbackUsed": false,
         "rawItemCount": 18,
         "datedItemCount": 18,
@@ -1593,7 +1541,7 @@
         "method": "web",
         "endpointUrl": "https://www.cac.gov.cn/index.htm",
         "attempts": 1,
-        "durationMs": 1988,
+        "durationMs": 1212,
         "fallbackUsed": false,
         "rawItemCount": 2,
         "datedItemCount": 2,
@@ -1610,7 +1558,7 @@
         "method": "web",
         "endpointUrl": "https://www.news.cn/world/index.html",
         "attempts": 1,
-        "durationMs": 1508,
+        "durationMs": 1118,
         "fallbackUsed": false,
         "rawItemCount": 18,
         "datedItemCount": 18,
@@ -1627,7 +1575,7 @@
         "method": "web",
         "endpointUrl": "https://www.news.cn/tech/index.html",
         "attempts": 1,
-        "durationMs": 451,
+        "durationMs": 971,
         "fallbackUsed": false,
         "rawItemCount": 15,
         "datedItemCount": 15,
@@ -1644,13 +1592,13 @@
         "method": "rss",
         "endpointUrl": "https://www.gov.uk/search/news-and-communications.atom?order=updated-newest",
         "attempts": 1,
-        "durationMs": 1383,
+        "durationMs": 291,
         "fallbackUsed": false,
         "rawItemCount": 18,
         "datedItemCount": 18,
         "inEditionItemCount": 0,
-        "newestPublishedAt": "2026-08-27T13:20:05.000Z",
-        "oldestPublishedAt": "2026-08-26T17:34:00.000Z",
+        "newestPublishedAt": "2026-08-27T13:48:36.000Z",
+        "oldestPublishedAt": "2026-08-26T21:13:21.000Z",
         "verificationStatus": "confirmed"
       },
       {
@@ -1661,7 +1609,7 @@
         "method": "rss",
         "endpointUrl": "https://feeds.npr.org/1004/rss.xml",
         "attempts": 1,
-        "durationMs": 709,
+        "durationMs": 232,
         "fallbackUsed": false,
         "rawItemCount": 10,
         "datedItemCount": 10,
@@ -1678,7 +1626,7 @@
         "method": "rss",
         "endpointUrl": "https://feeds.skynews.com/feeds/rss/world.xml",
         "attempts": 1,
-        "durationMs": 209,
+        "durationMs": 647,
         "fallbackUsed": false,
         "rawItemCount": 8,
         "datedItemCount": 8,
@@ -1695,7 +1643,7 @@
         "method": "rss",
         "endpointUrl": "https://www.france24.com/en/middle-east/rss",
         "attempts": 1,
-        "durationMs": 122,
+        "durationMs": 1320,
         "fallbackUsed": false,
         "rawItemCount": 18,
         "datedItemCount": 18,
@@ -1712,13 +1660,13 @@
         "method": "rss",
         "endpointUrl": "https://www.france24.com/en/asia-pacific/rss",
         "attempts": 1,
-        "durationMs": 39,
+        "durationMs": 871,
         "fallbackUsed": false,
         "rawItemCount": 18,
         "datedItemCount": 18,
         "inEditionItemCount": 3,
-        "newestPublishedAt": "2026-08-27T11:33:52.000Z",
-        "oldestPublishedAt": "2026-08-21T06:17:10.000Z",
+        "newestPublishedAt": "2026-08-27T13:57:23.000Z",
+        "oldestPublishedAt": "2026-08-21T11:27:54.000Z",
         "verificationStatus": "pending"
       },
       {
@@ -1729,12 +1677,12 @@
         "method": "rss",
         "endpointUrl": "https://www.cnbc.com/id/100727362/device/rss/rss.html",
         "attempts": 1,
-        "durationMs": 112,
+        "durationMs": 57,
         "fallbackUsed": false,
         "rawItemCount": 18,
         "datedItemCount": 18,
-        "inEditionItemCount": 1,
-        "newestPublishedAt": "2026-08-27T13:45:57.000Z",
+        "inEditionItemCount": 0,
+        "newestPublishedAt": "2026-08-27T14:06:03.000Z",
         "oldestPublishedAt": "2026-08-26T13:35:18.000Z",
         "verificationStatus": "pending"
       },
@@ -1746,7 +1694,7 @@
         "method": "rss",
         "endpointUrl": "https://news.un.org/feed/subscribe/en/news/all/rss.xml",
         "attempts": 1,
-        "durationMs": 96,
+        "durationMs": 153,
         "fallbackUsed": false,
         "rawItemCount": 18,
         "datedItemCount": 18,
@@ -1763,7 +1711,7 @@
         "method": "web",
         "endpointUrl": "https://www.mfa.gov.cn/wjdt_674879/fyrbt_674889/",
         "attempts": 1,
-        "durationMs": 1043,
+        "durationMs": 879,
         "fallbackUsed": false,
         "rawItemCount": 18,
         "datedItemCount": 18,
@@ -1780,7 +1728,7 @@
         "method": "web",
         "endpointUrl": "https://www.mofcom.gov.cn/xwfb/",
         "attempts": 1,
-        "durationMs": 1574,
+        "durationMs": 2530,
         "fallbackUsed": false,
         "rawItemCount": 15,
         "datedItemCount": 15,
@@ -1797,7 +1745,7 @@
         "method": "rss",
         "endpointUrl": "https://openai.com/news/rss.xml",
         "attempts": 1,
-        "durationMs": 302,
+        "durationMs": 1599,
         "fallbackUsed": false,
         "rawItemCount": 18,
         "datedItemCount": 18,
@@ -1814,7 +1762,7 @@
         "method": "rss",
         "endpointUrl": "https://deepmind.google/blog/rss.xml",
         "attempts": 1,
-        "durationMs": 576,
+        "durationMs": 1709,
         "fallbackUsed": false,
         "rawItemCount": 18,
         "datedItemCount": 18,
@@ -1831,13 +1779,13 @@
         "method": "rss",
         "endpointUrl": "https://techcrunch.com/category/artificial-intelligence/feed/",
         "attempts": 1,
-        "durationMs": 75,
+        "durationMs": 206,
         "fallbackUsed": false,
         "rawItemCount": 18,
         "datedItemCount": 18,
         "inEditionItemCount": 2,
-        "newestPublishedAt": "2026-08-27T13:00:00.000Z",
-        "oldestPublishedAt": "2026-08-26T11:00:00.000Z",
+        "newestPublishedAt": "2026-08-27T14:01:42.000Z",
+        "oldestPublishedAt": "2026-08-26T12:00:00.000Z",
         "verificationStatus": "pending"
       },
       {
@@ -1848,13 +1796,13 @@
         "method": "rss",
         "endpointUrl": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
         "attempts": 1,
-        "durationMs": 144,
+        "durationMs": 119,
         "fallbackUsed": false,
         "rawItemCount": 10,
         "datedItemCount": 10,
         "inEditionItemCount": 0,
-        "newestPublishedAt": "2026-08-27T13:11:23.000Z",
-        "oldestPublishedAt": "2026-08-21T13:37:52.000Z",
+        "newestPublishedAt": "2026-08-27T14:00:00.000Z",
+        "oldestPublishedAt": "2026-08-25T09:15:03.000Z",
         "verificationStatus": "pending"
       },
       {
@@ -1865,7 +1813,7 @@
         "method": "web",
         "endpointUrl": "https://www.moe.gov.cn/",
         "attempts": 1,
-        "durationMs": 5445,
+        "durationMs": 2869,
         "fallbackUsed": false,
         "rawItemCount": 12,
         "datedItemCount": 12,
@@ -1877,18 +1825,19 @@
       {
         "sourceId": "chrm-mohrss",
         "sourceName": "中国人力资源市场网",
-        "ok": false,
-        "status": "failed",
+        "ok": true,
+        "status": "healthy",
         "method": "web",
         "endpointUrl": "https://chrm.mohrss.gov.cn/announcement/",
-        "attempts": 3,
-        "durationMs": 13544,
+        "attempts": 1,
+        "durationMs": 7096,
         "fallbackUsed": false,
-        "rawItemCount": 0,
-        "datedItemCount": 0,
+        "rawItemCount": 8,
+        "datedItemCount": 8,
         "inEditionItemCount": 0,
-        "verificationStatus": "confirmed",
-        "error": "TypeError: fetch failed; legacy TLS fallback: AggregateError: request failed without a message"
+        "newestPublishedAt": "2026-08-20T16:00:00.000Z",
+        "oldestPublishedAt": "2026-07-16T16:00:00.000Z",
+        "verificationStatus": "confirmed"
       },
       {
         "sourceId": "stats-cn-data",
@@ -1898,7 +1847,7 @@
         "method": "web",
         "endpointUrl": "https://www.stats.gov.cn/sj/zxfb/",
         "attempts": 1,
-        "durationMs": 12119,
+        "durationMs": 8867,
         "fallbackUsed": false,
         "rawItemCount": 13,
         "datedItemCount": 13,
@@ -1915,7 +1864,7 @@
         "method": "web",
         "endpointUrl": "https://scyxs.mofcom.gov.cn/",
         "attempts": 1,
-        "durationMs": 3551,
+        "durationMs": 9802,
         "fallbackUsed": false,
         "rawItemCount": 18,
         "datedItemCount": 18,
@@ -1932,7 +1881,7 @@
         "method": "web",
         "endpointUrl": "city-source:中国/直辖市/上海",
         "attempts": 1,
-        "durationMs": 3444,
+        "durationMs": 3851,
         "fallbackUsed": false,
         "rawItemCount": 1,
         "datedItemCount": 1,
@@ -1950,7 +1899,7 @@
         "method": "web",
         "endpointUrl": "city-source:中国/浙江/杭州",
         "attempts": 1,
-        "durationMs": 10729,
+        "durationMs": 10608,
         "fallbackUsed": false,
         "rawItemCount": 0,
         "datedItemCount": 0,
@@ -1966,7 +1915,7 @@
         "method": "web",
         "endpointUrl": "city-source:中国/吉林/长春",
         "attempts": 1,
-        "durationMs": 1352,
+        "durationMs": 2346,
         "fallbackUsed": false,
         "rawItemCount": 0,
         "datedItemCount": 0,
@@ -1982,7 +1931,7 @@
         "method": "web",
         "endpointUrl": "city-source:中国/广东/深圳",
         "attempts": 1,
-        "durationMs": 1764,
+        "durationMs": 2716,
         "fallbackUsed": false,
         "rawItemCount": 0,
         "datedItemCount": 0,
@@ -1998,7 +1947,7 @@
         "method": "web",
         "endpointUrl": "city-source:英国/英国/伦敦",
         "attempts": 1,
-        "durationMs": 1373,
+        "durationMs": 2400,
         "fallbackUsed": false,
         "rawItemCount": 0,
         "datedItemCount": 0,
@@ -2014,7 +1963,7 @@
         "method": "web",
         "endpointUrl": "city-source:中国/安徽/宿州",
         "attempts": 1,
-        "durationMs": 1398,
+        "durationMs": 2404,
         "fallbackUsed": false,
         "rawItemCount": 0,
         "datedItemCount": 0,
@@ -2030,7 +1979,7 @@
         "method": "web",
         "endpointUrl": "city-source:中国/广东/汕尾",
         "attempts": 1,
-        "durationMs": 1372,
+        "durationMs": 2458,
         "fallbackUsed": false,
         "rawItemCount": 0,
         "datedItemCount": 0,
@@ -2045,27 +1994,9 @@
         "sourceName": "住房和城乡建设部",
         "method": "web",
         "attempts": 3,
-        "durationMs": 137047,
+        "durationMs": 135006,
         "fallbackUsed": false,
         "error": "https://www.mohurd.gov.cn/api-gateway/jpaas-publish-server/front/page/build/unit?parseType=bulidstatic&webId=86ca573ec4df405db627fdc2493677f3&tplSetId=fc259c381af3496d85e61997ea7771cb&pageType=column&tagId=%E6%A0%8F%E7%9B%AE-list&editType=null&pageId=919e942639b5477d96e4c97471c61d9f: TypeError: fetch failed; legacy TLS fallback: Error: Request timed out | https://www.mohurd.gov.cn/xinwen/gzdt/index.html: TypeError: fetch failed; legacy TLS fallback: Error: Request timed out | https://www.mohurd.gov.cn/: TypeError: fetch failed; legacy TLS fallback: Error: Request timed out"
-      },
-      {
-        "sourceId": "gdacs-feed",
-        "sourceName": "GDACS 灾害 Feed",
-        "method": "rss",
-        "attempts": 3,
-        "durationMs": 50226,
-        "fallbackUsed": false,
-        "error": "Request timed out"
-      },
-      {
-        "sourceId": "chrm-mohrss",
-        "sourceName": "中国人力资源市场网",
-        "method": "web",
-        "attempts": 3,
-        "durationMs": 13544,
-        "fallbackUsed": false,
-        "error": "TypeError: fetch failed; legacy TLS fallback: AggregateError: request failed without a message"
       }
     ],
     "cardReviewFindings": [
@@ -2077,7 +2008,7 @@
         ]
       },
       {
-        "cardId": "draft-real-france24-asia-pacific-rss-rkvgv9",
+        "cardId": "draft-real-france24-asia-pacific-rss-ravv6a",
         "cardTitle": "尼泊尔-西藏洪水实时报道：死亡人数超过360人，逾1300人失踪",
         "issues": [
           "没有抓到完整正文，目前使用候选摘要回退。",
@@ -2099,7 +2030,7 @@
         ]
       },
       {
-        "cardId": "draft-real-france24-asia-pacific-rss-1yjvcvv",
+        "cardId": "draft-real-france24-asia-pacific-rss-wpbdm",
         "cardTitle": "关于尼泊尔山体滑坡背后环境成因的了解",
         "issues": [
           "没有抓到完整正文，目前使用候选摘要回退。",
@@ -2107,7 +2038,7 @@
         ]
       },
       {
-        "cardId": "draft-real-techcrunch-ai-rss-1jse466",
+        "cardId": "draft-real-techcrunch-ai-rss-1kmcx93",
         "cardTitle": "病毒式传播的AI初创公司Instinct以25亿美元估值融资3.5亿美元",
         "issues": [
           "原文篇幅较短且不是官方或主流来源，需要发布前复核。"
@@ -2126,7 +2057,7 @@
       ]
     },
     {
-      "id": "draft-real-france24-asia-pacific-rss-rkvgv9",
+      "id": "draft-real-france24-asia-pacific-rss-ravv6a",
       "title": "尼泊尔-西藏洪水实时报道：死亡人数超过360人，逾1300人失踪",
       "finalLabel": "待复核",
       "finalScore": 80,
@@ -2154,7 +2085,7 @@
       ]
     },
     {
-      "id": "draft-real-france24-asia-pacific-rss-1yjvcvv",
+      "id": "draft-real-france24-asia-pacific-rss-wpbdm",
       "title": "关于尼泊尔山体滑坡背后环境成因的了解",
       "finalLabel": "待复核",
       "finalScore": 80,
@@ -2164,7 +2095,7 @@
       ]
     },
     {
-      "id": "draft-real-techcrunch-ai-rss-1jse466",
+      "id": "draft-real-techcrunch-ai-rss-1kmcx93",
       "title": "病毒式传播的AI初创公司Instinct以25亿美元估值融资3.5亿美元",
       "finalLabel": "待复核",
       "finalScore": 90,
@@ -2199,6 +2130,17 @@
       "finalScore": 70,
       "issues": [
         "原文可用正文过短，可能无法生成可靠卡片。"
+      ]
+    },
+    {
+      "id": "draft-real-cas-science-news-typbn7",
+      "title": "计算机网络信息中心召开党委理论学习中心组集体学习会",
+      "finalLabel": "暂不发布",
+      "finalScore": 30,
+      "issues": [
+        "原文正文抓取失败，只能回退到候选摘要。",
+        "原文信息量有限，需要确认是否足以支持卡片结论。",
+        "标题与导读、背景和进展缺少共同事件信息，不能确认它们讲的是同一件事。"
       ]
     },
     {
@@ -3000,7 +2942,7 @@
             "language": "zh",
             "originalLanguage": "zh",
             "translationStatus": "not-needed",
-            "fetchedAt": "2026-08-27T13:47:01.699Z",
+            "fetchedAt": "2026-08-27T14:06:59.853Z",
             "sourceMethod": "web",
             "verificationStatus": "confirmed"
           }
@@ -3055,7 +2997,7 @@
             "language": "zh",
             "originalLanguage": "zh",
             "translationStatus": "not-needed",
-            "fetchedAt": "2026-08-27T13:47:01.699Z",
+            "fetchedAt": "2026-08-27T14:06:59.853Z",
             "sourceMethod": "web",
             "verificationStatus": "confirmed"
           }
@@ -3099,7 +3041,7 @@
             "language": "zh",
             "originalLanguage": "zh",
             "translationStatus": "not-needed",
-            "fetchedAt": "2026-08-27T13:47:03.159Z",
+            "fetchedAt": "2026-08-27T14:07:01.922Z",
             "sourceMethod": "web",
             "verificationStatus": "confirmed"
           }
@@ -3154,7 +3096,7 @@
             "language": "zh",
             "originalLanguage": "zh",
             "translationStatus": "not-needed",
-            "fetchedAt": "2026-08-27T13:47:03.159Z",
+            "fetchedAt": "2026-08-27T14:07:01.922Z",
             "sourceMethod": "web",
             "verificationStatus": "confirmed"
           }
@@ -8796,7 +8738,7 @@
             "language": "zh",
             "originalLanguage": "zh",
             "translationStatus": "not-needed",
-            "fetchedAt": "2026-08-27T13:47:06.537Z",
+            "fetchedAt": "2026-08-27T14:07:05.436Z",
             "sourceMethod": "web",
             "verificationStatus": "confirmed"
           }
@@ -8852,7 +8794,7 @@
             "language": "zh",
             "originalLanguage": "zh",
             "translationStatus": "not-needed",
-            "fetchedAt": "2026-08-27T13:47:06.537Z",
+            "fetchedAt": "2026-08-27T14:07:05.436Z",
             "sourceMethod": "web",
             "verificationStatus": "confirmed"
           }
@@ -9231,7 +9173,7 @@
             "language": "zh",
             "originalLanguage": "zh",
             "translationStatus": "not-needed",
-            "fetchedAt": "2026-08-27T13:47:24.320Z",
+            "fetchedAt": "2026-08-27T14:07:14.303Z",
             "sourceMethod": "web",
             "verificationStatus": "confirmed"
           }
@@ -9287,7 +9229,7 @@
             "language": "zh",
             "originalLanguage": "zh",
             "translationStatus": "not-needed",
-            "fetchedAt": "2026-08-27T13:47:24.320Z",
+            "fetchedAt": "2026-08-27T14:07:14.303Z",
             "sourceMethod": "web",
             "verificationStatus": "confirmed"
           }
@@ -9439,7 +9381,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-27T13:34:57.758Z",
+            "fetchedAt": "2026-08-27T14:07:01.384Z",
             "sourceMethod": "rss",
             "verificationStatus": "confirmed"
           }
@@ -9491,7 +9433,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-27T13:34:57.758Z",
+            "fetchedAt": "2026-08-27T14:07:01.384Z",
             "sourceMethod": "rss",
             "verificationStatus": "confirmed"
           }
@@ -9536,7 +9478,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-27T13:34:57.758Z",
+            "fetchedAt": "2026-08-27T14:07:01.384Z",
             "sourceMethod": "rss",
             "verificationStatus": "confirmed"
           },
@@ -9548,7 +9490,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-27T13:34:57.758Z",
+            "fetchedAt": "2026-08-27T14:07:01.384Z",
             "sourceMethod": "rss",
             "verificationStatus": "confirmed"
           }
@@ -9600,7 +9542,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-27T13:34:57.758Z",
+            "fetchedAt": "2026-08-27T14:07:01.384Z",
             "sourceMethod": "rss",
             "verificationStatus": "confirmed"
           },
@@ -9612,7 +9554,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-27T13:34:57.758Z",
+            "fetchedAt": "2026-08-27T14:07:01.384Z",
             "sourceMethod": "rss",
             "verificationStatus": "confirmed"
           }
@@ -9729,6 +9671,105 @@
             "sourceUrl": "https://www.cnbc.com/2026/08/27/china-industrial-profits-july-factory-production-.html"
           }
         ],
+        "generatedAt": "2026-08-27T04:10:00.000Z"
+      }
+    },
+    {
+      "candidate": {
+        "id": "real-techcrunch-ai-rss-1qq54x2",
+        "title": "亚马逊因“需求激增”将其英伟达芯片订单量增至三倍",
+        "oneLine": "AI 与科技最新动态：重点区分正式产品发布、模型能力变化、研究进展和普通行业讨论。",
+        "categories": [
+          "ai",
+          "technology",
+          "product"
+        ],
+        "industries": [
+          "aiProduct",
+          "aiTechnology",
+          "productManagement",
+          "technologyEngineering",
+          "educationResearch"
+        ],
+        "regions": [
+          "全球"
+        ],
+        "locations": [],
+        "sourceIds": [
+          "techcrunch-ai-rss"
+        ],
+        "publishedAt": "2026-08-26T23:47:18.000Z",
+        "sourceLinks": [
+          {
+            "title": "TechCrunch AI RSS",
+            "url": "https://techcrunch.com/2026/08/26/amazon-just-tripled-its-order-of-nvidia-chips-over-surging-demand/",
+            "sourceId": "techcrunch-ai-rss",
+            "publishedAt": "2026-08-26T23:47:18.000Z",
+            "language": "zh",
+            "originalLanguage": "en",
+            "translationStatus": "translated",
+            "fetchedAt": "2026-08-27T14:07:05.156Z",
+            "sourceMethod": "rss",
+            "verificationStatus": "pending"
+          }
+        ],
+        "images": [],
+        "body": {
+          "background": "国际科技主流媒体用于发现 AI、芯片、平台和科技产品变化。",
+          "keyProgress": "亚马逊将在未来两年内再向数据中心部署200万块英伟达GPU芯片。但这一扩展合作不仅限于采购更多芯片。",
+          "whyItMatters": "正式产品和技术变化可能影响 AI 产品设计、技术选型、行业竞争和职业判断。",
+          "userRelevance": "对 AI 产品经理、产品经理、技术研发、科研和关注 AI 行业的用户更相关。",
+          "whatToWatch": "后续核对官方文档、能力边界、发布时间、开放范围和真实用户影响。"
+        },
+        "impactScore": 72,
+        "severityScore": 20,
+        "freshnessScore": 95,
+        "trendScore": 80,
+        "isExample": false
+      },
+      "card": {
+        "id": "draft-real-techcrunch-ai-rss-1qq54x2",
+        "title": "亚马逊因“需求激增”将其英伟达芯片订单量增至三倍",
+        "oneLine": "这条信息主要围绕亚马逊因“需求激增”将其英伟达芯片订单量增至三倍展开，核心影响需要结合适用范围和时间节点判断。",
+        "importance": "B",
+        "credibility": "待确认",
+        "tags": [
+          "B",
+          "industry",
+          "ai",
+          "technology",
+          "product"
+        ],
+        "industries": [
+          "aiProduct",
+          "aiTechnology",
+          "productManagement",
+          "technologyEngineering",
+          "educationResearch"
+        ],
+        "section": "ai",
+        "body": {
+          "background": "两家公司周三宣布扩大合作伙伴关系，其中包括一项向亚马逊数据中心增购200万块英伟达GPU芯片的协议。这些专为应对AI模型训练和运行的高算力需求而设计的GPU包括英伟达Blackwell Ultra、Rubin以及Rubin Ultra芯片。该公告是在英伟达季度财报电话会议上发布的，距离今年早些时候亚马逊同意在AWS基础设施上部署超过100万块英伟达GPU仅过去五个月。",
+          "keyProgress": "此次公告引人注目，不仅因为其规模庞大且增长迅速，还因为它超越了单纯的芯片采购。与此同时，亚马逊也在投资其自身可能构成竞争的AI芯片。英伟达周三表示，其技术——包括将数千个GPU连接成一个系统的网络硬件，以及其开放模型、CPU、数据处理软件和机器人平台——也将整合到AWS中。两家公司称，来自初创企业、大型企业、AI实验室甚至政府的“激增需求”促使双方决定更紧密地合作。",
+          "whyItMatters": "“亚马逊因需求激增将其英伟达芯片订单量增至三倍”能帮助你判断这项能力是否已经进入工程、产品或商业场景，并据此调整技术选型、产品规划、学习重点或职业判断。",
+          "userRelevance": "如果你从事AI 产品、AI 技术、产品管理、技术研发，可以重点判断“亚马逊因需求激增将其英伟达芯片订单量增至三倍”是否已经具备产品落地、技术选型或业务合作价值。",
+          "whatToWatch": "接下来要看“亚马逊因需求激增将其英伟达芯片订单量增至三倍”是否有更多可靠来源、量产或应用进展，以及它会不会从单点消息发展成持续趋势。"
+        },
+        "sourceLinks": [
+          {
+            "title": "TechCrunch AI RSS",
+            "url": "https://techcrunch.com/2026/08/26/amazon-just-tripled-its-order-of-nvidia-chips-over-surging-demand/",
+            "sourceId": "techcrunch-ai-rss",
+            "publishedAt": "2026-08-26T23:47:18.000Z",
+            "language": "zh",
+            "originalLanguage": "en",
+            "translationStatus": "translated",
+            "fetchedAt": "2026-08-27T14:07:05.156Z",
+            "sourceMethod": "rss",
+            "verificationStatus": "pending"
+          }
+        ],
+        "images": [],
         "generatedAt": "2026-08-27T04:10:00.000Z"
       }
     }

@@ -532,57 +532,7 @@
         "generatedAt": "2026-08-26T23:10:00.000Z"
       },
       {
-        "id": "draft-real-cnbc-world-rss-1dnlcsr",
-        "title": "中国经济放缓加剧，工业利润增速降至七个月来最低",
-        "oneLine": "政策变化：7月，中国工业利润增速放缓至年内最弱水平，同比增长11.2%，受需求疲软及经济整体放缓拖累。",
-        "importance": "B",
-        "credibility": "待确认",
-        "tags": [
-          "B",
-          "mustKnow",
-          "industry",
-          "world",
-          "policy",
-          "finance"
-        ],
-        "industries": [
-          "generalPublic",
-          "financeInvestment",
-          "operationsGrowth",
-          "ecommerceRetail"
-        ],
-        "section": "front",
-        "body": {
-          "background": "国家统计局周四发布的数据显示，今年前七个月，工业利润同比增长17.6%，较上半年的18.7%有所回落。据官方发布的数据，以计算机和存储芯片制造商为主导的集成电路行业，在1月至7月期间利润同比增长18.5%，占电子行业利润增量的80%以上。“增长减速主要受房地产和基础设施投资下滑拖累，钢铁和水泥行业利润恶化即为佐证。",
-          "keyProgress": "不过，工业企业盈利能力已出现显著转折，从去年几乎零增长转为今年的两位数增长。这一复苏在很大程度上得益于全球人工智能热潮推动了对计算机和电子设备制造的需求。光纤制造业利润增幅超过五倍，也提振了先进制造业的整体增长。截至7月底，原材料制造商利润同比增长55.2%。",
-          "whyItMatters": "“中国经济放缓加剧，工业利润增速降至七个月来最低”如果继续发展，可能通过能源价格、航运、贸易、汇率或市场预期传导到国内。了解它的意义在于判断后续风险，而不只停留在事件本身。",
-          "userRelevance": "即使你不在中国，“中国经济放缓加剧，工业利润增速降至七个月来最低”也可能通过能源价格、国际航运、贸易成本和市场预期间接影响国内生活与工作判断。",
-          "whatToWatch": "接下来要看“中国经济放缓加剧，工业利润增速降至七个月来最低”是否出现更细的城市、行业、平台或企业数据，以及这一变化能否连续保持。"
-        },
-        "sourceLinks": [
-          {
-            "title": "CNBC World News RSS",
-            "url": "https://www.cnbc.com/2026/08/27/china-industrial-profits-july-factory-production-.html",
-            "sourceId": "cnbc-world-rss",
-            "publishedAt": "2026-08-27T03:22:14.000Z",
-            "language": "zh",
-            "originalLanguage": "en",
-            "translationStatus": "translated",
-            "fetchedAt": "2026-08-27T13:47:04.851Z",
-            "sourceMethod": "rss",
-            "verificationStatus": "pending"
-          }
-        ],
-        "images": [
-          {
-            "url": "https://image.cnbcfm.com/api/v1/image/108353679-17876359391787635936-47970767216-1080pnbcnews.jpg?v=1787635938&amp;w=750&amp;h=422&amp;vtcrop=y",
-            "sourceUrl": "https://www.cnbc.com/2026/08/27/china-industrial-profits-july-factory-production-.html"
-          }
-        ],
-        "generatedAt": "2026-08-27T04:10:00.000Z"
-      },
-      {
-        "id": "draft-real-techcrunch-ai-rss-1r04qm1",
+        "id": "draft-real-techcrunch-ai-rss-1qq54x2",
         "title": "亚马逊因“需求激增”将其英伟达芯片订单量增至三倍",
         "oneLine": "这条信息主要围绕亚马逊因“需求激增”将其英伟达芯片订单量增至三倍展开，核心影响需要结合适用范围和时间节点判断。",
         "importance": "B",
@@ -618,7 +568,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-27T13:47:06.614Z",
+            "fetchedAt": "2026-08-27T14:07:05.156Z",
             "sourceMethod": "rss",
             "verificationStatus": "pending"
           }
@@ -1160,7 +1110,7 @@
         "generatedAt": "2026-08-26T23:10:00.000Z"
       }
     ],
-    "estimatedReadMinutes": 34,
+    "estimatedReadMinutes": 33,
     "pageCount": 3,
     "topCardId": "draft-cluster-real-cnbc-world-rss-1uq2qnn",
     "generatedAt": "2026-08-27T04:10:00.000Z",
@@ -1177,8 +1127,7 @@
     },
     "basedOnGeneratedAt": "2026-08-26T23:10:00.000Z",
     "editionCardIds": [
-      "draft-real-cnbc-world-rss-1dnlcsr",
-      "draft-real-techcrunch-ai-rss-1r04qm1"
+      "draft-real-techcrunch-ai-rss-1qq54x2"
     ],
     "carriedCardIds": [
       "draft-cluster-real-cnbc-world-rss-1uq2qnn",

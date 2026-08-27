@@ -305,3 +305,4 @@ function buildDailyIssue(params) {
         skippedCards: selectedResult.skipped.map((item) => item.card)
     };
 }
+

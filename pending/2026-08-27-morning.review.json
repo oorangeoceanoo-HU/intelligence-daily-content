@@ -1,0 +1,124 @@
+{
+  "version": 1,
+  "date": "2026-08-27",
+  "generatedAt": "2026-08-27T06:26:14.875Z",
+  "status": "review",
+  "reviewMode": "generated",
+  "candidateSha256": "2a8db78a6c568f152a45866c16eaddcfafb6b00778f0593546b20a433722a852",
+  "counts": {
+    "cards": 20,
+    "pages": 3,
+    "rawItems": 126,
+    "freshCandidates": 109,
+    "publishableCards": 29,
+    "reviewableCards": 11,
+    "rejectedCards": 14,
+    "blockers": 0,
+    "warnings": 15
+  },
+  "findings": [
+    {
+      "level": "warning",
+      "code": "source-fetch-failures",
+      "message": "有 1 个来源抓取失败，需要确认是否影响当天覆盖面。"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "原文信息量有限，需要确认是否足以支持卡片结论。",
+      "cardId": "draft-real-mem-cn-3pxan8",
+      "cardTitle": "国家防总、应急管理部针对上海启动防汛防台风四级应急响应"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "官方风险简报篇幅较短，但事实和处置动作完整，需要人工确认是否保留。",
+      "cardId": "draft-cluster-real-mem-cn-1369nx",
+      "cardTitle": "应急管理部针对西藏启动国家地质灾害二级应急响应"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "一句话导读偏短，可能没有讲清楚核心事实。",
+      "cardId": "draft-real-un-news-rss-a64sb6",
+      "cardTitle": "致命洪水在中国和尼泊尔造成广泛破坏"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "官方风险简报篇幅较短，但事实和处置动作完整，需要人工确认是否保留。",
+      "cardId": "draft-cluster-real-mem-cn-ij2482",
+      "cardTitle": "应急管理部、国家消防救援局调派中国救援队增援西藏日喀则泥石流救援"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "官方风险简报篇幅较短，但事实和处置动作完整，需要人工确认是否保留。",
+      "cardId": "draft-real-mem-cn-o0qfj2",
+      "cardTitle": "国家防总、应急管理部针对云南启动防汛四级应急响应"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "没有抓到完整正文，目前使用候选摘要回退。",
+      "cardId": "draft-real-france24-middle-east-rss-1qqxsnd",
+      "cardTitle": "特朗普表示，他相信伊朗领导人仍然在世，但“身受重伤”。"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "原文信息量有限，需要确认是否足以支持卡片结论。",
+      "cardId": "draft-real-france24-middle-east-rss-1qqxsnd",
+      "cardTitle": "特朗普表示，他相信伊朗领导人仍然在世，但“身受重伤”。"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "原文信息量有限，需要确认是否足以支持卡片结论。",
+      "cardId": "draft-cluster-real-mem-cn-57n62m",
+      "cardTitle": "财政部、应急管理部紧急拨付1.2亿元中央自然灾害救灾资金 支持西藏做好日喀则吉隆泥石流应急抢险救灾工作"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "没有抓到完整正文，目前使用候选摘要回退。",
+      "cardId": "draft-cluster-real-france24-asia-pacific-rss-yygceg",
+      "cardTitle": "尼泊尔：致命山洪暴发后数百人失踪"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "原文信息量有限，需要确认是否足以支持卡片结论。",
+      "cardId": "draft-cluster-real-france24-asia-pacific-rss-yygceg",
+      "cardTitle": "尼泊尔：致命山洪暴发后数百人失踪"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "一句话导读偏短，可能没有讲清楚核心事实。",
+      "cardId": "draft-cluster-real-france24-asia-pacific-rss-yygceg",
+      "cardTitle": "尼泊尔：致命山洪暴发后数百人失踪"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "原文信息量有限，需要确认是否足以支持卡片结论。",
+      "cardId": "draft-cluster-real-xinhua-world-1488t7x",
+      "cardTitle": "以色列称将继续追击参与2023年袭击的巴武装人员"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "原文信息量有限，需要确认是否足以支持卡片结论。",
+      "cardId": "draft-real-arxiv-cs-api-1ulf5jz",
+      "cardTitle": "VBVR-Pro：一个用于原生视觉推理的可扩展且可验证的工具包"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "原文信息量有限，需要确认是否足以支持卡片结论。",
+      "cardId": "draft-real-arxiv-cs-api-163omg7",
+      "cardTitle": "TraceML：对机器学习开发中人类与智能体规划的经验分析"
+    }
+  ]
+}

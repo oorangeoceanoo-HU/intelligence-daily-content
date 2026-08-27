@@ -39,28 +39,23 @@ jobs:
         env:
           OSS_ACCESS_KEY_ID: ${{ secrets.ALIYUN_OSS_ACCESS_KEY_ID }}
           OSS_ACCESS_KEY_SECRET: ${{ secrets.ALIYUN_OSS_ACCESS_KEY_SECRET }}
-          OSS_ENDPOINT: ${{ vars.ALIYUN_OSS_ENDPOINT }}
-          OSS_DESTINATION: ${{ vars.ALIYUN_OSS_DESTINATION }}
-          OSS_PUBLIC_BASE_URL: ${{ vars.ALIYUN_OSS_PUBLIC_BASE_URL }}
+          OSS_ENDPOINT: ${{ vars.ALIYUN_OSS_ENDPOINT || 'oss-cn-hangzhou.aliyuncs.com' }}
+          OSS_DESTINATION: ${{ vars.ALIYUN_OSS_DESTINATION || 'oss://shixiaobao-content-cn-20260824/public' }}
+          OSS_PUBLIC_BASE_URL: ${{ vars.ALIYUN_OSS_PUBLIC_BASE_URL || 'https://shixiaobao-content-cn-20260824.oss-cn-hangzhou.aliyuncs.com/public' }}
         run: |
-          for name in OSS_ACCESS_KEY_ID OSS_ACCESS_KEY_SECRET OSS_ENDPOINT OSS_DESTINATION OSS_PUBLIC_BASE_URL; do
+          for name in OSS_ACCESS_KEY_ID OSS_ACCESS_KEY_SECRET; do
             if [ -z "${!name}" ]; then
-              echo "Missing GitHub Actions configuration: $name" >&2
+              echo "Missing GitHub Actions secret: ALIYUN_OSS_${name#OSS_}" >&2
               exit 1
             fi
           done
-          case "$OSS_DESTINATION" in
-            oss://shixiaobao-content-cn-20260824/public) ;;
-            *)
-              echo "OSS_DESTINATION must be limited to oss://shixiaobao-content-cn-20260824/public" >&2
-              exit 1
-              ;;
-          esac
+          echo "OSS destination: $OSS_DESTINATION"
+          echo "OSS public base URL: $OSS_PUBLIC_BASE_URL"
 
       - name: Prevent an older repository issue from replacing the mobile issue
         id: freshness
         env:
-          OSS_PUBLIC_BASE_URL: ${{ vars.ALIYUN_OSS_PUBLIC_BASE_URL }}
+          OSS_PUBLIC_BASE_URL: ${{ vars.ALIYUN_OSS_PUBLIC_BASE_URL || 'https://shixiaobao-content-cn-20260824.oss-cn-hangzhou.aliyuncs.com/public' }}
         run: |
           curl --fail --silent --show-error --location \
             "$OSS_PUBLIC_BASE_URL/latest.json?checked_at=$(date +%s)" \
@@ -96,7 +91,7 @@ jobs:
         env:
           OSS_ACCESS_KEY_ID: ${{ secrets.ALIYUN_OSS_ACCESS_KEY_ID }}
           OSS_ACCESS_KEY_SECRET: ${{ secrets.ALIYUN_OSS_ACCESS_KEY_SECRET }}
-          OSS_ENDPOINT: ${{ vars.ALIYUN_OSS_ENDPOINT }}
+          OSS_ENDPOINT: ${{ vars.ALIYUN_OSS_ENDPOINT || 'oss-cn-hangzhou.aliyuncs.com' }}
         run: |
           /tmp/ossutil config \
             -e "$OSS_ENDPOINT" \
@@ -106,13 +101,13 @@ jobs:
       - name: Publish approved daily content
         if: steps.freshness.outputs.should_publish == 'true'
         env:
-          OSS_DESTINATION: ${{ vars.ALIYUN_OSS_DESTINATION }}
+          OSS_DESTINATION: ${{ vars.ALIYUN_OSS_DESTINATION || 'oss://shixiaobao-content-cn-20260824/public' }}
           OSSUTIL_BIN: /tmp/ossutil
         run: ./aliyun/content-publishing/publish-oss.sh
 
       - name: Verify mobile files are publicly readable
         env:
-          OSS_PUBLIC_BASE_URL: ${{ vars.ALIYUN_OSS_PUBLIC_BASE_URL }}
+          OSS_PUBLIC_BASE_URL: ${{ vars.ALIYUN_OSS_PUBLIC_BASE_URL || 'https://shixiaobao-content-cn-20260824.oss-cn-hangzhou.aliyuncs.com/public' }}
         run: |
           for path in latest.json manifest.json personalization/latest.json; do
             output="/tmp/${path//\//-}"

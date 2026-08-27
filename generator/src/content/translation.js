@@ -158,6 +158,7 @@ const openAiCompatibleTranslate = async (text) => {
     if (!key) {
         throw new Error("CONTENT_TRANSLATION_API_KEY is required for openai-compatible translation");
     }
+    const model = env("CONTENT_TRANSLATION_MODEL") ?? "gpt-4o-mini";
     const payload = await fetchJson(endpoint(), {
         method: "POST",
         headers: {
@@ -165,7 +166,8 @@ const openAiCompatibleTranslate = async (text) => {
             Authorization: `Bearer ${key}`
         },
         body: JSON.stringify({
-            model: env("CONTENT_TRANSLATION_MODEL") ?? "gpt-4o-mini",
+            model,
+            ...(model.toLowerCase().startsWith("qwen3") ? { enable_thinking: false } : {}),
             temperature: 0,
             messages: [
                 {

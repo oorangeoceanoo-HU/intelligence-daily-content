@@ -1,37 +1,22 @@
 {
   "version": 1,
   "date": "2026-08-27",
-  "generatedAt": "2026-08-27T03:42:10.784Z",
-  "status": "blocked",
+  "generatedAt": "2026-08-27T13:38:24.701Z",
+  "status": "review",
   "reviewMode": "generated",
-  "candidateSha256": "d002be680bed5028c7beccf23050406d71f7859cc350b59fa29e303bb9233e97",
+  "candidateSha256": "be66582b9a0c833f99bf340cba5cc02e3eda4e5b5a7bd4d16a5ce2f18bceb463",
   "counts": {
-    "cards": 3,
-    "pages": 1,
-    "rawItems": 25,
-    "freshCandidates": 17,
-    "publishableCards": 3,
-    "reviewableCards": 1,
-    "rejectedCards": 11,
-    "blockers": 3,
-    "warnings": 2
+    "cards": 24,
+    "pages": 3,
+    "rawItems": 30,
+    "freshCandidates": 26,
+    "publishableCards": 9,
+    "reviewableCards": 6,
+    "rejectedCards": 8,
+    "blockers": 0,
+    "warnings": 9
   },
   "findings": [
-    {
-      "level": "blocker",
-      "code": "too-few-cards",
-      "message": "当前只有 3 条，无法形成每版约 5 条的三版完整日报；系统会保留上一份合格日报，不会用旧闻或未核实内容凑数。"
-    },
-    {
-      "level": "blocker",
-      "code": "translation-failures",
-      "message": "有 17 条英文或多语言来源没有完成中文化，当前翻译通道为 google-free，不能按期发布。"
-    },
-    {
-      "level": "blocker",
-      "code": "missing-base-edition",
-      "message": "午间或晚间更新没有找到当天更早且已批准的版次，不能把一小段增量内容当作完整日报发布。"
-    },
     {
       "level": "warning",
       "code": "source-fetch-failures",
@@ -40,9 +25,58 @@
     {
       "level": "warning",
       "code": "card-needs-human-review",
+      "message": "原文信息量有限，需要确认是否足以支持卡片结论。",
+      "cardId": "draft-real-mem-cn-3pxan8",
+      "cardTitle": "国家防总、应急管理部针对上海启动防汛防台风四级应急响应"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "没有抓到完整正文，目前使用候选摘要回退。",
+      "cardId": "draft-real-france24-asia-pacific-rss-pmy90g",
+      "cardTitle": "尼泊尔-西藏洪水实时报道：死亡人数超过360人，逾1300人失踪"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "原文信息量有限，需要确认是否足以支持卡片结论。",
+      "cardId": "draft-real-france24-asia-pacific-rss-pmy90g",
+      "cardTitle": "尼泊尔-西藏洪水实时报道：死亡人数超过360人，逾1300人失踪"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
       "message": "官方风险简报篇幅较短，但事实和处置动作完整，需要人工确认是否保留。",
-      "cardId": "draft-real-mem-cn-hf3pg6",
+      "cardId": "draft-cluster-real-mem-cn-ij2482",
       "cardTitle": "应急管理部、国家消防救援局调派中国救援队增援西藏日喀则泥石流救援"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "官方风险简报篇幅较短，但事实和处置动作完整，需要人工确认是否保留。",
+      "cardId": "draft-real-mem-cn-o0qfj2",
+      "cardTitle": "国家防总、应急管理部针对云南启动防汛四级应急响应"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "没有抓到完整正文，目前使用候选摘要回退。",
+      "cardId": "draft-real-france24-asia-pacific-rss-1y9vr6w",
+      "cardTitle": "关于尼泊尔山体滑坡环境成因的了解"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "原文信息量有限，需要确认是否足以支持卡片结论。",
+      "cardId": "draft-real-france24-asia-pacific-rss-1y9vr6w",
+      "cardTitle": "关于尼泊尔山体滑坡环境成因的了解"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "原文篇幅较短且不是官方或主流来源，需要发布前复核。",
+      "cardId": "draft-real-techcrunch-ai-rss-1jse466",
+      "cardTitle": "病毒式传播的AI初创公司Instinct以25亿美元估值融资3.5亿美元"
     }
   ]
 }

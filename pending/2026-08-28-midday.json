@@ -1,13 +1,13 @@
 {
   "schemaVersion": 2,
-  "publishedAt": "2026-08-28T06:44:00.191Z",
+  "publishedAt": "2026-08-28T08:12:17.263Z",
   "issue": {
     "id": "daily-public-2026-08-28",
     "date": "2026-08-28",
     "userId": "public",
     "cards": [
       {
-        "id": "draft-real-cnbc-world-rss-1jrd1zd",
+        "id": "draft-real-cnbc-world-rss-1no6c9t",
         "title": "据报，美国考虑对半导体加征新一轮关税",
         "oneLine": "政策变化：澄清：本文已更新，以明确新关税针对的是在美国使用的半导体。",
         "importance": "S",
@@ -43,16 +43,16 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-27T22:59:12.831Z",
+            "fetchedAt": "2026-08-28T06:55:24.176Z",
             "sourceMethod": "rss",
             "verificationStatus": "pending"
           }
         ],
         "images": [],
-        "generatedAt": "2026-08-27T22:59:08.478Z"
+        "generatedAt": "2026-08-28T06:55:19.341Z"
       },
       {
-        "id": "draft-cluster-real-npr-world-rss-5ul441",
+        "id": "draft-cluster-real-npr-world-rss-50mb14",
         "title": "拉特科·姆拉迪奇，前波黑塞族战犯，曾主导多项暴行，于84岁去世",
         "oneLine": "政策变化：一位因情况敏感而要求匿名的姆拉迪奇亲属向美联社证实了这一消息，并表示姆拉迪奇的儿子达科·姆拉迪奇正前往这座荷兰城市。",
         "importance": "S",
@@ -83,7 +83,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-27T22:59:12.447Z",
+            "fetchedAt": "2026-08-28T06:55:23.384Z",
             "sourceMethod": "rss",
             "verificationStatus": "confirmed"
           },
@@ -95,7 +95,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-27T22:59:12.689Z",
+            "fetchedAt": "2026-08-28T06:55:23.920Z",
             "sourceMethod": "rss",
             "verificationStatus": "pending"
           }
@@ -106,7 +106,7 @@
             "sourceUrl": "https://news.sky.com/story/butcher-of-bosnia-ratko-mladic-convicted-of-genocide-dies-13577791"
           }
         ],
-        "generatedAt": "2026-08-27T22:59:08.478Z"
+        "generatedAt": "2026-08-28T06:55:19.341Z"
       },
       {
         "id": "draft-real-un-news-rss-174opn2",
@@ -140,7 +140,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-27T22:59:12.783Z",
+            "fetchedAt": "2026-08-28T06:55:24.241Z",
             "sourceMethod": "rss",
             "verificationStatus": "confirmed"
           }
@@ -151,10 +151,10 @@
             "sourceUrl": "https://news.un.org/feed/view/en/story/2026/08/1168214"
           }
         ],
-        "generatedAt": "2026-08-27T22:59:08.478Z"
+        "generatedAt": "2026-08-28T06:55:19.341Z"
       },
       {
-        "id": "draft-real-npr-world-rss-mcf0pw",
+        "id": "draft-real-npr-world-rss-mmemev",
         "title": "主导特朗普加沙停火努力的官员批评以色列的袭击行为",
         "oneLine": "最新进展：主导特朗普加沙停火努力的官员批评以色列的袭击行为。",
         "importance": "S",
@@ -185,7 +185,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-27T22:59:12.447Z",
+            "fetchedAt": "2026-08-28T06:55:23.384Z",
             "sourceMethod": "rss",
             "verificationStatus": "confirmed"
           }
@@ -200,10 +200,55 @@
             "sourceUrl": "https://www.npr.org/2026/08/27/g-s1-140400/israel-gaza-ceasefire"
           }
         ],
-        "generatedAt": "2026-08-27T22:59:08.478Z"
+        "generatedAt": "2026-08-28T06:55:19.341Z"
       },
       {
-        "id": "draft-cluster-real-sky-world-rss-16cujji",
+        "id": "draft-real-xinhua-world-17d3sxp",
+        "title": "伊朗消息人士：仍在与阿曼磋商霍尔木兹海峡协议细节",
+        "oneLine": "最新进展：伊朗消息人士：仍在与阿曼磋商霍尔木兹海峡协议细节。",
+        "importance": "S",
+        "credibility": "主流媒体",
+        "tags": [
+          "S",
+          "mustKnow",
+          "world",
+          "policy"
+        ],
+        "industries": [
+          "generalPublic"
+        ],
+        "section": "front",
+        "body": {
+          "background": "美国总统特朗普本月接受福克斯新闻频道采访时警告阿曼不要在霍尔木兹海峡问题上与伊朗合作，并以军事行动相威胁。穆赫比说，如果美国不接受伊方条件，霍尔木兹海峡“在任何情况下都不会开放”。伊朗一名高级消息人士26日说，就霍尔木兹海峡相关协议，伊朗和阿曼“仍在磋商细节”。",
+          "keyProgress": "伊朗伊斯兰革命卫队发言人侯赛因·穆赫比当天早些时候称，两国已就各自在霍尔木兹海峡控制水域的占比及收益分配达成双方均认可的协议。不过，伊朗一名高级消息人士告诉路透社，双方仍在磋商具体细节。路透社说，尚不清楚穆赫比所说的“协议”是在双方谈判的哪个阶段达成。伊朗本月早些时候曾表示，协议已接近达成。",
+          "whyItMatters": "“霍尔木兹海峡局势”如果继续发展，可能通过能源价格、航运、贸易、汇率或市场预期传导到国内。了解它的意义在于判断后续风险，而不只停留在事件本身。",
+          "userRelevance": "即使你不在伊朗、霍尔木兹海峡，“霍尔木兹海峡局势”也可能通过能源价格、国际航运、贸易成本和市场预期间接影响国内生活与工作判断。",
+          "whatToWatch": "接下来要看霍尔木兹海峡实际通航量、油价和保险成本是否继续变化，以及美伊双方是否出现新的正式行动。"
+        },
+        "sourceLinks": [
+          {
+            "title": "新华网国际",
+            "url": "https://www.news.cn/world/20260827/79c032efb2744788a859eb26a48303ab/c.html",
+            "sourceId": "xinhua-world",
+            "publishedAt": "2026-08-27T00:00:00+08:00",
+            "language": "zh",
+            "originalLanguage": "zh",
+            "translationStatus": "not-needed",
+            "fetchedAt": "2026-08-28T06:55:25.908Z",
+            "sourceMethod": "web",
+            "verificationStatus": "confirmed"
+          }
+        ],
+        "images": [
+          {
+            "url": "https://www.news.cn/world/20260827/79c032efb2744788a859eb26a48303ab/2026082779c032efb2744788a859eb26a48303ab_f9152b7d954145578c78acac12061724.JPG",
+            "sourceUrl": "https://www.news.cn/world/20260827/79c032efb2744788a859eb26a48303ab/c.html"
+          }
+        ],
+        "generatedAt": "2026-08-28T06:55:19.341Z"
+      },
+      {
+        "id": "draft-cluster-real-sky-world-rss-176tcmf",
         "title": "特朗普签署行政令，将安大略湖更名为“美国湖”",
         "oneLine": "最新进展：特朗普签署行政令，将安大略湖更名为“美国湖”。",
         "importance": "A",
@@ -239,7 +284,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-27T22:59:12.689Z",
+            "fetchedAt": "2026-08-28T06:55:23.920Z",
             "sourceMethod": "rss",
             "verificationStatus": "pending"
           },
@@ -251,7 +296,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-27T22:59:12.831Z",
+            "fetchedAt": "2026-08-28T06:55:24.176Z",
             "sourceMethod": "rss",
             "verificationStatus": "pending"
           }
@@ -262,74 +307,12 @@
             "sourceUrl": "https://news.sky.com/story/trump-signs-order-renaming-lake-ontario-as-lake-america-in-the-us-13577819"
           }
         ],
-        "generatedAt": "2026-08-27T22:59:08.478Z"
+        "generatedAt": "2026-08-28T06:55:19.341Z"
       },
       {
-        "id": "draft-real-cnbc-world-rss-c3qdz0",
-        "title": "据报，美国中央情报局局长约翰·拉特克利夫秘密访问莫斯科，警告俄罗斯勿对北约发动攻击",
-        "oneLine": "政策变化：据多家媒体报道，美国中央情报局局长约翰·拉特克利夫本周秘密访问莫斯科，警告俄罗斯不要攻击北约，此举发生在人们对乌克兰战争进一步升级的担忧日益加剧之际。",
-        "importance": "A",
-        "credibility": "待确认",
-        "tags": [
-          "S",
-          "mustKnow",
-          "world",
-          "policy",
-          "A"
-        ],
-        "industries": [
-          "generalPublic"
-        ],
-        "section": "front",
-        "body": {
-          "background": "他的评论是在接受保守派脱口秀主持人格伦·贝克采访时作出的。作为中情局局长，拉特克利夫首次公开前往俄罗斯首都的行程于周二曝光：一架美国空军喷气式飞机被拍到抵达莫斯科机场，社交媒体上随后出现了外交车队穿行城市的画面。《华尔街日报》周三援引了解该行程的匿名消息人士称，拉特克利夫此行的目的首次被报道。",
-          "keyProgress": "特朗普政府已威胁对伊朗的贸易伙伴实施所谓的“二级制裁”，以在美中伊以长达六个月的战争后加大对德黑兰经济的压力。《政治报》和哥伦比亚广播公司（CBS）新闻也分别援引多名知情人士报道了相同的目的。CBS新闻补充称，拉特克利夫还提及伊朗问题，警告如果霍尔木兹海峡这一战略要道未重新向航运开放，将追加制裁。已知中国、阿联酋和土耳其是伊朗的主要贸易伙伴之一，而俄罗斯长期以来与德黑兰保持着紧密的经济和军事联系。",
-          "whyItMatters": "“据报，美国中央情报局局长约翰·拉特克利夫秘密访问莫斯科，警告俄罗斯勿对北约发动攻击”如果继续发展，可能通过能源价格、航运、贸易、汇率或市场预期传导到国内。了解它的意义在于判断后续风险，而不只停留在事件本身。",
-          "userRelevance": "即使你不在美国、乌克兰、俄罗斯，“据报，美国中央情报局局长约翰·拉特克利夫秘密访问莫斯科，警告俄罗斯勿对北约发动攻击”也可能通过能源价格、国际航运、贸易成本和市场预期间接影响国内生活与工作判断。",
-          "whatToWatch": "接下来要看“据报，美国中央情报局局长约翰·拉特克利夫秘密访问莫斯科，警告俄罗斯勿对北约发动攻击”是否出现新的官方信息、后续行动，以及它与中国出行、贸易或公共判断的关联是否扩大。"
-        },
-        "sourceLinks": [
-          {
-            "title": "CNBC World News RSS",
-            "url": "https://www.cnbc.com/2026/08/27/us-iran-war-trump-hormuz-attack-mine-.html",
-            "sourceId": "cnbc-world-rss",
-            "publishedAt": "2026-08-27T08:22:29.000Z",
-            "language": "zh",
-            "originalLanguage": "en",
-            "translationStatus": "translated",
-            "fetchedAt": "2026-08-27T22:59:12.831Z",
-            "sourceMethod": "rss",
-            "verificationStatus": "pending"
-          },
-          {
-            "title": "CNBC World News RSS",
-            "url": "https://www.cnbc.com/2026/08/27/ratcliffe-moscow-russia-nato-ukraine-iran.html",
-            "sourceId": "cnbc-world-rss",
-            "publishedAt": "2026-08-27T13:45:57.000Z",
-            "language": "zh",
-            "originalLanguage": "en",
-            "translationStatus": "translated",
-            "fetchedAt": "2026-08-27T22:59:12.831Z",
-            "sourceMethod": "rss",
-            "verificationStatus": "pending"
-          }
-        ],
-        "images": [
-          {
-            "url": "https://image.cnbcfm.com/api/v1/image/108354697-17877676771787767675-48000666526-1080pnbcnews.jpg?v=1787767676&amp;w=750&amp;h=422&amp;vtcrop=y",
-            "sourceUrl": "https://www.cnbc.com/2026/08/27/us-iran-war-trump-hormuz-attack-mine-.html"
-          },
-          {
-            "url": "https://image.cnbcfm.com/api/v1/image/108355010-17878220451787822041-48013144162-1080pnbcnews.jpg?v=1787822044&amp;w=750&amp;h=422&amp;vtcrop=y",
-            "sourceUrl": "https://www.cnbc.com/2026/08/27/ratcliffe-moscow-russia-nato-ukraine-iran.html"
-          }
-        ],
-        "generatedAt": "2026-08-27T22:59:08.478Z"
-      },
-      {
-        "id": "draft-real-npr-world-rss-uftkgk",
-        "title": "尼泊尔和西藏洪水已造成近400人死亡，其中90名美国人失踪",
-        "oneLine": "风险提醒：在周三凌晨袭击尼泊尔-西藏边境的毁灭性山洪过后，已确认的死亡人数正逼近400人。",
+        "id": "draft-real-npr-world-rss-u5tyrl",
+        "title": "尼泊尔和西藏洪水造成400多人死亡，其中90名美国人失踪",
+        "oneLine": "最新进展：尼泊尔和西藏洪水造成400多人死亡，其中90名美国人失踪。",
         "importance": "A",
         "credibility": "主流媒体",
         "tags": [
@@ -346,8 +329,8 @@
         ],
         "section": "risk",
         "body": {
-          "background": "美国地质调查局表示，冰川坍塌引发了此次洪水，此前曾将该事件报告为一次里氏4.4级地震。中国官员表示，在西藏一侧边境有558人失踪，其中包括260名外国人。许多失踪者是前往凯拉斯神山和马纳萨罗沃湖朝圣的印度教徒，这是西藏一处受印度教和佛教徒崇敬的高海拔圣地。",
-          "keyProgress": "洪水冲毁了道路、桥梁和整个村庄，目前仍有超过1,000人失踪。美国国务院表示，约有90名美国人属于失联人员之列。该部门称，截至周四上午，尚未发现任何美国公民死亡的确认消息。来自中国西藏一侧的监控画面显示，巨大的泥墙和碎石冲击建筑物并吞没道路，人们拼命试图逃离洪流。",
+          "background": "中方表示，西藏一侧边境有558人失踪，其中包括260名外国人。救援工作仍处于初期阶段，因洪水冲毁整段道路而受阻。“这一切都发生在山区，道路通行本就困难，但在目前情况下，据我们所知，根本不可能（进行有效救援）。",
+          "keyProgress": "尼泊尔与西藏边境地区周三凌晨遭遇毁灭性山洪，已造成超过400人死亡，逾1000人失踪，道路、桥梁和整个村庄被冲毁。美国地质调查局称，此次洪水由冰川崩塌引发，最初曾报告为里氏4.4级地震。中国方面的监控画面显示，大量泥浆和 debris 如巨墙般冲向建筑物并淹没道路，人们拼命逃离洪流。居民描述，巨大的水浪席卷山谷，将人和房屋掩埋在泥中。",
           "whyItMatters": "“防汛与洪涝风险”的直接价值是帮助你判断是否需要调整出行、居住或工作安排。影响地区、持续时间、预警等级和官方避险建议比事件热度更重要。",
           "userRelevance": "对于“防汛与洪涝风险”，如果你近期计划前往事发地区或与当地有工作、家人联系，需要留意后续预警；没有直接联系时，可把它作为区域风险背景了解。",
           "whatToWatch": "接下来要看“防汛与洪涝风险”的影响范围是否扩大、预警等级是否变化，以及是否出现与你所在城市相关的提醒。"
@@ -361,7 +344,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-27T22:59:12.447Z",
+            "fetchedAt": "2026-08-28T06:55:23.384Z",
             "sourceMethod": "rss",
             "verificationStatus": "confirmed"
           }
@@ -380,64 +363,57 @@
             "sourceUrl": "https://www.npr.org/2026/08/27/nx-s1-5946309/nepal-tibet-deadly-floods"
           }
         ],
-        "generatedAt": "2026-08-27T22:59:08.478Z"
+        "generatedAt": "2026-08-28T06:55:19.341Z"
       },
       {
-        "id": "draft-real-gov-uk-news-1y426cc",
-        "title": "卡丽安·奎因：将可能性转化为进步——威尔士的健康创新",
-        "oneLine": "风险提醒：《卡丽安·奎因：将可能性转化为进步——威尔士的健康创新》我们使用一些必要的 Cookie 以使本网站正常运行。",
-        "importance": "A",
-        "credibility": "官方来源",
+        "id": "draft-real-cnbc-world-rss-1u979ca",
+        "title": "印度内部通讯：美俄争夺全球第三大能源市场的更大份额",
+        "oneLine": "政策变化：《印度内部通讯：美俄争夺全球第三大能源市场的更大份额》本文作者：Priyanka Salve，发自新加坡。",
+        "importance": "B",
+        "credibility": "待确认",
         "tags": [
-          "A",
-          "risk",
+          "B",
+          "mustKnow",
           "industry",
           "world",
           "policy",
-          "local"
+          "finance"
         ],
         "industries": [
           "generalPublic",
-          "localLife",
           "financeInvestment",
           "operationsGrowth",
-          "teacher",
-          "educationResearch"
+          "ecommerceRetail"
         ],
-        "section": "risk",
+        "section": "front",
         "body": {
-          "background": "在威尔士开展更直接的互动，包括新的 MHRA 联络日活动计划，正帮助将监管专业知识更贴近创新者，并加强威尔士生命科学生态系统内的协作。我们使用一些必要的 Cookie 以使本网站正常运行。我们希望设置额外的 Cookie，以了解您如何使用 GOV.UK、记住您的设置并改进政府服务。",
-          "keyProgress": "威尔士互联的健康与生命科学生态系统为支持从研发到应用全过程的创新创造了机会，有助于新产品惠及患者，同时促进投资与增长。药品和医疗产品监管局（MHRA）正致力于确保监管成为创新的催化剂而非障碍——在保障患者安全的同时，支持市场准入与增长。我们还使用其他网站设置的 Cookie，以帮助我们提供来自其服务的内容。您可以随时更改 Cookie 设置。",
-          "whyItMatters": "“卡丽安·奎因：将可能性转化为进步——威尔士的健康创新”的直接价值是帮助你判断是否需要调整出行、居住或工作安排。影响地区、持续时间、预警等级和官方避险建议比事件热度更重要。",
-          "userRelevance": "对于“卡丽安·奎因：将可能性转化为进步——威尔士的健康创新”，如果你所在地区出现同类预警，应优先确认当地通知、交通变化和避险要求；其他地区通常无需因此改变日常安排。",
-          "whatToWatch": "接下来要看“卡丽安·奎因：将可能性转化为进步——威尔士的健康创新”的影响范围是否扩大、预警等级是否变化，以及是否出现与你所在城市相关的提醒。"
+          "background": "专家告诉 CNBC，在中东供应受限之际，替换俄罗斯原油对新德里而言将“充满挑战”，即便该国正在增加委内瑞拉原油的采购量。”他指出，由于美国原油属于“相对轻质”品种，而印度多家炼油厂配置用于加工中质和重质原油，因此印度炼油厂无法用美国原油替代俄罗斯或中东原油。本文作者：Priyanka Salve，发自新加坡。",
+          "keyProgress": "欢迎收看最新一期《Inside India》——这里是了解全球增长最快的大型经济体印度故事与动态的一站式平台。随着印度能源需求不断增长，美俄两大地缘政治对手正争夺世界第三大能源市场的更大份额，这为两国间的竞争提供了肥沃土壤。印度正成为美国和俄罗斯的重要市场，双方均试图在世界第三大能源消费国中争取更大的市场份额。市场情报公司 Kpler 的首席研究分析师 Sumit Ritolia 表示：“如果将美国和委内瑞拉原油合并计算，美洲对印度原油组合的重要性日益提升。",
+          "whyItMatters": "“印度内部通讯：美俄争夺全球第三大能源市场的更大份额”如果继续发展，可能通过能源价格、航运、贸易、汇率或市场预期传导到国内。了解它的意义在于判断后续风险，而不只停留在事件本身。",
+          "userRelevance": "即使你不在印度、美国、俄罗斯，“印度内部通讯：美俄争夺全球第三大能源市场的更大份额”也可能通过能源价格、国际航运、贸易成本和市场预期间接影响国内生活与工作判断。",
+          "whatToWatch": "接下来要看“印度内部通讯：美俄争夺全球第三大能源市场的更大份额”是否出现更细的城市、行业、平台或企业数据，以及这一变化能否连续保持。"
         },
         "sourceLinks": [
           {
-            "title": "GOV.UK News and Communications",
-            "url": "https://www.gov.uk/government/news/cari-anne-quinn-turning-possibility-into-progress-health-innovation-in-wales",
-            "sourceId": "gov-uk-news",
-            "publishedAt": "2026-08-27T08:35:09.000Z",
+            "title": "CNBC World News RSS",
+            "url": "https://www.cnbc.com/2026/08/27/india-us-russia-energy-oil-market.html",
+            "sourceId": "cnbc-world-rss",
+            "publishedAt": "2026-08-27T00:21:44.000Z",
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-27T22:59:12.666Z",
+            "fetchedAt": "2026-08-28T06:55:24.176Z",
             "sourceMethod": "rss",
-            "verificationStatus": "confirmed"
+            "verificationStatus": "pending"
           }
         ],
-        "images": [
-          {
-            "url": "https://assets.publishing.service.gov.uk/media/6a8ff3ecdf4246cf45e465b1/s300_Cari-Anne_Quinn_headshot_13.JPG",
-            "sourceUrl": "https://www.gov.uk/government/news/cari-anne-quinn-turning-possibility-into-progress-health-innovation-in-wales"
-          }
-        ],
-        "generatedAt": "2026-08-27T22:59:08.478Z"
+        "images": [],
+        "generatedAt": "2026-08-28T06:55:19.341Z"
       },
       {
-        "id": "draft-real-xinhua-world-1nm7zd9",
-        "title": "伊朗外交部：美国对伊政策是“闹剧”",
-        "oneLine": "政策变化：伊朗外交部发言人巴加埃26日表示，美国对伊政策是“彻头彻尾的闹剧”。",
+        "id": "draft-real-xinhua-world-17pk1t2",
+        "title": "外交部：中方正同尼方密切沟通 共同做好搜救工作",
+        "oneLine": "最新进展：外交部：中方正同尼方密切沟通 共同做好搜救工作。",
         "importance": "B",
         "credibility": "主流媒体",
         "tags": [
@@ -451,31 +427,31 @@
         ],
         "section": "front",
         "body": {
-          "background": "巴加埃批评说，美国是在对已经受到制裁的对象再加制裁，并将“空架子”包装成“联盟”。据美国财政部25日发布的消息，美财政部长贝森特与巴林财政大臣萨勒曼举行会谈，讨论美国对伊朗实施新一轮制裁事宜。贝森特24日召开新闻发布会，宣布美国当日发起对伊朗“经济孤立”的新一轮制裁措施。",
-          "keyProgress": "由于与伊朗的谈判停滞，美国总统特朗普19日宣布对伊朗实施“毁灭性经济行动”。巴加埃当天在社交媒体发文称，美国向巴林求助试图证明其所谓的“联盟”在发挥作用，但巴林与伊朗之间几乎不存在有实质意义的经济往来。同时，美国宣布“叫停”与伊朗的体育和学术交流，而这些交流早已基本停滞。",
-          "whyItMatters": "“伊朗外交部：美国对伊政策是闹剧”如果继续发展，可能通过能源价格、航运、贸易、汇率或市场预期传导到国内。了解它的意义在于判断后续风险，而不只停留在事件本身。",
-          "userRelevance": "即使你不在美国、伊朗，“伊朗外交部：美国对伊政策是闹剧”也可能通过能源价格、国际航运、贸易成本和市场预期间接影响国内生活与工作判断。",
-          "whatToWatch": "接下来要看“伊朗外交部：美国对伊政策是闹剧”是否出现新的官方信息、后续行动，以及它与中国出行、贸易或公共判断的关联是否扩大。"
+          "background": "当日例行记者会上，有记者问：8月26日，因尼泊尔一侧发生泥石流灾害，造成西藏日喀则市吉隆县吉隆口岸重大人员伤亡、失联。是否掌握在尼受灾中国公民和中国境内受灾外国公民情况？中方向尼泊尔政府和受灾民众表示诚挚慰问。",
+          "keyProgress": "中方正同尼泊尔方面密切沟通、协调配合，共同做好搜救工作。林剑说，此次泥石流灾害造成中尼两国重大人员伤亡、失联。中方正同尼方密切沟通、协调配合，共同做好搜救工作，将根据尼方需要提供紧急援助。林剑表示，根据西藏吉隆发布的信息，初步掌握目前受灾地区失联外国公民260人。",
+          "whyItMatters": "“外交部：中方正同尼方密切沟通 共同做好搜救工作”如果继续发展，可能通过能源价格、航运、贸易、汇率或市场预期传导到国内。了解它的意义在于判断后续风险，而不只停留在事件本身。",
+          "userRelevance": "即使你不在事发地区，“外交部：中方正同尼方密切沟通 共同做好搜救工作”也可能通过能源价格、国际航运、贸易成本和市场预期间接影响国内生活与工作判断。",
+          "whatToWatch": "接下来要看“外交部：中方正同尼方密切沟通 共同做好搜救工作”是否出现新的官方信息、后续行动，以及它与中国出行、贸易或公共判断的关联是否扩大。"
         },
         "sourceLinks": [
           {
             "title": "新华网国际",
-            "url": "https://www.news.cn/world/20260827/8f17a1039aa846d086ebe1a2dbab0bb0/c.html",
+            "url": "https://www.news.cn/world/20260827/693050f3e09c4b01808cbd0b1ca29fb1/c.html",
             "sourceId": "xinhua-world",
             "publishedAt": "2026-08-27T00:00:00+08:00",
             "language": "zh",
             "originalLanguage": "zh",
             "translationStatus": "not-needed",
-            "fetchedAt": "2026-08-27T22:59:12.428Z",
+            "fetchedAt": "2026-08-28T06:55:25.908Z",
             "sourceMethod": "web",
             "verificationStatus": "confirmed"
           }
         ],
         "images": [],
-        "generatedAt": "2026-08-27T22:59:08.478Z"
+        "generatedAt": "2026-08-28T06:55:19.341Z"
       },
       {
-        "id": "draft-real-gov-uk-news-120w3we",
+        "id": "draft-real-gov-uk-news-134uioa",
         "title": "沙门氏菌疫情更新",
         "oneLine": "风险提醒：《沙门氏菌疫情更新》我们使用一些必要的 Cookie 以使本网站正常运行。",
         "importance": "B",
@@ -509,7 +485,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-27T22:59:12.666Z",
+            "fetchedAt": "2026-08-28T06:55:24.040Z",
             "sourceMethod": "rss",
             "verificationStatus": "confirmed"
           }
@@ -520,10 +496,10 @@
             "sourceUrl": "https://www.gov.uk/government/news/salmonella-outbreak-update"
           }
         ],
-        "generatedAt": "2026-08-27T22:59:08.478Z"
+        "generatedAt": "2026-08-28T06:55:19.341Z"
       },
       {
-        "id": "draft-cluster-real-gov-uk-news-3q7ypl",
+        "id": "draft-real-gov-uk-news-4u6dhh",
         "title": "首相就尼泊尔与中国边境洪水灾害发表的声明：2026年8月26日",
         "oneLine": "风险提醒：《首相就尼泊尔与中国边境洪水灾害发表的声明：2026年8月26日》我们使用必要的 Cookie 以使本网站正常运行。",
         "importance": "B",
@@ -545,7 +521,7 @@
           "background": "出生、死亡、婚姻和护理 企业和自雇人士 育儿和亲子 公民身份及在英国生活 犯罪、司法与法律 残障人士 驾驶与交通 教育与学习 雇佣人员 环境与乡村 住房与地方服务 金钱与税务 护照、海外生活与旅行 签证与移民 工作、就业与养老金 部门 部门、机构与公共机构 新闻 新闻报道、演讲、信函与通知 指南与法规 详细指南、法规与规则 研究与统计 报告、分析与官方统计数据 政策文件与咨询 咨询与战略 透明度 数据、信息自由发布与企业报告 国际事务 外交事务 首相安迪·伯纳姆就尼泊尔-中国边境洪水发表的声明： 这些从尼泊尔-中国边境涌现的画面令人痛心。我同情所有受影响的人，包括在此悲剧中失踪的英国国民的家属和亲友。我们将尽一切努力支持受该地区影响的英国国民，并与相关当局保持联系以提供支持。",
           "keyProgress": "我们使用必要的 Cookie 以使本网站正常运行。我们希望设置额外的 Cookie，以了解您如何使用 GOV.UK、记住您的设置并改善政府服务。我们还使用其他网站设置的 Cookie，以帮助我们提供来自其服务的内容。您可以随时更改 Cookie 设置。",
           "whyItMatters": "“防汛与洪涝风险”的直接价值是帮助你判断是否需要调整出行、居住或工作安排。影响地区、持续时间、预警等级和官方避险建议比事件热度更重要。",
-          "userRelevance": "对于“防汛与洪涝风险”，如果你居住、出行或有家人在中国、英国、法国，应及时查看当地预警和交通变化；不在相关地区时，通常无需改变日常安排。",
+          "userRelevance": "对于“防汛与洪涝风险”，如果你居住、出行或有家人在中国、英国，应及时查看当地预警和交通变化；不在相关地区时，通常无需改变日常安排。",
           "whatToWatch": "接下来要看“防汛与洪涝风险”的影响范围是否扩大、预警等级是否变化，以及是否出现与你所在城市相关的提醒。"
         },
         "sourceLinks": [
@@ -557,19 +533,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-27T22:59:12.666Z",
-            "sourceMethod": "rss",
-            "verificationStatus": "confirmed"
-          },
-          {
-            "title": "GOV.UK News and Communications",
-            "url": "https://www.gov.uk/government/news/joint-statement-from-the-leaders-of-the-united-kingdom-france-germany-italy-the-netherlands-canada-and-norway-on-the-e1-west-bank-settlement-plan",
-            "sourceId": "gov-uk-news",
-            "publishedAt": "2026-08-27T09:37:38.000Z",
-            "language": "zh",
-            "originalLanguage": "en",
-            "translationStatus": "translated",
-            "fetchedAt": "2026-08-27T22:59:12.666Z",
+            "fetchedAt": "2026-08-28T06:55:24.040Z",
             "sourceMethod": "rss",
             "verificationStatus": "confirmed"
           }
@@ -580,7 +544,7 @@
             "sourceUrl": "https://www.gov.uk/government/news/pm-statement-in-response-to-flooding-along-the-nepal-china-border-26-august-2026"
           }
         ],
-        "generatedAt": "2026-08-27T22:59:08.478Z"
+        "generatedAt": "2026-08-28T06:55:19.341Z"
       },
       {
         "id": "draft-real-mem-cn-1rhngxo",
@@ -616,16 +580,61 @@
             "language": "zh",
             "originalLanguage": "zh",
             "translationStatus": "not-needed",
-            "fetchedAt": "2026-08-27T22:59:10.399Z",
+            "fetchedAt": "2026-08-28T06:55:21.318Z",
             "sourceMethod": "web",
             "verificationStatus": "confirmed"
           }
         ],
         "images": [],
-        "generatedAt": "2026-08-27T22:59:08.478Z"
+        "generatedAt": "2026-08-28T06:55:19.341Z"
       },
       {
-        "id": "draft-real-techcrunch-ai-rss-157y3fh",
+        "id": "draft-real-theverge-ai-rss-149n9dt",
+        "title": "谷歌的AI笔记应用现支持用户与书籍互动",
+        "oneLine": "趋势信号：谷歌的 AI 笔记应用 Gemini Notebook 现已支持从您购买的书籍中提取信息。",
+        "importance": "B",
+        "credibility": "待确认",
+        "tags": [
+          "B",
+          "industry",
+          "ai",
+          "technology",
+          "product"
+        ],
+        "industries": [
+          "aiProduct",
+          "aiTechnology",
+          "productManagement",
+          "technologyEngineering",
+          "educationResearch"
+        ],
+        "section": "ai",
+        "body": {
+          "background": "此外，谷歌还与包括 Pollan、Scott、Steven Pinker 和 Jennifer Wallace 在内的 15 位作者合作，创建了“精选笔记本”（Featured Notebooks），每位作者都通过额外的资料来源、介绍信等内容进行了定制。新的“专家智能”（Expert Intelligence）功能允许用户将 Google Play Books 中的书目直接导入 Gemini Notebook，从而基于书中内容提出问题，并生成计划、信息图、AI 播客等。在与 The Verge 的简报会上，Google Labs 编辑总监 Steven Johnson 演示了如何利用该工具，根据 Michael Pollan 的《Food Rules》一书的信息生成食谱书。",
+          "keyProgress": "谷歌还将此功能逐步引入搜索中的 AI Mode……在另一个示例中，Gemini Notebook 运用 Kim Scott 的管理类著作《Radical Candor》中的知识，回答了关于如何处理与员工艰难对话的问题。用户还可以在 Notebook 中直接查看书籍的全文。目前，来自企鹅兰登书屋（Penguin Random House）、约翰斯·霍普金斯大学出版社（Johns Hopkins University Press）、麦克米伦出版社（Macmillan Publishers）、O’Reilly Media 等出版商的超过 10 万本图书已支持“专家智能”功能。",
+          "whyItMatters": "“谷歌的AI笔记应用现支持用户与书籍互动”能帮助你判断这项能力是否已经进入工程、产品或商业场景，并据此调整技术选型、产品规划、学习重点或职业判断。",
+          "userRelevance": "如果你从事AI 产品、AI 技术、产品管理、技术研发，可以重点判断“谷歌的AI笔记应用现支持用户与书籍互动”是否已经具备产品落地、技术选型或业务合作价值。",
+          "whatToWatch": "接下来要看“谷歌的AI笔记应用现支持用户与书籍互动”是否有更多可靠来源、量产或应用进展，以及它会不会从单点消息发展成持续趋势。"
+        },
+        "sourceLinks": [
+          {
+            "title": "The Verge AI RSS",
+            "url": "https://www.theverge.com/tech/985567/google-gemini-notebook-expert-sources-books",
+            "sourceId": "theverge-ai-rss",
+            "publishedAt": "2026-08-27T19:30:00.000Z",
+            "language": "zh",
+            "originalLanguage": "en",
+            "translationStatus": "translated",
+            "fetchedAt": "2026-08-28T06:55:26.086Z",
+            "sourceMethod": "rss",
+            "verificationStatus": "pending"
+          }
+        ],
+        "images": [],
+        "generatedAt": "2026-08-28T06:55:19.341Z"
+      },
+      {
+        "id": "draft-real-techcrunch-ai-rss-14dzack",
         "title": "OpenAI、Anthropic、Google等100家公司呼吁采取行动，防范“失控”人工智能",
         "oneLine": "趋势信号：包括OpenAI、Anthropic、Google和微软在内的逾百家科技公司签署了一封公开信，呼吁私营部门和公共部门携手合作，抵御与人工智能相关的网络威胁。",
         "importance": "B",
@@ -661,16 +670,61 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-27T22:59:13.857Z",
+            "fetchedAt": "2026-08-28T06:55:25.960Z",
             "sourceMethod": "rss",
             "verificationStatus": "pending"
           }
         ],
         "images": [],
-        "generatedAt": "2026-08-27T22:59:08.478Z"
+        "generatedAt": "2026-08-28T06:55:19.341Z"
       },
       {
-        "id": "draft-real-techcrunch-ai-rss-ejrexe",
+        "id": "draft-real-theverge-ai-rss-1agr87k",
+        "title": "黄仁勋称英伟达已实现AGI，但这并不重要",
+        "oneLine": "趋势信号：在周三的财报电话会议上，英伟达（Nvidia）首席执行官黄仁勋随口宣布公司已“实现通用人工智能（AGI）”，这是科技行业终极目标之一，也是其一些最大竞争对手多年追逐的梦想。",
+        "importance": "B",
+        "credibility": "待确认",
+        "tags": [
+          "B",
+          "industry",
+          "ai",
+          "technology",
+          "product"
+        ],
+        "industries": [
+          "aiProduct",
+          "aiTechnology",
+          "productManagement",
+          "technologyEngineering",
+          "educationResearch"
+        ],
+        "section": "ai",
+        "body": {
+          "background": "然而，他几乎立刻将这一备受瞩目的里程碑斥为“毫无意义”。对于这场AI竞赛所谓的终点线，人们连“什么是通用人工智能”都缺乏共识，更不用说如何判断我们是否真正到达了那里，这使得“实现AGI”这一概念同样具有任意性。当被问及OpenAI对AGI的追求时，黄仁勋表示，就英伟达而言，“对于许多任务，我们可以说我们已经实现了AGI。",
+          "keyProgress": "他还指出，AI正从回应简单提示词发展到能够学习新技能并“递归”自我改进的自主智能体。黄仁勋强调，真正重要的是AI正在“从事富有成效和有用的工作”，并“生成具有盈利能力的token”，更多的算力产生更多的token——进而不可避免地带来更高的利润。今年3月，在Lex Fridman播客节目中，他曾明确表示：“我认为我们已经实现了AGI。Fridman提出了一个 oddly specific 的定义：一个能够“ essentially do your job”（基本上完成你的工作）的AI系统，即能够启动、发展并运营一家价值超过10亿美元的成功科技公司。",
+          "whyItMatters": "“黄仁勋称英伟达已实现AGI，但这并不重要”能帮助你判断这项能力是否已经进入工程、产品或商业场景，并据此调整技术选型、产品规划、学习重点或职业判断。",
+          "userRelevance": "如果你从事AI 产品、AI 技术、产品管理、技术研发，可以重点判断“黄仁勋称英伟达已实现AGI，但这并不重要”是否已经具备产品落地、技术选型或业务合作价值。",
+          "whatToWatch": "接下来要看“黄仁勋称英伟达已实现AGI，但这并不重要”是否有更多可靠来源、量产或应用进展，以及它会不会从单点消息发展成持续趋势。"
+        },
+        "sourceLinks": [
+          {
+            "title": "The Verge AI RSS",
+            "url": "https://www.theverge.com/ai-artificial-intelligence/985597/jensen-huang-says-nvidia-achieved-senseless-agi",
+            "sourceId": "theverge-ai-rss",
+            "publishedAt": "2026-08-27T16:15:52.000Z",
+            "language": "zh",
+            "originalLanguage": "en",
+            "translationStatus": "translated",
+            "fetchedAt": "2026-08-28T06:55:26.086Z",
+            "sourceMethod": "rss",
+            "verificationStatus": "pending"
+          }
+        ],
+        "images": [],
+        "generatedAt": "2026-08-28T06:55:19.341Z"
+      },
+      {
+        "id": "draft-real-techcrunch-ai-rss-etr0md",
         "title": "谷歌的AI模式现可追踪航班价格、协助预订酒店等",
         "oneLine": "趋势信号：谷歌周四宣布，正通过其对话式搜索体验“AI Mode”为用户新增旅行规划与预订功能。",
         "importance": "B",
@@ -706,7 +760,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-27T22:59:13.857Z",
+            "fetchedAt": "2026-08-28T06:55:25.960Z",
             "sourceMethod": "rss",
             "verificationStatus": "pending"
           }
@@ -721,10 +775,10 @@
             "sourceUrl": "https://techcrunch.com/2026/08/27/googles-ai-mode-can-now-track-flight-prices-help-book-hotels-and-more/"
           }
         ],
-        "generatedAt": "2026-08-27T22:59:08.478Z"
+        "generatedAt": "2026-08-28T06:55:19.341Z"
       },
       {
-        "id": "draft-cluster-real-techcrunch-ai-rss-1aqzbcl",
+        "id": "draft-cluster-real-techcrunch-ai-rss-18t23hs",
         "title": "Hugging Face 正在出售一款可爱的开源鸭子机器人 Microduck，售价为 399 美元。",
         "oneLine": "趋势信号：Hugging Face 于周四发布了 Microduck，这是一款售价 399 美元、外形酷似小鸭子的可爱机器人，并承诺在圣诞节前发货。",
         "importance": "B",
@@ -760,7 +814,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-27T22:59:13.857Z",
+            "fetchedAt": "2026-08-28T06:55:25.960Z",
             "sourceMethod": "rss",
             "verificationStatus": "pending"
           },
@@ -772,16 +826,16 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-27T22:59:13.885Z",
+            "fetchedAt": "2026-08-28T06:55:26.086Z",
             "sourceMethod": "rss",
             "verificationStatus": "pending"
           }
         ],
         "images": [],
-        "generatedAt": "2026-08-27T22:59:08.478Z"
+        "generatedAt": "2026-08-28T06:55:19.341Z"
       },
       {
-        "id": "draft-real-techcrunch-ai-rss-wei7nf",
+        "id": "draft-real-techcrunch-ai-rss-wohtce",
         "title": "以下是人工智能失控并入侵其他公司的所有事件汇总",
         "oneLine": "最新进展：以下是人工智能失控并入侵其他公司的所有事件汇总。",
         "importance": "B",
@@ -817,7 +871,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-27T22:59:13.857Z",
+            "fetchedAt": "2026-08-28T06:55:25.960Z",
             "sourceMethod": "rss",
             "verificationStatus": "pending"
           }
@@ -828,7 +882,7 @@
             "sourceUrl": "https://techcrunch.com/2026/08/27/heres-all-the-times-ai-has-gone-rogue-and-hacked-other-companies/"
           }
         ],
-        "generatedAt": "2026-08-27T22:59:08.478Z"
+        "generatedAt": "2026-08-28T06:55:19.341Z"
       },
       {
         "id": "draft-cluster-real-openai-news-xknm21",
@@ -867,7 +921,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-27T22:59:13.773Z",
+            "fetchedAt": "2026-08-28T06:55:25.775Z",
             "sourceMethod": "rss",
             "verificationStatus": "confirmed"
           },
@@ -879,7 +933,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-27T22:59:13.885Z",
+            "fetchedAt": "2026-08-28T06:55:26.086Z",
             "sourceMethod": "rss",
             "verificationStatus": "pending"
           }
@@ -890,7 +944,7 @@
             "sourceUrl": "https://www.theverge.com/podcast/985332/openai-greg-brockman-sam-altman-leader-executive-exodus"
           }
         ],
-        "generatedAt": "2026-08-27T22:59:08.478Z"
+        "generatedAt": "2026-08-28T06:55:19.341Z"
       },
       {
         "id": "draft-real-stats-cn-data-t7jwr",
@@ -929,7 +983,7 @@
             "language": "zh",
             "originalLanguage": "zh",
             "translationStatus": "not-needed",
-            "fetchedAt": "2026-08-27T22:59:25.859Z",
+            "fetchedAt": "2026-08-28T06:55:31.630Z",
             "sourceMethod": "web",
             "verificationStatus": "confirmed"
           }
@@ -956,71 +1010,13 @@
             "sourceUrl": "https://www.stats.gov.cn/sj/zxfb/202608/t20260827_1965129.html"
           }
         ],
-        "generatedAt": "2026-08-27T22:59:08.478Z"
-      },
-      {
-        "id": "draft-real-stats-cn-data-1e8iqhn",
-        "title": "2026年1—7月份全国规模以上工业企业利润增长17.6%",
-        "oneLine": "经营环境信号：1 — 7 月份，全国规模以上工业企业实现利润总额 45820.6 亿元，同比增长 17.6% （按可比口径计算，详见附注二）。",
-        "importance": "B",
-        "credibility": "官方来源",
-        "tags": [
-          "B",
-          "industry",
-          "china",
-          "consumer",
-          "operations"
-        ],
-        "industries": [
-          "operationsGrowth",
-          "consumerBrand",
-          "financeInvestment",
-          "ecommerceRetail",
-          "generalPublic"
-        ],
-        "section": "industry",
-        "body": {
-          "background": "发生营业成本 68.79 万亿元，增长 5.9% ；3. 营业成本：指企业从事销售商品、提供劳务和让渡资产使用权等生产经营活动发生的实际成本。以及外购或委托加工完成验收入库用于销售的各种商品。",
-          "keyProgress": "1 — 7 月份，规模以上工业企业中，国有控股企业实现利润总额 14918.9 亿元，同比增长 16.3% ；股份制企业实现利润总额 35494.0 亿元，增长 23.6% ；外商及港澳台投资企业实现利润总额 10137.8 亿元，增长 1.2% ；私营企业实现利润总额 11352.2 亿元，增长 10.9% 。",
-          "whyItMatters": "“2026年1—7月份全国规模以上工业企业利润增长17.6%”反映了需求、成本或市场节奏的一次变化。它不一定马上改变日常生活，但会影响选品、定价、投放、库存和内容方向。",
-          "userRelevance": "如果你从事运营增长、消费品牌、金融投资、电商零售，“2026年1—7月份全国规模以上工业企业利润增长17.6%”可用于观察需求和成本变化，并辅助定价、选品、投放或经营节奏判断。",
-          "whatToWatch": "接下来要看“2026年1—7月份全国规模以上工业企业利润增长17.6%”是否出现更细的城市、行业、平台或企业数据，以及这一变化能否连续保持。"
-        },
-        "sourceLinks": [
-          {
-            "title": "国家统计局数据发布",
-            "url": "https://www.stats.gov.cn/sj/zxfb/202608/t20260827_1965126.html",
-            "sourceId": "stats-cn-data",
-            "publishedAt": "2026-08-27T00:00:00+08:00",
-            "language": "zh",
-            "originalLanguage": "zh",
-            "translationStatus": "not-needed",
-            "fetchedAt": "2026-08-27T22:59:25.859Z",
-            "sourceMethod": "web",
-            "verificationStatus": "confirmed"
-          }
-        ],
-        "images": [
-          {
-            "url": "https://www.stats.gov.cn/sj/zxfb/202608/W020260827339781987673_ORIGIN.png",
-            "sourceUrl": "https://www.stats.gov.cn/sj/zxfb/202608/t20260827_1965126.html"
-          },
-          {
-            "url": "https://www.stats.gov.cn/sj/zxfb/202608/W020260827339782175845_ORIGIN.png",
-            "sourceUrl": "https://www.stats.gov.cn/sj/zxfb/202608/t20260827_1965126.html"
-          },
-          {
-            "url": "https://www.stats.gov.cn/sj/zxfb/202608/W020260827339782345109_ORIGIN.png",
-            "sourceUrl": "https://www.stats.gov.cn/sj/zxfb/202608/t20260827_1965126.html"
-          }
-        ],
-        "generatedAt": "2026-08-27T22:59:08.478Z"
+        "generatedAt": "2026-08-28T06:55:19.341Z"
       }
     ],
-    "estimatedReadMinutes": 29,
+    "estimatedReadMinutes": 31,
     "pageCount": 3,
-    "topCardId": "draft-real-cnbc-world-rss-1jrd1zd",
-    "generatedAt": "2026-08-28T06:44:00.191Z",
+    "topCardId": "draft-real-cnbc-world-rss-1no6c9t",
+    "generatedAt": "2026-08-28T08:12:17.263Z",
     "pushSlots": [
       "08:30",
       "12:30",
@@ -1032,28 +1028,29 @@
       "start": "2026-08-28T07:10:00+08:00",
       "end": "2026-08-28T12:10:00+08:00"
     },
-    "basedOnGeneratedAt": "2026-08-27T22:59:08.478Z",
+    "basedOnGeneratedAt": "2026-08-28T06:55:19.341Z",
     "editionCardIds": [],
     "carriedCardIds": [
-      "draft-real-cnbc-world-rss-1jrd1zd",
-      "draft-cluster-real-npr-world-rss-5ul441",
+      "draft-real-cnbc-world-rss-1no6c9t",
+      "draft-cluster-real-npr-world-rss-50mb14",
       "draft-real-un-news-rss-174opn2",
-      "draft-real-npr-world-rss-mcf0pw",
-      "draft-cluster-real-sky-world-rss-16cujji",
-      "draft-real-cnbc-world-rss-c3qdz0",
-      "draft-real-npr-world-rss-uftkgk",
-      "draft-real-gov-uk-news-1y426cc",
-      "draft-real-xinhua-world-1nm7zd9",
-      "draft-real-gov-uk-news-120w3we",
-      "draft-cluster-real-gov-uk-news-3q7ypl",
+      "draft-real-npr-world-rss-mmemev",
+      "draft-real-xinhua-world-17d3sxp",
+      "draft-cluster-real-sky-world-rss-176tcmf",
+      "draft-real-npr-world-rss-u5tyrl",
+      "draft-real-cnbc-world-rss-1u979ca",
+      "draft-real-xinhua-world-17pk1t2",
+      "draft-real-gov-uk-news-134uioa",
+      "draft-real-gov-uk-news-4u6dhh",
       "draft-real-mem-cn-1rhngxo",
-      "draft-real-techcrunch-ai-rss-157y3fh",
-      "draft-real-techcrunch-ai-rss-ejrexe",
-      "draft-cluster-real-techcrunch-ai-rss-1aqzbcl",
-      "draft-real-techcrunch-ai-rss-wei7nf",
+      "draft-real-theverge-ai-rss-149n9dt",
+      "draft-real-techcrunch-ai-rss-14dzack",
+      "draft-real-theverge-ai-rss-1agr87k",
+      "draft-real-techcrunch-ai-rss-etr0md",
+      "draft-cluster-real-techcrunch-ai-rss-18t23hs",
+      "draft-real-techcrunch-ai-rss-wohtce",
       "draft-cluster-real-openai-news-xknm21",
-      "draft-real-stats-cn-data-t7jwr",
-      "draft-real-stats-cn-data-1e8iqhn"
+      "draft-real-stats-cn-data-t7jwr"
     ]
   }
 }

@@ -1,13 +1,13 @@
 {
   "schemaVersion": 2,
-  "publishedAt": "2026-08-28T16:41:41.590Z",
+  "publishedAt": "2026-08-28T23:04:56.231Z",
   "issue": {
     "id": "daily-public-2026-08-29",
     "date": "2026-08-29",
     "userId": "public",
     "cards": [
       {
-        "id": "draft-real-cnbc-world-rss-kieql2",
+        "id": "draft-real-cnbc-world-rss-lmd5cy",
         "title": "伊朗战争进入第六个月：市场逐渐适应僵局，看不到结束的希望",
         "oneLine": "政策变化：本文发表于周五，标志着美国和以色列对伊朗发动“重大作战行动”已整整六个月。",
         "importance": "S",
@@ -43,7 +43,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-28T16:41:49.211Z",
+            "fetchedAt": "2026-08-28T23:05:00.301Z",
             "sourceMethod": "rss",
             "verificationStatus": "pending"
           }
@@ -58,10 +58,71 @@
             "sourceUrl": "https://www.cnbc.com/2026/08/28/us-iran-war-six-months-trump.html"
           }
         ],
-        "generatedAt": "2026-08-28T16:41:41.590Z"
+        "generatedAt": "2026-08-28T23:04:56.231Z"
       },
       {
-        "id": "draft-real-npr-world-rss-z7ogpe",
+        "id": "draft-real-npr-world-rss-81un4z",
+        "title": "战争持续6个月后，伊朗饱经摧残的政权依然根深蒂固",
+        "oneLine": "最新进展：战争持续6个月后，伊朗饱经摧残的政权依然根深蒂固。",
+        "importance": "S",
+        "credibility": "主流媒体",
+        "tags": [
+          "S",
+          "mustKnow",
+          "world",
+          "policy"
+        ],
+        "industries": [
+          "generalPublic"
+        ],
+        "section": "front",
+        "body": {
+          "background": "在战争首日，空袭击毙了数十名伊朗高级领导人，包括执政三十多年的最高领袖阿亚图拉·阿里·哈梅内伊。尽管伊朗的导弹和无人机项目遭受重创，但在近几个月双方有限且间歇性的交火中，伊朗仍保持了反击能力。尽管军事实力大幅削弱，伊朗仍能基本封锁霍尔木兹海峡，并拥有足够的导弹和无人机，继续对海湾阿拉伯国家以及更远的中东地区国家（包括以色列）构成严重威胁。",
+          "keyProgress": "美国与以色列对伊朗发动战争已六个月。政权不仅没有崩溃，反而固守阵地，采取了更为强硬的立场。以下是这场战争进行到半年之际的局势概览。自2月28日至4月8日宣布停火期间，美国和以色列对伊朗进行了密集轰炸。",
+          "whyItMatters": "“战争持续6个月后，伊朗饱经摧残的政权依然根深蒂固”如果继续发展，可能通过能源价格、航运、贸易、汇率或市场预期传导到国内。了解它的意义在于判断后续风险，而不只停留在事件本身。",
+          "userRelevance": "即使你不在伊朗，“战争持续6个月后，伊朗饱经摧残的政权依然根深蒂固”也可能通过能源价格、国际航运、贸易成本和市场预期间接影响国内生活与工作判断。",
+          "whatToWatch": "接下来要看“战争持续6个月后，伊朗饱经摧残的政权依然根深蒂固”是否出现新的官方信息、后续行动，以及它与中国出行、贸易或公共判断的关联是否扩大。"
+        },
+        "sourceLinks": [
+          {
+            "title": "NPR World RSS",
+            "url": "https://www.npr.org/2026/08/28/nx-s1-5947854/us-iran-war",
+            "sourceId": "npr-world-rss",
+            "publishedAt": "2026-08-28T19:35:24.000Z",
+            "language": "zh",
+            "originalLanguage": "en",
+            "translationStatus": "translated",
+            "fetchedAt": "2026-08-28T23:05:00.006Z",
+            "sourceMethod": "rss",
+            "verificationStatus": "confirmed"
+          }
+        ],
+        "images": [
+          {
+            "url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6000x4000+0+0/resize/1100/quality/50/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fad%2F2e%2F6d69d181449e80011d1535daeed7%2Fgettyimages-2288787522.jpg",
+            "sourceUrl": "https://www.npr.org/2026/08/28/nx-s1-5947854/us-iran-war"
+          },
+          {
+            "url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3000x3000+0+0/resize/100/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F96%2F24%2F697afe704e44b33194cc610de162%2F922fa845-3303-477e-a28e-e5a4d3c6194a.jpg",
+            "sourceUrl": "https://www.npr.org/2026/08/28/nx-s1-5947854/us-iran-war"
+          },
+          {
+            "url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8192x5464+0+0/resize/1100/quality/50/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F30%2F52%2F053a0464499c8e420c7920eae377%2Fgettyimages-2289371588.jpg",
+            "sourceUrl": "https://www.npr.org/2026/08/28/nx-s1-5947854/us-iran-war"
+          },
+          {
+            "url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1335x1335+333+0/resize/100/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F6d%2F17%2Fcbacddaf4b929778493ffb7cd7e6%2Fus-wars-1-gettyimages-1252527806.jpg",
+            "sourceUrl": "https://www.npr.org/2026/08/28/nx-s1-5947854/us-iran-war"
+          },
+          {
+            "url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5760x5760+1440+0/resize/100/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fcd%2F99%2Fff09e3134dfdb75af48f34f0da90%2Fap26203741978326.jpg",
+            "sourceUrl": "https://www.npr.org/2026/08/28/nx-s1-5947854/us-iran-war"
+          }
+        ],
+        "generatedAt": "2026-08-28T23:04:56.231Z"
+      },
+      {
+        "id": "draft-real-npr-world-rss-xtqg8j",
         "title": "美国称管道将使霍尔木兹海峡失去战略意义，能源专家对此表示异议",
         "oneLine": "政策变化：约旦安曼——美国宣布实施新的经济制裁，旨在削弱伊朗对霍尔木兹海峡的控制力，同时指望中东石油生产商迅速建设绕过这一关键航运通道的新管道。",
         "importance": "S",
@@ -92,7 +153,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-28T16:41:48.668Z",
+            "fetchedAt": "2026-08-28T23:05:00.006Z",
             "sourceMethod": "rss",
             "verificationStatus": "confirmed"
           }
@@ -119,12 +180,12 @@
             "sourceUrl": "https://www.npr.org/2026/08/28/g-s1-140309/us-iran-middle-east-oil-pipelines-hormuz"
           }
         ],
-        "generatedAt": "2026-08-28T16:41:41.590Z"
+        "generatedAt": "2026-08-28T23:04:56.231Z"
       },
       {
         "id": "draft-real-cnbc-world-rss-1qedq0t",
         "title": "美国财政部拟制裁与伊朗有联系的埃及银行阿联酋分行",
-        "oneLine": "政策变化：美国财政部周五宣布，拟对埃及银行在阿联酋的分支机构实施制裁，原因是其与伊朗存在金融联系。",
+        "oneLine": "政策变化：美国财政部周五宣布制裁埃及银行在阿联酋的分支机构，原因是其与伊朗存在金融联系。",
         "importance": "S",
         "credibility": "待确认",
         "tags": [
@@ -138,8 +199,8 @@
         ],
         "section": "front",
         "body": {
-          "background": "此举发生在财政部长斯科特·贝森特（Scott Bessent）周一发起“经济放逐行动”（Operation Economic Outcast）仅四天后。财政部在一份声明中表示，将剥夺Banque Misr UAE接入美国金融机构的权限。据财政部称，过去两年间，该机构为约100家可能属于伊朗影子银行网络的公司处理了约18亿美元的交易。",
-          "keyProgress": "该制裁运动旨在切断伊朗与全球的所有经济联系。贝森特周一表示，财政部将在本周结束前“就一家金融机构被制裁作出重大宣布”。美国总统唐纳德·特朗普将针对伊朗的制裁行动形容为等同于二战期间西方盟军大规模入侵纳粹占领欧洲的“诺曼底登陆”（D-Day）。然而，迄今为止，财政部对伊斯兰共和国采取的行动范围仍较为有限。",
+          "background": "此举发生在财政部长斯科特·贝森特（Scott Bessent）周一发起“经济放逐行动”（Operation Economic Outcast）仅四天后。特朗普政府瞄准伊朗贸易生命线，列出了最易受冲击的国家名单；特朗普政府公布了全球反伊朗制裁计划，并暗示中国并非例外。",
+          "keyProgress": "贝森特周一表示，财政部将在本周结束前“宣布对一家金融机构实施重大制裁”。财政部在一份声明中表示，将剥夺埃及银行阿联酋分行（Banque Misr UAE）接入美国金融机构的权限。据财政部称，在过去两年中，该分行为约100家可能属于伊朗影子银行网络的公司处理了约18亿美元的交易。这是一项旨在切断伊朗全球所有经济联系的制裁运动。",
           "whyItMatters": "“美国财政部拟制裁与伊朗有联系的埃及银行阿联酋分行”如果继续发展，可能通过能源价格、航运、贸易、汇率或市场预期传导到国内。了解它的意义在于判断后续风险，而不只停留在事件本身。",
           "userRelevance": "即使你不在美国、伊朗，“美国财政部拟制裁与伊朗有联系的埃及银行阿联酋分行”也可能通过能源价格、国际航运、贸易成本和市场预期间接影响国内生活与工作判断。",
           "whatToWatch": "接下来要看“美国财政部拟制裁与伊朗有联系的埃及银行阿联酋分行”是否出现新的官方信息、后续行动，以及它与中国出行、贸易或公共判断的关联是否扩大。"
@@ -149,17 +210,17 @@
             "title": "CNBC World News RSS",
             "url": "https://www.cnbc.com/2026/08/28/treasury-uae-banque-misr-sanctions-iran.html",
             "sourceId": "cnbc-world-rss",
-            "publishedAt": "2026-08-28T16:28:43.000Z",
+            "publishedAt": "2026-08-28T18:13:13.000Z",
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-28T16:41:49.211Z",
+            "fetchedAt": "2026-08-28T23:05:00.301Z",
             "sourceMethod": "rss",
             "verificationStatus": "pending"
           }
         ],
         "images": [],
-        "generatedAt": "2026-08-28T16:41:41.590Z"
+        "generatedAt": "2026-08-28T23:04:56.231Z"
       },
       {
         "id": "draft-real-cnbc-world-rss-10kgyzh",
@@ -193,7 +254,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-28T16:41:49.211Z",
+            "fetchedAt": "2026-08-28T23:05:00.301Z",
             "sourceMethod": "rss",
             "verificationStatus": "pending"
           }
@@ -204,10 +265,58 @@
             "sourceUrl": "https://www.cnbc.com/2026/08/28/us-iran-war-trump-hormuz-oman-centcom.html"
           }
         ],
-        "generatedAt": "2026-08-28T16:41:41.590Z"
+        "generatedAt": "2026-08-28T23:04:56.231Z"
       },
       {
-        "id": "draft-real-un-news-rss-1ijium",
+        "id": "draft-real-un-news-rss-i4ld5h",
+        "title": "地震后哥伦比亚武装团体招募儿童的风险上升",
+        "oneLine": "风险提醒：联合国周五警告，哥伦比亚近期发生的地震可能增加武装团体在乔科省（Chocó）和考卡山谷省（Valle del Cauca）招募儿童的风险。",
+        "importance": "S",
+        "credibility": "官方来源",
+        "tags": [
+          "S",
+          "mustKnow",
+          "risk",
+          "world",
+          "policy",
+          "disaster"
+        ],
+        "industries": [
+          "generalPublic",
+          "localLife"
+        ],
+        "section": "risk",
+        "body": {
+          "background": "在这些受冲突影响严重的地区，数千名儿童失学。近17.8万名学生就读的学校遭受严重结构性损坏。联合国驻哥伦比亚驻地协调员玛丽亚·何塞·托雷斯·马乔（María José Torres Macho）表示，在非法武装活跃的上述地区，招募儿童问题在灾难发生前就已令人担忧。",
+          "keyProgress": "在乔科省，部分农村学校被完全摧毁，另一些学校部分坍塌，还有多所学校面临随时倒塌的紧迫风险。此次地震损毁超过3,800处教育设施，影响逾100万名学生的教育。“我们担心，儿童失学的状况会加剧这一问题。目前仍在里萨拉尔达省（Risaralda）和卡尔达斯省（Caldas）开展评估工作，以确定哪些学校可以安全复课。",
+          "whyItMatters": "“地震后哥伦比亚武装团体招募儿童的风险上升”的直接价值是帮助你判断是否需要调整出行、居住或工作安排。影响地区、持续时间、预警等级和官方避险建议比事件热度更重要。",
+          "userRelevance": "对于“地震后哥伦比亚武装团体招募儿童的风险上升”，如果你近期计划前往事发地区或与当地有工作、家人联系，需要留意后续预警；没有直接联系时，可把它作为区域风险背景了解。",
+          "whatToWatch": "接下来要看“地震后哥伦比亚武装团体招募儿童的风险上升”的影响范围是否扩大、预警等级是否变化，以及是否出现与你所在城市相关的提醒。"
+        },
+        "sourceLinks": [
+          {
+            "title": "联合国新闻 RSS",
+            "url": "https://news.un.org/feed/view/en/story/2026/08/1168224",
+            "sourceId": "un-news-rss",
+            "publishedAt": "2026-08-28T12:00:00.000Z",
+            "language": "zh",
+            "originalLanguage": "en",
+            "translationStatus": "translated",
+            "fetchedAt": "2026-08-28T23:05:00.622Z",
+            "sourceMethod": "rss",
+            "verificationStatus": "confirmed"
+          }
+        ],
+        "images": [
+          {
+            "url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/08/14-08-2026-UNICEF-Colombia-04.jpg/image560x340cropped.jpg",
+            "sourceUrl": "https://news.un.org/feed/view/en/story/2026/08/1168224"
+          }
+        ],
+        "generatedAt": "2026-08-28T23:04:56.231Z"
+      },
+      {
+        "id": "draft-real-un-news-rss-2whjbh",
         "title": "随着伤亡人数增加，尼泊尔洪水灾害的“巨大影响”受到凸显",
         "oneLine": "风险提醒：尼泊尔致命洪灾影响“巨大”：已确认538具遗体被寻获 尼泊尔当局证实，在受灾地区已寻获538具遗体，此次灾难性洪水的影响被形容为“巨大”。",
         "importance": "A",
@@ -241,7 +350,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-28T16:41:49.323Z",
+            "fetchedAt": "2026-08-28T23:05:00.622Z",
             "sourceMethod": "rss",
             "verificationStatus": "confirmed"
           }
@@ -252,10 +361,10 @@
             "sourceUrl": "https://news.un.org/feed/view/en/story/2026/08/1168221"
           }
         ],
-        "generatedAt": "2026-08-28T16:41:41.590Z"
+        "generatedAt": "2026-08-28T23:04:56.231Z"
       },
       {
-        "id": "draft-real-npr-world-rss-1fkd9s",
+        "id": "draft-real-npr-world-rss-1pjyyr",
         "title": "专家警告尼泊尔可能面临更多洪水袭击。美联储主席将发表重要讲话",
         "oneLine": "这条信息主要围绕专家警告尼泊尔可能面临更多洪水袭击。美联储主席将发表重要讲话展开，核心影响需要结合适用范围和时间节点判断。",
         "importance": "A",
@@ -289,7 +398,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-28T16:41:48.668Z",
+            "fetchedAt": "2026-08-28T23:05:00.006Z",
             "sourceMethod": "rss",
             "verificationStatus": "confirmed"
           }
@@ -312,12 +421,12 @@
             "sourceUrl": "https://www.npr.org/2026/08/28/g-s1-140866/up-first-newsletter-nepal-tibet-floods-kevin-warsh-kennedy-center"
           }
         ],
-        "generatedAt": "2026-08-28T16:41:41.590Z"
+        "generatedAt": "2026-08-28T23:04:56.231Z"
       },
       {
-        "id": "draft-real-npr-world-rss-ly3onu",
-        "title": "冰川融化加剧了尼泊尔致命洪灾，此类事件或将频发",
-        "oneLine": "最新进展：冰川融化加剧了尼泊尔致命洪灾，此类事件或将频发。",
+        "id": "draft-real-npr-world-rss-1nu3lv1",
+        "title": "“这 essentially 是漫长的一天”：女儿详述在尼泊尔寻找父母的过程",
+        "oneLine": "最新进展：“这 essentially 是漫长的一天”：女儿详述在尼泊尔寻找父母的过程。",
         "importance": "A",
         "credibility": "主流媒体",
         "tags": [
@@ -334,54 +443,42 @@
         ],
         "section": "risk",
         "body": {
-          "background": "“毫无疑问，气候变化使此类事件发生的可能性增加，我们正看到更多类似的其他冰川灾害风险出现。当地媒体发布的中国西藏自治区一侧（与尼泊尔接壤）的画面显示，大量水流席卷过一座港口建筑，人们纷纷逃离。”Byers指出，山上持续冻结的土壤和沉积物——即永久冻土——正在发生变化。",
-          "keyProgress": "初步评估显示，冰川上一大块冰体断裂，从高处坠入下方山谷，岩石、冰块和泥浆沿河道奔涌数英里，冲毁了沿岸社区。科学家表示，由于人为全球变暖，该区域乃至全球的冰川正变得日益不稳定。在尼泊尔和西藏的山脉地区，气候变化导致冰川以惊人的速度融化。燃烧石油、天然气和煤炭等化石燃料产生的加剧地球升温的排放物，是气候变化的主要驱动因素。",
-          "whyItMatters": "“冰川融化加剧了尼泊尔致命洪灾，此类事件或将频发”的直接价值是帮助你判断是否需要调整出行、居住或工作安排。影响地区、持续时间、预警等级和官方避险建议比事件热度更重要。",
-          "userRelevance": "对于“冰川融化加剧了尼泊尔致命洪灾，此类事件或将频发”，如果你近期计划前往事发地区或与当地有工作、家人联系，需要留意后续预警；没有直接联系时，可把它作为区域风险背景了解。",
-          "whatToWatch": "接下来要看“冰川融化加剧了尼泊尔致命洪灾，此类事件或将频发”的影响范围是否扩大、预警等级是否变化，以及是否出现与你所在城市相关的提醒。"
+          "background": "目前，阿胡贾与家人（包括祖父母）一起身处华盛顿特区。当时，他们刚完成前往冈仁波齐峰的朝圣徒步旅行，正朝边境方向行进。第二天早上，阿胡贾开始收到亲属关于突发性洪水的消息。",
+          "keyProgress": "她还要求批准在尼泊尔使用星链（Starlink），并表示从事SpaceWorks的朋友告诉她，该公司曾尝试在当地部署卫星终端，但未获批准。“我试着给他们发短信，也打电话联系。起初我并不太担心，”阿胡贾告诉《晨间版》（Morning Edition），“我觉得大家都会想，他们恰好在那一地点的概率有多大？” 截至周五，尼泊尔警方表示，在尼泊尔一侧的边境地区已有超过500人遇难，而在西藏与尼泊尔之间的一条河流中，近30英尺高的巨浪席卷而过，导致总计仍有超过1500人失踪。",
+          "whyItMatters": "“这 essentially 是漫长的一天：女儿详述在尼泊尔寻找父母的过程”的直接价值是帮助你判断是否需要调整出行、居住或工作安排。影响地区、持续时间、预警等级和官方避险建议比事件热度更重要。",
+          "userRelevance": "对于“这 essentially 是漫长的一天：女儿详述在尼泊尔寻找父母的过程”，如果你近期计划前往事发地区或与当地有工作、家人联系，需要留意后续预警；没有直接联系时，可把它作为区域风险背景了解。",
+          "whatToWatch": "接下来要看“这 essentially 是漫长的一天：女儿详述在尼泊尔寻找父母的过程”的影响范围是否扩大、预警等级是否变化，以及是否出现与你所在城市相关的提醒。"
         },
         "sourceLinks": [
           {
             "title": "NPR World RSS",
-            "url": "https://www.npr.org/2026/08/28/nx-s1-5945799/nepal-floods-climate-change-himalayas",
+            "url": "https://www.npr.org/2026/08/28/nx-s1-5946690/nepal-floods-missing-parents-shreya-ahuja",
             "sourceId": "npr-world-rss",
-            "publishedAt": "2026-08-28T09:00:00.000Z",
+            "publishedAt": "2026-08-28T10:54:22.000Z",
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-28T16:41:48.668Z",
+            "fetchedAt": "2026-08-28T23:05:00.006Z",
             "sourceMethod": "rss",
             "verificationStatus": "confirmed"
           }
         ],
         "images": [
           {
-            "url": "https://media.npr.org/assets/img/2023/04/14/nepal-42_sq-8db844b89bf391ff9619e302f2fa91e3eb3e8e16.jpg?s=100&c=85&f=jpeg",
-            "sourceUrl": "https://www.npr.org/2026/08/28/nx-s1-5945799/nepal-floods-climate-change-himalayas"
+            "url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1206x791+0+0/resize/1100/quality/50/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F0e%2Fd6%2F77b0731c497091bfa3ed63af7c56%2Fimg-5038-1.jpg",
+            "sourceUrl": "https://www.npr.org/2026/08/28/nx-s1-5946690/nepal-floods-missing-parents-shreya-ahuja"
           },
           {
-            "url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1969x1969+765+0/resize/100/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fd8%2F6b%2Fe797ccd141ad8e2aff4f3545c5b0%2Fpromo-16x9.jpg",
-            "sourceUrl": "https://www.npr.org/2026/08/28/nx-s1-5945799/nepal-floods-climate-change-himalayas"
-          },
-          {
-            "url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1316x877+0+0/resize/1100/quality/50/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fae%2Fd3%2F550d049b4473a72db2ba72dbbc3d%2Fap26238334534782.jpg",
-            "sourceUrl": "https://www.npr.org/2026/08/28/nx-s1-5945799/nepal-floods-climate-change-himalayas"
-          },
-          {
-            "url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2160x1440+0+0/resize/1100/quality/50/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fc1%2F6e%2F059662504111bfc3acb7b5cbea4f%2Fap26238503594631.jpg",
-            "sourceUrl": "https://www.npr.org/2026/08/28/nx-s1-5945799/nepal-floods-climate-change-himalayas"
-          },
-          {
-            "url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3024x3024+504+0/resize/100/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F0c%2F48%2F1999ad11437fa2e07732f26ccf31%2F1.jpeg",
-            "sourceUrl": "https://www.npr.org/2026/08/28/nx-s1-5945799/nepal-floods-climate-change-himalayas"
+            "url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1440x1440+184+0/resize/100/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fc1%2F6e%2F059662504111bfc3acb7b5cbea4f%2Fap26238503594631.jpg",
+            "sourceUrl": "https://www.npr.org/2026/08/28/nx-s1-5946690/nepal-floods-missing-parents-shreya-ahuja"
           }
         ],
-        "generatedAt": "2026-08-28T16:41:41.590Z"
+        "generatedAt": "2026-08-28T23:04:56.231Z"
       },
       {
-        "id": "draft-real-cnbc-world-rss-131dxvh",
-        "title": "Affirm股价因强劲前景大涨；CEO称高油价正冲击美国消费者",
-        "oneLine": "政策变化：在本文中，Affirm Holdings 股价周五上涨 7%，这家“先买后付”公司报告了强劲的第四财季业绩。",
+        "id": "draft-real-cnbc-world-rss-1tz9ya6",
+        "title": "中国超级富豪逃离新加坡，如今他们想回来了",
+        "oneLine": "最新进展：中国超级富豪逃离新加坡，如今他们想回来了。",
         "importance": "B",
         "credibility": "待确认",
         "tags": [
@@ -395,33 +492,33 @@
         ],
         "section": "front",
         "body": {
-          "background": "“美国消费者无疑感受到了油价上涨的影响，因此不能忽视这一点，”莱夫钦在接受 CNBC《Squawk Box》节目采访时说，“他们也在向我们寻求帮助，以应对各种通胀点带来的价格压力。” 其他新闻包括：Meta 与加州及其他州就社交媒体成瘾案达成 167 亿美元的和解；” 这家金融科技公司周四收盘后发布了第四季度业绩，营收为 11.7 亿美元，高于路孚特（LSEG）预估的 11.1 亿美元。",
-          "keyProgress": "CEO 麦克斯·莱夫钦（Max Levchin）表示，高油价正在给消费者带来压力。OpenAI 数据中心负责人克里斯·马龙（Chris Malone）离职，这是高管接连离任的最新一例。年度通胀率在 7 月为 3.7%，紧随最新个人消费支出价格指数（PCE）数据。作为美联储首选的预测工具，PCE 在 7 月经季节性调整后上涨了 0.2%，但其他数据显示出一定的消费韧性。",
-          "whyItMatters": "“Affirm股价因强劲前景大涨；CEO称高油价正冲击美国消费者”如果继续发展，可能通过能源价格、航运、贸易、汇率或市场预期传导到国内。了解它的意义在于判断后续风险，而不只停留在事件本身。",
-          "userRelevance": "即使你不在美国，“Affirm股价因强劲前景大涨；CEO称高油价正冲击美国消费者”也可能通过能源价格、国际航运、贸易成本和市场预期间接影响国内生活与工作判断。",
-          "whatToWatch": "接下来要看“Affirm股价因强劲前景大涨；CEO称高油价正冲击美国消费者”是否出现新的官方信息、后续行动，以及它与中国出行、贸易或公共判断的关联是否扩大。"
+          "background": "此次转变的背景是北京加强对中国大陆以外持有财富的审查。一年前，富裕的中国家庭对新加坡的热情减退。家族办公室顾问和财富管理人士表示，随着北京加强审查以及地缘政治动荡加剧，新加坡的稳定性再次显现出吸引力，那些曾将生活重心转移至其他金融中心的中国高净值客户对新加坡的兴趣重新升温。",
+          "keyProgress": "Lin 为富裕的中国客户提供设立家族办公室及获取新加坡居留权的咨询，他去年曾表示，随着合规和披露要求的收紧削弱了新加坡的吸引力，他越来越多地协助客户离开这个城邦。影响离岸信托的新规因要求披露架构及潜在税务责任而令富裕家庭感到不安，更严格的监管也已延伸至保险及离岸经纪账户等领域。这一逆转凸显了亚洲富豪们的考量变化之快。在2019年香港抗议活动及随后的国家安全法 crackdown 之后，新加坡成为寻求资产多元化并远离北京影响的大陆中国富豪青睐的目的地。",
+          "whyItMatters": "“中国超级富豪逃离新加坡，如今他们想回来了”如果继续发展，可能通过能源价格、航运、贸易、汇率或市场预期传导到国内。了解它的意义在于判断后续风险，而不只停留在事件本身。",
+          "userRelevance": "即使你不在中国、北京，“中国超级富豪逃离新加坡，如今他们想回来了”也可能通过能源价格、国际航运、贸易成本和市场预期间接影响国内生活与工作判断。",
+          "whatToWatch": "接下来要看“中国超级富豪逃离新加坡，如今他们想回来了”是否出现新的官方信息、后续行动，以及它与中国出行、贸易或公共判断的关联是否扩大。"
         },
         "sourceLinks": [
           {
             "title": "CNBC World News RSS",
-            "url": "https://www.cnbc.com/2026/08/28/affirm-stock-earnings-levchin-gas-prices.html",
+            "url": "https://www.cnbc.com/2026/08/28/chinas-super-rich-fled-singapore-now-they-want-to-come-back.html",
             "sourceId": "cnbc-world-rss",
-            "publishedAt": "2026-08-28T15:16:32.000Z",
+            "publishedAt": "2026-08-28T14:24:58.000Z",
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-28T16:41:49.211Z",
+            "fetchedAt": "2026-08-28T23:05:00.301Z",
             "sourceMethod": "rss",
             "verificationStatus": "pending"
           }
         ],
         "images": [
           {
-            "url": "https://image.cnbcfm.com/api/v1/image/108355733-17879229911787922987-48036610820-1080pnbcnews.jpg?v=1787922990&amp;w=750&amp;h=422&amp;vtcrop=y",
-            "sourceUrl": "https://www.cnbc.com/2026/08/28/affirm-stock-earnings-levchin-gas-prices.html"
+            "url": "https://image.cnbcfm.com/api/v1/image/108355582-17878898411787889838-48029260023-1080pnbcnews.jpg?v=1787889840&amp;w=750&amp;h=422&amp;vtcrop=y",
+            "sourceUrl": "https://www.cnbc.com/2026/08/28/chinas-super-rich-fled-singapore-now-they-want-to-come-back.html"
           }
         ],
-        "generatedAt": "2026-08-28T16:41:41.590Z"
+        "generatedAt": "2026-08-28T23:04:56.231Z"
       },
       {
         "id": "draft-real-mem-cn-1nyqvmx",
@@ -457,13 +554,61 @@
             "language": "zh",
             "originalLanguage": "zh",
             "translationStatus": "not-needed",
-            "fetchedAt": "2026-08-28T16:41:45.680Z",
+            "fetchedAt": "2026-08-28T23:04:58.582Z",
             "sourceMethod": "web",
             "verificationStatus": "confirmed"
           }
         ],
         "images": [],
-        "generatedAt": "2026-08-28T16:41:41.590Z"
+        "generatedAt": "2026-08-28T23:04:56.231Z"
+      },
+      {
+        "id": "draft-real-gov-uk-news-khsp40",
+        "title": "英国向尼泊尔派遣快速反应小组，以支持受洪水影响的英国公民",
+        "oneLine": "风险提醒：《英国向尼泊尔派遣快速反应小组，以支持受洪水影响的英国公民》我们使用必要的 Cookie 以确保本网站正常运行。",
+        "importance": "B",
+        "credibility": "官方来源",
+        "tags": [
+          "B",
+          "mustKnow",
+          "risk",
+          "world",
+          "policy",
+          "local"
+        ],
+        "industries": [
+          "generalPublic",
+          "localLife"
+        ],
+        "section": "risk",
+        "body": {
+          "background": "出生、死亡、婚姻和护理 | 企业和自雇人士 | 儿童保育和育儿 | 公民身份和在英国的生活 | 犯罪、司法和法律 | 残障人士 | 驾驶和交通 | 教育和学习 | 雇佣人员 | 环境和乡村 | 住房和地方服务 | 金钱和税收 | 护照、旅行和海外生活 | 签证和移民 | 工作、就业和养老金 | 部门 | 部门、机构和公共机构 | 新闻 | 新闻故事、演讲、信函和通知 | 指导和监管 | 详细指导、法规和规则 | 研究和统计 | 报告、分析和官方统计数据 | 政策文件和咨询 | 咨询和战略 | 透明度 | 数据、信息自由发布和公司报告 | 国际事务 | 外交事务 该小组将与英国大使馆工作人员及当地当局合作，作为响应工作的一部分，提供额外的领事支持。",
+          "keyProgress": "我们使用必要的 Cookie 以确保本网站正常运行。我们希望设置额外的 Cookie，以了解您如何使用 GOV.UK、记住您的设置并改善政府服务。我们还使用其他网站设置的 Cookie，以便从他们的服务中向我们提供内容。您可以随时更改 Cookie 设置。",
+          "whyItMatters": "“防汛与洪涝风险”的直接价值是帮助你判断是否需要调整出行、居住或工作安排。影响地区、持续时间、预警等级和官方避险建议比事件热度更重要。",
+          "userRelevance": "对于“防汛与洪涝风险”，如果你居住、出行或有家人在英国，应及时查看当地预警和交通变化；不在相关地区时，通常无需改变日常安排。",
+          "whatToWatch": "接下来要看“防汛与洪涝风险”的影响范围是否扩大、预警等级是否变化，以及是否出现与你所在城市相关的提醒。"
+        },
+        "sourceLinks": [
+          {
+            "title": "GOV.UK News and Communications",
+            "url": "https://www.gov.uk/government/news/uk-deploys-rapid-response-team-to-nepal-to-support-british-nationals-affected-by-floods",
+            "sourceId": "gov-uk-news",
+            "publishedAt": "2026-08-28T18:20:39.000Z",
+            "language": "zh",
+            "originalLanguage": "en",
+            "translationStatus": "translated",
+            "fetchedAt": "2026-08-28T23:05:00.521Z",
+            "sourceMethod": "rss",
+            "verificationStatus": "confirmed"
+          }
+        ],
+        "images": [
+          {
+            "url": "https://assets.publishing.service.gov.uk/media/621e4de48fa8f5490aff83b4/s300_fcdo-main-building.jpg",
+            "sourceUrl": "https://www.gov.uk/government/news/uk-deploys-rapid-response-team-to-nepal-to-support-british-nationals-affected-by-floods"
+          }
+        ],
+        "generatedAt": "2026-08-28T23:04:56.231Z"
       },
       {
         "id": "draft-real-xinhua-tech-rdu5ie",
@@ -502,13 +647,13 @@
             "language": "zh",
             "originalLanguage": "zh",
             "translationStatus": "not-needed",
-            "fetchedAt": "2026-08-28T16:41:47.109Z",
+            "fetchedAt": "2026-08-28T23:04:59.854Z",
             "sourceMethod": "web",
             "verificationStatus": "confirmed"
           }
         ],
         "images": [],
-        "generatedAt": "2026-08-28T16:41:41.590Z"
+        "generatedAt": "2026-08-28T23:04:56.231Z"
       },
       {
         "id": "draft-real-xinhua-tech-a8tq3f",
@@ -547,7 +692,7 @@
             "language": "zh",
             "originalLanguage": "zh",
             "translationStatus": "not-needed",
-            "fetchedAt": "2026-08-28T16:41:47.109Z",
+            "fetchedAt": "2026-08-28T23:04:59.854Z",
             "sourceMethod": "web",
             "verificationStatus": "confirmed"
           }
@@ -574,12 +719,12 @@
             "sourceUrl": "https://www.news.cn/tech/20260828/34bc447eefd640abbe6086e6abf1562e/c.html"
           }
         ],
-        "generatedAt": "2026-08-28T16:41:41.590Z"
+        "generatedAt": "2026-08-28T23:04:56.231Z"
       },
       {
-        "id": "draft-cluster-real-techcrunch-ai-rss-j0l0nz",
-        "title": "Anthropic 在针对五角大楼供应链风险标签的诉讼中首次胜诉",
-        "oneLine": "趋势信号：加州一名联邦法官周四晚间裁定，特朗普政府将Anthropic列为“供应链风险”的做法违法。",
+        "id": "draft-real-techcrunch-ai-rss-1lar9lh",
+        "title": "开放权重AI公司成为硅谷最热门的收购目标",
+        "oneLine": "最新进展：开放权重AI公司成为硅谷最热门的收购目标。",
         "importance": "B",
         "credibility": "待确认",
         "tags": [
@@ -598,43 +743,31 @@
         ],
         "section": "ai",
         "body": {
-          "background": "今年早些时候，海格塞斯与唐纳德·特朗普总统将Anthropic列为供应链风险，并命令所有联邦机构——包括非国防部门——停止与该Claude模型开发商合作。这场争端源于Anthropic对某些安全护栏设定了严格界限，拒绝允许五角大楼将其模型用于完全自主的武器系统以及对美国公民的大规模监控。五角大楼否认会将其用于任何非法目的，并指控Anthropic试图控制军方对其购买和付费使用的模型的应用方式。",
-          "keyProgress": "林还表示，Anthropic被剥夺了第五修正案所要求的正当程序权利。她还指出，国防部继续推进与该公司的合同，且政府正与其新模型Mythos合作开展网络安全工作。林写道：“尽管战争部毫无疑问有权选择其偏好的AI供应商，但证据表明，强加于Anthropic的广泛措施是非法且毫无根据的。” Anthropic发言人在向TechCrunch分享的声明中表示：“我们欢迎法院裁定这一供应链风险认定不合法。",
-          "whyItMatters": "“Anthropic 在针对五角大楼供应链风险标签的诉讼中首次胜诉”能帮助你判断这项能力是否已经进入工程、产品或商业场景，并据此调整技术选型、产品规划、学习重点或职业判断。",
-          "userRelevance": "如果你从事AI 产品、AI 技术、产品管理、技术研发，可以重点判断“Anthropic 在针对五角大楼供应链风险标签的诉讼中首次胜诉”是否已经具备产品落地、技术选型或业务合作价值。",
-          "whatToWatch": "接下来要看“Anthropic 在针对五角大楼供应链风险标签的诉讼中首次胜诉”是否有更多可靠来源、量产或应用进展，以及它会不会从单点消息发展成持续趋势。"
+          "background": "该平台用于分享开放权重AI模型和基准测试。这一点尤为关键，因为像OpenAI和Google这样的大型AI模型构建商也在开发自己的推理芯片，例如OpenAI的Jalapeño芯片，其能力已于本周公布。目前，Hugging Face最广为人知的身份是OpenAI奖励黑客代理团队的目标对象，但它也是构建和部署非前沿实验室所有的大语言模型（LLM）开发者生态系统的核心。",
+          "keyProgress": "可以说，它是AI时代的GitHub。这一收购传闻出现在英伟达与开放权重模型构建商Poolside达成60亿美元协议之后，该协议将导致Poolside的大部分员工加入这家芯片制造巨头。此外，两周前，Stripe以超过70亿美元的价格收购了向企业提供开放权重模型服务的顶级提供商OpenRouter。大量资本涌入这个以“免费共享”为基础的行业，反映了AI领域的最新趋势。",
+          "whyItMatters": "“开放权重AI公司成为硅谷最热门的收购目标”能帮助你判断这项能力是否已经进入工程、产品或商业场景，并据此调整技术选型、产品规划、学习重点或职业判断。",
+          "userRelevance": "如果你从事AI 产品、AI 技术、产品管理、技术研发，可以重点判断“开放权重AI公司成为硅谷最热门的收购目标”是否已经具备产品落地、技术选型或业务合作价值。",
+          "whatToWatch": "接下来要看“开放权重AI公司成为硅谷最热门的收购目标”是否有更多可靠来源、量产或应用进展，以及它会不会从单点消息发展成持续趋势。"
         },
         "sourceLinks": [
           {
             "title": "TechCrunch AI RSS",
-            "url": "https://techcrunch.com/2026/08/28/anthropic-gets-its-first-court-win-over-the-pentagons-supply-chain-risk-label/",
+            "url": "https://techcrunch.com/2026/08/28/open-weight-ai-companies-are-the-valleys-hottest-acquisition-targets/",
             "sourceId": "techcrunch-ai-rss",
-            "publishedAt": "2026-08-28T12:46:12.000Z",
+            "publishedAt": "2026-08-28T18:19:40.000Z",
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-28T16:41:50.839Z",
-            "sourceMethod": "rss",
-            "verificationStatus": "pending"
-          },
-          {
-            "title": "The Verge AI RSS",
-            "url": "https://www.theverge.com/ai-artificial-intelligence/985947/anthropic-supply-chain-risk-lawsuit-judge-ruling",
-            "sourceId": "theverge-ai-rss",
-            "publishedAt": "2026-08-28T03:14:06.000Z",
-            "language": "zh",
-            "originalLanguage": "en",
-            "translationStatus": "translated",
-            "fetchedAt": "2026-08-28T16:41:50.819Z",
+            "fetchedAt": "2026-08-28T23:05:01.847Z",
             "sourceMethod": "rss",
             "verificationStatus": "pending"
           }
         ],
         "images": [],
-        "generatedAt": "2026-08-28T16:41:41.590Z"
+        "generatedAt": "2026-08-28T23:04:56.231Z"
       },
       {
-        "id": "draft-real-techcrunch-ai-rss-28v3v0",
+        "id": "draft-real-techcrunch-ai-rss-1ewas3",
         "title": "Meta高管离职加入OpenAI，与此同时这家社交媒体巨头在印度面临日益加剧的审查",
         "oneLine": "趋势信号：Meta印度及东南亚副总裁桑迪亚·德瓦纳坦（Sandhya Devanathan）将离开这家社交媒体巨头，加入ChatGPT开发商OpenAI。",
         "importance": "B",
@@ -670,61 +803,16 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-28T16:41:50.839Z",
+            "fetchedAt": "2026-08-28T23:05:01.847Z",
             "sourceMethod": "rss",
             "verificationStatus": "pending"
           }
         ],
         "images": [],
-        "generatedAt": "2026-08-28T16:41:41.590Z"
+        "generatedAt": "2026-08-28T23:04:56.231Z"
       },
       {
-        "id": "draft-real-theverge-ai-rss-1ur7inn",
-        "title": "特朗普政府的环保署拟允许数据中心隐藏其空气污染数据",
-        "oneLine": "趋势信号：随着新建数据中心面临周边社区日益增长的反对声浪，美国环境保护署（EPA）正计划进一步限制公众对这类设施产生的污染进行意见表达的机会。",
-        "importance": "B",
-        "credibility": "待确认",
-        "tags": [
-          "B",
-          "industry",
-          "ai",
-          "technology",
-          "product"
-        ],
-        "industries": [
-          "aiProduct",
-          "aiTechnology",
-          "productManagement",
-          "technologyEngineering",
-          "educationResearch"
-        ],
-        "section": "ai",
-        "body": {
-          "background": "EPA 拟废除一项联邦规定，该规定要求在某些工业设施申请空气排放许可证时，必须发布公共通知并提供评论机会。直到推土机开到现场，人们才得知发生了什么。” EPA 提出的变更适用于自 20 世纪 70 年代以来一直存在的“新源审查”（New Source Review）许可程序，该程序涵盖从垃圾填埋场、造纸厂到发电厂扩建等广泛类型的设施。",
-          "keyProgress": "倡导者警告称，此举将使数据中心开发商及其他行业在动工前无需征求附近居民的意见，甚至不发出任何施工预警。今年 7 月，EPA 宣布将取消针对大量污染源的联邦公众参与要求，并将这一责任下放至各州。南方环境法律中心（SELC）的高级律师兼空气项目负责人凯丽·鲍威尔（Keri Powell）表示：“你可以理解，为什么这项举措对急于推进数据中心建设的政府而言如此具有吸引力。”她指出，“EPA 将允许这些设施绕过公众参与，在闭门状态下秘密颁发许可证。",
-          "whyItMatters": "“特朗普政府的环保署拟允许数据中心隐藏其空气污染数据”能帮助你判断这项能力是否已经进入工程、产品或商业场景，并据此调整技术选型、产品规划、学习重点或职业判断。",
-          "userRelevance": "如果你从事AI 产品、AI 技术、产品管理、技术研发，可以重点判断“特朗普政府的环保署拟允许数据中心隐藏其空气污染数据”是否已经具备产品落地、技术选型或业务合作价值。",
-          "whatToWatch": "接下来要看“特朗普政府的环保署拟允许数据中心隐藏其空气污染数据”是否有更多可靠来源、量产或应用进展，以及它会不会从单点消息发展成持续趋势。"
-        },
-        "sourceLinks": [
-          {
-            "title": "The Verge AI RSS",
-            "url": "https://www.theverge.com/ai-artificial-intelligence/986176/data-center-pollution-epa-rule-change-air-permit",
-            "sourceId": "theverge-ai-rss",
-            "publishedAt": "2026-08-28T16:28:40.000Z",
-            "language": "zh",
-            "originalLanguage": "en",
-            "translationStatus": "translated",
-            "fetchedAt": "2026-08-28T16:41:50.819Z",
-            "sourceMethod": "rss",
-            "verificationStatus": "pending"
-          }
-        ],
-        "images": [],
-        "generatedAt": "2026-08-28T16:41:41.590Z"
-      },
-      {
-        "id": "draft-real-techcrunch-ai-rss-87d8t",
+        "id": "draft-real-techcrunch-ai-rss-1xbe7d4",
         "title": "Anthropic 和 OpenAI 将亮相 TechCrunch Disrupt 2026",
         "oneLine": "最新进展：Anthropic 和 OpenAI 将亮相 TechCrunch Disrupt 2026。",
         "importance": "B",
@@ -760,13 +848,13 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-28T16:41:50.839Z",
+            "fetchedAt": "2026-08-28T23:05:01.847Z",
             "sourceMethod": "rss",
             "verificationStatus": "pending"
           }
         ],
         "images": [],
-        "generatedAt": "2026-08-28T16:41:41.590Z"
+        "generatedAt": "2026-08-28T23:04:56.231Z"
       },
       {
         "id": "draft-real-cas-science-news-1id9h32",
@@ -801,7 +889,7 @@
             "language": "zh",
             "originalLanguage": "zh",
             "translationStatus": "not-needed",
-            "fetchedAt": "2026-08-28T16:41:42.922Z",
+            "fetchedAt": "2026-08-28T23:04:57.499Z",
             "sourceMethod": "web",
             "verificationStatus": "confirmed"
           }
@@ -812,7 +900,7 @@
             "sourceUrl": "https://www.cas.cn/syky/202608/t20260828_5119224.shtml"
           }
         ],
-        "generatedAt": "2026-08-28T16:41:41.590Z"
+        "generatedAt": "2026-08-28T23:04:56.231Z"
       },
       {
         "id": "draft-cluster-real-cas-science-news-ibyer4",
@@ -847,7 +935,7 @@
             "language": "zh",
             "originalLanguage": "zh",
             "translationStatus": "not-needed",
-            "fetchedAt": "2026-08-28T16:41:42.922Z",
+            "fetchedAt": "2026-08-28T23:04:57.499Z",
             "sourceMethod": "web",
             "verificationStatus": "confirmed"
           },
@@ -859,7 +947,7 @@
             "language": "zh",
             "originalLanguage": "zh",
             "translationStatus": "not-needed",
-            "fetchedAt": "2026-08-28T16:41:42.922Z",
+            "fetchedAt": "2026-08-28T23:04:57.499Z",
             "sourceMethod": "web",
             "verificationStatus": "confirmed"
           }
@@ -870,13 +958,13 @@
             "sourceUrl": "https://www.cas.cn/djcx/gz/202608/t20260828_5119197.shtml"
           }
         ],
-        "generatedAt": "2026-08-28T16:41:41.590Z"
+        "generatedAt": "2026-08-28T23:04:56.231Z"
       }
     ],
-    "estimatedReadMinutes": 26,
+    "estimatedReadMinutes": 29,
     "pageCount": 3,
-    "topCardId": "draft-real-cnbc-world-rss-kieql2",
-    "generatedAt": "2026-08-28T16:41:41.590Z",
+    "topCardId": "draft-real-cnbc-world-rss-lmd5cy",
+    "generatedAt": "2026-08-28T23:04:56.231Z",
     "pushSlots": [
       "08:30",
       "12:30",
@@ -889,21 +977,23 @@
       "end": "2026-08-29T07:10:00+08:00"
     },
     "editionCardIds": [
-      "draft-real-cnbc-world-rss-kieql2",
-      "draft-real-npr-world-rss-z7ogpe",
+      "draft-real-cnbc-world-rss-lmd5cy",
+      "draft-real-npr-world-rss-81un4z",
+      "draft-real-npr-world-rss-xtqg8j",
       "draft-real-cnbc-world-rss-1qedq0t",
       "draft-real-cnbc-world-rss-10kgyzh",
-      "draft-real-un-news-rss-1ijium",
-      "draft-real-npr-world-rss-1fkd9s",
-      "draft-real-npr-world-rss-ly3onu",
-      "draft-real-cnbc-world-rss-131dxvh",
+      "draft-real-un-news-rss-i4ld5h",
+      "draft-real-un-news-rss-2whjbh",
+      "draft-real-npr-world-rss-1pjyyr",
+      "draft-real-npr-world-rss-1nu3lv1",
+      "draft-real-cnbc-world-rss-1tz9ya6",
       "draft-real-mem-cn-1nyqvmx",
+      "draft-real-gov-uk-news-khsp40",
       "draft-real-xinhua-tech-rdu5ie",
       "draft-real-xinhua-tech-a8tq3f",
-      "draft-cluster-real-techcrunch-ai-rss-j0l0nz",
-      "draft-real-techcrunch-ai-rss-28v3v0",
-      "draft-real-theverge-ai-rss-1ur7inn",
-      "draft-real-techcrunch-ai-rss-87d8t",
+      "draft-real-techcrunch-ai-rss-1lar9lh",
+      "draft-real-techcrunch-ai-rss-1ewas3",
+      "draft-real-techcrunch-ai-rss-1xbe7d4",
       "draft-real-cas-science-news-1id9h32",
       "draft-cluster-real-cas-science-news-ibyer4"
     ],

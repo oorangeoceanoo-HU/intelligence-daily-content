@@ -1,20 +1,20 @@
 {
   "version": 1,
   "date": "2026-08-28",
-  "generatedAt": "2026-08-27T23:08:02.442Z",
+  "generatedAt": "2026-08-28T07:00:46.964Z",
   "status": "review",
   "reviewMode": "generated",
-  "candidateSha256": "244f6b266eba0d09e9df1a9100b40e3d7ab9c0f0f7577a452eb9d7acb46e96c6",
+  "candidateSha256": "552e485d1440bc0e2c4dff08f943fa3aa02c22a519c262068f6bc755a5edd276",
   "counts": {
     "cards": 20,
     "pages": 3,
-    "rawItems": 112,
-    "freshCandidates": 95,
-    "publishableCards": 29,
-    "reviewableCards": 11,
-    "rejectedCards": 14,
+    "rawItems": 115,
+    "freshCandidates": 101,
+    "publishableCards": 27,
+    "reviewableCards": 12,
+    "rejectedCards": 15,
     "blockers": 0,
-    "warnings": 19
+    "warnings": 20
   },
   "findings": [
     {
@@ -24,24 +24,15 @@
     },
     {
       "level": "warning",
+      "code": "current-coverage-local",
+      "message": "居住城市与家乡城市：上海、杭州、长春、深圳、伦敦、宿州、汕尾在本时段没有新的可用条目：已监测 1 个可访问来源，但当前只命中 0 个。公共共享日报会监测示例城市，但城市无新增不能阻止其他核心内容出版；发现线索仍需官方或主流来源确认。"
+    },
+    {
+      "level": "warning",
       "code": "card-needs-human-review",
       "message": "原文信息量有限，需要确认是否足以支持卡片结论。",
       "cardId": "draft-real-mem-cn-3pxan8",
       "cardTitle": "国家防总、应急管理部针对上海启动防汛防台风四级应急响应"
-    },
-    {
-      "level": "warning",
-      "code": "card-needs-human-review",
-      "message": "没有抓到完整正文，目前使用候选摘要回退。",
-      "cardId": "draft-real-france24-asia-pacific-rss-qqwnsc",
-      "cardTitle": "尼泊尔-西藏实时报道：洪水预警下死亡人数突破360人"
-    },
-    {
-      "level": "warning",
-      "code": "card-needs-human-review",
-      "message": "原文信息量有限，需要确认是否足以支持卡片结论。",
-      "cardId": "draft-real-france24-asia-pacific-rss-qqwnsc",
-      "cardTitle": "尼泊尔-西藏实时报道：洪水预警下死亡人数突破360人"
     },
     {
       "level": "warning",
@@ -68,64 +59,50 @@
       "level": "warning",
       "code": "card-needs-human-review",
       "message": "没有抓到完整正文，目前使用候选摘要回退。",
-      "cardId": "draft-real-france24-asia-pacific-rss-9freos",
+      "cardId": "draft-real-france24-asia-pacific-rss-9pr0dr",
       "cardTitle": "尼泊尔发生自然灾害后，红十字会紧急动员：“整个村庄和社区被冲毁”"
     },
     {
       "level": "warning",
       "code": "card-needs-human-review",
       "message": "原文篇幅较短且不是官方或主流来源，需要发布前复核。",
-      "cardId": "draft-real-france24-asia-pacific-rss-9freos",
+      "cardId": "draft-real-france24-asia-pacific-rss-9pr0dr",
       "cardTitle": "尼泊尔发生自然灾害后，红十字会紧急动员：“整个村庄和社区被冲毁”"
     },
     {
       "level": "warning",
       "code": "card-needs-human-review",
       "message": "没有抓到完整正文，目前使用候选摘要回退。",
-      "cardId": "draft-real-france24-asia-pacific-rss-1cr29vi",
+      "cardId": "draft-real-france24-asia-pacific-rss-1d11vkh",
       "cardTitle": "为何在喜马拉雅山泥石流灾害期间，会有如此多的印度朝圣者身处西藏？"
     },
     {
       "level": "warning",
       "code": "card-needs-human-review",
       "message": "原文信息量有限，需要确认是否足以支持卡片结论。",
-      "cardId": "draft-real-france24-asia-pacific-rss-1cr29vi",
+      "cardId": "draft-real-france24-asia-pacific-rss-1d11vkh",
       "cardTitle": "为何在喜马拉雅山泥石流灾害期间，会有如此多的印度朝圣者身处西藏？"
     },
     {
       "level": "warning",
       "code": "card-needs-human-review",
       "message": "没有抓到完整正文，目前使用候选摘要回退。",
-      "cardId": "draft-real-france24-asia-pacific-rss-1mfqrzq",
+      "cardId": "draft-real-france24-asia-pacific-rss-1n9pl2n",
       "cardTitle": "尼泊尔山洪暴发：地质交战区的灾难"
     },
     {
       "level": "warning",
       "code": "card-needs-human-review",
       "message": "原文信息量有限，需要确认是否足以支持卡片结论。",
-      "cardId": "draft-real-france24-asia-pacific-rss-1mfqrzq",
+      "cardId": "draft-real-france24-asia-pacific-rss-1n9pl2n",
       "cardTitle": "尼泊尔山洪暴发：地质交战区的灾难"
     },
     {
       "level": "warning",
       "code": "card-needs-human-review",
       "message": "一句话导读偏短，可能没有讲清楚核心事实。",
-      "cardId": "draft-real-france24-asia-pacific-rss-1mfqrzq",
+      "cardId": "draft-real-france24-asia-pacific-rss-1n9pl2n",
       "cardTitle": "尼泊尔山洪暴发：地质交战区的灾难"
-    },
-    {
-      "level": "warning",
-      "code": "card-needs-human-review",
-      "message": "没有抓到完整正文，目前使用候选摘要回退。",
-      "cardId": "draft-real-france24-asia-pacific-rss-cq3zo",
-      "cardTitle": "关于尼泊尔山体滑坡背后环境成因的了解"
-    },
-    {
-      "level": "warning",
-      "code": "card-needs-human-review",
-      "message": "原文信息量有限，需要确认是否足以支持卡片结论。",
-      "cardId": "draft-real-france24-asia-pacific-rss-cq3zo",
-      "cardTitle": "关于尼泊尔山体滑坡背后环境成因的了解"
     },
     {
       "level": "warning",
@@ -137,6 +114,20 @@
     {
       "level": "warning",
       "code": "card-needs-human-review",
+      "message": "没有抓到完整正文，目前使用候选摘要回退。",
+      "cardId": "draft-real-france24-asia-pacific-rss-mppon",
+      "cardTitle": "关于尼泊尔山体滑坡背后环境成因的了解"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "原文信息量有限，需要确认是否足以支持卡片结论。",
+      "cardId": "draft-real-france24-asia-pacific-rss-mppon",
+      "cardTitle": "关于尼泊尔山体滑坡背后环境成因的了解"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
       "message": "一句话导读偏短，可能没有讲清楚核心事实。",
       "cardId": "draft-real-deepmind-blog-dqlyli",
       "cardTitle": "开展全球首个双盲人工智能评估试点"
@@ -144,8 +135,22 @@
     {
       "level": "warning",
       "code": "card-needs-human-review",
+      "message": "原文信息量有限，需要确认是否足以支持卡片结论。",
+      "cardId": "draft-real-arxiv-cs-api-m61fw3",
+      "cardTitle": "RedEvoAgent：一种基于经验驱动技能演进的自动化红队测试智能体"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "原文信息量有限，需要确认是否足以支持卡片结论。",
+      "cardId": "draft-real-arxiv-cs-api-2lyi85",
+      "cardTitle": "LeVJEPA：无需启发式方法的高效可扩展视频预训练"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
       "message": "标题过长，移动端阅读时需要压缩成编辑标题。",
-      "cardId": "draft-real-techcrunch-ai-rss-1ipxwjp",
+      "cardId": "draft-real-techcrunch-ai-rss-1ifyauq",
       "cardTitle": "巴雷特·佐普（Barret Zoph）是“思维机器”（Thinking Machines）的联合创始人，在加入OpenAI之前被解雇，如今已转投谷歌。"
     }
   ]

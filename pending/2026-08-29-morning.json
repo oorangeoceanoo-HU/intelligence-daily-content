@@ -1,0 +1,291 @@
+{
+  "schemaVersion": 2,
+  "publishedAt": "2026-08-28T16:30:13.731Z",
+  "issue": {
+    "id": "daily-public-2026-08-29",
+    "date": "2026-08-29",
+    "userId": "public",
+    "cards": [
+      {
+        "id": "draft-real-mem-cn-1nyqvmx",
+        "title": "应急管理部统筹调派各类应急救援力量在西藏吉隆县开展抢险救援工作",
+        "oneLine": "风险提醒：西藏日喀则市吉隆县泥石流灾害发生后，应急管理部统筹调派应急救援力量紧急驰援，截至 8 月 28 日 9 时，应急救援力量 1386 人、各型救援装备器材 570 余台套抵达现场，正在开展人员搜救、风险监测、通信保障、道路抢通等工作。",
+        "importance": "B",
+        "credibility": "官方来源",
+        "tags": [
+          "B",
+          "risk",
+          "disaster",
+          "publicSafety",
+          "china"
+        ],
+        "industries": [
+          "generalPublic",
+          "localLife"
+        ],
+        "section": "risk",
+        "body": {
+          "background": "中央企业应急力量 12 支、 613 人、 408 台套装备器材，包括应急管理部自然灾害工程应急救援中心（中国安能）拉萨基地、成都基地、重庆队和中国中铁、中国铁建、中交集团、中国电建、中国能建、中国雅江集团等，携带多功能侦测无人机、三维激光扫描仪、生命探测仪、大型挖掘机、装载机等专业装备器材；同时，从中国救援队、上海消防研究所、中国安能抽调相关领域专家 31 人协助开展救援工作。国家减灾中心组织“雨燕应急”成员单位派出 11 名飞手，携带 7 架侦察无人机、 2 架大载重无人机，协同开展空中勘查、灾情监测、区域搜索等。",
+          "keyProgress": "其中：国家综合性消防救援队伍 681 人、 13 犬、 113 车、 47 架无人机，携带生命探测、救生、破拆、通信、保障等专业装备器材；调动 1 架高原型米 -171 直升机进驻日喀则定日机场。另外，指导西藏自治区应急管理厅引导西藏蓝天救援队、浙江公羊会公益救援促进会、邛崃雄鹰救援队 50 人参与救援行动。各类应急救援力量在现场指挥部统一指挥下，协同联合开展抢险救援工作。",
+          "whyItMatters": "“应急管理部统筹调派各类应急救援力量在西藏吉隆县开展抢险救援工作”的直接价值是帮助你判断是否需要调整出行、居住或工作安排。影响地区、持续时间、预警等级和官方避险建议比事件热度更重要。",
+          "userRelevance": "对于“应急管理部统筹调派各类应急救援力量在西藏吉隆县开展抢险救援工作”，如果你居住、出行或有家人在西藏，应及时查看当地预警和交通变化；不在相关地区时，通常无需改变日常安排。",
+          "whatToWatch": "接下来要看“应急管理部统筹调派各类应急救援力量在西藏吉隆县开展抢险救援工作”的影响范围是否扩大、预警等级是否变化，以及是否出现与你所在城市相关的提醒。"
+        },
+        "sourceLinks": [
+          {
+            "title": "应急管理部",
+            "url": "https://www.mem.gov.cn/xw/yjglbgzdt/202608/t20260828_709053.shtml",
+            "sourceId": "mem-cn",
+            "publishedAt": "2026-08-28T00:00:00+08:00",
+            "language": "zh",
+            "originalLanguage": "zh",
+            "translationStatus": "not-needed",
+            "fetchedAt": "2026-08-28T16:30:16.329Z",
+            "sourceMethod": "web",
+            "verificationStatus": "confirmed"
+          }
+        ],
+        "images": [],
+        "generatedAt": "2026-08-28T16:30:13.731Z"
+      },
+      {
+        "id": "draft-real-xinhua-tech-rdu5ie",
+        "title": "国产人形机器人跑出突围加速度",
+        "oneLine": "趋势信号：最近人形机器人又吸引了全国乃至全球的目光。",
+        "importance": "B",
+        "credibility": "主流媒体",
+        "tags": [
+          "B",
+          "industry",
+          "technology",
+          "ai",
+          "product"
+        ],
+        "industries": [
+          "technologyEngineering",
+          "educationResearch",
+          "aiProduct",
+          "aiTechnology",
+          "productManagement"
+        ],
+        "section": "ai",
+        "body": {
+          "background": "先是2026世界机器人大会开幕，会上展出的大量国产人形机器人，不只是翻跟头、秀特技，还现场演示起工厂干活、家务服务等。紧接着，第二届世界人形机器人运动会也鸣枪开赛，2000多台机器人同场竞技，拼的是背后的技术实力。一连串火热场景表明，国产人形机器人正从“舞台上动起来”“赛场上跑起来”向“家庭里用起来”“工厂里干起来”加速进化，跑出突围新速度。",
+          "keyProgress": "如果说，计算机延伸了人脑，智能手机延伸了人的感官，新能源汽车延伸了人的腿脚，那么人形机器人延伸的是人的全身行动能力，能推动人工智能从数字世界走向物理现实。行业预计，未来全球人形机器人市场规模有望比肩汽车产业体量。”赛事的目的并非竞技排名，而是“以赛促研、以赛促产”，推动行业加快技术迭代。依托多年积累的制造业根基，我国作为全球最大工业机器人市场，拥有完备产业链、快速配套能力和成本等优势。",
+          "whyItMatters": "“国产人形机器人跑出突围加速度”能帮助你判断这项能力是否已经进入工程、产品或商业场景，并据此调整技术选型、产品规划、学习重点或职业判断。",
+          "userRelevance": "如果你从事技术研发、教育研究、AI 产品、AI 技术，可以重点判断“国产人形机器人跑出突围加速度”是否已经具备产品落地、技术选型或业务合作价值。",
+          "whatToWatch": "接下来要看“国产人形机器人跑出突围加速度”是否有更多可靠来源、量产或应用进展，以及它会不会从单点消息发展成持续趋势。"
+        },
+        "sourceLinks": [
+          {
+            "title": "新华网科技",
+            "url": "https://www.news.cn/tech/20260828/1b6a74a432b54593a50fbd20a5018d53/c.html",
+            "sourceId": "xinhua-tech",
+            "publishedAt": "2026-08-28T00:00:00+08:00",
+            "language": "zh",
+            "originalLanguage": "zh",
+            "translationStatus": "not-needed",
+            "fetchedAt": "2026-08-28T16:30:17.990Z",
+            "sourceMethod": "web",
+            "verificationStatus": "confirmed"
+          }
+        ],
+        "images": [],
+        "generatedAt": "2026-08-28T16:30:13.731Z"
+      },
+      {
+        "id": "draft-real-xinhua-tech-a8tq3f",
+        "title": "工程师解密人形机器人百米跑，为啥最后都要“撞墙”",
+        "oneLine": "趋势信号：8月26日，在北京国家速滑馆“冰丝带”举行的第二届世界人形机器人运动会田径100米决赛中，天骄队的人形机器人以8秒64的成绩获得大型组冠军，天骁队的人形机器人以11秒98的成绩获得小型组冠军。",
+        "importance": "B",
+        "credibility": "主流媒体",
+        "tags": [
+          "B",
+          "industry",
+          "technology",
+          "ai",
+          "product"
+        ],
+        "industries": [
+          "technologyEngineering",
+          "educationResearch",
+          "aiProduct",
+          "aiTechnology",
+          "productManagement"
+        ],
+        "section": "ai",
+        "body": {
+          "background": "26日晚，新华社记者采访了“天工Ultra”机器人天骁队的工程师高大伟。高大伟表示，为了极致发挥最大性能，采取了折中的方案，未来机器人速度的上限，会被不断提高。本届赛事中，人形机器人多项成绩较上届实现质的飞跃：400米跑由上届1分28秒03提升至本届小型组45秒66、大型组38秒15；",
+          "keyProgress": "1500米跑从上届6分34秒40，突破到本届2分21秒64；原地跳高从上届0.956米跃升至3.40米等。除田径项目外，在足球、体操、举重、街舞、体育舞蹈、武术、拔河、投壶、乒乓球、自由搏击等赛项中，人形机器人也展现出别样魅力，让观众一饱眼福。第二届世界人形机器人运动会组委会相关负责人表示，每一枚奖牌的诞生，都标记着人形机器人向“实用”迈进的一步。",
+          "whyItMatters": "“工程师解密人形机器人百米跑，为啥最后都要撞墙”能帮助你判断这项能力是否已经进入工程、产品或商业场景，并据此调整技术选型、产品规划、学习重点或职业判断。",
+          "userRelevance": "如果你从事技术研发、教育研究、AI 产品、AI 技术，可以重点判断“工程师解密人形机器人百米跑，为啥最后都要撞墙”是否已经具备产品落地、技术选型或业务合作价值。",
+          "whatToWatch": "接下来要看“工程师解密人形机器人百米跑，为啥最后都要撞墙”是否有更多可靠来源、量产或应用进展，以及它会不会从单点消息发展成持续趋势。"
+        },
+        "sourceLinks": [
+          {
+            "title": "新华网科技",
+            "url": "https://www.news.cn/tech/20260828/34bc447eefd640abbe6086e6abf1562e/c.html",
+            "sourceId": "xinhua-tech",
+            "publishedAt": "2026-08-28T00:00:00+08:00",
+            "language": "zh",
+            "originalLanguage": "zh",
+            "translationStatus": "not-needed",
+            "fetchedAt": "2026-08-28T16:30:17.990Z",
+            "sourceMethod": "web",
+            "verificationStatus": "confirmed"
+          }
+        ],
+        "images": [
+          {
+            "url": "https://www.news.cn/tech/20260828/34bc447eefd640abbe6086e6abf1562e/2026082834bc447eefd640abbe6086e6abf1562e_416fb26bac9d4f0da616776da5ac8f20.JPG",
+            "sourceUrl": "https://www.news.cn/tech/20260828/34bc447eefd640abbe6086e6abf1562e/c.html"
+          },
+          {
+            "url": "https://www.news.cn/tech/20260828/34bc447eefd640abbe6086e6abf1562e/2026082834bc447eefd640abbe6086e6abf1562e_7bb663840e0e43cb8190ef682c68f72e.jpg",
+            "sourceUrl": "https://www.news.cn/tech/20260828/34bc447eefd640abbe6086e6abf1562e/c.html"
+          },
+          {
+            "url": "https://www.news.cn/tech/20260828/34bc447eefd640abbe6086e6abf1562e/2026082834bc447eefd640abbe6086e6abf1562e_ebdb1da0845345ed8e2ad9c4c7c0b4d3.JPG",
+            "sourceUrl": "https://www.news.cn/tech/20260828/34bc447eefd640abbe6086e6abf1562e/c.html"
+          },
+          {
+            "url": "https://www.news.cn/tech/20260828/34bc447eefd640abbe6086e6abf1562e/2026082834bc447eefd640abbe6086e6abf1562e_8aa97b98a102498191276d86a983ad9b.JPG",
+            "sourceUrl": "https://www.news.cn/tech/20260828/34bc447eefd640abbe6086e6abf1562e/c.html"
+          },
+          {
+            "url": "https://www.news.cn/tech/20260828/34bc447eefd640abbe6086e6abf1562e/2026082834bc447eefd640abbe6086e6abf1562e_da47059d43b3470bb110e21b8c1df9f3.JPG",
+            "sourceUrl": "https://www.news.cn/tech/20260828/34bc447eefd640abbe6086e6abf1562e/c.html"
+          }
+        ],
+        "generatedAt": "2026-08-28T16:30:13.731Z"
+      },
+      {
+        "id": "draft-real-cas-science-news-1id9h32",
+        "title": "大面积铜锌锡硫硒薄膜光伏组件研究获进展",
+        "oneLine": "趋势信号：铜锌锡硫硒（CZTSSe）是一类新型薄膜光伏材料，因其低成本、资源丰富以及优异的化学稳定性，被认为是下一代可持续光伏技术的重要候选。",
+        "importance": "B",
+        "credibility": "官方来源",
+        "tags": [
+          "B",
+          "industry",
+          "technology",
+          "education"
+        ],
+        "industries": [
+          "technologyEngineering",
+          "educationResearch"
+        ],
+        "section": "industry",
+        "body": {
+          "background": "而在低成本溶液法制备CZTSSe薄膜的过程中，前驱体中复杂的金属—有机配位结构，容易造成溶剂挥发、元素分布以及薄膜结晶过程不均匀，引发大面积薄膜质量下降。因此，在分子尺度调控前驱体化学环境，实现均匀稳定的大面积薄膜制备，是推动CZTSSe技术规模化发展的重要问题。近期，中国科学院物理研究所团队在CZTSSe薄膜光伏组件研制方面取得重要进展。",
+          "keyProgress": "团队提出基于分子配位调控的前驱体工程策略，通过引入甲酰胺作为配位调节剂，实现了金属离子—有机分子配位结构的精准调控，解决了传统体系中金属离子与有机分子形成复杂交联网络的问题。基于该策略，团队开发适合大面积器件制备的溶液刮涂技术，实现了10 cm 2 尺度CZTSSe薄膜的高均匀性制备。基于该体系，团队制备得到1 cm 2 级CZTSSe太阳电池，认证光电转换效率可达14.2%；通过激光划线开发10.5 cm 2 六节子电池串联组件，获得13.0%认证效率，创造了CZTSSe组件效率新的世界纪录。",
+          "whyItMatters": "“大面积铜锌锡硫硒薄膜光伏组件研究获进展”提供了一个具体的研究进展信号。它是否重要，要看实验指标、可复现性、开源材料和真实应用，而不能只看论文标题。",
+          "userRelevance": "如果你从事科研、工程或正在攻读相关学位，可以重点查看“大面积铜锌锡硫硒薄膜光伏组件研究获进展”的实验条件、指标和可复现性；其他用户可把它作为技术趋势背景了解。",
+          "whatToWatch": "接下来要看“大面积铜锌锡硫硒薄膜光伏组件研究获进展”是否公开论文全文、代码或完整实验条件，以及是否得到独立复现和实际应用。"
+        },
+        "sourceLinks": [
+          {
+            "title": "中国科学院科研动态",
+            "url": "https://www.cas.cn/syky/202608/t20260828_5119224.shtml",
+            "sourceId": "cas-science-news",
+            "publishedAt": "2026-08-28T00:00:00+08:00",
+            "language": "zh",
+            "originalLanguage": "zh",
+            "translationStatus": "not-needed",
+            "fetchedAt": "2026-08-28T16:30:15.321Z",
+            "sourceMethod": "web",
+            "verificationStatus": "confirmed"
+          }
+        ],
+        "images": [
+          {
+            "url": "https://www.cas.cn/syky/202608/W020260828406377528446.png",
+            "sourceUrl": "https://www.cas.cn/syky/202608/t20260828_5119224.shtml"
+          }
+        ],
+        "generatedAt": "2026-08-28T16:30:13.731Z"
+      },
+      {
+        "id": "draft-cluster-real-cas-science-news-ibyer4",
+        "title": "宁波材料所召开党委理论学习中心组学习（扩大）会",
+        "oneLine": "趋势信号：8月20日，中国科学院宁波材料技术与工程研究所召开党委理论学习中心组学习（扩大）会议，学习传达中国科学院党组2026年夏季扩大会议精神。",
+        "importance": "B",
+        "credibility": "官方来源",
+        "tags": [
+          "B",
+          "industry",
+          "technology",
+          "education"
+        ],
+        "industries": [
+          "technologyEngineering",
+          "educationResearch"
+        ],
+        "section": "industry",
+        "body": {
+          "background": "会议集中学习院2026年夏季党组扩大会议精神，深入研讨全面深化改革、增强体系化攻关能力、推动科研组织模式变革的思路和举措。党委委员、实验室和管理部门负责人代表聚焦“十五五”规划组织实施、强化协同攻关、争取承担重大任务、深化“两新”融合等，提出意见建议。六是要从严抓实质量、安全、保密、作风、学风等重要工作。",
+          "keyProgress": "四是要将改革要求转化为研究所发展举措；一是要锚定“体系化攻关”定位，坚持需求导向、任务导向；二是要夯实自身发展根基，筑牢协同攻关的底气；三是要深化“双轮驱动”，破除传统路径依赖惯性；",
+          "whyItMatters": "“宁波材料所召开党委理论学习中心组学习会”提供了一个具体的研究进展信号。它是否重要，要看实验指标、可复现性、开源材料和真实应用，而不能只看论文标题。",
+          "userRelevance": "如果你从事科研、工程或正在攻读相关学位，可以重点查看“宁波材料所召开党委理论学习中心组学习会”的实验条件、指标和可复现性；其他用户可把它作为技术趋势背景了解。",
+          "whatToWatch": "接下来要看“宁波材料所召开党委理论学习中心组学习会”是否公开论文全文、代码或完整实验条件，以及是否得到独立复现和实际应用。"
+        },
+        "sourceLinks": [
+          {
+            "title": "中国科学院科研动态",
+            "url": "https://www.cas.cn/djcx/gz/202608/t20260828_5119197.shtml",
+            "sourceId": "cas-science-news",
+            "publishedAt": "2026-08-28T00:00:00+08:00",
+            "language": "zh",
+            "originalLanguage": "zh",
+            "translationStatus": "not-needed",
+            "fetchedAt": "2026-08-28T16:30:15.321Z",
+            "sourceMethod": "web",
+            "verificationStatus": "confirmed"
+          },
+          {
+            "title": "中国科学院科研动态",
+            "url": "https://www.cas.cn/djcx/gz/202608/t20260828_5119234.shtml",
+            "sourceId": "cas-science-news",
+            "publishedAt": "2026-08-28T00:00:00+08:00",
+            "language": "zh",
+            "originalLanguage": "zh",
+            "translationStatus": "not-needed",
+            "fetchedAt": "2026-08-28T16:30:15.321Z",
+            "sourceMethod": "web",
+            "verificationStatus": "confirmed"
+          }
+        ],
+        "images": [
+          {
+            "url": "https://www.cas.cn/djcx/gz/202608/W020260828322640484587.jpg",
+            "sourceUrl": "https://www.cas.cn/djcx/gz/202608/t20260828_5119197.shtml"
+          }
+        ],
+        "generatedAt": "2026-08-28T16:30:13.731Z"
+      }
+    ],
+    "estimatedReadMinutes": 8,
+    "pageCount": 1,
+    "topCardId": "draft-real-mem-cn-1nyqvmx",
+    "generatedAt": "2026-08-28T16:30:13.731Z",
+    "pushSlots": [
+      "08:30",
+      "12:30",
+      "21:30"
+    ],
+    "edition": "morning",
+    "editionLabel": "晨报",
+    "coverageWindow": {
+      "start": "2026-08-28T07:10:00+08:00",
+      "end": "2026-08-29T07:10:00+08:00"
+    },
+    "editionCardIds": [
+      "draft-real-mem-cn-1nyqvmx",
+      "draft-real-xinhua-tech-rdu5ie",
+      "draft-real-xinhua-tech-a8tq3f",
+      "draft-real-cas-science-news-1id9h32",
+      "draft-cluster-real-cas-science-news-ibyer4"
+    ],
+    "carriedCardIds": []
+  }
+}

@@ -1,13 +1,13 @@
 {
   "schemaVersion": 2,
-  "publishedAt": "2026-08-28T16:41:41.590Z",
+  "publishedAt": "2026-08-28T22:46:05.502Z",
   "issue": {
     "id": "daily-public-2026-08-29",
     "date": "2026-08-29",
     "userId": "public",
     "cards": [
       {
-        "id": "draft-real-cnbc-world-rss-kieql2",
+        "id": "draft-real-cnbc-world-rss-lmd5cy",
         "title": "伊朗战争进入第六个月：市场逐渐适应僵局，看不到结束的希望",
         "oneLine": "政策变化：本文发表于周五，标志着美国和以色列对伊朗发动“重大作战行动”已整整六个月。",
         "importance": "S",
@@ -43,7 +43,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-28T16:41:49.211Z",
+            "fetchedAt": "2026-08-28T22:46:11.846Z",
             "sourceMethod": "rss",
             "verificationStatus": "pending"
           }
@@ -58,10 +58,10 @@
             "sourceUrl": "https://www.cnbc.com/2026/08/28/us-iran-war-six-months-trump.html"
           }
         ],
-        "generatedAt": "2026-08-28T16:41:41.590Z"
+        "generatedAt": "2026-08-28T22:46:05.502Z"
       },
       {
-        "id": "draft-real-npr-world-rss-z7ogpe",
+        "id": "draft-real-npr-world-rss-xtqg8j",
         "title": "美国称管道将使霍尔木兹海峡失去战略意义，能源专家对此表示异议",
         "oneLine": "政策变化：约旦安曼——美国宣布实施新的经济制裁，旨在削弱伊朗对霍尔木兹海峡的控制力，同时指望中东石油生产商迅速建设绕过这一关键航运通道的新管道。",
         "importance": "S",
@@ -92,7 +92,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-28T16:41:48.668Z",
+            "fetchedAt": "2026-08-28T22:46:11.123Z",
             "sourceMethod": "rss",
             "verificationStatus": "confirmed"
           }
@@ -119,47 +119,7 @@
             "sourceUrl": "https://www.npr.org/2026/08/28/g-s1-140309/us-iran-middle-east-oil-pipelines-hormuz"
           }
         ],
-        "generatedAt": "2026-08-28T16:41:41.590Z"
-      },
-      {
-        "id": "draft-real-cnbc-world-rss-1qedq0t",
-        "title": "美国财政部拟制裁与伊朗有联系的埃及银行阿联酋分行",
-        "oneLine": "政策变化：美国财政部周五宣布，拟对埃及银行在阿联酋的分支机构实施制裁，原因是其与伊朗存在金融联系。",
-        "importance": "S",
-        "credibility": "待确认",
-        "tags": [
-          "S",
-          "mustKnow",
-          "world",
-          "policy"
-        ],
-        "industries": [
-          "generalPublic"
-        ],
-        "section": "front",
-        "body": {
-          "background": "此举发生在财政部长斯科特·贝森特（Scott Bessent）周一发起“经济放逐行动”（Operation Economic Outcast）仅四天后。财政部在一份声明中表示，将剥夺Banque Misr UAE接入美国金融机构的权限。据财政部称，过去两年间，该机构为约100家可能属于伊朗影子银行网络的公司处理了约18亿美元的交易。",
-          "keyProgress": "该制裁运动旨在切断伊朗与全球的所有经济联系。贝森特周一表示，财政部将在本周结束前“就一家金融机构被制裁作出重大宣布”。美国总统唐纳德·特朗普将针对伊朗的制裁行动形容为等同于二战期间西方盟军大规模入侵纳粹占领欧洲的“诺曼底登陆”（D-Day）。然而，迄今为止，财政部对伊斯兰共和国采取的行动范围仍较为有限。",
-          "whyItMatters": "“美国财政部拟制裁与伊朗有联系的埃及银行阿联酋分行”如果继续发展，可能通过能源价格、航运、贸易、汇率或市场预期传导到国内。了解它的意义在于判断后续风险，而不只停留在事件本身。",
-          "userRelevance": "即使你不在美国、伊朗，“美国财政部拟制裁与伊朗有联系的埃及银行阿联酋分行”也可能通过能源价格、国际航运、贸易成本和市场预期间接影响国内生活与工作判断。",
-          "whatToWatch": "接下来要看“美国财政部拟制裁与伊朗有联系的埃及银行阿联酋分行”是否出现新的官方信息、后续行动，以及它与中国出行、贸易或公共判断的关联是否扩大。"
-        },
-        "sourceLinks": [
-          {
-            "title": "CNBC World News RSS",
-            "url": "https://www.cnbc.com/2026/08/28/treasury-uae-banque-misr-sanctions-iran.html",
-            "sourceId": "cnbc-world-rss",
-            "publishedAt": "2026-08-28T16:28:43.000Z",
-            "language": "zh",
-            "originalLanguage": "en",
-            "translationStatus": "translated",
-            "fetchedAt": "2026-08-28T16:41:49.211Z",
-            "sourceMethod": "rss",
-            "verificationStatus": "pending"
-          }
-        ],
-        "images": [],
-        "generatedAt": "2026-08-28T16:41:41.590Z"
+        "generatedAt": "2026-08-28T22:46:05.502Z"
       },
       {
         "id": "draft-real-cnbc-world-rss-10kgyzh",
@@ -193,7 +153,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-28T16:41:49.211Z",
+            "fetchedAt": "2026-08-28T22:46:11.846Z",
             "sourceMethod": "rss",
             "verificationStatus": "pending"
           }
@@ -204,10 +164,10 @@
             "sourceUrl": "https://www.cnbc.com/2026/08/28/us-iran-war-trump-hormuz-oman-centcom.html"
           }
         ],
-        "generatedAt": "2026-08-28T16:41:41.590Z"
+        "generatedAt": "2026-08-28T22:46:05.502Z"
       },
       {
-        "id": "draft-real-un-news-rss-1ijium",
+        "id": "draft-real-un-news-rss-2whjbh",
         "title": "随着伤亡人数增加，尼泊尔洪水灾害的“巨大影响”受到凸显",
         "oneLine": "风险提醒：尼泊尔致命洪灾影响“巨大”：已确认538具遗体被寻获 尼泊尔当局证实，在受灾地区已寻获538具遗体，此次灾难性洪水的影响被形容为“巨大”。",
         "importance": "A",
@@ -241,7 +201,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-28T16:41:49.323Z",
+            "fetchedAt": "2026-08-28T22:46:11.873Z",
             "sourceMethod": "rss",
             "verificationStatus": "confirmed"
           }
@@ -252,10 +212,10 @@
             "sourceUrl": "https://news.un.org/feed/view/en/story/2026/08/1168221"
           }
         ],
-        "generatedAt": "2026-08-28T16:41:41.590Z"
+        "generatedAt": "2026-08-28T22:46:05.502Z"
       },
       {
-        "id": "draft-real-npr-world-rss-1fkd9s",
+        "id": "draft-real-npr-world-rss-1pjyyr",
         "title": "专家警告尼泊尔可能面临更多洪水袭击。美联储主席将发表重要讲话",
         "oneLine": "这条信息主要围绕专家警告尼泊尔可能面临更多洪水袭击。美联储主席将发表重要讲话展开，核心影响需要结合适用范围和时间节点判断。",
         "importance": "A",
@@ -289,7 +249,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-28T16:41:48.668Z",
+            "fetchedAt": "2026-08-28T22:46:11.123Z",
             "sourceMethod": "rss",
             "verificationStatus": "confirmed"
           }
@@ -312,10 +272,10 @@
             "sourceUrl": "https://www.npr.org/2026/08/28/g-s1-140866/up-first-newsletter-nepal-tibet-floods-kevin-warsh-kennedy-center"
           }
         ],
-        "generatedAt": "2026-08-28T16:41:41.590Z"
+        "generatedAt": "2026-08-28T22:46:05.502Z"
       },
       {
-        "id": "draft-real-npr-world-rss-ly3onu",
+        "id": "draft-real-npr-world-rss-m83act",
         "title": "冰川融化加剧了尼泊尔致命洪灾，此类事件或将频发",
         "oneLine": "最新进展：冰川融化加剧了尼泊尔致命洪灾，此类事件或将频发。",
         "importance": "A",
@@ -349,7 +309,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-28T16:41:48.668Z",
+            "fetchedAt": "2026-08-28T22:46:11.123Z",
             "sourceMethod": "rss",
             "verificationStatus": "confirmed"
           }
@@ -376,12 +336,12 @@
             "sourceUrl": "https://www.npr.org/2026/08/28/nx-s1-5945799/nepal-floods-climate-change-himalayas"
           }
         ],
-        "generatedAt": "2026-08-28T16:41:41.590Z"
+        "generatedAt": "2026-08-28T22:46:05.502Z"
       },
       {
-        "id": "draft-real-cnbc-world-rss-131dxvh",
-        "title": "Affirm股价因强劲前景大涨；CEO称高油价正冲击美国消费者",
-        "oneLine": "政策变化：在本文中，Affirm Holdings 股价周五上涨 7%，这家“先买后付”公司报告了强劲的第四财季业绩。",
+        "id": "draft-real-cnbc-world-rss-1tz9ya6",
+        "title": "中国超级富豪逃离新加坡，如今他们想回来了",
+        "oneLine": "最新进展：中国超级富豪逃离新加坡，如今他们想回来了。",
         "importance": "B",
         "credibility": "待确认",
         "tags": [
@@ -395,33 +355,33 @@
         ],
         "section": "front",
         "body": {
-          "background": "“美国消费者无疑感受到了油价上涨的影响，因此不能忽视这一点，”莱夫钦在接受 CNBC《Squawk Box》节目采访时说，“他们也在向我们寻求帮助，以应对各种通胀点带来的价格压力。” 其他新闻包括：Meta 与加州及其他州就社交媒体成瘾案达成 167 亿美元的和解；” 这家金融科技公司周四收盘后发布了第四季度业绩，营收为 11.7 亿美元，高于路孚特（LSEG）预估的 11.1 亿美元。",
-          "keyProgress": "CEO 麦克斯·莱夫钦（Max Levchin）表示，高油价正在给消费者带来压力。OpenAI 数据中心负责人克里斯·马龙（Chris Malone）离职，这是高管接连离任的最新一例。年度通胀率在 7 月为 3.7%，紧随最新个人消费支出价格指数（PCE）数据。作为美联储首选的预测工具，PCE 在 7 月经季节性调整后上涨了 0.2%，但其他数据显示出一定的消费韧性。",
-          "whyItMatters": "“Affirm股价因强劲前景大涨；CEO称高油价正冲击美国消费者”如果继续发展，可能通过能源价格、航运、贸易、汇率或市场预期传导到国内。了解它的意义在于判断后续风险，而不只停留在事件本身。",
-          "userRelevance": "即使你不在美国，“Affirm股价因强劲前景大涨；CEO称高油价正冲击美国消费者”也可能通过能源价格、国际航运、贸易成本和市场预期间接影响国内生活与工作判断。",
-          "whatToWatch": "接下来要看“Affirm股价因强劲前景大涨；CEO称高油价正冲击美国消费者”是否出现新的官方信息、后续行动，以及它与中国出行、贸易或公共判断的关联是否扩大。"
+          "background": "此次转变的背景是北京加强对中国大陆以外持有财富的审查。一年前，富裕的中国家庭对新加坡的热情减退。家族办公室顾问和财富管理人士表示，随着北京加强审查以及地缘政治动荡加剧，新加坡的稳定性再次显现出吸引力，那些曾将生活重心转移至其他金融中心的中国高净值客户对新加坡的兴趣重新升温。",
+          "keyProgress": "Lin 为富裕的中国客户提供设立家族办公室及获取新加坡居留权的咨询，他去年曾表示，随着合规和披露要求的收紧削弱了新加坡的吸引力，他越来越多地协助客户离开这个城邦。影响离岸信托的新规因要求披露架构及潜在税务责任而令富裕家庭感到不安，更严格的监管也已延伸至保险及离岸经纪账户等领域。这一逆转凸显了亚洲富豪们的考量变化之快。在2019年香港抗议活动及随后的国家安全法 crackdown 之后，新加坡成为寻求资产多元化并远离北京影响的大陆中国富豪青睐的目的地。",
+          "whyItMatters": "“中国超级富豪逃离新加坡，如今他们想回来了”如果继续发展，可能通过能源价格、航运、贸易、汇率或市场预期传导到国内。了解它的意义在于判断后续风险，而不只停留在事件本身。",
+          "userRelevance": "即使你不在中国、北京，“中国超级富豪逃离新加坡，如今他们想回来了”也可能通过能源价格、国际航运、贸易成本和市场预期间接影响国内生活与工作判断。",
+          "whatToWatch": "接下来要看“中国超级富豪逃离新加坡，如今他们想回来了”是否出现新的官方信息、后续行动，以及它与中国出行、贸易或公共判断的关联是否扩大。"
         },
         "sourceLinks": [
           {
             "title": "CNBC World News RSS",
-            "url": "https://www.cnbc.com/2026/08/28/affirm-stock-earnings-levchin-gas-prices.html",
+            "url": "https://www.cnbc.com/2026/08/28/chinas-super-rich-fled-singapore-now-they-want-to-come-back.html",
             "sourceId": "cnbc-world-rss",
-            "publishedAt": "2026-08-28T15:16:32.000Z",
+            "publishedAt": "2026-08-28T14:24:58.000Z",
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-28T16:41:49.211Z",
+            "fetchedAt": "2026-08-28T22:46:11.846Z",
             "sourceMethod": "rss",
             "verificationStatus": "pending"
           }
         ],
         "images": [
           {
-            "url": "https://image.cnbcfm.com/api/v1/image/108355733-17879229911787922987-48036610820-1080pnbcnews.jpg?v=1787922990&amp;w=750&amp;h=422&amp;vtcrop=y",
-            "sourceUrl": "https://www.cnbc.com/2026/08/28/affirm-stock-earnings-levchin-gas-prices.html"
+            "url": "https://image.cnbcfm.com/api/v1/image/108355582-17878898411787889838-48029260023-1080pnbcnews.jpg?v=1787889840&amp;w=750&amp;h=422&amp;vtcrop=y",
+            "sourceUrl": "https://www.cnbc.com/2026/08/28/chinas-super-rich-fled-singapore-now-they-want-to-come-back.html"
           }
         ],
-        "generatedAt": "2026-08-28T16:41:41.590Z"
+        "generatedAt": "2026-08-28T22:46:05.502Z"
       },
       {
         "id": "draft-real-mem-cn-1nyqvmx",
@@ -457,13 +417,13 @@
             "language": "zh",
             "originalLanguage": "zh",
             "translationStatus": "not-needed",
-            "fetchedAt": "2026-08-28T16:41:45.680Z",
+            "fetchedAt": "2026-08-28T22:46:08.623Z",
             "sourceMethod": "web",
             "verificationStatus": "confirmed"
           }
         ],
         "images": [],
-        "generatedAt": "2026-08-28T16:41:41.590Z"
+        "generatedAt": "2026-08-28T22:46:05.502Z"
       },
       {
         "id": "draft-real-xinhua-tech-rdu5ie",
@@ -502,13 +462,13 @@
             "language": "zh",
             "originalLanguage": "zh",
             "translationStatus": "not-needed",
-            "fetchedAt": "2026-08-28T16:41:47.109Z",
+            "fetchedAt": "2026-08-28T22:46:10.252Z",
             "sourceMethod": "web",
             "verificationStatus": "confirmed"
           }
         ],
         "images": [],
-        "generatedAt": "2026-08-28T16:41:41.590Z"
+        "generatedAt": "2026-08-28T22:46:05.502Z"
       },
       {
         "id": "draft-real-xinhua-tech-a8tq3f",
@@ -547,7 +507,7 @@
             "language": "zh",
             "originalLanguage": "zh",
             "translationStatus": "not-needed",
-            "fetchedAt": "2026-08-28T16:41:47.109Z",
+            "fetchedAt": "2026-08-28T22:46:10.252Z",
             "sourceMethod": "web",
             "verificationStatus": "confirmed"
           }
@@ -574,10 +534,10 @@
             "sourceUrl": "https://www.news.cn/tech/20260828/34bc447eefd640abbe6086e6abf1562e/c.html"
           }
         ],
-        "generatedAt": "2026-08-28T16:41:41.590Z"
+        "generatedAt": "2026-08-28T22:46:05.502Z"
       },
       {
-        "id": "draft-cluster-real-techcrunch-ai-rss-j0l0nz",
+        "id": "draft-cluster-real-techcrunch-ai-rss-jakmcy",
         "title": "Anthropic 在针对五角大楼供应链风险标签的诉讼中首次胜诉",
         "oneLine": "趋势信号：加州一名联邦法官周四晚间裁定，特朗普政府将Anthropic列为“供应链风险”的做法违法。",
         "importance": "B",
@@ -613,7 +573,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-28T16:41:50.839Z",
+            "fetchedAt": "2026-08-28T22:46:13.608Z",
             "sourceMethod": "rss",
             "verificationStatus": "pending"
           },
@@ -625,16 +585,16 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-28T16:41:50.819Z",
+            "fetchedAt": "2026-08-28T22:46:13.792Z",
             "sourceMethod": "rss",
             "verificationStatus": "pending"
           }
         ],
         "images": [],
-        "generatedAt": "2026-08-28T16:41:41.590Z"
+        "generatedAt": "2026-08-28T22:46:05.502Z"
       },
       {
-        "id": "draft-real-techcrunch-ai-rss-28v3v0",
+        "id": "draft-real-techcrunch-ai-rss-1ewas3",
         "title": "Meta高管离职加入OpenAI，与此同时这家社交媒体巨头在印度面临日益加剧的审查",
         "oneLine": "趋势信号：Meta印度及东南亚副总裁桑迪亚·德瓦纳坦（Sandhya Devanathan）将离开这家社交媒体巨头，加入ChatGPT开发商OpenAI。",
         "importance": "B",
@@ -670,13 +630,13 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-28T16:41:50.839Z",
+            "fetchedAt": "2026-08-28T22:46:13.608Z",
             "sourceMethod": "rss",
             "verificationStatus": "pending"
           }
         ],
         "images": [],
-        "generatedAt": "2026-08-28T16:41:41.590Z"
+        "generatedAt": "2026-08-28T22:46:05.502Z"
       },
       {
         "id": "draft-real-theverge-ai-rss-1ur7inn",
@@ -715,16 +675,16 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-28T16:41:50.819Z",
+            "fetchedAt": "2026-08-28T22:46:13.792Z",
             "sourceMethod": "rss",
             "verificationStatus": "pending"
           }
         ],
         "images": [],
-        "generatedAt": "2026-08-28T16:41:41.590Z"
+        "generatedAt": "2026-08-28T22:46:05.502Z"
       },
       {
-        "id": "draft-real-techcrunch-ai-rss-87d8t",
+        "id": "draft-real-techcrunch-ai-rss-1xbe7d4",
         "title": "Anthropic 和 OpenAI 将亮相 TechCrunch Disrupt 2026",
         "oneLine": "最新进展：Anthropic 和 OpenAI 将亮相 TechCrunch Disrupt 2026。",
         "importance": "B",
@@ -760,13 +720,13 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-28T16:41:50.839Z",
+            "fetchedAt": "2026-08-28T22:46:13.608Z",
             "sourceMethod": "rss",
             "verificationStatus": "pending"
           }
         ],
         "images": [],
-        "generatedAt": "2026-08-28T16:41:41.590Z"
+        "generatedAt": "2026-08-28T22:46:05.502Z"
       },
       {
         "id": "draft-real-cas-science-news-1id9h32",
@@ -801,7 +761,7 @@
             "language": "zh",
             "originalLanguage": "zh",
             "translationStatus": "not-needed",
-            "fetchedAt": "2026-08-28T16:41:42.922Z",
+            "fetchedAt": "2026-08-28T22:46:07.073Z",
             "sourceMethod": "web",
             "verificationStatus": "confirmed"
           }
@@ -812,7 +772,7 @@
             "sourceUrl": "https://www.cas.cn/syky/202608/t20260828_5119224.shtml"
           }
         ],
-        "generatedAt": "2026-08-28T16:41:41.590Z"
+        "generatedAt": "2026-08-28T22:46:05.502Z"
       },
       {
         "id": "draft-cluster-real-cas-science-news-ibyer4",
@@ -847,7 +807,7 @@
             "language": "zh",
             "originalLanguage": "zh",
             "translationStatus": "not-needed",
-            "fetchedAt": "2026-08-28T16:41:42.922Z",
+            "fetchedAt": "2026-08-28T22:46:07.073Z",
             "sourceMethod": "web",
             "verificationStatus": "confirmed"
           },
@@ -859,7 +819,7 @@
             "language": "zh",
             "originalLanguage": "zh",
             "translationStatus": "not-needed",
-            "fetchedAt": "2026-08-28T16:41:42.922Z",
+            "fetchedAt": "2026-08-28T22:46:07.073Z",
             "sourceMethod": "web",
             "verificationStatus": "confirmed"
           }
@@ -870,13 +830,62 @@
             "sourceUrl": "https://www.cas.cn/djcx/gz/202608/t20260828_5119197.shtml"
           }
         ],
-        "generatedAt": "2026-08-28T16:41:41.590Z"
+        "generatedAt": "2026-08-28T22:46:05.502Z"
+      },
+      {
+        "id": "draft-real-cnbc-world-rss-1rds3kt",
+        "title": "尽管营收增长37%，但Marvell因前景不及预期股价暴跌6%",
+        "oneLine": "政策变化：尽管Marvell Technology（美满电子科技）第二季度营收超预期，但其上调的2028财年指引未能满足投资者的高预期，导致该股周五下跌6%。",
+        "importance": "B",
+        "credibility": "待确认",
+        "tags": [
+          "B",
+          "industry",
+          "world",
+          "policy",
+          "finance"
+        ],
+        "industries": [
+          "generalPublic",
+          "financeInvestment",
+          "operationsGrowth",
+          "ecommerceRetail"
+        ],
+        "section": "industry",
+        "body": {
+          "background": "这家芯片制造商周四表示，预计营收将同比增长约50%，达到约180亿美元，高于此前预测的165亿美元。Marvell为AI数据中心提供网络、连接和定制芯片，但对其2028财年指引细节披露有限，在投资者原本希望与谷歌价值高达122亿美元的股份合作能进一步提振盈利的期望落空后，市场情绪受挫。受益于AI基础设施产品需求，该股今年迄今已上涨184%。",
+          "keyProgress": "其2028财年第二季度的营收增长37%，至27亿美元，高于公司5月份提供的指引3900万美元。Marvell董事长兼首席执行官Matt Murphy表示，业绩由数据中心产品组合持续强劲的需求推动，该领域营收同比增长加速至46%。“与AI相关的订单依然异常强劲，我们预计2027财年下半年营收增长将进一步加速，”Murphy补充道。Marvell表示，该协议涵盖与谷歌TPU系统配合使用的产品，包括AI推理芯片、存储控制器和网络接口控制器。",
+          "whyItMatters": "“尽管营收增长37%，但Marvell因前景不及预期股价暴跌6%”如果继续发展，可能通过能源价格、航运、贸易、汇率或市场预期传导到国内。了解它的意义在于判断后续风险，而不只停留在事件本身。",
+          "userRelevance": "即使你不在事发地区，“尽管营收增长37%，但Marvell因前景不及预期股价暴跌6%”也可能通过能源价格、国际航运、贸易成本和市场预期间接影响国内生活与工作判断。",
+          "whatToWatch": "接下来要看“尽管营收增长37%，但Marvell因前景不及预期股价暴跌6%”是否出现更细的城市、行业、平台或企业数据，以及这一变化能否连续保持。"
+        },
+        "sourceLinks": [
+          {
+            "title": "CNBC World News RSS",
+            "url": "https://www.cnbc.com/2026/08/28/marvell-mrvl-q2-earnings-outlook.html",
+            "sourceId": "cnbc-world-rss",
+            "publishedAt": "2026-08-28T13:42:43.000Z",
+            "language": "zh",
+            "originalLanguage": "en",
+            "translationStatus": "translated",
+            "fetchedAt": "2026-08-28T22:46:11.846Z",
+            "sourceMethod": "rss",
+            "verificationStatus": "pending"
+          }
+        ],
+        "images": [
+          {
+            "url": "https://image.cnbcfm.com/api/v1/image/108355471-17878664011787866398-48023690757-1080pnbcnews.jpg?v=1787866400&amp;w=750&amp;h=422&amp;vtcrop=y",
+            "sourceUrl": "https://www.cnbc.com/2026/08/28/marvell-mrvl-q2-earnings-outlook.html"
+          }
+        ],
+        "generatedAt": "2026-08-28T22:46:05.502Z"
       }
     ],
     "estimatedReadMinutes": 26,
     "pageCount": 3,
-    "topCardId": "draft-real-cnbc-world-rss-kieql2",
-    "generatedAt": "2026-08-28T16:41:41.590Z",
+    "topCardId": "draft-real-cnbc-world-rss-lmd5cy",
+    "generatedAt": "2026-08-28T22:46:05.502Z",
     "pushSlots": [
       "08:30",
       "12:30",
@@ -889,23 +898,23 @@
       "end": "2026-08-29T07:10:00+08:00"
     },
     "editionCardIds": [
-      "draft-real-cnbc-world-rss-kieql2",
-      "draft-real-npr-world-rss-z7ogpe",
-      "draft-real-cnbc-world-rss-1qedq0t",
+      "draft-real-cnbc-world-rss-lmd5cy",
+      "draft-real-npr-world-rss-xtqg8j",
       "draft-real-cnbc-world-rss-10kgyzh",
-      "draft-real-un-news-rss-1ijium",
-      "draft-real-npr-world-rss-1fkd9s",
-      "draft-real-npr-world-rss-ly3onu",
-      "draft-real-cnbc-world-rss-131dxvh",
+      "draft-real-un-news-rss-2whjbh",
+      "draft-real-npr-world-rss-1pjyyr",
+      "draft-real-npr-world-rss-m83act",
+      "draft-real-cnbc-world-rss-1tz9ya6",
       "draft-real-mem-cn-1nyqvmx",
       "draft-real-xinhua-tech-rdu5ie",
       "draft-real-xinhua-tech-a8tq3f",
-      "draft-cluster-real-techcrunch-ai-rss-j0l0nz",
-      "draft-real-techcrunch-ai-rss-28v3v0",
+      "draft-cluster-real-techcrunch-ai-rss-jakmcy",
+      "draft-real-techcrunch-ai-rss-1ewas3",
       "draft-real-theverge-ai-rss-1ur7inn",
-      "draft-real-techcrunch-ai-rss-87d8t",
+      "draft-real-techcrunch-ai-rss-1xbe7d4",
       "draft-real-cas-science-news-1id9h32",
-      "draft-cluster-real-cas-science-news-ibyer4"
+      "draft-cluster-real-cas-science-news-ibyer4",
+      "draft-real-cnbc-world-rss-1rds3kt"
     ],
     "carriedCardIds": []
   }

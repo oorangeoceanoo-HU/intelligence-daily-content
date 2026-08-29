@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "publishedAt": "2026-08-29T04:57:19.109Z",
+  "publishedAt": "2026-08-29T07:07:10.081Z",
   "issue": {
     "id": "daily-public-2026-08-29",
     "date": "2026-08-29",
@@ -418,7 +418,7 @@
         "generatedAt": "2026-08-28T23:04:56.231Z"
       },
       {
-        "id": "draft-real-cnbc-world-rss-16dvcy8",
+        "id": "draft-real-cnbc-world-rss-16xukc6",
         "title": "美国上诉法院裁定预测市场败诉，预计将在最高法院引发进一步诉讼",
         "oneLine": "政策变化：美国第九巡回上诉法院驳回了预测市场平台针对内华达州博彩控制委员会（Nevada Gaming Control Board）提出的禁令救济请求，裁定与体育相关的事件合约不属于受联邦政府监管的衍生品。",
         "importance": "B",
@@ -453,13 +453,13 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-29T04:57:25.136Z",
+            "fetchedAt": "2026-08-29T07:07:14.080Z",
             "sourceMethod": "rss",
             "verificationStatus": "pending"
           }
         ],
         "images": [],
-        "generatedAt": "2026-08-29T04:57:19.109Z"
+        "generatedAt": "2026-08-29T07:07:10.081Z"
       },
       {
         "id": "draft-real-cnbc-world-rss-1tz9ya6",
@@ -950,7 +950,7 @@
     "estimatedReadMinutes": 28,
     "pageCount": 3,
     "topCardId": "draft-real-npr-world-rss-xtqg8j",
-    "generatedAt": "2026-08-29T04:57:19.109Z",
+    "generatedAt": "2026-08-29T07:07:10.081Z",
     "pushSlots": [
       "08:30",
       "12:30",
@@ -964,7 +964,7 @@
     },
     "basedOnGeneratedAt": "2026-08-28T23:04:56.231Z",
     "editionCardIds": [
-      "draft-real-cnbc-world-rss-16dvcy8"
+      "draft-real-cnbc-world-rss-16xukc6"
     ],
     "carriedCardIds": [
       "draft-real-npr-world-rss-xtqg8j",

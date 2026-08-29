@@ -1,0 +1,24 @@
+{
+  "short_name": "时小报",
+  "name": "时小报 - 个性化信息日报",
+  "description": "按照用户画像筛选行业动态与重要新闻的个性化日报。",
+  "lang": "zh-CN",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "orientation": "portrait",
+  "theme_color": "#F7F6F1",
+  "background_color": "#F7F6F1",
+  "icons": [
+    {
+      "src": "./icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "./icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}

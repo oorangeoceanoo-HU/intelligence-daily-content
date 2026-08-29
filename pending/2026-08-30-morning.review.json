@@ -1,64 +1,69 @@
 {
   "version": 1,
   "date": "2026-08-30",
-  "generatedAt": "2026-08-29T16:58:47.606Z",
+  "generatedAt": "2026-08-29T17:16:24.913Z",
   "status": "blocked",
   "reviewMode": "generated",
-  "candidateSha256": "5697378d67bbd8ff36cd913ebd3c39c52803f6ad1f66948bc19f12675030fdca",
+  "candidateSha256": "faaf222ce6764f1263c1f860d560809cdd2ce7f84b1a5b38a576499104d87c2a",
   "counts": {
-    "cards": 7,
+    "cards": 3,
     "pages": 1,
-    "rawItems": 42,
-    "freshCandidates": 31,
-    "publishableCards": 7,
-    "reviewableCards": 7,
-    "rejectedCards": 5,
-    "blockers": 1,
-    "warnings": 14
+    "rawItems": 41,
+    "freshCandidates": 21,
+    "publishableCards": 3,
+    "reviewableCards": 5,
+    "rejectedCards": 6,
+    "blockers": 3,
+    "warnings": 8
   },
   "findings": [
     {
       "level": "blocker",
       "code": "too-few-cards",
-      "message": "当前只有 7 条，无法形成每版约 5 条的三版完整日报；系统会保留上一份合格日报，不会用旧闻或未核实内容凑数。"
+      "message": "当前只有 3 条，无法形成每版约 5 条的三版完整日报；系统会保留上一份合格日报，不会用旧闻或未核实内容凑数。"
     },
     {
-      "level": "warning",
+      "level": "blocker",
+      "code": "translation-failures",
+      "message": "有 22 条英文或多语言来源没有完成中文化，当前翻译通道为 openai-compatible，不能按期发布。"
+    },
+    {
+      "level": "blocker",
       "code": "source-concentration",
-      "message": "cnbc-world-rss 占 3/7 条，需要确认没有因其他来源缺失而过度集中。"
+      "message": "mem-cn 占 2/3 条，单一来源超过一半，不能视为覆盖充分。"
     },
     {
       "level": "warning",
       "code": "source-fetch-failures",
-      "message": "有 2 个来源抓取失败，需要确认是否影响当天覆盖面。"
+      "message": "有 4 个来源抓取失败，需要确认是否影响当天覆盖面。"
     },
     {
       "level": "warning",
       "code": "card-needs-human-review",
       "message": "没有抓到完整正文，目前使用候选摘要回退。",
-      "cardId": "draft-real-france24-middle-east-rss-92q6bv",
-      "cardTitle": "伊朗战争进入第6个月：冲突成本为每名美国纳税人1,100美元"
+      "cardId": "draft-real-france24-asia-pacific-rss-onq7jb",
+      "cardTitle": "尼泊尔-西藏洪水实时报道：救援人员争分夺秒寻找被困在隧道中的100名工人，死亡人数已突破680人"
     },
     {
       "level": "warning",
       "code": "card-needs-human-review",
-      "message": "原文信息量有限，需要确认是否足以支持卡片结论。",
-      "cardId": "draft-real-france24-middle-east-rss-92q6bv",
-      "cardTitle": "伊朗战争进入第6个月：冲突成本为每名美国纳税人1,100美元"
+      "message": "原文篇幅较短且不是官方或主流来源，需要发布前复核。",
+      "cardId": "draft-real-france24-asia-pacific-rss-onq7jb",
+      "cardTitle": "尼泊尔-西藏洪水实时报道：救援人员争分夺秒寻找被困在隧道中的100名工人，死亡人数已突破680人"
     },
     {
       "level": "warning",
       "code": "card-needs-human-review",
       "message": "没有抓到完整正文，目前使用候选摘要回退。",
-      "cardId": "draft-real-france24-asia-pacific-rss-r5s9li",
-      "cardTitle": "“极其危险的操作”：救援人员在河岸可能决堤的威胁下展开行动"
+      "cardId": "draft-real-france24-asia-pacific-rss-aas6i2",
+      "cardTitle": "尼泊尔军队紧急救援水电站隧道中逾百名被困人员"
     },
     {
       "level": "warning",
       "code": "card-needs-human-review",
       "message": "原文信息量有限，需要确认是否足以支持卡片结论。",
-      "cardId": "draft-real-france24-asia-pacific-rss-r5s9li",
-      "cardTitle": "“极其危险的操作”：救援人员在河岸可能决堤的威胁下展开行动"
+      "cardId": "draft-real-france24-asia-pacific-rss-aas6i2",
+      "cardTitle": "尼泊尔军队紧急救援水电站隧道中逾百名被困人员"
     },
     {
       "level": "warning",
@@ -80,41 +85,6 @@
       "message": "官方风险简报篇幅较短，但事实和处置动作完整，需要人工确认是否保留。",
       "cardId": "draft-cluster-real-mem-cn-cmeub8",
       "cardTitle": "应急管理部紧急调派隧道专家赴尼泊尔实施国际救援行动"
-    },
-    {
-      "level": "warning",
-      "code": "card-needs-human-review",
-      "message": "没有抓到完整正文，目前使用候选摘要回退。",
-      "cardId": "draft-real-france24-middle-east-rss-1geyjt8",
-      "cardTitle": "以色列对加沙和约旦河西岸的空袭造成多人死亡"
-    },
-    {
-      "level": "warning",
-      "code": "card-needs-human-review",
-      "message": "原文信息量有限，需要确认是否足以支持卡片结论。",
-      "cardId": "draft-real-france24-middle-east-rss-1geyjt8",
-      "cardTitle": "以色列对加沙和约旦河西岸的空袭造成多人死亡"
-    },
-    {
-      "level": "warning",
-      "code": "card-needs-human-review",
-      "message": "没有抓到完整正文，目前使用候选摘要回退。",
-      "cardId": "draft-real-france24-asia-pacific-rss-bait2t",
-      "cardTitle": "救援行动仍在进行，死亡人数持续上升"
-    },
-    {
-      "level": "warning",
-      "code": "card-needs-human-review",
-      "message": "原文信息量有限，需要确认是否足以支持卡片结论。",
-      "cardId": "draft-real-france24-asia-pacific-rss-bait2t",
-      "cardTitle": "救援行动仍在进行，死亡人数持续上升"
-    },
-    {
-      "level": "warning",
-      "code": "card-needs-human-review",
-      "message": "一句话导读偏短，可能没有讲清楚核心事实。",
-      "cardId": "draft-real-france24-asia-pacific-rss-bait2t",
-      "cardTitle": "救援行动仍在进行，死亡人数持续上升"
     }
   ]
 }

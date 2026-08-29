@@ -1,56 +1,11 @@
 {
   "schemaVersion": 2,
-  "publishedAt": "2026-08-29T16:54:33.832Z",
+  "publishedAt": "2026-08-29T17:13:07.781Z",
   "issue": {
     "id": "daily-public-2026-08-30",
     "date": "2026-08-30",
     "userId": "public",
     "cards": [
-      {
-        "id": "draft-real-cnbc-world-rss-1n69vr5",
-        "title": "伊朗贸易下滑，最高领袖哈梅内伊呼吁减少对美元的依赖",
-        "oneLine": "政策变化：伊朗总统马苏德·佩泽什基安表示，在美国制裁和海上封锁下，伊朗贸易大幅下滑。",
-        "importance": "S",
-        "credibility": "待确认",
-        "tags": [
-          "S",
-          "mustKnow",
-          "industry",
-          "world",
-          "policy",
-          "finance"
-        ],
-        "industries": [
-          "generalPublic",
-          "financeInvestment",
-          "operationsGrowth",
-          "ecommerceRetail"
-        ],
-        "section": "front",
-        "body": {
-          "background": "佩泽什基安在周五晚接受国家电视台采访时说，据塔斯尼姆新闻社转录稿的谷歌翻译显示，“出口的降幅略小于进口的降幅，而进口显著减少。”莫杰塔巴·哈梅内伊在周五晚发布在X平台上的帖子中说。据贸易情报公司Kpl周四分享的数据，8月份用于出口的伊朗原油装载量骤降。",
-          "keyProgress": "同样重要的是特别关注经济增长、促进生产、逐步淘汰美元发挥关键作用，并最终使‘抵抗经济’成为核心焦点。随着美国通过制裁和海上封锁加大对德黑兰的经济压力，伊朗原油出口急剧下降。最高领袖莫杰塔巴·哈梅内伊则呼吁减少对美元的依赖。我们的出口减少了，但进口减少得更多。",
-          "whyItMatters": "“伊朗贸易下滑，最高领袖哈梅内伊呼吁减少对美元的依赖”如果继续发展，可能通过能源价格、航运、贸易、汇率或市场预期传导到国内。了解它的意义在于判断后续风险，而不只停留在事件本身。",
-          "userRelevance": "即使你不在伊朗，“伊朗贸易下滑，最高领袖哈梅内伊呼吁减少对美元的依赖”也可能通过能源价格、国际航运、贸易成本和市场预期间接影响国内生活与工作判断。",
-          "whatToWatch": "接下来要看“伊朗贸易下滑，最高领袖哈梅内伊呼吁减少对美元的依赖”是否出现更细的城市、行业、平台或企业数据，以及这一变化能否连续保持。"
-        },
-        "sourceLinks": [
-          {
-            "title": "CNBC World News RSS",
-            "url": "https://www.cnbc.com/2026/08/29/iran-trade-sanctions-dollar-oil-exports.html",
-            "sourceId": "cnbc-world-rss",
-            "publishedAt": "2026-08-29T12:08:08.000Z",
-            "language": "zh",
-            "originalLanguage": "en",
-            "translationStatus": "translated",
-            "fetchedAt": "2026-08-29T16:54:38.331Z",
-            "sourceMethod": "rss",
-            "verificationStatus": "pending"
-          }
-        ],
-        "images": [],
-        "generatedAt": "2026-08-29T16:54:33.832Z"
-      },
       {
         "id": "draft-cluster-real-mem-cn-k7vd8b",
         "title": "党旗在吉隆泥石流灾害救援一线高高飘扬 消防救援队伍持续开展不间断拉网式搜寻 已投入救援力量681人",
@@ -85,7 +40,7 @@
             "language": "zh",
             "originalLanguage": "zh",
             "translationStatus": "not-needed",
-            "fetchedAt": "2026-08-29T16:54:35.711Z",
+            "fetchedAt": "2026-08-29T17:13:10.163Z",
             "sourceMethod": "web",
             "verificationStatus": "confirmed"
           },
@@ -97,13 +52,13 @@
             "language": "zh",
             "originalLanguage": "zh",
             "translationStatus": "not-needed",
-            "fetchedAt": "2026-08-29T16:54:35.711Z",
+            "fetchedAt": "2026-08-29T17:13:10.163Z",
             "sourceMethod": "web",
             "verificationStatus": "confirmed"
           }
         ],
         "images": [],
-        "generatedAt": "2026-08-29T16:54:33.832Z"
+        "generatedAt": "2026-08-29T17:13:07.781Z"
       },
       {
         "id": "draft-cluster-real-mem-cn-b74okf",
@@ -139,7 +94,7 @@
             "language": "zh",
             "originalLanguage": "zh",
             "translationStatus": "not-needed",
-            "fetchedAt": "2026-08-29T16:54:35.711Z",
+            "fetchedAt": "2026-08-29T17:13:10.163Z",
             "sourceMethod": "web",
             "verificationStatus": "confirmed"
           },
@@ -151,7 +106,7 @@
             "language": "zh",
             "originalLanguage": "zh",
             "translationStatus": "not-needed",
-            "fetchedAt": "2026-08-29T16:54:35.711Z",
+            "fetchedAt": "2026-08-29T17:13:10.163Z",
             "sourceMethod": "web",
             "verificationStatus": "confirmed"
           },
@@ -163,156 +118,13 @@
             "language": "zh",
             "originalLanguage": "zh",
             "translationStatus": "not-needed",
-            "fetchedAt": "2026-08-29T16:54:35.711Z",
+            "fetchedAt": "2026-08-29T17:13:10.163Z",
             "sourceMethod": "web",
             "verificationStatus": "confirmed"
           }
         ],
         "images": [],
-        "generatedAt": "2026-08-29T16:54:33.832Z"
-      },
-      {
-        "id": "draft-real-techcrunch-ai-rss-1hm4epb",
-        "title": "英伟达的AI优势正超越GPU",
-        "oneLine": "趋势信号：本周之前，关于英伟达的主流叙事大致如下：在人工智能繁荣的最初几年里，英伟达是先进图形处理单元（GPU）的唯一来源，随着行业规模扩大，其利润极为丰厚。",
-        "importance": "B",
-        "credibility": "待确认",
-        "tags": [
-          "B",
-          "industry",
-          "ai",
-          "technology",
-          "product"
-        ],
-        "industries": [
-          "aiProduct",
-          "aiTechnology",
-          "productManagement",
-          "technologyEngineering",
-          "educationResearch"
-        ],
-        "section": "ai",
-        "body": {
-          "background": "英伟达市值从2023年初到2025年中增长了10倍，但过去一年其股价走势较为平缓，主要受GPU竞争担忧的驱动。自该公司周三公布财报以来，新的叙事逐渐成型，投资者开始意识到英伟达的优势远不止于GPU本身。该公司目前正在推出“Vera Rubin”架构，该架构将Rubin GPU与一系列其他组件配对，包括Vera CPU、Groq 3 LPX推理加速器以及用于存储和网络的相关机架。",
-          "keyProgress": "而在过去几年中，亚马逊和谷歌等超大规模云厂商开始自研芯片，英伟达不再是市场唯一的玩家，这导致许多投资者质疑其优势是否真的持久。随着人工智能算力向吉瓦级规模增长，系统编排已成为一项日益复杂的任务。这是一个引人入胜且基本符合事实的故事。毫不意外的是，英伟达已构建了应对这一挑战所需的大部分尖端硬件，使其在围绕GPU的系统层面拥有巨大优势，尽管GPU本身面临日益激烈的竞争。",
-          "whyItMatters": "“英伟达的AI优势正超越GPU”能帮助你判断这项能力是否已经进入工程、产品或商业场景，并据此调整技术选型、产品规划、学习重点或职业判断。",
-          "userRelevance": "如果你从事AI 产品、AI 技术、产品管理、技术研发，可以重点判断“英伟达的AI优势正超越GPU”是否已经具备产品落地、技术选型或业务合作价值。",
-          "whatToWatch": "接下来要看“英伟达的AI优势正超越GPU”是否有更多可靠来源、量产或应用进展，以及它会不会从单点消息发展成持续趋势。"
-        },
-        "sourceLinks": [
-          {
-            "title": "TechCrunch AI RSS",
-            "url": "https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu/",
-            "sourceId": "techcrunch-ai-rss",
-            "publishedAt": "2026-08-29T13:00:00.000Z",
-            "language": "zh",
-            "originalLanguage": "en",
-            "translationStatus": "translated",
-            "fetchedAt": "2026-08-29T16:54:40.167Z",
-            "sourceMethod": "rss",
-            "verificationStatus": "pending"
-          }
-        ],
-        "images": [],
-        "generatedAt": "2026-08-29T16:54:33.832Z"
-      },
-      {
-        "id": "draft-real-theverge-ai-rss-1h8plzm",
-        "title": "从音乐人转型为侦探的他们正在追捕AI诈骗者",
-        "oneLine": "最新进展：从音乐人转型为侦探的他们正在追捕AI诈骗者。",
-        "importance": "B",
-        "credibility": "待确认",
-        "tags": [
-          "B",
-          "industry",
-          "ai",
-          "technology",
-          "product"
-        ],
-        "industries": [
-          "aiProduct",
-          "aiTechnology",
-          "productManagement",
-          "technologyEngineering",
-          "educationResearch"
-        ],
-        "section": "ai",
-        "body": {
-          "background": "尽管对他所使用的各种工具和专业软件不熟悉的人来说，他的工作流程可能看起来十分复杂——他的制作设备包括Ableton Live、Novation Launchkey 49 MIDI控制器、Ableton Push 3、Launchpad X、几台模拟合成器、Serum、Diva以及软件采样器Kontakt——但他表示，整个过程“实际上只是我在做出创意决策”。尽管部分创作者会主动承认使用了AI技术，但也有人否认使用该技术，直到公众 scrutiny（审视）不断升级才被迫说实话。对于音乐人——尤其是那些在电子舞曲等高度依赖技术的领域创作的艺术工作者而言，“真实”与“非真实”的界限问题显得尤为紧迫且切身。",
-          "keyProgress": "职业礼仪使这一局面更加复杂：听众可以点名批评他们怀疑使用生成式AI的表演者，但艺术家们要对其同行提出质疑则更为棘手。不过，也有像26岁的电子舞曲制作人Max “H4RRIS” Harris这样的人站出来反对生成式技术，通过视频揭露任何他们认为试图将AI生成的粗劣内容伪装成人类创作艺术的人。最近在与Harris交谈时，他表示将AI生成音乐视为“一种诱饵式的艺术形式”，并认为制作这些作品的人并没有通过其创作表达任何有意义的内涵。他认为，任何媒介中的真正艺术都是“由试图表达情感和讯息的人所创作的”，而AI支持者真正感兴趣的只是快速获利。",
-          "whyItMatters": "“从音乐人转型为侦探的他们正在追捕AI诈骗者”能帮助你判断这项能力是否已经进入工程、产品或商业场景，并据此调整技术选型、产品规划、学习重点或职业判断。",
-          "userRelevance": "如果你从事AI 产品、AI 技术、产品管理、技术研发，可以重点判断“从音乐人转型为侦探的他们正在追捕AI诈骗者”是否已经具备产品落地、技术选型或业务合作价值。",
-          "whatToWatch": "接下来要看“从音乐人转型为侦探的他们正在追捕AI诈骗者”是否有更多可靠来源、量产或应用进展，以及它会不会从单点消息发展成持续趋势。"
-        },
-        "sourceLinks": [
-          {
-            "title": "The Verge AI RSS",
-            "url": "https://www.theverge.com/entertainment/985866/h4rris-nihil-young-edm-suno-ai",
-            "sourceId": "theverge-ai-rss",
-            "publishedAt": "2026-08-29T12:00:00.000Z",
-            "language": "zh",
-            "originalLanguage": "en",
-            "translationStatus": "translated",
-            "fetchedAt": "2026-08-29T16:54:40.191Z",
-            "sourceMethod": "rss",
-            "verificationStatus": "pending"
-          }
-        ],
-        "images": [],
-        "generatedAt": "2026-08-29T16:54:33.832Z"
-      },
-      {
-        "id": "draft-real-cnbc-world-rss-1aokan0",
-        "title": "K型、C型还是E型？为何经济学家对当前经济形态难以达成共识",
-        "oneLine": "政策变化：《K型、C型还是E型？为何经济学家对当前经济形态难以达成共识》“我可以在此明确地说，‘K型’经济已经结束。",
-        "importance": "B",
-        "credibility": "待确认",
-        "tags": [
-          "B",
-          "industry",
-          "world",
-          "policy",
-          "finance"
-        ],
-        "industries": [
-          "generalPublic",
-          "financeInvestment",
-          "operationsGrowth",
-          "ecommerceRetail"
-        ],
-        "section": "industry",
-        "body": {
-          "background": "历史上使用过的包括“V型”、“L型”和“W型”。这些不是缩写，也不是希腊字母兄弟会的标识。它们是经济学家、企业领导人和政客们用来定义美国当前经济态势的一些术语。",
-          "keyProgress": "近年来，在“K型”经济中体现出的低收入与高收入消费者之间的分化，一直是政客、货币政策制定者和消费品公司高管们关注的焦点。但据研究公司Baird Strategas的首席经济学家唐·里斯米勒（Don Rissmiller）称，这类描述在经济衰退数年后的普通美国人中仍能保持影响力，实属罕见。他表示，日益加剧的对财富不平等的担忧可能正推动着这种意识的提升。这位前对冲基金经理表示，一种“C型”经济正在形成，意味着底层消费者正在 gaining ground（取得进展）。",
-          "whyItMatters": "“K型、C型还是E型？为何经济学家对当前经济形态难以达成共识”如果继续发展，可能通过能源价格、航运、贸易、汇率或市场预期传导到国内。了解它的意义在于判断后续风险，而不只停留在事件本身。",
-          "userRelevance": "即使你不在事发地区，“K型、C型还是E型？为何经济学家对当前经济形态难以达成共识”也可能通过能源价格、国际航运、贸易成本和市场预期间接影响国内生活与工作判断。",
-          "whatToWatch": "接下来要看“K型、C型还是E型？为何经济学家对当前经济形态难以达成共识”是否出现更细的城市、行业、平台或企业数据，以及这一变化能否连续保持。"
-        },
-        "sourceLinks": [
-          {
-            "title": "CNBC World News RSS",
-            "url": "https://www.cnbc.com/2026/08/29/k-shaped-economy-c-shaped-e-shape.html",
-            "sourceId": "cnbc-world-rss",
-            "publishedAt": "2026-08-29T12:22:50.000Z",
-            "language": "zh",
-            "originalLanguage": "en",
-            "translationStatus": "translated",
-            "fetchedAt": "2026-08-29T16:54:38.331Z",
-            "sourceMethod": "rss",
-            "verificationStatus": "pending"
-          }
-        ],
-        "images": [
-          {
-            "url": "https://image.cnbcfm.com/api/v1/image/108344424-17858448081785844798-47571968617-1080pnbcnews.jpg?v=1785844807&amp;w=750&amp;h=422&amp;vtcrop=y",
-            "sourceUrl": "https://www.cnbc.com/2026/08/29/k-shaped-economy-c-shaped-e-shape.html"
-          },
-          {
-            "url": "https://image.cnbcfm.com/api/v1/image/108353812-17876593601787659357-47975764338-1080pnbcnews.jpg?v=1787659359&amp;w=750&amp;h=422&amp;vtcrop=y",
-            "sourceUrl": "https://www.cnbc.com/2026/08/29/k-shaped-economy-c-shaped-e-shape.html"
-          }
-        ],
-        "generatedAt": "2026-08-29T16:54:33.832Z"
+        "generatedAt": "2026-08-29T17:13:07.781Z"
       },
       {
         "id": "draft-real-cnbc-world-rss-vni478",
@@ -350,19 +162,19 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-29T16:54:38.331Z",
+            "fetchedAt": "2026-08-29T17:13:13.971Z",
             "sourceMethod": "rss",
             "verificationStatus": "pending"
           }
         ],
         "images": [],
-        "generatedAt": "2026-08-29T16:54:33.832Z"
+        "generatedAt": "2026-08-29T17:13:07.781Z"
       }
     ],
-    "estimatedReadMinutes": 11,
+    "estimatedReadMinutes": 5,
     "pageCount": 1,
-    "topCardId": "draft-real-cnbc-world-rss-1n69vr5",
-    "generatedAt": "2026-08-29T16:54:33.832Z",
+    "topCardId": "draft-cluster-real-mem-cn-k7vd8b",
+    "generatedAt": "2026-08-29T17:13:07.781Z",
     "pushSlots": [
       "08:30",
       "12:30",
@@ -375,12 +187,8 @@
       "end": "2026-08-30T07:10:00+08:00"
     },
     "editionCardIds": [
-      "draft-real-cnbc-world-rss-1n69vr5",
       "draft-cluster-real-mem-cn-k7vd8b",
       "draft-cluster-real-mem-cn-b74okf",
-      "draft-real-techcrunch-ai-rss-1hm4epb",
-      "draft-real-theverge-ai-rss-1h8plzm",
-      "draft-real-cnbc-world-rss-1aokan0",
       "draft-real-cnbc-world-rss-vni478"
     ],
     "carriedCardIds": []

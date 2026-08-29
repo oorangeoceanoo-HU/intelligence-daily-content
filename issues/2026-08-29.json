@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "publishedAt": "2026-08-29T04:57:19.109Z",
+  "publishedAt": "2026-08-29T10:58:20.907Z",
   "issue": {
     "id": "daily-public-2026-08-29",
     "date": "2026-08-29",
@@ -418,48 +418,112 @@
         "generatedAt": "2026-08-28T23:04:56.231Z"
       },
       {
-        "id": "draft-real-cnbc-world-rss-16dvcy8",
-        "title": "美国上诉法院裁定预测市场败诉，预计将在最高法院引发进一步诉讼",
-        "oneLine": "政策变化：美国第九巡回上诉法院驳回了预测市场平台针对内华达州博彩控制委员会（Nevada Gaming Control Board）提出的禁令救济请求，裁定与体育相关的事件合约不属于受联邦政府监管的衍生品。",
+        "id": "draft-cluster-real-mem-cn-a369sj",
+        "title": "应急管理部调派“雨燕应急”无人机组持续支持西藏吉隆泥石流灾害救援",
+        "oneLine": "风险提醒：为保障抢险救援工作安全开展，做好受灾区域次生灾害监测，应急管理部调派国家减灾中心 “雨燕应急·重大灾害无人机应急合作机制”成员单位 11 名飞手，携带 7 架侦查无人机、 2 架大载重无人机，组成联合机组，分为监测和投送两组，持续开展应急监测和辅助救援。",
         "importance": "B",
-        "credibility": "待确认",
+        "credibility": "官方来源",
         "tags": [
           "B",
-          "industry",
-          "world",
-          "policy",
-          "finance"
+          "risk",
+          "disaster",
+          "publicSafety",
+          "china"
         ],
         "industries": [
           "generalPublic",
-          "financeInvestment",
-          "operationsGrowth",
-          "ecommerceRetail"
+          "localLife"
         ],
-        "section": "industry",
+        "section": "risk",
         "body": {
-          "background": "此次受到审查的是各平台提供的与体育相关的事件合约。然而，包括其联邦监管机构商品期货交易委员会（CFTC）在内的平台方声称，无论主题如何，所有事件合约均属于“互换”（swaps）。该办公室副通讯主任Alcinia Whiters在一份声明中说：“Kalshi试图通过声称其体育投注产品是受联邦监管、不受州监管机构干预的金融工具，来规避内华达州的博彩法律。",
-          "keyProgress": "该法院拒绝了预测市场平台Kalshi和Crypto.com的上诉请求，这两家平台希望阻止内华达州叫停其运营。为此，CFTC甚至起诉了九个州，以捍卫其自认为对预测市场规则制定享有的唯一权利。第九巡回法院驳回了这一论点，并明确重申了我们从一开始就坚持的观点：仅仅因为一家公司将体育博彩称为‘事件合约’，并不能使其改变性质……我们很自豪能够捍卫内华达州的权威。内华达州方面称，这些平台的业务属于博彩控制委员会框架之外的赌博产品。",
-          "whyItMatters": "“美国上诉法院裁定预测市场败诉，预计将在最高法院引发进一步诉讼”如果继续发展，可能通过能源价格、航运、贸易、汇率或市场预期传导到国内。了解它的意义在于判断后续风险，而不只停留在事件本身。",
-          "userRelevance": "即使你不在美国，“美国上诉法院裁定预测市场败诉，预计将在最高法院引发进一步诉讼”也可能通过能源价格、国际航运、贸易成本和市场预期间接影响国内生活与工作判断。",
-          "whatToWatch": "接下来要看“美国上诉法院裁定预测市场败诉，预计将在最高法院引发进一步诉讼”是否出现更细的城市、行业、平台或企业数据，以及这一变化能否连续保持。"
+          "background": "监测组持续开展上游堰塞湖过流情况和口岸区域道路损毁、淤积情况监测。针对口岸区域救援任务，开展口岸区域高精度三维建模，测量泥石流淤积厚度和体量，监测道路损毁和淤泥堆积情况。投送组配合消防队伍开展辅助救援工作，为前突到核心救援位置的消防救援队伍提供食品和雨衣等应急物资。",
+          "keyProgress": "同时，国家减灾中心技术人员在后方持续为前方飞行队伍开展业务协同，包括制定飞行计划、提供技术保障、开展灾险情分析研判、制作监测评估图件等，为应急救援工作提供强有力支持。",
+          "whyItMatters": "“应急管理部调派雨燕应急无人机组持续支持西藏吉隆泥石流灾害救援”的直接价值是帮助你判断是否需要调整出行、居住或工作安排。影响地区、持续时间、预警等级和官方避险建议比事件热度更重要。",
+          "userRelevance": "对于“应急管理部调派雨燕应急无人机组持续支持西藏吉隆泥石流灾害救援”，如果你居住、出行或有家人在西藏，应及时查看当地预警和交通变化；不在相关地区时，通常无需改变日常安排。",
+          "whatToWatch": "接下来要看“应急管理部调派雨燕应急无人机组持续支持西藏吉隆泥石流灾害救援”的影响范围是否扩大、预警等级是否变化，以及是否出现与你所在城市相关的提醒。"
         },
         "sourceLinks": [
           {
-            "title": "CNBC World News RSS",
-            "url": "https://www.cnbc.com/2026/08/28/appeals-court-rules-against-prediction-markets-tees-up-scotus-fight.html",
-            "sourceId": "cnbc-world-rss",
-            "publishedAt": "2026-08-29T02:23:52.000Z",
+            "title": "应急管理部",
+            "url": "https://www.mem.gov.cn/xw/yjglbgzdt/202608/t20260829_709156.shtml",
+            "sourceId": "mem-cn",
+            "publishedAt": "2026-08-29T00:00:00+08:00",
             "language": "zh",
-            "originalLanguage": "en",
-            "translationStatus": "translated",
-            "fetchedAt": "2026-08-29T04:57:25.136Z",
-            "sourceMethod": "rss",
-            "verificationStatus": "pending"
+            "originalLanguage": "zh",
+            "translationStatus": "not-needed",
+            "fetchedAt": "2026-08-29T10:58:23.133Z",
+            "sourceMethod": "web",
+            "verificationStatus": "confirmed"
+          },
+          {
+            "title": "应急管理部",
+            "url": "https://www.mem.gov.cn/xw/yjglbgzdt/202608/t20260829_709136.shtml",
+            "sourceId": "mem-cn",
+            "publishedAt": "2026-08-29T00:00:00+08:00",
+            "language": "zh",
+            "originalLanguage": "zh",
+            "translationStatus": "not-needed",
+            "fetchedAt": "2026-08-29T10:58:23.133Z",
+            "sourceMethod": "web",
+            "verificationStatus": "confirmed"
+          },
+          {
+            "title": "应急管理部",
+            "url": "https://www.mem.gov.cn/xw/yjglbgzdt/202608/t20260829_709093.shtml",
+            "sourceId": "mem-cn",
+            "publishedAt": "2026-08-29T00:00:00+08:00",
+            "language": "zh",
+            "originalLanguage": "zh",
+            "translationStatus": "not-needed",
+            "fetchedAt": "2026-08-29T10:58:23.133Z",
+            "sourceMethod": "web",
+            "verificationStatus": "confirmed"
           }
         ],
         "images": [],
-        "generatedAt": "2026-08-29T04:57:19.109Z"
+        "generatedAt": "2026-08-29T10:58:20.907Z"
+      },
+      {
+        "id": "draft-real-mem-cn-1mmpbki",
+        "title": "党旗在吉隆泥石流灾害救援一线高高飘扬：消防救援队伍临时党组织靠前发挥作用 党员冲锋在搜救现场",
+        "oneLine": "风险提醒：党旗在吉隆泥石流灾害救援一线高高飘扬 消防救援队伍临时党组织靠前发挥作用 西藏日喀则市吉隆县泥石流灾害发生后，应急管理部、国家消防救援局调派消防救援力量跨区域增援，全力支持地方做好救援处置工作。",
+        "importance": "B",
+        "credibility": "官方来源",
+        "tags": [
+          "B",
+          "risk",
+          "disaster",
+          "publicSafety",
+          "china"
+        ],
+        "industries": [
+          "generalPublic",
+          "localLife"
+        ],
+        "section": "risk",
+        "body": {
+          "background": "8 月 29 日上午，国家综合性消防救援队伍持续在受灾核心区开展搜救工作。灾害造成部分道路损毁，现场山体岩土松散，滑坡、落石等次生灾害隐患持续存在，搜救作业条件艰苦，多支跨区域增援队伍同步在现场开展工作。现场的党员骨干主动承担风险较高的作业任务，组成党员攻坚小组，跟随搜救单元深入淤泥乱石区域，配合开展生命探测、现场排查、风险研判等工作。",
+          "keyProgress": "针对救援现场队伍来源分散、环境风险高、作业任务重的实际情况，救援前方成立临时党组织，设置 31 支党员突击队，把工作阵地前移到抢险一线，统筹协调参战力量，组织党员骨干投入搜救作业。参战消防救援队伍火线组建临时党组织，打破原有建制界限，统一对接前方指挥部，协调各作业队伍划分搜救片区，避免重复作业、力量分散，提升现场搜救工作效率。在做好搜救工作的同时，参战党员主动配合地方基层党组织，协同做好受灾群众安抚、物资转运等相关工作，加强各方信息互通，凝聚抢险救援合力。“临时党组织把各个增援队伍的党员拢到一起，分工更清晰，互相之间也能补位。",
+          "whyItMatters": "“党旗在吉隆泥石流灾害救援一线高高飘扬：消防救援队伍临时党组织靠前发挥作用 党员冲锋在搜救现场”的直接价值是帮助你判断是否需要调整出行、居住或工作安排。影响地区、持续时间、预警等级和官方避险建议比事件热度更重要。",
+          "userRelevance": "对于“党旗在吉隆泥石流灾害救援一线高高飘扬：消防救援队伍临时党组织靠前发挥作用 党员冲锋在搜救现场”，如果你所在地区出现同类预警，应优先确认当地通知、交通变化和避险要求；其他地区通常无需因此改变日常安排。",
+          "whatToWatch": "接下来要看“党旗在吉隆泥石流灾害救援一线高高飘扬：消防救援队伍临时党组织靠前发挥作用 党员冲锋在搜救现场”的影响范围是否扩大、预警等级是否变化，以及是否出现与你所在城市相关的提醒。"
+        },
+        "sourceLinks": [
+          {
+            "title": "应急管理部",
+            "url": "https://www.mem.gov.cn/xw/yjglbgzdt/202608/t20260829_709126.shtml",
+            "sourceId": "mem-cn",
+            "publishedAt": "2026-08-29T00:00:00+08:00",
+            "language": "zh",
+            "originalLanguage": "zh",
+            "translationStatus": "not-needed",
+            "fetchedAt": "2026-08-29T10:58:23.133Z",
+            "sourceMethod": "web",
+            "verificationStatus": "confirmed"
+          }
+        ],
+        "images": [],
+        "generatedAt": "2026-08-29T10:58:20.907Z"
       },
       {
         "id": "draft-real-cnbc-world-rss-1tz9ya6",
@@ -843,6 +907,50 @@
         "generatedAt": "2026-08-28T23:04:56.231Z"
       },
       {
+        "id": "draft-real-cnbc-world-rss-16dvcy8",
+        "title": "美国上诉法院裁定预测市场败诉，预计将在最高法院引发进一步诉讼",
+        "oneLine": "政策变化：美国第九巡回上诉法院驳回了预测市场平台针对内华达州博彩控制委员会（Nevada Gaming Control Board）提出的禁令救济请求，裁定与体育相关的事件合约不属于受联邦政府监管的衍生品。",
+        "importance": "B",
+        "credibility": "待确认",
+        "tags": [
+          "B",
+          "industry",
+          "world",
+          "policy",
+          "finance"
+        ],
+        "industries": [
+          "generalPublic",
+          "financeInvestment",
+          "operationsGrowth",
+          "ecommerceRetail"
+        ],
+        "section": "industry",
+        "body": {
+          "background": "此次受到审查的是各平台提供的与体育相关的事件合约。然而，包括其联邦监管机构商品期货交易委员会（CFTC）在内的平台方声称，无论主题如何，所有事件合约均属于“互换”（swaps）。该办公室副通讯主任Alcinia Whiters在一份声明中说：“Kalshi试图通过声称其体育投注产品是受联邦监管、不受州监管机构干预的金融工具，来规避内华达州的博彩法律。",
+          "keyProgress": "该法院拒绝了预测市场平台Kalshi和Crypto.com的上诉请求，这两家平台希望阻止内华达州叫停其运营。为此，CFTC甚至起诉了九个州，以捍卫其自认为对预测市场规则制定享有的唯一权利。第九巡回法院驳回了这一论点，并明确重申了我们从一开始就坚持的观点：仅仅因为一家公司将体育博彩称为‘事件合约’，并不能使其改变性质……我们很自豪能够捍卫内华达州的权威。内华达州方面称，这些平台的业务属于博彩控制委员会框架之外的赌博产品。",
+          "whyItMatters": "“美国上诉法院裁定预测市场败诉，预计将在最高法院引发进一步诉讼”如果继续发展，可能通过能源价格、航运、贸易、汇率或市场预期传导到国内。了解它的意义在于判断后续风险，而不只停留在事件本身。",
+          "userRelevance": "即使你不在美国，“美国上诉法院裁定预测市场败诉，预计将在最高法院引发进一步诉讼”也可能通过能源价格、国际航运、贸易成本和市场预期间接影响国内生活与工作判断。",
+          "whatToWatch": "接下来要看“美国上诉法院裁定预测市场败诉，预计将在最高法院引发进一步诉讼”是否出现更细的城市、行业、平台或企业数据，以及这一变化能否连续保持。"
+        },
+        "sourceLinks": [
+          {
+            "title": "CNBC World News RSS",
+            "url": "https://www.cnbc.com/2026/08/28/appeals-court-rules-against-prediction-markets-tees-up-scotus-fight.html",
+            "sourceId": "cnbc-world-rss",
+            "publishedAt": "2026-08-29T02:23:52.000Z",
+            "language": "zh",
+            "originalLanguage": "en",
+            "translationStatus": "translated",
+            "fetchedAt": "2026-08-29T04:57:25.136Z",
+            "sourceMethod": "rss",
+            "verificationStatus": "pending"
+          }
+        ],
+        "images": [],
+        "generatedAt": "2026-08-29T04:57:19.109Z"
+      },
+      {
         "id": "draft-real-cas-science-news-1id9h32",
         "title": "大面积铜锌锡硫硒薄膜光伏组件研究获进展",
         "oneLine": "趋势信号：铜锌锡硫硒（CZTSSe）是一类新型薄膜光伏材料，因其低成本、资源丰富以及优异的化学稳定性，被认为是下一代可持续光伏技术的重要候选。",
@@ -947,24 +1055,25 @@
         "generatedAt": "2026-08-28T23:04:56.231Z"
       }
     ],
-    "estimatedReadMinutes": 28,
+    "estimatedReadMinutes": 31,
     "pageCount": 3,
     "topCardId": "draft-real-npr-world-rss-xtqg8j",
-    "generatedAt": "2026-08-29T04:57:19.109Z",
+    "generatedAt": "2026-08-29T10:58:20.907Z",
     "pushSlots": [
       "08:30",
       "12:30",
       "21:30"
     ],
-    "edition": "midday",
-    "editionLabel": "午间更新",
+    "edition": "evening",
+    "editionLabel": "晚间更新",
     "coverageWindow": {
-      "start": "2026-08-29T07:10:00+08:00",
-      "end": "2026-08-29T12:10:00+08:00"
+      "start": "2026-08-29T12:10:00+08:00",
+      "end": "2026-08-29T21:10:00+08:00"
     },
-    "basedOnGeneratedAt": "2026-08-28T23:04:56.231Z",
+    "basedOnGeneratedAt": "2026-08-29T04:57:19.109Z",
     "editionCardIds": [
-      "draft-real-cnbc-world-rss-16dvcy8"
+      "draft-cluster-real-mem-cn-a369sj",
+      "draft-real-mem-cn-1mmpbki"
     ],
     "carriedCardIds": [
       "draft-real-npr-world-rss-xtqg8j",
@@ -982,6 +1091,7 @@
       "draft-real-techcrunch-ai-rss-1xbe7d4",
       "draft-real-xinhua-tech-rdu5ie",
       "draft-real-xinhua-tech-a8tq3f",
+      "draft-real-cnbc-world-rss-16dvcy8",
       "draft-real-cas-science-news-1id9h32",
       "draft-cluster-real-cas-science-news-ibyer4"
     ]

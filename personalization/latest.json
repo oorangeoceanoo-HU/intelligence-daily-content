@@ -449,7 +449,7 @@
             "language": "zh",
             "originalLanguage": "zh",
             "translationStatus": "not-needed",
-            "fetchedAt": "2026-08-29T10:58:23.133Z",
+            "fetchedAt": "2026-08-29T11:09:25.999Z",
             "sourceMethod": "web",
             "verificationStatus": "confirmed"
           },
@@ -461,7 +461,7 @@
             "language": "zh",
             "originalLanguage": "zh",
             "translationStatus": "not-needed",
-            "fetchedAt": "2026-08-29T10:58:23.133Z",
+            "fetchedAt": "2026-08-29T11:09:25.999Z",
             "sourceMethod": "web",
             "verificationStatus": "confirmed"
           },
@@ -473,13 +473,13 @@
             "language": "zh",
             "originalLanguage": "zh",
             "translationStatus": "not-needed",
-            "fetchedAt": "2026-08-29T10:58:23.133Z",
+            "fetchedAt": "2026-08-29T11:09:25.999Z",
             "sourceMethod": "web",
             "verificationStatus": "confirmed"
           }
         ],
         "images": [],
-        "generatedAt": "2026-08-29T10:58:20.907Z"
+        "generatedAt": "2026-08-29T11:09:23.269Z"
       },
       {
         "id": "draft-real-mem-cn-1mmpbki",
@@ -515,13 +515,13 @@
             "language": "zh",
             "originalLanguage": "zh",
             "translationStatus": "not-needed",
-            "fetchedAt": "2026-08-29T10:58:23.133Z",
+            "fetchedAt": "2026-08-29T11:09:25.999Z",
             "sourceMethod": "web",
             "verificationStatus": "confirmed"
           }
         ],
         "images": [],
-        "generatedAt": "2026-08-29T10:58:20.907Z"
+        "generatedAt": "2026-08-29T11:09:23.269Z"
       },
       {
         "id": "draft-real-cnbc-world-rss-1tz9ya6",
@@ -1056,7 +1056,7 @@
     "estimatedReadMinutes": 31,
     "pageCount": 3,
     "topCardId": "draft-real-npr-world-rss-xtqg8j",
-    "generatedAt": "2026-08-29T10:58:20.907Z",
+    "generatedAt": "2026-08-29T11:09:23.269Z",
     "pushSlots": [
       "08:30",
       "12:30",
@@ -1097,17 +1097,17 @@
   "meta": {
     "profileName": "多职业公共版",
     "cohortLocationCount": 10,
-    "generatedAt": "2026-08-29T10:58:20.907Z",
+    "generatedAt": "2026-08-29T11:09:23.269Z",
     "edition": "evening",
     "sourceCoverage": {
       "ready": true,
       "sourceAvailabilityReady": true,
       "currentCoverageReady": true,
-      "generatedAt": "2026-08-29T11:00:49.798Z",
+      "generatedAt": "2026-08-29T11:11:52.480Z",
       "totalSources": 37,
-      "successfulSources": 34,
-      "sourcesWithItems": 25,
-      "totalItems": 368,
+      "successfulSources": 35,
+      "sourcesWithItems": 26,
+      "totalItems": 376,
       "lanes": [
         {
           "id": "global",
@@ -1191,7 +1191,7 @@
             "mem-cn",
             "gdacs-feed"
           ],
-          "currentItemCount": 9,
+          "currentItemCount": 11,
           "note": "国内应急来源与全球灾害来源至少各保持可用的交叉覆盖。"
         },
         {
@@ -1209,10 +1209,10 @@
             "arxiv-cs-api",
             "cas-science-news",
             "moe-cn",
+            "chrm-mohrss",
             "stats-cn-data"
           ],
           "failedSourceIds": [
-            "chrm-mohrss",
             "mohurd-construction"
           ],
           "emptySourceIds": [
@@ -1318,15 +1318,15 @@
       "stats",
       "mofcom"
     ],
-    "fetchedRawItemCount": 368,
-    "rawItemCount": 18,
-    "rawCandidateCount": 18,
+    "fetchedRawItemCount": 376,
+    "rawItemCount": 20,
+    "rawCandidateCount": 20,
     "dedupedCandidateCount": 13,
     "recentCandidateCount": 13,
     "freshCandidateCount": 13,
     "translation": {
-      "requested": 10,
-      "translated": 10,
+      "requested": 12,
+      "translated": 12,
       "failed": 0,
       "skipped": 8,
       "provider": "openai-compatible",
@@ -1335,8 +1335,8 @@
     "selectedCandidateCount": 7,
     "publishableCardCount": 2,
     "personalizationPoolCardCount": 5,
-    "reviewableCardCount": 4,
-    "rejectedCardCount": 1,
+    "reviewableCardCount": 2,
+    "rejectedCardCount": 3,
     "skippedPublishableCardCount": 0,
     "stats": {
       "inputCardCount": 2,
@@ -1389,7 +1389,7 @@
         "method": "api",
         "endpointUrl": "https://export.arxiv.org/api/query",
         "attempts": 1,
-        "durationMs": 807,
+        "durationMs": 781,
         "fallbackUsed": false,
         "rawItemCount": 18,
         "datedItemCount": 18,
@@ -1406,7 +1406,7 @@
         "method": "web",
         "endpointUrl": "https://www.cas.cn/syky/",
         "attempts": 1,
-        "durationMs": 1475,
+        "durationMs": 1533,
         "fallbackUsed": false,
         "rawItemCount": 18,
         "datedItemCount": 18,
@@ -1423,7 +1423,7 @@
         "method": "web",
         "endpointUrl": "https://www.mohurd.gov.cn/xinwen/gzdt/index.html",
         "attempts": 3,
-        "durationMs": 136566,
+        "durationMs": 137608,
         "fallbackUsed": false,
         "rawItemCount": 0,
         "datedItemCount": 0,
@@ -1439,12 +1439,12 @@
         "method": "rss",
         "endpointUrl": "https://www.gdacs.org/xml/rss.xml",
         "attempts": 1,
-        "durationMs": 3377,
+        "durationMs": 4048,
         "fallbackUsed": false,
         "rawItemCount": 18,
         "datedItemCount": 18,
-        "inEditionItemCount": 3,
-        "newestPublishedAt": "2026-08-29T07:01:58.000Z",
+        "inEditionItemCount": 5,
+        "newestPublishedAt": "2026-08-29T11:02:41.000Z",
         "oldestPublishedAt": "2026-08-26T08:33:16.000Z",
         "verificationStatus": "confirmed"
       },
@@ -1456,7 +1456,7 @@
         "method": "web",
         "endpointUrl": "https://www.gov.cn/zhengce/zuixin/",
         "attempts": 1,
-        "durationMs": 1127,
+        "durationMs": 1275,
         "fallbackUsed": false,
         "rawItemCount": 18,
         "datedItemCount": 18,
@@ -1473,7 +1473,7 @@
         "method": "web",
         "endpointUrl": "https://www.mem.gov.cn/xw/yjglbgzdt/",
         "attempts": 1,
-        "durationMs": 559,
+        "durationMs": 1146,
         "fallbackUsed": false,
         "rawItemCount": 18,
         "datedItemCount": 18,
@@ -1490,7 +1490,7 @@
         "method": "web",
         "endpointUrl": "https://www.cac.gov.cn/index.htm",
         "attempts": 1,
-        "durationMs": 1582,
+        "durationMs": 2287,
         "fallbackUsed": false,
         "rawItemCount": 2,
         "datedItemCount": 2,
@@ -1507,7 +1507,7 @@
         "method": "web",
         "endpointUrl": "https://www.news.cn/world/index.html",
         "attempts": 1,
-        "durationMs": 1663,
+        "durationMs": 2505,
         "fallbackUsed": false,
         "rawItemCount": 18,
         "datedItemCount": 18,
@@ -1524,7 +1524,7 @@
         "method": "web",
         "endpointUrl": "https://www.news.cn/tech/index.html",
         "attempts": 1,
-        "durationMs": 146,
+        "durationMs": 896,
         "fallbackUsed": false,
         "rawItemCount": 13,
         "datedItemCount": 13,
@@ -1541,7 +1541,7 @@
         "method": "rss",
         "endpointUrl": "https://www.gov.uk/search/news-and-communications.atom?order=updated-newest",
         "attempts": 1,
-        "durationMs": 449,
+        "durationMs": 803,
         "fallbackUsed": false,
         "rawItemCount": 18,
         "datedItemCount": 18,
@@ -1558,7 +1558,7 @@
         "method": "rss",
         "endpointUrl": "https://feeds.npr.org/1004/rss.xml",
         "attempts": 1,
-        "durationMs": 457,
+        "durationMs": 96,
         "fallbackUsed": false,
         "rawItemCount": 10,
         "datedItemCount": 10,
@@ -1575,7 +1575,7 @@
         "method": "rss",
         "endpointUrl": "https://feeds.skynews.com/feeds/rss/world.xml",
         "attempts": 1,
-        "durationMs": 242,
+        "durationMs": 225,
         "fallbackUsed": false,
         "rawItemCount": 10,
         "datedItemCount": 10,
@@ -1592,7 +1592,7 @@
         "method": "rss",
         "endpointUrl": "https://www.france24.com/en/middle-east/rss",
         "attempts": 1,
-        "durationMs": 192,
+        "durationMs": 138,
         "fallbackUsed": false,
         "rawItemCount": 18,
         "datedItemCount": 18,
@@ -1609,7 +1609,7 @@
         "method": "rss",
         "endpointUrl": "https://www.france24.com/en/asia-pacific/rss",
         "attempts": 1,
-        "durationMs": 76,
+        "durationMs": 114,
         "fallbackUsed": false,
         "rawItemCount": 18,
         "datedItemCount": 18,
@@ -1626,7 +1626,7 @@
         "method": "rss",
         "endpointUrl": "https://www.cnbc.com/id/100727362/device/rss/rss.html",
         "attempts": 1,
-        "durationMs": 341,
+        "durationMs": 89,
         "fallbackUsed": false,
         "rawItemCount": 18,
         "datedItemCount": 18,
@@ -1643,7 +1643,7 @@
         "method": "rss",
         "endpointUrl": "https://news.un.org/feed/subscribe/en/news/all/rss.xml",
         "attempts": 1,
-        "durationMs": 1112,
+        "durationMs": 147,
         "fallbackUsed": false,
         "rawItemCount": 18,
         "datedItemCount": 18,
@@ -1660,7 +1660,7 @@
         "method": "web",
         "endpointUrl": "https://www.mfa.gov.cn/wjdt_674879/fyrbt_674889/",
         "attempts": 1,
-        "durationMs": 2078,
+        "durationMs": 1044,
         "fallbackUsed": false,
         "rawItemCount": 18,
         "datedItemCount": 18,
@@ -1677,7 +1677,7 @@
         "method": "web",
         "endpointUrl": "https://www.mofcom.gov.cn/xwfb/",
         "attempts": 3,
-        "durationMs": 5513,
+        "durationMs": 4268,
         "fallbackUsed": false,
         "rawItemCount": 0,
         "datedItemCount": 0,
@@ -1693,7 +1693,7 @@
         "method": "rss",
         "endpointUrl": "https://openai.com/news/rss.xml",
         "attempts": 1,
-        "durationMs": 1831,
+        "durationMs": 1641,
         "fallbackUsed": false,
         "rawItemCount": 18,
         "datedItemCount": 18,
@@ -1710,7 +1710,7 @@
         "method": "rss",
         "endpointUrl": "https://deepmind.google/blog/rss.xml",
         "attempts": 1,
-        "durationMs": 944,
+        "durationMs": 963,
         "fallbackUsed": false,
         "rawItemCount": 18,
         "datedItemCount": 18,
@@ -1727,7 +1727,7 @@
         "method": "rss",
         "endpointUrl": "https://techcrunch.com/category/artificial-intelligence/feed/",
         "attempts": 1,
-        "durationMs": 177,
+        "durationMs": 93,
         "fallbackUsed": false,
         "rawItemCount": 18,
         "datedItemCount": 18,
@@ -1744,7 +1744,7 @@
         "method": "rss",
         "endpointUrl": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
         "attempts": 1,
-        "durationMs": 184,
+        "durationMs": 64,
         "fallbackUsed": false,
         "rawItemCount": 10,
         "datedItemCount": 10,
@@ -1761,7 +1761,7 @@
         "method": "web",
         "endpointUrl": "https://www.moe.gov.cn/",
         "attempts": 1,
-        "durationMs": 2112,
+        "durationMs": 2235,
         "fallbackUsed": false,
         "rawItemCount": 12,
         "datedItemCount": 12,
@@ -1778,7 +1778,7 @@
         "method": "web",
         "endpointUrl": "https://www.mohrss.gov.cn/",
         "attempts": 1,
-        "durationMs": 2058,
+        "durationMs": 2320,
         "fallbackUsed": false,
         "rawItemCount": 0,
         "datedItemCount": 0,
@@ -1788,18 +1788,19 @@
       {
         "sourceId": "chrm-mohrss",
         "sourceName": "中国人力资源市场网",
-        "ok": false,
-        "status": "failed",
+        "ok": true,
+        "status": "healthy",
         "method": "web",
         "endpointUrl": "https://chrm.mohrss.gov.cn/announcement/",
-        "attempts": 3,
-        "durationMs": 11341,
+        "attempts": 1,
+        "durationMs": 2339,
         "fallbackUsed": false,
-        "rawItemCount": 0,
-        "datedItemCount": 0,
+        "rawItemCount": 8,
+        "datedItemCount": 8,
         "inEditionItemCount": 0,
-        "verificationStatus": "confirmed",
-        "error": "TypeError: fetch failed; legacy TLS fallback: AggregateError: request failed without a message"
+        "newestPublishedAt": "2026-08-27T16:00:00.000Z",
+        "oldestPublishedAt": "2026-07-16T16:00:00.000Z",
+        "verificationStatus": "confirmed"
       },
       {
         "sourceId": "stats-cn-data",
@@ -1809,7 +1810,7 @@
         "method": "web",
         "endpointUrl": "https://www.stats.gov.cn/sj/zxfb/",
         "attempts": 1,
-        "durationMs": 4477,
+        "durationMs": 3347,
         "fallbackUsed": false,
         "rawItemCount": 13,
         "datedItemCount": 13,
@@ -1826,7 +1827,7 @@
         "method": "web",
         "endpointUrl": "https://scyxs.mofcom.gov.cn/",
         "attempts": 1,
-        "durationMs": 3805,
+        "durationMs": 6016,
         "fallbackUsed": false,
         "rawItemCount": 18,
         "datedItemCount": 18,
@@ -1843,7 +1844,7 @@
         "method": "web",
         "endpointUrl": "city-source:中国/直辖市/上海",
         "attempts": 1,
-        "durationMs": 7339,
+        "durationMs": 8459,
         "fallbackUsed": false,
         "rawItemCount": 3,
         "datedItemCount": 3,
@@ -1861,7 +1862,7 @@
         "method": "web",
         "endpointUrl": "city-source:中国/浙江/杭州",
         "attempts": 1,
-        "durationMs": 10759,
+        "durationMs": 10631,
         "fallbackUsed": false,
         "rawItemCount": 0,
         "datedItemCount": 0,
@@ -1877,7 +1878,7 @@
         "method": "web",
         "endpointUrl": "city-source:中国/吉林/长春",
         "attempts": 1,
-        "durationMs": 3841,
+        "durationMs": 4278,
         "fallbackUsed": false,
         "rawItemCount": 0,
         "datedItemCount": 0,
@@ -1893,7 +1894,7 @@
         "method": "web",
         "endpointUrl": "city-source:中国/广东/深圳",
         "attempts": 1,
-        "durationMs": 4773,
+        "durationMs": 5529,
         "fallbackUsed": false,
         "rawItemCount": 0,
         "datedItemCount": 0,
@@ -1909,7 +1910,7 @@
         "method": "web",
         "endpointUrl": "city-source:英国/英国/伦敦",
         "attempts": 1,
-        "durationMs": 3846,
+        "durationMs": 4252,
         "fallbackUsed": false,
         "rawItemCount": 0,
         "datedItemCount": 0,
@@ -1925,7 +1926,7 @@
         "method": "web",
         "endpointUrl": "city-source:中国/安徽/宿州",
         "attempts": 1,
-        "durationMs": 3881,
+        "durationMs": 4262,
         "fallbackUsed": false,
         "rawItemCount": 0,
         "datedItemCount": 0,
@@ -1941,7 +1942,7 @@
         "method": "web",
         "endpointUrl": "city-source:中国/广东/汕尾",
         "attempts": 1,
-        "durationMs": 3842,
+        "durationMs": 4253,
         "fallbackUsed": false,
         "rawItemCount": 0,
         "datedItemCount": 0,
@@ -1957,7 +1958,7 @@
         "method": "web",
         "endpointUrl": "city-source:中国/河南/三门峡",
         "attempts": 1,
-        "durationMs": 3844,
+        "durationMs": 4277,
         "fallbackUsed": false,
         "rawItemCount": 0,
         "datedItemCount": 0,
@@ -1973,7 +1974,7 @@
         "method": "web",
         "endpointUrl": "city-source:中国/广东/广州",
         "attempts": 1,
-        "durationMs": 7498,
+        "durationMs": 8521,
         "fallbackUsed": false,
         "rawItemCount": 7,
         "datedItemCount": 7,
@@ -1991,7 +1992,7 @@
         "method": "web",
         "endpointUrl": "city-source:中国/广东/东莞",
         "attempts": 1,
-        "durationMs": 3801,
+        "durationMs": 4256,
         "fallbackUsed": false,
         "rawItemCount": 0,
         "datedItemCount": 0,
@@ -2006,7 +2007,7 @@
         "sourceName": "住房和城乡建设部",
         "method": "web",
         "attempts": 3,
-        "durationMs": 136566,
+        "durationMs": 137608,
         "fallbackUsed": false,
         "error": "https://www.mohurd.gov.cn/api-gateway/jpaas-publish-server/front/page/build/unit?parseType=bulidstatic&webId=86ca573ec4df405db627fdc2493677f3&tplSetId=fc259c381af3496d85e61997ea7771cb&pageType=column&tagId=%E6%A0%8F%E7%9B%AE-list&editType=null&pageId=919e942639b5477d96e4c97471c61d9f: TypeError: fetch failed; legacy TLS fallback: Error: Request timed out | https://www.mohurd.gov.cn/xinwen/gzdt/index.html: TypeError: fetch failed; legacy TLS fallback: Error: Request timed out | https://www.mohurd.gov.cn/: TypeError: fetch failed; legacy TLS fallback: Error: Request timed out"
       },
@@ -2015,37 +2016,12 @@
         "sourceName": "商务部新闻发布",
         "method": "web",
         "attempts": 3,
-        "durationMs": 5513,
+        "durationMs": 4268,
         "fallbackUsed": false,
         "error": "HTTP 503: <!DOCTYPE html> <html> <head> <meta charset=\"utf-8\"> <meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\"> <meta name=\"viewport\" content=\"width=device-width, in..."
-      },
-      {
-        "sourceId": "chrm-mohrss",
-        "sourceName": "中国人力资源市场网",
-        "method": "web",
-        "attempts": 3,
-        "durationMs": 11341,
-        "fallbackUsed": false,
-        "error": "TypeError: fetch failed; legacy TLS fallback: AggregateError: request failed without a message"
       }
     ],
     "cardReviewFindings": [
-      {
-        "cardId": "draft-real-france24-asia-pacific-rss-o3r05d",
-        "cardTitle": "尼泊尔-西藏洪水实时报道：死亡人数突破600人，近3000人失踪",
-        "issues": [
-          "没有抓到完整正文，目前使用候选摘要回退。",
-          "原文信息量有限，需要确认是否足以支持卡片结论。"
-        ]
-      },
-      {
-        "cardId": "draft-cluster-real-france24-asia-pacific-rss-9bdy9p",
-        "cardTitle": "尼泊尔军队使用直升机救援洪水幸存者",
-        "issues": [
-          "没有抓到完整正文，目前使用候选摘要回退。",
-          "原文信息量有限，需要确认是否足以支持卡片结论。"
-        ]
-      },
       {
         "cardId": "draft-cluster-real-mem-cn-bigfjc",
         "cardTitle": "应急管理部紧急调派隧道专家赴尼泊尔实施国际救援行动",
@@ -2064,26 +2040,6 @@
     ]
   },
   "reviewableCards": [
-    {
-      "id": "draft-real-france24-asia-pacific-rss-o3r05d",
-      "title": "尼泊尔-西藏洪水实时报道：死亡人数突破600人，近3000人失踪",
-      "finalLabel": "待复核",
-      "finalScore": 80,
-      "issues": [
-        "没有抓到完整正文，目前使用候选摘要回退。",
-        "原文信息量有限，需要确认是否足以支持卡片结论。"
-      ]
-    },
-    {
-      "id": "draft-cluster-real-france24-asia-pacific-rss-9bdy9p",
-      "title": "尼泊尔军队使用直升机救援洪水幸存者",
-      "finalLabel": "待复核",
-      "finalScore": 80,
-      "issues": [
-        "没有抓到完整正文，目前使用候选摘要回退。",
-        "原文信息量有限，需要确认是否足以支持卡片结论。"
-      ]
-    },
     {
       "id": "draft-cluster-real-mem-cn-bigfjc",
       "title": "应急管理部紧急调派隧道专家赴尼泊尔实施国际救援行动",
@@ -2105,6 +2061,26 @@
     }
   ],
   "rejectedCards": [
+    {
+      "id": "draft-real-france24-asia-pacific-rss-o3r05d",
+      "title": "尼泊尔-西藏洪水实时报道：死亡人数突破600人，近3000人失踪",
+      "finalLabel": "暂不发布",
+      "finalScore": 60,
+      "issues": [
+        "没有抓到完整正文，目前使用候选摘要回退。",
+        "原文可用正文过短，可能无法生成可靠卡片。"
+      ]
+    },
+    {
+      "id": "draft-cluster-real-france24-asia-pacific-rss-9bdy9p",
+      "title": "尼泊尔军队使用直升机救援洪水幸存者",
+      "finalLabel": "暂不发布",
+      "finalScore": 60,
+      "issues": [
+        "没有抓到完整正文，目前使用候选摘要回退。",
+        "原文可用正文过短，可能无法生成可靠卡片。"
+      ]
+    },
     {
       "id": "draft-real-city-news-rss:%E4%B8%AD%E5%9B%BD-%E4%B8%8A%E6%B5%B7-c9656l",
       "title": "上海市企业服务云",
@@ -12194,7 +12170,7 @@
             "language": "zh",
             "originalLanguage": "zh",
             "translationStatus": "not-needed",
-            "fetchedAt": "2026-08-29T10:58:23.133Z",
+            "fetchedAt": "2026-08-29T11:09:25.999Z",
             "sourceMethod": "web",
             "verificationStatus": "confirmed"
           },
@@ -12206,7 +12182,7 @@
             "language": "zh",
             "originalLanguage": "zh",
             "translationStatus": "not-needed",
-            "fetchedAt": "2026-08-29T10:58:23.133Z",
+            "fetchedAt": "2026-08-29T11:09:25.999Z",
             "sourceMethod": "web",
             "verificationStatus": "confirmed"
           },
@@ -12218,7 +12194,7 @@
             "language": "zh",
             "originalLanguage": "zh",
             "translationStatus": "not-needed",
-            "fetchedAt": "2026-08-29T10:58:23.133Z",
+            "fetchedAt": "2026-08-29T11:09:25.999Z",
             "sourceMethod": "web",
             "verificationStatus": "confirmed"
           }
@@ -12271,7 +12247,7 @@
             "language": "zh",
             "originalLanguage": "zh",
             "translationStatus": "not-needed",
-            "fetchedAt": "2026-08-29T10:58:23.133Z",
+            "fetchedAt": "2026-08-29T11:09:25.999Z",
             "sourceMethod": "web",
             "verificationStatus": "confirmed"
           },
@@ -12283,7 +12259,7 @@
             "language": "zh",
             "originalLanguage": "zh",
             "translationStatus": "not-needed",
-            "fetchedAt": "2026-08-29T10:58:23.133Z",
+            "fetchedAt": "2026-08-29T11:09:25.999Z",
             "sourceMethod": "web",
             "verificationStatus": "confirmed"
           },
@@ -12295,13 +12271,13 @@
             "language": "zh",
             "originalLanguage": "zh",
             "translationStatus": "not-needed",
-            "fetchedAt": "2026-08-29T10:58:23.133Z",
+            "fetchedAt": "2026-08-29T11:09:25.999Z",
             "sourceMethod": "web",
             "verificationStatus": "confirmed"
           }
         ],
         "images": [],
-        "generatedAt": "2026-08-29T10:58:20.907Z"
+        "generatedAt": "2026-08-29T11:09:23.269Z"
       }
     },
     {
@@ -12336,7 +12312,7 @@
             "language": "zh",
             "originalLanguage": "zh",
             "translationStatus": "not-needed",
-            "fetchedAt": "2026-08-29T10:58:23.133Z",
+            "fetchedAt": "2026-08-29T11:09:25.999Z",
             "sourceMethod": "web",
             "verificationStatus": "confirmed"
           }
@@ -12389,13 +12365,13 @@
             "language": "zh",
             "originalLanguage": "zh",
             "translationStatus": "not-needed",
-            "fetchedAt": "2026-08-29T10:58:23.133Z",
+            "fetchedAt": "2026-08-29T11:09:25.999Z",
             "sourceMethod": "web",
             "verificationStatus": "confirmed"
           }
         ],
         "images": [],
-        "generatedAt": "2026-08-29T10:58:20.907Z"
+        "generatedAt": "2026-08-29T11:09:23.269Z"
       }
     },
     {
@@ -12498,7 +12474,7 @@
     {
       "candidate": {
         "id": "real-cnbc-world-rss-xo7oit",
-        "title": "Meta达成180亿美元和解，向TikTok和YouTube发出警示。谁将是下一个目标？",
+        "title": "Meta达成180亿美元和解协议，向TikTok和YouTube发出警示。谁将成为下一个目标？",
         "oneLine": "国际最新进展：这条英文来源需要完整整理为中文，并优先说明发生了什么变化、与中国的关系及后续风险。",
         "categories": [
           "world",
@@ -12524,7 +12500,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-29T10:58:25.379Z",
+            "fetchedAt": "2026-08-29T11:09:28.642Z",
             "sourceMethod": "rss",
             "verificationStatus": "pending"
           }
@@ -12532,7 +12508,7 @@
         "images": [],
         "body": {
           "background": "国际主流媒体 RSS 用于补充全球突发、政策、贸易、能源和科技事件，不能单独替代事实确认。",
-          "keyProgress": "一位商业教授告诉CNBC，Meta正试图确保其竞争对手面临相同的规则。此前，Meta呼吁各竞争对手保护儿童免受网络侵害。",
+          "keyProgress": "一位商业教授告诉CNBC，在Meta呼吁竞争对手保护儿童网络安全后，Meta正试图确保其竞争对手面临相同的监管规则。",
           "whyItMatters": "重大国际变化可能通过外交、贸易、关税、能源、航运、安全或市场预期影响中国用户。",
           "userRelevance": "是否推送取决于事件影响范围、严重程度，以及它是否会影响中国或形成全球共同认知。",
           "whatToWatch": "继续核对官方表态和第二个可靠来源，并关注局势变化、政策生效时间及对中国的传导路径。"
@@ -12545,8 +12521,8 @@
       },
       "card": {
         "id": "draft-real-cnbc-world-rss-xo7oit",
-        "title": "Meta达成180亿美元和解，向TikTok和YouTube发出警示。谁将是下一个目标？",
-        "oneLine": "政策变化：在加州，Meta 的标志性社交媒体诉讼案刚刚落幕，但公众注意力正转向更广泛的行业，TikTok、YouTube 和 Snap 成为下一个目标。",
+        "title": "Meta达成180亿美元和解协议，向TikTok和YouTube发出警示。谁将成为下一个目标？",
+        "oneLine": "政策变化：在加州，Meta 的标志性社交媒体诉讼案刚刚落幕，但舆论焦点正转向更广泛的行业，TikTok、YouTube 和 Snap 成为下一个被瞄准的目标。",
         "importance": "B",
         "credibility": "待确认",
         "tags": [
@@ -12559,11 +12535,11 @@
         ],
         "section": "industry",
         "body": {
-          "background": "和解协议包括最高达 180 亿美元的赔偿，其中部分款项与其他社交媒体巨头的有条件行动挂钩。Meta 表示，还将对其 18 岁以下用户的平台进行根本性改变，包括但不限于：每天使用时长限制为 2 小时，且只有家长才能解除该限制；这家 Instagram 和 Facebook 的母公司在一场由数十个美国州组成的联盟提起的诉讼的第二周达成和解。",
-          "keyProgress": "杜兰大学管理实践教授、“《风险炼金术士：大型科技公司如何将利润转化为权力》”一书的作者 Rob Lalka 告诉 CNBC：“没有公司愿意面对 Meta 在奥克兰所遭遇的局面。这些平台完全依赖于家长、用户和广告商的信任，而此次和解反映了一项关于声誉风险的商业决策，其他公司的董事会现在也必须做出同样的决定。今年，随着全球各国政府考虑执行青少年社交媒体禁令，社交媒体巨头们已经面临日益增加的压力。该联盟指控这家科技巨头向公众隐瞒了其平台对年轻用户造成的危害。",
-          "whyItMatters": "“Meta达成180亿美元和解，向TikTok和YouTube发出警示。谁将是下一个目标”如果继续发展，可能通过能源价格、航运、贸易、汇率或市场预期传导到国内。了解它的意义在于判断后续风险，而不只停留在事件本身。",
-          "userRelevance": "即使你不在事发地区，“Meta达成180亿美元和解，向TikTok和YouTube发出警示。谁将是下一个目标”也可能通过能源价格、国际航运、贸易成本和市场预期间接影响国内生活与工作判断。",
-          "whatToWatch": "接下来要看“Meta达成180亿美元和解，向TikTok和YouTube发出警示。谁将是下一个目标”是否出现新的官方信息、后续行动，以及它与中国出行、贸易或公共判断的关联是否扩大。"
+          "background": "这家拥有 Instagram 和 Facebook 的公司于庭审第二周达成和解，此前由数十个美国州组成的联盟提起诉讼，指控这家科技巨头误导公众，隐瞒其平台对年轻用户造成的危害。和解协议包括高达 180 亿美元的支付金额，其中部分款项与其他社交媒体巨头的有条件行动挂钩。Meta 表示，还将对其 18 岁以下用户的平台进行根本性改变，包括但不限于：每日使用时长限制为 2 小时（仅家长可解除）、禁用极端美颜和整容滤镜、加强年龄验证措施以及推出夜间模式。",
+          "keyProgress": "杜兰大学管理实践教授、“《风险炼金术士：大型科技公司如何将利润转化为权力》”一书的作者 Rob Lalka 告诉 CNBC：“没有公司愿意面临 Meta 在奥克兰所遭遇的局面。这些平台完全依赖于家长、用户和广告商的信任，此次和解反映了一项关于声誉风险的商业决策，其他公司的董事会现在也必须做出同样的决定。今年，随着全球各国政府考虑执行青少年社交媒体禁令，社交媒体巨头们已经面临日益增加的压力。Meta 称，将在 10 年内向各州支付和解金额的 70%，即约 127 亿美元。",
+          "whyItMatters": "“Meta达成180亿美元和解协议，向TikTok和YouTube发出警示。谁将成为下一个目标”如果继续发展，可能通过能源价格、航运、贸易、汇率或市场预期传导到国内。了解它的意义在于判断后续风险，而不只停留在事件本身。",
+          "userRelevance": "即使你不在事发地区，“Meta达成180亿美元和解协议，向TikTok和YouTube发出警示。谁将成为下一个目标”也可能通过能源价格、国际航运、贸易成本和市场预期间接影响国内生活与工作判断。",
+          "whatToWatch": "接下来要看“Meta达成180亿美元和解协议，向TikTok和YouTube发出警示。谁将成为下一个目标”是否出现新的官方信息、后续行动，以及它与中国出行、贸易或公共判断的关联是否扩大。"
         },
         "sourceLinks": [
           {
@@ -12574,7 +12550,7 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-29T10:58:25.379Z",
+            "fetchedAt": "2026-08-29T11:09:28.642Z",
             "sourceMethod": "rss",
             "verificationStatus": "pending"
           }
@@ -12589,7 +12565,7 @@
             "sourceUrl": "https://www.cnbc.com/2026/08/29/meta-settlement-tiktok-youtube-snap-teen-safety.html"
           }
         ],
-        "generatedAt": "2026-08-29T10:58:20.907Z"
+        "generatedAt": "2026-08-29T11:09:23.269Z"
       }
     },
     {
@@ -12625,7 +12601,7 @@
             "language": "zh",
             "originalLanguage": "zh",
             "translationStatus": "not-needed",
-            "fetchedAt": "2026-08-29T11:00:45.121Z",
+            "fetchedAt": "2026-08-29T11:11:49.549Z",
             "sourceMethod": "web",
             "verificationStatus": "pending"
           }
@@ -12677,7 +12653,7 @@
             "language": "zh",
             "originalLanguage": "zh",
             "translationStatus": "not-needed",
-            "fetchedAt": "2026-08-29T11:00:45.121Z",
+            "fetchedAt": "2026-08-29T11:11:49.549Z",
             "sourceMethod": "web",
             "verificationStatus": "pending"
           }
@@ -12704,7 +12680,152 @@
             "sourceUrl": "https://www.gz.gov.cn/zwfw/zxfw/zffw/content/post_10983586.html"
           }
         ],
-        "generatedAt": "2026-08-29T10:58:20.907Z"
+        "generatedAt": "2026-08-29T11:09:23.269Z"
+      }
+    },
+    {
+      "candidate": {
+        "id": "cluster-real-gdacs-feed-teid9b",
+        "title": "澳大利亚发布绿色森林火灾通知",
+        "oneLine": "这是一条全球灾害 / 公共风险候选，是否推送取决于事件严重程度、影响范围和用户所在地相关性。",
+        "categories": [
+          "disaster",
+          "publicSafety",
+          "world"
+        ],
+        "industries": [
+          "generalPublic",
+          "localLife"
+        ],
+        "regions": [
+          "全球"
+        ],
+        "locations": [],
+        "sourceIds": [
+          "gdacs-feed"
+        ],
+        "publishedAt": "2026-08-29T11:01:06.000Z",
+        "sourceLinks": [
+          {
+            "title": "GDACS 灾害 Feed",
+            "url": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1031311",
+            "sourceId": "gdacs-feed",
+            "publishedAt": "2026-08-29T11:01:06.000Z",
+            "language": "zh",
+            "originalLanguage": "en",
+            "translationStatus": "translated",
+            "fetchedAt": "2026-08-29T11:09:27.369Z",
+            "sourceMethod": "rss",
+            "verificationStatus": "confirmed"
+          },
+          {
+            "title": "GDACS 灾害 Feed",
+            "url": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1031312",
+            "sourceId": "gdacs-feed",
+            "publishedAt": "2026-08-29T11:02:41.000Z",
+            "language": "zh",
+            "originalLanguage": "en",
+            "translationStatus": "translated",
+            "fetchedAt": "2026-08-29T11:09:27.369Z",
+            "sourceMethod": "rss",
+            "verificationStatus": "confirmed"
+          },
+          {
+            "title": "GDACS 灾害 Feed",
+            "url": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1031277",
+            "sourceId": "gdacs-feed",
+            "publishedAt": "2026-08-29T11:01:32.000Z",
+            "language": "zh",
+            "originalLanguage": "en",
+            "translationStatus": "translated",
+            "fetchedAt": "2026-08-29T11:09:27.369Z",
+            "sourceMethod": "rss",
+            "verificationStatus": "confirmed"
+          }
+        ],
+        "images": [],
+        "body": {
+          "background": "GDACS 提供接近实时的自然灾害提醒，适合作为公共风险信息的候选来源。",
+          "keyProgress": "2026年8月27日，澳大利亚发生森林火灾，持续至8月29日。",
+          "whyItMatters": "灾害信息主要服务于风险提醒。绿色级别事件通常不应制造焦虑，只有影响范围或用户相关性足够高时才进入日报。",
+          "userRelevance": "当前还没有命中用户城市，需要继续结合地区和严重程度判断。",
+          "whatToWatch": "后续应结合官方预警、当地影响和事件等级变化再决定是否推送。"
+        },
+        "impactScore": 58,
+        "severityScore": 52,
+        "freshnessScore": 95,
+        "trendScore": 24,
+        "isExample": false
+      },
+      "card": {
+        "id": "draft-cluster-real-gdacs-feed-teid9b",
+        "title": "澳大利亚发布绿色森林火灾通知",
+        "oneLine": "风险提醒：森林火灾的人道主义影响程度取决于过火面积、受影响人口及其脆弱性。",
+        "importance": "B",
+        "credibility": "官方来源",
+        "tags": [
+          "B",
+          "disaster",
+          "publicSafety",
+          "world"
+        ],
+        "industries": [
+          "generalPublic",
+          "localLife"
+        ],
+        "section": "industry",
+        "body": {
+          "background": "（*火灾热异常的最后探测时间）查看更多新闻 美国地质调查局（USGS）为“全球地震快速评估与响应”（PAGER）产品估算每次地震的伤亡人数。针对此次事件，全球灾害预警与协调系统（GDACS）提供了以下来源的信息链接：欧盟委员会联合研究中心（EC-JRC）（28）、世界气象组织（WMO）（1）、综合风险指数（INFORM）（2）、联合研究中心（JRC）（1）、（1）。免责声明 – 版权 尽管我们尽力确保准确性，但本信息仅为指示性内容，在未参考其他信息来源的情况下，不应作为任何决策的依据。",
+          "keyProgress": "欧盟委员会联合研究中心对因使用本网站所呈现信息而导致的任何损害或损失不承担责任。地图上采用的名称和材料的表述不意味着欧盟当局对任何国家、领土、地区或其当局的法律地位，或对其边界或疆界的划定表达任何意见。",
+          "whyItMatters": "“澳大利亚发布绿色森林火灾通知”的直接价值是帮助你判断是否需要调整出行、居住或工作安排。影响地区、持续时间、预警等级和官方避险建议比事件热度更重要。",
+          "userRelevance": "对于“澳大利亚发布绿色森林火灾通知”，如果你近期计划前往事发地区或与当地有工作、家人联系，需要留意后续预警；没有直接联系时，可把它作为区域风险背景了解。",
+          "whatToWatch": "接下来要看“澳大利亚发布绿色森林火灾通知”的影响范围是否扩大、预警等级是否变化，以及是否出现与你所在城市相关的提醒。"
+        },
+        "sourceLinks": [
+          {
+            "title": "GDACS 灾害 Feed",
+            "url": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1031311",
+            "sourceId": "gdacs-feed",
+            "publishedAt": "2026-08-29T11:01:06.000Z",
+            "language": "zh",
+            "originalLanguage": "en",
+            "translationStatus": "translated",
+            "fetchedAt": "2026-08-29T11:09:27.369Z",
+            "sourceMethod": "rss",
+            "verificationStatus": "confirmed"
+          },
+          {
+            "title": "GDACS 灾害 Feed",
+            "url": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1031312",
+            "sourceId": "gdacs-feed",
+            "publishedAt": "2026-08-29T11:02:41.000Z",
+            "language": "zh",
+            "originalLanguage": "en",
+            "translationStatus": "translated",
+            "fetchedAt": "2026-08-29T11:09:27.369Z",
+            "sourceMethod": "rss",
+            "verificationStatus": "confirmed"
+          },
+          {
+            "title": "GDACS 灾害 Feed",
+            "url": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1031277",
+            "sourceId": "gdacs-feed",
+            "publishedAt": "2026-08-29T11:01:32.000Z",
+            "language": "zh",
+            "originalLanguage": "en",
+            "translationStatus": "translated",
+            "fetchedAt": "2026-08-29T11:09:27.369Z",
+            "sourceMethod": "rss",
+            "verificationStatus": "confirmed"
+          }
+        ],
+        "images": [
+          {
+            "url": "https://www.gdacs.org/images/un_eu.png",
+            "sourceUrl": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1031311"
+          }
+        ],
+        "generatedAt": "2026-08-29T11:09:23.269Z"
       }
     }
   ]

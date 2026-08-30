@@ -1,0 +1,495 @@
+{
+  "schemaVersion": 2,
+  "publishedAt": "2026-08-30T17:01:49.080Z",
+  "issue": {
+    "id": "daily-public-2026-08-31",
+    "date": "2026-08-31",
+    "userId": "public",
+    "cards": [
+      {
+        "id": "draft-real-cnbc-world-rss-7ez2a1",
+        "title": "美国-加拿大贸易战中新关税壁垒对关键金属经济的影响",
+        "oneLine": "政策变化：随着美国与加拿大因特朗普总统针对该国第二大贸易伙伴发动的新贸易战而面临数百亿美元的对等关税冲击，企业、经济学家和投资者再次投身于预测企业资产负债表和股价波动程度的博弈之中。",
+        "importance": "S",
+        "credibility": "待确认",
+        "tags": [
+          "S",
+          "mustKnow",
+          "industry",
+          "world",
+          "policy",
+          "finance"
+        ],
+        "industries": [
+          "generalPublic",
+          "financeInvestment",
+          "operationsGrowth",
+          "ecommerceRetail"
+        ],
+        "section": "front",
+        "body": {
+          "background": "这些反制关税税率在15%至50%之间，针对大量进入加拿大的美国进口商品，包括乳制品、海鲜、家电、木材及纸制品和服装。以钢铁和材料股为例，包括纽柯（Nucor）、钢铁动态（Steel Dynamics）、克利夫兰-克利夫斯（Cleveland-Cliffs）和世纪铝业（Century Aluminum）在内的股票在上周一大幅上涨，此前由于市场预期新的美加协议将降低钢铝关税，这些股票在前一周曾下跌。在贸易战中哪些企业受益、哪些受损，取决于日益复杂的供应链。",
+          "keyProgress": "在上周一新贸易战主导头条新闻时，市场出现了一些实时赢家。截至8月28日的晨星数据显示，年初至今，两只ETF均跑赢标普500指数，其中SLX上涨超过28%，XLB上涨超过18%。美国政府宣布对多种加拿大商品征收50%的关税，加拿大随即宣布将于9月8日生效价值200亿美元的报复性关税，涵盖700多种美国商品，旨在与特朗普对加拿大葡萄酒、水泥、冰球杆等进口商品加征的关税规模相匹配。仅周一当天，VanEck钢铁ETF（SLX）就上涨1.6%，而State Street材料精选行业SPDR基金（XLB）盘中创下历史新高，超越了今年2月创下的前高，金属股及其他生产商集体反弹。",
+          "whyItMatters": "“美国-加拿大贸易战中新关税壁垒对关键金属经济的影响”如果继续发展，可能通过能源价格、航运、贸易、汇率或市场预期传导到国内。了解它的意义在于判断后续风险，而不只停留在事件本身。",
+          "userRelevance": "即使你不在美国，“美国-加拿大贸易战中新关税壁垒对关键金属经济的影响”也可能通过能源价格、国际航运、贸易成本和市场预期间接影响国内生活与工作判断。",
+          "whatToWatch": "接下来要看“美国-加拿大贸易战中新关税壁垒对关键金属经济的影响”是否出现更细的城市、行业、平台或企业数据，以及这一变化能否连续保持。"
+        },
+        "sourceLinks": [
+          {
+            "title": "CNBC World News RSS",
+            "url": "https://www.cnbc.com/2026/08/30/us-canada-trade-war-tariffs-steel-aluminum-metals-economy.html",
+            "sourceId": "cnbc-world-rss",
+            "publishedAt": "2026-08-30T13:00:01.000Z",
+            "language": "zh",
+            "originalLanguage": "en",
+            "translationStatus": "translated",
+            "fetchedAt": "2026-08-30T17:01:53.352Z",
+            "sourceMethod": "rss",
+            "verificationStatus": "pending"
+          }
+        ],
+        "images": [
+          {
+            "url": "https://image.cnbcfm.com/api/v1/image/108355083-17878322621787832258-48015435430-1080pnbcnews.jpg?v=1787832261&amp;w=750&amp;h=422&amp;vtcrop=y",
+            "sourceUrl": "https://www.cnbc.com/2026/08/30/us-canada-trade-war-tariffs-steel-aluminum-metals-economy.html"
+          }
+        ],
+        "generatedAt": "2026-08-30T17:01:49.080Z"
+      },
+      {
+        "id": "draft-real-npr-world-rss-1eparts",
+        "title": "尼泊尔警告可能出现新一轮洪水，各地社区正努力应对灾害带来的破坏",
+        "oneLine": "风险提醒：尼泊尔达丁——周日，尼泊尔当局警告可能出现新一轮洪水，并敦促受洪灾影响地区的居民保持高度警惕，因为博特科西河水位上升。",
+        "importance": "A",
+        "credibility": "主流媒体",
+        "tags": [
+          "A",
+          "mustKnow",
+          "risk",
+          "world",
+          "disaster",
+          "publicSafety"
+        ],
+        "industries": [
+          "generalPublic",
+          "localLife"
+        ],
+        "section": "risk",
+        "body": {
+          "background": "在尼泊尔受灾最严重的地区之一达丁，一些居民开始返回被毁的家园，查看能否抢救出物品。在一座因洪水严重受损的关键水电站，工作人员周日开始检查设施以评估破坏情况。失踪者包括来自十多个国家的数百人，他们此前在该地区务工、登山旅游或朝圣一座神圣山峰。",
+          "keyProgress": "周日清晨，向民众手机发送了洪水预警通知。救援人员正努力清理连接加德满都与周三灾难性洪灾重灾区之一的主要公路，此次洪灾已造成尼泊尔和西藏至少760人死亡、3000多人失踪。居民们坐在墙壁被洪水冲毁的房屋内，用铲子将阳台或窗框上的泥浆状淤泥和碎石清除。另一些人则在泥泞的地面上搜寻可以捡拾并冲洗干净的物品。",
+          "whyItMatters": "“防汛与洪涝风险”的直接价值是帮助你判断是否需要调整出行、居住或工作安排。影响地区、持续时间、预警等级和官方避险建议比事件热度更重要。",
+          "userRelevance": "对于“防汛与洪涝风险”，如果你近期计划前往事发地区或与当地有工作、家人联系，需要留意后续预警；没有直接联系时，可把它作为区域风险背景了解。",
+          "whatToWatch": "接下来要看“防汛与洪涝风险”的影响范围是否扩大、预警等级是否变化，以及是否出现与你所在城市相关的提醒。"
+        },
+        "sourceLinks": [
+          {
+            "title": "NPR World RSS",
+            "url": "https://www.npr.org/2026/08/30/nx-s1-5949239/nepal-warns-fresh-flooding",
+            "sourceId": "npr-world-rss",
+            "publishedAt": "2026-08-30T09:52:41.000Z",
+            "language": "zh",
+            "originalLanguage": "en",
+            "translationStatus": "translated",
+            "fetchedAt": "2026-08-30T17:01:53.120Z",
+            "sourceMethod": "rss",
+            "verificationStatus": "confirmed"
+          }
+        ],
+        "images": [
+          {
+            "url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4627x2115+0+0/resize/1100/quality/50/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F5a%2Fb5%2F8c0f91b946acaecb425753937db8%2Fap26241725231648.jpg",
+            "sourceUrl": "https://www.npr.org/2026/08/30/nx-s1-5949239/nepal-warns-fresh-flooding"
+          },
+          {
+            "url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/791x791+111+0/resize/100/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F0e%2Fd6%2F77b0731c497091bfa3ed63af7c56%2Fimg-5038-1.jpg",
+            "sourceUrl": "https://www.npr.org/2026/08/30/nx-s1-5949239/nepal-warns-fresh-flooding"
+          },
+          {
+            "url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8640x5760+0+0/resize/1100/quality/50/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F5c%2F6a%2F73d7888c40ec996604085d8f27ea%2Fap26241717286833.jpg",
+            "sourceUrl": "https://www.npr.org/2026/08/30/nx-s1-5949239/nepal-warns-fresh-flooding"
+          }
+        ],
+        "generatedAt": "2026-08-30T17:01:49.080Z"
+      },
+      {
+        "id": "draft-cluster-real-cnbc-world-rss-1kyaz41",
+        "title": "特朗普宣布与委内瑞拉达成协议，确保超过650亿桶石油储量",
+        "oneLine": "政策变化：特朗普周五宣布，美国与委内瑞拉达成协议，获得超过650亿桶石油储量的多数控制权。",
+        "importance": "B",
+        "credibility": "多源确认",
+        "tags": [
+          "B",
+          "mustKnow",
+          "world",
+          "policy"
+        ],
+        "industries": [
+          "generalPublic"
+        ],
+        "section": "front",
+        "body": {
+          "background": "美国能源部本月早些时候发布的数据显示，战略石油储备中的石油储量已降至自20世纪80年代以来的最低水平。特朗普与委内瑞拉的这笔交易发生在美国今年1月对该南美国家发动袭击之后。西德克萨斯中质原油（WTI）本周下跌4%，结束了此前连续三周的涨势。",
+          "keyProgress": "特朗普的宣布正值消费者应对中期选举前飙升的能源价格之际，此次选举将决定其共和党是否能在华盛顿保持全面控制权。此举正值美伊战争扰乱全球原油贸易之际。特朗普在晚间社交媒体帖子中表示，这项协议——他称之为“世界历史上最大的石油交易”——“无需美国纳税人承担任何费用”。据特朗普称，该协议使美国的石油储备量翻了一番多。",
+          "whyItMatters": "“特朗普宣布与委内瑞拉达成协议，确保超过650亿桶石油储量”如果继续发展，可能通过能源价格、航运、贸易、汇率或市场预期传导到国内。了解它的意义在于判断后续风险，而不只停留在事件本身。",
+          "userRelevance": "即使你不在美国、委内瑞拉，“特朗普宣布与委内瑞拉达成协议，确保超过650亿桶石油储量”也可能通过能源价格、国际航运、贸易成本和市场预期间接影响国内生活与工作判断。",
+          "whatToWatch": "接下来要看“特朗普宣布与委内瑞拉达成协议，确保超过650亿桶石油储量”是否出现新的官方信息、后续行动，以及它与中国出行、贸易或公共判断的关联是否扩大。"
+        },
+        "sourceLinks": [
+          {
+            "title": "CNBC World News RSS",
+            "url": "https://www.cnbc.com/2026/08/28/trump-announces-deal-with-venezuela-to-secure-more-than-65-billion-barrels-of-oil-reserves.html",
+            "sourceId": "cnbc-world-rss",
+            "publishedAt": "2026-08-30T07:27:55.000Z",
+            "language": "zh",
+            "originalLanguage": "en",
+            "translationStatus": "translated",
+            "fetchedAt": "2026-08-30T17:01:53.352Z",
+            "sourceMethod": "rss",
+            "verificationStatus": "pending"
+          },
+          {
+            "title": "NPR World RSS",
+            "url": "https://www.npr.org/2026/08/30/nx-s1-5948708/energy-experts-have-doubts-about-trumps-newly-proposed-venezuelan-oil-deal",
+            "sourceId": "npr-world-rss",
+            "publishedAt": "2026-08-30T12:02:27.000Z",
+            "language": "zh",
+            "originalLanguage": "en",
+            "translationStatus": "translated",
+            "fetchedAt": "2026-08-30T17:01:53.120Z",
+            "sourceMethod": "rss",
+            "verificationStatus": "confirmed"
+          }
+        ],
+        "images": [],
+        "generatedAt": "2026-08-30T17:01:49.080Z"
+      },
+      {
+        "id": "draft-real-mem-cn-4qgn55",
+        "title": "应急管理部调派中国安能等工程救援力量持续攻坚道路抢通作业",
+        "oneLine": "最新进展：应急管理部调派中国安能等工程救援力量持续攻坚道路抢通作业。",
+        "importance": "B",
+        "credibility": "官方来源",
+        "tags": [
+          "B",
+          "risk",
+          "disaster",
+          "publicSafety",
+          "china"
+        ],
+        "industries": [
+          "generalPublic",
+          "localLife"
+        ],
+        "section": "risk",
+        "body": {
+          "background": "应急管理部调派中国安能等工程救援力量 8 月 30 日，应急管理部调派中国安能工程力量持续开展道路抢通作业，投入 110 名救援人员、 28 台套包括挖掘机、装载机等装备，在 G216 国道损毁路段持续开展抢通作业，争分夺秒打通通往吉隆口岸核心区的关键通道。面对复杂工况，救援队伍采取翻渣接力、涉水作业方式开展填筑施工，换填大块石稳固路基，逐段向前推进。截止 8 月 30 日 12 时，中国安能累计进占 260 余米，翻挖掏料 28500 余方。",
+          "keyProgress": "加之河道水流湍急，落石、滑坡等次生灾害风险持续。现场作业区地处高山深切峡谷，两侧山体陡峭、施工面狭窄，大型机械难以多机同步展开；泥石流冲刷造成路基大面积损毁，弯道处路基掏空、路面垮塌，淤泥厚积，缺乏稳定施工平台；",
+          "whyItMatters": "“应急管理部调派中国安能等工程救援力量持续攻坚道路抢通作业”的直接价值是帮助你判断是否需要调整出行、居住或工作安排。影响地区、持续时间、预警等级和官方避险建议比事件热度更重要。",
+          "userRelevance": "对于“应急管理部调派中国安能等工程救援力量持续攻坚道路抢通作业”，如果你居住、出行或有家人在中国，应及时查看当地预警和交通变化；不在相关地区时，通常无需改变日常安排。",
+          "whatToWatch": "接下来要看“应急管理部调派中国安能等工程救援力量持续攻坚道路抢通作业”的影响范围是否扩大、预警等级是否变化，以及是否出现与你所在城市相关的提醒。"
+        },
+        "sourceLinks": [
+          {
+            "title": "应急管理部",
+            "url": "https://www.mem.gov.cn/xw/yjglbgzdt/202608/t20260830_709490.shtml",
+            "sourceId": "mem-cn",
+            "publishedAt": "2026-08-30T00:00:00+08:00",
+            "language": "zh",
+            "originalLanguage": "zh",
+            "translationStatus": "not-needed",
+            "fetchedAt": "2026-08-30T17:01:50.998Z",
+            "sourceMethod": "web",
+            "verificationStatus": "confirmed"
+          }
+        ],
+        "images": [],
+        "generatedAt": "2026-08-30T17:01:49.080Z"
+      },
+      {
+        "id": "draft-real-techcrunch-ai-rss-29133r",
+        "title": "马斯克加速推进更多燃气轮机的计划面临污染问题",
+        "oneLine": "最新进展：马斯克加速推进更多燃气轮机的计划面临污染问题。",
+        "importance": "B",
+        "credibility": "待确认",
+        "tags": [
+          "B",
+          "industry",
+          "ai",
+          "technology",
+          "product"
+        ],
+        "industries": [
+          "aiProduct",
+          "aiTechnology",
+          "productManagement",
+          "technologyEngineering",
+          "educationResearch"
+        ],
+        "section": "ai",
+        "body": {
+          "background": "周六，马斯克证实了SpaceX在德克萨斯州巴斯托普秘密建设的铸造厂的具体用途——这似乎是对一篇即将发布、且已深入细节的报道的回应。特林内蒂在其通讯中撰写关于AI基础设施站点的详细评论，此前他曾报道SpaceX在3月至6月期间于其现有的Starlink工厂附近购买了约830英亩土地。马斯克在周六发布的X平台帖子中写道：“SpaceX和特斯拉正在以尽可能快的速度各自建设每年100GW的太阳能产能，但在未来几年内，仍需天然气来补充并为太阳能提供初始支持。",
+          "keyProgress": "当天早些时候，《信息》（The Information）发表了一篇报道，引用了明确提及“叶片和静叶铸造厂”的招聘启事，并援引尽职调查专家科里·特林内蒂的发现。” 这一切背后的原因可以追溯到当前AI行业面临的最大挑战之一。而燃气涡轮机制造商GE Vernova表示，由于主要受AI基础设施需求推动，其生产能力已基本售罄至2030年。正是这种短缺使得在数据中心旁边建设私人燃气发电厂而非等待电网扩容，成为包括亚马逊、谷歌、Meta、OpenAI和微软在内的所谓超大规模云服务商的普遍策略。",
+          "whyItMatters": "“马斯克加速推进更多燃气轮机的计划面临污染问题”能帮助你判断这项能力是否已经进入工程、产品或商业场景，并据此调整技术选型、产品规划、学习重点或职业判断。",
+          "userRelevance": "如果你从事AI 产品、AI 技术、产品管理、技术研发，可以重点判断“马斯克加速推进更多燃气轮机的计划面临污染问题”是否已经具备产品落地、技术选型或业务合作价值。",
+          "whatToWatch": "接下来要看“马斯克加速推进更多燃气轮机的计划面临污染问题”是否有更多可靠来源、量产或应用进展，以及它会不会从单点消息发展成持续趋势。"
+        },
+        "sourceLinks": [
+          {
+            "title": "TechCrunch AI RSS",
+            "url": "https://techcrunch.com/2026/08/30/musks-faster-path-to-more-gas-turbines-comes-with-pollution-problem/",
+            "sourceId": "techcrunch-ai-rss",
+            "publishedAt": "2026-08-30T16:54:25.000Z",
+            "language": "zh",
+            "originalLanguage": "en",
+            "translationStatus": "translated",
+            "fetchedAt": "2026-08-30T17:01:55.284Z",
+            "sourceMethod": "rss",
+            "verificationStatus": "pending"
+          }
+        ],
+        "images": [],
+        "generatedAt": "2026-08-30T17:01:49.080Z"
+      },
+      {
+        "id": "draft-real-techcrunch-ai-rss-ew07dv",
+        "title": "卡特彼勒将采矿自动化经验应用于人工智能部署",
+        "oneLine": "趋势信号：几乎所有试图部署人工智能的公司都会遇到同一个问题：很难将这项技术整合到日常运营中。",
+        "importance": "B",
+        "credibility": "待确认",
+        "tags": [
+          "B",
+          "industry",
+          "ai",
+          "technology",
+          "product"
+        ],
+        "industries": [
+          "aiProduct",
+          "aiTechnology",
+          "productManagement",
+          "technologyEngineering",
+          "educationResearch"
+        ],
+        "section": "ai",
+        "body": {
+          "background": "这家工业巨头现在更广泛地应用人工智能，包括用于技术人员及其自身员工的工具。工业巨头卡特彼勒（Caterpillar）在物理世界中应对这一问题的挑战已长达数十年，如今它正利用这些经验来部署人工智能。卡特彼勒进入自动驾驶领域的起步点是矿业，在那里劳动力短缺和危险环境使得自动化显得尤为有用。",
+          "keyProgress": "“我们现在正处于一个令人兴奋的时刻，可以将所有来自矿业的经验应用到更加动态的环境中，如工地、采石场和施工现场，”卡特彼勒首席技术官杰米·米纳特（Jaime Mineart）在本月早些时候于拉斯维加斯举行的 Ai4 会议间隙对 TechCrunch 表示。其中一个例子是“Cat AI Assistant”，它允许站在机器旁边的现场技术人员使用语音指令调出维修程序、排查潜在问题，并在开始维修前识别可能需要的零部件。“我们使用 AI 代理来现代化遗留代码，生成和测试新软件，并更早地发现缺陷，”米纳特说。目前，该公司销售自动矿卡、钻机、地下装载机、推土机、遥控施工设备等产品，并提供软件指挥中心、车队管理以及远程地形智能等作为其自动驾驶工具包的一部分。",
+          "whyItMatters": "“卡特彼勒将采矿自动化经验应用于人工智能部署”能帮助你判断这项能力是否已经进入工程、产品或商业场景，并据此调整技术选型、产品规划、学习重点或职业判断。",
+          "userRelevance": "如果你从事AI 产品、AI 技术、产品管理、技术研发，可以重点判断“卡特彼勒将采矿自动化经验应用于人工智能部署”是否已经具备产品落地、技术选型或业务合作价值。",
+          "whatToWatch": "接下来要看“卡特彼勒将采矿自动化经验应用于人工智能部署”是否有更多可靠来源、量产或应用进展，以及它会不会从单点消息发展成持续趋势。"
+        },
+        "sourceLinks": [
+          {
+            "title": "TechCrunch AI RSS",
+            "url": "https://techcrunch.com/2026/08/30/caterpillar-is-bringing-to-ai-deployment-what-it-learned-from-automating-mining/",
+            "sourceId": "techcrunch-ai-rss",
+            "publishedAt": "2026-08-30T15:00:00.000Z",
+            "language": "zh",
+            "originalLanguage": "en",
+            "translationStatus": "translated",
+            "fetchedAt": "2026-08-30T17:01:55.284Z",
+            "sourceMethod": "rss",
+            "verificationStatus": "pending"
+          }
+        ],
+        "images": [],
+        "generatedAt": "2026-08-30T17:01:49.080Z"
+      },
+      {
+        "id": "draft-real-theverge-ai-rss-ndr4lk",
+        "title": "德克萨斯州州长阿博特阻止为更多Flock摄像头提供资金",
+        "oneLine": "趋势信号：随着对Flock公司AI监控摄像头的反对声浪日益高涨，得克萨斯州州长格雷格·阿博特已冻结该州在摄像头上的支出。",
+        "importance": "B",
+        "credibility": "待确认",
+        "tags": [
+          "B",
+          "industry",
+          "ai",
+          "technology",
+          "product"
+        ],
+        "industries": [
+          "aiProduct",
+          "aiTechnology",
+          "productManagement",
+          "technologyEngineering",
+          "educationResearch"
+        ],
+        "section": "ai",
+        "body": {
+          "background": "此举紧随《得克萨斯论坛报》一项调查报道的发布，该报道揭露该州在Flock摄像头上花费超过3000万美元。该公司还因其数据共享行为、部分摄像头安装在游乐场附近、其员工可访问视频流、未受保护的视频流以及笨拙地试图规避透明度而受到审查。近几个月来，全美各地城市纷纷取消与Flock的合同，其中包括得克萨斯州的许多城市。",
+          "keyProgress": "这笔资金主要通过向保险政策附加1美元费用筹集，据称旨在帮助打击催化转化器盗窃案。随着隐私担忧加剧，Flock摄像头正引发来自政治光谱各方的强烈不满。已有多个案例显示，执法人员因滥用Flock系统而被停职或面临刑事指控，仅得克萨斯州就至少有六起此类事件。阿博特在州长竞选中的民主党对手吉娜·希诺霍萨批评他扩大了该州对这类摄像头的使用。",
+          "whyItMatters": "“德克萨斯州州长阿博特阻止为更多Flock摄像头提供资金”能帮助你判断这项能力是否已经进入工程、产品或商业场景，并据此调整技术选型、产品规划、学习重点或职业判断。",
+          "userRelevance": "如果你从事AI 产品、AI 技术、产品管理、技术研发，可以重点判断“德克萨斯州州长阿博特阻止为更多Flock摄像头提供资金”是否已经具备产品落地、技术选型或业务合作价值。",
+          "whatToWatch": "接下来要看“德克萨斯州州长阿博特阻止为更多Flock摄像头提供资金”是否有更多可靠来源、量产或应用进展，以及它会不会从单点消息发展成持续趋势。"
+        },
+        "sourceLinks": [
+          {
+            "title": "The Verge AI RSS",
+            "url": "https://www.theverge.com/ai-artificial-intelligence/986541/texas-governor-abbott-flock-cameras",
+            "sourceId": "theverge-ai-rss",
+            "publishedAt": "2026-08-30T15:35:10.000Z",
+            "language": "zh",
+            "originalLanguage": "en",
+            "translationStatus": "translated",
+            "fetchedAt": "2026-08-30T17:01:55.370Z",
+            "sourceMethod": "rss",
+            "verificationStatus": "pending"
+          }
+        ],
+        "images": [],
+        "generatedAt": "2026-08-30T17:01:49.080Z"
+      },
+      {
+        "id": "draft-cluster-real-sky-world-rss-8dul0n",
+        "title": "冰岛拒绝政府恢复加入欧盟谈判的提案",
+        "oneLine": "政策变化：周日公布的投票结果显示，冰岛选民在备受关注的公投中否决了重启加入欧盟谈判的提议。",
+        "importance": "B",
+        "credibility": "多源确认",
+        "tags": [
+          "B",
+          "industry",
+          "world",
+          "finance",
+          "operations"
+        ],
+        "industries": [
+          "generalPublic",
+          "financeInvestment",
+          "operationsGrowth",
+          "ecommerceRetail"
+        ],
+        "section": "industry",
+        "body": {
+          "background": "自2024年底以来，由支持欧盟的联合政府执政的弗罗斯塔多蒂尔曾在7月接受英国知名播客《The Rest is Politics》采访时指出，该国已遵守75%的欧盟规则。据冰岛国家广播公司RÚV报道，反对加入欧盟的票数占比为52.8%。2013年，在全球经济危机导致银行业崩溃后不久，冰岛政府曾与欧盟进行谈判。",
+          "keyProgress": "人们担忧，如果冰岛加入欧盟，除了面临渔业限制外，还必须将本国货币冰岛克朗改为欧元，并加入单一市场。但由于担心失去对其最大出口产业——渔业的主权控制权，谈判一度陷入停滞。即便“赞成”票获胜，冰岛也不会自动成为欧盟成员国；仍需与布鲁塞尔重新开启谈判，若达成协议，还需就是否加入该经济联盟举行第二次公投。",
+          "whyItMatters": "“冰岛拒绝政府恢复加入欧盟谈判的提案”如果继续发展，可能通过能源价格、航运、贸易、汇率或市场预期传导到国内。了解它的意义在于判断后续风险，而不只停留在事件本身。",
+          "userRelevance": "即使你不在欧盟，“冰岛拒绝政府恢复加入欧盟谈判的提案”也可能通过能源价格、国际航运、贸易成本和市场预期间接影响国内生活与工作判断。",
+          "whatToWatch": "接下来要看“冰岛拒绝政府恢复加入欧盟谈判的提案”是否出现更细的城市、行业、平台或企业数据，以及这一变化能否连续保持。"
+        },
+        "sourceLinks": [
+          {
+            "title": "Sky News World RSS",
+            "url": "https://news.sky.com/story/iceland-rejects-government-proposal-to-resume-eu-membership-talks-13578939",
+            "sourceId": "sky-world-rss",
+            "publishedAt": "2026-08-30T07:37:00.000Z",
+            "language": "zh",
+            "originalLanguage": "en",
+            "translationStatus": "translated",
+            "fetchedAt": "2026-08-30T17:01:53.144Z",
+            "sourceMethod": "rss",
+            "verificationStatus": "pending"
+          },
+          {
+            "title": "NPR World RSS",
+            "url": "https://www.npr.org/2026/08/29/nx-s1-5948759/iceland-european-union-referendum-vote",
+            "sourceId": "npr-world-rss",
+            "publishedAt": "2026-08-30T01:47:44.000Z",
+            "language": "zh",
+            "originalLanguage": "en",
+            "translationStatus": "translated",
+            "fetchedAt": "2026-08-30T17:01:53.120Z",
+            "sourceMethod": "rss",
+            "verificationStatus": "confirmed"
+          },
+          {
+            "title": "CNBC World News RSS",
+            "url": "https://www.cnbc.com/2026/08/30/iceland-eu-accession-referendum-result.html",
+            "sourceId": "cnbc-world-rss",
+            "publishedAt": "2026-08-30T12:32:44.000Z",
+            "language": "zh",
+            "originalLanguage": "en",
+            "translationStatus": "translated",
+            "fetchedAt": "2026-08-30T17:01:53.352Z",
+            "sourceMethod": "rss",
+            "verificationStatus": "pending"
+          }
+        ],
+        "images": [
+          {
+            "url": "https://e3.365dm.com/26/08/1920x1080/skynews-iceland-eu_7335416.jpg?20260830085321",
+            "sourceUrl": "https://news.sky.com/story/iceland-rejects-government-proposal-to-resume-eu-membership-talks-13578939"
+          }
+        ],
+        "generatedAt": "2026-08-30T17:01:49.080Z"
+      },
+      {
+        "id": "draft-real-cnbc-world-rss-vge08u",
+        "title": "他击败了大型烟草公司。同样的策略能否用于应对Meta和社交媒体？",
+        "oneLine": "政策变化：作为1998年促成2460亿美元烟草主和解协议的关键人物，迈克·摩尔认为Meta及其TikTok、谷歌YouTube等社交媒体竞争对手的“末日已现”。",
+        "importance": "B",
+        "credibility": "待确认",
+        "tags": [
+          "B",
+          "industry",
+          "world",
+          "policy",
+          "finance"
+        ],
+        "industries": [
+          "generalPublic",
+          "financeInvestment",
+          "operationsGrowth",
+          "ecommerceRetail"
+        ],
+        "section": "industry",
+        "body": {
+          "background": "该联盟此前起诉Meta，指控其歪曲Facebook和Instagram对儿童心理健康造成的损害程度。作为新成立的非营利组织“注意力倡议”（Attention Initiative）的共同负责人，摩尔告诉CNBC，他看到了达成一项涵盖更广泛公司并包含有力补救措施的宏大和解协议的机会，其中包括设立一个永久性的全国公共教育基金，旨在“减少陷入成瘾及其诸多危害的年轻人数”。Meta同意作出多项改变，包括为使用其应用的青少年设置每日使用时长限制和“夜间禁用时段”，实施“加强版年龄验证措施”以防止儿童使用这些应用，并为家长和监护人创建更多工具。",
+          "keyProgress": "摩尔曾担任密西西比州总检察长，带头对大型烟草公司发起诉讼。他早已退出公职，但正利用自身经验协助各州总检察长制定一项可能针对社交媒体行业的广泛和解方案，该行业同样被指控明知故犯地助长成瘾并损害美国青少年身心健康。本周，Meta同意向一个由州总检察长组成的联盟支付近170亿美元，以达成一项具有里程碑意义的和解协议。这是目前面临大规模诉讼浪潮的社交媒体公司所达成的最大一笔交易，但专家表示，随着大量案件仍在审理中，此事远未结束。",
+          "whyItMatters": "“他击败了大型烟草公司。同样的策略能否用于应对Meta和社交媒体”如果继续发展，可能通过能源价格、航运、贸易、汇率或市场预期传导到国内。了解它的意义在于判断后续风险，而不只停留在事件本身。",
+          "userRelevance": "即使你不在事发地区，“他击败了大型烟草公司。同样的策略能否用于应对Meta和社交媒体”也可能通过能源价格、国际航运、贸易成本和市场预期间接影响国内生活与工作判断。",
+          "whatToWatch": "接下来要看“他击败了大型烟草公司。同样的策略能否用于应对Meta和社交媒体”是否出现更细的城市、行业、平台或企业数据，以及这一变化能否连续保持。"
+        },
+        "sourceLinks": [
+          {
+            "title": "CNBC World News RSS",
+            "url": "https://www.cnbc.com/2026/08/30/mike-moore-ag-social-media-settlement-big-tobacco.html",
+            "sourceId": "cnbc-world-rss",
+            "publishedAt": "2026-08-30T15:48:10.000Z",
+            "language": "zh",
+            "originalLanguage": "en",
+            "translationStatus": "translated",
+            "fetchedAt": "2026-08-30T17:01:53.352Z",
+            "sourceMethod": "rss",
+            "verificationStatus": "pending"
+          }
+        ],
+        "images": [
+          {
+            "url": "https://image.cnbcfm.com/api/v1/image/108355716-17879203901787920387-48036018988-1080pnbcnews.jpg?v=1787920389&amp;w=750&amp;h=422&amp;vtcrop=y",
+            "sourceUrl": "https://www.cnbc.com/2026/08/30/mike-moore-ag-social-media-settlement-big-tobacco.html"
+          }
+        ],
+        "generatedAt": "2026-08-30T17:01:49.080Z"
+      }
+    ],
+    "estimatedReadMinutes": 14,
+    "pageCount": 1,
+    "topCardId": "draft-real-cnbc-world-rss-7ez2a1",
+    "generatedAt": "2026-08-30T17:01:49.080Z",
+    "pushSlots": [
+      "08:30",
+      "12:30",
+      "21:30"
+    ],
+    "edition": "morning",
+    "editionLabel": "晨报",
+    "coverageWindow": {
+      "start": "2026-08-30T07:10:00+08:00",
+      "end": "2026-08-31T07:10:00+08:00"
+    },
+    "editionCardIds": [
+      "draft-real-cnbc-world-rss-7ez2a1",
+      "draft-real-npr-world-rss-1eparts",
+      "draft-cluster-real-cnbc-world-rss-1kyaz41",
+      "draft-real-mem-cn-4qgn55",
+      "draft-real-techcrunch-ai-rss-29133r",
+      "draft-real-techcrunch-ai-rss-ew07dv",
+      "draft-real-theverge-ai-rss-ndr4lk",
+      "draft-cluster-real-sky-world-rss-8dul0n",
+      "draft-real-cnbc-world-rss-vge08u"
+    ],
+    "carriedCardIds": []
+  }
+}

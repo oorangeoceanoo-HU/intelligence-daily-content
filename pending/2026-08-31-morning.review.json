@@ -1,0 +1,71 @@
+{
+  "version": 1,
+  "date": "2026-08-31",
+  "generatedAt": "2026-08-30T17:05:58.047Z",
+  "status": "blocked",
+  "reviewMode": "generated",
+  "candidateSha256": "721aa4900e298d4e0d6053b1e258d4642cfcf769dde91a98ee635d6621d2e844",
+  "counts": {
+    "cards": 9,
+    "pages": 1,
+    "rawItems": 38,
+    "freshCandidates": 30,
+    "publishableCards": 9,
+    "reviewableCards": 4,
+    "rejectedCards": 6,
+    "blockers": 1,
+    "warnings": 7
+  },
+  "findings": [
+    {
+      "level": "blocker",
+      "code": "too-few-cards",
+      "message": "当前只有 9 条，无法形成每版约 5 条的三版完整日报；系统会保留上一份合格日报，不会用旧闻或未核实内容凑数。"
+    },
+    {
+      "level": "warning",
+      "code": "source-fetch-failures",
+      "message": "有 2 个来源抓取失败，需要确认是否影响当天覆盖面。"
+    },
+    {
+      "level": "warning",
+      "code": "current-coverage-local",
+      "message": "居住城市与家乡城市：上海、杭州、长春、深圳、伦敦、宿州、汕尾、三门峡、广州、东莞、成都在本时段没有新的可用条目：已监测 1 个可访问来源，但当前只命中 0 个。公共共享日报会监测示例城市，但城市无新增不能阻止其他核心内容出版；发现线索仍需官方或主流来源确认。"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "没有抓到完整正文，目前使用候选摘要回退。",
+      "cardId": "draft-real-france24-asia-pacific-rss-1k0eda1",
+      "cardTitle": "图片回顾：尼泊尔毁灭性洪水、桃莉·巴顿去世以及法国龙卷风"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "原文信息量有限，需要确认是否足以支持卡片结论。",
+      "cardId": "draft-real-france24-asia-pacific-rss-1k0eda1",
+      "cardTitle": "图片回顾：尼泊尔毁灭性洪水、桃莉·巴顿去世以及法国龙卷风"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "官方风险简报篇幅较短，但事实和处置动作完整，需要人工确认是否保留。",
+      "cardId": "draft-real-mem-cn-j34al0",
+      "cardTitle": "国家防总、应急管理部针对海南启动防汛四级应急响应"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "原文信息量有限，需要确认是否足以支持卡片结论。",
+      "cardId": "draft-real-mem-cn-2lqej6",
+      "cardTitle": "消防救援队伍持续在吉隆泥石流核心区开展排查搜寻"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "原文信息量有限，需要确认是否足以支持卡片结论。",
+      "cardId": "draft-real-mem-cn-z21dd4",
+      "cardTitle": "应急管理部密切监测普热普强藏布堰塞湖发展态势 部署险情处置"
+    }
+  ]
+}

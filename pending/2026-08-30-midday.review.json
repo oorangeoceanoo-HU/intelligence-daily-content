@@ -1,20 +1,20 @@
 {
   "version": 1,
   "date": "2026-08-30",
-  "generatedAt": "2026-08-30T02:47:05.051Z",
+  "generatedAt": "2026-08-30T05:30:18.612Z",
   "status": "blocked",
   "reviewMode": "generated",
-  "candidateSha256": "469fc180dcdeceab1bc2c212bb28d1ff1588ff31ec74326423cb085478bdfe5d",
+  "candidateSha256": "94f3aabe1d1843d32c476305900ad77a6a63ced815d4e88b7142672ab600ea4c",
   "counts": {
     "cards": 0,
     "pages": 0,
-    "rawItems": 2,
-    "freshCandidates": 2,
+    "rawItems": 5,
+    "freshCandidates": 3,
     "publishableCards": 0,
     "reviewableCards": 0,
     "rejectedCards": 1,
-    "blockers": 6,
-    "warnings": 2
+    "blockers": 5,
+    "warnings": 3
   },
   "findings": [
     {
@@ -48,14 +48,14 @@
       "message": "中国关联与贸易政策在本时段没有足够的新输入：需要至少 1 个来源，当前为 0 个。"
     },
     {
-      "level": "blocker",
-      "code": "current-coverage-disaster",
-      "message": "国内外重大灾害在本时段没有足够的新输入：需要至少 1 个来源，当前为 0 个。"
+      "level": "warning",
+      "code": "current-coverage-industry",
+      "message": "行业与 AI 产品在本时段没有新的可用条目：已监测 10 个可访问来源，但当前只命中 0 个。当前公共版覆盖多个行业；正式个性化版本仍需按用户画像选择对应来源组合。"
     },
     {
       "level": "warning",
-      "code": "current-coverage-industry",
-      "message": "行业与 AI 产品在本时段没有新的可用条目：已监测 9 个可访问来源，但当前只命中 0 个。当前公共版覆盖多个行业；正式个性化版本仍需按用户画像选择对应来源组合。"
+      "code": "current-coverage-local",
+      "message": "居住城市与家乡城市：上海、杭州、长春、深圳、伦敦、宿州、汕尾、三门峡、广州、东莞在本时段没有新的可用条目：已监测 2 个可访问来源，但当前只命中 0 个。公共共享日报会监测示例城市，但城市无新增不能阻止其他核心内容出版；发现线索仍需官方或主流来源确认。"
     }
   ]
 }

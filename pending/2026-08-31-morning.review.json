@@ -1,20 +1,20 @@
 {
   "version": 1,
   "date": "2026-08-31",
-  "generatedAt": "2026-08-30T17:05:58.047Z",
+  "generatedAt": "2026-08-30T17:40:23.392Z",
   "status": "blocked",
   "reviewMode": "generated",
-  "candidateSha256": "721aa4900e298d4e0d6053b1e258d4642cfcf769dde91a98ee635d6621d2e844",
+  "candidateSha256": "d2c065fe25f9a6d57b3a521a72408427eb636ba309f361677048757658d48366",
   "counts": {
     "cards": 9,
     "pages": 1,
-    "rawItems": 38,
-    "freshCandidates": 30,
+    "rawItems": 40,
+    "freshCandidates": 32,
     "publishableCards": 9,
-    "reviewableCards": 4,
+    "reviewableCards": 5,
     "rejectedCards": 6,
     "blockers": 1,
-    "warnings": 7
+    "warnings": 8
   },
   "findings": [
     {
@@ -25,12 +25,7 @@
     {
       "level": "warning",
       "code": "source-fetch-failures",
-      "message": "有 2 个来源抓取失败，需要确认是否影响当天覆盖面。"
-    },
-    {
-      "level": "warning",
-      "code": "current-coverage-local",
-      "message": "居住城市与家乡城市：上海、杭州、长春、深圳、伦敦、宿州、汕尾、三门峡、广州、东莞、成都在本时段没有新的可用条目：已监测 1 个可访问来源，但当前只命中 0 个。公共共享日报会监测示例城市，但城市无新增不能阻止其他核心内容出版；发现线索仍需官方或主流来源确认。"
+      "message": "有 1 个来源抓取失败，需要确认是否影响当天覆盖面。"
     },
     {
       "level": "warning",
@@ -45,6 +40,20 @@
       "message": "原文信息量有限，需要确认是否足以支持卡片结论。",
       "cardId": "draft-real-france24-asia-pacific-rss-1k0eda1",
       "cardTitle": "图片回顾：尼泊尔毁灭性洪水、桃莉·巴顿去世以及法国龙卷风"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "没有抓到完整正文，目前使用候选摘要回退。",
+      "cardId": "draft-cluster-real-france24-asia-pacific-rss-1bvbzwk",
+      "cardTitle": "尼泊尔和中国：死亡人数上升，3000人仍失踪"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "原文信息量有限，需要确认是否足以支持卡片结论。",
+      "cardId": "draft-cluster-real-france24-asia-pacific-rss-1bvbzwk",
+      "cardTitle": "尼泊尔和中国：死亡人数上升，3000人仍失踪"
     },
     {
       "level": "warning",

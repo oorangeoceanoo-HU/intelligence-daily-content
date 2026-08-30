@@ -1,11 +1,67 @@
 {
   "schemaVersion": 2,
-  "publishedAt": "2026-08-30T09:52:41.628Z",
+  "publishedAt": "2026-08-30T09:58:32.087Z",
   "issue": {
     "id": "daily-public-2026-08-30",
     "date": "2026-08-30",
     "userId": "public",
     "cards": [
+      {
+        "id": "draft-real-npr-world-rss-1fj9kwp",
+        "title": "尼泊尔警告可能出现新一轮洪水，社区正努力应对灾难带来的破坏",
+        "oneLine": "风险提醒：尼泊尔达丁——周日，尼泊尔当局警告可能出现新一轮洪水，并敦促受洪灾影响地区的居民保持高度警惕，因为博特科西河水位上升。",
+        "importance": "A",
+        "credibility": "主流媒体",
+        "tags": [
+          "A",
+          "mustKnow",
+          "risk",
+          "world",
+          "disaster",
+          "publicSafety"
+        ],
+        "industries": [
+          "generalPublic",
+          "localLife"
+        ],
+        "section": "risk",
+        "body": {
+          "background": "在尼泊尔受灾最严重的地区之一达丁，一些居民开始返回被毁的家园，试图抢救可保留的物品。在一座因洪水严重受损的关键水电站，工作人员周日开始检查设施以评估破坏情况。失踪者包括来自十多个国家的数百人，他们此前在该地区务工、登山旅游或朝圣一座神圣山峰。",
+          "keyProgress": "周日清晨，向民众手机发送了洪水预警通知。救援人员正努力清理连接加德满都与周三灾难性洪灾重灾区之一的关键公路，此次洪灾已造成尼泊尔和中国西藏地区至少760人死亡、3000多人失踪。居民们坐在墙壁被洪水冲走的房屋内，用铲子将阳台或窗框上污泥般的泥浆和碎石清除。另一些人则在泥泞的地面上搜寻可以捡拾并冲洗干净的物品。",
+          "whyItMatters": "“防汛与洪涝风险”的直接价值是帮助你判断是否需要调整出行、居住或工作安排。影响地区、持续时间、预警等级和官方避险建议比事件热度更重要。",
+          "userRelevance": "对于“防汛与洪涝风险”，如果你近期计划前往事发地区或与当地有工作、家人联系，需要留意后续预警；没有直接联系时，可把它作为区域风险背景了解。",
+          "whatToWatch": "接下来要看“防汛与洪涝风险”的影响范围是否扩大、预警等级是否变化，以及是否出现与你所在城市相关的提醒。"
+        },
+        "sourceLinks": [
+          {
+            "title": "NPR World RSS",
+            "url": "https://www.npr.org/2026/08/30/nx-s1-5949239/nepal-warns-fresh-flooding",
+            "sourceId": "npr-world-rss",
+            "publishedAt": "2026-08-30T09:52:41.000Z",
+            "language": "zh",
+            "originalLanguage": "en",
+            "translationStatus": "translated",
+            "fetchedAt": "2026-08-30T09:58:36.831Z",
+            "sourceMethod": "rss",
+            "verificationStatus": "confirmed"
+          }
+        ],
+        "images": [
+          {
+            "url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4627x2115+0+0/resize/1100/quality/50/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F5a%2Fb5%2F8c0f91b946acaecb425753937db8%2Fap26241725231648.jpg",
+            "sourceUrl": "https://www.npr.org/2026/08/30/nx-s1-5949239/nepal-warns-fresh-flooding"
+          },
+          {
+            "url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/791x791+111+0/resize/100/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F0e%2Fd6%2F77b0731c497091bfa3ed63af7c56%2Fimg-5038-1.jpg",
+            "sourceUrl": "https://www.npr.org/2026/08/30/nx-s1-5949239/nepal-warns-fresh-flooding"
+          },
+          {
+            "url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8640x5760+0+0/resize/1100/quality/50/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F5c%2F6a%2F73d7888c40ec996604085d8f27ea%2Fap26241717286833.jpg",
+            "sourceUrl": "https://www.npr.org/2026/08/30/nx-s1-5949239/nepal-warns-fresh-flooding"
+          }
+        ],
+        "generatedAt": "2026-08-30T09:58:32.087Z"
+      },
       {
         "id": "draft-real-mem-cn-3whu28",
         "title": "应急管理部调派中国安能等工程救援力量持续攻坚道路抢通作业",
@@ -40,19 +96,19 @@
             "language": "zh",
             "originalLanguage": "zh",
             "translationStatus": "not-needed",
-            "fetchedAt": "2026-08-30T09:52:43.661Z",
+            "fetchedAt": "2026-08-30T09:58:34.820Z",
             "sourceMethod": "web",
             "verificationStatus": "confirmed"
           }
         ],
         "images": [],
-        "generatedAt": "2026-08-30T09:52:41.628Z"
+        "generatedAt": "2026-08-30T09:58:32.087Z"
       }
     ],
-    "estimatedReadMinutes": 2,
+    "estimatedReadMinutes": 3,
     "pageCount": 1,
-    "topCardId": "draft-real-mem-cn-3whu28",
-    "generatedAt": "2026-08-30T09:52:41.628Z",
+    "topCardId": "draft-real-npr-world-rss-1fj9kwp",
+    "generatedAt": "2026-08-30T09:58:32.087Z",
     "pushSlots": [
       "08:30",
       "12:30",
@@ -65,6 +121,7 @@
       "end": "2026-08-30T21:10:00+08:00"
     },
     "editionCardIds": [
+      "draft-real-npr-world-rss-1fj9kwp",
       "draft-real-mem-cn-3whu28"
     ],
     "carriedCardIds": []

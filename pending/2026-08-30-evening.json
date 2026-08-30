@@ -1,0 +1,72 @@
+{
+  "schemaVersion": 2,
+  "publishedAt": "2026-08-30T09:52:41.628Z",
+  "issue": {
+    "id": "daily-public-2026-08-30",
+    "date": "2026-08-30",
+    "userId": "public",
+    "cards": [
+      {
+        "id": "draft-real-mem-cn-3whu28",
+        "title": "应急管理部调派中国安能等工程救援力量持续攻坚道路抢通作业",
+        "oneLine": "最新进展：应急管理部调派中国安能等工程救援力量持续攻坚道路抢通作业。",
+        "importance": "B",
+        "credibility": "官方来源",
+        "tags": [
+          "B",
+          "risk",
+          "disaster",
+          "publicSafety",
+          "china"
+        ],
+        "industries": [
+          "generalPublic",
+          "localLife"
+        ],
+        "section": "risk",
+        "body": {
+          "background": "应急管理部调派中国安能等工程救援力量 8 月 30 日，应急管理部调派中国安能工程力量持续开展道路抢通作业，投入 110 名救援人员、 28 台套包括挖掘机、装载机等装备，在 G216 国道损毁路段持续开展抢通作业，争分夺秒打通通往吉隆口岸核心区的关键通道。面对复杂工况，救援队伍采取翻渣接力、涉水作业方式开展填筑施工，换填大块石稳固路基，逐段向前推进。截止 8 月 30 日 12 时，中国安能累计进占 260 余米，翻挖掏料 28500 余方。",
+          "keyProgress": "加之河道水流湍急，落石、滑坡等次生灾害风险持续。现场作业区地处高山深切峡谷，两侧山体陡峭、施工面狭窄，大型机械难以多机同步展开；泥石流冲刷造成路基大面积损毁，弯道处路基掏空、路面垮塌，淤泥厚积，缺乏稳定施工平台；",
+          "whyItMatters": "“应急管理部调派中国安能等工程救援力量持续攻坚道路抢通作业”的直接价值是帮助你判断是否需要调整出行、居住或工作安排。影响地区、持续时间、预警等级和官方避险建议比事件热度更重要。",
+          "userRelevance": "对于“应急管理部调派中国安能等工程救援力量持续攻坚道路抢通作业”，如果你居住、出行或有家人在中国，应及时查看当地预警和交通变化；不在相关地区时，通常无需改变日常安排。",
+          "whatToWatch": "接下来要看“应急管理部调派中国安能等工程救援力量持续攻坚道路抢通作业”的影响范围是否扩大、预警等级是否变化，以及是否出现与你所在城市相关的提醒。"
+        },
+        "sourceLinks": [
+          {
+            "title": "应急管理部",
+            "url": "https://www.mem.gov.cn/xw/yjglbgzdt/202608/t20260830_709490.shtml",
+            "sourceId": "mem-cn",
+            "publishedAt": "2026-08-30T00:00:00+08:00",
+            "language": "zh",
+            "originalLanguage": "zh",
+            "translationStatus": "not-needed",
+            "fetchedAt": "2026-08-30T09:52:43.661Z",
+            "sourceMethod": "web",
+            "verificationStatus": "confirmed"
+          }
+        ],
+        "images": [],
+        "generatedAt": "2026-08-30T09:52:41.628Z"
+      }
+    ],
+    "estimatedReadMinutes": 2,
+    "pageCount": 1,
+    "topCardId": "draft-real-mem-cn-3whu28",
+    "generatedAt": "2026-08-30T09:52:41.628Z",
+    "pushSlots": [
+      "08:30",
+      "12:30",
+      "21:30"
+    ],
+    "edition": "evening",
+    "editionLabel": "晚间更新",
+    "coverageWindow": {
+      "start": "2026-08-30T12:10:00+08:00",
+      "end": "2026-08-30T21:10:00+08:00"
+    },
+    "editionCardIds": [
+      "draft-real-mem-cn-3whu28"
+    ],
+    "carriedCardIds": []
+  }
+}

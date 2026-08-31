@@ -100,7 +100,7 @@ jobs:
           test -n "$OSSUTIL_BINARY"
           chmod +x "$OSSUTIL_BINARY"
           ln -s "$OSSUTIL_BINARY" /tmp/ossutil
-          /tmp/ossutil version
+          /tmp/ossutil help >/dev/null
 
       - name: Configure least-privilege OSS uploader
         if: steps.freshness.outputs.should_publish == 'true'

@@ -1,0 +1,51 @@
+{
+  "version": 1,
+  "date": "2026-08-31",
+  "generatedAt": "2026-08-31T02:40:36.750Z",
+  "status": "blocked",
+  "reviewMode": "generated",
+  "candidateSha256": "6159a5e5b2c778a47bedd468fa0c610027d89c9ecf6da95916f89742d41dc0b8",
+  "counts": {
+    "cards": 7,
+    "pages": 1,
+    "rawItems": 22,
+    "freshCandidates": 16,
+    "publishableCards": 7,
+    "reviewableCards": 0,
+    "rejectedCards": 8,
+    "blockers": 4,
+    "warnings": 2
+  },
+  "findings": [
+    {
+      "level": "blocker",
+      "code": "too-few-cards",
+      "message": "当前只有 7 条，无法形成每版约 5 条的三版完整日报；系统会保留上一份合格日报，不会用旧闻或未核实内容凑数。"
+    },
+    {
+      "level": "blocker",
+      "code": "translation-failures",
+      "message": "有 11 条英文或多语言来源没有完成中文化，当前翻译通道为 openai-compatible，不能按期发布。"
+    },
+    {
+      "level": "blocker",
+      "code": "missing-base-edition",
+      "message": "午间或晚间更新没有找到当天更早且已批准的版次，不能把一小段增量内容当作完整日报发布。"
+    },
+    {
+      "level": "blocker",
+      "code": "source-concentration",
+      "message": "xinhua-tech 占 5/7 条，单一来源超过一半，不能视为覆盖充分。"
+    },
+    {
+      "level": "warning",
+      "code": "source-fetch-failures",
+      "message": "有 4 个来源抓取失败，需要确认是否影响当天覆盖面。"
+    },
+    {
+      "level": "warning",
+      "code": "current-coverage-local",
+      "message": "居住城市与家乡城市：上海、杭州、长春、深圳、伦敦、宿州、汕尾、三门峡、广州、东莞、成都在本时段没有新的可用条目：已监测 2 个可访问来源，但当前只命中 0 个。公共共享日报会监测示例城市，但城市无新增不能阻止其他核心内容出版；发现线索仍需官方或主流来源确认。"
+    }
+  ]
+}

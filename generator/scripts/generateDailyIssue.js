@@ -479,13 +479,33 @@ async function main() {
             includeAllCandidates: true
         })
         : undefined;
+    // A review-level card has warnings only. Keep it available for the pool and
+    // the daily issue when there are no blocking facts, while still rejecting
+    // missing translations, broken source links, and other error-level findings.
+    const reviewApprovedCards = (items) => items.filter((item) => item.finalReport.level === "review" &&
+        item.finalReport.issues.every((issue) => issue.severity !== "error"));
+    const additionalRejectedCards = additionalPersonalizationPipeline?.rejectedCards ?? [];
+    const approvedReviewCards = reviewApprovedCards(cardPipeline.rejectedCards);
+    const additionalApprovedReviewCards = reviewApprovedCards(additionalRejectedCards);
     const personalizationPublishableCards = [
         ...cardPipeline.publishableCards,
-        ...(additionalPersonalizationPipeline?.publishableCards ?? [])
+        ...approvedReviewCards,
+        ...(additionalPersonalizationPipeline?.publishableCards ?? []),
+        ...additionalApprovedReviewCards
     ];
-    const reviewableCards = cardPipeline.rejectedCards.filter((item) => item.finalReport.level === "review");
-    const blockedCards = cardPipeline.rejectedCards.filter((item) => item.finalReport.level === "blocked");
-    const eligibleCards = [...cardPipeline.publishableCards];
+    const reviewableCards = [
+        ...cardPipeline.rejectedCards,
+        ...additionalRejectedCards
+    ].filter((item) => item.finalReport.level === "review");
+    const blockedCards = [
+        ...cardPipeline.rejectedCards,
+        ...additionalRejectedCards
+    ].filter((item) => item.finalReport.level === "blocked");
+    // The shared issue is also the safe fallback when an account-specific issue
+    // cannot be loaded. Use every quality-approved candidate from the same run,
+    // including the supplemental industry pass, so one thin public ranking does
+    // not block a complete personalized newspaper for all users.
+    const eligibleCards = personalizationPublishableCards;
     const incrementalIssueResult = (0, dailyIssueBuilder_1.buildDailyIssue)({
         userId: profileConfig.profile.phone.replace(/\s+/g, ""),
         date: options.date,

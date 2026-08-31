@@ -21,32 +21,31 @@ on:
         description: Optional ISO timestamp used when replaying a historical edition
         required: false
         type: string
+      force:
+        description: Regenerate even when this date is already published
+        required: false
+        default: false
+        type: boolean
   schedule:
-    # GitHub Actions cron uses UTC. These runs are scheduled before the
-    # China-time reading reminders at 08:30, 12:30, and 21:30.
-    - cron: "0 0 * * *"
-    - cron: "0 4 * * *"
-    - cron: "0 13 * * *"
-    # A short retry absorbs normal scheduler delays without changing the
-    # edition selection logic.
-    - cron: "20 0 * * *"
-    - cron: "20 4 * * *"
-    - cron: "20 13 * * *"
+    # GitHub Actions cron uses UTC. 02:00 UTC is 10:00 in China.
+    # The later entries retry transient source or translation failures. They
+    # exit without regenerating once today's issue has been published.
+    - cron: "0 2 * * *"
+    - cron: "20 2 * * *"
+    - cron: "0 3 * * *"
 
 permissions:
   contents: write
 
 concurrency:
   group: prepare-daily-review
-  # The +20 minute entries are retries for delayed or failed scheduled runs.
-  # Cancelling the primary run here can leave the day without a published issue
-  # when source fetching or translation takes longer than expected.
+  # Retries must wait for the primary run before checking whether it published.
   cancel-in-progress: false
 
 jobs:
   prepare:
     runs-on: ubuntu-latest
-    timeout-minutes: 35
+    timeout-minutes: 45
     steps:
       - name: Check out content repository
         uses: actions/checkout@v4
@@ -110,7 +109,27 @@ jobs:
           fi
           echo "date=$DATE" >> "$GITHUB_OUTPUT"
 
+      - name: Check whether today's issue is already published
+        id: publish-check
+        env:
+          DATE: ${{ steps.issue-date.outputs.date }}
+          FORCE: ${{ inputs.force }}
+        run: |
+          if [ "$FORCE" = "true" ]; then
+            echo "should_run=true" >> "$GITHUB_OUTPUT"
+            echo "Manual force regeneration requested for $DATE." >> "$GITHUB_STEP_SUMMARY"
+            exit 0
+          fi
+          PUBLISHED_DATE="$(node -e "try { process.stdout.write(require('./latest.json').issue.date || '') } catch {}")"
+          if [ -n "$PUBLISHED_DATE" ] && [[ "$PUBLISHED_DATE" > "$DATE" || "$PUBLISHED_DATE" = "$DATE" ]]; then
+            echo "should_run=false" >> "$GITHUB_OUTPUT"
+            echo "$PUBLISHED_DATE is already published; this retry has nothing to do." >> "$GITHUB_STEP_SUMMARY"
+          else
+            echo "should_run=true" >> "$GITHUB_OUTPUT"
+          fi
+
       - name: Resolve edition
+        if: steps.publish-check.outputs.should_run == 'true'
         id: issue-edition
         env:
           REQUESTED_EDITION: ${{ inputs.edition }}
@@ -119,20 +138,15 @@ jobs:
           if [ "$REQUESTED_EDITION" = "morning" ] || [ "$REQUESTED_EDITION" = "midday" ] || [ "$REQUESTED_EDITION" = "evening" ]; then
             EDITION="$REQUESTED_EDITION"
           else
-            HOUR="$(node <<'NODE'
-          const parts = new Intl.DateTimeFormat('en-GB', {
-            timeZone: 'Asia/Shanghai',
-            hour: '2-digit',
-            hour12: false
-          }).formatToParts(new Date());
-          process.stdout.write(parts.find((part) => part.type === 'hour')?.value ?? '00');
-          NODE
-            )"
-            if [ "$HOUR" -lt 10 ]; then EDITION="morning"; elif [ "$HOUR" -lt 17 ]; then EDITION="midday"; else EDITION="evening"; fi
+            # Scheduled and default manual runs always build the one complete
+            # daily issue. Midday/evening remain available only for explicit
+            # historical or editorial runs.
+            EDITION="morning"
           fi
           echo "edition=$EDITION" >> "$GITHUB_OUTPUT"
 
       - name: Generate pending issue
+        if: steps.publish-check.outputs.should_run == 'true'
         env:
           DATE: ${{ steps.issue-date.outputs.date }}
           EDITION: ${{ steps.issue-edition.outputs.edition }}
@@ -150,17 +164,16 @@ jobs:
           SUPABASE_SERVICE_ROLE_KEY: ${{ secrets.SUPABASE_SERVICE_ROLE_KEY }}
         run: |
           mkdir -p tmp
-          AS_OF_ARGS=()
-          if [ -n "$AS_OF" ]; then AS_OF_ARGS+=(--as-of "$AS_OF"); fi
+          EFFECTIVE_AS_OF="${AS_OF:-${DATE}T10:00:00+08:00}"
           node generator/scripts/generateDailyIssue.js \
             --publish \
             --profile public \
             --all \
-            --source-limit 18 \
+            --source-limit 24 \
             --cards 24 \
             --edition "$EDITION" \
             --date "$DATE" \
-            "${AS_OF_ARGS[@]}" \
+            --as-of "$EFFECTIVE_AS_OF" \
             --output "tmp/review-$DATE-$EDITION.json"
           node generator/scripts/createDailyReviewSummary.js \
             --date "$DATE" \
@@ -171,12 +184,14 @@ jobs:
             --report-output "pending/$DATE-$EDITION.review.json"
 
       - name: Show review summary
+        if: steps.publish-check.outputs.should_run == 'true'
         env:
           DATE: ${{ steps.issue-date.outputs.date }}
           EDITION: ${{ steps.issue-edition.outputs.edition }}
         run: cat "pending/$DATE-$EDITION.md" >> "$GITHUB_STEP_SUMMARY"
 
       - name: Preserve source health snapshot
+        if: steps.publish-check.outputs.should_run == 'true'
         env:
           DATE: ${{ steps.issue-date.outputs.date }}
           EDITION: ${{ steps.issue-edition.outputs.edition }}
@@ -187,6 +202,7 @@ jobs:
             "audit/source-health/$DATE-$EDITION.json"
 
       - name: Read quality gate
+        if: steps.publish-check.outputs.should_run == 'true'
         id: quality-gate
         env:
           DATE: ${{ steps.issue-date.outputs.date }}
@@ -201,7 +217,7 @@ jobs:
           fi
 
       - name: Publish issue after quality gate
-        if: steps.quality-gate.outputs.status != 'blocked'
+        if: steps.publish-check.outputs.should_run == 'true' && steps.quality-gate.outputs.status != 'blocked'
         env:
           DATE: ${{ steps.issue-date.outputs.date }}
           EDITION: ${{ steps.issue-edition.outputs.edition }}
@@ -212,7 +228,7 @@ jobs:
             --confirmation APPROVE
 
       - name: Preserve latest personalization pool
-        if: steps.quality-gate.outputs.status != 'blocked'
+        if: steps.publish-check.outputs.should_run == 'true' && steps.quality-gate.outputs.status != 'blocked'
         env:
           DATE: ${{ steps.issue-date.outputs.date }}
           EDITION: ${{ steps.issue-edition.outputs.edition }}
@@ -239,6 +255,7 @@ jobs:
           NODE
 
       - name: Save private diagnostic artifact
+        if: steps.publish-check.outputs.should_run == 'true'
         uses: actions/upload-artifact@v4
         with:
           name: daily-review-${{ steps.issue-date.outputs.date }}-${{ steps.issue-edition.outputs.edition }}
@@ -246,6 +263,7 @@ jobs:
           retention-days: 7
 
       - name: Commit review, health, and published issue
+        if: steps.publish-check.outputs.should_run == 'true'
         env:
           DATE: ${{ steps.issue-date.outputs.date }}
           EDITION: ${{ steps.issue-edition.outputs.edition }}
@@ -268,7 +286,7 @@ jobs:
           git push origin HEAD:main
 
       - name: Publish personalized tester issues
-        if: steps.quality-gate.outputs.status != 'blocked'
+        if: steps.publish-check.outputs.should_run == 'true' && steps.quality-gate.outputs.status != 'blocked'
         env:
           DATE: ${{ steps.issue-date.outputs.date }}
           EDITION: ${{ steps.issue-edition.outputs.edition }}
@@ -280,7 +298,7 @@ jobs:
             --output "tmp/personalized-$DATE-$EDITION.json"
 
       - name: Enforce personalized publishing configuration
-        if: steps.quality-gate.outputs.status != 'blocked'
+        if: steps.publish-check.outputs.should_run == 'true' && steps.quality-gate.outputs.status != 'blocked'
         env:
           DATE: ${{ steps.issue-date.outputs.date }}
           EDITION: ${{ steps.issue-edition.outputs.edition }}
@@ -302,7 +320,7 @@ jobs:
           NODE
 
       - name: Save personalized generation report
-        if: steps.quality-gate.outputs.status != 'blocked'
+        if: steps.publish-check.outputs.should_run == 'true' && steps.quality-gate.outputs.status != 'blocked'
         uses: actions/upload-artifact@v4
         with:
           name: personalized-issues-${{ steps.issue-date.outputs.date }}-${{ steps.issue-edition.outputs.edition }}
@@ -311,7 +329,7 @@ jobs:
           retention-days: 14
 
       - name: Mark blocked publication as failed
-        if: steps.quality-gate.outputs.status == 'blocked'
+        if: steps.publish-check.outputs.should_run == 'true' && steps.quality-gate.outputs.status == 'blocked'
         run: |
           echo "The edition was not published because the quality gate found blocking issues." >&2
           exit 1

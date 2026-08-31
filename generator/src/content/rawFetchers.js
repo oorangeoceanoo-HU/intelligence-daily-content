@@ -15,6 +15,7 @@ exports.fetchMfaRawItems = fetchMfaRawItems;
 exports.fetchMofcomTradeRawItems = fetchMofcomTradeRawItems;
 exports.fetchMoeRawItems = fetchMoeRawItems;
 exports.fetchChrmRawItems = fetchChrmRawItems;
+exports.fetchMohrssRawItems = fetchMohrssRawItems;
 exports.fetchStatsDataRawItems = fetchStatsDataRawItems;
 exports.fetchMofcomConsumptionRawItems = fetchMofcomConsumptionRawItems;
 exports.fetchGdeltRawItems = fetchGdeltRawItems;
@@ -65,9 +66,9 @@ const sourceAliases = {
     tech: "xinhua-tech",
     education: "moe-cn",
     moe: "moe-cn",
+    mohrss: "mohrss-cn",
     hr: "chrm-mohrss",
     chrm: "chrm-mohrss",
-    mohrss: "mohrss-cn",
     stats: "stats-cn-data",
     nbs: "stats-cn-data",
     operations: "stats-cn-data",
@@ -1008,7 +1009,9 @@ async function fetchMohrssRawItems(limit) {
         .filter((link) => /就业|招聘|人才|人事|劳动|社保|养老|工资|职称|职业|失业|用工|毕业生|就业服务/.test(link.title))
         .map((link) => ({
         ...link,
-        publishedAt: dateFromMoeUrl(link.url) ?? dateFromSlashUrl(link.url) ?? dateFromChineseListText(link.title)
+        publishedAt: dateFromMoeUrl(link.url) ??
+            dateFromSlashUrl(link.url) ??
+            dateFromChineseListText(link.title)
     }))
         .filter((link) => Boolean(link.publishedAt))
         .slice(0, limit);

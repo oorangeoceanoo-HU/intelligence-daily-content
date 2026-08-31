@@ -12,8 +12,11 @@ const shanghaiDateTime = (date, time) => `${date}T${time}:00+08:00`;
 const coverageWindowFor = (date, edition) => {
     if (edition === "morning") {
         return {
-            start: shanghaiDateTime(previousDate(date), "07:10"),
-            end: shanghaiDateTime(date, "07:10")
+            // The unattended daily issue is generated at 10:00 China time. Include
+            // the full previous calendar day so slower-moving industry sources have
+            // enough high-quality material without admitting content older than one day.
+            start: shanghaiDateTime(previousDate(date), "00:00"),
+            end: shanghaiDateTime(date, "10:00")
         };
     }
     if (edition === "midday") {

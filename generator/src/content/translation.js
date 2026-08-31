@@ -30,8 +30,8 @@ const endpoint = () => env("CONTENT_TRANSLATION_ENDPOINT") ??
 const apiKey = () => env("CONTENT_TRANSLATION_API_KEY");
 const myMemoryEndpoint = () => env("CONTENT_TRANSLATION_MYMEMORY_ENDPOINT") ??
     "https://api.mymemory.translated.net/get";
-const translationTimeoutMs = 20000;
-const translationRetryDelaysMs = [500, 1500];
+const translationTimeoutMs = 30000;
+const translationRetryDelaysMs = [1000, 3000, 7000];
 const delay = (milliseconds) => new Promise((resolve) => setTimeout(resolve, milliseconds));
 const withTranslationRetries = async (operation) => {
     let lastError;
@@ -153,7 +153,7 @@ const googleTranslate = async (text) => withTranslationRetries(async () => {
     }
     return translated;
 });
-const openAiCompatibleTranslate = async (text) => {
+const openAiCompatibleTranslate = async (text) => withTranslationRetries(async () => {
     const key = apiKey();
     if (!key) {
         throw new Error("CONTENT_TRANSLATION_API_KEY is required for openai-compatible translation");
@@ -183,7 +183,7 @@ const openAiCompatibleTranslate = async (text) => {
         throw new Error("openai-compatible translation response was empty");
     }
     return translated;
-};
+});
 const myMemoryTranslateChunk = async (text) => {
     const url = new URL(myMemoryEndpoint());
     url.searchParams.set("q", text);
@@ -407,8 +407,8 @@ async function translateRawContentItems(items) {
         failures: []
     };
     const output = [];
-    // Avoid burst-limiting the free fallback while a stable translation API
-    // has not yet been configured for the scheduled job.
+    // The free translation endpoint rate-limits bursts. Two in flight keeps
+    // the daily job fast while avoiding a batch-wide fallback to MyMemory.
     const concurrency = 2;
     for (let start = 0; start < items.length; start += concurrency) {
         const batch = items.slice(start, start + concurrency);

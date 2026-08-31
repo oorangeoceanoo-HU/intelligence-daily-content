@@ -2,6 +2,7 @@
 Object.defineProperty(exports, "__esModule", { value: true });
 const cardDraftPipeline_1 = require("../src/content/cardDraftPipeline");
 const candidatePreviewProfiles_1 = require("../src/content/candidatePreviewProfiles");
+const profileOptions_1 = require("../src/config/profileOptions");
 const candidateDeduper_1 = require("../src/content/candidateDeduper");
 const dailyIssueBuilder_1 = require("../src/content/dailyIssueBuilder");
 const editionIssueMerger_1 = require("../src/content/editionIssueMerger");
@@ -499,6 +500,19 @@ async function main() {
         ...(additionalPersonalizationPipeline?.publishableCards ?? []),
         ...additionalApprovedReviewCards
     ];
+    const coverageLabels = Array.from(new Set([
+        ...profileOptions_1.careerDirectionOptions,
+        ...profileOptions_1.interestOptions
+    ]));
+    const profileCoverage = {
+        thresholds: {
+            minimumCandidates: 20,
+            minimumSources: 3,
+            minimumQualifiedCards: 10
+        },
+        candidates: (0, sourceCoverage_1.assessProfileCoverage)(freshCandidates, coverageLabels),
+        qualityApproved: (0, sourceCoverage_1.assessProfileCoverage)(personalizationPublishableCards.map((item) => item.rankedCandidate.candidate), coverageLabels)
+    };
     const reviewableCards = [
         ...cardPipeline.rejectedCards,
         ...additionalRejectedCards
@@ -552,6 +566,7 @@ async function main() {
             generatedAt,
             edition: options.edition,
             sourceCoverage,
+            profileCoverage,
             sources: options.sources,
             sourceNames: options.sources.map((sourceId) => shortSourceNames[sourceId]),
             fetchedRawItemCount: fetchedRawItems.length,

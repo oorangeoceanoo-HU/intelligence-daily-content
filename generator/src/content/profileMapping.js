@@ -76,6 +76,14 @@ const interestCategoryMap = {
     电商: ["ecommerce", "consumer"],
     本地提醒: ["local", "disaster", "publicSafety"]
 };
+const focusedSourceRequirements = {
+    "教师 / 教育从业者": ["moe-cn", "eol-education", "jyb-education", "cas-science-news"],
+    "教育 / 研究": ["moe-cn", "eol-education", "jyb-education", "cas-science-news", "arxiv-cs-api"],
+    "博士 / 学术研究": ["arxiv-cs-api", "cas-science-news", "eol-education", "jyb-education"],
+    "教育行业": ["moe-cn", "eol-education", "jyb-education", "cas-science-news"],
+    教育: ["moe-cn", "eol-education", "jyb-education", "cas-science-news"]
+};
+exports.focusedSourceRequirements = focusedSourceRequirements;
 const careerCategoryMap = {
     "AI 与产品方向": ["ai", "product", "technology"],
     "互联网产品 / 产品经理": ["product", "technology", "operations"],

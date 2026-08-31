@@ -3,6 +3,7 @@ Object.defineProperty(exports, "__esModule", { value: true });
 exports.sourceRoleFor = exports.assessSourceCoverage = void 0;
 const editionFreshness_1 = require("./editionFreshness");
 const sourceRegistry_1 = require("./sourceRegistry");
+const profileMapping_1 = require("./profileMapping");
 const baseLaneRules = [
     {
         id: "global",
@@ -159,6 +160,70 @@ const assessSourceCoverage = (results, options = {}) => {
     };
 };
 exports.assessSourceCoverage = assessSourceCoverage;
+const specializedCategories = new Set([
+    "ai", "product", "technology", "education", "hr", "operations", "finance",
+    "healthcare", "ecommerce", "consumer", "creator", "startup", "design", "lightTrend"
+]);
+const publicCategories = new Set(["world", "china", "local", "policy", "disaster", "publicSafety"]);
+const unique = (items) => Array.from(new Set(items));
+const assessProfileCoverage = (candidates, labels, options = {}) => {
+    const minimumCandidates = options.minimumCandidates ?? 20;
+    const minimumSources = options.minimumSources ?? 3;
+    const minimumQualifiedCards = options.minimumQualifiedCards ?? 10;
+    return unique(labels).map((label) => {
+        const categories = (0, profileMapping_1.deriveTopicCategories)(label)
+            .filter((category) => specializedCategories.has(category));
+        const industries = (0, profileMapping_1.deriveTopicIndustryTags)(label)
+            .filter((industry) => industry !== "generalPublic" && industry !== "localLife");
+        const focusedSources = profileMapping_1.focusedSourceRequirements[label];
+        const matched = categories.length || industries.length
+            ? candidates.filter((candidate) => {
+                const candidateCategories = candidate.categories ?? [];
+                const candidateIndustries = (candidate.industries ?? [])
+                    .filter((industry) => industry !== "generalPublic" && industry !== "localLife");
+                const sourceIds = unique([
+                    ...(candidate.sourceIds ?? []),
+                    ...(candidate.sourceLinks ?? []).map((source) => source.sourceId).filter(Boolean)
+                ]);
+                if (focusedSources?.length && !sourceIds.some((sourceId) => focusedSources.includes(sourceId))) {
+                    return false;
+                }
+                const hasDomainCategory = candidateCategories.some((category) => specializedCategories.has(category));
+                const hasDomainMatch = candidateCategories.some((category) => categories.includes(category)) ||
+                    candidateIndustries.some((industry) => industries.includes(industry));
+                return hasDomainMatch && (!candidateCategories.some((category) => publicCategories.has(category)) || hasDomainCategory);
+            })
+            : [];
+        const sourceIds = unique(matched.flatMap((candidate) => [
+            ...(candidate.sourceIds ?? []),
+            ...(candidate.sourceLinks ?? []).map((source) => source.sourceId).filter(Boolean)
+        ]));
+        const qualifiedCandidateCount = matched.length;
+        const ready = Boolean(categories.length || industries.length) &&
+            qualifiedCandidateCount >= minimumCandidates &&
+            sourceIds.length >= minimumSources;
+        return {
+            label,
+            categories,
+            industries,
+            sourceIds,
+            candidateCount: candidates.length,
+            qualifiedCandidateCount,
+            qualifiedSourceCount: sourceIds.length,
+            minimumCandidates,
+            minimumSources,
+            minimumQualifiedCards,
+            ready,
+            status: !categories.length && !industries.length
+                ? "not-applicable"
+                : ready ? "ready" : qualifiedCandidateCount === 0 ? "no-current-input" : "insufficient-input",
+            note: ready
+                ? "候选数量和来源数量达到日报个性化门槛。"
+                : "不满足门槛时不得用其他行业内容补位；应发布同标签精简版或标记素材不足。"
+        };
+    });
+};
+exports.assessProfileCoverage = assessProfileCoverage;
 const sourceRoleFor = (sourceId) => sourceId.startsWith("city-news-rss:")
     ? "discovery"
     : sourceRegistry_1.sourceRegistry.find((source) => source.id === sourceId)?.role ?? "both";

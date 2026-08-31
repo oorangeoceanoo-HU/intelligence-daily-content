@@ -38,6 +38,14 @@ const calendarDay = (value) => {
         : undefined;
 };
 const compact = (value) => (value ?? "").replace(/\s+/gu, " ").trim();
+const countMatches = (value, pattern) => value.match(pattern)?.length ?? 0;
+const containsUntranslatedEnglish = (value, title = false) => {
+    const latinLetters = countMatches(value, /[A-Za-z]/g);
+    const cjkChars = countMatches(value, /[\u4e00-\u9fff]/g);
+    return title
+        ? latinLetters >= 12 && cjkChars === 0
+        : latinLetters >= 120 && latinLetters > cjkChars * 1.4;
+};
 const writeText = async (filePath, value) => {
     if (!nodeRequire) {
         throw new Error("Node runtime is required");
@@ -104,7 +112,7 @@ function inspectIssue(expectedDate, review, candidate) {
     const issueDay = calendarDay(expectedDate);
     let olderThanThreeDays = 0;
     if ((review.meta?.translation?.failed ?? 0) > 0) {
-        addFinding(findings, "blocker", "translation-failures", `有 ${review.meta?.translation?.failed} 条英文或多语言来源没有完成中文化，当前翻译通道为 ${review.meta?.translation?.provider ?? "unknown"}，不能按期发布。`);
+        addFinding(findings, "warning", "translation-failures", `有 ${review.meta?.translation?.failed} 条英文或多语言候选没有完成中文化，当前翻译通道为 ${review.meta?.translation?.provider ?? "unknown"}；这些候选已从最终日报排除。`);
     }
     if (review.meta?.editionMerge?.required && !review.meta.editionMerge.baseFound) {
         addFinding(findings, "blocker", "missing-base-edition", "午间或晚间更新没有找到当天更早且已批准的版次，不能把一小段增量内容当作完整日报发布。");
@@ -121,6 +129,18 @@ function inspectIssue(expectedDate, review, candidate) {
         }
         if (!compact(card.body.userRelevance)) {
             addFinding(findings, "blocker", "missing-user-relevance", "缺少直接面向用户的相关性说明。", card);
+        }
+        const cardFields = [
+            card.oneLine,
+            card.body.background,
+            card.body.keyProgress,
+            card.body.whyItMatters,
+            card.body.userRelevance,
+            card.body.whatToWatch
+        ].filter((value) => Boolean(value));
+        if (containsUntranslatedEnglish(card.title, true) ||
+            cardFields.some((value) => containsUntranslatedEnglish(value))) {
+            addFinding(findings, "blocker", "english-not-translated", "最终日报仍含明显未翻译的英文内容，不能发布。", card);
         }
         if (!card.sourceLinks.length) {
             addFinding(findings, "blocker", "missing-source", "没有可核验的原文来源。", card);

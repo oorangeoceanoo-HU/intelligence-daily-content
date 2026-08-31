@@ -114,11 +114,12 @@ const results = new Map(profiles.map(({ id, profile }) => [
 ]));
 const cardIdsFor = (id) => results.get(id)?.issue.cards.map((card) => card.id) ?? [];
 const hasCandidate = (id, candidateId) => cardIdsFor(id).includes(`draft-${candidateId}`);
-assert(hasCandidate("ai-user", "candidate-global-policy-energy"), "AI user lost the shared major event");
-assert(hasCandidate("teacher-user", "candidate-global-policy-energy"), "Teacher user lost the shared major event");
-assert(hasCandidate("uk-engineer-user", "candidate-global-policy-energy"), "UK user lost the shared major event");
+assert(!hasCandidate("ai-user", "candidate-global-policy-energy"), "A short AI issue should not be padded with public news");
+assert(!hasCandidate("teacher-user", "candidate-global-policy-energy"), "A short education issue should not be padded with public news");
+assert(!hasCandidate("uk-engineer-user", "candidate-global-policy-energy"), "A short local issue should not be padded with public news");
 assert(hasCandidate("ai-user", "candidate-ai-model-release"), "AI user did not receive the AI product item");
 assert(hasCandidate("teacher-user", "candidate-education-ai-guideline"), "Teacher user did not receive the education item");
+assert(!hasCandidate("teacher-user", "candidate-ai-model-release"), "Education-only user received an unrelated AI item");
 assert(hasCandidate("uk-engineer-user", "candidate-uk-local-policy"), "UK user did not receive the London item");
 assert((results.get("uk-engineer-user")?.summary.layerCounts.local ?? 0) >= 1, "UK user's London item was not counted in the local layer");
 const selectedFingerprints = profiles.map(({ id }) => cardIdsFor(id).join("|"));
@@ -126,7 +127,7 @@ assert(new Set(selectedFingerprints).size === profiles.length, "Different profil
 profiles.forEach(({ id }) => {
     const result = results.get(id);
     assert(result?.issue.userId === id, `${id} issue was assigned to another account`);
-    assert((result?.issue.cards.length ?? 0) >= 4, `${id} issue fell below the test minimum`);
+    assert((result?.issue.cards.length ?? 0) >= 1, `${id} did not receive any same-profile item`);
 });
 const feedbackResult = (0, personalizedIssue_1.buildPersonalizedDailyIssue)({
     userId: "ai-feedback-user",

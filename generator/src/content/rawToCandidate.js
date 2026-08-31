@@ -425,7 +425,9 @@ const govUkProfile = (item) => {
         }
     };
 };
-const moeProfile = (item) => ({
+const moeProfile = (item) => {
+    const isOfficialMinistrySource = item.sourceId === "moe-cn";
+    return ({
     categories: ["education", "policy", "china"],
     industries: ["teacher", "educationResearch", "generalPublic"],
     regions: ["中国"],
@@ -435,13 +437,16 @@ const moeProfile = (item) => ({
     trendScore: 58,
     oneLine: "这是一条教育 / 教师方向候选，适合用于发现教育政策、学校治理、学生发展和高校毕业生相关动态。",
     body: {
-        background: "教育部来源适合作为教师、教育从业者和教育研究用户的官方信息底座。",
+        background: isOfficialMinistrySource
+            ? "教育部来源适合作为教师、教育从业者和教育研究用户的官方信息底座。"
+            : "教育行业专业媒体来源适合作为教师、教育从业者和教育研究用户的每日线索池，重要事实仍需核对原始发布方。",
         keyProgress: compact(item.title),
         whyItMatters: "这类信息可能影响教学安排、学校治理、学生培养、职教专业设置或高校毕业生就业等判断。",
         userRelevance: "对教师、教育行业、教育研究和关注学生就业的用户更相关。",
         whatToWatch: "后续需要结合政策正文、地方教育部门执行细则和学校实际影响判断是否进入日报。"
     }
-});
+    });
+};
 const chrmProfile = (item) => {
     const locations = extractLocations(item);
     return {
@@ -1099,7 +1104,7 @@ const profileForRawItem = (item) => {
     if (item.sourceId === "xinhua-tech") {
         return xinhuaTechProfile(item);
     }
-    if (item.sourceId === "moe-cn") {
+    if (["moe-cn", "eol-education", "jyb-education"].includes(item.sourceId)) {
         return moeProfile(item);
     }
     if (item.sourceId === "chrm-mohrss" || item.sourceId === "mohrss-cn") {

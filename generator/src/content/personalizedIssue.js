@@ -32,7 +32,7 @@ const focusedIndustryRequirements = [
     {
         industries: ["teacher", "educationResearch"],
         categories: ["education"],
-        sourceIds: ["moe-cn", "cas-science-news", "arxiv-cs-api"]
+        sourceIds: ["moe-cn", "eol-education", "jyb-education", "cas-science-news", "arxiv-cs-api"]
     },
     {
         industries: ["hrRecruiting"],
@@ -165,13 +165,14 @@ const layerMatchesFor = (candidate, rankedCandidate, profile) => {
     const countries = [profile.country, profile.hometownCountry].filter(Boolean);
     const countryMatch = intersects(candidate.regions, countries);
     const professionalMatch = industryMatchesForProfile(candidate, profile).length > 0;
+    const localMatch = cityMatch || (countryMatch && candidate.categories.includes("local"));
     const sharedMatch = rankedCandidate.matchedLaneIds.includes("mustKnow") ||
         (rankedCandidate.matchedLaneIds.includes("risk") &&
             (candidate.impactScore >= 72 || candidate.severityScore >= 72));
     return {
         shared: sharedMatch,
         professional: professionalMatch,
-        local: cityMatch || countryMatch,
+        local: localMatch,
         trend: rankedCandidate.matchedLaneIds.includes("light")
     };
 };
@@ -232,8 +233,9 @@ const layerTargetsFor = (targetCount, availableProfessionalCount, enforceContent
     // The product promise is one public-news page plus two personalized
     // pages. Seven to eight cards keep the public page readable; the rest is
     // reserved for the user's selected professional directions.
-    const desiredGeneral = targetCount < 15
-        ? Math.min(targetCount, Math.max(1, Math.round(targetCount * 0.3)))
+    const minimumIndustryCardsForGeneralPage = 10;
+    const desiredGeneral = targetCount < 15 || availableProfessionalCount < minimumIndustryCardsForGeneralPage
+        ? 0
         : Math.min(8, Math.max(7, Math.round(targetCount * 0.3)));
     const maxGeneralForMix = enforceContentMix
         ? Math.max(0, Math.floor(availableProfessionalCount / 0.65) - availableProfessionalCount)
@@ -270,7 +272,7 @@ const selectBalancedItems = (ranked, targetCount, targets) => {
         });
     };
     const professional = ranked
-        .filter((item) => item.layerMatches.professional)
+        .filter((item) => item.layerMatches.professional || item.layerMatches.local)
         .sort((left, right) => right.adjustedScore - left.adjustedScore);
     const general = ranked
         .filter((item) => !item.layerMatches.professional &&
@@ -284,19 +286,11 @@ const selectBalancedItems = (ranked, targetCount, targets) => {
     // public stories. The general lane is capped at one page.
     take(professional, targets.professional, "professional");
     take(general, targets.general, "general");
-    // If the source pool is temporarily short, use remaining candidates only
-    // as an explicit fallback. The completeness check below will keep such an
-    // issue out of the personalized publication path.
-    ranked.forEach((item) => {
-        if (selected.length >= targetCount || selectedIds.has(item.candidate.id)) {
-            return;
-        }
-        selected.push({ ...item, selectedLayer: item.layerMatches.professional ? "professional" : "fallback" });
-        selectedIds.add(item.candidate.id);
-        if (item.layerMatches.professional) {
-            layerCounts.professional += 1;
-        }
-    });
+    // Unused general-page capacity may be filled only with additional matched
+    // professional/local cards, never with unrelated content.
+    take(professional, targetCount, "professional");
+    // Never fill a personalized issue with an unrelated industry. A short,
+    // honest issue is preferable to silently substituting public or AI cards.
     return { selected, layerCounts };
 };
 const relevanceTextFor = (item, profile) => {
@@ -330,9 +324,8 @@ const toRankedCardInput = (item, profile, homePage) => ({
     rankedCandidate: item.rankedCandidate,
     card: {
         ...item.card,
-        personalizationLayer: item.selectedLayer === "professional"
-            ? "industry"
-            : item.selectedLayer === "fallback" ? "fallback" : "general",
+        personalizationLayer: item.selectedLayer === "professional" ? "personalized" : "shared",
+        personalizationPage: homePage,
         homePage,
         importance: item.rankedCandidate.importanceScore.level,
         section: item.rankedCandidate.targetSection,
@@ -428,8 +421,8 @@ function buildPersonalizedDailyIssue(params) {
         ...params.profile.careerDirections,
         ...params.profile.interests
     ].join("|");
-    const mergedGeneralCardCount = merged.cards.filter((card) => card.personalizationLayer === "general").length;
-    const mergedIndustryCardCount = merged.cards.filter((card) => card.personalizationLayer === "industry").length;
+    const mergedGeneralCardCount = merged.cards.filter((card) => card.personalizationLayer === "shared" || card.personalizationLayer === "general").length;
+    const mergedIndustryCardCount = merged.cards.filter((card) => card.personalizationLayer === "personalized" || card.personalizationLayer === "industry").length;
     const mergedFallbackCardCount = merged.cards.filter((card) => card.personalizationLayer === "fallback").length;
     // The final card count can be lower than the candidate target after the
     // shared issue builder applies source and quality limits. Judge the mix on

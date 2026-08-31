@@ -90,8 +90,8 @@ const incrementalSingleGlobalSource = (0, sourceCoverage_1.assessSourceCoverage)
 assert.equal(incrementalSingleGlobalSource.currentCoverageReady, true, "a short incremental window accepts one current global source when the wider source pool is healthy");
 assert.equal(incrementalSingleGlobalSource.lanes.find((lane) => lane.id === "global")?.minimumCurrentSources, 1, "midday and evening use a one-source live-input threshold");
 const staleLiveCoverage = (0, sourceCoverage_1.assessSourceCoverage)([
-    result("xinhua-world", true, 1, "2026-08-15T19:00:00.000Z"),
-    result("npr-world-rss", true, 1, "2026-08-15T20:00:00.000Z"),
+    result("xinhua-world", true, 1, "2026-08-15T11:00:00.000Z"),
+    result("npr-world-rss", true, 1, "2026-08-15T12:00:00.000Z"),
     result("mfa-cn-news", true, 1, "2026-08-16T21:00:00.000Z"),
     result("mofcom-trade", true, 1, "2026-08-16T22:00:00.000Z"),
     result("mem-cn", true, 1, "2026-08-16T23:00:00.000Z"),

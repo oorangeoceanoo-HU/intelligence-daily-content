@@ -184,25 +184,65 @@ async function main() {
             source_generated_at: input.issue.generatedAt,
             generated_at: generatedAt
         };
+        const complete = (0, personalizedIssue_1.isCompletePersonalizedIssue)(result.issue) &&
+            result.summary.meetsContentMix &&
+            result.summary.fallbackCardCount === 0;
+        const industryOnlyCards = result.issue.cards.filter((card) => card.personalizationLayer === "personalized" || card.personalizationLayer === "industry");
+        const partial = !complete &&
+            result.summary.fallbackCardCount === 0 &&
+            industryOnlyCards.length > 0;
+        let publishedSummary = result.summary;
+        if (partial) {
+            const industryCardIds = new Set(industryOnlyCards.map((card) => card.id));
+            databaseRow.payload.issue = {
+                ...result.issue,
+                cards: industryOnlyCards,
+                pageCount: industryOnlyCards.length <= 8 ? 1 : industryOnlyCards.length <= 16 ? 2 : 3,
+                topCardId: industryOnlyCards.find((card) => card.importance === "S")?.id ?? industryOnlyCards[0].id,
+                estimatedReadMinutes: Math.max(1, Math.ceil(industryOnlyCards.length * 1.5)),
+                editionCardIds: result.issue.editionCardIds?.filter((id) => industryCardIds.has(id)),
+                carriedCardIds: result.issue.carriedCardIds?.filter((id) => industryCardIds.has(id))
+            };
+            publishedSummary = {
+                ...result.summary,
+                selectedCardCount: industryOnlyCards.length,
+                generalCardCount: 0,
+                industryCardCount: industryOnlyCards.length,
+                requiredIndustryCardCount: industryOnlyCards.length,
+                layerCounts: {
+                    ...result.summary.layerCounts,
+                    general: 0,
+                    industry: industryOnlyCards.length,
+                    shared: 0,
+                    professional: industryOnlyCards.length
+                },
+                mixReasons: [
+                    `行业素材不足完整三版，发布${industryOnlyCards.length}条同行业精简版`
+                ],
+                meetsContentMix: false
+            };
+            databaseRow.personalization_summary = publishedSummary;
+        }
+        databaseRow.payload.personalizationStatus = complete ? "complete" : partial ? "partial" : "deferred";
         return {
             profile,
             databaseRow,
-            summary: result.summary,
-            complete: (0, personalizedIssue_1.isCompletePersonalizedIssue)(result.issue) &&
-                result.summary.meetsContentMix &&
-                result.summary.fallbackCardCount === 0
+            summary: publishedSummary,
+            complete,
+            partial,
+            publishable: complete || partial
         };
     })
         .filter((entry) => entry.databaseRow.payload.issue.cards.length > 0);
     const generatedRows = personalizedRows
-        .filter((entry) => entry.complete)
+        .filter((entry) => entry.publishable)
         .map((entry) => entry.databaseRow);
     const deferredRows = personalizedRows
-        .filter((entry) => !entry.complete)
+        .filter((entry) => !entry.publishable)
         .map((entry) => entry.databaseRow);
     personalizedRows.forEach((entry) => {
         const summary = entry.summary;
-        const state = entry.complete ? "Generated" : "Deferred";
+        const state = entry.complete ? "Generated" : entry.partial ? "Generated partial" : "Deferred";
         const reason = summary.mixReasons?.length ? `; ${summary.mixReasons.join(" / ")}` : "";
         console.log(`${state} ${entry.databaseRow.user_id}: ${summary.selectedCardCount} cards; industry=${summary.industryCardCount}; general=${summary.generalCardCount}; fallback=${summary.fallbackCardCount}${reason}`);
     });
@@ -223,6 +263,8 @@ async function main() {
         profileCount: cohort.profiles.length,
         configuredProfileCount: cohort.profiles.filter((row) => isConfiguredProfile(toUserProfile(row))).length,
         publishedProfileCount: generatedRows.length,
+        completeProfileCount: personalizedRows.filter((entry) => entry.complete).length,
+        partialProfileCount: personalizedRows.filter((entry) => entry.partial).length,
         deferredProfileCount: deferredRows.length,
         dryRun: options.dryRun || Boolean(options.profilesFile),
         issues: generatedRows.map((row) => ({
@@ -252,7 +294,7 @@ async function main() {
     await fs.writeFile(path.resolve(options.output), `${JSON.stringify(report, null, 2)}\n`, "utf8");
     console.log(`Generated ${generatedRows.length} personalized issues for ${input.issue.date} ${input.meta.edition}.`);
     if (deferredRows.length) {
-        console.log(`Deferred ${deferredRows.length} incomplete personalized issues; those users keep the public fallback.`);
+        console.log(`Deferred ${deferredRows.length} personalized issues because no same-industry card was available.`);
     }
     console.log(`Report: ${path.resolve(options.output)}`);
 }

@@ -14,6 +14,8 @@ exports.fetchCityContentSource = fetchCityContentSource;
 exports.fetchMfaRawItems = fetchMfaRawItems;
 exports.fetchMofcomTradeRawItems = fetchMofcomTradeRawItems;
 exports.fetchMoeRawItems = fetchMoeRawItems;
+exports.fetchEolEducationRawItems = fetchEolEducationRawItems;
+exports.fetchJybEducationRawItems = fetchJybEducationRawItems;
 exports.fetchChrmRawItems = fetchChrmRawItems;
 exports.fetchMohrssRawItems = fetchMohrssRawItems;
 exports.fetchStatsDataRawItems = fetchStatsDataRawItems;
@@ -66,6 +68,10 @@ const sourceAliases = {
     tech: "xinhua-tech",
     education: "moe-cn",
     moe: "moe-cn",
+    eol: "eol-education",
+    "eol-education": "eol-education",
+    jyb: "jyb-education",
+    "jyb-education": "jyb-education",
     mohrss: "mohrss-cn",
     hr: "chrm-mohrss",
     chrm: "chrm-mohrss",
@@ -109,6 +115,8 @@ const sourceAliases = {
     "openai-news": "openai-news",
     "deepmind-blog": "deepmind-blog",
     "moe-cn": "moe-cn",
+    "eol-education": "eol-education",
+    "jyb-education": "jyb-education",
     "mohrss-cn": "mohrss-cn",
     "chrm-mohrss": "chrm-mohrss",
     "stats-cn-data": "stats-cn-data",
@@ -959,13 +967,13 @@ async function fetchMofcomTradeRawItems(limit) {
 }
 async function fetchMoeRawItems(limit) {
     const sourceId = "moe-cn";
-    const listUrl = "https://www.moe.gov.cn/jyb_xwfb/s5147/";
-    const html = await fetchText(listUrl);
+    const listUrl = sourceUrl(sourceId);
+    const html = await fetchChinesePage(listUrl);
     const fetchedAt = new Date().toISOString();
-    const links = htmlLinks(html, listUrl)
-        .filter((link) => /\/jyb_xwfb\/s5147\/20\d{4}\/t20\d{6}_\d+\.html$/.test(link.url))
+    const links = uniqueByUrl(htmlLinks(html, listUrl)
+        .filter((link) => /\/(?:jyb_xwfb\/(?:gzdt_gzdt|s271|s6192)|srcsite)\/[^?#]*t20\d{6}_\d+\.html$/u.test(link.url))
         .filter((link) => /教育|课堂|学校|教师|学生|高校|毕业生|职教|未成年人|专业|志愿|助学|基础教育|科学课/.test(link.title))
-        .slice(0, limit);
+    ).slice(0, limit);
     return links.map((link, index) => ({
         id: makeId(sourceId, link.url, index),
         sourceId,
@@ -974,6 +982,64 @@ async function fetchMoeRawItems(limit) {
         publishedAt: dateFromMoeUrl(link.url),
         language: "zh",
         summaryFromSource: "教育部新闻发布与媒体报道候选，用于教育政策、教师、学校和高校毕业生相关动态发现。",
+        rawText: link.title,
+        imageUrls: [],
+        fetchedAt
+    }));
+}
+async function fetchEolEducationRawItems(limit) {
+    const sourceId = "eol-education";
+    const listUrl = sourceUrl(sourceId);
+    const html = await fetchChinesePage(listUrl);
+    const fetchedAt = new Date().toISOString();
+    const entries = [...html.matchAll(/<div\s+class=["']list["'][^>]*>[\s\S]*?<div\s+class=["']fline["'][^>]*>[\s\S]*?<a\s+[^>]*href=["'](?<href>[^"']+)["'][^>]*>(?<title>[\s\S]*?)<\/a>[\s\S]*?<div\s+class=["']sline["'][^>]*>(?<summary>[\s\S]*?)<\/div>[\s\S]*?<span\s+class=["']origin["'][^>]*>(?<origin>[\s\S]*?)<\/span>[\s\S]*?<span\s+class=["']time["'][^>]*>(?<date>20\d{2}-\d{2}-\d{2})<\/span>/giu)]
+        .map((match) => {
+        const url = absoluteUrl(match.groups?.href ?? "", listUrl) ?? listUrl;
+        const title = stripTags(match.groups?.title ?? "");
+        const summary = stripTags(match.groups?.summary ?? "")
+            .replace(/\[\s*详细\s*\]\s*$/u, "")
+            .trim();
+        const origin = stripTags(match.groups?.origin ?? "");
+        return {
+            title,
+            url,
+            date: match.groups?.date,
+            summary,
+            origin
+        };
+    })
+        .filter((item) => item.title && item.url !== listUrl);
+    return uniqueByUrl(entries).slice(0, limit).map((item, index) => ({
+        id: makeId(sourceId, item.url, index),
+        sourceId,
+        title: item.title,
+        url: item.url,
+        publishedAt: item.date ? `${item.date}T00:00:00+08:00` : dateFromMoeUrl(item.url),
+        language: "zh",
+        summaryFromSource: compactText(item.summary),
+        rawText: [item.title, item.summary].filter(Boolean).join("。"),
+        author: item.origin || undefined,
+        imageUrls: [],
+        fetchedAt
+    }));
+}
+async function fetchJybEducationRawItems(limit) {
+    const sourceId = "jyb-education";
+    const listUrl = sourceUrl(sourceId);
+    const html = await fetchChinesePage(listUrl);
+    const fetchedAt = new Date().toISOString();
+    const excludedTitles = /习近平|总书记|党中央|全面从严治党|管党治党|思想伟力|二十届|党纪|党建/iu;
+    const links = uniqueByUrl(htmlLinks(html, listUrl)
+        .filter((link) => /\/rmtzgjyb\/20\d{4}\/t20\d{6}_\d+\.html$/u.test(link.url))
+        .filter((link) => !excludedTitles.test(link.title))).slice(0, limit);
+    return links.map((link, index) => ({
+        id: makeId(sourceId, link.url, index),
+        sourceId,
+        title: link.title,
+        url: link.url,
+        publishedAt: dateFromMoeUrl(link.url),
+        language: "zh",
+        summaryFromSource: "中国教育新闻网教育行业候选，用于教学实践、教师发展、学校治理和各学段教育动态发现。",
         rawText: link.title,
         imageUrls: [],
         fetchedAt
@@ -1208,6 +1274,8 @@ async function fetchRawContentSource(sourceId, limit) {
             "openai-news": (itemLimit) => fetchRssRawItems("openai-news", itemLimit),
             "deepmind-blog": (itemLimit) => fetchRssRawItems("deepmind-blog", itemLimit),
             "moe-cn": fetchMoeRawItems,
+            "eol-education": fetchEolEducationRawItems,
+            "jyb-education": fetchJybEducationRawItems,
             "mohrss-cn": fetchMohrssRawItems,
             "chrm-mohrss": fetchChrmRawItems,
             "stats-cn-data": fetchStatsDataRawItems,

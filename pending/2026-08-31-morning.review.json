@@ -1,31 +1,36 @@
 {
   "version": 1,
   "date": "2026-08-31",
-  "generatedAt": "2026-08-31T09:55:46.814Z",
-  "status": "blocked",
+  "generatedAt": "2026-08-31T10:14:19.281Z",
+  "status": "review",
   "reviewMode": "generated",
-  "candidateSha256": "a4550020c8e29a7c275d8c5817b0332a40605b17f07154323da629be6305dd3d",
+  "candidateSha256": "85facea8ebc13c24c3be5cbdafcfc0a4292571f2710d6b6bb6f5f295fc6b9423",
   "counts": {
-    "cards": 16,
+    "cards": 20,
     "pages": 3,
-    "rawItems": 78,
-    "freshCandidates": 56,
-    "publishableCards": 10,
-    "reviewableCards": 8,
-    "rejectedCards": 38,
-    "blockers": 1,
-    "warnings": 13
+    "rawItems": 79,
+    "freshCandidates": 68,
+    "publishableCards": 26,
+    "reviewableCards": 10,
+    "rejectedCards": 26,
+    "blockers": 0,
+    "warnings": 19
   },
   "findings": [
     {
-      "level": "blocker",
-      "code": "translation-failures",
-      "message": "有 28 条英文或多语言来源没有完成中文化，当前翻译通道为 openai-compatible，不能按期发布。"
+      "level": "warning",
+      "code": "repeated-why",
+      "message": "有 3 张卡片使用了完全相同的“为什么重要”文案，可能显得模板化。"
+    },
+    {
+      "level": "warning",
+      "code": "repeated-watch",
+      "message": "有 3 张卡片使用了完全相同的“接下来关注什么”文案，可能显得模板化。"
     },
     {
       "level": "warning",
       "code": "source-fetch-failures",
-      "message": "有 3 个来源抓取失败，需要确认是否影响当天覆盖面。"
+      "message": "有 2 个来源抓取失败，需要确认是否影响当天覆盖面。"
     },
     {
       "level": "warning",
@@ -36,29 +41,43 @@
       "level": "warning",
       "code": "card-needs-human-review",
       "message": "没有抓到完整正文，目前使用候选摘要回退。",
-      "cardId": "draft-real-france24-asia-pacific-rss-hplwk7",
-      "cardTitle": "尼泊尔暂无死亡报告，中国洪灾遇难人数逼近3000人，搜救工作仍在继续"
+      "cardId": "draft-real-france24-asia-pacific-rss-1j6fk74",
+      "cardTitle": "图片回顾：尼泊尔毁灭性洪水、多莉·帕顿去世以及法国龙卷风"
     },
     {
       "level": "warning",
       "code": "card-needs-human-review",
       "message": "原文信息量有限，需要确认是否足以支持卡片结论。",
-      "cardId": "draft-real-france24-asia-pacific-rss-hplwk7",
-      "cardTitle": "尼泊尔暂无死亡报告，中国洪灾遇难人数逼近3000人，搜救工作仍在继续"
+      "cardId": "draft-real-france24-asia-pacific-rss-1j6fk74",
+      "cardTitle": "图片回顾：尼泊尔毁灭性洪水、多莉·帕顿去世以及法国龙卷风"
     },
     {
       "level": "warning",
       "code": "card-needs-human-review",
       "message": "没有抓到完整正文，目前使用候选摘要回退。",
-      "cardId": "draft-real-france24-asia-pacific-rss-198e96j",
-      "cardTitle": "普京、习近平将出席中亚峰会，俄中寻求遏制西方影响力"
+      "cardId": "draft-cluster-real-france24-asia-pacific-rss-1b1d6tn",
+      "cardTitle": "尼泊尔与中国：死亡人数上升，3000人仍失踪"
     },
     {
       "level": "warning",
       "code": "card-needs-human-review",
       "message": "原文篇幅较短且不是官方或主流来源，需要发布前复核。",
-      "cardId": "draft-real-france24-asia-pacific-rss-198e96j",
-      "cardTitle": "普京、习近平将出席中亚峰会，俄中寻求遏制西方影响力"
+      "cardId": "draft-cluster-real-france24-asia-pacific-rss-1b1d6tn",
+      "cardTitle": "尼泊尔与中国：死亡人数上升，3000人仍失踪"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "没有抓到完整正文，目前使用候选摘要回退。",
+      "cardId": "draft-real-france24-middle-east-rss-b9xecc",
+      "cardTitle": "中东实时：德黑兰在美军首次对一个多月来未受打击的伊朗发动空袭后，对约旦和阿联酋境内的基地实施报复性打击"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "原文信息量有限，需要确认是否足以支持卡片结论。",
+      "cardId": "draft-real-france24-middle-east-rss-b9xecc",
+      "cardTitle": "中东实时：德黑兰在美军首次对一个多月来未受打击的伊朗发动空袭后，对约旦和阿联酋境内的基地实施报复性打击"
     },
     {
       "level": "warning",
@@ -73,20 +92,6 @@
       "message": "官方风险简报篇幅较短，但事实和处置动作完整，需要人工确认是否保留。",
       "cardId": "draft-real-mem-cn-jx33nx",
       "cardTitle": "国家防总、应急管理部针对海南启动防汛四级应急响应"
-    },
-    {
-      "level": "warning",
-      "code": "card-needs-human-review",
-      "message": "没有抓到完整正文，目前使用候选摘要回退。",
-      "cardId": "draft-real-france24-asia-pacific-rss-12vinhn",
-      "cardTitle": "尼泊尔开始大规模埋葬，洪水死亡人数已逾780人"
-    },
-    {
-      "level": "warning",
-      "code": "card-needs-human-review",
-      "message": "原文篇幅较短且不是官方或主流来源，需要发布前复核。",
-      "cardId": "draft-real-france24-asia-pacific-rss-12vinhn",
-      "cardTitle": "尼泊尔开始大规模埋葬，洪水死亡人数已逾780人"
     },
     {
       "level": "warning",
@@ -108,6 +113,34 @@
       "message": "原文信息量有限，需要确认是否足以支持卡片结论。",
       "cardId": "draft-real-xinhua-world-1wtf3s1",
       "cardTitle": "日本开始第23轮核污染水排海"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "没有抓到完整正文，目前使用候选摘要回退。",
+      "cardId": "draft-real-france24-middle-east-rss-ke777m",
+      "cardTitle": "内塔尼亚胡谴责约旦河西岸暴力事件"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "原文信息量有限，需要确认是否足以支持卡片结论。",
+      "cardId": "draft-real-france24-middle-east-rss-ke777m",
+      "cardTitle": "内塔尼亚胡谴责约旦河西岸暴力事件"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "没有抓到完整正文，目前使用候选摘要回退。",
+      "cardId": "draft-real-france24-middle-east-rss-bmvuk0",
+      "cardTitle": "内塔尼亚胡谴责定居者在约旦河西岸村庄的“暴力犯罪行为”"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "原文信息量有限，需要确认是否足以支持卡片结论。",
+      "cardId": "draft-real-france24-middle-east-rss-bmvuk0",
+      "cardTitle": "内塔尼亚胡谴责定居者在约旦河西岸村庄的“暴力犯罪行为”"
     }
   ]
 }

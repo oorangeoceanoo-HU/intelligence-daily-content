@@ -38,7 +38,7 @@
             "language": "zh",
             "originalLanguage": "zh",
             "translationStatus": "not-needed",
-            "fetchedAt": "2026-08-31T09:41:14.332Z",
+            "fetchedAt": "2026-08-31T10:08:57.949Z",
             "sourceMethod": "web",
             "verificationStatus": "confirmed"
           }
@@ -52,9 +52,59 @@
         "generatedAt": "2026-08-31T02:00:00.000Z"
       },
       {
-        "id": "draft-real-france24-asia-pacific-rss-198e96j",
-        "title": "普京、习近平将出席中亚峰会，俄中寻求遏制西方影响力",
-        "oneLine": "最新进展：普京、习近平将出席中亚峰会，俄中寻求遏制西方影响力。",
+        "id": "draft-real-cnbc-world-rss-15ohtgn",
+        "title": "美国-加拿大贸易战中新关税壁垒对经济关键金属的影响",
+        "oneLine": "政策变化：随着美国与加拿大因特朗普总统针对该国第二大贸易伙伴发动的新贸易战而面临数百亿美元的相互关税制裁，企业、经济学家和投资者再次投身于预测企业资产负债表和股价波动程度的博弈之中。",
+        "importance": "S",
+        "credibility": "待确认",
+        "tags": [
+          "S",
+          "mustKnow",
+          "industry",
+          "world",
+          "policy",
+          "finance"
+        ],
+        "industries": [
+          "generalPublic",
+          "financeInvestment",
+          "operationsGrowth",
+          "ecommerceRetail"
+        ],
+        "section": "front",
+        "body": {
+          "background": "税率在15%至50%不等的反制关税瞄准了进入加拿大的各类美国进口产品，包括乳制品、海鲜、家电、木材及纸制品和服装。在上周一新贸易战主导头条新闻时，市场出现了一些实时受益者。以钢铁和材料股为例，包括Nucor、Steel Dynamics、Cleveland-Cliffs和Century Aluminum在内的股票在上周一大幅上涨，此前由于市场预期新的美加协议将降低钢铝关税，这些股票在前一周曾下跌。",
+          "keyProgress": "截至8月28日的Morningstar数据显示，年初至今，两只ETF均跑赢标普500指数，其中SLX上涨超过28%，XLB上涨超过18%。美国政府宣布对多种加拿大商品征收50%的关税，加拿大随即宣布将于9月8日生效价值200亿美元的报复性关税。这些反制措施涵盖700多种美国商品，旨在与特朗普对加拿大葡萄酒、水泥、冰球棍等进口商品加征的关税规模相匹配。仅周一当天，VanEck钢铁ETF（SLX）就上涨1.6%，而State Street材料精选行业SPDR基金（XLB）盘中创下历史新高——超越了今年2月创下的前纪录——金属股及其他生产商集体反弹。",
+          "whyItMatters": "“美国-加拿大贸易战中新关税壁垒对经济关键金属的影响”如果继续发展，可能通过能源价格、航运、贸易、汇率或市场预期传导到国内。了解它的意义在于判断后续风险，而不只停留在事件本身。",
+          "userRelevance": "即使你不在美国，“美国-加拿大贸易战中新关税壁垒对经济关键金属的影响”也可能通过能源价格、国际航运、贸易成本和市场预期间接影响国内生活与工作判断。",
+          "whatToWatch": "接下来要看“美国-加拿大贸易战中新关税壁垒对经济关键金属的影响”是否出现更细的城市、行业、平台或企业数据，以及这一变化能否连续保持。"
+        },
+        "sourceLinks": [
+          {
+            "title": "CNBC World News RSS",
+            "url": "https://www.cnbc.com/2026/08/30/us-canada-trade-war-tariffs-steel-aluminum-metals-economy.html",
+            "sourceId": "cnbc-world-rss",
+            "publishedAt": "2026-08-30T13:00:01.000Z",
+            "language": "zh",
+            "originalLanguage": "en",
+            "translationStatus": "translated",
+            "fetchedAt": "2026-08-31T10:08:58.796Z",
+            "sourceMethod": "rss",
+            "verificationStatus": "pending"
+          }
+        ],
+        "images": [
+          {
+            "url": "https://image.cnbcfm.com/api/v1/image/108355083-17878322621787832258-48015435430-1080pnbcnews.jpg?v=1787832261&amp;w=750&amp;h=422&amp;vtcrop=y",
+            "sourceUrl": "https://www.cnbc.com/2026/08/30/us-canada-trade-war-tariffs-steel-aluminum-metals-economy.html"
+          }
+        ],
+        "generatedAt": "2026-08-31T02:00:00.000Z"
+      },
+      {
+        "id": "draft-real-france24-middle-east-rss-b9xecc",
+        "title": "中东实时：德黑兰在美军首次对一个多月来未受打击的伊朗发动空袭后，对约旦和阿联酋境内的基地实施报复性打击",
+        "oneLine": "政策变化：国际最新进展：周日，美军在霍尔木兹海峡打击了据称属于伊朗的火箭发射器，这是其一个月来的首次军事行动，打破了这场持续超过六个月的间歇性战争中的停火状态。",
         "importance": "S",
         "credibility": "待确认",
         "tags": [
@@ -68,38 +118,90 @@
         ],
         "section": "front",
         "body": {
-          "background": "国际主流媒体 RSS 用于补充全球突发、政策、贸易、能源和科技事件，不能单独替代事实确认。俄罗斯总统弗拉基米尔·普京和中国国家主席习近平将于周一抵达吉尔吉斯斯坦，出席为期两天的峰会，伊朗和印度领导人也将参加。此次会晤正值该集团试图在乌克兰战争、伊朗冲突以及与西方日益紧张的关系中展现团结一致的立场。",
-          "keyProgress": "重大国际变化可能通过外交、贸易、关税、能源、航运、安全或市场预期影响中国用户。这条信息已经命中中国、贸易、关税、能源或航运关联，需要进入中国用户的重点复核。继续核对官方表态和第二个可靠来源，并关注局势变化、政策生效时间及对中国的传导路径。",
-          "whyItMatters": "“普京、习近平将出席中亚峰会，俄中寻求遏制西方影响力”如果继续发展，可能通过能源价格、航运、贸易、汇率或市场预期传导到国内。了解它的意义在于判断后续风险，而不只停留在事件本身。",
-          "userRelevance": "即使你不在中国、印度、伊朗，“普京、习近平将出席中亚峰会，俄中寻求遏制西方影响力”也可能通过能源价格、国际航运、贸易成本和市场预期间接影响国内生活与工作判断。",
-          "whatToWatch": "接下来要看“普京、习近平将出席中亚峰会，俄中寻求遏制西方影响力”是否出现新的官方信息、后续行动，以及它与中国出行、贸易或公共判断的关联是否扩大。"
+          "background": "随后，伊朗于周一对约旦和阿联酋的军事基地发动袭击，称其行动属于合法自卫。重大国际变化可能通过外交、贸易、关税、能源、航运、安全或市场预期影响中国用户。是否推送取决于事件影响范围、严重程度，以及它是否会影响中国或形成全球共同认知。",
+          "keyProgress": "需继续核对官方表态和第二个可靠来源，并关注局势变化、政策生效时间及对中国的传导路径。",
+          "whyItMatters": "“中东实时：德黑兰在美军首次对一个多月来未受打击的伊朗发动空袭后，对约旦和阿联酋境内的基地实施报复”如果继续发展，可能通过能源价格、航运、贸易、汇率或市场预期传导到国内。了解它的意义在于判断后续风险，而不只停留在事件本身。",
+          "userRelevance": "即使你不在伊朗、霍尔木兹海峡，“中东实时：德黑兰在美军首次对一个多月来未受打击的伊朗发动空袭后，对约旦和阿联酋境内的基地实施报复”也可能通过能源价格、国际航运、贸易成本和市场预期间接影响国内生活与工作判断。",
+          "whatToWatch": "接下来要看“中东实时：德黑兰在美军首次对一个多月来未受打击的伊朗发动空袭后，对约旦和阿联酋境内的基地实施报复”是否出现新的官方信息、后续行动，以及它与中国出行、贸易或公共判断的关联是否扩大。"
         },
         "sourceLinks": [
           {
-            "title": "France 24 Asia-Pacific RSS",
-            "url": "https://www.france24.com/en/asia-pacific/20260830-putin-xi-set-for-central-asia-summit-as-russia-china-seek-to-counter-western-influence",
-            "sourceId": "france24-asia-pacific-rss",
-            "publishedAt": "2026-08-30T05:51:53.000Z",
+            "title": "France 24 Middle East RSS",
+            "url": "https://www.france24.com/en/middle-east/20260830-middle-east-live-us-strikes-iran-for-first-time-in-a-month",
+            "sourceId": "france24-middle-east-rss",
+            "publishedAt": "2026-08-30T23:02:17.000Z",
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-31T09:41:15.175Z",
+            "fetchedAt": "2026-08-31T10:08:58.736Z",
             "sourceMethod": "rss",
             "verificationStatus": "pending"
           }
         ],
         "images": [
           {
-            "url": "https://s.france24.com/media/display/32f6bdfa-a436-11f1-a03d-005056a97e36/w:1024/p:16x9/AP26140554039627.jpg",
-            "sourceUrl": "https://www.france24.com/en/asia-pacific/20260830-putin-xi-set-for-central-asia-summit-as-russia-china-seek-to-counter-western-influence"
+            "url": "https://s.france24.com/media/display/803bfff6-9ca4-11f1-a549-005056bf30b7/w:1024/p:16x9/2026-08-19T143107Z-71025016-RC2VXMAQM9SU-RTRMADP-3-IRAN-CRISIS-USA-CARRIER.jpg",
+            "sourceUrl": "https://www.france24.com/en/middle-east/20260830-middle-east-live-us-strikes-iran-for-first-time-in-a-month"
           }
         ],
         "generatedAt": "2026-08-31T02:00:00.000Z"
       },
       {
-        "id": "draft-real-france24-asia-pacific-rss-hplwk7",
-        "title": "尼泊尔暂无死亡报告，中国洪灾遇难人数逼近3000人，搜救工作仍在继续",
-        "oneLine": "最新进展：尼泊尔暂无死亡报告，中国洪灾遇难人数逼近3000人，搜救工作仍在继续。",
+        "id": "draft-real-npr-world-rss-1lfqkqv",
+        "title": "疑似在洪水中遇难的朝圣者家属迫切希望从尼泊尔传来消息",
+        "oneLine": "最新进展：疑似在洪水中遇难的朝圣者家属迫切希望从尼泊尔传来消息。",
+        "importance": "S",
+        "credibility": "主流媒体",
+        "tags": [
+          "S",
+          "mustKnow",
+          "risk",
+          "world",
+          "policy",
+          "disaster"
+        ],
+        "industries": [
+          "generalPublic",
+          "localLife"
+        ],
+        "section": "risk",
+        "body": {
+          "background": "皮戈特在接受ABC新闻《本周》采访时说：“我们目前已安全撤离九名美国人。他们最后已知位置是在洪水发生当天早晨靠近吉隆口岸边境检查站的地方。中国国家电视台央视发布的监控画面显示，一堵泥水墙冲击了建筑物。",
+          "keyProgress": "尼泊尔外交部秘书阿姆里特·巴哈杜尔·赖（Amrit Bahadur Rai）周日表示，在近30英尺高的洪水席卷山谷四天后，已找回734具遗体。红十字会估计，洪灾影响人数超过9万人。尼泊尔称已部署数千名救援人员，本周末仍有幸存者被发现。截至周日上午，据美国国务院发言人汤米·皮戈特（Tommy Pigott）称，仍有85名美国人下落不明。",
+          "whyItMatters": "“防汛与洪涝风险”的直接价值是帮助你判断是否需要调整出行、居住或工作安排。影响地区、持续时间、预警等级和官方避险建议比事件热度更重要。",
+          "userRelevance": "对于“防汛与洪涝风险”，如果你近期计划前往事发地区或与当地有工作、家人联系，需要留意后续预警；没有直接联系时，可把它作为区域风险背景了解。",
+          "whatToWatch": "接下来要看“防汛与洪涝风险”的影响范围是否扩大、预警等级是否变化，以及是否出现与你所在城市相关的提醒。"
+        },
+        "sourceLinks": [
+          {
+            "title": "NPR World RSS",
+            "url": "https://www.npr.org/2026/08/30/nx-s1-5949351/families-of-pilgrims-likely-caught-in-floods-are-desperate-for-news-from-nepal",
+            "sourceId": "npr-world-rss",
+            "publishedAt": "2026-08-30T23:32:39.000Z",
+            "language": "zh",
+            "originalLanguage": "en",
+            "translationStatus": "translated",
+            "fetchedAt": "2026-08-31T10:08:58.315Z",
+            "sourceMethod": "rss",
+            "verificationStatus": "confirmed"
+          }
+        ],
+        "images": [
+          {
+            "url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8640x5760+0+0/resize/1100/quality/50/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fa4%2F2b%2F143192c743568661f1a089d182fa%2Fnepal-floods-1.jpg",
+            "sourceUrl": "https://www.npr.org/2026/08/30/nx-s1-5949351/families-of-pilgrims-likely-caught-in-floods-are-desperate-for-news-from-nepal"
+          },
+          {
+            "url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3679x2453+0+0/resize/1100/quality/50/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F3f%2Ff4%2F056cf1f5467bbb7f844a6e0f4c3a%2Fap26241725230184.jpg",
+            "sourceUrl": "https://www.npr.org/2026/08/30/nx-s1-5949351/families-of-pilgrims-likely-caught-in-floods-are-desperate-for-news-from-nepal"
+          }
+        ],
+        "generatedAt": "2026-08-31T02:00:00.000Z"
+      },
+      {
+        "id": "draft-real-france24-asia-pacific-rss-1j6fk74",
+        "title": "图片回顾：尼泊尔毁灭性洪水、多莉·帕顿去世以及法国龙卷风",
+        "oneLine": "最新进展：图片回顾：尼泊尔毁灭性洪水、多莉·帕顿去世以及法国龙卷风。",
         "importance": "S",
         "credibility": "待确认",
         "tags": [
@@ -116,56 +218,8 @@
         ],
         "section": "risk",
         "body": {
-          "background": "国际主流媒体 RSS 用于补充全球突发、政策、贸易、能源和科技事件，不能单独替代事实确认。周六，尼泊尔和中国的救援人员继续搜寻上周初因中尼边境严重洪水而淹没多个村庄后失踪的近3000人。两国已至少找回682具遗体，其中尼泊尔675具，中国7具。",
-          "keyProgress": "重大国际变化可能通过外交、贸易、关税、能源、航运、安全或市场预期影响中国用户。这条信息已经命中中国、贸易、关税、能源或航运关联，需要进入中国用户的重点复核。继续核对官方表态和第二个可靠来源，并关注局势变化、政策生效时间及对中国的传导路径。",
-          "whyItMatters": "“尼泊尔暂无死亡报告，中国洪灾遇难人数逼近3000人，搜救工作仍在继续”的直接价值是帮助你判断是否需要调整出行、居住或工作安排。影响地区、持续时间、预警等级和官方避险建议比事件热度更重要。",
-          "userRelevance": "对于“尼泊尔暂无死亡报告，中国洪灾遇难人数逼近3000人，搜救工作仍在继续”，如果你近期计划前往事发地区或与当地有工作、家人联系，需要留意后续预警；没有直接联系时，可把它作为区域风险背景了解。",
-          "whatToWatch": "接下来要看“尼泊尔暂无死亡报告，中国洪灾遇难人数逼近3000人，搜救工作仍在继续”的影响范围是否扩大、预警等级是否变化，以及是否出现与你所在城市相关的提醒。"
-        },
-        "sourceLinks": [
-          {
-            "title": "France 24 Asia-Pacific RSS",
-            "url": "https://www.france24.com/en/asia-pacific/20260829-missing-toll-from-nepal-china-flood-nears-3-000-as-race-for-survivors-continues",
-            "sourceId": "france24-asia-pacific-rss",
-            "publishedAt": "2026-08-29T20:12:45.000Z",
-            "language": "zh",
-            "originalLanguage": "en",
-            "translationStatus": "translated",
-            "fetchedAt": "2026-08-31T09:41:15.175Z",
-            "sourceMethod": "rss",
-            "verificationStatus": "pending"
-          }
-        ],
-        "images": [
-          {
-            "url": "https://s.france24.com/media/display/e22b113e-a3e3-11f1-b707-005056a90284/w:1024/p:16x9/000-C6TD3PQ.jpg",
-            "sourceUrl": "https://www.france24.com/en/asia-pacific/20260829-missing-toll-from-nepal-china-flood-nears-3-000-as-race-for-survivors-continues"
-          }
-        ],
-        "generatedAt": "2026-08-31T02:00:00.000Z"
-      },
-      {
-        "id": "draft-real-france24-asia-pacific-rss-12vinhn",
-        "title": "尼泊尔开始大规模埋葬，洪水死亡人数已逾780人",
-        "oneLine": "最新进展：尼泊尔开始大规模埋葬，洪水死亡人数已逾780人。",
-        "importance": "A",
-        "credibility": "待确认",
-        "tags": [
-          "A",
-          "mustKnow",
-          "risk",
-          "world",
-          "disaster",
-          "publicSafety"
-        ],
-        "industries": [
-          "generalPublic",
-          "localLife"
-        ],
-        "section": "risk",
-        "body": {
-          "background": "国际主流媒体 RSS 用于补充全球突发、政策、贸易、能源和科技事件，不能单独替代事实确认。尼泊尔周日开始临时安葬从毁灭性洪灾中打捞出的数百具遗体中的部分尸体，此前已采集DNA样本并对遗骸进行标记，以便家属日后辨认和认领。救援行动进入第五天，夜间强降雨和河水上涨阻碍了救援人员前往被认为被困在隧道中的水电工人所在区域。",
-          "keyProgress": "重大国际变化可能通过外交、贸易、关税、能源、航运、安全或市场预期影响中国用户。是否推送取决于事件影响范围、严重程度，以及它是否会影响中国或形成全球共同认知。继续核对官方表态和第二个可靠来源，并关注局势变化、政策生效时间及对中国的传导路径。",
+          "background": "国际主流媒体RSS用于补充全球突发、政策、贸易、能源和科技事件，不可替代事实核查。回顾本周关键新闻与焦点画面：尼泊尔和中国西藏遭遇毁灭性洪水；中国举办的人形机器人世界大赛展现未来图景。",
+          "keyProgress": "重大国际变局可能通过外交、贸易、关税、能源、航运、安全或市场预期影响中国用户。该信息已命中中国、贸易、关税、能源或航运关联，需进入中国用户重点复核环节。继续核对官方表态及第二可靠信源，关注局势演变、政策生效时间及对华传导路径。",
           "whyItMatters": "“防汛与洪涝风险”的直接价值是帮助你判断是否需要调整出行、居住或工作安排。影响地区、持续时间、预警等级和官方避险建议比事件热度更重要。",
           "userRelevance": "对于“防汛与洪涝风险”，如果你近期计划前往事发地区或与当地有工作、家人联系，需要留意后续预警；没有直接联系时，可把它作为区域风险背景了解。",
           "whatToWatch": "接下来要看“防汛与洪涝风险”的影响范围是否扩大、预警等级是否变化，以及是否出现与你所在城市相关的提醒。"
@@ -173,21 +227,85 @@
         "sourceLinks": [
           {
             "title": "France 24 Asia-Pacific RSS",
-            "url": "https://www.france24.com/en/asia-pacific/20260830-nepal-tibet-floods-live-at-least-750-dead-as-death-toll-rises",
+            "url": "https://www.france24.com/en/asia-pacific/20260830-week-in-pictures-devastating-floods-in-nepal-death-of-dolly-parton-and-a-tornado-in-france",
             "sourceId": "france24-asia-pacific-rss",
-            "publishedAt": "2026-08-30T04:59:36.000Z",
+            "publishedAt": "2026-08-30T14:47:03.000Z",
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-08-31T09:41:15.175Z",
+            "fetchedAt": "2026-08-31T10:08:58.744Z",
             "sourceMethod": "rss",
             "verificationStatus": "pending"
           }
         ],
         "images": [
           {
-            "url": "https://s.france24.com/media/display/0035e18e-a463-11f1-9afb-005056bf30b7/w:1024/p:16x9/000-C6UC2WP.jpg",
-            "sourceUrl": "https://www.france24.com/en/asia-pacific/20260830-nepal-tibet-floods-live-at-least-750-dead-as-death-toll-rises"
+            "url": "https://s.france24.com/media/display/d84781c4-a2c7-11f1-9d84-005056a90284/w:1024/p:16x9/000-C6LA6TD-1.jpg",
+            "sourceUrl": "https://www.france24.com/en/asia-pacific/20260830-week-in-pictures-devastating-floods-in-nepal-death-of-dolly-parton-and-a-tornado-in-france"
+          }
+        ],
+        "generatedAt": "2026-08-31T02:00:00.000Z"
+      },
+      {
+        "id": "draft-cluster-real-france24-asia-pacific-rss-1b1d6tn",
+        "title": "尼泊尔与中国：死亡人数上升，3000人仍失踪",
+        "oneLine": "风险提醒：尼泊尔与西藏边境救援受阻，洪灾死亡人数升至750人 周日，受大雨和河流水位上涨影响，尼泊尔及中国西藏地区的救援与救灾工作被迫中断。",
+        "importance": "S",
+        "credibility": "待确认",
+        "tags": [
+          "S",
+          "mustKnow",
+          "risk",
+          "world",
+          "policy",
+          "disaster"
+        ],
+        "industries": [
+          "generalPublic",
+          "localLife"
+        ],
+        "section": "risk",
+        "body": {
+          "background": "尼泊尔灾害管理部门呼吁救援队伍“谨慎行动”，并警告称，恶劣天气、河水暴涨以及进一步发生洪水的威胁可能严重妨碍救援作业。沙扎布·瓦赫拉（Shazab Wahla）从比杜尔镇发回报道。**与中国关联及后续风险：** 该事件涉及跨境地理区域，重大国际变化可能通过外交、贸易、关税、能源、航运或市场预期等渠道影响中国用户。",
+          "keyProgress": "鉴于此信息已命中与中国相关的潜在传导路径，需进入重点复核程序。建议继续核对官方表态及第二个可靠来源，密切关注局势演变、政策生效时间及其对中国的实际影响。",
+          "whyItMatters": "“尼泊尔与中国：死亡人数上升，3000人仍失踪”的直接价值是帮助你判断是否需要调整出行、居住或工作安排。影响地区、持续时间、预警等级和官方避险建议比事件热度更重要。",
+          "userRelevance": "对于“尼泊尔与中国：死亡人数上升，3000人仍失踪”，如果你近期计划前往事发地区或与当地有工作、家人联系，需要留意后续预警；没有直接联系时，可把它作为区域风险背景了解。",
+          "whatToWatch": "接下来要看“尼泊尔与中国：死亡人数上升，3000人仍失踪”的影响范围是否扩大、预警等级是否变化，以及是否出现与你所在城市相关的提醒。"
+        },
+        "sourceLinks": [
+          {
+            "title": "France 24 Asia-Pacific RSS",
+            "url": "https://www.france24.com/en/death-toll-rises-as-3-000-remain-missing-in-nepal-china",
+            "sourceId": "france24-asia-pacific-rss",
+            "publishedAt": "2026-08-30T08:37:04.000Z",
+            "language": "zh",
+            "originalLanguage": "en",
+            "translationStatus": "translated",
+            "fetchedAt": "2026-08-31T10:08:58.744Z",
+            "sourceMethod": "rss",
+            "verificationStatus": "pending"
+          },
+          {
+            "title": "France 24 Asia-Pacific RSS",
+            "url": "https://www.france24.com/en/nepal-glacial-collapse-leaves-3-000-missing",
+            "sourceId": "france24-asia-pacific-rss",
+            "publishedAt": "2026-08-30T09:16:08.000Z",
+            "language": "zh",
+            "originalLanguage": "en",
+            "translationStatus": "translated",
+            "fetchedAt": "2026-08-31T10:08:58.744Z",
+            "sourceMethod": "rss",
+            "verificationStatus": "pending"
+          }
+        ],
+        "images": [
+          {
+            "url": "https://s.france24.com/media/display/ca458a7e-a44a-11f1-927b-005056bf30b7/w:1024/p:16x9/EN-20260830-090302-090512-CS.jpg",
+            "sourceUrl": "https://www.france24.com/en/death-toll-rises-as-3-000-remain-missing-in-nepal-china"
+          },
+          {
+            "url": "https://s.france24.com/media/display/c4cbf6d4-a452-11f1-9422-005056bf30b7/w:1024/p:16x9/EN-20260830-100419-100544-CS.jpg",
+            "sourceUrl": "https://www.france24.com/en/nepal-glacial-collapse-leaves-3-000-missing"
           }
         ],
         "generatedAt": "2026-08-31T02:00:00.000Z"
@@ -224,7 +342,7 @@
             "language": "zh",
             "originalLanguage": "zh",
             "translationStatus": "not-needed",
-            "fetchedAt": "2026-08-31T09:41:14.332Z",
+            "fetchedAt": "2026-08-31T10:08:57.949Z",
             "sourceMethod": "web",
             "verificationStatus": "confirmed"
           }
@@ -250,7 +368,7 @@
         "section": "front",
         "body": {
           "background": "在可再生能源、资源循环利用等领域实施更多标志性项目，落实好绿色矿产合作文件，开展全产业链合作；扎帕罗夫代表吉政府和人民向中国西藏吉隆遭受泥石流灾害致以深切慰问。习近平对此表示感谢，指出中国党和政府正全力做好国内外失联人员搜救、受灾群众转移安置、伤员救治及防范次生灾害等工作，也向尼泊尔提供了紧急援助。",
-          "keyProgress": "吉方也正在全力实施“2030年前国家发展纲要”。中方愿同吉方携手并肩，加强发展战略对接，深化治国理政经验交流，打造更多可感可及的务实合作成果，推动中吉命运共同体建设走深走实。习近平指出，中吉双方要深化两国务实合作，落实好两国政府间经贸合作规划，丰富贸易品类，拓展数字贸易、跨境电商等新增长点；高质量建好中吉乌铁路这条承载着地区人民发展希望的“交通大动脉”，实施口岸现代化改造，深化制度、标准、规则等“软联通”；",
+          "keyProgress": "吉方也正在全力实施“2030年前国家发展纲要”。中方愿同吉方携手并肩，加强发展战略对接，深化治国理政经验交流，打造更多可感可及的务实合作成果，推动中吉命运共同体建设走深走实。高质量建好中吉乌铁路这条承载着地区人民发展希望的“交通大动脉”，实施口岸现代化改造，深化制度、标准、规则等“软联通”；中方支持吉方在国际和地区事务中发挥更大作用，愿同吉方在联合国框架内进一步加强协作，共同践行四大全球倡议，反对霸权主义和强权政治，坚持真正的多边主义，维护国际公平正义，推动构建更加公正合理的全球治理体系。",
           "whyItMatters": "“高清大图丨扎帕罗夫总统为习近平举行欢迎仪式”如果继续发展，可能通过能源价格、航运、贸易、汇率或市场预期传导到国内。了解它的意义在于判断后续风险，而不只停留在事件本身。",
           "userRelevance": "即使你不在事发地区，“高清大图丨扎帕罗夫总统为习近平举行欢迎仪式”也可能通过能源价格、国际航运、贸易成本和市场预期间接影响国内生活与工作判断。",
           "whatToWatch": "接下来要看“高清大图丨扎帕罗夫总统为习近平举行欢迎仪式”是否出现新的官方信息、后续行动，以及它与中国出行、贸易或公共判断的关联是否扩大。"
@@ -264,7 +382,7 @@
             "language": "zh",
             "originalLanguage": "zh",
             "translationStatus": "not-needed",
-            "fetchedAt": "2026-08-31T09:41:14.332Z",
+            "fetchedAt": "2026-08-31T10:08:57.949Z",
             "sourceMethod": "web",
             "verificationStatus": "confirmed"
           },
@@ -276,12 +394,33 @@
             "language": "zh",
             "originalLanguage": "zh",
             "translationStatus": "not-needed",
-            "fetchedAt": "2026-08-31T09:41:14.332Z",
+            "fetchedAt": "2026-08-31T10:08:57.949Z",
             "sourceMethod": "web",
             "verificationStatus": "confirmed"
           }
         ],
-        "images": [],
+        "images": [
+          {
+            "url": "https://www.news.cn/world/20260831/f08d3eed2e8545739985c7d65c14e542/zKgczaT75Xev7k4S.jpg",
+            "sourceUrl": "https://www.news.cn/world/20260831/f08d3eed2e8545739985c7d65c14e542/c.html"
+          },
+          {
+            "url": "https://www.news.cn/world/20260831/f08d3eed2e8545739985c7d65c14e542/gPBLkT1FbVtxDv9w.jpg",
+            "sourceUrl": "https://www.news.cn/world/20260831/f08d3eed2e8545739985c7d65c14e542/c.html"
+          },
+          {
+            "url": "https://www.news.cn/world/20260831/f08d3eed2e8545739985c7d65c14e542/FltBNAtAsq6M9zVz.jpg",
+            "sourceUrl": "https://www.news.cn/world/20260831/f08d3eed2e8545739985c7d65c14e542/c.html"
+          },
+          {
+            "url": "https://www.news.cn/world/20260831/f08d3eed2e8545739985c7d65c14e542/l6IrCRqqFgJewmMX.jpg",
+            "sourceUrl": "https://www.news.cn/world/20260831/f08d3eed2e8545739985c7d65c14e542/c.html"
+          },
+          {
+            "url": "https://www.news.cn/world/20260831/f08d3eed2e8545739985c7d65c14e542/DH6Dudh2ZNEDAM6t.jpg",
+            "sourceUrl": "https://www.news.cn/world/20260831/f08d3eed2e8545739985c7d65c14e542/c.html"
+          }
+        ],
         "generatedAt": "2026-08-31T02:00:00.000Z"
       },
       {
@@ -316,12 +455,56 @@
             "language": "zh",
             "originalLanguage": "zh",
             "translationStatus": "not-needed",
-            "fetchedAt": "2026-08-31T09:41:14.332Z",
+            "fetchedAt": "2026-08-31T10:08:57.949Z",
             "sourceMethod": "web",
             "verificationStatus": "confirmed"
           }
         ],
         "images": [],
+        "generatedAt": "2026-08-31T02:00:00.000Z"
+      },
+      {
+        "id": "draft-real-un-news-rss-126rqxp",
+        "title": "“湖泊是我们的生命”：保护乌干达共享的生命线",
+        "oneLine": "最新进展：“湖泊是我们的生命”：保护乌干达共享的生命线。",
+        "importance": "B",
+        "credibility": "官方来源",
+        "tags": [
+          "B",
+          "mustKnow",
+          "world"
+        ],
+        "industries": [
+          "generalPublic"
+        ],
+        "section": "front",
+        "body": {
+          "background": "根据联合国环境规划署（UNEP）和联合国水机制2024年发布的一份报告，在居住着9310万人的地区，地表水体正在萎缩或完全消失，而超过四分之一的区域因污染而变得越来越浑浊。渔民们进入湖中捕鱼，而围绕阿尔贝特湖的家庭则依赖湖水获取食物、收入以及日常生存所需。然而，在这些日常活动背后，一个日益显现的威胁正浮出水面：塑料垃圾和其他碎片不断涌入阿尔贝特湖。",
+          "keyProgress": "与本地渔民一样，联合国也警告称，近几十年来，由于污染和环境退化，淡水物种数量正在下降。当地渔业社区领导人警告称，若不采取紧急行动，污染可能危及鱼类资源，进而影响未来几代人的生计。为庆祝每年8月27日的“世界湖泊日”，阿尔贝特湖渔民主席所罗门·瓦马拉表示，社区不能一边将湖泊视为生计来源，一边任由其被废弃物填满。“这是一个凸显我们生命线——这座湖泊所面临威胁的好时机。",
+          "whyItMatters": "“湖泊是我们的生命：保护乌干达共享的生命线”如果继续发展，可能通过能源价格、航运、贸易、汇率或市场预期传导到国内。了解它的意义在于判断后续风险，而不只停留在事件本身。",
+          "userRelevance": "即使你不在事发地区，“湖泊是我们的生命：保护乌干达共享的生命线”也可能通过能源价格、国际航运、贸易成本和市场预期间接影响国内生活与工作判断。",
+          "whatToWatch": "接下来要看“湖泊是我们的生命：保护乌干达共享的生命线”是否出现新的官方信息、后续行动，以及它与中国出行、贸易或公共判断的关联是否扩大。"
+        },
+        "sourceLinks": [
+          {
+            "title": "联合国新闻 RSS",
+            "url": "https://news.un.org/feed/view/en/story/2026/08/1168228",
+            "sourceId": "un-news-rss",
+            "publishedAt": "2026-08-30T12:00:00.000Z",
+            "language": "zh",
+            "originalLanguage": "en",
+            "translationStatus": "translated",
+            "fetchedAt": "2026-08-31T10:08:58.971Z",
+            "sourceMethod": "rss",
+            "verificationStatus": "confirmed"
+          }
+        ],
+        "images": [
+          {
+            "url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/08/26-08-2026_Uganda_Lake_Albert_fishing_nets.jpg/image560x340cropped.jpg",
+            "sourceUrl": "https://news.un.org/feed/view/en/story/2026/08/1168228"
+          }
+        ],
         "generatedAt": "2026-08-31T02:00:00.000Z"
       },
       {
@@ -358,7 +541,7 @@
             "language": "zh",
             "originalLanguage": "zh",
             "translationStatus": "not-needed",
-            "fetchedAt": "2026-08-31T09:41:11.676Z",
+            "fetchedAt": "2026-08-31T10:08:55.869Z",
             "sourceMethod": "web",
             "verificationStatus": "confirmed"
           },
@@ -370,7 +553,7 @@
             "language": "zh",
             "originalLanguage": "zh",
             "translationStatus": "not-needed",
-            "fetchedAt": "2026-08-31T09:41:11.676Z",
+            "fetchedAt": "2026-08-31T10:08:55.869Z",
             "sourceMethod": "web",
             "verificationStatus": "confirmed"
           }
@@ -412,7 +595,7 @@
             "language": "zh",
             "originalLanguage": "zh",
             "translationStatus": "not-needed",
-            "fetchedAt": "2026-08-31T09:41:11.676Z",
+            "fetchedAt": "2026-08-31T10:08:55.869Z",
             "sourceMethod": "web",
             "verificationStatus": "confirmed"
           }
@@ -454,7 +637,7 @@
             "language": "zh",
             "originalLanguage": "zh",
             "translationStatus": "not-needed",
-            "fetchedAt": "2026-08-31T09:41:11.676Z",
+            "fetchedAt": "2026-08-31T10:08:55.869Z",
             "sourceMethod": "web",
             "verificationStatus": "confirmed"
           }
@@ -496,7 +679,7 @@
             "language": "zh",
             "originalLanguage": "zh",
             "translationStatus": "not-needed",
-            "fetchedAt": "2026-08-31T09:41:11.676Z",
+            "fetchedAt": "2026-08-31T10:08:55.869Z",
             "sourceMethod": "web",
             "verificationStatus": "confirmed"
           }
@@ -541,7 +724,7 @@
             "language": "zh",
             "originalLanguage": "zh",
             "translationStatus": "not-needed",
-            "fetchedAt": "2026-08-31T09:41:14.709Z",
+            "fetchedAt": "2026-08-31T10:08:58.434Z",
             "sourceMethod": "web",
             "verificationStatus": "confirmed"
           }
@@ -586,7 +769,7 @@
             "language": "zh",
             "originalLanguage": "zh",
             "translationStatus": "not-needed",
-            "fetchedAt": "2026-08-31T09:41:14.709Z",
+            "fetchedAt": "2026-08-31T10:08:58.434Z",
             "sourceMethod": "web",
             "verificationStatus": "confirmed"
           },
@@ -598,7 +781,7 @@
             "language": "zh",
             "originalLanguage": "zh",
             "translationStatus": "not-needed",
-            "fetchedAt": "2026-08-31T09:41:14.709Z",
+            "fetchedAt": "2026-08-31T10:08:58.434Z",
             "sourceMethod": "web",
             "verificationStatus": "confirmed"
           }
@@ -648,7 +831,7 @@
             "language": "zh",
             "originalLanguage": "zh",
             "translationStatus": "not-needed",
-            "fetchedAt": "2026-08-31T09:41:14.709Z",
+            "fetchedAt": "2026-08-31T10:08:58.434Z",
             "sourceMethod": "web",
             "verificationStatus": "confirmed"
           }
@@ -698,7 +881,7 @@
             "language": "zh",
             "originalLanguage": "zh",
             "translationStatus": "not-needed",
-            "fetchedAt": "2026-08-31T09:41:14.709Z",
+            "fetchedAt": "2026-08-31T10:08:58.434Z",
             "sourceMethod": "web",
             "verificationStatus": "confirmed"
           }
@@ -748,7 +931,7 @@
             "language": "zh",
             "originalLanguage": "zh",
             "translationStatus": "not-needed",
-            "fetchedAt": "2026-08-31T09:41:36.842Z",
+            "fetchedAt": "2026-08-31T10:09:09.604Z",
             "sourceMethod": "web",
             "verificationStatus": "confirmed"
           }
@@ -776,9 +959,55 @@
           }
         ],
         "generatedAt": "2026-08-31T02:00:00.000Z"
+      },
+      {
+        "id": "draft-real-cas-science-news-12fs2xt",
+        "title": "三维磁重联与太阳耀斑精细结构研究取得进展",
+        "oneLine": "趋势信号：磁重联普遍发生于日冕、恒星冕、行星磁层、吸积盘及实验室等离子体等磁化等离子体系统，是解析太阳与恒星大气磁能积累和爆发释放的关键物理过程。",
+        "importance": "B",
+        "credibility": "官方来源",
+        "tags": [
+          "B",
+          "industry",
+          "technology",
+          "education"
+        ],
+        "industries": [
+          "technologyEngineering",
+          "educationResearch"
+        ],
+        "section": "industry",
+        "body": {
+          "background": "太阳耀斑是开展三维磁重联观测研究、验证理论模型的典型天体物理爆发现象。近日，中国科学院国家空间科学中心等利用IRIS卫星过去12年超高时间分辨率（1至2秒）的观测数据，发现耀斑带亮核表现出快速“眨眼”过程，即单个亮核发生准周期地明暗变化，周期约为6至24秒。同时，部分亮核沿耀斑带发生滑动运动，滑动速度为20至1800公里/秒。",
+          "keyProgress": "已有理论模型认为，重联电流片由撕裂模不稳定性催生大量小磁岛，磁岛的形成与合并致使磁重联具有脉冲爆发式特征。本研究发现，耀斑带亮核同时存在滑动及“眨眼”过程，揭示磁重联具有磁岛介导和三维的双重属性，证实了三维脉冲爆发式磁重联的理论模型。磁重联导致磁能快速释放，转化为等离子体的动能和热能。目前，二维磁重联过程的认识已较为清楚，三维磁重联仍认知不足。",
+          "whyItMatters": "“三维磁重联与太阳耀斑精细结构研究取得进展”提供了一个具体的研究进展信号。它是否重要，要看实验指标、可复现性、开源材料和真实应用，而不能只看论文标题。",
+          "userRelevance": "如果你从事科研、工程或正在攻读相关学位，可以重点查看“三维磁重联与太阳耀斑精细结构研究取得进展”的实验条件、指标和可复现性；其他用户可把它作为技术趋势背景了解。",
+          "whatToWatch": "接下来要看“三维磁重联与太阳耀斑精细结构研究取得进展”是否公开论文全文、代码或完整实验条件，以及是否得到独立复现和实际应用。"
+        },
+        "sourceLinks": [
+          {
+            "title": "中国科学院科研动态",
+            "url": "https://www.cas.cn/syky/202608/t20260831_5119330.shtml",
+            "sourceId": "cas-science-news",
+            "publishedAt": "2026-08-31T00:00:00+08:00",
+            "language": "zh",
+            "originalLanguage": "zh",
+            "translationStatus": "not-needed",
+            "fetchedAt": "2026-08-31T10:08:55.469Z",
+            "sourceMethod": "web",
+            "verificationStatus": "confirmed"
+          }
+        ],
+        "images": [
+          {
+            "url": "https://www.cas.cn/syky/202608/W020260831519116349912.png",
+            "sourceUrl": "https://www.cas.cn/syky/202608/t20260831_5119330.shtml"
+          }
+        ],
+        "generatedAt": "2026-08-31T02:00:00.000Z"
       }
     ],
-    "estimatedReadMinutes": 22,
+    "estimatedReadMinutes": 28,
     "pageCount": 3,
     "topCardId": "draft-real-xinhua-world-1plhvj7",
     "generatedAt": "2026-08-31T02:00:00.000Z",
@@ -795,12 +1024,15 @@
     },
     "editionCardIds": [
       "draft-real-xinhua-world-1plhvj7",
-      "draft-real-france24-asia-pacific-rss-198e96j",
-      "draft-real-france24-asia-pacific-rss-hplwk7",
-      "draft-real-france24-asia-pacific-rss-12vinhn",
+      "draft-real-cnbc-world-rss-15ohtgn",
+      "draft-real-france24-middle-east-rss-b9xecc",
+      "draft-real-npr-world-rss-1lfqkqv",
+      "draft-real-france24-asia-pacific-rss-1j6fk74",
+      "draft-cluster-real-france24-asia-pacific-rss-1b1d6tn",
       "draft-real-xinhua-world-1tgmqos",
       "draft-cluster-real-xinhua-world-1543jb2",
       "draft-real-xinhua-world-15spdzs",
+      "draft-real-un-news-rss-126rqxp",
       "draft-cluster-real-mem-cn-1vdxe3s",
       "draft-real-mem-cn-jx33nx",
       "draft-real-mem-cn-2vq085",
@@ -809,7 +1041,8 @@
       "draft-cluster-real-xinhua-tech-xpy77s",
       "draft-real-xinhua-tech-iw7854",
       "draft-real-xinhua-tech-11t1ajn",
-      "draft-real-stats-cn-data-1dappmy"
+      "draft-real-stats-cn-data-1dappmy",
+      "draft-real-cas-science-news-12fs2xt"
     ],
     "carriedCardIds": []
   }

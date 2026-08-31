@@ -85,60 +85,17 @@ const cardScore = (card, newCardIds) => importanceWeight[card.importance] +
     sectionWeight[card.section] +
     (newCardIds.has(card.id) ? 90 : 0) +
     publishedTimestamp(card) / 1e12;
-const readingOrder = (cards) => [...cards].sort((left, right) => {
-    const leftPage = Number.isFinite(left.homePage) ? left.homePage : 0;
-    const rightPage = Number.isFinite(right.homePage) ? right.homePage : 0;
-    if (leftPage !== rightPage) {
-        return leftPage - rightPage;
-    }
-    return importanceWeight[right.importance] - importanceWeight[left.importance];
-});
 const capCards = (cards, newCardIds, maxCards) => [...cards]
     .sort((left, right) => cardScore(right, newCardIds) - cardScore(left, newCardIds))
     .slice(0, maxCards);
-const mergeEquivalentCards = (left, right) => {
-    const preferred = cardTextLength(right) > cardTextLength(left) ? right : left;
-    const sourceLinks = [...(left.sourceLinks ?? []), ...(right.sourceLinks ?? [])]
-        .filter((source, index, sources) => sources.findIndex((item) => item.url === source.url) === index);
-    const images = [...(left.images ?? []), ...(right.images ?? [])]
-        .filter((image, index, values) => values.findIndex((item) => item.url === image.url) === index);
-    return {
-        ...preferred,
-        sourceLinks,
-        images,
-        tags: [...new Set([...(left.tags ?? []), ...(right.tags ?? [])])].slice(0, 8)
-    };
-};
-const normalizedCardTitle = (card) => (card.title ?? "")
-    .toLocaleLowerCase()
-    .replace(/[^\p{L}\p{N}]+/gu, "")
-    .trim();
-const sameDedupableEvent = (left, right) => {
-    const leftUrls = sourceUrls(left);
-    return right.sourceLinks.some((source) => leftUrls.has(source.url)) ||
-        sameAnchoredEvent(left, right) ||
-        normalizedCardTitle(left) === normalizedCardTitle(right);
-};
-const dedupeEventCards = (cards) => {
-    const result = [];
-    cards.forEach((card) => {
-        const duplicateIndex = result.findIndex((existing) => sameDedupableEvent(existing, card));
-        if (duplicateIndex < 0) {
-            result.push(card);
-            return;
-        }
-        result[duplicateIndex] = mergeEquivalentCards(result[duplicateIndex], card);
-    });
-    return result;
-};
 const mergeEditionIssue = (params) => {
-    const incoming = dedupeEventCards(params.incrementalIssue.cards.filter((newCard) => !params.baseIssue.cards.some((baseCard) => unchangedEvent(baseCard, newCard))));
+    const incoming = params.incrementalIssue.cards.filter((newCard) => !params.baseIssue.cards.some((baseCard) => unchangedEvent(baseCard, newCard)));
     const replacedCardIds = params.baseIssue.cards
         .filter((baseCard) => incoming.some((newCard) => sameEvent(baseCard, newCard)))
         .map((card) => card.id);
     const survivingBase = params.baseIssue.cards.filter((baseCard) => !incoming.some((newCard) => sameEvent(baseCard, newCard)));
     const newCardIds = new Set(incoming.map((card) => card.id));
-    const cards = readingOrder(capCards(dedupeEventCards([...incoming, ...survivingBase]), newCardIds, Math.max(1, params.maxCards)).map(translation_1.normalizeBriefingCardChinese));
+    const cards = capCards([...incoming, ...survivingBase], newCardIds, Math.max(1, params.maxCards)).map(translation_1.normalizeBriefingCardChinese);
     const selectedIds = new Set(cards.map((card) => card.id));
     const addedCardIds = incoming
         .map((card) => card.id)
@@ -165,4 +122,3 @@ const mergeEditionIssue = (params) => {
     };
 };
 exports.mergeEditionIssue = mergeEditionIssue;
-

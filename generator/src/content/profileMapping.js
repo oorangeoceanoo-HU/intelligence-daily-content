@@ -1,6 +1,6 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
-exports.deriveTopicCategories = exports.deriveTopicIndustryTags = void 0;
+exports.deriveTopicCategories = exports.deriveTopicIndustryTags = exports.PERSONALIZATION_RULE_VERSION = exports.focusedSourceRequirements = void 0;
 exports.deriveIndustryTags = deriveIndustryTags;
 exports.deriveContentCategories = deriveContentCategories;
 exports.createProfileKey = createProfileKey;
@@ -20,7 +20,7 @@ const phaseIndustryMap = {
 };
 const careerIndustryMap = {
     "AI 与产品方向": ["aiProduct", "productManagement", "aiTechnology"],
-    "互联网产品 / 产品经理": ["productManagement", "aiProduct", "operationsGrowth"],
+    "互联网产品 / 产品经理": ["productManagement", "aiProduct"],
     "技术研发 / 工程": ["technologyEngineering", "aiTechnology"],
     "设计 / 用户体验": ["designUx", "productManagement"],
     "教师 / 教育从业者": ["teacher", "educationResearch"],
@@ -76,17 +76,43 @@ const interestCategoryMap = {
     电商: ["ecommerce", "consumer"],
     本地提醒: ["local", "disaster", "publicSafety"]
 };
-const focusedSourceRequirements = {
+exports.focusedSourceRequirements = {
+    "AI 产品": ["xinhua-tech", "techcrunch-ai-rss", "theverge-ai-rss", "openai-news", "meta-newsroom-rss"],
+    产品行业: ["xinhua-tech", "techcrunch-ai-rss", "theverge-ai-rss", "smashing-magazine-rss", "meta-newsroom-rss"],
+    "AI 技术": ["xinhua-tech", "techcrunch-ai-rss", "openai-news", "ieee-spectrum-rss", "cas-science-news"],
+    热点素材: ["meta-newsroom-rss", "buffer-resources-rss", "adweek-rss", "creativebloq-rss", "variety-rss"],
     "教师 / 教育从业者": ["moe-cn", "eol-education", "jyb-education", "cas-science-news"],
     "教育 / 研究": ["moe-cn", "eol-education", "jyb-education", "cas-science-news", "arxiv-cs-api"],
     "博士 / 学术研究": ["arxiv-cs-api", "cas-science-news", "eol-education", "jyb-education"],
     "教育行业": ["moe-cn", "eol-education", "jyb-education", "cas-science-news"],
-    教育: ["moe-cn", "eol-education", "jyb-education", "cas-science-news"]
+    教育: ["moe-cn", "eol-education", "jyb-education", "cas-science-news"],
+    "HR / 招聘": ["mohrss-cn", "chrm-mohrss", "hr-dive-rss", "hiring-lab-rss"],
+    运营增长: ["stats-cn-data", "mofcom-consumption", "retail-dive-rss", "ecommercebytes-rss", "adweek-rss"],
+    创业融资: ["techcrunch-startups-rss", "yc-blog-rss", "sec-press-rss", "pbc-news"],
+    消费趋势: ["mofcom-consumption", "stats-cn-data", "retail-dive-rss", "ecommercebytes-rss", "adweek-rss"],
+    金融: ["pbc-news", "sec-press-rss", "federal-reserve-rss", "stats-cn-data", "mofcom-trade"],
+    "论文与通信研究": ["cas-science-news", "ietf-blog-rss", "internet-society-rss", "ieee-spectrum-rss", "cloudflare-blog-rss"],
+    建筑与城市: ["mohurd-construction", "designboom-rss", "dezeen-rss", "smashing-magazine-rss"],
+    医疗健康: ["who-health-rss", "cdc-health-rss", "sciencedaily-health-rss", "nature-health-rss", "cas-science-news"],
+    游戏文娱: ["gameindustry-rss", "gamespot-rss", "variety-rss"],
+    电商: ["mofcom-consumption", "mofcom-trade", "retail-dive-rss", "ecommercebytes-rss", "stats-cn-data"],
+    "AI 与产品方向": ["xinhua-tech", "techcrunch-ai-rss", "theverge-ai-rss", "openai-news", "meta-newsroom-rss"],
+    "互联网产品 / 产品经理": ["xinhua-tech", "techcrunch-ai-rss", "theverge-ai-rss", "smashing-magazine-rss", "meta-newsroom-rss"],
+    "技术研发 / 工程": ["xinhua-tech", "techcrunch-ai-rss", "openai-news", "ieee-spectrum-rss", "cas-science-news"],
+    "设计 / 用户体验": ["designboom-rss", "dezeen-rss", "smashing-magazine-rss", "uxdesign-cc-rss", "creativebloq-rss"],
+    "人力资源 / 招聘": ["mohrss-cn", "chrm-mohrss", "hr-dive-rss", "hiring-lab-rss"],
+    "运营 / 增长": ["stats-cn-data", "mofcom-consumption", "retail-dive-rss", "ecommercebytes-rss", "adweek-rss"],
+    "内容创作 / 自媒体": ["meta-newsroom-rss", "buffer-resources-rss", "adweek-rss", "creativebloq-rss", "variety-rss"],
+    "创业 / 商业模式": ["techcrunch-startups-rss", "yc-blog-rss", "sec-press-rss", "pbc-news"],
+    "金融 / 投资": ["pbc-news", "sec-press-rss", "federal-reserve-rss", "stats-cn-data", "mofcom-trade"],
+    "通信 / 网络研究": ["ietf-blog-rss", "internet-society-rss", "ieee-spectrum-rss", "cloudflare-blog-rss", "cas-science-news"],
+    "建筑 / 城乡建设": ["mohurd-construction", "designboom-rss", "dezeen-rss", "smashing-magazine-rss"],
+    "电商 / 消费品牌": ["mofcom-consumption", "mofcom-trade", "retail-dive-rss", "ecommercebytes-rss", "stats-cn-data"],
+    "游戏 / 文娱": ["gameindustry-rss", "gamespot-rss", "variety-rss"]
 };
-exports.focusedSourceRequirements = focusedSourceRequirements;
 const careerCategoryMap = {
     "AI 与产品方向": ["ai", "product", "technology"],
-    "互联网产品 / 产品经理": ["product", "technology", "operations"],
+    "互联网产品 / 产品经理": ["product", "technology"],
     "技术研发 / 工程": ["technology", "ai"],
     "设计 / 用户体验": ["design", "product"],
     "教师 / 教育从业者": ["education", "policy"],
@@ -114,6 +140,9 @@ const alwaysOnCategories = [
 ];
 const alwaysOnIndustries = ["generalPublic", "localLife"];
 const unique = (items) => Array.from(new Set(items));
+// Changing this value invalidates old per-account issues so the app can
+// regenerate them with the newest balance rules instead of showing stale data.
+exports.PERSONALIZATION_RULE_VERSION = "v3-public-one-page-industry";
 const fromLookup = (values, lookup) => values.flatMap((value) => lookup[value] ?? []);
 const deriveTopicIndustryTags = (topic) => unique(interestIndustryMap[topic] ?? careerIndustryMap[topic] ?? []);
 exports.deriveTopicIndustryTags = deriveTopicIndustryTags;
@@ -136,6 +165,7 @@ function deriveContentCategories(profile) {
 }
 function createProfileKey(profile) {
     return [
+        exports.PERSONALIZATION_RULE_VERSION,
         profile.country,
         profile.livingCity,
         profile.hometownCountry,

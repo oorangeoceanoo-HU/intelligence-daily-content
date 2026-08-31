@@ -1,6 +1,6 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
-exports.isUsefulCityDiscoveryItem = exports.fetchXinhuaTechRawItems = exports.fetchXinhuaWorldRawItems = exports.normalizeRawFetchSourceId = exports.fetchTextWithLegacyTls = void 0;
+exports.fetchPbcRawItems = exports.fetchStatsRssRawItems = exports.fetchNhcRawItems = exports.fetchMofcomRawItems = exports.isUsefulCityDiscoveryItem = exports.fetchXinhuaTechRawItems = exports.fetchXinhuaWorldRawItems = exports.normalizeRawFetchSourceId = exports.fetchTextWithLegacyTls = void 0;
 exports.fetchArxivRawItems = fetchArxivRawItems;
 exports.fetchCasScienceRawItems = fetchCasScienceRawItems;
 exports.fetchMohurdConstructionRawItems = fetchMohurdConstructionRawItems;
@@ -69,10 +69,10 @@ const sourceAliases = {
     education: "moe-cn",
     moe: "moe-cn",
     eol: "eol-education",
-    "eol-education": "eol-education",
     jyb: "jyb-education",
-    "jyb-education": "jyb-education",
     mohrss: "mohrss-cn",
+    "hr-dive": "hr-dive-rss",
+    "hiring-lab": "hiring-lab-rss",
     hr: "chrm-mohrss",
     chrm: "chrm-mohrss",
     stats: "stats-cn-data",
@@ -90,6 +90,32 @@ const sourceAliases = {
     "theverge-ai": "theverge-ai-rss",
     gdelt: "gdelt-doc-api",
     reliefweb: "reliefweb-api",
+    meta: "meta-newsroom-rss",
+    buffer: "buffer-resources-rss",
+    designboom: "designboom-rss",
+    dezeen: "dezeen-rss",
+    smashing: "smashing-magazine-rss",
+    uxcollective: "uxdesign-cc-rss",
+    creativebloq: "creativebloq-rss",
+    who: "who-health-rss",
+    cdc: "cdc-health-rss",
+    sciencedaily: "sciencedaily-health-rss",
+    "nature-health": "nature-health-rss",
+    gameindustry: "gameindustry-rss",
+    gamespot: "gamespot-rss",
+    variety: "variety-rss",
+    "techcrunch-startups": "techcrunch-startups-rss",
+    yc: "yc-blog-rss",
+    sec: "sec-press-rss",
+    fed: "federal-reserve-rss",
+    pbc: "pbc-news",
+    ietf: "ietf-blog-rss",
+    "internet-society": "internet-society-rss",
+    ieee: "ieee-spectrum-rss",
+    cloudflare: "cloudflare-blog-rss",
+    retaildive: "retail-dive-rss",
+    ecommercebytes: "ecommercebytes-rss",
+    adweek: "adweek-rss",
     "arxiv-cs-api": "arxiv-cs-api",
     "cas-science-news": "cas-science-news",
     "mohurd-construction": "mohurd-construction",
@@ -118,12 +144,40 @@ const sourceAliases = {
     "eol-education": "eol-education",
     "jyb-education": "jyb-education",
     "mohrss-cn": "mohrss-cn",
+    "hr-dive-rss": "hr-dive-rss",
+    "hiring-lab-rss": "hiring-lab-rss",
     "chrm-mohrss": "chrm-mohrss",
     "stats-cn-data": "stats-cn-data",
     "mofcom-consumption": "mofcom-consumption",
     "theverge-ai-rss": "theverge-ai-rss",
     "gdelt-doc-api": "gdelt-doc-api",
-    "reliefweb-api": "reliefweb-api"
+    "reliefweb-api": "reliefweb-api",
+    "meta-newsroom-rss": "meta-newsroom-rss",
+    "buffer-resources-rss": "buffer-resources-rss",
+    "designboom-rss": "designboom-rss",
+    "dezeen-rss": "dezeen-rss",
+    "smashing-magazine-rss": "smashing-magazine-rss",
+    "uxdesign-cc-rss": "uxdesign-cc-rss",
+    "creativebloq-rss": "creativebloq-rss",
+    "who-health-rss": "who-health-rss",
+    "cdc-health-rss": "cdc-health-rss",
+    "sciencedaily-health-rss": "sciencedaily-health-rss",
+    "nature-health-rss": "nature-health-rss",
+    "gameindustry-rss": "gameindustry-rss",
+    "gamespot-rss": "gamespot-rss",
+    "variety-rss": "variety-rss",
+    "techcrunch-startups-rss": "techcrunch-startups-rss",
+    "yc-blog-rss": "yc-blog-rss",
+    "sec-press-rss": "sec-press-rss",
+    "federal-reserve-rss": "federal-reserve-rss",
+    "pbc-news": "pbc-news",
+    "ietf-blog-rss": "ietf-blog-rss",
+    "internet-society-rss": "internet-society-rss",
+    "ieee-spectrum-rss": "ieee-spectrum-rss",
+    "cloudflare-blog-rss": "cloudflare-blog-rss",
+    "retail-dive-rss": "retail-dive-rss",
+    "ecommercebytes-rss": "ecommercebytes-rss",
+    "adweek-rss": "adweek-rss"
 };
 const escapeRegExp = (value) => value.replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
 const decodeXmlEntities = (value) => value
@@ -660,7 +714,34 @@ const rssSourceIds = [
     "techcrunch-ai-rss",
     "theverge-ai-rss",
     "openai-news",
-    "deepmind-blog"
+    "deepmind-blog",
+    "meta-newsroom-rss",
+    "buffer-resources-rss",
+    "designboom-rss",
+    "dezeen-rss",
+    "smashing-magazine-rss",
+    "uxdesign-cc-rss",
+    "creativebloq-rss",
+    "who-health-rss",
+    "cdc-health-rss",
+    "sciencedaily-health-rss",
+    "nature-health-rss",
+    "hr-dive-rss",
+    "hiring-lab-rss",
+    "gameindustry-rss",
+    "gamespot-rss",
+    "variety-rss",
+    "techcrunch-startups-rss",
+    "yc-blog-rss",
+    "sec-press-rss",
+    "federal-reserve-rss",
+    "ietf-blog-rss",
+    "internet-society-rss",
+    "ieee-spectrum-rss",
+    "cloudflare-blog-rss",
+    "retail-dive-rss",
+    "ecommercebytes-rss",
+    "adweek-rss"
 ];
 const rssLanguage = {
     "bbc-world-rss": "en",
@@ -678,7 +759,34 @@ const rssLanguage = {
     "techcrunch-ai-rss": "en",
     "theverge-ai-rss": "en",
     "openai-news": "en",
-    "deepmind-blog": "en"
+    "deepmind-blog": "en",
+    "meta-newsroom-rss": "en",
+    "buffer-resources-rss": "en",
+    "designboom-rss": "en",
+    "dezeen-rss": "en",
+    "smashing-magazine-rss": "en",
+    "uxdesign-cc-rss": "en",
+    "creativebloq-rss": "en",
+    "who-health-rss": "en",
+    "cdc-health-rss": "en",
+    "sciencedaily-health-rss": "en",
+    "nature-health-rss": "en",
+    "hr-dive-rss": "en",
+    "hiring-lab-rss": "en",
+    "gameindustry-rss": "en",
+    "gamespot-rss": "en",
+    "variety-rss": "en",
+    "techcrunch-startups-rss": "en",
+    "yc-blog-rss": "en",
+    "sec-press-rss": "en",
+    "federal-reserve-rss": "en",
+    "ietf-blog-rss": "en",
+    "internet-society-rss": "en",
+    "ieee-spectrum-rss": "en",
+    "cloudflare-blog-rss": "en",
+    "retail-dive-rss": "en",
+    "ecommercebytes-rss": "en",
+    "adweek-rss": "en"
 };
 async function fetchRssRawItems(sourceId, limit) {
     let xml;
@@ -972,8 +1080,7 @@ async function fetchMoeRawItems(limit) {
     const fetchedAt = new Date().toISOString();
     const links = uniqueByUrl(htmlLinks(html, listUrl)
         .filter((link) => /\/(?:jyb_xwfb\/(?:gzdt_gzdt|s271|s6192)|srcsite)\/[^?#]*t20\d{6}_\d+\.html$/u.test(link.url))
-        .filter((link) => /教育|课堂|学校|教师|学生|高校|毕业生|职教|未成年人|专业|志愿|助学|基础教育|科学课/.test(link.title))
-    ).slice(0, limit);
+        .filter((link) => /教育|课堂|学校|教师|学生|高校|毕业生|职教|未成年人|专业|志愿|助学|基础教育|科学课/.test(link.title))).slice(0, limit);
     return links.map((link, index) => ({
         id: makeId(sourceId, link.url, index),
         sourceId,
@@ -999,13 +1106,12 @@ async function fetchEolEducationRawItems(limit) {
         const summary = stripTags(match.groups?.summary ?? "")
             .replace(/\[\s*详细\s*\]\s*$/u, "")
             .trim();
-        const origin = stripTags(match.groups?.origin ?? "");
         return {
             title,
             url,
             date: match.groups?.date,
             summary,
-            origin
+            origin: stripTags(match.groups?.origin ?? "")
         };
     })
         .filter((item) => item.title && item.url !== listUrl);
@@ -1150,6 +1256,38 @@ async function fetchMofcomConsumptionRawItems(limit) {
         };
     }));
 }
+const fetchGenericChineseSource = async (sourceId, limit, keywordPattern, summary) => {
+    const page = await fetchChinesePageCandidates(sourceId, sourceEndpointCandidates(sourceId));
+    const fetchedAt = new Date().toISOString();
+    const links = uniqueByUrl(htmlLinks(page.text, page.url))
+        .filter((link) => keywordPattern.test(link.title))
+        .map((link) => ({
+        ...link,
+        publishedAt: dateFromMoeUrl(link.url) ?? dateFromSlashUrl(link.url) ?? dateFromChineseListText(link.title)
+    }))
+        .filter((link) => Boolean(link.publishedAt))
+        .slice(0, limit);
+    return links.map((link, index) => ({
+        id: makeId(sourceId, link.url, index),
+        sourceId,
+        title: link.title,
+        url: link.url,
+        publishedAt: link.publishedAt,
+        language: "zh",
+        summaryFromSource: summary,
+        rawText: link.title,
+        imageUrls: [],
+        fetchedAt
+    }));
+};
+const fetchMofcomRawItems = (limit) => fetchGenericChineseSource("mofcom-cn", limit, /消费|零售|电商|电子商务|流通|外贸|贸易|投资|市场|企业|服务业|政策/u, "商务部官方信息，用于消费、电商、外贸和市场运行相关动态。");
+exports.fetchMofcomRawItems = fetchMofcomRawItems;
+const fetchNhcRawItems = (limit) => fetchGenericChineseSource("nhc-cn", limit, /医疗|卫生|健康|疾病|医院|药品|疫苗|公共卫生|医学|临床|防控/u, "国家卫生健康委官方信息，用于医疗健康和公共卫生动态。");
+exports.fetchNhcRawItems = fetchNhcRawItems;
+const fetchStatsRssRawItems = (limit) => fetchGenericChineseSource("stats-cn-rss", limit, /消费|价格|工业|企业|就业|经济|数据|市场|零售|服务业|PMI/u, "国家统计局官方信息，用于宏观数据和行业运行动态。");
+exports.fetchStatsRssRawItems = fetchStatsRssRawItems;
+const fetchPbcRawItems = (limit) => fetchGenericChineseSource("pbc-news", limit, /利率|货币|金融|贷款|流动性|支付|征信|监管|银行|市场|宏观审慎|人民币|外汇/u, "中国人民银行官方信息，用于货币政策、金融监管和金融市场动态。");
+exports.fetchPbcRawItems = fetchPbcRawItems;
 async function fetchGdeltRawItems(limit) {
     const sourceId = "gdelt-doc-api";
     const fetchedAt = new Date().toISOString();
@@ -1277,12 +1415,43 @@ async function fetchRawContentSource(sourceId, limit) {
             "eol-education": fetchEolEducationRawItems,
             "jyb-education": fetchJybEducationRawItems,
             "mohrss-cn": fetchMohrssRawItems,
+            "hr-dive-rss": (itemLimit) => fetchRssRawItems("hr-dive-rss", itemLimit),
+            "hiring-lab-rss": (itemLimit) => fetchRssRawItems("hiring-lab-rss", itemLimit),
             "chrm-mohrss": fetchChrmRawItems,
             "stats-cn-data": fetchStatsDataRawItems,
+            "stats-cn-rss": exports.fetchStatsRssRawItems,
             "mofcom-consumption": fetchMofcomConsumptionRawItems,
+            "mofcom-cn": exports.fetchMofcomRawItems,
+            "nhc-cn": exports.fetchNhcRawItems,
             "huggingface-blog": (itemLimit) => fetchRssRawItems("huggingface-blog", itemLimit),
             "techcrunch-ai-rss": (itemLimit) => fetchRssRawItems("techcrunch-ai-rss", itemLimit),
             "theverge-ai-rss": (itemLimit) => fetchRssRawItems("theverge-ai-rss", itemLimit),
+            "meta-newsroom-rss": (itemLimit) => fetchRssRawItems("meta-newsroom-rss", itemLimit),
+            "buffer-resources-rss": (itemLimit) => fetchRssRawItems("buffer-resources-rss", itemLimit),
+            "designboom-rss": (itemLimit) => fetchRssRawItems("designboom-rss", itemLimit),
+            "dezeen-rss": (itemLimit) => fetchRssRawItems("dezeen-rss", itemLimit),
+            "smashing-magazine-rss": (itemLimit) => fetchRssRawItems("smashing-magazine-rss", itemLimit),
+            "uxdesign-cc-rss": (itemLimit) => fetchRssRawItems("uxdesign-cc-rss", itemLimit),
+            "creativebloq-rss": (itemLimit) => fetchRssRawItems("creativebloq-rss", itemLimit),
+            "who-health-rss": (itemLimit) => fetchRssRawItems("who-health-rss", itemLimit),
+            "cdc-health-rss": (itemLimit) => fetchRssRawItems("cdc-health-rss", itemLimit),
+            "sciencedaily-health-rss": (itemLimit) => fetchRssRawItems("sciencedaily-health-rss", itemLimit),
+            "nature-health-rss": (itemLimit) => fetchRssRawItems("nature-health-rss", itemLimit),
+            "gameindustry-rss": (itemLimit) => fetchRssRawItems("gameindustry-rss", itemLimit),
+            "gamespot-rss": (itemLimit) => fetchRssRawItems("gamespot-rss", itemLimit),
+            "variety-rss": (itemLimit) => fetchRssRawItems("variety-rss", itemLimit),
+            "techcrunch-startups-rss": (itemLimit) => fetchRssRawItems("techcrunch-startups-rss", itemLimit),
+            "yc-blog-rss": (itemLimit) => fetchRssRawItems("yc-blog-rss", itemLimit),
+            "sec-press-rss": (itemLimit) => fetchRssRawItems("sec-press-rss", itemLimit),
+            "federal-reserve-rss": (itemLimit) => fetchRssRawItems("federal-reserve-rss", itemLimit),
+            "pbc-news": exports.fetchPbcRawItems,
+            "ietf-blog-rss": (itemLimit) => fetchRssRawItems("ietf-blog-rss", itemLimit),
+            "internet-society-rss": (itemLimit) => fetchRssRawItems("internet-society-rss", itemLimit),
+            "ieee-spectrum-rss": (itemLimit) => fetchRssRawItems("ieee-spectrum-rss", itemLimit),
+            "cloudflare-blog-rss": (itemLimit) => fetchRssRawItems("cloudflare-blog-rss", itemLimit),
+            "retail-dive-rss": (itemLimit) => fetchRssRawItems("retail-dive-rss", itemLimit),
+            "ecommercebytes-rss": (itemLimit) => fetchRssRawItems("ecommercebytes-rss", itemLimit),
+            "adweek-rss": (itemLimit) => fetchRssRawItems("adweek-rss", itemLimit),
             "gdelt-doc-api": fetchGdeltRawItems,
             "reliefweb-api": fetchReliefWebRawItems
         };

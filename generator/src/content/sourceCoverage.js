@@ -1,6 +1,6 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
-exports.sourceRoleFor = exports.assessSourceCoverage = void 0;
+exports.assessProfileCoverage = exports.sourceRoleFor = exports.assessSourceCoverage = void 0;
 const editionFreshness_1 = require("./editionFreshness");
 const sourceRegistry_1 = require("./sourceRegistry");
 const profileMapping_1 = require("./profileMapping");
@@ -160,11 +160,17 @@ const assessSourceCoverage = (results, options = {}) => {
     };
 };
 exports.assessSourceCoverage = assessSourceCoverage;
+const sourceRoleFor = (sourceId) => sourceId.startsWith("city-news-rss:")
+    ? "discovery"
+    : sourceRegistry_1.sourceRegistry.find((source) => source.id === sourceId)?.role ?? "both";
+exports.sourceRoleFor = sourceRoleFor;
 const specializedCategories = new Set([
     "ai", "product", "technology", "education", "hr", "operations", "finance",
     "healthcare", "ecommerce", "consumer", "creator", "startup", "design", "lightTrend"
 ]);
-const publicCategories = new Set(["world", "china", "local", "policy", "disaster", "publicSafety"]);
+const publicCategories = new Set([
+    "world", "china", "local", "policy", "disaster", "publicSafety"
+]);
 const unique = (items) => Array.from(new Set(items));
 const assessProfileCoverage = (candidates, labels, options = {}) => {
     const minimumCandidates = options.minimumCandidates ?? 20;
@@ -183,7 +189,9 @@ const assessProfileCoverage = (candidates, labels, options = {}) => {
                     .filter((industry) => industry !== "generalPublic" && industry !== "localLife");
                 const sourceIds = unique([
                     ...(candidate.sourceIds ?? []),
-                    ...(candidate.sourceLinks ?? []).map((source) => source.sourceId).filter(Boolean)
+                    ...(candidate.sourceLinks ?? [])
+                        .map((source) => source.sourceId)
+                        .filter((sourceId) => Boolean(sourceId))
                 ]);
                 if (focusedSources?.length && !sourceIds.some((sourceId) => focusedSources.includes(sourceId))) {
                     return false;
@@ -191,13 +199,23 @@ const assessProfileCoverage = (candidates, labels, options = {}) => {
                 const hasDomainCategory = candidateCategories.some((category) => specializedCategories.has(category));
                 const hasDomainMatch = candidateCategories.some((category) => categories.includes(category)) ||
                     candidateIndustries.some((industry) => industries.includes(industry));
-                return hasDomainMatch && (!candidateCategories.some((category) => publicCategories.has(category)) || hasDomainCategory);
+                return hasDomainMatch &&
+                    (!candidateCategories.some((category) => publicCategories.has(category)) || hasDomainCategory);
             })
             : [];
-        const sourceIds = unique(matched.flatMap((candidate) => [
+        const matchedSourceIds = unique(matched.flatMap((candidate) => [
             ...(candidate.sourceIds ?? []),
-            ...(candidate.sourceLinks ?? []).map((source) => source.sourceId).filter(Boolean)
+            ...(candidate.sourceLinks ?? [])
+                .map((source) => source.sourceId)
+                .filter((sourceId) => Boolean(sourceId))
         ]));
+        // A candidate may carry several provenance links after confirmation. The
+        // coverage gate must count only the sources explicitly assigned to this
+        // label; otherwise a public-news source can falsely satisfy an industry
+        // label's three-source requirement.
+        const sourceIds = focusedSources?.length
+            ? matchedSourceIds.filter((sourceId) => focusedSources.includes(sourceId))
+            : matchedSourceIds;
         const qualifiedCandidateCount = matched.length;
         const ready = Boolean(categories.length || industries.length) &&
             qualifiedCandidateCount >= minimumCandidates &&
@@ -224,7 +242,3 @@ const assessProfileCoverage = (candidates, labels, options = {}) => {
     });
 };
 exports.assessProfileCoverage = assessProfileCoverage;
-const sourceRoleFor = (sourceId) => sourceId.startsWith("city-news-rss:")
-    ? "discovery"
-    : sourceRegistry_1.sourceRegistry.find((source) => source.id === sourceId)?.role ?? "both";
-exports.sourceRoleFor = sourceRoleFor;

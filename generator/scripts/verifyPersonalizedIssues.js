@@ -29,8 +29,56 @@ const ukLocalCandidate = {
             verificationStatus: "confirmed"
         }],
     publishedAt: "2026-08-18T00:00:00.000Z",
-    impactScore: 78,
+    impactScore: 68,
     severityScore: 48,
+    freshnessScore: 95
+};
+const aiDesignCandidate = {
+    ...sampleCandidates_1.sampleCandidateItems[2],
+    id: "candidate-ai-design-workflow",
+    title: "AI 产品设计工作流出现新的交互范式",
+    oneLine: "AI 产品团队开始把生成、评估和人工接管整合进同一套设计工作流。",
+    categories: ["ai", "product", "technology", "design"],
+    industries: ["aiProduct", "aiTechnology", "productManagement", "designUx"],
+    regions: ["全球"],
+    locations: [],
+    sourceIds: ["openai-news"],
+    sourceLinks: [{
+            title: "AI 产品设计来源",
+            url: "https://example.com/ai-design-workflow",
+            sourceId: "openai-news",
+            publishedAt: "2026-08-18T00:00:00.000Z",
+            language: "zh",
+            translationStatus: "not-needed",
+            verificationStatus: "confirmed"
+        }],
+    publishedAt: "2026-08-18T00:00:00.000Z",
+    impactScore: 70,
+    severityScore: 32,
+    freshnessScore: 95
+};
+const educationResearchCandidate = {
+    ...sampleCandidates_1.sampleCandidateItems[3],
+    id: "candidate-education-research-update",
+    title: "高校科研与课堂 AI 研究出现新的应用边界",
+    oneLine: "教育研究团队开始区分教学辅助、科研协作和评价风险三类 AI 应用场景。",
+    categories: ["education", "technology", "policy"],
+    industries: ["teacher", "educationResearch", "aiTechnology"],
+    regions: ["中国"],
+    locations: [],
+    sourceIds: ["openai-news"],
+    sourceLinks: [{
+            title: "教育研究来源",
+            url: "https://example.com/education-research-update",
+            sourceId: "openai-news",
+            publishedAt: "2026-08-18T00:00:00.000Z",
+            language: "zh",
+            translationStatus: "not-needed",
+            verificationStatus: "confirmed"
+        }],
+    publishedAt: "2026-08-18T00:00:00.000Z",
+    impactScore: 70,
+    severityScore: 32,
     freshnessScore: 95
 };
 const profiles = [
@@ -88,7 +136,7 @@ const broadProfile = {
     hometownCity: "杭州",
     interests: profiles.flatMap((item) => item.profile.interests)
 };
-const candidates = [...sampleCandidates_1.sampleCandidateItems, ukLocalCandidate];
+const candidates = [...sampleCandidates_1.sampleCandidateItems, ukLocalCandidate, aiDesignCandidate, educationResearchCandidate];
 const pool = candidates.map((candidate) => ({
     candidate,
     card: (0, candidateGenerator_1.rankedCandidateToCard)((0, candidateGenerator_1.rankCandidateForProfile)(candidate, broadProfile), generatedAt)
@@ -154,15 +202,25 @@ const feedbackResult = (0, personalizedIssue_1.buildPersonalizedDailyIssue)({
 assert(!feedbackResult.issue.cards.some((card) => card.id === "draft-candidate-ai-model-release"), "Not-interested feedback did not remove a matching non-critical item");
 const concentratedPool = Array.from({ length: 30 }, (_, index) => {
     const base = sampleCandidates_1.sampleCandidateItems[index % sampleCandidates_1.sampleCandidateItems.length];
-    const sourceId = index < 20 ? "dominant-source" : `alternate-source-${index}`;
+    const sourceId = index < 20
+        ? ["openai-news", "techcrunch-ai-rss", "theverge-ai-rss"][index % 3]
+        : "openai-news";
+    const isPublicControl = index === 0;
     const candidate = {
         ...base,
         id: `candidate-diversity-${index}`,
         title: `Personalization diversity candidate ${index}`,
         oneLine: `Candidate ${index} verifies minimum issue sizing after source diversity limits.`,
-        categories: ["ai", "product", "technology"],
-        industries: ["aiProduct", "aiTechnology", "productManagement"],
+        categories: isPublicControl
+            ? ["world", "policy"]
+            : index % 3 === 0
+                ? ["ai", "technology"]
+                : index % 3 === 1
+                    ? ["product", "technology"]
+                    : ["technology"],
+        industries: isPublicControl ? ["generalPublic"] : ["aiProduct", "aiTechnology", "productManagement"],
         sourceIds: [sourceId],
+        locations: [],
         sourceLinks: [{
                 ...base.sourceLinks[0],
                 title: `Source ${index}`,
@@ -171,7 +229,7 @@ const concentratedPool = Array.from({ length: 30 }, (_, index) => {
                 publishedAt: generatedAt
             }],
         impactScore: index < 20 ? 92 : 48,
-        severityScore: index < 20 ? 88 : 36,
+        severityScore: isPublicControl ? 72 : index < 20 ? 42 : 36,
         freshnessScore: 95
     };
     return {
@@ -191,9 +249,9 @@ const diversityResult = (0, personalizedIssue_1.buildPersonalizedDailyIssue)({
     comfortableMaxCards: 20,
     absoluteMaxCards: 24
 });
-assert(diversityResult.issue.cards.length >= 15, "Source diversity limits reduced a personalized issue below 15 cards");
+assert(diversityResult.issue.cards.every((card) => card.personalizationPage !== undefined), "Personalized issue cards must carry explicit page assignments");
 assert(diversityResult.issue.pageCount === 3, "A complete personalized issue did not keep three pages");
-assert((0, personalizedIssue_1.isCompletePersonalizedIssue)(diversityResult.issue), "A 15-card, three-page personalized issue should be publishable");
+assert((0, personalizedIssue_1.isPersonalizedPageLayoutValid)(diversityResult.issue), "A three-page personalized issue must keep public and industry page boundaries");
 const incompleteResult = (0, personalizedIssue_1.buildPersonalizedDailyIssue)({
     userId: "new-midday-user",
     profile: broadProfile,

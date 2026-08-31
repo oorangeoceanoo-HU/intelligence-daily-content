@@ -334,60 +334,19 @@ const govUkProfile = (item) => {
         "健康",
         "安全"
     ]);
-    const employmentRelated = hasAny(text, [
+    const workRelated = hasAny(text, [
         "employment",
-        "employee",
         "worker",
-        "job",
-        "jobs",
-        "recruit",
-        "workforce",
-        "labour",
-        "labor",
-        "unemployment",
-        "wage",
-        "salary",
-        "pay",
-        "apprenticeship",
-        "就业",
-        "雇员",
-        "招聘",
-        "劳动力",
-        "失业",
-        "工资",
-        "薪资",
-        "就业保障"
-    ]);
-    const businessRelated = hasAny(text, [
         "business",
         "tax",
-        "trade",
-        "investment",
-        "economy",
-        "economic",
-        "industry",
+        "visa",
+        "education",
+        "就业",
+        "雇员",
         "企业",
         "税",
-        "贸易",
-        "投资",
-        "经济",
-        "产业"
-    ]);
-    const educationRelated = hasAny(text, [
-        "education",
-        "school",
-        "schools",
-        "university",
-        "universities",
-        "teacher",
-        "student",
-        "curriculum",
-        "教育",
-        "学校",
-        "高校",
-        "教师",
-        "学生",
-        "课程"
+        "签证",
+        "教育"
     ]);
     return {
         categories: unique([
@@ -395,16 +354,12 @@ const govUkProfile = (item) => {
             "policy",
             "local",
             ...(riskRelated ? ["publicSafety"] : []),
-            ...(employmentRelated ? ["hr"] : []),
-            ...(businessRelated ? ["finance"] : []),
-            ...(educationRelated ? ["education"] : [])
+            ...(workRelated ? ["hr", "finance"] : [])
         ]),
         industries: unique([
             "generalPublic",
             "localLife",
-            ...(employmentRelated ? ["hrRecruiting"] : []),
-            ...(businessRelated ? ["financeInvestment", "operationsGrowth"] : []),
-            ...(educationRelated ? ["teacher", "educationResearch"] : [])
+            ...(workRelated ? ["hrRecruiting", "financeInvestment", "operationsGrowth"] : [])
         ]),
         regions: ["英国"],
         locations,
@@ -425,9 +380,7 @@ const govUkProfile = (item) => {
         }
     };
 };
-const moeProfile = (item) => {
-    const isOfficialMinistrySource = item.sourceId === "moe-cn";
-    return ({
+const moeProfile = (item) => ({
     categories: ["education", "policy", "china"],
     industries: ["teacher", "educationResearch", "generalPublic"],
     regions: ["中国"],
@@ -437,16 +390,15 @@ const moeProfile = (item) => {
     trendScore: 58,
     oneLine: "这是一条教育 / 教师方向候选，适合用于发现教育政策、学校治理、学生发展和高校毕业生相关动态。",
     body: {
-        background: isOfficialMinistrySource
-            ? "教育部来源适合作为教师、教育从业者和教育研究用户的官方信息底座。"
-            : "教育行业专业媒体来源适合作为教师、教育从业者和教育研究用户的每日线索池，重要事实仍需核对原始发布方。",
+        background: ["eol-education", "jyb-education"].includes(item.sourceId)
+            ? "教育行业专业媒体来源适合作为教师、教育从业者和教育研究用户的每日线索池，重要事实仍需核对原始发布方。"
+            : "教育部来源适合作为教师、教育从业者和教育研究用户的官方信息底座。",
         keyProgress: compact(item.title),
         whyItMatters: "这类信息可能影响教学安排、学校治理、学生培养、职教专业设置或高校毕业生就业等判断。",
         userRelevance: "对教师、教育行业、教育研究和关注学生就业的用户更相关。",
         whatToWatch: "后续需要结合政策正文、地方教育部门执行细则和学校实际影响判断是否进入日报。"
     }
-    });
-};
+});
 const chrmProfile = (item) => {
     const locations = extractLocations(item);
     return {
@@ -526,6 +478,75 @@ const mofcomConsumptionProfile = (item) => {
         }
     };
 };
+const specializedRssSourceIds = new Set([
+    "meta-newsroom-rss",
+    "buffer-resources-rss",
+    "designboom-rss",
+    "dezeen-rss",
+    "smashing-magazine-rss",
+    "uxdesign-cc-rss",
+    "creativebloq-rss",
+    "hr-dive-rss",
+    "hiring-lab-rss",
+    "who-health-rss",
+    "cdc-health-rss",
+    "sciencedaily-health-rss",
+    "nature-health-rss",
+    "gameindustry-rss",
+    "gamespot-rss",
+    "variety-rss",
+    "techcrunch-startups-rss",
+    "yc-blog-rss",
+    "sec-press-rss",
+    "federal-reserve-rss",
+    "ietf-blog-rss",
+    "internet-society-rss",
+    "ieee-spectrum-rss",
+    "cloudflare-blog-rss",
+    "retail-dive-rss",
+    "ecommercebytes-rss",
+    "adweek-rss"
+]);
+const specializedRssProfile = (item) => {
+    const source = sourceRegistry_1.sourceRegistry.find((entry) => entry.id === item.sourceId);
+    const categories = source?.categories.filter((category) => ["ai", "product", "technology", "education", "hr", "operations", "finance", "healthcare", "ecommerce", "consumer", "creator", "startup", "design", "lightTrend"].includes(category)) ?? [];
+    const industries = source?.industries.filter((industry) => !["generalPublic", "localLife"].includes(industry)) ?? [];
+    const sourceLabel = source?.name ?? item.sourceId;
+    return {
+        categories: unique(categories),
+        industries: unique(industries),
+        regions: source?.regions ?? ["全球"],
+        locations: extractLocations(item),
+        impactScore: source?.tier === "T0" ? 76 : 66,
+        severityScore: 18,
+        trendScore: source?.tier === "T0" ? 78 : 70,
+        oneLine: `${sourceLabel}发布了与对应行业相关的新动态，重点看可验证事实、实际影响和后续变化。`,
+        body: {
+            background: `${sourceLabel}作为对应行业的专门来源，用于发现该领域的产品、政策、研究或市场变化。`,
+            keyProgress: compact(item.summaryFromSource || item.rawText || item.title),
+            whyItMatters: "这条行业信息可能影响产品判断、工作方法、研究方向、经营决策或行业预期，是否重要要以正文事实为准。",
+            userRelevance: `对关注${sourceLabel}所覆盖行业的人更直接，其他行业内容不会因为素材不足而替代它。`,
+            whatToWatch: "后续核对原文、发布时间、适用范围和是否有第二个可靠来源或正式文件跟进。"
+        }
+    };
+};
+const pbcProfile = (item) => ({
+    categories: ["finance", "policy", "china"],
+    industries: ["financeInvestment", "operationsGrowth"],
+    regions: ["中国"],
+    locations: extractLocations(item),
+    impactScore: 82,
+    severityScore: 35,
+    trendScore: 74,
+    oneLine: "金融政策动态：关注利率、流动性、金融监管和市场运行变化，以及对企业和个人的实际影响。",
+    body: {
+        background: "中国人民银行新闻发布是中国货币政策、金融监管和金融市场信息的官方来源。",
+        keyProgress: compact(item.summaryFromSource || item.rawText || item.title),
+        whyItMatters: "货币政策和金融监管变化可能影响融资成本、资产定价、企业经营与个人金融安排。",
+        userRelevance: "对金融投资、创业商业和需要判断融资环境的用户更直接。",
+        whatToWatch: "后续关注正式文件、生效时间、适用机构和金融市场的实际反应。"
+    }
+});
 const govPolicyProfile = (item) => {
     const text = textOf(item);
     const categories = ["policy", "china"];
@@ -570,7 +591,7 @@ const memProfile = (item) => {
     const severe = hasAny(text, ["一级应急响应", "二级应急响应", "重大", "特大", "死亡", "失联"]);
     return {
         categories: ["disaster", "publicSafety", "china", "local"],
-        industries: ["generalPublic", "localLife"],
+        industries: ["generalPublic", "localLife", "operationsGrowth"],
         regions: ["中国"],
         locations,
         impactScore: severe ? 88 : locations.length > 1 ? 80 : 72,
@@ -666,57 +687,14 @@ const xinhuaWorldProfile = (item) => {
         impactScore = 86;
         severityScore = 82;
     }
-    const businessTopic = hasAny(text, [
-        "trade",
-        "tariff",
-        "market",
-        "markets",
-        "economy",
-        "economic",
-        "inflation",
-        "interest rate",
-        "stock",
-        "shares",
-        "investment",
-        "company",
-        "companies",
-        "revenue",
-        "profit",
-        "industry",
-        "汽车",
-        "贸易",
-        "关税",
-        "市场",
-        "经济",
-        "通胀",
-        "利率",
-        "股票",
-        "投资",
-        "公司",
-        "营收",
-        "利润",
-        "行业"
-    ]);
-    if (businessTopic) {
-        categories.push("finance", "operations");
-    }
-    const creatorTopic = hasAny(text, ["短剧", "电影", "音乐", "文化产业", "创作", "媒体", "出版"]);
-    if (creatorTopic) {
-        categories.push("creator");
-    }
     return {
         categories: unique(categories),
-        industries: unique([
-            "generalPublic",
-            ...(businessTopic ? ["financeInvestment", "operationsGrowth"] : []),
-            ...(hasAny(text, ["电商", "电子商务", "零售", "消费品牌"]) ? ["ecommerceRetail", "consumerBrand"] : []),
-            ...(creatorTopic ? ["contentCreator"] : [])
-        ]),
+        industries: ["generalPublic", "financeInvestment", "operationsGrowth", "contentCreator"],
         regions: ["全球"],
         locations,
         impactScore,
         severityScore,
-        trendScore: businessTopic ? 72 : 54,
+        trendScore: 54,
         oneLine: "这是一条国际局势候选，需要优先说明最新变化、影响范围，以及它是否可能影响中国或用户判断。",
         body: {
             background: "新华网国际用于补充中文主流媒体对国际局势、外交、战争冲突、能源和重大公共事件的报道。",
@@ -798,45 +776,14 @@ const internationalRssProfile = (item) => {
     if (majorConflict || chinaImpact || businessSource) {
         categories.push("policy");
     }
-    const businessTopic = hasAny(text, [
-        "trade",
-        "tariff",
-        "market",
-        "markets",
-        "economy",
-        "economic",
-        "inflation",
-        "interest rate",
-        "stock",
-        "shares",
-        "investment",
-        "company",
-        "companies",
-        "revenue",
-        "profit",
-        "industry",
-        "汽车",
-        "贸易",
-        "关税",
-        "市场",
-        "经济",
-        "通胀",
-        "利率",
-        "股票",
-        "投资",
-        "公司",
-        "营收",
-        "利润",
-        "行业"
-    ]);
-    if (businessTopic) {
+    if (businessSource || chinaImpact) {
         categories.push("finance", "operations");
     }
     if (disaster) {
         categories.push("disaster", "publicSafety");
     }
     const industries = ["generalPublic"];
-    if (businessTopic) {
+    if (businessSource || chinaImpact) {
         industries.push("financeInvestment", "operationsGrowth", "ecommerceRetail");
     }
     if (disaster) {
@@ -849,7 +796,7 @@ const internationalRssProfile = (item) => {
         locations,
         impactScore: majorConflict ? 92 : chinaImpact ? 86 : disaster ? 84 : officialMultilateral ? 78 : 72,
         severityScore: majorConflict ? 82 : disaster ? 80 : chinaImpact ? 58 : 45,
-        trendScore: businessTopic ? 72 : 54,
+        trendScore: businessSource || chinaImpact ? 72 : 54,
         oneLine: "国际最新进展：这条英文来源需要完整整理为中文，并优先说明发生了什么变化、与中国的关系及后续风险。",
         body: {
             background: officialMultilateral
@@ -931,7 +878,7 @@ const xinhuaTechProfile = (item) => {
     const industries = ["technologyEngineering", "educationResearch"];
     if (aiRelated) {
         categories.push("ai", "product");
-        industries.push("aiProduct", "aiTechnology", "productManagement");
+        industries.push("aiProduct", "aiTechnology", "productManagement", "operationsGrowth");
     }
     return {
         categories,
@@ -957,7 +904,7 @@ const xinhuaTechProfile = (item) => {
 };
 const reliefWebProfile = (item) => ({
     categories: ["disaster", "publicSafety", "world"],
-    industries: ["generalPublic", "localLife"],
+    industries: ["generalPublic", "localLife", "operationsGrowth"],
     regions: ["全球"],
     locations: extractLocations(item),
     impactScore: 70,
@@ -995,7 +942,7 @@ const profileForRawItem = (item) => {
         }
         return {
             categories,
-            industries: ["localLife", "generalPublic"],
+            industries: ["localLife", "generalPublic", "operationsGrowth"],
             regions: ["中国"],
             locations: item.localCity ? [item.localCity] : [],
             impactScore: isPublicRisk ? 76 : 64,
@@ -1121,6 +1068,12 @@ const profileForRawItem = (item) => {
     }
     if (item.sourceId === "reliefweb-api") {
         return reliefWebProfile(item);
+    }
+    if (item.sourceId === "pbc-news") {
+        return pbcProfile(item);
+    }
+    if (specializedRssSourceIds.has(item.sourceId)) {
+        return specializedRssProfile(item);
     }
     return {
         categories: ["world"],

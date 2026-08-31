@@ -131,9 +131,9 @@ const sortForIssue = (items, issueDate) => [...items].sort((a, b) => {
     }
     return b.rankedCandidate.finalScore - a.rankedCandidate.finalScore;
 });
-const canAddCard = (card, sectionCounts, importanceCounts, sourceCounts, selectionLimits = {}) => {
+const canAddCard = (card, sectionCounts, importanceCounts, sourceCounts) => {
     const primarySourceId = card.sourceLinks[0]?.sourceId ?? "unknown";
-    if ((sourceCounts[primarySourceId] ?? 0) >= (selectionLimits.maxCardsPerSource ?? 4)) {
+    if ((sourceCounts[primarySourceId] ?? 0) >= 4) {
         return false;
     }
     if (card.importance === "C" && importanceCounts.C >= 2) {
@@ -145,19 +145,19 @@ const canAddCard = (card, sectionCounts, importanceCounts, sourceCounts, selecti
     if (card.section === "friends") {
         return false;
     }
-    if (sectionCounts[card.section] >= (selectionLimits.maxCardsPerSection ?? 8)) {
+    if (sectionCounts[card.section] >= 8) {
         return false;
     }
     return true;
 };
-const canAddMinimumFallback = (card, sectionCounts, importanceCounts, sourceCounts, selectionLimits = {}) => {
+const canAddMinimumFallback = (card, sectionCounts, importanceCounts, sourceCounts) => {
     const primarySourceId = card.sourceLinks[0]?.sourceId ?? "unknown";
     return (card.section !== "friends" &&
-        (sourceCounts[primarySourceId] ?? 0) < (selectionLimits.minimumFallbackMaxCardsPerSource ?? 6) &&
+        (sourceCounts[primarySourceId] ?? 0) < 6 &&
         (card.importance !== "C" || importanceCounts.C < 3) &&
-        sectionCounts[card.section] < (selectionLimits.minimumFallbackMaxCardsPerSection ?? 10));
+        sectionCounts[card.section] < 10);
 };
-const selectIssueCards = (items, issueDate, sizingOverrides = {}, selectionLimits = {}) => {
+const selectIssueCards = (items, issueDate, sizingOverrides = {}) => {
     const sizingRules = normalizeSizingRules(sizingOverrides);
     const sectionCounts = emptySectionCounts();
     const importanceCounts = emptyImportanceCounts();
@@ -179,7 +179,7 @@ const selectIssueCards = (items, issueDate, sizingOverrides = {}, selectionLimit
             finalScore: item.rankedCandidate.finalScore,
             rules: sizingRules
         });
-        if (!selectionBand || !canAddCard(item.card, sectionCounts, importanceCounts, sourceCounts, selectionLimits)) {
+        if (!selectionBand || !canAddCard(item.card, sectionCounts, importanceCounts, sourceCounts)) {
             skipped.push(item);
             return;
         }
@@ -193,7 +193,7 @@ const selectIssueCards = (items, issueDate, sizingOverrides = {}, selectionLimit
     if (selected.length < sizingRules.minimumCards) {
         [...skipped].forEach((item) => {
             if (selected.length >= sizingRules.minimumCards ||
-                !canAddMinimumFallback(item.card, sectionCounts, importanceCounts, sourceCounts, selectionLimits)) {
+                !canAddMinimumFallback(item.card, sectionCounts, importanceCounts, sourceCounts)) {
                 return;
             }
             selected.push(item);
@@ -232,11 +232,6 @@ const selectIssueCards = (items, issueDate, sizingOverrides = {}, selectionLimit
     };
 };
 const orderedForReading = (cards) => [...cards].sort((a, b) => {
-    const pageA = Number.isFinite(a.homePage) ? a.homePage : 0;
-    const pageB = Number.isFinite(b.homePage) ? b.homePage : 0;
-    if (pageA !== pageB) {
-        return pageA - pageB;
-    }
     const importanceDiff = importanceWeight[b.importance] - importanceWeight[a.importance];
     if (importanceDiff !== 0) {
         return importanceDiff;
@@ -272,7 +267,7 @@ function buildDailyIssue(params) {
             ? Math.min(params.sizingRules?.comfortableMaxCards ?? exports.defaultDailyIssueSizingRules.comfortableMaxCards, explicitMaxCards)
             : params.sizingRules?.comfortableMaxCards,
         absoluteMaxCards: explicitMaxCards ?? params.sizingRules?.absoluteMaxCards
-    }, params.selectionLimits);
+    });
     const cards = orderedForReading(selectedResult.selected.map((item) => markBackgroundFiller(item.card, params.date)));
     const totalChars = cards.reduce((sum, card) => sum + cardTextLength(card), 0);
     const estimatedReadMinutes = cards.length ? Math.max(1, Math.ceil(totalChars / 450)) : 0;
@@ -305,4 +300,3 @@ function buildDailyIssue(params) {
         skippedCards: selectedResult.skipped.map((item) => item.card)
     };
 }
-

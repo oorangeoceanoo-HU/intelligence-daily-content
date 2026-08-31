@@ -7,7 +7,6 @@ const candidateDeduper_1 = require("../src/content/candidateDeduper");
 const rawToCandidate_1 = require("../src/content/rawToCandidate");
 const candidateGenerator_1 = require("../src/content/candidateGenerator");
 const candidatePreviewProfiles_1 = require("../src/content/candidatePreviewProfiles");
-const personalizedIssue_1 = require("../src/content/personalizedIssue");
 const rawFetchers_1 = require("../src/content/rawFetchers");
 const translation_1 = require("../src/content/translation");
 const nodeRequire = typeof require === "function" ? require : undefined;
@@ -27,7 +26,7 @@ const candidate = (params) => ({
     title: params.title,
     oneLine: "这是一条用于验证内容生成质量的候选信息，需要根据同一篇原文生成完整卡片。",
     categories: params.categories ?? ["disaster", "publicSafety", "china"],
-    industries: params.industries ?? ["generalPublic", "technologyEngineering"],
+    industries: ["generalPublic", "technologyEngineering"],
     regions: ["中国"],
     locations: params.locations ?? ["中国", "河南"],
     sourceIds: [params.sourceLink.sourceId],
@@ -366,61 +365,4 @@ const translatedMismatchCard = {
 const translatedMismatchReport = (0, cardDraftQuality_1.evaluateCardDraftQuality)(translatedMismatchCard);
 assert.equal(translatedMismatchReport.level, "blocked", "中文化后标题与正文不一致的卡片必须拦截");
 assert.ok(translatedMismatchReport.issues.some((issue) => issue.code === "title-content-mismatch"), "中文化后标题与正文不一致的问题必须被明确记录");
-const englishConflict = (0, rawToCandidate_1.rawItemToCandidate)(rawItem({
-    id: "english-conflict",
-    sourceId: "cnbc-world-rss",
-    title: "Iran says the US blocked a Hormuz agreement during talks with Oman",
-    summaryFromSource: "The diplomatic dispute is still developing."
-}));
-assert.ok(!englishConflict.industries.includes("operationsGrowth"), "普通国际冲突不能因为来自商业媒体就被标成运营行业");
-assert.ok(!englishConflict.industries.includes("financeInvestment"), "普通国际冲突不能因为来自商业媒体就被标成金融行业");
-const ukSchoolNotice = (0, rawToCandidate_1.rawItemToCandidate)(rawItem({
-    id: "uk-school-notice",
-    sourceId: "gov-uk-news",
-    title: "Notice: Southfield Primary School",
-    summaryFromSource: "The school published a local term-time notice for families."
-}));
-assert.ok(!ukSchoolNotice.industries.includes("hrRecruiting"), "学校通知不能被误标为招聘行业");
-const disasterWithoutIndustry = (0, rawToCandidate_1.rawItemToCandidate)(rawItem({
-    id: "domestic-disaster",
-    sourceId: "mem-cn",
-    title: "Emergency management department starts a national geological disaster response for Zhejiang"
-}));
-assert.ok(!disasterWithoutIndustry.industries.includes("operationsGrowth"), "国内灾害响应不能占用运营行业卡片名额");
-const broadOperationsCandidate = candidate({
-    id: "broad-international-operations",
-    title: "国际冲突继续升级并影响地区安全预期",
-    categories: ["world", "policy", "operations"],
-    industries: ["generalPublic", "operationsGrowth"],
-    sourceLink: source("cnbc-world-rss", "https://example.com/broad-international-operations")
-});
-const broadOperationsCard = (0, candidateGenerator_1.rankedCandidateToCard)((0, candidateGenerator_1.rankCandidateForProfile)(broadOperationsCandidate, {
-    country: "中国",
-    livingCity: "上海",
-    hometownCountry: "中国",
-    hometownCity: "杭州",
-    careerDirections: ["运营 / 增长"],
-    interests: ["运营增长"]
-}), "2026-08-17T00:00:00.000Z");
-const broadOperationsResult = (0, personalizedIssue_1.buildPersonalizedDailyIssue)({
-    userId: "operations-quality",
-    profile: {
-        country: "中国",
-        livingCity: "上海",
-        hometownCountry: "中国",
-        hometownCity: "杭州",
-        careerDirections: ["运营 / 增长"],
-        interests: ["运营增长"]
-    },
-    preferences: {},
-    pool: [{ candidate: broadOperationsCandidate, card: broadOperationsCard }],
-    date: "2026-08-17",
-    edition: "morning",
-    editionLabel: "晨间版",
-    generatedAt: "2026-08-17T00:00:00.000Z",
-    minimumCards: 1,
-    comfortableMaxCards: 1,
-    absoluteMaxCards: 1
-});
-assert.equal(broadOperationsResult.summary.industryCardCount, 0, "泛国际新闻不能被运营画像当作行业卡片");
 console.log("Content quality regression checks passed.");

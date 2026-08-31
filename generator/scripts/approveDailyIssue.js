@@ -63,8 +63,8 @@ async function main() {
     if (sha256(candidateText) !== report.candidateSha256) {
         throw new Error("Pending issue changed after review; regenerate its review summary first");
     }
-    if (candidate.issue.cards.length < 5 || candidate.issue.cards.length > 24) {
-        throw new Error("Pending issue card count is outside the 5 to 24 publishing range");
+    if (candidate.issue.cards.length < 1 || candidate.issue.cards.length > 24) {
+        throw new Error("Pending issue card count is outside the 1 to 24 publishing range");
     }
     try {
         const latest = JSON.parse(await fs.readFile(latestPath, "utf8"));

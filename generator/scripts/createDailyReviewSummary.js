@@ -99,8 +99,11 @@ function inspectIssue(expectedDate, review, candidate) {
     if (reviewIds !== candidateIds || review.issue.generatedAt !== issue.generatedAt) {
         addFinding(findings, "blocker", "candidate-mismatch", "公开候选稿与内部复检稿不是同一份内容。");
     }
-    if (issue.cards.length < 15) {
-        addFinding(findings, "blocker", "too-few-cards", `当前只有 ${issue.cards.length} 条，无法形成每版约 5 条的三版完整日报；系统会保留上一份合格日报，不会用旧闻或未核实内容凑数。`);
+    if (issue.cards.length === 0) {
+        addFinding(findings, "blocker", "too-few-cards", "当天没有任何通过基础质量检查的日报内容；系统会保留上一份可用日报，避免发布空日报。");
+    }
+    else if (issue.cards.length < 15) {
+        addFinding(findings, "warning", "compact-issue", `当天只有 ${issue.cards.length} 条合格内容，将按原有日报结构发布精简版；系统不会用旧闻或其他行业内容凑数。`);
     }
     if (issue.cards.length > 24) {
         addFinding(findings, "blocker", "too-many-cards", `当前有 ${issue.cards.length} 条，超过 24 条绝对上限。`);

@@ -186,15 +186,19 @@ async function main() {
         };
         return {
             databaseRow,
-            complete: (0, personalizedIssue_1.isCompletePersonalizedIssue)(result.issue)
+            complete: (0, personalizedIssue_1.isCompletePersonalizedIssue)(result.issue),
+            usable: (0, personalizedIssue_1.isUsablePersonalizedIssue)(result.issue)
         };
     })
         .filter((entry) => entry.databaseRow.payload.issue.cards.length > 0);
+    // A shorter issue is still valuable when every card is a verified match
+    // for the user's own profile. Publish it as a compact issue instead of
+    // silently replacing it with unrelated public or AI news.
     const generatedRows = personalizedRows
-        .filter((entry) => entry.complete)
+        .filter((entry) => entry.usable)
         .map((entry) => entry.databaseRow);
     const deferredRows = personalizedRows
-        .filter((entry) => !entry.complete)
+        .filter((entry) => !entry.usable)
         .map((entry) => entry.databaseRow);
     if (!options.dryRun && !options.profilesFile && generatedRows.length) {
         await supabaseRequest({
@@ -214,10 +218,12 @@ async function main() {
         configuredProfileCount: cohort.profiles.filter((row) => isConfiguredProfile(toUserProfile(row))).length,
         publishedProfileCount: generatedRows.length,
         deferredProfileCount: deferredRows.length,
+        compactProfileCount: personalizedRows.filter((entry) => entry.usable && !entry.complete).length,
         dryRun: options.dryRun || Boolean(options.profilesFile),
         issues: generatedRows.map((row) => ({
             userId: row.user_id,
             cardCount: row.payload.issue.cards.length,
+            deliveryMode: (0, personalizedIssue_1.isCompletePersonalizedIssue)(row.payload.issue) ? "complete" : "compact",
             topCardId: row.payload.issue.topCardId,
             cardIds: row.payload.issue.cards.map((card) => card.id),
             profileKey: row.profile_key,
@@ -227,14 +233,15 @@ async function main() {
         deferredIssues: deferredRows.map((row) => ({
             userId: row.user_id,
             cardCount: row.payload.issue.cards.length,
-            reason: "below-complete-issue-minimum"
+            reason: "no-usable-profile-matched-content"
         }))
     };
     await fs.mkdir(path.dirname(path.resolve(options.output)), { recursive: true });
     await fs.writeFile(path.resolve(options.output), `${JSON.stringify(report, null, 2)}\n`, "utf8");
-    console.log(`Generated ${generatedRows.length} personalized issues for ${input.issue.date} ${input.meta.edition}.`);
+    const compactCount = personalizedRows.filter((entry) => entry.usable && !entry.complete).length;
+    console.log(`Generated ${generatedRows.length} personalized issues for ${input.issue.date} ${input.meta.edition} (${compactCount} compact).`);
     if (deferredRows.length) {
-        console.log(`Deferred ${deferredRows.length} incomplete personalized issues; those users keep the public fallback.`);
+        console.log(`Deferred ${deferredRows.length} profiles because no usable profile-matched content was available; those users keep the public fallback.`);
     }
     console.log(`Report: ${path.resolve(options.output)}`);
 }

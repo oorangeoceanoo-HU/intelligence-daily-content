@@ -314,8 +314,11 @@ jobs:
             throw new Error(`No personalized issue was published for ${report.configuredProfileCount} configured profile(s).`);
           }
           console.log(`Personalized publication ready: ${report.publishedProfileCount}/${report.configuredProfileCount} profile(s).`);
+          if (report.compactProfileCount > 0) {
+            console.log(`Compact personalized issues: ${report.compactProfileCount}.`);
+          }
           if (report.deferredProfileCount > 0) {
-            console.warn(`${report.deferredProfileCount} profile(s) were deferred because the current source pool did not meet the quality mix.`);
+            console.warn(`${report.deferredProfileCount} profile(s) were deferred because no usable profile-matched content was available.`);
           }
           NODE
 

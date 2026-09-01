@@ -220,6 +220,16 @@ const today = () => {
     return `${value("year")}-${value("month")}-${value("day")}`;
 };
 const normalizedSupabaseUrl = (value) => value.replace(/\/rest\/v1\/?$/u, "").replace(/\/$/u, "");
+const fetchWithTimeout = async (url, init, timeoutMs = 15_000) => {
+    const controller = new AbortController();
+    const timeoutId = setTimeout(() => controller.abort(), timeoutMs);
+    try {
+        return await fetch(url, { ...init, signal: controller.signal });
+    }
+    finally {
+        clearTimeout(timeoutId);
+    }
+};
 const fetchCohortLocations = async () => {
     const baseUrl = process.env?.SUPABASE_URL?.trim();
     const serviceRoleKey = process.env?.SUPABASE_SERVICE_ROLE_KEY?.trim();
@@ -227,7 +237,7 @@ const fetchCohortLocations = async () => {
         return [];
     }
     try {
-        const response = await fetch(`${normalizedSupabaseUrl(baseUrl)}/rest/v1/profiles?select=country,living_city,hometown_country,hometown_city`, {
+        const response = await fetchWithTimeout(`${normalizedSupabaseUrl(baseUrl)}/rest/v1/profiles?select=country,living_city,hometown_country,hometown_city`, {
             headers: {
                 apikey: serviceRoleKey,
                 Authorization: `Bearer ${serviceRoleKey}`,

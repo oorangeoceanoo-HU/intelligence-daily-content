@@ -28,8 +28,28 @@ const sourceRegistry_1 = require("./sourceRegistry");
 const citySourceDirectory_1 = require("./citySourceDirectory");
 const userAgent = "Mozilla/5.0";
 const defaultTimeoutMs = 45000;
+// A source may make several sequential requests (fallback pages or article
+// details). Bound the whole source so one slow external site cannot stall the
+// daily publication job indefinitely.
+const sourceTotalTimeoutMs = 75000;
 const fallbackUsedBySource = new Map();
 const delay = (milliseconds) => new Promise((resolve) => setTimeout(resolve, milliseconds));
+const withTimeout = async (operation, timeoutMs, label) => {
+    let timeoutId;
+    try {
+        return await Promise.race([
+            operation,
+            new Promise((_, reject) => {
+                timeoutId = setTimeout(() => reject(new Error(`${label} timed out after ${timeoutMs}ms`)), timeoutMs);
+            })
+        ]);
+    }
+    finally {
+        if (timeoutId !== undefined) {
+            clearTimeout(timeoutId);
+        }
+    }
+};
 const env = (name) => process.env?.[name]?.trim() || undefined;
 const sourceAliases = {
     arxiv: "arxiv-cs-api",
@@ -991,7 +1011,7 @@ async function fetchCityContentSource(country, city, limit) {
     const location = (0, citySourceDirectory_1.resolveCitySourceLocation)(country, city);
     const sourceLabel = location.province === location.city ? city : `${location.province}·${city}`;
     try {
-        const items = await fetchCityNewsRawItems(country, city, limit);
+        const items = await withTimeout(fetchCityNewsRawItems(country, city, limit), sourceTotalTimeoutMs, `City source ${sourceId}`);
         return {
             sourceId,
             sourceName: `城市新闻发现：${sourceLabel}`,
@@ -1464,7 +1484,7 @@ async function fetchRawContentSource(sourceId, limit) {
         for (let attempt = 0; attempt < 3; attempt += 1) {
             attempts += 1;
             try {
-                items = await fetcher(limit);
+                items = await withTimeout(fetcher(limit), sourceTotalTimeoutMs, `Source ${sourceId}`);
                 break;
             }
             catch (error) {

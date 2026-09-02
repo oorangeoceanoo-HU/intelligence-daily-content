@@ -1,0 +1,339 @@
+{
+  "version": 1,
+  "date": "2026-09-02",
+  "generatedAt": "2026-09-02T07:09:30.443Z",
+  "status": "review",
+  "reviewMode": "generated",
+  "candidateSha256": "cd7ed20060db9f6a9f510e9d5d925e1a2151c1ff0e34b066d0a43e6cf21bbaee",
+  "counts": {
+    "cards": 20,
+    "pages": 3,
+    "rawItems": 361,
+    "freshCandidates": 303,
+    "publishableCards": 24,
+    "reviewableCards": 33,
+    "rejectedCards": 26,
+    "blockers": 0,
+    "warnings": 46
+  },
+  "findings": [
+    {
+      "level": "warning",
+      "code": "translation-failures",
+      "message": "有 1 条英文或多语言候选没有完成中文化，当前翻译通道为 openai-compatible；这些候选已从最终日报排除。"
+    },
+    {
+      "level": "warning",
+      "code": "source-fetch-failures",
+      "message": "有 2 个来源抓取失败，需要确认是否影响当天覆盖面。"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "官方或主流媒体正文较短，但来源和事实可追溯，需要人工确认是否保留。",
+      "cardId": "draft-cluster-real-xinhua-world-1veyi0q",
+      "cardTitle": "尼泊尔泥石流已致1118人死亡 4858人失联"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "没有抓到完整正文，目前使用候选摘要回退。",
+      "cardId": "draft-cluster-real-france24-asia-pacific-rss-197gf4g",
+      "cardTitle": "尼泊尔和中国洪灾死亡人数逾950，数百人恐被困于水电站隧道"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "原文信息量有限，需要确认是否足以支持卡片结论。",
+      "cardId": "draft-cluster-real-france24-asia-pacific-rss-197gf4g",
+      "cardTitle": "尼泊尔和中国洪灾死亡人数逾950，数百人恐被困于水电站隧道"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "没有抓到完整正文，目前使用候选摘要回退。",
+      "cardId": "draft-real-france24-asia-pacific-rss-12j9vs9",
+      "cardTitle": "喜马拉雅冰川融化？尼泊尔灾难暴露出冰川洪水日益增长的风险"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "原文信息量有限，需要确认是否足以支持卡片结论。",
+      "cardId": "draft-real-france24-asia-pacific-rss-12j9vs9",
+      "cardTitle": "喜马拉雅冰川融化？尼泊尔灾难暴露出冰川洪水日益增长的风险"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "没有抓到完整正文，目前使用候选摘要回退。",
+      "cardId": "draft-real-france24-asia-pacific-rss-1gfkhki",
+      "cardTitle": "尼泊尔灾难：随着死亡人数上升，虚假和AI生成的图片充斥社交媒体"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "原文信息量有限，需要确认是否足以支持卡片结论。",
+      "cardId": "draft-real-france24-asia-pacific-rss-1gfkhki",
+      "cardTitle": "尼泊尔灾难：随着死亡人数上升，虚假和AI生成的图片充斥社交媒体"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "没有抓到完整正文，目前使用候选摘要回退。",
+      "cardId": "draft-real-france24-middle-east-rss-1xn25zr",
+      "cardTitle": "美军在伊朗对试图袭击航运的目标实施打击"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "原文信息量有限，需要确认是否足以支持卡片结论。",
+      "cardId": "draft-real-france24-middle-east-rss-1xn25zr",
+      "cardTitle": "美军在伊朗对试图袭击航运的目标实施打击"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "原文信息量有限，需要确认是否足以支持卡片结论。",
+      "cardId": "draft-cluster-real-mem-cn-qzs4vx",
+      "cardTitle": "国家安全生产应急救援队伍持续监测现场次生灾害120小时 采集2700组数据"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "原文信息量有限，需要确认是否足以支持卡片结论。",
+      "cardId": "draft-cluster-real-mem-cn-aqb569",
+      "cardTitle": "应急管理部调派部自然灾害工程应急救援中心（中国安能）连夜加固G216吉隆口岸方向涉水路段"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "没有抓到完整正文，目前使用候选摘要回退。",
+      "cardId": "draft-real-france24-middle-east-rss-1s0z2sj",
+      "cardTitle": "特朗普威胁“重击伊朗”，在一个月停火期后空袭恢复"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "原文信息量有限，需要确认是否足以支持卡片结论。",
+      "cardId": "draft-real-france24-middle-east-rss-1s0z2sj",
+      "cardTitle": "特朗普威胁“重击伊朗”，在一个月停火期后空袭恢复"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "没有抓到完整正文，目前使用候选摘要回退。",
+      "cardId": "draft-real-france24-asia-pacific-rss-1ll827j",
+      "cardTitle": "尼泊尔因灾难性洪水导致尸体被冲上岸，举行大规模集体埋葬"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "没有抓到完整正文，目前使用候选摘要回退。",
+      "cardId": "draft-real-france24-asia-pacific-rss-abbre2",
+      "cardTitle": "“喜马拉雅冰川退缩”：尼泊尔洪水由“冰川崩塌和大规模山体滑坡”引发"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "原文篇幅较短且不是官方或主流来源，需要发布前复核。",
+      "cardId": "draft-real-france24-asia-pacific-rss-abbre2",
+      "cardTitle": "“喜马拉雅冰川退缩”：尼泊尔洪水由“冰川崩塌和大规模山体滑坡”引发"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "官方或主流媒体正文较短，但来源和事实可追溯，需要人工确认是否保留。",
+      "cardId": "draft-real-xinhua-world-18up1us",
+      "cardTitle": "外交部：中国在委内瑞拉的合法权益必须得到保障"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "官方或主流媒体正文较短，但来源和事实可追溯，需要人工确认是否保留。",
+      "cardId": "draft-real-xinhua-world-12skvy6",
+      "cardTitle": "美国友人“赛考斯”参访中国外交部新闻发布厅"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "一句话导读和事件背景重复度偏高，需要补充不同的上下文。",
+      "cardId": "draft-real-xinhua-world-12skvy6",
+      "cardTitle": "美国友人“赛考斯”参访中国外交部新闻发布厅"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "原文信息量有限，需要确认是否足以支持卡片结论。",
+      "cardId": "draft-real-xinhua-world-nn6brq",
+      "cardTitle": "哥伦比亚总统：军方击毙20名反政府武装分子"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "没有抓到完整正文，目前使用候选摘要回退。",
+      "cardId": "draft-real-france24-middle-east-rss-13f9ial",
+      "cardTitle": "美伊交火，敌对行动再度升级"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "原文信息量有限，需要确认是否足以支持卡片结论。",
+      "cardId": "draft-real-france24-middle-east-rss-13f9ial",
+      "cardTitle": "美伊交火，敌对行动再度升级"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "原文信息量有限，需要确认是否足以支持卡片结论。",
+      "cardId": "draft-cluster-real-arxiv-cs-api-1pwpxmq",
+      "cardTitle": "大语言模型能否设计视频编码工具？以平面模式为例的案例研究"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "一句话导读偏短，可能没有讲清楚核心事实。",
+      "cardId": "draft-cluster-real-theverge-ai-rss-1t7cl0n",
+      "cardTitle": "AI“文明”的兴起与企业责任的衰落"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "原文篇幅较短且不是官方或主流来源，需要发布前复核。",
+      "cardId": "draft-real-eol-education-105x83p",
+      "cardTitle": "半数以上来自高校！中宣部公示2026年享受政府特殊津贴推荐人选"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "一句话导读偏短，可能没有讲清楚核心事实。",
+      "cardId": "draft-real-jyb-education-2ummu0",
+      "cardTitle": "助大学新生顺利完成学业过渡"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "一句话导读偏短，可能没有讲清楚核心事实。",
+      "cardId": "draft-real-jyb-education-1n1125m",
+      "cardTitle": "构建未成年人分级保护新路径"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "一句话导读偏短，可能没有讲清楚核心事实。",
+      "cardId": "draft-real-jyb-education-1bzsff3",
+      "cardTitle": "如何培养数智化新管理人才"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "一句话导读偏短，可能没有讲清楚核心事实。",
+      "cardId": "draft-real-jyb-education-g18d2j",
+      "cardTitle": "新学期，老师们请拿起笔"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "一句话导读偏短，可能没有讲清楚核心事实。",
+      "cardId": "draft-real-jyb-education-1eq7iir",
+      "cardTitle": "AI浪潮呼唤静悄悄的大学课堂变革"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "一句话导读偏短，可能没有讲清楚核心事实。",
+      "cardId": "draft-real-jyb-education-q6c0zn",
+      "cardTitle": "科教融汇的关键是体制机制突破"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "原文信息量有限，需要确认是否足以支持卡片结论。",
+      "cardId": "draft-real-arxiv-cs-api-183pswu",
+      "cardTitle": "通过轨迹感知评估实现高效的软件工程师代理基准测试"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "原文信息量有限，需要确认是否足以支持卡片结论。",
+      "cardId": "draft-real-arxiv-cs-api-1wala07",
+      "cardTitle": "用于仓库级代码生成的自适应关键令牌感知检索"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "原文信息量有限，需要确认是否足以支持卡片结论。",
+      "cardId": "draft-real-arxiv-cs-api-d46vhx",
+      "cardTitle": "CordisBench：语言模型能否在动态智能体框架中推理组件的生命周期？"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "原文信息量有限，需要确认是否足以支持卡片结论。",
+      "cardId": "draft-real-arxiv-cs-api-16nuzns",
+      "cardTitle": "对齐与控制机制设计"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "一句话导读偏短，可能没有讲清楚核心事实。",
+      "cardId": "draft-real-arxiv-cs-api-16nuzns",
+      "cardTitle": "对齐与控制机制设计"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "原文信息量有限，需要确认是否足以支持卡片结论。",
+      "cardId": "draft-real-arxiv-cs-api-1oji75h",
+      "cardTitle": "设计主动式思维伙伴以辅助写作"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "一句话导读偏短，可能没有讲清楚核心事实。",
+      "cardId": "draft-real-arxiv-cs-api-1oji75h",
+      "cardTitle": "设计主动式思维伙伴以辅助写作"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "原文信息量有限，需要确认是否足以支持卡片结论。",
+      "cardId": "draft-real-arxiv-cs-api-wj6kyn",
+      "cardTitle": "下垂控制型低频输电线路的稳定性"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "一句话导读偏短，可能没有讲清楚核心事实。",
+      "cardId": "draft-real-arxiv-cs-api-wj6kyn",
+      "cardTitle": "下垂控制型低频输电线路的稳定性"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "原文信息量有限，需要确认是否足以支持卡片结论。",
+      "cardId": "draft-real-arxiv-cs-api-t20fot",
+      "cardTitle": "通过熵进行选择性代理引导：从不完美视觉语言模型教师中学习自主策略"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "原文信息量有限，需要确认是否足以支持卡片结论。",
+      "cardId": "draft-real-arxiv-cs-api-dqli77",
+      "cardTitle": "从困惑到清晰：面向文本分类的困惑感知检索与知识注入"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "原文信息量有限，需要确认是否足以支持卡片结论。",
+      "cardId": "draft-real-arxiv-cs-api-wrrfu9",
+      "cardTitle": "检索到但未排序：从数学到智能体轨迹中的表面形式偏差"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "原文信息量有限，需要确认是否足以支持卡片结论。",
+      "cardId": "draft-real-arxiv-cs-api-31jjqv",
+      "cardTitle": "大语言模型能在真实世界和并行世界中探索科学定律吗？"
+    }
+  ]
+}

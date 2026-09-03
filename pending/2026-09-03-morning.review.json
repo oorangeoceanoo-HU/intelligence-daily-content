@@ -1,0 +1,374 @@
+{
+  "version": 1,
+  "date": "2026-09-03",
+  "generatedAt": "2026-09-03T07:58:09.211Z",
+  "status": "review",
+  "reviewMode": "generated",
+  "candidateSha256": "f611e9890d46509457c34dd2844e50acb2f3e5f95eb42855080383e46c66a46c",
+  "counts": {
+    "cards": 20,
+    "pages": 3,
+    "rawItems": 367,
+    "freshCandidates": 295,
+    "publishableCards": 30,
+    "reviewableCards": 38,
+    "rejectedCards": 22,
+    "blockers": 0,
+    "warnings": 51
+  },
+  "findings": [
+    {
+      "level": "warning",
+      "code": "translation-failures",
+      "message": "有 3 条英文或多语言候选没有完成中文化，当前翻译通道为 openai-compatible；这些候选已从最终日报排除。"
+    },
+    {
+      "level": "warning",
+      "code": "source-fetch-failures",
+      "message": "有 4 个来源抓取失败，需要确认是否影响当天覆盖面。"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "官方或主流媒体正文较短，但来源和事实可追溯，需要人工确认是否保留。",
+      "cardId": "draft-cluster-real-xinhua-world-1oqhcp8",
+      "cardTitle": "尼泊尔泥石流已致1252人死亡 4875人失联"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "没有抓到完整正文，目前使用候选摘要回退。",
+      "cardId": "draft-real-france24-middle-east-rss-padnhk",
+      "cardTitle": "伊朗与美国互相发出贸易威胁，德黑兰指责华盛顿导致婚礼罢工"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "原文信息量有限，需要确认是否足以支持卡片结论。",
+      "cardId": "draft-real-france24-middle-east-rss-padnhk",
+      "cardTitle": "伊朗与美国互相发出贸易威胁，德黑兰指责华盛顿导致婚礼罢工"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "原文信息量有限，需要确认是否足以支持卡片结论。",
+      "cardId": "draft-real-mem-cn-1qz92nv",
+      "cardTitle": "应急管理部会同交通运输部紧急调拨道路保通加固装备驰援吉隆"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "没有抓到完整正文，目前使用候选摘要回退。",
+      "cardId": "draft-real-france24-middle-east-rss-tzy86y",
+      "cardTitle": "美伊战争：旧视频被误传为显示对美军基地的新袭击"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "原文篇幅较短且不是官方或主流来源，需要发布前复核。",
+      "cardId": "draft-real-france24-middle-east-rss-tzy86y",
+      "cardTitle": "美伊战争：旧视频被误传为显示对美军基地的新袭击"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "没有抓到完整正文，目前使用候选摘要回退。",
+      "cardId": "draft-real-france24-middle-east-rss-1fwbnr7",
+      "cardTitle": "特朗普表示随时准备恢复对伊朗的打击"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "原文信息量有限，需要确认是否足以支持卡片结论。",
+      "cardId": "draft-real-france24-middle-east-rss-1fwbnr7",
+      "cardTitle": "特朗普表示随时准备恢复对伊朗的打击"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "没有抓到完整正文，目前使用候选摘要回退。",
+      "cardId": "draft-real-france24-asia-pacific-rss-svg8ka",
+      "cardTitle": "美国海军林肯号航母结束九个月海上部署，停靠泰国芭提雅度假胜地附近"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "原文信息量有限，需要确认是否足以支持卡片结论。",
+      "cardId": "draft-real-france24-asia-pacific-rss-svg8ka",
+      "cardTitle": "美国海军林肯号航母结束九个月海上部署，停靠泰国芭提雅度假胜地附近"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "原文信息量有限，需要确认是否足以支持卡片结论。",
+      "cardId": "draft-real-mem-cn-plu4f2",
+      "cardTitle": "国家安全生产应急救援队伍持续监测现场次生灾害120小时 采集2700组数据"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "原文信息量有限，需要确认是否足以支持卡片结论。",
+      "cardId": "draft-real-mem-cn-bk9y96",
+      "cardTitle": "应急管理部调派部自然灾害工程应急救援中心（中国安能）连夜加固G216吉隆口岸方向涉水路段"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "没有抓到完整正文，目前使用候选摘要回退。",
+      "cardId": "draft-real-france24-asia-pacific-rss-yknho7",
+      "cardTitle": "法国24台驻尼泊尔报道：在巴拉特普尔，当局开始安葬身份不明的遗体"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "原文篇幅较短且不是官方或主流来源，需要发布前复核。",
+      "cardId": "draft-real-france24-asia-pacific-rss-yknho7",
+      "cardTitle": "法国24台驻尼泊尔报道：在巴拉特普尔，当局开始安葬身份不明的遗体"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "没有抓到完整正文，目前使用候选摘要回退。",
+      "cardId": "draft-real-france24-asia-pacific-rss-1kh9nfn",
+      "cardTitle": "尼泊尔因灾难性洪水导致尸体被冲上岸，举行大规模集体埋葬"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "官方或主流媒体正文较短，但来源和事实可追溯，需要人工确认是否保留。",
+      "cardId": "draft-real-xinhua-world-15jd4yl",
+      "cardTitle": "外交部正告日本右翼势力：坚持和平发展才是正道"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "官方或主流媒体正文较短，但来源和事实可追溯，需要人工确认是否保留。",
+      "cardId": "draft-real-xinhua-world-klo06q",
+      "cardTitle": "外交部：中国对尼泊尔第三批紧急援助物资已启运"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "一句话导读和事件背景重复度偏高，需要补充不同的上下文。",
+      "cardId": "draft-real-xinhua-world-klo06q",
+      "cardTitle": "外交部：中国对尼泊尔第三批紧急援助物资已启运"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "官方或主流媒体正文较短，但来源和事实可追溯，需要人工确认是否保留。",
+      "cardId": "draft-real-xinhua-world-od1y6a",
+      "cardTitle": "外交部：中方正筹备第三批对尼泊尔紧急援助物资"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "原文信息量有限，需要确认是否足以支持卡片结论。",
+      "cardId": "draft-real-xinhua-world-c2gapb",
+      "cardTitle": "外交部谈“赛考斯”中国行：支持中美人民多来往"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "原文信息量有限，需要确认是否足以支持卡片结论。",
+      "cardId": "draft-real-xinhua-world-1a0bzh",
+      "cardTitle": "乌干达总统：愿同中方携手为两国关系发展注入强劲动力"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "没有抓到完整正文，目前使用候选摘要回退。",
+      "cardId": "draft-real-france24-middle-east-rss-16fjszo",
+      "cardTitle": "美伊交火，敌对行动再度升级"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "原文信息量有限，需要确认是否足以支持卡片结论。",
+      "cardId": "draft-real-france24-middle-east-rss-16fjszo",
+      "cardTitle": "美伊交火，敌对行动再度升级"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "原文篇幅较短且不是官方或主流来源，需要发布前复核。",
+      "cardId": "draft-cluster-real-techcrunch-ai-rss-dkz9mw",
+      "cardTitle": "Pangram的Max Spero谈为何AI检测比“真或假”更难"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "原文信息量有限，需要确认是否足以支持卡片结论。",
+      "cardId": "draft-real-arxiv-cs-api-b6tay",
+      "cardTitle": "SafeEvolve：利用智能体经验实现安全对齐的Harness-策略协同进化"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "原文信息量有限，需要确认是否足以支持卡片结论。",
+      "cardId": "draft-real-arxiv-cs-api-1g4edbb",
+      "cardTitle": "解开医疗问答中误导性语境的作用机制"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "一句话导读偏短，可能没有讲清楚核心事实。",
+      "cardId": "draft-real-arxiv-cs-api-1g4edbb",
+      "cardTitle": "解开医疗问答中误导性语境的作用机制"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "原文信息量有限，需要确认是否足以支持卡片结论。",
+      "cardId": "draft-real-arxiv-cs-api-2gv5i8",
+      "cardTitle": "双层协调反思：一种面向多智能体大语言模型系统的博弈论方法"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "原文篇幅较短且不是官方或主流来源，需要发布前复核。",
+      "cardId": "draft-cluster-real-theverge-ai-rss-1me8pi9",
+      "cardTitle": "亚马逊的AI助手现在能够识别来自该公司的虚假邮件"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "原文篇幅较短且不是官方或主流来源，需要发布前复核。",
+      "cardId": "draft-cluster-real-theverge-ai-rss-1d9yjio",
+      "cardTitle": "谷歌正将MrBeast送入荒野，并为其配备AI"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "原文篇幅较短且不是官方或主流来源，需要发布前复核。",
+      "cardId": "draft-real-eol-education-yhzlxv",
+      "cardTitle": "半数以上来自高校！中宣部公示2026年享受政府特殊津贴推荐人选"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "原文信息量有限，需要确认是否足以支持卡片结论。",
+      "cardId": "draft-real-arxiv-cs-api-n34yel",
+      "cardTitle": "用于网页代理的判别式世界模型"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "一句话导读偏短，可能没有讲清楚核心事实。",
+      "cardId": "draft-real-arxiv-cs-api-n34yel",
+      "cardTitle": "用于网页代理的判别式世界模型"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "原文信息量有限，需要确认是否足以支持卡片结论。",
+      "cardId": "draft-real-arxiv-cs-api-moxwus",
+      "cardTitle": "迈向可信的自主机器人：一种基于可解释人工智能的决策框架"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "官方或主流媒体正文较短，但来源和事实可追溯，需要人工确认是否保留。",
+      "cardId": "draft-real-arxiv-cs-api-1hzsw4c",
+      "cardTitle": "对INELFE西班牙-法国VSC-HVDC互联系统的POD-P控制器进行测试"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "原文信息量有限，需要确认是否足以支持卡片结论。",
+      "cardId": "draft-real-arxiv-cs-api-17uokii",
+      "cardTitle": "理解自动混音：两阶段混音系统的子任务导向分析"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "原文信息量有限，需要确认是否足以支持卡片结论。",
+      "cardId": "draft-real-arxiv-cs-api-w2cx1g",
+      "cardTitle": "用于恢复个体和群体层面效应的AI情境测量：与调查测量的验证及职业应用"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "官方或主流媒体正文较短，但来源和事实可追溯，需要人工确认是否保留。",
+      "cardId": "draft-real-arxiv-cs-api-1vnltzp",
+      "cardTitle": "电力转换器中功率振荡阻尼控制器的实施指南"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "原文信息量有限，需要确认是否足以支持卡片结论。",
+      "cardId": "draft-real-arxiv-cs-api-fsvi2o",
+      "cardTitle": "用于电信根因分析（RCA）的大语言模型：一种基于证据的诊断结构化推理框架"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "原文信息量有限，需要确认是否足以支持卡片结论。",
+      "cardId": "draft-real-arxiv-cs-api-15t08fk",
+      "cardTitle": "荷兰语书籍用于语言模型"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "一句话导读偏短，可能没有讲清楚核心事实。",
+      "cardId": "draft-real-arxiv-cs-api-15t08fk",
+      "cardTitle": "荷兰语书籍用于语言模型"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "原文信息量有限，需要确认是否足以支持卡片结论。",
+      "cardId": "draft-real-arxiv-cs-api-dkluk2",
+      "cardTitle": "从重新加权到重写：解锁训练数据归因中影响样本的干预效应"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "原文信息量有限，需要确认是否足以支持卡片结论。",
+      "cardId": "draft-real-arxiv-cs-api-1xy0no7",
+      "cardTitle": "HiPoly：一种用于性能预测与生成式设计的分层聚合物原生AI框架"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "原文信息量有限，需要确认是否足以支持卡片结论。",
+      "cardId": "draft-real-arxiv-cs-api-eq6d5u",
+      "cardTitle": "语言模型能够控制自身的注意力"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "一句话导读偏短，可能没有讲清楚核心事实。",
+      "cardId": "draft-real-arxiv-cs-api-eq6d5u",
+      "cardTitle": "语言模型能够控制自身的注意力"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "原文信息量有限，需要确认是否足以支持卡片结论。",
+      "cardId": "draft-real-arxiv-cs-api-1boyx6b",
+      "cardTitle": "RVSD：用于缓解大型视觉语言模型中视觉幻觉的检索视觉稀疏解码"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "原文信息量有限，需要确认是否足以支持卡片结论。",
+      "cardId": "draft-cluster-real-arxiv-cs-api-1b4gm6o",
+      "cardTitle": "从词元到语义：利用互补信号检测黑盒大语言模型中的幻觉"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "原文信息量有限，需要确认是否足以支持卡片结论。",
+      "cardId": "draft-real-arxiv-cs-api-1q5j19w",
+      "cardTitle": "DKL：解耦知识学习，用于指令微调语言模型"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "原文信息量有限，需要确认是否足以支持卡片结论。",
+      "cardId": "draft-real-arxiv-cs-api-5rzg93",
+      "cardTitle": "ARFT：一种用于分布式环境定位的同步多模态射频-声学数据集"
+    }
+  ]
+}

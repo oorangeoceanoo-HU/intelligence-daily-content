@@ -1,0 +1,115 @@
+{
+  "version": 1,
+  "date": "2026-09-08",
+  "generatedAt": "2026-09-08T07:35:05.081Z",
+  "status": "review",
+  "reviewMode": "generated",
+  "candidateSha256": "b214d348d0d645b9aa12b447c755929c83f988b573e072d7866c30e8160015eb",
+  "counts": {
+    "cards": 16,
+    "pages": 3,
+    "rawItems": 190,
+    "freshCandidates": 80,
+    "publishableCards": 19,
+    "reviewableCards": 12,
+    "rejectedCards": 45,
+    "blockers": 0,
+    "warnings": 14
+  },
+  "findings": [
+    {
+      "level": "warning",
+      "code": "translation-failures",
+      "message": "有 140 条英文或多语言候选没有完成中文化，当前翻译通道为 openai-compatible；这些候选已从最终日报排除。"
+    },
+    {
+      "level": "warning",
+      "code": "source-fetch-failures",
+      "message": "有 6 个来源抓取失败，需要确认是否影响当天覆盖面。"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "官方或主流媒体正文较短，但来源和事实可追溯，需要人工确认是否保留。",
+      "cardId": "draft-real-xinhua-world-1o47c8y",
+      "cardTitle": "乌克兰首都基辅再次响起强烈爆炸声"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "原文信息量有限，需要确认是否足以支持卡片结论。",
+      "cardId": "draft-real-xinhua-world-1dawzfq",
+      "cardTitle": "伊朗设立经济战争指挥部"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "原文信息量有限，需要确认是否足以支持卡片结论。",
+      "cardId": "draft-real-mem-cn-1k6apqk",
+      "cardTitle": "财政部、应急管理部紧急拨付2.4亿元中央自然灾害救灾资金 支持福建、江西、湖南等5省做好自然灾害应急抢险救灾工作"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "官方或主流媒体正文较短，但来源和事实可追溯，需要人工确认是否保留。",
+      "cardId": "draft-real-xinhua-world-1oizgbq",
+      "cardTitle": "俄外交部：美在挪威部署导弹发射系统是破坏性举措"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "官方或主流媒体正文较短，但来源和事实可追溯，需要人工确认是否保留。",
+      "cardId": "draft-real-xinhua-tech-d1sncb",
+      "cardTitle": "就业新机遇｜从“一人公司”到OPC社区 AI创业正当时"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "一句话导读偏短，可能没有讲清楚核心事实。",
+      "cardId": "draft-real-xinhua-tech-qk92n1",
+      "cardTitle": "AI坐上文本裁判席，真的靠谱吗"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "官方或主流媒体正文较短，但来源和事实可追溯，需要人工确认是否保留。",
+      "cardId": "draft-real-xinhua-tech-18au828",
+      "cardTitle": "博西家用电器集团首席执行官迈致远：中国市场创新成果正融入全球产品与技术体系"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "一句话导读偏短，可能没有讲清楚核心事实。",
+      "cardId": "draft-real-xinhua-tech-1r2zig6",
+      "cardTitle": "未来五年，如何接住AI“新饭碗”"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "原文篇幅较短且不是官方或主流来源，需要发布前复核。",
+      "cardId": "draft-real-eol-education-1chbu76",
+      "cardTitle": "刘建平任湖北大学党委书记"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "原文篇幅较短且不是官方或主流来源，需要发布前复核。",
+      "cardId": "draft-real-eol-education-1ejo3wo",
+      "cardTitle": "2026年度云南省“最美教师”发布"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "原文篇幅较短且不是官方或主流来源，需要发布前复核。",
+      "cardId": "draft-cluster-real-theverge-ai-rss-mejypc",
+      "cardTitle": "《西雅图时报》和《新闻日报》起诉OpenAI和微软侵权"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "官方或主流媒体正文较短，但来源和事实可追溯，需要人工确认是否保留。",
+      "cardId": "draft-real-npr-world-rss-niww0o",
+      "cardTitle": "美国特使在莫斯科会见普京后首次访问基辅"
+    }
+  ]
+}

@@ -1,0 +1,367 @@
+{
+  "version": 1,
+  "date": "2026-09-11",
+  "generatedAt": "2026-09-11T07:20:47.807Z",
+  "status": "review",
+  "reviewMode": "generated",
+  "candidateSha256": "38dc120533a970280da777cda05baa75545519a985d3779df3e47a590415c8f0",
+  "counts": {
+    "cards": 20,
+    "pages": 3,
+    "rawItems": 358,
+    "freshCandidates": 294,
+    "publishableCards": 27,
+    "reviewableCards": 38,
+    "rejectedCards": 34,
+    "blockers": 0,
+    "warnings": 50
+  },
+  "findings": [
+    {
+      "level": "warning",
+      "code": "translation-failures",
+      "message": "有 1 条英文或多语言候选没有完成中文化，当前翻译通道为 openai-compatible；这些候选已从最终日报排除。"
+    },
+    {
+      "level": "warning",
+      "code": "lead-background-repetition",
+      "message": "一句话导读与事件背景重复度较高。",
+      "cardId": "draft-real-npr-world-rss-18xso6u",
+      "cardTitle": "“我再也不会信任他们了”：一些在9·11事件后协助美国的阿富汗人对此感到后悔"
+    },
+    {
+      "level": "warning",
+      "code": "source-fetch-failures",
+      "message": "有 2 个来源抓取失败，需要确认是否影响当天覆盖面。"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "官方或主流媒体正文较短，但来源和事实可追溯，需要人工确认是否保留。",
+      "cardId": "draft-real-xinhua-world-1xnq7op",
+      "cardTitle": "伊朗称在霍尔木兹海峡击毁一艘美军无人艇"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "没有抓到完整正文，目前使用候选摘要回退。",
+      "cardId": "draft-real-france24-middle-east-rss-1yixbxs",
+      "cardTitle": "伊朗与美国袭击油轮，这是自战争爆发以来最大规模的航运袭击事件"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "原文信息量有限，需要确认是否足以支持卡片结论。",
+      "cardId": "draft-real-france24-middle-east-rss-1yixbxs",
+      "cardTitle": "伊朗与美国袭击油轮，这是自战争爆发以来最大规模的航运袭击事件"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "没有抓到完整正文，目前使用候选摘要回退。",
+      "cardId": "draft-real-france24-middle-east-rss-1spgn7c",
+      "cardTitle": "伊朗袭击船只，扩大霍尔木兹海峡外禁航区"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "原文信息量有限，需要确认是否足以支持卡片结论。",
+      "cardId": "draft-real-france24-middle-east-rss-1spgn7c",
+      "cardTitle": "伊朗袭击船只，扩大霍尔木兹海峡外禁航区"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "官方或主流媒体正文较短，但来源和事实可追溯，需要人工确认是否保留。",
+      "cardId": "draft-real-npr-world-rss-18xso6u",
+      "cardTitle": "“我再也不会信任他们了”：一些在9·11事件后协助美国的阿富汗人对此感到后悔"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "一句话导读和事件背景重复度偏高，需要补充不同的上下文。",
+      "cardId": "draft-real-npr-world-rss-18xso6u",
+      "cardTitle": "“我再也不会信任他们了”：一些在9·11事件后协助美国的阿富汗人对此感到后悔"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "没有抓到完整正文，目前使用候选摘要回退。",
+      "cardId": "draft-real-france24-middle-east-rss-zotk5w",
+      "cardTitle": "以色列摧毁黎巴嫩南部真主党隧道网络，引发4.1级地震"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "原文信息量有限，需要确认是否足以支持卡片结论。",
+      "cardId": "draft-real-france24-middle-east-rss-zotk5w",
+      "cardTitle": "以色列摧毁黎巴嫩南部真主党隧道网络，引发4.1级地震"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "没有抓到完整正文，目前使用候选摘要回退。",
+      "cardId": "draft-cluster-real-france24-middle-east-rss-uby0at",
+      "cardTitle": "也门胡塞武装攻占红海战略港口城市摩卡"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "原文信息量有限，需要确认是否足以支持卡片结论。",
+      "cardId": "draft-cluster-real-france24-middle-east-rss-uby0at",
+      "cardTitle": "也门胡塞武装攻占红海战略港口城市摩卡"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "官方或主流媒体正文较短，但来源和事实可追溯，需要人工确认是否保留。",
+      "cardId": "draft-real-xinhua-world-1whs7dt",
+      "cardTitle": "乌克兰苏梅市一购物中心遇袭致两人死亡"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "官方或主流媒体正文较短，但来源和事实可追溯，需要人工确认是否保留。",
+      "cardId": "draft-real-xinhua-world-1i0aiii",
+      "cardTitle": "外交部：中美双方就年内元首互动安排保持着沟通"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "官方或主流媒体正文较短，但来源和事实可追溯，需要人工确认是否保留。",
+      "cardId": "draft-real-xinhua-world-emc97w",
+      "cardTitle": "外交部：愿根据尼方需要为灾后重建提供力所能及帮助"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "没有抓到完整正文，目前使用候选摘要回退。",
+      "cardId": "draft-real-france24-middle-east-rss-gui9ay",
+      "cardTitle": "胡塞武装对曼德海峡的攻势可能带来“巨大杠杆”，分析师称"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "原文信息量有限，需要确认是否足以支持卡片结论。",
+      "cardId": "draft-real-france24-middle-east-rss-gui9ay",
+      "cardTitle": "胡塞武装对曼德海峡的攻势可能带来“巨大杠杆”，分析师称"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "官方或主流媒体正文较短，但来源和事实可追溯，需要人工确认是否保留。",
+      "cardId": "draft-real-npr-world-rss-1ublohc",
+      "cardTitle": "联合国维和人员向NPR罕见展示以色列防线后方的情况"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "官方或主流媒体正文较短，但来源和事实可追溯，需要人工确认是否保留。",
+      "cardId": "draft-real-xinhua-tech-1wy98i7",
+      "cardTitle": "聚焦“共创AI新经济” 2026外滩大会在沪举行"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "原文信息量有限，需要确认是否足以支持卡片结论。",
+      "cardId": "draft-real-xinhua-tech-1n3snb4",
+      "cardTitle": "我国研发投入前1000家民企持续加强创新"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "原文篇幅较短且不是官方或主流来源，需要发布前复核。",
+      "cardId": "draft-cluster-real-techcrunch-ai-rss-qo2fgd",
+      "cardTitle": "苹果新款折叠屏手机的铰链由人工智能技术打造"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "一句话导读偏短，可能没有讲清楚核心事实。",
+      "cardId": "draft-cluster-real-theverge-ai-rss-1lts846",
+      "cardTitle": "学校正在借鉴大型科技公司的策略"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "原文篇幅较短且不是官方或主流来源，需要发布前复核。",
+      "cardId": "draft-cluster-real-eol-education-1e4vby8",
+      "cardTitle": "浙江省发布多所高校领导班子任免通知"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "一句话导读偏短，可能没有讲清楚核心事实。",
+      "cardId": "draft-real-jyb-education-qsi4ko",
+      "cardTitle": "校长如何学以致用推动学校发展"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "一句话导读偏短，可能没有讲清楚核心事实。",
+      "cardId": "draft-real-jyb-education-o6m6s",
+      "cardTitle": "给学校管理制度打上“人文补丁”"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "一句话导读偏短，可能没有讲清楚核心事实。",
+      "cardId": "draft-real-jyb-education-1cfa2z1",
+      "cardTitle": "学会“倾听” 让管理更有温度"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "原文篇幅较短且不是官方或主流来源，需要发布前复核。",
+      "cardId": "draft-cluster-real-techcrunch-ai-rss-1l4ezg4",
+      "cardTitle": "超级智能即将到来。我们是否应该让它到来？"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "一句话导读偏短，可能没有讲清楚核心事实。",
+      "cardId": "draft-real-eol-education-5glhfh",
+      "cardTitle": "中小学教师，逐步进入“硕博时代”！"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "原文篇幅较短且不是官方或主流来源，需要发布前复核。",
+      "cardId": "draft-real-eol-education-1mxwky3",
+      "cardTitle": "25人入选！2026年“最美教师”名单公布"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "原文信息量有限，需要确认是否足以支持卡片结论。",
+      "cardId": "draft-real-arxiv-cs-api-1stu2lb",
+      "cardTitle": "协变量与概念漂移的通用量化"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "一句话导读偏短，可能没有讲清楚核心事实。",
+      "cardId": "draft-real-arxiv-cs-api-1stu2lb",
+      "cardTitle": "协变量与概念漂移的通用量化"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "原文信息量有限，需要确认是否足以支持卡片结论。",
+      "cardId": "draft-real-arxiv-cs-api-3oyayc",
+      "cardTitle": "边缘部署的视觉-语言模型能否识别物种？"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "原文信息量有限，需要确认是否足以支持卡片结论。",
+      "cardId": "draft-real-arxiv-cs-api-15du0jy",
+      "cardTitle": "生成式营销组合建模：连接地理扩展营销（GEO）与地理扩展营销（GEM）对业务影响的因果推断框架"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "原文信息量有限，需要确认是否足以支持卡片结论。",
+      "cardId": "draft-real-arxiv-cs-api-1xcrbn7",
+      "cardTitle": "人工身份：驱动与持续对齐在代理式人工智能中的应用"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "原文信息量有限，需要确认是否足以支持卡片结论。",
+      "cardId": "draft-real-arxiv-cs-api-94ljsq",
+      "cardTitle": "MindTopo：基础模型能否在拓扑空间中进行推理？"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "原文信息量有限，需要确认是否足以支持卡片结论。",
+      "cardId": "draft-real-arxiv-cs-api-xifp6h",
+      "cardTitle": "用于毫米波雷达新视角合成的3D点溅射"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "原文信息量有限，需要确认是否足以支持卡片结论。",
+      "cardId": "draft-real-arxiv-cs-api-7mrifc",
+      "cardTitle": "线性推荐模型的正则化景观"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "一句话导读偏短，可能没有讲清楚核心事实。",
+      "cardId": "draft-real-arxiv-cs-api-7mrifc",
+      "cardTitle": "线性推荐模型的正则化景观"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "原文信息量有限，需要确认是否足以支持卡片结论。",
+      "cardId": "draft-real-arxiv-cs-api-13bdlrx",
+      "cardTitle": "人类打造的最后一款AI：迈向真正的递归式自我改进"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "原文信息量有限，需要确认是否足以支持卡片结论。",
+      "cardId": "draft-real-arxiv-cs-api-rrc4cu",
+      "cardTitle": "RetroThinker：在语音大语言模型中实现回溯性思维"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "原文信息量有限，需要确认是否足以支持卡片结论。",
+      "cardId": "draft-real-arxiv-cs-api-up6pjg",
+      "cardTitle": "截断噪声最佳响应算法：迈向具有安全保证的博弈论学习"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "原文信息量有限，需要确认是否足以支持卡片结论。",
+      "cardId": "draft-real-arxiv-cs-api-mzouvo",
+      "cardTitle": "可解释性助手：用于解读能源消耗模型的可对话式XAI界面"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "官方或主流媒体正文较短，但来源和事实可追溯，需要人工确认是否保留。",
+      "cardId": "draft-real-arxiv-cs-api-1ahogun",
+      "cardTitle": "从开放无线接入网到开放频谱：一种支持多业务频谱共存的可编程智能架构"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "原文信息量有限，需要确认是否足以支持卡片结论。",
+      "cardId": "draft-real-arxiv-cs-api-pgi6wx",
+      "cardTitle": "了解操作员对人工智能辅助海事决策的态度"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "原文信息量有限，需要确认是否足以支持卡片结论。",
+      "cardId": "draft-real-arxiv-cs-api-4eg090",
+      "cardTitle": "Logit Refiner：通过尺度内依赖建模改进视觉自回归模型"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "原文信息量有限，需要确认是否足以支持卡片结论。",
+      "cardId": "draft-real-arxiv-cs-api-1p3ij1i",
+      "cardTitle": "使用循环流进行思考"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "一句话导读偏短，可能没有讲清楚核心事实。",
+      "cardId": "draft-real-arxiv-cs-api-1p3ij1i",
+      "cardTitle": "使用循环流进行思考"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "原文信息量有限，需要确认是否足以支持卡片结论。",
+      "cardId": "draft-real-arxiv-cs-api-1dl650b",
+      "cardTitle": "超越词错误率：针对英语-约鲁巴语代码切换语音的ASR和音频语言模型的切换感知评估"
+    }
+  ]
+}

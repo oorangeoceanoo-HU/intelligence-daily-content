@@ -1,0 +1,199 @@
+{
+  "version": 1,
+  "date": "2026-09-12",
+  "generatedAt": "2026-09-12T07:13:58.183Z",
+  "status": "review",
+  "reviewMode": "generated",
+  "candidateSha256": "ca0e7b0191a16038dded43790930e33619aa6ee530d3405e0e75b8373b89c326",
+  "counts": {
+    "cards": 20,
+    "pages": 3,
+    "rawItems": 306,
+    "freshCandidates": 257,
+    "publishableCards": 30,
+    "reviewableCards": 20,
+    "rejectedCards": 34,
+    "blockers": 0,
+    "warnings": 26
+  },
+  "findings": [
+    {
+      "level": "warning",
+      "code": "translation-failures",
+      "message": "有 2 条英文或多语言候选没有完成中文化，当前翻译通道为 openai-compatible；这些候选已从最终日报排除。"
+    },
+    {
+      "level": "warning",
+      "code": "source-fetch-failures",
+      "message": "有 3 个来源抓取失败，需要确认是否影响当天覆盖面。"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "官方或主流媒体正文较短，但来源和事实可追溯，需要人工确认是否保留。",
+      "cardId": "draft-real-xinhua-world-av4e7j",
+      "cardTitle": "伊朗说14日将在阿曼开会讨论霍尔木兹海峡商运航线"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "原文信息量有限，需要确认是否足以支持卡片结论。",
+      "cardId": "draft-real-xinhua-world-fkxis0",
+      "cardTitle": "特朗普称“不后悔”发动伊朗战争"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "没有抓到完整正文，目前使用候选摘要回退。",
+      "cardId": "draft-cluster-real-france24-middle-east-rss-m9prub",
+      "cardTitle": "伊朗支持的胡塞武装几乎控制红海咽喉曼德海峡航运要道"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "原文信息量有限，需要确认是否足以支持卡片结论。",
+      "cardId": "draft-cluster-real-france24-middle-east-rss-m9prub",
+      "cardTitle": "伊朗支持的胡塞武装几乎控制红海咽喉曼德海峡航运要道"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "官方或主流媒体正文较短，但来源和事实可追溯，需要人工确认是否保留。",
+      "cardId": "draft-real-npr-world-rss-1v4h7bt",
+      "cardTitle": "在战争与制裁之下，伊朗失业状况恶化"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "没有抓到完整正文，目前使用候选摘要回退。",
+      "cardId": "draft-real-france24-asia-pacific-rss-cb8e5d",
+      "cardTitle": "普京抵达印度出席金砖国家峰会，中东和乌克兰战争预计将成为会议焦点"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "原文信息量有限，需要确认是否足以支持卡片结论。",
+      "cardId": "draft-real-france24-asia-pacific-rss-cb8e5d",
+      "cardTitle": "普京抵达印度出席金砖国家峰会，中东和乌克兰战争预计将成为会议焦点"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "官方或主流媒体正文较短，但来源和事实可追溯，需要人工确认是否保留。",
+      "cardId": "draft-real-npr-world-rss-d6t781",
+      "cardTitle": "9/11的另一面：阿富汗人直面美国漫长的阴影"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "没有抓到完整正文，目前使用候选摘要回退。",
+      "cardId": "draft-cluster-real-france24-middle-east-rss-sxzzty",
+      "cardTitle": "也门胡塞武装攻占红海战略港口城市摩卡"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "原文信息量有限，需要确认是否足以支持卡片结论。",
+      "cardId": "draft-cluster-real-france24-middle-east-rss-sxzzty",
+      "cardTitle": "也门胡塞武装攻占红海战略港口城市摩卡"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "原文信息量有限，需要确认是否足以支持卡片结论。",
+      "cardId": "draft-real-xinhua-world-1rsvfpm",
+      "cardTitle": "外交部：一中原则是中意关系、中欧关系的政治基础"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "官方或主流媒体正文较短，但来源和事实可追溯，需要人工确认是否保留。",
+      "cardId": "draft-real-xinhua-world-1h6zppd",
+      "cardTitle": "外交部回应中方调整日本公民赴华签证费：对等安排"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "一句话导读偏短，可能没有讲清楚核心事实。",
+      "cardId": "draft-real-npr-world-rss-1mhq7pp",
+      "cardTitle": "美加贸易战令汽车零部件制造商头疼"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "一句话导读偏短，可能没有讲清楚核心事实。",
+      "cardId": "draft-real-cnbc-world-rss-q7vegh",
+      "cardTitle": "8月通胀持续，可能锁定美联储加息"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "没有抓到完整正文，目前使用候选摘要回退。",
+      "cardId": "draft-real-france24-middle-east-rss-1berclg",
+      "cardTitle": "胡塞武装控制也门整个红海沿岸"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "原文信息量有限，需要确认是否足以支持卡片结论。",
+      "cardId": "draft-real-france24-middle-east-rss-1berclg",
+      "cardTitle": "胡塞武装控制也门整个红海沿岸"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "原文篇幅较短且不是官方或主流来源，需要发布前复核。",
+      "cardId": "draft-cluster-real-cnbc-world-rss-ilu38r",
+      "cardTitle": "图片：美国纪念“9·11”事件25周年"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "原文篇幅较短且不是官方或主流来源，需要发布前复核。",
+      "cardId": "draft-real-cnbc-world-rss-38y391",
+      "cardTitle": "美国疾控中心称，创纪录的环孢子虫疫情已结束"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "一句话导读偏短，可能没有讲清楚核心事实。",
+      "cardId": "draft-real-jyb-education-164m0dk",
+      "cardTitle": "礼敬教师 与光同行"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "一句话导读偏短，可能没有讲清楚核心事实。",
+      "cardId": "draft-real-jyb-education-2prgsp",
+      "cardTitle": "百年老校“焕新”记"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "原文信息量有限，需要确认是否足以支持卡片结论。",
+      "cardId": "draft-real-un-news-rss-17i5lky",
+      "cardTitle": "安理会直播：大使们在9/11纪念日推动反恐议程，聚焦人工智能与无人机"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "一句话导读偏短，可能没有讲清楚核心事实。",
+      "cardId": "draft-cluster-real-theverge-ai-rss-1n7q8l1",
+      "cardTitle": "学校正在借鉴大型科技公司的策略"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "原文篇幅较短且不是官方或主流来源，需要发布前复核。",
+      "cardId": "draft-cluster-real-eol-education-1eeuxn7",
+      "cardTitle": "浙江省发布多所高校领导班子任免通知"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "一句话导读偏短，可能没有讲清楚核心事实。",
+      "cardId": "draft-real-gdacs-feed-1nk03nw",
+      "cardTitle": "法国发布绿色洪水警报"
+    }
+  ]
+}

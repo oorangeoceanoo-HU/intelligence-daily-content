@@ -1,0 +1,178 @@
+{
+  "version": 1,
+  "date": "2026-09-16",
+  "generatedAt": "2026-09-16T07:59:27.165Z",
+  "status": "review",
+  "reviewMode": "generated",
+  "candidateSha256": "089e0aaa8843456e1651dd84dcc439cb6588391998a8dc807c963bf75b164ffc",
+  "counts": {
+    "cards": 20,
+    "pages": 3,
+    "rawItems": 341,
+    "freshCandidates": 229,
+    "publishableCards": 37,
+    "reviewableCards": 17,
+    "rejectedCards": 41,
+    "blockers": 0,
+    "warnings": 23
+  },
+  "findings": [
+    {
+      "level": "warning",
+      "code": "translation-failures",
+      "message": "有 94 条英文或多语言候选没有完成中文化，当前翻译通道为 openai-compatible；这些候选已从最终日报排除。"
+    },
+    {
+      "level": "warning",
+      "code": "source-fetch-failures",
+      "message": "有 7 个来源抓取失败，需要确认是否影响当天覆盖面。"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "没有抓到完整正文，目前使用候选摘要回退。",
+      "cardId": "draft-real-france24-middle-east-rss-1otazz9",
+      "cardTitle": "先是霍尔木兹海峡，如今红海？油价飙升，沙特被卷入也门螺旋"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "原文信息量有限，需要确认是否足以支持卡片结论。",
+      "cardId": "draft-real-france24-middle-east-rss-1otazz9",
+      "cardTitle": "先是霍尔木兹海峡，如今红海？油价飙升，沙特被卷入也门螺旋"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "原文信息量有限，需要确认是否足以支持卡片结论。",
+      "cardId": "draft-real-mem-cn-1qwyvbg",
+      "cardTitle": "9月16日中午11:50央视12频道《应急时刻》将播出安全生产“打非治违”特别节目"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "官方或主流媒体正文较短，但来源和事实可追溯，需要人工确认是否保留。",
+      "cardId": "draft-real-mem-cn-1f09m9",
+      "cardTitle": "国家防减救灾委、应急管理部启动国家自然灾害救助四级应急响应 指导支持海南做好暴雨洪涝灾害救助工作"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "没有抓到完整正文，目前使用候选摘要回退。",
+      "cardId": "draft-cluster-real-france24-asia-pacific-rss-mp2hnl",
+      "cardTitle": "专家指出，中国正塑造“世界政治中的稳定力量”形象"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "原文信息量有限，需要确认是否足以支持卡片结论。",
+      "cardId": "draft-cluster-real-france24-asia-pacific-rss-mp2hnl",
+      "cardTitle": "专家指出，中国正塑造“世界政治中的稳定力量”形象"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "官方或主流媒体正文较短，但来源和事实可追溯，需要人工确认是否保留。",
+      "cardId": "draft-real-npr-world-rss-1l66jem",
+      "cardTitle": "特朗普称乌克兰和俄罗斯已同意停止对能源设施的袭击"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "官方或主流媒体正文较短，但来源和事实可追溯，需要人工确认是否保留。",
+      "cardId": "draft-real-xinhua-tech-1hvnq1p",
+      "cardTitle": "8月份我国工业机器人产量同比增长34.6%"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "没有抓到完整正文，目前使用候选摘要回退。",
+      "cardId": "draft-real-france24-middle-east-rss-5gqt2y",
+      "cardTitle": "沙特阿拉伯誓言在胡塞武装袭击后“坚决”反击"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "原文信息量有限，需要确认是否足以支持卡片结论。",
+      "cardId": "draft-real-france24-middle-east-rss-5gqt2y",
+      "cardTitle": "沙特阿拉伯誓言在胡塞武装袭击后“坚决”反击"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "没有抓到完整正文，目前使用候选摘要回退。",
+      "cardId": "draft-real-france24-middle-east-rss-17f8lle",
+      "cardTitle": "专家称“伊朗中心轴”仍是该地区“最具破坏性的力量之一”"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "原文信息量有限，需要确认是否足以支持卡片结论。",
+      "cardId": "draft-real-france24-middle-east-rss-17f8lle",
+      "cardTitle": "专家称“伊朗中心轴”仍是该地区“最具破坏性的力量之一”"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "原文篇幅较短且不是官方或主流来源，需要发布前复核。",
+      "cardId": "draft-cluster-real-techcrunch-ai-rss-rbcmvl",
+      "cardTitle": "AEO初创公司Profound估值达独角兽级别，距上一轮融资仅7个月即完成1.8亿美元D轮融资"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "原文篇幅较短且不是官方或主流来源，需要发布前复核。",
+      "cardId": "draft-cluster-real-techcrunch-ai-rss-14qyw06",
+      "cardTitle": "黄仁勋接听了特朗普的电话，并展示了其他内容"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "原文篇幅较短且不是官方或主流来源，需要发布前复核。",
+      "cardId": "draft-cluster-real-techcrunch-ai-rss-mztv11",
+      "cardTitle": "据报道，OpenAI以3亿美元收购智能手机摄像头制造商Glass Imaging"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "原文篇幅较短且不是官方或主流来源，需要发布前复核。",
+      "cardId": "draft-real-eol-education-19ei8fn",
+      "cardTitle": "四川2所高校党委书记、校长有调整"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "原文篇幅较短且不是官方或主流来源，需要发布前复核。",
+      "cardId": "draft-real-eol-education-v7syng",
+      "cardTitle": "郑伟峰已任延边大学党委书记"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "原文篇幅较短且不是官方或主流来源，需要发布前复核。",
+      "cardId": "draft-real-eol-education-1sdldvw",
+      "cardTitle": "国家卫健委：扩大优质医学本科和硕士招生规模"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "一句话导读偏短，可能没有讲清楚核心事实。",
+      "cardId": "draft-real-ieee-spectrum-rss-3fc1eq",
+      "cardTitle": "各国寻求遏制儿童社交媒体成瘾"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "一句话导读偏短，可能没有讲清楚核心事实。",
+      "cardId": "draft-real-hr-dive-rss-16v5nb5",
+      "cardTitle": "据称，因受多元化、公平与包容"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "一句话导读偏短，可能没有讲清楚核心事实。",
+      "cardId": "draft-real-hr-dive-rss-1v8ru30",
+      "cardTitle": "人工智能正在扼杀劳动者的认知能力吗？"
+    }
+  ]
+}

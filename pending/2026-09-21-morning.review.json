@@ -1,0 +1,222 @@
+{
+  "version": 1,
+  "date": "2026-09-21",
+  "generatedAt": "2026-09-21T07:55:28.120Z",
+  "status": "review",
+  "reviewMode": "generated",
+  "candidateSha256": "8ff195bac6e3e4ef0154841a7bc3aa1dedd901d1a04d31f14f334d871f28198f",
+  "counts": {
+    "cards": 20,
+    "pages": 3,
+    "rawItems": 187,
+    "freshCandidates": 155,
+    "publishableCards": 30,
+    "reviewableCards": 21,
+    "rejectedCards": 46,
+    "blockers": 0,
+    "warnings": 29
+  },
+  "findings": [
+    {
+      "level": "warning",
+      "code": "lead-background-repetition",
+      "message": "一句话导读与事件背景重复度较高。",
+      "cardId": "draft-real-xinhua-world-ag6y6h",
+      "cardTitle": "韩媒：韩朝边境非军事区疑似地雷爆炸致3人受伤"
+    },
+    {
+      "level": "warning",
+      "code": "source-fetch-failures",
+      "message": "有 3 个来源抓取失败，需要确认是否影响当天覆盖面。"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "官方或主流媒体正文较短，但来源和事实可追溯，需要人工确认是否保留。",
+      "cardId": "draft-real-xinhua-world-ag6y6h",
+      "cardTitle": "韩媒：韩朝边境非军事区疑似地雷爆炸致3人受伤"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "一句话导读和事件背景重复度偏高，需要补充不同的上下文。",
+      "cardId": "draft-real-xinhua-world-ag6y6h",
+      "cardTitle": "韩媒：韩朝边境非军事区疑似地雷爆炸致3人受伤"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "没有抓到完整正文，目前使用候选摘要回退。",
+      "cardId": "draft-real-france24-middle-east-rss-r202jt",
+      "cardTitle": "图片看一周：叙利亚抗议、席琳·迪翁登台演出及基多山火"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "原文信息量有限，需要确认是否足以支持卡片结论。",
+      "cardId": "draft-real-france24-middle-east-rss-r202jt",
+      "cardTitle": "图片看一周：叙利亚抗议、席琳·迪翁登台演出及基多山火"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "原文信息量有限，需要确认是否足以支持卡片结论。",
+      "cardId": "draft-real-mofcom-trade-ejfinq",
+      "cardTitle": "李强将出席第五届全球数字贸易博览会启动仪式及相关活动"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "官方或主流媒体正文较短，但来源和事实可追溯，需要人工确认是否保留。",
+      "cardId": "draft-real-mofcom-trade-4j3bvv",
+      "cardTitle": "中美经贸磋商在美国纽约开始举行"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "没有抓到完整正文，目前使用候选摘要回退。",
+      "cardId": "draft-real-france24-middle-east-rss-as5mrx",
+      "cardTitle": "关于加沙战争的纪录片《NAZA》在以色列引发政治风暴"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "原文信息量有限，需要确认是否足以支持卡片结论。",
+      "cardId": "draft-real-france24-middle-east-rss-as5mrx",
+      "cardTitle": "关于加沙战争的纪录片《NAZA》在以色列引发政治风暴"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "没有抓到完整正文，目前使用候选摘要回退。",
+      "cardId": "draft-cluster-real-france24-middle-east-rss-wxxxti",
+      "cardTitle": "胡塞武装袭击与西方支持缺失：沙特阿拉伯有何选择？"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "原文信息量有限，需要确认是否足以支持卡片结论。",
+      "cardId": "draft-cluster-real-france24-middle-east-rss-wxxxti",
+      "cardTitle": "胡塞武装袭击与西方支持缺失：沙特阿拉伯有何选择？"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "原文信息量有限，需要确认是否足以支持卡片结论。",
+      "cardId": "draft-real-xinhua-world-fh2vxi",
+      "cardTitle": "也门胡塞武装称袭击沙特“敏感目标”和阿美公司设施"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "官方或主流媒体正文较短，但来源和事实可追溯，需要人工确认是否保留。",
+      "cardId": "draft-real-npr-world-rss-1t39lo5",
+      "cardTitle": "在特朗普与习近平的峰会上定义全球人工智能领导力"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "没有抓到完整正文，目前使用候选摘要回退。",
+      "cardId": "draft-real-france24-middle-east-rss-i3ubuu",
+      "cardTitle": "美国为何不介入保护沙特阿拉伯免受胡塞武装攻击？"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "原文信息量有限，需要确认是否足以支持卡片结论。",
+      "cardId": "draft-real-france24-middle-east-rss-i3ubuu",
+      "cardTitle": "美国为何不介入保护沙特阿拉伯免受胡塞武装攻击？"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "没有抓到完整正文，目前使用候选摘要回退。",
+      "cardId": "draft-real-france24-asia-pacific-rss-13acq6j",
+      "cardTitle": "朝鲜向海中发射两枚弹道导弹，进行最新武器展示"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "原文信息量有限，需要确认是否足以支持卡片结论。",
+      "cardId": "draft-real-france24-asia-pacific-rss-13acq6j",
+      "cardTitle": "朝鲜向海中发射两枚弹道导弹，进行最新武器展示"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "标题过长，移动端阅读时需要压缩成编辑标题。",
+      "cardId": "draft-real-city-news-rss:%E4%B8%AD%E5%9B%BD-%E4%B8%8A%E6%B5%B7-10pjktn",
+      "cardTitle": "19 2026.09 提示 听！防空警报正在试鸣！ 市国防动员办公室介绍，2026年9月19日，是第26个全民国防教育日，也是上海举办全市防空警报试鸣的第19个年头。"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "原文篇幅较短且不是官方或主流来源，需要发布前复核。",
+      "cardId": "draft-cluster-real-theverge-ai-rss-aa3pol",
+      "cardTitle": "英伟达（Nvidia）首席执行官黄仁勋认为，人们对人工智能的担忧被夸大了，这一观点并不令人意外。"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "原文篇幅较短且不是官方或主流来源，需要发布前复核。",
+      "cardId": "draft-cluster-real-theverge-ai-rss-16aunf3",
+      "cardTitle": "特朗普现表示希望组建“人工智能部队”"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "原文篇幅较短且不是官方或主流来源，需要发布前复核。",
+      "cardId": "draft-real-eol-education-blfos3",
+      "cardTitle": "每5名大学生就有一人办助学贷款！大学的学费，不只有父母在买单"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "一句话导读偏短，可能没有讲清楚核心事实。",
+      "cardId": "draft-real-jyb-education-yg0hnq",
+      "cardTitle": "校本化重构乡村道德与法治课堂"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "一句话导读偏短，可能没有讲清楚核心事实。",
+      "cardId": "draft-real-jyb-education-kh8ed0",
+      "cardTitle": "考试评价如何跳出经验精准育人"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "一句话导读偏短，可能没有讲清楚核心事实。",
+      "cardId": "draft-real-jyb-education-1o666te",
+      "cardTitle": "本土情境 思辨育人"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "原文篇幅较短且不是官方或主流来源，需要发布前复核。",
+      "cardId": "draft-cluster-real-techcrunch-ai-rss-16sqvsn",
+      "cardTitle": "据报道，Flock 正试图通过员工买断计划缩减 workforce"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "原文篇幅较短且不是官方或主流来源，需要发布前复核。",
+      "cardId": "draft-cluster-real-techcrunch-ai-rss-1qm1u09",
+      "cardTitle": "谷歌的Gemini成为最新一款“黑客”其他公司AI模型的工具"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "原文篇幅较短且不是官方或主流来源，需要发布前复核。",
+      "cardId": "draft-real-eol-education-s7ncql",
+      "cardTitle": "2026国际产学研用合作会议(东北三省一区)举办"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "一句话导读偏短，可能没有讲清楚核心事实。",
+      "cardId": "draft-real-gdacs-feed-8fdpn6",
+      "cardTitle": "菲律宾发布绿色洪水警报"
+    }
+  ]
+}

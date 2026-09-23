@@ -1,0 +1,299 @@
+{
+  "version": 1,
+  "date": "2026-09-23",
+  "generatedAt": "2026-09-23T08:32:36.699Z",
+  "status": "review",
+  "reviewMode": "generated",
+  "candidateSha256": "fbc34af19459dd9632fb3d0c92d1aeffb42dc66b205e5aa7553e3aaee61e0d50",
+  "counts": {
+    "cards": 20,
+    "pages": 3,
+    "rawItems": 343,
+    "freshCandidates": 285,
+    "publishableCards": 43,
+    "reviewableCards": 34,
+    "rejectedCards": 22,
+    "blockers": 0,
+    "warnings": 40
+  },
+  "findings": [
+    {
+      "level": "warning",
+      "code": "lead-background-repetition",
+      "message": "一句话导读与事件背景重复度较高。",
+      "cardId": "draft-real-npr-world-rss-gmjq8l",
+      "cardTitle": "美伊战争成为考验谁先退缩的试金石"
+    },
+    {
+      "level": "warning",
+      "code": "source-fetch-failures",
+      "message": "有 3 个来源抓取失败，需要确认是否影响当天覆盖面。"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "一句话导读偏短，可能没有讲清楚核心事实。",
+      "cardId": "draft-real-xinhua-world-1ny3935",
+      "cardTitle": "战争未远，以色列人在不安中盼望平静"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "官方或主流媒体正文较短，但来源和事实可追溯，需要人工确认是否保留。",
+      "cardId": "draft-real-npr-world-rss-gmjq8l",
+      "cardTitle": "美伊战争成为考验谁先退缩的试金石"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "一句话导读和事件背景重复度偏高，需要补充不同的上下文。",
+      "cardId": "draft-real-npr-world-rss-gmjq8l",
+      "cardTitle": "美伊战争成为考验谁先退缩的试金石"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "没有抓到完整正文，目前使用候选摘要回退。",
+      "cardId": "draft-real-france24-middle-east-rss-1bhuros",
+      "cardTitle": "中东局势实时更新：特朗普称其特使维特科夫与库什纳已与调解方就潜在伊朗协议进行会谈"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "原文信息量有限，需要确认是否足以支持卡片结论。",
+      "cardId": "draft-real-france24-middle-east-rss-1bhuros",
+      "cardTitle": "中东局势实时更新：特朗普称其特使维特科夫与库什纳已与调解方就潜在伊朗协议进行会谈"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "原文信息量有限，需要确认是否足以支持卡片结论。",
+      "cardId": "draft-real-xinhua-world-1qe9tpj",
+      "cardTitle": "外交部：“敌国条款”时至今日仍具有重要现实意义"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "官方或主流媒体正文较短，但来源和事实可追溯，需要人工确认是否保留。",
+      "cardId": "draft-real-xinhua-tech-1e2qtw6",
+      "cardTitle": "AI科技走进日常生活"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "官方或主流媒体正文较短，但来源和事实可追溯，需要人工确认是否保留。",
+      "cardId": "draft-real-xinhua-tech-1rwdlz2",
+      "cardTitle": "公益微视频｜使用智能设备 记得请设强密码"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "原文篇幅较短且不是官方或主流来源，需要发布前复核。",
+      "cardId": "draft-real-cnbc-world-rss-1ad94ef",
+      "cardTitle": "皇家加勒比拟以近30亿美元交易收购圣丽丝50%股权"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "原文篇幅较短且不是官方或主流来源，需要发布前复核。",
+      "cardId": "draft-cluster-real-theverge-ai-rss-1wqk6nd",
+      "cardTitle": "Rabbit 的新 AI 代理无需 R1 即可运行"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "原文篇幅较短且不是官方或主流来源，需要发布前复核。",
+      "cardId": "draft-real-eol-education-1qt3v2i",
+      "cardTitle": "教育部：我国接受过高等教育的人口达2.7亿"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "原文篇幅较短且不是官方或主流来源，需要发布前复核。",
+      "cardId": "draft-real-eol-education-1uvm4n3",
+      "cardTitle": "第19届“汉语桥”世界中学生中文比赛和第6届“汉语桥”世界小学生中文秀全球总决赛暨颁奖仪式举行"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "一句话导读偏短，可能没有讲清楚核心事实。",
+      "cardId": "draft-real-jyb-education-pcrqny",
+      "cardTitle": "为儿童青少年配镜提供更优质服务"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "一句话导读偏短，可能没有讲清楚核心事实。",
+      "cardId": "draft-real-jyb-education-wlzusg",
+      "cardTitle": "穿越技术浪潮 重新发现教育"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "一句话导读偏短，可能没有讲清楚核心事实。",
+      "cardId": "draft-real-jyb-education-5eei5r",
+      "cardTitle": "农户难题变成科研课题"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "一句话导读偏短，可能没有讲清楚核心事实。",
+      "cardId": "draft-real-jyb-education-1h2q97e",
+      "cardTitle": "让中国生长因子研究站上世界舞台"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "一句话导读偏短，可能没有讲清楚核心事实。",
+      "cardId": "draft-real-un-news-rss-jneroa",
+      "cardTitle": "当国家被海水淹没：岛国为未来而战"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "原文篇幅较短且不是官方或主流来源，需要发布前复核。",
+      "cardId": "draft-cluster-real-techcrunch-ai-rss-pfe144",
+      "cardTitle": "Meta的AI代理被禁止使用亚马逊网站"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "原文篇幅较短且不是官方或主流来源，需要发布前复核。",
+      "cardId": "draft-cluster-real-theverge-ai-rss-1i9qnw4",
+      "cardTitle": "加州收紧人工智能数据中心能源与用水规定"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "原文篇幅较短且不是官方或主流来源，需要发布前复核。",
+      "cardId": "draft-real-eol-education-wt6l4o",
+      "cardTitle": "丁薛祥接见“向国旗敬礼”港澳青少年升旗队代表访京团"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "原文信息量有限，需要确认是否足以支持卡片结论。",
+      "cardId": "draft-real-arxiv-cs-api-vyst5g",
+      "cardTitle": "一种具有延迟信息共享的去中心化部分可观测团队决策方法"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "原文信息量有限，需要确认是否足以支持卡片结论。",
+      "cardId": "draft-real-arxiv-cs-api-15wnr2m",
+      "cardTitle": "SpeakerMem-R1：面向多方对话的以说话人为中心的双轨记忆机制"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "原文信息量有限，需要确认是否足以支持卡片结论。",
+      "cardId": "draft-real-arxiv-cs-api-xe9phn",
+      "cardTitle": "CliffCompaction：面向长周期编码代理的高效压缩方法"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "原文信息量有限，需要确认是否足以支持卡片结论。",
+      "cardId": "draft-real-arxiv-cs-api-1ddgp12",
+      "cardTitle": "SWE-Serve：对生产环境推理服务中的代理式软件工程进行基准测试"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "官方或主流媒体正文较短，但来源和事实可追溯，需要人工确认是否保留。",
+      "cardId": "draft-real-arxiv-cs-api-srz1sw",
+      "cardTitle": "注意力引导的条件对抗学习用于单通道脑电图中的肌电伪影抑制"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "原文信息量有限，需要确认是否足以支持卡片结论。",
+      "cardId": "draft-real-arxiv-cs-api-9ic0nr",
+      "cardTitle": "A2M：在MCP生态系统中追踪优化的代理劫持"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "原文信息量有限，需要确认是否足以支持卡片结论。",
+      "cardId": "draft-real-arxiv-cs-api-e0tamd",
+      "cardTitle": "扩大“工具”而非“上下文”：从无需策略的脚手架到可复用的专家智能体"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "原文信息量有限，需要确认是否足以支持卡片结论。",
+      "cardId": "draft-real-arxiv-cs-api-nmm7p2",
+      "cardTitle": "FleXray：通用临床X射线分割"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "一句话导读偏短，可能没有讲清楚核心事实。",
+      "cardId": "draft-real-arxiv-cs-api-nmm7p2",
+      "cardTitle": "FleXray：通用临床X射线分割"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "原文信息量有限，需要确认是否足以支持卡片结论。",
+      "cardId": "draft-real-arxiv-cs-api-1tt64vx",
+      "cardTitle": "大语言模型驱动的代码漏洞修复中的指标失效：一项实证研究与一种变更感知筛选机制"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "原文信息量有限，需要确认是否足以支持卡片结论。",
+      "cardId": "draft-real-arxiv-cs-api-bvajy",
+      "cardTitle": "多智能体系统的激励设计：协调独立代理的双层优化框架及收敛性分析"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "原文信息量有限，需要确认是否足以支持卡片结论。",
+      "cardId": "draft-real-arxiv-cs-api-15r55cm",
+      "cardTitle": "人工智能能否节省产品设计时间？一项关于AI提示到设计工作流的随机对照实验"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "原文信息量有限，需要确认是否足以支持卡片结论。",
+      "cardId": "draft-real-arxiv-cs-api-119b1n3",
+      "cardTitle": "塞壬之歌：近端背景语境遮蔽远端证据"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "一句话导读偏短，可能没有讲清楚核心事实。",
+      "cardId": "draft-real-arxiv-cs-api-119b1n3",
+      "cardTitle": "塞壬之歌：近端背景语境遮蔽远端证据"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "原文信息量有限，需要确认是否足以支持卡片结论。",
+      "cardId": "draft-real-arxiv-cs-api-qzx0r9",
+      "cardTitle": "TraceVIC：通过代码演化的因果推理识别漏洞引入提交"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "原文信息量有限，需要确认是否足以支持卡片结论。",
+      "cardId": "draft-real-arxiv-cs-api-1wai9oe",
+      "cardTitle": "训练跟随量化模型：面向低比特推理的在线策略蒸馏"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "官方或主流媒体正文较短，但来源和事实可追溯，需要人工确认是否保留。",
+      "cardId": "draft-cluster-real-arxiv-cs-api-46mwm6",
+      "cardTitle": "贪婪解码并非精度不变：大语言模型推理中的跨精度输出差异"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "原文信息量有限，需要确认是否足以支持卡片结论。",
+      "cardId": "draft-real-arxiv-cs-api-1evjez4",
+      "cardTitle": "通过阅读天空预测地面：适用于任意位置低轨网络的物理信息链路状态预测"
+    }
+  ]
+}

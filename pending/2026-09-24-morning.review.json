@@ -1,0 +1,255 @@
+{
+  "version": 1,
+  "date": "2026-09-24",
+  "generatedAt": "2026-09-24T07:49:43.893Z",
+  "status": "review",
+  "reviewMode": "generated",
+  "candidateSha256": "9b966a2b2bc05249f8a2ba1b90c705ac93e567101747e69bd6e856333f47a7c9",
+  "counts": {
+    "cards": 20,
+    "pages": 3,
+    "rawItems": 358,
+    "freshCandidates": 279,
+    "publishableCards": 32,
+    "reviewableCards": 26,
+    "rejectedCards": 31,
+    "blockers": 0,
+    "warnings": 34
+  },
+  "findings": [
+    {
+      "level": "warning",
+      "code": "translation-failures",
+      "message": "有 9 条英文或多语言候选没有完成中文化，当前翻译通道为 openai-compatible；这些候选已从最终日报排除。"
+    },
+    {
+      "level": "warning",
+      "code": "source-fetch-failures",
+      "message": "有 7 个来源抓取失败，需要确认是否影响当天覆盖面。"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "没有抓到完整正文，目前使用候选摘要回退。",
+      "cardId": "draft-cluster-real-france24-middle-east-rss-s6fjdy",
+      "cardTitle": "人工智能风险与伊朗战争成为联合国议程焦点"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "原文篇幅较短且不是官方或主流来源，需要发布前复核。",
+      "cardId": "draft-cluster-real-france24-middle-east-rss-s6fjdy",
+      "cardTitle": "人工智能风险与伊朗战争成为联合国议程焦点"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "没有抓到完整正文，目前使用候选摘要回退。",
+      "cardId": "draft-cluster-real-france24-middle-east-rss-4f93yj",
+      "cardTitle": "回放：伊朗总统佩泽什基安在联合国大会发表讲话"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "原文篇幅较短且不是官方或主流来源，需要发布前复核。",
+      "cardId": "draft-cluster-real-france24-middle-east-rss-4f93yj",
+      "cardTitle": "回放：伊朗总统佩泽什基安在联合国大会发表讲话"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "没有抓到完整正文，目前使用候选摘要回退。",
+      "cardId": "draft-real-france24-middle-east-rss-stdjvm",
+      "cardTitle": "美国总统在联合国警告德黑兰，但表示谈判仍在进行"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "原文篇幅较短且不是官方或主流来源，需要发布前复核。",
+      "cardId": "draft-real-france24-middle-east-rss-stdjvm",
+      "cardTitle": "美国总统在联合国警告德黑兰，但表示谈判仍在进行"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "没有抓到完整正文，目前使用候选摘要回退。",
+      "cardId": "draft-real-france24-middle-east-rss-r95w7f",
+      "cardTitle": "尽管谈判取得进展，美国总统特朗普仍威胁对伊朗实施“毁灭性打击”"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "原文篇幅较短且不是官方或主流来源，需要发布前复核。",
+      "cardId": "draft-real-france24-middle-east-rss-r95w7f",
+      "cardTitle": "尽管谈判取得进展，美国总统特朗普仍威胁对伊朗实施“毁灭性打击”"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "原文信息量有限，需要确认是否足以支持卡片结论。",
+      "cardId": "draft-real-xinhua-world-1wf812a",
+      "cardTitle": "伊朗总统联大演讲誓言“永不屈膝投降”"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "没有抓到完整正文，目前使用候选摘要回退。",
+      "cardId": "draft-real-france24-asia-pacific-rss-d5alxx",
+      "cardTitle": "中国打击缅甸邻国境内的诈骗中心"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "原文信息量有限，需要确认是否足以支持卡片结论。",
+      "cardId": "draft-real-france24-asia-pacific-rss-d5alxx",
+      "cardTitle": "中国打击缅甸邻国境内的诈骗中心"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "原文篇幅较短且不是官方或主流来源，需要发布前复核。",
+      "cardId": "draft-cluster-real-openai-news-1gf3fge",
+      "cardTitle": "ChatGPT广告扩展至东南亚及台湾地区"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "官方或主流媒体正文较短，但来源和事实可追溯，需要人工确认是否保留。",
+      "cardId": "draft-real-xinhua-tech-1e2qtw6",
+      "cardTitle": "AI科技走进日常生活"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "原文篇幅较短且不是官方或主流来源，需要发布前复核。",
+      "cardId": "draft-real-cnbc-world-rss-1ix5q7w",
+      "cardTitle": "软银股价在发行111亿美元债券以资助对OpenAI的投资后上涨超过7%"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "原文篇幅较短且不是官方或主流来源，需要发布前复核。",
+      "cardId": "draft-cluster-real-techcrunch-ai-rss-1fabfh4",
+      "cardTitle": "Enveda 获得3.11亿美元融资，推动更多源自自然的AI药物进入临床试验"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "原文篇幅较短且不是官方或主流来源，需要发布前复核。",
+      "cardId": "draft-cluster-real-theverge-ai-rss-1tytt5",
+      "cardTitle": "Meta正在增强Muse的功能，并允许用户与其进行视频聊天。"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "原文信息量有限，需要确认是否足以支持卡片结论。",
+      "cardId": "draft-cluster-real-theverge-ai-rss-1qrj60q",
+      "cardTitle": "Meta Connect 2026：重大新闻与公告"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "原文篇幅较短且不是官方或主流来源，需要发布前复核。",
+      "cardId": "draft-real-eol-education-bb72sb",
+      "cardTitle": "10人入选！“文科院士”候选人名单公示"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "原文篇幅较短且不是官方或主流来源，需要发布前复核。",
+      "cardId": "draft-real-eol-education-1xmuanj",
+      "cardTitle": "吴卫星任对外经济贸易大学校长"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "原文篇幅较短且不是官方或主流来源，需要发布前复核。",
+      "cardId": "draft-real-eol-education-156wlzr",
+      "cardTitle": "教育部：我国接受过高等教育的人口达2.7亿"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "原文篇幅较短且不是官方或主流来源，需要发布前复核。",
+      "cardId": "draft-real-eol-education-1x3m3ou",
+      "cardTitle": "第19届“汉语桥”世界中学生中文比赛和第6届“汉语桥”世界小学生中文秀全球总决赛暨颁奖仪式举行"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "原文信息量有限，需要确认是否足以支持卡片结论。",
+      "cardId": "draft-real-arxiv-cs-api-c0ccsf",
+      "cardTitle": "大语言模型能否推理运行时行为？一个仓库级别的动态基准测试"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "原文信息量有限，需要确认是否足以支持卡片结论。",
+      "cardId": "draft-real-arxiv-cs-api-i87pu8",
+      "cardTitle": "冻结流遗忘：诊断与恢复潜在流世界模型中丢失的运动信息"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "原文信息量有限，需要确认是否足以支持卡片结论。",
+      "cardId": "draft-real-arxiv-cs-api-edxgwc",
+      "cardTitle": "使用克利福德变分自编码器学习全息约简表示"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "原文信息量有限，需要确认是否足以支持卡片结论。",
+      "cardId": "draft-real-arxiv-cs-api-1x65w4p",
+      "cardTitle": "利用时空管奖励实现全类信号时序逻辑规范的可行强化学习"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "原文信息量有限，需要确认是否足以支持卡片结论。",
+      "cardId": "draft-real-arxiv-cs-api-mpvsgi",
+      "cardTitle": "何时何地应信任教师：通过熵校准信用分配统一策略内蒸馏与GRPO"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "原文信息量有限，需要确认是否足以支持卡片结论。",
+      "cardId": "draft-real-arxiv-cs-api-11ozmsz",
+      "cardTitle": "终端拦截角约束与加速度限制的优化制导"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "原文信息量有限，需要确认是否足以支持卡片结论。",
+      "cardId": "draft-real-arxiv-cs-api-4216da",
+      "cardTitle": "算法购物：代理式人工智能如何以人类启发法作为替代消费者"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "原文信息量有限，需要确认是否足以支持卡片结论。",
+      "cardId": "draft-real-arxiv-cs-api-4nyng",
+      "cardTitle": "AnchorReasoning：面向长尾自动驾驶场景的视觉定位与因果推理数据集"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "原文信息量有限，需要确认是否足以支持卡片结论。",
+      "cardId": "draft-real-arxiv-cs-api-1ya54r5",
+      "cardTitle": "MicroQonv：重塑卷积张量以实现训练与推理中高效的微缩放"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "原文信息量有限，需要确认是否足以支持卡片结论。",
+      "cardId": "draft-real-arxiv-cs-api-rmtyfn",
+      "cardTitle": "学习可靠推理的成本"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "一句话导读偏短，可能没有讲清楚核心事实。",
+      "cardId": "draft-real-arxiv-cs-api-rmtyfn",
+      "cardTitle": "学习可靠推理的成本"
+    }
+  ]
+}

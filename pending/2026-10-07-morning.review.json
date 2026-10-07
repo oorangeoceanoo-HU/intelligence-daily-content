@@ -1,0 +1,271 @@
+{
+  "version": 1,
+  "date": "2026-10-07",
+  "generatedAt": "2026-10-07T08:35:48.657Z",
+  "status": "review",
+  "reviewMode": "generated",
+  "candidateSha256": "86a8bb85e03f195948e3a61796c1422746fdde2a72397acd48884689ee99d06d",
+  "counts": {
+    "cards": 20,
+    "pages": 3,
+    "rawItems": 320,
+    "freshCandidates": 267,
+    "publishableCards": 37,
+    "reviewableCards": 34,
+    "rejectedCards": 19,
+    "blockers": 0,
+    "warnings": 36
+  },
+  "findings": [
+    {
+      "level": "warning",
+      "code": "source-fetch-failures",
+      "message": "有 5 个来源抓取失败，需要确认是否影响当天覆盖面。"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "原文信息量有限，需要确认是否足以支持卡片结论。",
+      "cardId": "draft-real-xinhua-world-1lhy3ms",
+      "cardTitle": "朝鲜外务省：地雷爆炸事件是韩方抹黑朝鲜的重大挑衅"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "原文篇幅较短且不是官方或主流来源，需要发布前复核。",
+      "cardId": "draft-real-cnbc-world-rss-1wwp1yx",
+      "cardTitle": "贸易逆差达1056亿美元，为去年特朗普关税实施前以来的最大水平"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "原文信息量有限，需要确认是否足以支持卡片结论。",
+      "cardId": "draft-real-xinhua-world-v7b3vp",
+      "cardTitle": "古特雷斯呼吁加沙地带永久停火"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "一句话导读偏短，可能没有讲清楚核心事实。",
+      "cardId": "draft-real-xinhua-world-axk8wg",
+      "cardTitle": "默茨：德国将加强北约东翼防务"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "原文信息量有限，需要确认是否足以支持卡片结论。",
+      "cardId": "draft-real-xinhua-world-1a2rjjj",
+      "cardTitle": "英媒：若以色列关闭英领事馆 英或将驱逐以外交官"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "原文信息量有限，需要确认是否足以支持卡片结论。",
+      "cardId": "draft-real-xinhua-world-i7jd3r",
+      "cardTitle": "俄外交部：将对日本新的反俄措施采取对等反制"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "官方或主流媒体正文较短，但来源和事实可追溯，需要人工确认是否保留。",
+      "cardId": "draft-real-npr-world-rss-trlps1",
+      "cardTitle": "“他们不投资我们”：法国学生抗议要求增加学校资源"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "原文篇幅较短且不是官方或主流来源，需要发布前复核。",
+      "cardId": "draft-cluster-real-techcrunch-ai-rss-1fy0ehb",
+      "cardTitle": "Anthropic 为初创企业提供免费的 Claude Team 一年使用权及 1000 美元信用额度"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "原文篇幅较短且不是官方或主流来源，需要发布前复核。",
+      "cardId": "draft-cluster-real-theverge-ai-rss-nnuk3a",
+      "cardTitle": "谷歌即将取消对 Gemini Flash 和 Pro 的免费访问权限"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "原文信息量有限，需要确认是否足以支持卡片结论。",
+      "cardId": "draft-cluster-real-theverge-ai-rss-1twz240",
+      "cardTitle": "亚马逊Alexa Plus持续数分钟诡异哼唱“啦啦啦”"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "原文篇幅较短且不是官方或主流来源，需要发布前复核。",
+      "cardId": "draft-cluster-real-theverge-ai-rss-zyfojc",
+      "cardTitle": "Gemini 的“为我呼叫”功能可能会告诉你妈妈你迟到了"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "原文信息量有限，需要确认是否足以支持卡片结论。",
+      "cardId": "draft-cluster-real-theverge-ai-rss-1vgonhk",
+      "cardTitle": "围绕人工智能接管数学的所有戏剧性事件"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "原文信息量有限，需要确认是否足以支持卡片结论。",
+      "cardId": "draft-real-arxiv-cs-api-t2ujux",
+      "cardTitle": "4D-HOF：用于前馈式4D交互重建的手-物体流匹配"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "原文信息量有限，需要确认是否足以支持卡片结论。",
+      "cardId": "draft-real-arxiv-cs-api-1u7besv",
+      "cardTitle": "IdeaAnchor：教大语言模型将文献转化为研究构想"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "原文信息量有限，需要确认是否足以支持卡片结论。",
+      "cardId": "draft-real-arxiv-cs-api-87ycl9",
+      "cardTitle": "DepthWorld：用于机器人操作的3D世界模型"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "原文信息量有限，需要确认是否足以支持卡片结论。",
+      "cardId": "draft-real-arxiv-cs-api-1meo48x",
+      "cardTitle": "Sherpa：教大语言模型自适应地教学"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "原文信息量有限，需要确认是否足以支持卡片结论。",
+      "cardId": "draft-real-arxiv-cs-api-rby4r7",
+      "cardTitle": "瓶中智能体：大语言模型智能体能将其能力转化为廉价、可扩展的制品吗？"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "原文信息量有限，需要确认是否足以支持卡片结论。",
+      "cardId": "draft-real-arxiv-cs-api-s8vir2",
+      "cardTitle": "AdvSim2Real：在Web世界模型中针对自适应提示注入训练Web智能体"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "原文信息量有限，需要确认是否足以支持卡片结论。",
+      "cardId": "draft-real-arxiv-cs-api-jn3xqh",
+      "cardTitle": "无限制空间变化反扩散下Kuramoto-Sivashinsky方程的快速Fredholm稳定化"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "原文信息量有限，需要确认是否足以支持卡片结论。",
+      "cardId": "draft-real-arxiv-cs-api-1q3i3qd",
+      "cardTitle": "VeriFine：扩展验证以实现具身推理中的自我改进"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "原文信息量有限，需要确认是否足以支持卡片结论。",
+      "cardId": "draft-real-arxiv-cs-api-1i3535a",
+      "cardTitle": "WorldSonus：将声音带入世界"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "原文信息量有限，需要确认是否足以支持卡片结论。",
+      "cardId": "draft-real-arxiv-cs-api-9g2eut",
+      "cardTitle": "带合规动作集的强化学习：在序列推荐中的应用"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "原文信息量有限，需要确认是否足以支持卡片结论。",
+      "cardId": "draft-real-arxiv-cs-api-1q2x2y4",
+      "cardTitle": "EgoLAP：通过语言-动作推理从第一人称人类数据中学习"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "原文信息量有限，需要确认是否足以支持卡片结论。",
+      "cardId": "draft-real-arxiv-cs-api-1jo26lv",
+      "cardTitle": "代理的历史能否告诉你压缩何时会造成伤害？对 TRACE 配对重放语料库的适度、有界影响"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "原文信息量有限，需要确认是否足以支持卡片结论。",
+      "cardId": "draft-real-arxiv-cs-api-ig02c0",
+      "cardTitle": "WorldSolver：大语言模型智能体能否通过生成求解器来模拟物理动力学？"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "原文信息量有限，需要确认是否足以支持卡片结论。",
+      "cardId": "draft-real-arxiv-cs-api-1sxwxln",
+      "cardTitle": "基于场景的电池储能系统数据驱动预测控制鲁棒性：一项实验研究"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "原文信息量有限，需要确认是否足以支持卡片结论。",
+      "cardId": "draft-real-arxiv-cs-api-1u4kgo3",
+      "cardTitle": "nanoMuse：一款开源的个人智能体，适用于你拥有的每一台设备"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "原文信息量有限，需要确认是否足以支持卡片结论。",
+      "cardId": "draft-real-arxiv-cs-api-1lg3oaw",
+      "cardTitle": "ScienceClaw：跨自然科学与社会科学评估AI for Science智能体持续自我进化的基准测试"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "原文信息量有限，需要确认是否足以支持卡片结论。",
+      "cardId": "draft-real-arxiv-cs-api-2erz5q",
+      "cardTitle": "耦合但滞后：非脚本对话中全双语音频模型之间的话轮转换"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "原文信息量有限，需要确认是否足以支持卡片结论。",
+      "cardId": "draft-real-arxiv-cs-api-een8fd",
+      "cardTitle": "大型语言模型的安全推测解码"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "一句话导读偏短，可能没有讲清楚核心事实。",
+      "cardId": "draft-real-arxiv-cs-api-een8fd",
+      "cardTitle": "大型语言模型的安全推测解码"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "一句话导读偏短，可能没有讲清楚核心事实。",
+      "cardId": "draft-cluster-real-hr-dive-rss-1p5ofl4",
+      "cardTitle": "2027年顶级人力资源会议"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "一句话导读偏短，可能没有讲清楚核心事实。",
+      "cardId": "draft-real-smashing-magazine-rss-cd9kf7",
+      "cardTitle": "命名事物的实用指南"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "一句话导读偏短，可能没有讲清楚核心事实。",
+      "cardId": "draft-real-sec-press-rss-ylmw4s",
+      "cardTitle": "美国证券交易委员会"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "一句话导读偏短，可能没有讲清楚核心事实。",
+      "cardId": "draft-real-ieee-spectrum-rss-1pbruw7",
+      "cardTitle": "治理人工智能的六项准则"
+    }
+  ]
+}

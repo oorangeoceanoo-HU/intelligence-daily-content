@@ -1,0 +1,271 @@
+{
+  "version": 1,
+  "date": "2026-10-08",
+  "generatedAt": "2026-10-08T08:49:00.410Z",
+  "status": "review",
+  "reviewMode": "generated",
+  "candidateSha256": "e7153784d5b8dabc5c85a95ebe2b7c96883705f21b9c306e54f7a59e458f98dc",
+  "counts": {
+    "cards": 20,
+    "pages": 3,
+    "rawItems": 346,
+    "freshCandidates": 274,
+    "publishableCards": 34,
+    "reviewableCards": 33,
+    "rejectedCards": 24,
+    "blockers": 0,
+    "warnings": 36
+  },
+  "findings": [
+    {
+      "level": "warning",
+      "code": "source-fetch-failures",
+      "message": "有 4 个来源抓取失败，需要确认是否影响当天覆盖面。"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "原文信息量有限，需要确认是否足以支持卡片结论。",
+      "cardId": "draft-real-mem-cn-1kvawrw",
+      "cardTitle": "预告｜应急管理部定于10月9日上午10时举行第四届全国危险化学品救援技能竞赛新闻发布会"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "原文信息量有限，需要确认是否足以支持卡片结论。",
+      "cardId": "draft-real-xinhua-world-1xhxn4v",
+      "cardTitle": "沙特主导联军称摧毁82处也门胡塞武装军事目标"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "原文信息量有限，需要确认是否足以支持卡片结论。",
+      "cardId": "draft-real-xinhua-world-1lc3hqa",
+      "cardTitle": "拉脱维亚总统支持现总理牵头组建新政府"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "原文信息量有限，需要确认是否足以支持卡片结论。",
+      "cardId": "draft-real-xinhua-world-rj961h",
+      "cardTitle": "外交部：再次敦促日方严惩持刀侵闯中国驻日使馆凶犯"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "原文信息量有限，需要确认是否足以支持卡片结论。",
+      "cardId": "draft-real-xinhua-world-oam8ya",
+      "cardTitle": "外交部：中方提名宋莉博士参与世卫组织总干事竞选"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "官方或主流媒体正文较短，但来源和事实可追溯，需要人工确认是否保留。",
+      "cardId": "draft-real-xinhua-world-9gtaaf",
+      "cardTitle": "特朗普：对伊朗的军事行动 “必须收尾了”"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "没有抓到完整正文，目前使用候选摘要回退。",
+      "cardId": "draft-cluster-real-france24-middle-east-rss-80glgq",
+      "cardTitle": "以色列在选举前夕纪念10月7日袭击事件三周年"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "原文信息量有限，需要确认是否足以支持卡片结论。",
+      "cardId": "draft-cluster-real-france24-middle-east-rss-80glgq",
+      "cardTitle": "以色列在选举前夕纪念10月7日袭击事件三周年"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "官方或主流媒体正文较短，但来源和事实可追溯，需要人工确认是否保留。",
+      "cardId": "draft-real-xinhua-tech-1mkbl05",
+      "cardTitle": "机器人“店长”服务国庆大客流"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "官方或主流媒体正文较短，但来源和事实可追溯，需要人工确认是否保留。",
+      "cardId": "draft-real-xinhua-tech-q1fphm",
+      "cardTitle": "国庆假期 广东韶关数据中心集群建设加速推进"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "原文篇幅较短且不是官方或主流来源，需要发布前复核。",
+      "cardId": "draft-cluster-real-techcrunch-ai-rss-knc3y7",
+      "cardTitle": "Nous Research确认估值达15亿美元，推出面向企业用户的AI智能体"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "一句话导读偏短，可能没有讲清楚核心事实。",
+      "cardId": "draft-real-meta-newsroom-rss-g1stlq",
+      "cardTitle": "我们为防止儿童剥削所采取的措施"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "原文篇幅较短且不是官方或主流来源，需要发布前复核。",
+      "cardId": "draft-cluster-real-theverge-ai-rss-1ynvy4s",
+      "cardTitle": "微软Surface Laptop Ultra发布会上公布的所有内容"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "原文篇幅较短且不是官方或主流来源，需要发布前复核。",
+      "cardId": "draft-cluster-real-techcrunch-ai-rss-1bv7szh",
+      "cardTitle": "Anthropic 为初创企业提供免费的 Claude Team 一年使用权及 1000 美元信用额度"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "原文信息量有限，需要确认是否足以支持卡片结论。",
+      "cardId": "draft-real-arxiv-cs-api-129bdk5",
+      "cardTitle": "永不回头：从第一人称视频中理解3D物体记忆中的坚持"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "原文信息量有限，需要确认是否足以支持卡片结论。",
+      "cardId": "draft-real-arxiv-cs-api-u1iwsc",
+      "cardTitle": "在强化学习中的价值推理（RLVR）中，将探索与优化解耦"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "原文信息量有限，需要确认是否足以支持卡片结论。",
+      "cardId": "draft-real-arxiv-cs-api-xitmk1",
+      "cardTitle": "基于交通与充电需求预测的网联自动驾驶车辆预测性路径重规划"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "原文信息量有限，需要确认是否足以支持卡片结论。",
+      "cardId": "draft-real-arxiv-cs-api-dk94hv",
+      "cardTitle": "RoboJEPA：扩展机器人潜在世界模型"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "原文信息量有限，需要确认是否足以支持卡片结论。",
+      "cardId": "draft-real-arxiv-cs-api-liu76o",
+      "cardTitle": "SciExam 关于 ENSO：AI 智能体能否构建气候模型？"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "原文信息量有限，需要确认是否足以支持卡片结论。",
+      "cardId": "draft-real-arxiv-cs-api-1rb1j1e",
+      "cardTitle": "RECAST：通过自适应证据路由学习计算正确的上下文"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "原文信息量有限，需要确认是否足以支持卡片结论。",
+      "cardId": "draft-real-arxiv-cs-api-1jgp0r4",
+      "cardTitle": "无需真实标签的有效性：陈述偏好经济学为语言模型评估提供的启示"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "原文信息量有限，需要确认是否足以支持卡片结论。",
+      "cardId": "draft-real-arxiv-cs-api-1yfvolr",
+      "cardTitle": "具身RSI：通过假设引导的协同进化实现主动持续机器人学习"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "原文信息量有限，需要确认是否足以支持卡片结论。",
+      "cardId": "draft-real-arxiv-cs-api-b12ssg",
+      "cardTitle": "从组合视角看6G之后移动通信宽带系统的通信与控制协同设计"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "原文信息量有限，需要确认是否足以支持卡片结论。",
+      "cardId": "draft-real-arxiv-cs-api-1f5080o",
+      "cardTitle": "在解决之前：从基础模型预测后训练编码代理的性能"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "原文信息量有限，需要确认是否足以支持卡片结论。",
+      "cardId": "draft-real-arxiv-cs-api-1b7n0au",
+      "cardTitle": "一个研究者社会：为自主研究智能体群体设计制度"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "官方或主流媒体正文较短，但来源和事实可追溯，需要人工确认是否保留。",
+      "cardId": "draft-real-arxiv-cs-api-1up4n5n",
+      "cardTitle": "课前AI使用方式如何影响课堂中的学生主动参与"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "原文信息量有限，需要确认是否足以支持卡片结论。",
+      "cardId": "draft-real-arxiv-cs-api-1xe5cyl",
+      "cardTitle": "FoldBack：用于长程衣物折叠的自校正掩码生成策略"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "原文信息量有限，需要确认是否足以支持卡片结论。",
+      "cardId": "draft-real-arxiv-cs-api-60cn8a",
+      "cardTitle": "撰写每位教师所学内容：通过教师相对偏移实现多教师在线策略蒸馏"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "原文信息量有限，需要确认是否足以支持卡片结论。",
+      "cardId": "draft-real-arxiv-cs-api-so5yxl",
+      "cardTitle": "PHRBench：对大语言模型后幻觉推理的行为评估"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "卡片里可能混入表格规格或产品清单，需要复核。",
+      "cardId": "draft-real-arxiv-cs-api-so5yxl",
+      "cardTitle": "PHRBench：对大语言模型后幻觉推理的行为评估"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "原文信息量有限，需要确认是否足以支持卡片结论。",
+      "cardId": "draft-real-arxiv-cs-api-1n3f9st",
+      "cardTitle": "RunningTab：通过环境侧标签页实现直接工作区交互"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "原文信息量有限，需要确认是否足以支持卡片结论。",
+      "cardId": "draft-real-arxiv-cs-api-1mtho0s",
+      "cardTitle": "通过直接最小化预期解码轮次来训练并行投机草稿模型"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "原文信息量有限，需要确认是否足以支持卡片结论。",
+      "cardId": "draft-real-arxiv-cs-api-xnh3nw",
+      "cardTitle": "SOTA：由期权隐含收益分布引导的股票期权交易智能体"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "一句话导读偏短，可能没有讲清楚核心事实。",
+      "cardId": "draft-real-sec-press-rss-ylmw4s",
+      "cardTitle": "美国证券交易委员会"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "一句话导读偏短，可能没有讲清楚核心事实。",
+      "cardId": "draft-real-adweek-rss-1xav7yt",
+      "cardTitle": "人工智能正推动广告回归实体世界"
+    }
+  ]
+}

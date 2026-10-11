@@ -1,0 +1,180 @@
+{
+  "version": 1,
+  "date": "2026-10-11",
+  "generatedAt": "2026-10-11T08:40:55.546Z",
+  "status": "review",
+  "reviewMode": "generated",
+  "candidateSha256": "f877ebc5d959d99f577d9d84d74b91b5492f6c97899d4544b6bbeeb1f4339a1d",
+  "counts": {
+    "cards": 20,
+    "pages": 3,
+    "rawItems": 217,
+    "freshCandidates": 167,
+    "publishableCards": 39,
+    "reviewableCards": 20,
+    "rejectedCards": 43,
+    "blockers": 0,
+    "warnings": 23
+  },
+  "findings": [
+    {
+      "level": "warning",
+      "code": "source-fetch-failures",
+      "message": "有 4 个来源抓取失败，需要确认是否影响当天覆盖面。"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "原文信息量有限，需要确认是否足以支持卡片结论。",
+      "cardId": "draft-real-xinhua-world-1hjsll1",
+      "cardTitle": "巴拿马发生7.6级地震"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "原文篇幅较短且不是官方或主流来源，需要发布前复核。",
+      "cardId": "draft-cluster-real-npr-world-rss-1e1oesz",
+      "cardTitle": "照片：加沙停火一年后的景象"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "原文篇幅较短且不是官方或主流来源，需要发布前复核。",
+      "cardId": "draft-cluster-real-xinhua-world-ccpguv",
+      "cardTitle": "沙特首都利雅得机场遭袭致12死309伤"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "官方或主流媒体正文较短，但来源和事实可追溯，需要人工确认是否保留。",
+      "cardId": "draft-real-xinhua-world-1ghsw1h",
+      "cardTitle": "巴拿马政府宣布进入紧急状态应对强震"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "一句话导读偏短，可能没有讲清楚核心事实。",
+      "cardId": "draft-real-xinhua-world-1ghsw1h",
+      "cardTitle": "巴拿马政府宣布进入紧急状态应对强震"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "官方或主流媒体正文较短，但来源和事实可追溯，需要人工确认是否保留。",
+      "cardId": "draft-real-xinhua-world-m7i6cn",
+      "cardTitle": "美国宾州枪击事件致9人死亡"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "官方或主流媒体正文较短，但来源和事实可追溯，需要人工确认是否保留。",
+      "cardId": "draft-real-xinhua-world-f6aalh",
+      "cardTitle": "乌方称俄军袭击扎波罗热地区致死人数上升到20人"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "官方或主流媒体正文较短，但来源和事实可追溯，需要人工确认是否保留。",
+      "cardId": "draft-real-xinhua-world-vni6d6",
+      "cardTitle": "沙特主导联军：摧毁也门胡塞武装136处军事目标"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "没有抓到完整正文，目前使用候选摘要回退。",
+      "cardId": "draft-real-france24-middle-east-rss-ueys7g",
+      "cardTitle": "也门称在关键曼德海峡附近对胡塞武装发起推进"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "原文信息量有限，需要确认是否足以支持卡片结论。",
+      "cardId": "draft-real-france24-middle-east-rss-ueys7g",
+      "cardTitle": "也门称在关键曼德海峡附近对胡塞武装发起推进"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "标题过长，移动端阅读时需要压缩成编辑标题。",
+      "cardId": "draft-cluster-real-city-news-rss:%E4%B8%AD%E5%9B%BD-%E4%B8%8A%E6%B5%B7-nghtyn",
+      "cardTitle": "今日上海 为上海推进现代化建设和高质量发展提供更多先进经验 陈吉宁会见来沪参加上海市市长国际企业家咨询会议的企业家代表 2026-10-11 今日上海"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "原文篇幅较短且不是官方或主流来源，需要发布前复核。",
+      "cardId": "draft-cluster-real-techcrunch-ai-rss-1uo5s28",
+      "cardTitle": "微软CEO萨提亚·纳德拉表示，人工智能模型需要配备“紧急制动”机制"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "原文篇幅较短且不是官方或主流来源，需要发布前复核。",
+      "cardId": "draft-cluster-real-theverge-ai-rss-146z473",
+      "cardTitle": "Anthropic 将其内部评估数据从互联网上撤下"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "原文篇幅较短且不是官方或主流来源，需要发布前复核。",
+      "cardId": "draft-cluster-real-techcrunch-ai-rss-nmlw12",
+      "cardTitle": "亚马逊及其他企业不再对数据中心交易保密。这足以建立信任吗？"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "原文篇幅较短且不是官方或主流来源，需要发布前复核。",
+      "cardId": "draft-cluster-real-theverge-ai-rss-1v1eix8",
+      "cardTitle": "尼康显微视频大赛冠军因使用生成式AI被取消资格"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "原文篇幅较短且不是官方或主流来源，需要发布前复核。",
+      "cardId": "draft-real-eol-education-93pjy1",
+      "cardTitle": "任友群访问德国 深化中德教育交流合作"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "一句话导读偏短，可能没有讲清楚核心事实。",
+      "cardId": "draft-real-adweek-rss-1ttmgxl",
+      "cardTitle": "健康营销正从信息传递转向导航服务"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "一句话导读偏短，可能没有讲清楚核心事实。",
+      "cardId": "draft-real-adweek-rss-xg1krr",
+      "cardTitle": "人们正在聚集——品牌会与他们见面吗？"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "一句话导读偏短，可能没有讲清楚核心事实。",
+      "cardId": "draft-real-gdacs-feed-wfxex5",
+      "cardTitle": "意大利发布绿色洪水警报"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "一句话导读偏短，可能没有讲清楚核心事实。",
+      "cardId": "draft-real-gdacs-feed-ne6gh5",
+      "cardTitle": "斯洛文尼亚发布绿色洪水警报"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "官方或主流媒体正文较短，但来源和事实可追溯，需要人工确认是否保留。",
+      "cardId": "draft-real-npr-world-rss-17rpot8",
+      "cardTitle": "《贝叶挂毯》伦敦巡展引发爱好者重现黑斯廷斯战役"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "官方或主流媒体正文较短，但来源和事实可追溯，需要人工确认是否保留。",
+      "cardId": "draft-real-npr-world-rss-1twcjwa",
+      "cardTitle": "抗议活动席卷全球最大民主国家的首都，反对选民名册修订"
+    }
+  ]
+}

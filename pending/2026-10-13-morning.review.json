@@ -1,0 +1,180 @@
+{
+  "version": 1,
+  "date": "2026-10-13",
+  "generatedAt": "2026-10-13T09:21:15.793Z",
+  "status": "review",
+  "reviewMode": "generated",
+  "candidateSha256": "d49b900e7991856cbadcfd1dbb3021212e43eab26e568061fa15f8038d4eccc7",
+  "counts": {
+    "cards": 20,
+    "pages": 3,
+    "rawItems": 265,
+    "freshCandidates": 221,
+    "publishableCards": 35,
+    "reviewableCards": 19,
+    "rejectedCards": 32,
+    "blockers": 0,
+    "warnings": 23
+  },
+  "findings": [
+    {
+      "level": "warning",
+      "code": "source-fetch-failures",
+      "message": "有 3 个来源抓取失败，需要确认是否影响当天覆盖面。"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "官方或主流媒体正文较短，但来源和事实可追溯，需要人工确认是否保留。",
+      "cardId": "draft-real-xinhua-world-nmu9hl",
+      "cardTitle": "卡拉斯：欧盟成员国外长通过对俄单次最大规模制裁"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "没有抓到完整正文，目前使用候选摘要回退。",
+      "cardId": "draft-real-france24-middle-east-rss-12bkzb0",
+      "cardTitle": "也门大使称：胡塞武装通过制造战争“繁荣并生存下来”"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "原文信息量有限，需要确认是否足以支持卡片结论。",
+      "cardId": "draft-real-france24-middle-east-rss-12bkzb0",
+      "cardTitle": "也门大使称：胡塞武装通过制造战争“繁荣并生存下来”"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "官方或主流媒体正文较短，但来源和事实可追溯，需要人工确认是否保留。",
+      "cardId": "draft-real-npr-world-rss-hg6kec",
+      "cardTitle": "海员工会官员称，船员获高额报酬以通过霍尔木兹海峡"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "没有抓到完整正文，目前使用候选摘要回退。",
+      "cardId": "draft-cluster-real-france24-middle-east-rss-1t1gs8l",
+      "cardTitle": "沙特阿拉伯面临多大风险？也门胡塞武装升级无人机和导弹袭击"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "原文篇幅较短且不是官方或主流来源，需要发布前复核。",
+      "cardId": "draft-cluster-real-france24-middle-east-rss-1t1gs8l",
+      "cardTitle": "沙特阿拉伯面临多大风险？也门胡塞武装升级无人机和导弹袭击"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "官方或主流媒体正文较短，但来源和事实可追溯，需要人工确认是否保留。",
+      "cardId": "draft-real-npr-world-rss-gx1t3w",
+      "cardTitle": "特朗普宣布达成部分俄乌停火。但两国是否事先知情？"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "官方或主流媒体正文较短，但来源和事实可追溯，需要人工确认是否保留。",
+      "cardId": "draft-real-xinhua-world-1eea8vb",
+      "cardTitle": "外交部：中方对澳知名汉学家马克林去世表示深切哀悼"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "原文信息量有限，需要确认是否足以支持卡片结论。",
+      "cardId": "draft-real-xinhua-world-zyz90x",
+      "cardTitle": "外交部：中方支持中美两国民间加强交往"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "官方或主流媒体正文较短，但来源和事实可追溯，需要人工确认是否保留。",
+      "cardId": "draft-real-xinhua-world-mrh216",
+      "cardTitle": "外交部：印方公布所谓“标准地名”非法、无效"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "官方或主流媒体正文较短，但来源和事实可追溯，需要人工确认是否保留。",
+      "cardId": "draft-real-xinhua-world-14p4dr7",
+      "cardTitle": "菲检方撤回三项对副总统莎拉的弹劾指控"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "一句话导读偏短，可能没有讲清楚核心事实。",
+      "cardId": "draft-real-xinhua-world-1vym76y",
+      "cardTitle": "伊朗称重开海峡条件未变"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "官方或主流媒体正文较短，但来源和事实可追溯，需要人工确认是否保留。",
+      "cardId": "draft-real-xinhua-tech-bteqrj",
+      "cardTitle": "新华读报｜量产提速 人形机器人迎商业化大考"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "没有抓到完整正文，目前使用候选摘要回退。",
+      "cardId": "draft-real-france24-asia-pacific-rss-1frow4u",
+      "cardTitle": "韩国称朝鲜在东部沿海发射多枚弹道导弹"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "原文信息量有限，需要确认是否足以支持卡片结论。",
+      "cardId": "draft-real-france24-asia-pacific-rss-1frow4u",
+      "cardTitle": "韩国称朝鲜在东部沿海发射多枚弹道导弹"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "原文篇幅较短且不是官方或主流来源，需要发布前复核。",
+      "cardId": "draft-real-cnbc-world-rss-1earpv4",
+      "cardTitle": "美国联邦航空管理局（FAA）警告美航司：沙特阿拉伯遇袭后存在安全风险"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "原文篇幅较短且不是官方或主流来源，需要发布前复核。",
+      "cardId": "draft-real-eol-education-1wz2lm0",
+      "cardTitle": "教育部公示：山西财经大学华商学院举办者变更"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "原文篇幅较短且不是官方或主流来源，需要发布前复核。",
+      "cardId": "draft-cluster-real-techcrunch-ai-rss-1er242s",
+      "cardTitle": "HomeView会成为苹果首个智能家居成功产品吗？"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "原文篇幅较短且不是官方或主流来源，需要发布前复核。",
+      "cardId": "draft-real-eol-education-t29icl",
+      "cardTitle": "教育部：“十四五”期间全国职业教育经费增长23.3%"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "原文篇幅较短且不是官方或主流来源，需要发布前复核。",
+      "cardId": "draft-real-eol-education-w74w1u",
+      "cardTitle": "杨伟国任北京第二外国语学院院长"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "一句话导读偏短，可能没有讲清楚核心事实。",
+      "cardId": "draft-real-adweek-rss-ha4pk2",
+      "cardTitle": "捕捉消费者意图的动态目标"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "一句话导读偏短，可能没有讲清楚核心事实。",
+      "cardId": "draft-real-adweek-rss-1uw3ce4",
+      "cardTitle": "年度最繁忙购物季的假日指南"
+    }
+  ]
+}

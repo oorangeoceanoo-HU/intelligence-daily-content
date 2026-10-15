@@ -1,13 +1,13 @@
 {
   "schemaVersion": 2,
-  "publishedAt": "2026-10-14T02:00:00.000Z",
+  "publishedAt": "2026-10-15T02:00:00.000Z",
   "issue": {
-    "id": "daily-public-2026-10-14",
-    "date": "2026-10-14",
+    "id": "daily-public-2026-10-15",
+    "date": "2026-10-15",
     "userId": "public",
     "cards": [
       {
-        "id": "draft-real-xinhua-world-1blih3b",
+        "id": "draft-real-xinhua-world-1bbivec",
         "title": "以媒：内塔尼亚胡与特朗普讨论重启对伊战争可能性",
         "oneLine": "政策变化：视台13日报道，以色列总理内塔尼亚胡上周与美国总统特朗普通话，讨论在11月初美国国会中期选举前甚至10月27日以色列议会选举前重启对伊朗战争的可能性。",
         "importance": "S",
@@ -42,18 +42,18 @@
             "language": "zh",
             "originalLanguage": "zh",
             "translationStatus": "not-needed",
-            "fetchedAt": "2026-10-14T07:18:14.255Z",
+            "fetchedAt": "2026-10-15T07:09:49.926Z",
             "sourceMethod": "web",
             "verificationStatus": "confirmed"
           }
         ],
         "images": [],
-        "generatedAt": "2026-10-14T02:00:00.000Z"
+        "generatedAt": "2026-10-15T02:00:00.000Z"
       },
       {
-        "id": "draft-real-xinhua-world-1jlfjhp",
-        "title": "欧盟成员国外长通过针对俄军工产业近1600项制裁名单",
-        "oneLine": "政策变化：欧盟成员国外长12日在卢森堡举行的会议上通过对俄罗斯单次最大规模制裁名单，新增近1600名个人和实体，主要涉及俄军工领域。",
+        "id": "draft-real-xinhua-world-5pi3bt",
+        "title": "冲突升级 也门医院人满为患",
+        "oneLine": "政策变化：红十字国际委员会14日说，随着近期也门冲突升级、伤亡人数大幅上升，也门各地医院人满为患，本就脆弱不堪的医疗系统雪上加霜。",
         "importance": "S",
         "credibility": "主流媒体",
         "tags": [
@@ -71,31 +71,170 @@
         ],
         "section": "front",
         "body": {
-          "background": "欧盟理事会当天发表声明称，此次新增制裁对象包括826家俄罗斯企业和担任这些企业首席执行官的743名个人，制裁专门针对俄军工产业的中游供应商。被列名的个人还将受到欧盟旅行禁令限制。声明称，这些企业为俄导弹、无人机和飞机等武器系统提供关键零部件，涉及半导体、微电路、通信设备、雷达、航空航天、弹药以及光学和导航系统等领域。",
-          "keyProgress": "根据欧盟现行规定，被制裁的个人和实体在欧盟境内资产将被冻结，欧盟方面禁止直接或间接向其提供资金或经济资源。欧盟外交与安全政策高级代表卡拉斯当天称，此次制裁名单中超过一半的对象涉及俄弹道导弹生产链，当前应进一步加大对俄施压。欧盟领导人将于15日至16日在布鲁塞尔举行峰会，讨论继续支持乌克兰等问题。",
-          "whyItMatters": "“欧盟成员国外长通过针对俄军工产业近1600项制裁名单”如果继续发展，可能通过能源价格、航运、贸易、汇率或市场预期传导到国内。了解它的意义在于判断后续风险，而不只停留在事件本身。",
-          "userRelevance": "即使你不在欧盟，“欧盟成员国外长通过针对俄军工产业近1600项制裁名单”也可能通过能源价格、国际航运、贸易成本和市场预期间接影响国内生活与工作判断。",
-          "whatToWatch": "接下来要看“欧盟成员国外长通过针对俄军工产业近1600项制裁名单”是否出现新的官方信息、后续行动，以及它与中国出行、贸易或公共判断的关联是否扩大。"
+          "background": "新华社发（胡塞媒体中心供图） 红十字国际委员会医疗协调员费拉斯·阿布萨姆拉在声明中说，“创伤护理人员正承受巨大压力”。红十字国际委员会警告，也门医疗系统本就饱受多年战乱和经济凋敝之苦，一旦战事持续升级，可能无力收治大量新增伤患。总部设于瑞士日内瓦的红十字国际委员会说，也门马里卜省、塔伊兹省及红海沿岸地区等冲突前线的医院近来收治的伤员之多“前所未有”，部分医院一周内收治700多名伤患。",
+          "keyProgress": "这张胡塞媒体中心9月27日的视频截图显示的是也门塔伊兹省空袭中被损毁的建筑。也门仍在运营的医疗机构中仅有一小部分有能力提供全面的创伤护理，各家医院面临外科手术用品、氧气、麻醉药和其他药品供应短缺。近几周来，也门胡塞武装同沙特阿拉伯支持的也门政府军、沙特主导的多国联军冲突升级，也门人道主义危机加重。据联合国国际移民组织统计，近几周来，也门超过20万人被迫逃离家园。",
+          "whyItMatters": "“冲突升级 也门医院人满为患”如果继续发展，可能通过能源价格、航运、贸易、汇率或市场预期传导到国内。了解它的意义在于判断后续风险，而不只停留在事件本身。",
+          "userRelevance": "即使你不在也门，“冲突升级 也门医院人满为患”也可能通过能源价格、国际航运、贸易成本和市场预期间接影响国内生活与工作判断。",
+          "whatToWatch": "接下来要看“冲突升级 也门医院人满为患”是否出现新的官方信息、后续行动，以及它与中国出行、贸易或公共判断的关联是否扩大。"
         },
         "sourceLinks": [
           {
             "title": "新华网国际",
-            "url": "https://www.news.cn/world/20261013/b258c0fe1e06474aa56dfc553b095caa/c.html",
+            "url": "https://www.news.cn/world/20261014/277cc38f0a544f84b65705f536b990cb/c.html",
             "sourceId": "xinhua-world",
-            "publishedAt": "2026-10-13T00:00:00+08:00",
+            "publishedAt": "2026-10-14T00:00:00+08:00",
             "language": "zh",
             "originalLanguage": "zh",
             "translationStatus": "not-needed",
-            "fetchedAt": "2026-10-14T07:18:14.255Z",
+            "fetchedAt": "2026-10-15T07:09:49.926Z",
+            "sourceMethod": "web",
+            "verificationStatus": "confirmed"
+          }
+        ],
+        "images": [
+          {
+            "url": "https://www.news.cn/world/20261014/277cc38f0a544f84b65705f536b990cb/20261014277cc38f0a544f84b65705f536b990cb_0e1a3b17b9044ef7b50cde3a1d14c7b1.JPG",
+            "sourceUrl": "https://www.news.cn/world/20261014/277cc38f0a544f84b65705f536b990cb/c.html"
+          }
+        ],
+        "generatedAt": "2026-10-15T02:00:00.000Z"
+      },
+      {
+        "id": "draft-real-xinhua-world-5prguz",
+        "title": "伊朗革命卫队称“全天候”监控霍尔木兹海峡",
+        "oneLine": "政策变化：视台采访时表示，美国方面关于霍尔木兹海峡处于开放状态的说法，与实际情况“完全不符”。",
+        "importance": "S",
+        "credibility": "主流媒体",
+        "tags": [
+          "S",
+          "mustKnow",
+          "industry",
+          "world",
+          "policy"
+        ],
+        "industries": [
+          "generalPublic",
+          "financeInvestment",
+          "operationsGrowth",
+          "contentCreator"
+        ],
+        "section": "front",
+        "body": {
+          "background": "任何受美国“欺骗或挑衅”而试图违反航运法规的船只，都将面临伊朗的果断回应。美国总统特朗普日前在接受媒体采访时表示，美方完全控制了霍尔木兹海峡，大量石油正从霍尔木兹海峡流出。他说，革命卫队海军正“全天候”监控波斯湾和霍尔木兹海峡，任何试图通过这些水道的船只“都必须获得许可”。",
+          "keyProgress": "伊朗革命卫队称“全天候”监控霍尔木兹海峡。伊朗革命卫队称“全天候”监控霍尔木兹海峡",
+          "whyItMatters": "“霍尔木兹海峡局势”如果继续发展，可能通过能源价格、航运、贸易、汇率或市场预期传导到国内。了解它的意义在于判断后续风险，而不只停留在事件本身。",
+          "userRelevance": "即使你不在伊朗、霍尔木兹海峡，“霍尔木兹海峡局势”也可能通过能源价格、国际航运、贸易成本和市场预期间接影响国内生活与工作判断。",
+          "whatToWatch": "接下来要看霍尔木兹海峡实际通航量、油价和保险成本是否继续变化，以及美伊双方是否出现新的正式行动。"
+        },
+        "sourceLinks": [
+          {
+            "title": "新华网国际",
+            "url": "https://www.news.cn/world/20261014/4b779175f7624c93a6bcf730285ebd9a/c.html",
+            "sourceId": "xinhua-world",
+            "publishedAt": "2026-10-14T00:00:00+08:00",
+            "language": "zh",
+            "originalLanguage": "zh",
+            "translationStatus": "not-needed",
+            "fetchedAt": "2026-10-15T07:09:49.926Z",
             "sourceMethod": "web",
             "verificationStatus": "confirmed"
           }
         ],
         "images": [],
-        "generatedAt": "2026-10-14T02:00:00.000Z"
+        "generatedAt": "2026-10-15T02:00:00.000Z"
       },
       {
-        "id": "draft-real-npr-world-rss-8dihca",
+        "id": "draft-real-un-news-rss-tqs9lm",
+        "title": "美国重新实施对海地的制裁：切断帮派子弹供应",
+        "oneLine": "最新进展：美国重新实施对海地的制裁：切断帮派子弹供应。",
+        "importance": "S",
+        "credibility": "官方来源",
+        "tags": [
+          "S",
+          "mustKnow",
+          "industry",
+          "world",
+          "policy",
+          "finance"
+        ],
+        "industries": [
+          "generalPublic",
+          "financeInvestment",
+          "operationsGrowth",
+          "ecommerceRetail"
+        ],
+        "section": "front",
+        "body": {
+          "background": "旅行禁令和资产冻结适用于被列名的、加剧这个加勒比岛国不安全局势和帮派暴力的个人和实体。自去年10月至今年4月，超过3,000人死亡，逾1,500人受伤。武装帮派控制着首都太子港的大部分地区，并正向农村地区渗透，恐吓社区、杀人、实施强奸和其他性暴力、绑架勒索以及向个人和企业敲诈勒索。",
+          "keyProgress": "安理会在2022年设立了海地制裁委员会，该委员会拥有三项主要执行工具：武器禁运、旅行禁令和资产冻结。目前，安理会对九名个人和两个团体实施了制裁。约150万人（约占人口的12%）被迫流离失所。海地不生产任何枪支和弹药，但帮派似乎永远用不完。",
+          "whyItMatters": "“美国重新实施对海地的制裁：切断帮派子弹供应”如果继续发展，可能通过能源价格、航运、贸易、汇率或市场预期传导到国内。了解它的意义在于判断后续风险，而不只停留在事件本身。",
+          "userRelevance": "即使你不在美国，“美国重新实施对海地的制裁：切断帮派子弹供应”也可能通过能源价格、国际航运、贸易成本和市场预期间接影响国内生活与工作判断。",
+          "whatToWatch": "接下来要看“美国重新实施对海地的制裁：切断帮派子弹供应”是否出现更细的城市、行业、平台或企业数据，以及这一变化能否连续保持。"
+        },
+        "sourceLinks": [
+          {
+            "title": "联合国新闻 RSS",
+            "url": "https://news.un.org/feed/view/en/story/2026/10/1168598",
+            "sourceId": "un-news-rss",
+            "publishedAt": "2026-10-14T12:00:00.000Z",
+            "language": "zh",
+            "originalLanguage": "en",
+            "translationStatus": "translated",
+            "fetchedAt": "2026-10-15T07:09:50.039Z",
+            "sourceMethod": "rss",
+            "verificationStatus": "confirmed"
+          }
+        ],
+        "images": [
+          {
+            "url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/21-05-2026_WFP_Haiti-09.jpg/image560x340cropped.jpg",
+            "sourceUrl": "https://news.un.org/feed/view/en/story/2026/10/1168598"
+          }
+        ],
+        "generatedAt": "2026-10-15T02:00:00.000Z"
+      },
+      {
+        "id": "draft-real-npr-world-rss-1lynoce",
+        "title": "外交官理查德·哈斯讨论俄乌战争及特朗普的角色",
+        "oneLine": "政策变化：NPR的史蒂夫·因斯基普（Steve Inskeep）与资深外交官理查德·哈斯（Richard Haass）就俄乌战争以及特朗普总统所扮演的角色进行了对话。",
+        "importance": "S",
+        "credibility": "主流媒体",
+        "tags": [
+          "S",
+          "mustKnow",
+          "world",
+          "policy"
+        ],
+        "industries": [
+          "generalPublic"
+        ],
+        "section": "front",
+        "body": {
+          "background": "国际主流媒体 RSS 用于补充全球突发、政策、贸易、能源和科技事件，不能单独替代事实确认。",
+          "keyProgress": "外交官理查德·哈斯讨论俄乌战争及特朗普的角色。NPR的史蒂夫·因斯基普（Steve Inskeep）与资深外交官理查德·哈斯（Richard Haass）就俄乌战争以及特朗普总统所扮演的角色进行了对话。",
+          "whyItMatters": "“外交官理查德·哈斯讨论俄乌战争及特朗普的角色”如果继续发展，可能通过能源价格、航运、贸易、汇率或市场预期传导到国内。了解它的意义在于判断后续风险，而不只停留在事件本身。",
+          "userRelevance": "即使你不在事发地区，“外交官理查德·哈斯讨论俄乌战争及特朗普的角色”也可能通过能源价格、国际航运、贸易成本和市场预期间接影响国内生活与工作判断。",
+          "whatToWatch": "接下来要看“外交官理查德·哈斯讨论俄乌战争及特朗普的角色”是否出现新的官方信息、后续行动，以及它与中国出行、贸易或公共判断的关联是否扩大。"
+        },
+        "sourceLinks": [
+          {
+            "title": "NPR World RSS",
+            "url": "https://www.npr.org/2026/10/14/nx-s1-6000164/diplomat-richard-haass-discusses-the-russia-ukraine-war-and-trumps-role",
+            "sourceId": "npr-world-rss",
+            "publishedAt": "2026-10-14T10:44:30.000Z",
+            "language": "zh",
+            "originalLanguage": "en",
+            "translationStatus": "translated",
+            "fetchedAt": "2026-10-15T07:09:49.544Z",
+            "sourceMethod": "rss",
+            "verificationStatus": "confirmed"
+          }
+        ],
+        "images": [],
+        "generatedAt": "2026-10-15T02:00:00.000Z"
+      },
+      {
+        "id": "draft-real-npr-world-rss-7jjo9d",
         "title": "对俄罗斯柴油的制裁将如何影响美国市场？",
         "oneLine": "政策变化：特朗普总统达成的、促使俄罗斯向市场释放更多柴油的协议能否压低油价？",
         "importance": "S",
@@ -131,219 +270,78 @@
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-10-14T07:18:13.700Z",
+            "fetchedAt": "2026-10-15T07:09:49.544Z",
             "sourceMethod": "rss",
             "verificationStatus": "confirmed"
           }
         ],
         "images": [],
-        "generatedAt": "2026-10-14T02:00:00.000Z"
+        "generatedAt": "2026-10-15T02:00:00.000Z"
       },
       {
-        "id": "draft-real-un-news-rss-awr7xs",
-        "title": "联合国秘书长表示：“对联合国的需求从未如此迫切”，并提出2027年规模更精简的33亿美元预算方案",
-        "oneLine": "最新进展：联合国秘书长表示：“对联合国的需求从未如此迫切”，并提出2027年规模更精简的33亿美元预算方案。",
+        "id": "draft-cluster-real-gov-uk-news-14mdrbg",
+        "title": "联合国制裁机制仍是应对海地不安全局势、缓解海地人民苦难的重要工具：英国在联合国安理会的投票解释",
+        "oneLine": "风险提醒：《联合国制裁机制仍是应对海地不安全局势、缓解海地人民苦难的重要工具：英国在联合国安理会的投票解释》我们使用必要的 Cookie 以使本网站正常运行。",
         "importance": "S",
         "credibility": "官方来源",
         "tags": [
           "S",
           "mustKnow",
-          "world",
-          "policy"
-        ],
-        "industries": [
-          "generalPublic"
-        ],
-        "section": "front",
-        "body": {
-          "background": "在气候动荡、人工智能革命、战争与饥饿加剧的背景下，联合国秘书长古特雷斯周二表示，“联合国的需求从未像现在这样迫切”。他提交了2027年33亿美元的方案预算提案，较此前水平削减了4080万美元。“UN80倡议”改革将继续推进，包括进一步裁员、人员调动以及撤销或降级部分职位。",
-          "keyProgress": "古特雷斯提醒委员会，自“UN80倡议”启动以来已过去一年多。” 在总结“UN80倡议”成果时，他说秘书处已经“从提案阶段进入实施阶段”：代表性不足的会员国数量已从28个降至拟议的2027年方案预算比2026年批准的水平低1.2%。古特雷斯强调，可预测的资金流和及时缴纳会费至关重要，因为效率提升不足以解决流动性危机。",
-          "whyItMatters": "“联合国秘书长表示：对联合国的需求从未如此迫切，并提出2027年规模更精简的33亿美元预算方案”如果继续发展，可能通过能源价格、航运、贸易、汇率或市场预期传导到国内。了解它的意义在于判断后续风险，而不只停留在事件本身。",
-          "userRelevance": "即使你不在事发地区，“联合国秘书长表示：对联合国的需求从未如此迫切，并提出2027年规模更精简的33亿美元预算方案”也可能通过能源价格、国际航运、贸易成本和市场预期间接影响国内生活与工作判断。",
-          "whatToWatch": "接下来要看“联合国秘书长表示：对联合国的需求从未如此迫切，并提出2027年规模更精简的33亿美元预算方案”是否出现新的官方信息、后续行动，以及它与中国出行、贸易或公共判断的关联是否扩大。"
-        },
-        "sourceLinks": [
-          {
-            "title": "联合国新闻 RSS",
-            "url": "https://news.un.org/feed/view/en/story/2026/10/1168586",
-            "sourceId": "un-news-rss",
-            "publishedAt": "2026-10-13T12:00:00.000Z",
-            "language": "zh",
-            "originalLanguage": "en",
-            "translationStatus": "translated",
-            "fetchedAt": "2026-10-14T07:18:14.357Z",
-            "sourceMethod": "rss",
-            "verificationStatus": "confirmed"
-          }
-        ],
-        "images": [
-          {
-            "url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/09/25-09-2026-UN-Photo-UNGA81-behind-scenes-03.jpg/image560x340cropped.jpg",
-            "sourceUrl": "https://news.un.org/feed/view/en/story/2026/10/1168586"
-          }
-        ],
-        "generatedAt": "2026-10-14T02:00:00.000Z"
-      },
-      {
-        "id": "draft-real-france24-middle-east-rss-5oh6l2",
-        "title": "“希望如此沉重”：阿尔-沙尔谈加沙的悲惨处境、情感重负与生存挣扎",
-        "oneLine": "最新进展：“希望如此沉重”：阿尔-沙尔谈加沙的悲惨处境、情感重负与生存挣扎。",
-        "importance": "S",
-        "credibility": "待确认",
-        "tags": [
-          "S",
-          "mustKnow",
-          "world",
-          "policy"
-        ],
-        "industries": [
-          "generalPublic"
-        ],
-        "section": "front",
-        "body": {
-          "background": "在其著作《我依然活着：来自加沙的报道》中，阿尔-沙尔探讨了战争如何改变记忆、童年以及存在的意义。他回顾了自己家庭的流离失所、女儿对世界缩减为帐篷的理解，以及他从加沙撤离的经历 重大国际变化可能通过外交、贸易、关税、能源、航运、安全或市场预期影响中国用户。是否推送取决于事件影响范围、严重程度，以及它是否会影响中国或形成全球共同认知。",
-          "keyProgress": "需继续核对官方表态和第二个可靠来源，并关注局势变化、政策生效时间及对中国的传导路径。",
-          "whyItMatters": "“希望如此沉重：阿尔-沙尔谈加沙的悲惨处境、情感重负与生存挣扎”如果继续发展，可能通过能源价格、航运、贸易、汇率或市场预期传导到国内。了解它的意义在于判断后续风险，而不只停留在事件本身。",
-          "userRelevance": "即使你不在加沙，“希望如此沉重：阿尔-沙尔谈加沙的悲惨处境、情感重负与生存挣扎”也可能通过能源价格、国际航运、贸易成本和市场预期间接影响国内生活与工作判断。",
-          "whatToWatch": "接下来要看“希望如此沉重：阿尔-沙尔谈加沙的悲惨处境、情感重负与生存挣扎”是否出现新的官方信息、后续行动，以及它与中国出行、贸易或公共判断的关联是否扩大。"
-        },
-        "sourceLinks": [
-          {
-            "title": "France 24 Middle East RSS",
-            "url": "https://www.france24.com/en/hope-so-heavy-to-carry-al-shaer-on-harrowing-plight-emotional-toll-struggle-to-survive-in-gaza",
-            "sourceId": "france24-middle-east-rss",
-            "publishedAt": "2026-10-13T13:36:15.000Z",
-            "language": "zh",
-            "originalLanguage": "en",
-            "translationStatus": "translated",
-            "fetchedAt": "2026-10-14T07:18:14.243Z",
-            "sourceMethod": "rss",
-            "verificationStatus": "pending"
-          }
-        ],
-        "images": [
-          {
-            "url": "https://s.france24.com/media/display/d9397d8a-c603-11f1-9405-53993c5f1f18/w:1024/p:16x9/EN-20261006-081057-082155-CS.jpg",
-            "sourceUrl": "https://www.france24.com/en/hope-so-heavy-to-carry-al-shaer-on-harrowing-plight-emotional-toll-struggle-to-survive-in-gaza"
-          }
-        ],
-        "generatedAt": "2026-10-14T02:00:00.000Z"
-      },
-      {
-        "id": "draft-real-france24-middle-east-rss-11rlrx2",
-        "title": "也门大使称：胡塞武装通过制造战争“繁荣并生存下来”",
-        "oneLine": "政策变化：国际最新进展：也门驻法国大使里亚德·亚辛·阿卜杜拉在接受法新社记者马克·欧文采访时称，由伊朗支持的胡塞武装“通过制造战争而繁荣和生存”。",
-        "importance": "S",
-        "credibility": "待确认",
-        "tags": [
-          "S",
-          "mustKnow",
-          "industry",
+          "risk",
           "world",
           "policy",
-          "finance"
+          "local"
         ],
         "industries": [
           "generalPublic",
-          "financeInvestment",
-          "operationsGrowth",
-          "ecommerceRetail"
+          "localLife"
         ],
-        "section": "front",
+        "section": "risk",
         "body": {
-          "background": "沙特能源部长周一表示，该国虽经受了考验，但在胡塞武装对利雅得国际机场发动一系列袭击、造成18人死亡后，将作出“严肃”回应。重大国际变化可能通过外交、贸易、关税、能源、航运、安全或市场预期影响中国用户。这条信息已经命中中国、贸易、关税、能源或航运关联，需要进入中国用户的重点复核。",
-          "keyProgress": "继续核对官方表态和第二个可靠来源，并关注局势变化、政策生效时间及对中国的传导路径。",
-          "whyItMatters": "“也门大使称：胡塞武装通过制造战争繁荣并生存下来”如果继续发展，可能通过能源价格、航运、贸易、汇率或市场预期传导到国内。了解它的意义在于判断后续风险，而不只停留在事件本身。",
-          "userRelevance": "即使你不在伊朗、法国、沙特，“也门大使称：胡塞武装通过制造战争繁荣并生存下来”也可能通过能源价格、国际航运、贸易成本和市场预期间接影响国内生活与工作判断。",
-          "whatToWatch": "接下来要看“也门大使称：胡塞武装通过制造战争繁荣并生存下来”是否出现更细的城市、行业、平台或企业数据，以及这一变化能否连续保持。"
+          "background": "我们使用必要的 Cookie 以使本网站正常运行。我们希望设置额外的 Cookie，以了解您如何使用 GOV.UK、记住您的设置并改善政府服务。我们还使用其他网站设置的 Cookie，以帮助我们提供来自其服务的内容。",
+          "keyProgress": "您可以随时更改 Cookie 设置。新闻（新闻报道、演讲、信函与通知）；指导与法规（详细指导、法规与规则）；研究与统计（报告、分析与官方统计数据）；",
+          "whyItMatters": "“联合国制裁机制仍是应对海地不安全局势、缓解海地人民苦难的重要工具：英国在联合国安理会的投票解释”的直接价值是帮助你判断是否需要调整出行、居住或工作安排。影响地区、持续时间、预警等级和官方避险建议比事件热度更重要。",
+          "userRelevance": "对于“联合国制裁机制仍是应对海地不安全局势、缓解海地人民苦难的重要工具：英国在联合国安理会的投票解释”，如果你居住、出行或有家人在英国，应及时查看当地预警和交通变化；不在相关地区时，通常无需改变日常安排。",
+          "whatToWatch": "接下来要看“联合国制裁机制仍是应对海地不安全局势、缓解海地人民苦难的重要工具：英国在联合国安理会的投票解释”的影响范围是否扩大、预警等级是否变化，以及是否出现与你所在城市相关的提醒。"
         },
         "sourceLinks": [
           {
-            "title": "France 24 Middle East RSS",
-            "url": "https://www.france24.com/en/houthis-are-thriving-and-surviving-by-creating-war-yemen-ambassador-says",
-            "sourceId": "france24-middle-east-rss",
-            "publishedAt": "2026-10-12T19:08:05.000Z",
+            "title": "GOV.UK News and Communications",
+            "url": "https://www.gov.uk/government/speeches/the-un-sanctions-regime-remains-an-essential-tool-to-address-insecurity-in-haiti-and-to-alleviate-the-suffering-of-the-haitian-people-uk-explanation-o",
+            "sourceId": "gov-uk-news",
+            "publishedAt": "2026-10-14T15:45:56.000Z",
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-10-14T07:18:14.243Z",
+            "fetchedAt": "2026-10-15T07:09:49.614Z",
             "sourceMethod": "rss",
-            "verificationStatus": "pending"
+            "verificationStatus": "confirmed"
+          },
+          {
+            "title": "GOV.UK News and Communications",
+            "url": "https://www.gov.uk/government/speeches/libyan-parties-must-honour-commitments-made-to-give-security-economic-opportunity-and-democratic-freedom-to-the-libyan-people-uk-statement-at-the-un-s",
+            "sourceId": "gov-uk-news",
+            "publishedAt": "2026-10-14T16:03:05.000Z",
+            "language": "zh",
+            "originalLanguage": "en",
+            "translationStatus": "translated",
+            "fetchedAt": "2026-10-15T07:09:49.614Z",
+            "sourceMethod": "rss",
+            "verificationStatus": "confirmed"
           }
         ],
         "images": [
           {
-            "url": "https://s.france24.com/media/display/50966bf2-c66f-11f1-924c-77317c09f325/w:1024/p:16x9/EN-20261012-203406-204032-CS.jpg",
-            "sourceUrl": "https://www.france24.com/en/houthis-are-thriving-and-surviving-by-creating-war-yemen-ambassador-says"
+            "url": "https://assets.publishing.service.gov.uk/media/6acfa3f52de3184ccf8b815e/Haiti_eov_14_oct.png",
+            "sourceUrl": "https://www.gov.uk/government/speeches/the-un-sanctions-regime-remains-an-essential-tool-to-address-insecurity-in-haiti-and-to-alleviate-the-suffering-of-the-haitian-people-uk-explanation-o"
           }
         ],
-        "generatedAt": "2026-10-14T02:00:00.000Z"
+        "generatedAt": "2026-10-15T02:00:00.000Z"
       },
       {
-        "id": "draft-cluster-real-france24-middle-east-rss-1upeeef",
-        "title": "沙特阿拉伯面临多大风险？也门胡塞武装升级无人机和导弹袭击",
-        "oneLine": "最新进展：沙特阿拉伯面临多大风险？也门胡塞武装升级无人机和导弹袭击。",
-        "importance": "S",
-        "credibility": "待确认",
-        "tags": [
-          "S",
-          "mustKnow",
-          "world",
-          "policy"
-        ],
-        "industries": [
-          "generalPublic"
-        ],
-        "section": "front",
-        "body": {
-          "background": "国际主流媒体 RSS 用于补充全球突发、政策、贸易、能源和科技事件，不能单独替代事实确认。正如伊朗对唐纳德·特朗普发动战争的报复行动突然暴露了邻近海湾国家的软肋，利雅得在升级与德黑兰支持的也门胡塞武装冲突中遭受了多大冲击？我们评估了对机场和石油设施袭击所造成的物理及物质损失，以及这对王国投射实力能力的潜在影响。",
-          "keyProgress": "重大国际变化可能通过外交、贸易、关税、能源、航运、安全或市场预期影响中国用户。在廉价无人机战争时代，一支久经沙场的民兵组织能在多大程度上撼动该地区最富有的国家？是否推送取决于事件影响范围、严重程度，以及它是否会影响中国或形成全球共同认知。继续核对官方表态和第二个可靠来源，并关注局势变化、政策生效时间及对中国的传导路径。",
-          "whyItMatters": "“沙特阿拉伯面临多大风险？也门胡塞武装升级无人机和导弹袭击”如果继续发展，可能通过能源价格、航运、贸易、汇率或市场预期传导到国内。了解它的意义在于判断后续风险，而不只停留在事件本身。",
-          "userRelevance": "即使你不在伊朗、沙特、也门，“沙特阿拉伯面临多大风险？也门胡塞武装升级无人机和导弹袭击”也可能通过能源价格、国际航运、贸易成本和市场预期间接影响国内生活与工作判断。",
-          "whatToWatch": "接下来要看“沙特阿拉伯面临多大风险？也门胡塞武装升级无人机和导弹袭击”是否出现新的官方信息、后续行动，以及它与中国出行、贸易或公共判断的关联是否扩大。"
-        },
-        "sourceLinks": [
-          {
-            "title": "France 24 Middle East RSS",
-            "url": "https://www.france24.com/en/tv-shows/the-debate/20261012-how-exposed-is-saudi-arabia-yemen-s-houthis-scale-up-drone-and-missile-attacks",
-            "sourceId": "france24-middle-east-rss",
-            "publishedAt": "2026-10-12T18:33:12.000Z",
-            "language": "zh",
-            "originalLanguage": "en",
-            "translationStatus": "translated",
-            "fetchedAt": "2026-10-14T07:18:14.243Z",
-            "sourceMethod": "rss",
-            "verificationStatus": "pending"
-          },
-          {
-            "title": "France 24 Middle East RSS",
-            "url": "https://www.france24.com/en/saudi-arabia-extends-riyadh-aiport-suspension-vows-deadly-response-to-houthis-strikes",
-            "sourceId": "france24-middle-east-rss",
-            "publishedAt": "2026-10-12T16:21:57.000Z",
-            "language": "zh",
-            "originalLanguage": "en",
-            "translationStatus": "translated",
-            "fetchedAt": "2026-10-14T07:18:14.243Z",
-            "sourceMethod": "rss",
-            "verificationStatus": "pending"
-          }
-        ],
-        "images": [
-          {
-            "url": "https://s.france24.com/media/display/c294b8ba-c5ae-11f1-9976-77317c09f325/w:1024/p:16x9/2026-10-11T133451Z-158209492-RC211OAHP5D3-RTRMADP-3-IRAN-CRISIS-SAUDI-AIRPORT.jpg",
-            "sourceUrl": "https://www.france24.com/en/tv-shows/the-debate/20261012-how-exposed-is-saudi-arabia-yemen-s-houthis-scale-up-drone-and-missile-attacks"
-          },
-          {
-            "url": "https://s.france24.com/media/display/8e087024-c657-11f1-b925-77317c09f325/w:1024/p:16x9/EN-20261012-170113-170804-CS.jpg",
-            "sourceUrl": "https://www.france24.com/en/saudi-arabia-extends-riyadh-aiport-suspension-vows-deadly-response-to-houthis-strikes"
-          }
-        ],
-        "generatedAt": "2026-10-14T02:00:00.000Z"
-      },
-      {
-        "id": "draft-real-mofcom-trade-1gwc9pm",
-        "title": "商务部服贸司负责人介绍2026年1-8月服务贸易发展情况",
-        "oneLine": "政策变化：2026年1-8月，我国服务进出口总额50701.6亿元（人民币，下同），同比增长7.9%。",
+        "id": "draft-cluster-real-mofcom-trade-se42qz",
+        "title": "李强出席第140届中国进出口商品交易会开幕式并发表主旨演讲",
+        "oneLine": "政策变化：国务院总理李强10月14日下午在广州出席第140届中国进出口商品交易会（广交会）开幕式并发表主旨演讲。",
         "importance": "S",
         "credibility": "官方来源",
         "tags": [
@@ -362,33 +360,45 @@
         ],
         "section": "industry",
         "body": {
-          "background": "其中，出口19996.1亿元，增长14.8%；进口30705.5亿元，增长3.8%。服务贸易逆差10709.4亿元，同比缩小1451.2亿元。",
-          "keyProgress": "主要呈现以下特点： 旅行和运输服务出口对整体服务出口增长的贡献率近50%。1-8月，旅行服务出口2751.7亿元，增长15.3%，运输服务出口4202.6亿元，增长28.2%。旅行和运输服务出口对整体服务出口增长的贡献率分别为14.1%和35.8%。1-8月，知识密集型服务进出口22314亿元，增长6.6%，占服务进出口总额的44%。",
-          "whyItMatters": "“商务部服贸司负责人介绍2026年1-8月服务贸易发展情况”如果继续发展，可能通过能源价格、航运、贸易、汇率或市场预期传导到国内。了解它的意义在于判断后续风险，而不只停留在事件本身。",
-          "userRelevance": "即使你不在事发地区，“商务部服贸司负责人介绍2026年1-8月服务贸易发展情况”也可能通过能源价格、国际航运、贸易成本和市场预期间接影响国内生活与工作判断。",
-          "whatToWatch": "接下来要看“商务部服贸司负责人介绍2026年1-8月服务贸易发展情况”是否出现更细的城市、行业、平台或企业数据，以及这一变化能否连续保持。"
+          "background": "透过广交会这扇“窗”，世人看到了中国经济社会蕴藏的巨大活力，见证了中国亿万民众一路奋发进取的壮阔历程，更感受到中国和世界与日俱增的深厚联结。在世界不确定性加剧背景下，希望各方共同推动世贸组织改革，打造开放、基于规则的全球贸易体系。李强表示，今年是广交会创办70周年。",
+          "keyProgress": "其一，市场联通不是博弈工具，而是创造增量的有效举措。中国致力于推动国内市场与国际市场不断融合、共同成长，构建开放型世界经济。中方愿进口更多优质产品特别是高附加值产品，希望更多国家同中国相向而行、放开限制，积极推动贸易优化平衡发展。中国作为最大的发展中国家，始终致力于推动共同发展，在自身发展的同时，一直尽最大努力帮助和支持其他发展中国家。",
+          "whyItMatters": "“李强出席第140届中国进出口商品交易会开幕式并发表主旨演讲”如果继续发展，可能通过能源价格、航运、贸易、汇率或市场预期传导到国内。了解它的意义在于判断后续风险，而不只停留在事件本身。",
+          "userRelevance": "即使你不在中国，“李强出席第140届中国进出口商品交易会开幕式并发表主旨演讲”也可能通过能源价格、国际航运、贸易成本和市场预期间接影响国内生活与工作判断。",
+          "whatToWatch": "接下来要看“李强出席第140届中国进出口商品交易会开幕式并发表主旨演讲”是否出现更细的城市、行业、平台或企业数据，以及这一变化能否连续保持。"
         },
         "sourceLinks": [
           {
             "title": "商务部新闻发布",
-            "url": "https://www.mofcom.gov.cn/xwfb/sjfzrfb/art/2026/art_d20c715329f345b1b9ef7d61735fec61.html",
+            "url": "https://www.mofcom.gov.cn/xwfb/ldrhd/art/2026/art_ce17581fa6ae44fcb1f21c9c46a8b70b.html",
             "sourceId": "mofcom-trade",
-            "publishedAt": "2026-10-13T00:00:00+08:00",
+            "publishedAt": "2026-10-14T00:00:00+08:00",
             "language": "zh",
             "originalLanguage": "zh",
             "translationStatus": "not-needed",
-            "fetchedAt": "2026-10-14T07:18:15.263Z",
+            "fetchedAt": "2026-10-15T07:09:52.174Z",
+            "sourceMethod": "web",
+            "verificationStatus": "confirmed"
+          },
+          {
+            "title": "商务部新闻发布",
+            "url": "https://www.mofcom.gov.cn/xwfb/ldrhd/art/2026/art_0004995983d04f968f68bcac7f223dc3.html",
+            "sourceId": "mofcom-trade",
+            "publishedAt": "2026-10-14T00:00:00+08:00",
+            "language": "zh",
+            "originalLanguage": "zh",
+            "translationStatus": "not-needed",
+            "fetchedAt": "2026-10-15T07:09:52.174Z",
             "sourceMethod": "web",
             "verificationStatus": "confirmed"
           }
         ],
         "images": [],
-        "generatedAt": "2026-10-14T02:00:00.000Z"
+        "generatedAt": "2026-10-15T02:00:00.000Z"
       },
       {
-        "id": "draft-real-mofcom-trade-1nieyc0",
-        "title": "商务部安全与管制局负责人就《民用航空领域相关两用物项出口凭证管理办法》（征求意见稿）答记者问",
-        "oneLine": "政策变化：近期，商务部就《民用航空领域相关两用物项出口凭证管理办法》（以下简称《办法》）（征求意见稿）面向社会公开公开征求意见。",
+        "id": "draft-real-mofcom-trade-1l57yqq",
+        "title": "中新双边投资促进委员会第八次联席会议召开",
+        "oneLine": "政策变化：10月13日，中新双边投资促进委员会第八次联席会议以视频方式召开。",
         "importance": "S",
         "credibility": "官方来源",
         "tags": [
@@ -407,33 +417,88 @@
         ],
         "section": "industry",
         "body": {
-          "background": "问：请介绍一下《办法》（征求意见稿）立法背景情况？前期，我们通过问卷调研、实地走访、部门座谈等方式认真开展立法调研，在此基础上研究起草了《办法》。答：《办法》规定民航企业出口有关物项用于维修、维护、租赁等合理用途，无需逐单申请许可证件，在登记填报相关信息后自动获得出口凭证，自行出口。",
-          "keyProgress": "商务部安全与管制局负责人就推动《办法》立法的有关问题回答了记者提问。2006年，商务部颁布实施《民用航空零部件出口分类管理办法》，对于民航领域有关物项出境维修、租赁等出口形式，出口经营者可每年办理出口许可批件，有效期内可多次通关，便利航空企业出境维修发动机、惯性导航仪等部件，促进民航安全和产业发展。《办法》主要考虑以下几方面： 一是落实《条例》制度设计 ， 在《条例》出台后首次落地实施出口凭证制度，有利于实现对不同出口情形的分级分类管理，进一步完善出口管制体系，提升监管效能。与中国民航局、海关总署等相关部门形成监管合力，及时制止风险出口，维护国家安全和利益。",
-          "whyItMatters": "“商务部安全与管制局负责人就民用航空领域相关两用物项出口凭证管理办法答记者问”如果继续发展，可能通过能源价格、航运、贸易、汇率或市场预期传导到国内。了解它的意义在于判断后续风险，而不只停留在事件本身。",
-          "userRelevance": "即使你不在事发地区，“商务部安全与管制局负责人就民用航空领域相关两用物项出口凭证管理办法答记者问”也可能通过能源价格、国际航运、贸易成本和市场预期间接影响国内生活与工作判断。",
-          "whatToWatch": "接下来要看“商务部安全与管制局负责人就民用航空领域相关两用物项出口凭证管理办法答记者问”是否出现更细的城市、行业、平台或企业数据，以及这一变化能否连续保持。"
+          "background": "中方愿与新方共同落实好两国领导人达成的重要共识，继续发挥中新投资促进委员会作用，积极开展多层级交流对话，打造数字经济、绿色经济等双边合作新增长点，为中新经贸合作持续注入新动力。新方愿继续深化与中方在新兴领域的政策交流，开展务实合作，为两国企业创造更多发展机遇。会议由商务部部长王文涛与新加坡副总理兼能源、贸易及工业部长颜金勇共同主持。",
+          "keyProgress": "学习宣传贯彻党的二十大精神 国家层面海外综合服务平台 提振消费专项行动 政策集成和综合解读专栏 优化营商环境-国际贸易专题 外资企业问题诉求收集办理 国际消费中心城市培育建设 丝路电商——电子商务国际合作 《区域全面经济伙伴关系协定》（RCEP） 市场运行与流通发展服务平台 2025年度网站工作年度报表双方就双向投资、政府间合作项目以及推进双边合作等议题交换意见。王文涛表示，在两国领导人的战略引领下，中新全方位高质量的前瞻性伙伴关系持续发展。当前，中新双向投资保持活跃，苏州工业园区、重庆互联互通、广州知识城等双边合作项目稳步推进，新兴领域合作不断拓展。",
+          "whyItMatters": "“中新双边投资促进委员会第八次联席会议召开”如果继续发展，可能通过能源价格、航运、贸易、汇率或市场预期传导到国内。了解它的意义在于判断后续风险，而不只停留在事件本身。",
+          "userRelevance": "即使你不在事发地区，“中新双边投资促进委员会第八次联席会议召开”也可能通过能源价格、国际航运、贸易成本和市场预期间接影响国内生活与工作判断。",
+          "whatToWatch": "接下来要看“中新双边投资促进委员会第八次联席会议召开”是否出现更细的城市、行业、平台或企业数据，以及这一变化能否连续保持。"
         },
         "sourceLinks": [
           {
             "title": "商务部新闻发布",
-            "url": "https://www.mofcom.gov.cn/xwfb/sjfzrfb/art/2026/art_5fb14edff75c45fa887d5c16d3477eb4.html",
+            "url": "https://www.mofcom.gov.cn/xwfb/bldhd/art/2026/art_26bbb216adea491caac7e7e0ed80cdaa.html",
             "sourceId": "mofcom-trade",
-            "publishedAt": "2026-10-13T00:00:00+08:00",
+            "publishedAt": "2026-10-14T00:00:00+08:00",
             "language": "zh",
             "originalLanguage": "zh",
             "translationStatus": "not-needed",
-            "fetchedAt": "2026-10-14T07:18:15.263Z",
+            "fetchedAt": "2026-10-15T07:09:52.174Z",
             "sourceMethod": "web",
             "verificationStatus": "confirmed"
           }
         ],
-        "images": [],
-        "generatedAt": "2026-10-14T02:00:00.000Z"
+        "images": [
+          {
+            "url": "https://www.mofcom.gov.cn/cms_files/filemanager/1077459795/picture/20269/Sb9896c6e10dc4a1bb1782303ae2f947b-700.jpg",
+            "sourceUrl": "https://www.mofcom.gov.cn/xwfb/bldhd/art/2026/art_26bbb216adea491caac7e7e0ed80cdaa.html"
+          }
+        ],
+        "generatedAt": "2026-10-15T02:00:00.000Z"
       },
       {
-        "id": "draft-real-xinhua-world-d6kozb",
-        "title": "也门荷台达省燃油设施遭空袭致2死2伤",
-        "oneLine": "最新进展：也门荷台达省燃油设施遭空袭致2死2伤。",
+        "id": "draft-real-mofcom-trade-wq1p6e",
+        "title": "中国—白俄罗斯政府间合作委员会经贸合作分委会第十次会议暨中白工业园协调工作组第十六次会议在京召开",
+        "oneLine": "政策变化：10月14日，商务部副部长兼中华人民共和国国际贸易谈判副代表凌激与白俄罗斯经济部部长切博塔里在北京共同主持召开中白政府间合作委员会经贸合作分委会第十次会议暨中白工业园协调工作组第十六次会议。",
+        "importance": "S",
+        "credibility": "官方来源",
+        "tags": [
+          "S",
+          "industry",
+          "world",
+          "china",
+          "policy"
+        ],
+        "industries": [
+          "generalPublic",
+          "financeInvestment",
+          "operationsGrowth",
+          "ecommerceRetail",
+          "consumerBrand"
+        ],
+        "section": "industry",
+        "body": {
+          "background": "凌激表示，中白元首今年6月成功会晤，为各领域合作擘画新蓝图。中方建议白方优化中白工业园营商环境，完善优惠政策和园区配套设施及服务，推动中白工业园可持续发展。切博塔里表示，白方高度重视对华合作，愿促进双边贸易量质齐升，加强投资政策沟通交流，推动两国在服务贸易、投资以及人工智能领域合作取得更多成果。",
+          "keyProgress": "学习宣传贯彻党的二十大精神 国家层面海外综合服务平台 提振消费专项行动 政策集成和综合解读专栏 优化营商环境-国际贸易专题 外资企业问题诉求收集办理 国际消费中心城市培育建设 丝路电商——电子商务国际合作 《区域全面经济伙伴关系协定》（RCEP） 市场运行与流通发展服务平台 2025年度网站工作年度报表白方将尽快出台新版中白工业园总统令，为园区企业提供政策支持，欢迎更多中国企业入驻工业园。",
+          "whyItMatters": "“中国—白俄罗斯政府间合作委员会经贸合作分委会第十次会议暨中白工业园协调工作组第十六次会议在京召开”如果继续发展，可能通过能源价格、航运、贸易、汇率或市场预期传导到国内。了解它的意义在于判断后续风险，而不只停留在事件本身。",
+          "userRelevance": "即使你不在中国、俄罗斯，“中国—白俄罗斯政府间合作委员会经贸合作分委会第十次会议暨中白工业园协调工作组第十六次会议在京召开”也可能通过能源价格、国际航运、贸易成本和市场预期间接影响国内生活与工作判断。",
+          "whatToWatch": "接下来要看“中国—白俄罗斯政府间合作委员会经贸合作分委会第十次会议暨中白工业园协调工作组第十六次会议在京召开”是否出现更细的城市、行业、平台或企业数据，以及这一变化能否连续保持。"
+        },
+        "sourceLinks": [
+          {
+            "title": "商务部新闻发布",
+            "url": "https://www.mofcom.gov.cn/xwfb/bldhd/art/2026/art_daf555c04cd24d85b23a6f0225419abd.html",
+            "sourceId": "mofcom-trade",
+            "publishedAt": "2026-10-14T00:00:00+08:00",
+            "language": "zh",
+            "originalLanguage": "zh",
+            "translationStatus": "not-needed",
+            "fetchedAt": "2026-10-15T07:09:52.174Z",
+            "sourceMethod": "web",
+            "verificationStatus": "confirmed"
+          }
+        ],
+        "images": [
+          {
+            "url": "https://www.mofcom.gov.cn/cms_files/filemanager/1077459795/picture/20269/S44e366a726794af481dba1d2640d1147-700.jpg",
+            "sourceUrl": "https://www.mofcom.gov.cn/xwfb/bldhd/art/2026/art_daf555c04cd24d85b23a6f0225419abd.html"
+          }
+        ],
+        "generatedAt": "2026-10-15T02:00:00.000Z"
+      },
+      {
+        "id": "draft-real-xinhua-world-1948iih",
+        "title": "日媒：高市或调整“无核三原则”相关表述",
+        "oneLine": "政策变化：“安保三文件”中的日本《国家安全保障战略》明确写道：“坚持‘无核三原则’的基本方针今后不会改变。",
         "importance": "A",
         "credibility": "主流媒体",
         "tags": [
@@ -451,498 +516,454 @@
         ],
         "section": "front",
         "body": {
-          "background": "视台13日报道，沙特阿拉伯主导的多国联军战机当天对也门西部荷台达省多处燃油设施发动空袭，造成2人死亡、2人受伤。荷台达省遭袭数小时前，也门石油公司位于萨那西部萨巴哈地区的一处设施遭沙特空袭，该设施用于燃油储存和分配。此前，沙特主导的多国联军宣布，正准备在萨那实施一项“特殊军事行动”。",
-          "keyProgress": "一名也门安全部门官员当日告诉新华社记者，沙特联军战机对胡塞武装控制的荷台达省红海沿岸伊萨角地区多处燃油储存设施发动多次空袭。联军战机还袭击了荷台达省巴吉勒地区的燃油供应仓库。当地居民告诉新华社记者，空袭后，遭袭地区升起滚滚黑烟。空袭发生前，胡塞武装警告称，任何针对萨那的袭击都将招致其对沙特首都利雅得的报复。",
-          "whyItMatters": "“也门荷台达省燃油设施遭空袭致2死2伤”如果继续发展，可能通过能源价格、航运、贸易、汇率或市场预期传导到国内。了解它的意义在于判断后续风险，而不只停留在事件本身。",
-          "userRelevance": "即使你不在也门，“也门荷台达省燃油设施遭空袭致2死2伤”也可能通过能源价格、国际航运、贸易成本和市场预期间接影响国内生活与工作判断。",
-          "whatToWatch": "接下来要看“也门荷台达省燃油设施遭空袭致2死2伤”是否出现新的官方信息、后续行动，以及它与中国出行、贸易或公共判断的关联是否扩大。"
+          "background": "据《日本经济新闻》15日报道，日本首相高市早苗14日在国会答辩中暗示，可能在今年年底修订《国家安全保障战略》等“安保三文件”时，调整其中有关“无核三原则”的表述。据悉，高市14日在众议院预算委员会会议上回答公明党议员伊佐进一的相关质询时表示，日本政府在政策方针上仍在坚持“无核三原则”；目前正在推进“安保三文件”的修订工作，其中关于“无核三原则”的具体表述“仍有探讨余地”。",
+          "keyProgress": "《日本经济新闻》将此解读为，高市虽然可能不会改变“无核三原则”本身，但可能调整“安保三文件”中有关这一原则的政策表述。“无核三原则”指“不拥有、不制造、不运进核武器”。” 报道指出，高市在就任首相前长期主张修改“无核三原则”中“不运进核武器”的原则。与自民党共同组成执政联盟的日本维新会在今年6月提出的有关“安保三文件”修改建议中也主张对“不运进核武器”原则“进行符合现实情况的研究”。",
+          "whyItMatters": "“日媒：高市或调整无核三原则相关表述”如果继续发展，可能通过能源价格、航运、贸易、汇率或市场预期传导到国内。了解它的意义在于判断后续风险，而不只停留在事件本身。",
+          "userRelevance": "即使你不在事发地区，“日媒：高市或调整无核三原则相关表述”也可能通过能源价格、国际航运、贸易成本和市场预期间接影响国内生活与工作判断。",
+          "whatToWatch": "接下来要看“日媒：高市或调整无核三原则相关表述”是否出现新的官方信息、后续行动，以及它与中国出行、贸易或公共判断的关联是否扩大。"
         },
         "sourceLinks": [
           {
             "title": "新华网国际",
-            "url": "https://www.news.cn/world/20261014/88ff6cbd6f4e4733bc77d16b1e1a1d3a/c.html",
+            "url": "https://www.news.cn/world/20261015/fca14a240e954582ac8629d3ef78ae97/c.html",
             "sourceId": "xinhua-world",
-            "publishedAt": "2026-10-14T00:00:00+08:00",
+            "publishedAt": "2026-10-15T00:00:00+08:00",
             "language": "zh",
             "originalLanguage": "zh",
             "translationStatus": "not-needed",
-            "fetchedAt": "2026-10-14T07:18:14.255Z",
+            "fetchedAt": "2026-10-15T07:09:49.926Z",
             "sourceMethod": "web",
             "verificationStatus": "confirmed"
           }
         ],
         "images": [],
-        "generatedAt": "2026-10-14T02:00:00.000Z"
+        "generatedAt": "2026-10-15T02:00:00.000Z"
       },
       {
-        "id": "draft-real-gov-uk-news-pq214y",
-        "title": "英国继续支持刚果民主共和国的人道主义响应，包括通过我们对埃博拉疫情应对的援助：英国在联合国安全理事会的声明",
-        "oneLine": "风险提醒：《英国继续支持刚果民主共和国的人道主义响应，包括通过我们对埃博拉疫情应对的援助：英国在联合国安全理事会的声明》我们使用必要的 Cookie 以使本网站正常运行。",
-        "importance": "B",
-        "credibility": "官方来源",
-        "tags": [
-          "B",
-          "mustKnow",
-          "risk",
-          "world",
-          "policy",
-          "local"
-        ],
-        "industries": [
-          "generalPublic",
-          "localLife"
-        ],
-        "section": "risk",
-        "body": {
-          "background": "刚果民主共和国超过 2600 万人面临严重粮食不安全，其中包括 360 万人处于紧急水平。英国继续支持人道主义响应，包括我们对埃博拉应对工作的援助。第二，我们欢迎通过多哈进程和华盛顿进程取得的进展，包括在联合国刚果民主共和国稳定特派团（MONUSCO）支持下最近部署的东非共同体调解小组（EJVM+），以及正在进行的由非洲联盟主导的调解努力。",
-          "keyProgress": "我们使用必要的 Cookie 以使本网站正常运行。我们希望设置额外的 Cookie，以了解您对 GOV.UK 的使用情况、记住您的设置并改善政府服务。我们还使用其他网站设置的 Cookie，以帮助我们提供来自其服务的内容。您可以随时更改 Cookie 设置。",
-          "whyItMatters": "“英国继续支持刚果民主共和国的人道主义响应”的直接价值是帮助你判断是否需要调整出行、居住或工作安排。影响地区、持续时间、预警等级和官方避险建议比事件热度更重要。",
-          "userRelevance": "对于“英国继续支持刚果民主共和国的人道主义响应”，如果你居住、出行或有家人在英国，应及时查看当地预警和交通变化；不在相关地区时，通常无需改变日常安排。",
-          "whatToWatch": "接下来要看“英国继续支持刚果民主共和国的人道主义响应”的影响范围是否扩大、预警等级是否变化，以及是否出现与你所在城市相关的提醒。"
-        },
-        "sourceLinks": [
-          {
-            "title": "GOV.UK News and Communications",
-            "url": "https://www.gov.uk/government/speeches/the-united-kingdom-continues-to-support-the-humanitarian-response-in-the-drc-including-through-our-assistance-to-the-ebola-response-uk-statement-at-th",
-            "sourceId": "gov-uk-news",
-            "publishedAt": "2026-10-13T16:42:09.000Z",
-            "language": "zh",
-            "originalLanguage": "en",
-            "translationStatus": "translated",
-            "fetchedAt": "2026-10-14T07:18:13.820Z",
-            "sourceMethod": "rss",
-            "verificationStatus": "confirmed"
-          }
-        ],
-        "images": [
-          {
-            "url": "https://assets.publishing.service.gov.uk/media/6ace5f7db8542d3693fd4427/great_lakes_13_october.png",
-            "sourceUrl": "https://www.gov.uk/government/speeches/the-united-kingdom-continues-to-support-the-humanitarian-response-in-the-drc-including-through-our-assistance-to-the-ebola-response-uk-statement-at-th"
-          }
-        ],
-        "generatedAt": "2026-10-14T02:00:00.000Z"
-      },
-      {
-        "id": "draft-real-gov-uk-news-17jk2ki",
-        "title": "英国与加拿大续签人工智能安全合作伙伴关系",
-        "oneLine": "风险提醒：《英国与加拿大续签人工智能安全合作伙伴关系》我们使用必要的 Cookie 以使本网站正常运行。",
-        "importance": "B",
-        "credibility": "官方来源",
-        "tags": [
-          "B",
-          "mustKnow",
-          "risk",
-          "world",
-          "policy",
-          "local"
-        ],
-        "industries": [
-          "generalPublic",
-          "localLife"
-        ],
-        "section": "risk",
-        "body": {
-          "background": "透明度（数据、信息自由发布与企业报告）。我们使用必要的 Cookie 以使本网站正常运行。我们希望设置额外的 Cookie，以了解您如何使用 GOV.UK、记住您的设置并改善政府服务。",
-          "keyProgress": "英国与加拿大宣布重启人工智能安全伙伴关系 英国与加拿大宣布重启人工智能安全伙伴关系，进一步强化在前沿人工智能风险和能力信息共享、人工智能评估最佳实践、人员交流及协调评估探索、提升社会韧性以及技术标准协作等方面的合作。英国和加拿大政府正在重启其在人工智能安全领域的伙伴关系，此举建立在2024年5月首次宣布的《英加人工智能安全科学伙伴关系》以及2025年签署的《英加增长与创新伙伴关系》基础之上。此次合作将加拿大在人工智能研究方面的优势与英国在人工智能测试和评估方面的专长相结合，支持两国在理解和应对新兴风险方面的努力。这标志着两国近期为推动全球人工智能安全而采取的一系列行动的下一步进展。",
-          "whyItMatters": "“英国与加拿大续签人工智能安全合作伙伴关系”的直接价值是帮助你判断是否需要调整出行、居住或工作安排。影响地区、持续时间、预警等级和官方避险建议比事件热度更重要。",
-          "userRelevance": "对于“英国与加拿大续签人工智能安全合作伙伴关系”，如果你居住、出行或有家人在英国，应及时查看当地预警和交通变化；不在相关地区时，通常无需改变日常安排。",
-          "whatToWatch": "接下来要看“英国与加拿大续签人工智能安全合作伙伴关系”的影响范围是否扩大、预警等级是否变化，以及是否出现与你所在城市相关的提醒。"
-        },
-        "sourceLinks": [
-          {
-            "title": "GOV.UK News and Communications",
-            "url": "https://www.gov.uk/government/news/uk-canada-renewed-ai-security-partnership",
-            "sourceId": "gov-uk-news",
-            "publishedAt": "2026-10-13T15:23:24.000Z",
-            "language": "zh",
-            "originalLanguage": "en",
-            "translationStatus": "translated",
-            "fetchedAt": "2026-10-14T07:18:13.820Z",
-            "sourceMethod": "rss",
-            "verificationStatus": "confirmed"
-          }
-        ],
-        "images": [
-          {
-            "url": "https://assets.publishing.service.gov.uk/media/5a37da9ded915d5a5f965f9c/s300_cabinet-office.jpg",
-            "sourceUrl": "https://www.gov.uk/government/news/uk-canada-renewed-ai-security-partnership"
-          }
-        ],
-        "generatedAt": "2026-10-14T02:00:00.000Z"
-      },
-      {
-        "id": "draft-real-gov-uk-news-ipck25",
-        "title": "东米德兰兹100户家庭受益于防洪韧性措施",
-        "oneLine": "风险提醒：《东米德兰兹100户家庭受益于防洪韧性措施》我们使用必要的 Cookie 以使本网站正常运行。",
-        "importance": "B",
-        "credibility": "官方来源",
-        "tags": [
-          "B",
-          "mustKnow",
-          "risk",
-          "world",
-          "policy",
-          "local"
-        ],
-        "industries": [
-          "generalPublic",
-          "localLife"
-        ],
-        "section": "risk",
-        "body": {
-          "background": "**分类导航：** 出生、死亡、婚姻和护理 | 企业和自雇人士 | 育儿和抚养子女 | 公民身份和在英国生活 | 犯罪、司法和法律 | 残障人士 | 驾驶和交通 | 教育和学习 | 雇佣人员 | 环境和乡村 | 住房和地方服务 | 金钱和税收 | 护照、旅行和海外生活 | 签证和移民 | 工作、就业和养老金 **部门与机构：** 各部门 | 部门、机构和公共机构 **新闻：** 新闻报道、演讲、信函和通知 **指南与法规：** 详细指南、法规和规则 **研究与统计：** 报告、分析和官方统计数据 **政策文件与咨询：** 咨询和战略 **透明度：** 数据、《信息自由法》发布和企业报告 **河流维护、洪水与海岸侵蚀** 由地方政府和政府拨款资助的 160 万英镑项目支持受“巴贝特风暴”（Storm Babet）。",
-          "keyProgress": "英国环境署东米德兰兹地区洪水与海岸风险顾问乔恩·阿特基（Jon Atkey）表示：“从项目一开始，我们就希望提高受洪水影响社区的居民韧性。我们通过确保建立洪水应对小组并使其具备防洪……来实现这一目标。我们使用必要的 Cookie 以使本网站正常运行。我们希望设置额外的 Cookie，以了解您如何使用 GOV.UK、记住您的设置并改善政府服务。",
-          "whyItMatters": "“东米德兰兹100户家庭受益于防洪韧性措施”的直接价值是帮助你判断是否需要调整出行、居住或工作安排。影响地区、持续时间、预警等级和官方避险建议比事件热度更重要。",
-          "userRelevance": "对于“东米德兰兹100户家庭受益于防洪韧性措施”，如果你所在地区出现同类预警，应优先确认当地通知、交通变化和避险要求；其他地区通常无需因此改变日常安排。",
-          "whatToWatch": "接下来要看“东米德兰兹100户家庭受益于防洪韧性措施”的影响范围是否扩大、预警等级是否变化，以及是否出现与你所在城市相关的提醒。"
-        },
-        "sourceLinks": [
-          {
-            "title": "GOV.UK News and Communications",
-            "url": "https://www.gov.uk/government/news/100-east-midlands-homes-benefit-from-flood-resilience-measures",
-            "sourceId": "gov-uk-news",
-            "publishedAt": "2026-10-13T13:20:03.000Z",
-            "language": "zh",
-            "originalLanguage": "en",
-            "translationStatus": "translated",
-            "fetchedAt": "2026-10-14T07:18:13.820Z",
-            "sourceMethod": "rss",
-            "verificationStatus": "confirmed"
-          }
-        ],
-        "images": [
-          {
-            "url": "https://assets.publishing.service.gov.uk/media/62c56ed9d3bf7f30034430da/s300_EA-officer-high-viz-jacket_960x640.jpg",
-            "sourceUrl": "https://www.gov.uk/government/news/100-east-midlands-homes-benefit-from-flood-resilience-measures"
-          }
-        ],
-        "generatedAt": "2026-10-14T02:00:00.000Z"
-      },
-      {
-        "id": "draft-real-gov-uk-news-w5mjwm",
-        "title": "“铁砧”演习对重大事件响应能力进行考验",
-        "oneLine": "风险提醒：《“铁砧”演习对重大事件响应能力进行考验》我们使用必要的 Cookie 以使本网站正常运行。",
-        "importance": "B",
-        "credibility": "官方来源",
-        "tags": [
-          "B",
-          "mustKnow",
-          "risk",
-          "world",
-          "policy",
-          "local"
-        ],
-        "industries": [
-          "generalPublic",
-          "localLife"
-        ],
-        "section": "risk",
-        "body": {
-          "background": "透明度（数据、信息自由发布与企业报告）。我们使用必要的 Cookie 以使本网站正常运行。我们希望设置额外的 Cookie，以了解您对 GOV.UK 的使用情况、记住您的设置并改进政府服务。",
-          "keyProgress": "在三次演练中，官员们需要宣布和管理重大事件，建立指挥安排，并使用 M/ETHANE 消息系统共享关键……我们还使用其他网站设置的 Cookie，以便从他们的服务中向我们提供内容。您可以随时更改 Cookie 设置。新闻（新闻故事、演讲、信函与通知）；",
-          "whyItMatters": "“铁砧演习对重大事件响应能力进行考验”的直接价值是帮助你判断是否需要调整出行、居住或工作安排。影响地区、持续时间、预警等级和官方避险建议比事件热度更重要。",
-          "userRelevance": "对于“铁砧演习对重大事件响应能力进行考验”，如果你所在地区出现同类预警，应优先确认当地通知、交通变化和避险要求；其他地区通常无需因此改变日常安排。",
-          "whatToWatch": "接下来要看“铁砧演习对重大事件响应能力进行考验”的影响范围是否扩大、预警等级是否变化，以及是否出现与你所在城市相关的提醒。"
-        },
-        "sourceLinks": [
-          {
-            "title": "GOV.UK News and Communications",
-            "url": "https://www.gov.uk/government/news/exercise-anvil-puts-major-incident-response-to-the-test",
-            "sourceId": "gov-uk-news",
-            "publishedAt": "2026-10-13T12:41:07.000Z",
-            "language": "zh",
-            "originalLanguage": "en",
-            "translationStatus": "translated",
-            "fetchedAt": "2026-10-14T07:18:13.820Z",
-            "sourceMethod": "rss",
-            "verificationStatus": "confirmed"
-          }
-        ],
-        "images": [
-          {
-            "url": "https://assets.publishing.service.gov.uk/media/6ace18a2a57ddfe32196abab/s300_IMG_0059.jpeg",
-            "sourceUrl": "https://www.gov.uk/government/news/exercise-anvil-puts-major-incident-response-to-the-test"
-          }
-        ],
-        "generatedAt": "2026-10-14T02:00:00.000Z"
-      },
-      {
-        "id": "draft-real-xinhua-tech-dracls",
-        "title": "AI重构硬件价值 企业竞逐新一代智能终端赛道",
-        "oneLine": "最新进展：AI重构硬件价值 企业竞逐新一代智能终端赛道。",
-        "importance": "B",
-        "credibility": "主流媒体",
-        "tags": [
-          "B",
-          "industry",
-          "technology",
-          "ai",
-          "product"
-        ],
-        "industries": [
-          "technologyEngineering",
-          "educationResearch",
-          "aiProduct",
-          "aiTechnology",
-          "productManagement",
-          "operationsGrowth"
-        ],
-        "section": "ai",
-        "body": {
-          "background": "同日，阶跃星辰发布旗下首款大模型原生智能体手机STEPX Neo。记者获悉，阿里千问发布的新一代AI硬件产品中，AI眼镜N1系列搭载5000万像素影像系统，支持全天候环境感知、翻译、会议纪要和语音办事，N1 Pro新增体征实时监测、眼动交互和虹膜核身，AI洞察报告则将数据转化为易懂的状态解读，帮助用户看懂体征变化。此前，搭载豆包手机助手消费者版的努比亚NaviX Ultra正式上市，依托原生AI智能体能力，支持自然语言指令交互，可持续沉淀个人专属记忆并在需要时快速调用，相关智能体能力会随使用持续进化。",
-          "keyProgress": "分析认为，2026年人工智能手机、人工智能计算机销量有望超过非人工智能产品，终端市场由存量换代进入智能化换代的新周期。阿里巴巴集团千问事业部副总裁宋刚认为，AI穿戴是人工智能在物理世界的延伸，也是个人智能体的重要组成部分。伴随人工智能快速发展，智能体拥有日常服务和复杂任务的办事能力，AI硬件则让它更好地进入真实世界，并具备主动服务能力。智能手机也从“AI功能叠加”向“原生智能体”加速创新。",
-          "whyItMatters": "“AI重构硬件价值 企业竞逐新一代智能终端赛道”能帮助你判断这项能力是否已经进入工程、产品或商业场景，并据此调整技术选型、产品规划、学习重点或职业判断。",
-          "userRelevance": "如果你从事技术研发、教育研究、AI 产品、AI 技术，可以重点判断“AI重构硬件价值 企业竞逐新一代智能终端赛道”是否已经具备产品落地、技术选型或业务合作价值。",
-          "whatToWatch": "接下来要看“AI重构硬件价值 企业竞逐新一代智能终端赛道”是否有更多可靠来源、量产或应用进展，以及它会不会从单点消息发展成持续趋势。"
-        },
-        "sourceLinks": [
-          {
-            "title": "新华网科技",
-            "url": "https://www.news.cn/tech/20261014/854eaa3de5314d188588f39128bc68fc/c.html",
-            "sourceId": "xinhua-tech",
-            "publishedAt": "2026-10-14T00:00:00+08:00",
-            "language": "zh",
-            "originalLanguage": "zh",
-            "translationStatus": "not-needed",
-            "fetchedAt": "2026-10-14T07:18:13.455Z",
-            "sourceMethod": "web",
-            "verificationStatus": "confirmed"
-          }
-        ],
-        "images": [],
-        "generatedAt": "2026-10-14T02:00:00.000Z"
-      },
-      {
-        "id": "draft-real-xinhua-tech-1vlote8",
-        "title": "巧用AI“追风测雨”",
-        "oneLine": "最新进展：巧用AI“追风测雨”。",
-        "importance": "B",
-        "credibility": "主流媒体",
-        "tags": [
-          "B",
-          "industry",
-          "technology",
-          "ai",
-          "product"
-        ],
-        "industries": [
-          "technologyEngineering",
-          "educationResearch",
-          "aiProduct",
-          "aiTechnology",
-          "productManagement",
-          "operationsGrowth"
-        ],
-        "section": "ai",
-        "body": {
-          "background": "高原冰雪刚要融化，却有冷空气不请自来，为让滑雪赛事顺利开展，气象人员徒步在雪线上架起集纳精细数据的自动气象站，算准寒潮抵达时间…… 10月13日，在国新办举行的“新征程上的奋斗者”中外记者见面会上，5位气象领域代表围绕“监测预报护冷暖 气象服务惠民生”讲述与天气打交道的非凡经历。“极端天气集中在短短一小时甚至十几分钟内发生，比如1小时50毫米的短时强降水，破坏力极强，一直是全球共同面临的科学难题。”中国气象局上海台风研究所助理研究员牛泽毅介绍，台风移动主要是受副热带高压控制，而副热带高压的位置和形态非常难预报。",
-          "keyProgress": "台风接连登陆，不容喘息，科研团队反复磨炼，研发了副热带高压混合模型，实现精准预报；为了预报再准确一点、精细度再提高一些、老百姓应对更从容一些，气象领域科技“尖兵”巧用人工智能（AI），一次次准确摸透老天爷“脾气”。”国家气象中心（中央气象台）首席预报员张芳华介绍，为了啃下这块“硬骨头”，团队把过去几十年的极端降水过程翻了出来，一个个案例去拆解，让AI从历史数据中学习规律，再把预报员的经验“教”给它。经过无数次的训练、验证，最终AI掌握了提前3天预报极端强降水的能力。",
-          "whyItMatters": "“巧用AI追风测雨”能帮助你判断这项能力是否已经进入工程、产品或商业场景，并据此调整技术选型、产品规划、学习重点或职业判断。",
-          "userRelevance": "如果你从事技术研发、教育研究、AI 产品、AI 技术，可以重点判断“巧用AI追风测雨”是否已经具备产品落地、技术选型或业务合作价值。",
-          "whatToWatch": "接下来要看“巧用AI追风测雨”是否有更多可靠来源、量产或应用进展，以及它会不会从单点消息发展成持续趋势。"
-        },
-        "sourceLinks": [
-          {
-            "title": "新华网科技",
-            "url": "https://www.news.cn/tech/20261014/d6806b89f21140eb94cc3064ae800870/c.html",
-            "sourceId": "xinhua-tech",
-            "publishedAt": "2026-10-14T00:00:00+08:00",
-            "language": "zh",
-            "originalLanguage": "zh",
-            "translationStatus": "not-needed",
-            "fetchedAt": "2026-10-14T07:18:13.455Z",
-            "sourceMethod": "web",
-            "verificationStatus": "confirmed"
-          }
-        ],
-        "images": [],
-        "generatedAt": "2026-10-14T02:00:00.000Z"
-      },
-      {
-        "id": "draft-cluster-real-xinhua-tech-sp38dk",
-        "title": "人工智能重塑软件业竞争格局",
-        "oneLine": "最新进展：人工智能重塑软件业竞争格局。",
-        "importance": "B",
+        "id": "draft-cluster-real-france24-middle-east-rss-8nqrxh",
+        "title": "胡塞武装在袭击沙特阿美石油巨头后威胁升级冲突",
+        "oneLine": "政策变化：国际最新进展：也门胡塞武装周三声称打击了沙特阿美（Aramco）设施，并宣称对首都利雅得实施导弹袭击，誓言继续攻击沙特机场和石油设施。",
+        "importance": "A",
         "credibility": "多源确认",
         "tags": [
-          "B",
+          "A",
+          "mustKnow",
           "industry",
-          "light",
-          "technology",
-          "ai",
-          "product"
+          "world",
+          "policy",
+          "finance"
         ],
         "industries": [
-          "technologyEngineering",
-          "educationResearch",
-          "aiProduct",
-          "aiTechnology",
-          "productManagement",
+          "generalPublic",
+          "financeInvestment",
           "operationsGrowth",
-          "designUx",
+          "ecommerceRetail",
           "contentCreator"
         ],
-        "section": "ai",
+        "section": "front",
         "body": {
-          "background": "（新华社发） 工业和信息化部日前公布的数据显示，今年前8个月，我国软件业务收入超过10万亿元，同比增长8.8%。工业和信息化部近期印发《“人工智能+软件”专项行动实施方案》（以下简称《实施方案》），提出到2028年，软件和信息技术服务业智能化水平显著提升，推广应用覆盖2万家规模以上软件企业，累计组织实施100项软件企业智能化技改项目，在重点行业打造100个智能体软件标杆应用，孵化5个以上优质开源项目。据介绍，工信部将开展制造业数智化转型服务商分类分级培育，引导软件企业向人工智能应用服务商转型，增强持续服务和价值交付能力。",
-          "keyProgress": "利润总额增势平稳，软件业务出口保持较快增长。专家表示，《实施方案》将加快以人工智能重塑软件和信息技术服务，以智能编程驱动产业效能变革，协同推进软件产品智能化升级和智能体软件培育，着力提升信息技术服务质量，夯实智能化发展基础，推动形成生产高效、产品智能、服务普惠和生态完善的软件业发展新局面，为加快推进新型工业化、建设现代化产业体系提供坚实技术支撑和创新动能。软件业利润总额11837亿元，同比增长1.3%；软件业务出口459.9亿美元，同比增长12.5%。",
-          "whyItMatters": "“人工智能重塑软件业竞争格局”能帮助你判断这项能力是否已经进入工程、产品或商业场景，并据此调整技术选型、产品规划、学习重点或职业判断。",
-          "userRelevance": "如果你从事技术研发、教育研究、AI 产品、AI 技术，可以重点判断“人工智能重塑软件业竞争格局”是否已经具备产品落地、技术选型或业务合作价值。",
-          "whatToWatch": "接下来要看“人工智能重塑软件业竞争格局”是否有更多可靠来源、量产或应用进展，以及它会不会从单点消息发展成持续趋势。"
+          "background": "此前，沙特方面报告称，一处设有该能源巨头总部所在区域的建筑遭到袭击。**核心要点：** * **发生了什么变化**：胡塞武装升级了对沙特关键能源基础设施及首都的军事行动指控。国际主流媒体 RSS 仅用于补充全球突发、政策、贸易、能源和科技事件，不能单独替代事实确认。",
+          "keyProgress": "* **与中国的关系**：该事件涉及全球能源供应安全及航运通道风险，可能通过油价波动、供应链中断或市场预期影响中国用户。* **后续风险**：需关注局势进一步恶化对中东地区贸易、关税政策及能源进口的潜在传导效应。**编辑说明：** 此信息已命中“能源”、“贸易”及“航运”关联标签，建议进入中国用户重点复核流程。请继续核对官方表态及第二个可靠来源，密切关注局势演变、相关政策生效时间及其对中国的实际影响路径。",
+          "whyItMatters": "“胡塞武装在袭击沙特阿美石油巨头后威胁升级冲突”如果继续发展，可能通过能源价格、航运、贸易、汇率或市场预期传导到国内。了解它的意义在于判断后续风险，而不只停留在事件本身。",
+          "userRelevance": "即使你不在伊朗、沙特、也门，“胡塞武装在袭击沙特阿美石油巨头后威胁升级冲突”也可能通过能源价格、国际航运、贸易成本和市场预期间接影响国内生活与工作判断。",
+          "whatToWatch": "接下来要看“胡塞武装在袭击沙特阿美石油巨头后威胁升级冲突”是否出现更细的城市、行业、平台或企业数据，以及这一变化能否连续保持。"
         },
         "sourceLinks": [
           {
-            "title": "新华网科技",
-            "url": "https://www.news.cn/tech/20261014/58ed290c6d1145179295a46a64100ba9/c.html",
-            "sourceId": "xinhua-tech",
-            "publishedAt": "2026-10-14T00:00:00+08:00",
+            "title": "France 24 Middle East RSS",
+            "url": "https://www.france24.com/en/middle-east/20261014-yemen-houthis-vow-continue-saudi-attacks-oil-giant-aramco-headquarters-hit",
+            "sourceId": "france24-middle-east-rss",
+            "publishedAt": "2026-10-14T16:21:53.000Z",
+            "language": "zh",
+            "originalLanguage": "en",
+            "translationStatus": "translated",
+            "fetchedAt": "2026-10-15T07:09:49.737Z",
+            "sourceMethod": "rss",
+            "verificationStatus": "pending"
+          },
+          {
+            "title": "新华网国际",
+            "url": "https://www.news.cn/world/20261015/66db50dca312495fabe85b74736f654f/c.html",
+            "sourceId": "xinhua-world",
+            "publishedAt": "2026-10-15T00:00:00+08:00",
             "language": "zh",
             "originalLanguage": "zh",
             "translationStatus": "not-needed",
-            "fetchedAt": "2026-10-14T07:18:13.455Z",
+            "fetchedAt": "2026-10-15T07:09:49.926Z",
             "sourceMethod": "web",
             "verificationStatus": "confirmed"
           },
           {
-            "title": "UX Collective RSS",
-            "url": "https://uxdesign.cc/what-are-we-willing-to-sacrifice-for-ai-a57736f368a1?source=rss----138adf9c44c---4",
-            "sourceId": "uxdesign-cc-rss",
-            "publishedAt": "2026-10-13T07:30:43.000Z",
+            "title": "France 24 Middle East RSS",
+            "url": "https://www.france24.com/en/middle-east/20261014-live-saudi-arabia-reports-aramco-building-hit-and-four-wounded-in-houthi-missile-attacks",
+            "sourceId": "france24-middle-east-rss",
+            "publishedAt": "2026-10-14T03:39:11.000Z",
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-10-14T07:18:26.555Z",
+            "fetchedAt": "2026-10-15T07:09:49.737Z",
             "sourceMethod": "rss",
             "verificationStatus": "pending"
           }
         ],
         "images": [
           {
-            "url": "https://www.news.cn/tech/20261014/58ed290c6d1145179295a46a64100ba9/2026101458ed290c6d1145179295a46a64100ba9_2026101483576a1994e84a16a2fe1199c4449171.jpg",
-            "sourceUrl": "https://www.news.cn/tech/20261014/58ed290c6d1145179295a46a64100ba9/c.html"
+            "url": "https://s.france24.com/media/display/84e4ed72-bf65-11f1-8c8d-13420ab900a2/w:1024/p:16x9/000-D26B6KC.jpg",
+            "sourceUrl": "https://www.france24.com/en/middle-east/20261014-yemen-houthis-vow-continue-saudi-attacks-oil-giant-aramco-headquarters-hit"
+          },
+          {
+            "url": "https://s.france24.com/media/display/569c98ee-c31a-11f1-9635-c55799ef8309/w:1024/p:16x9/AP26276415281654-1.jpg",
+            "sourceUrl": "https://www.france24.com/en/middle-east/20261014-live-saudi-arabia-reports-aramco-building-hit-and-four-wounded-in-houthi-missile-attacks"
           }
         ],
-        "generatedAt": "2026-10-14T02:00:00.000Z"
+        "generatedAt": "2026-10-15T02:00:00.000Z"
       },
       {
-        "id": "draft-cluster-real-stats-cn-data-afkfvp",
-        "title": "2026年9月份居民消费价格同比上涨0.9%",
-        "oneLine": "经营环境信号：2026 年 9 月份，全国居民消费价格同比上涨 0.9% 。9 月份，全国居民消费价格环比上涨 0.2% 。",
+        "id": "draft-real-gov-uk-news-1fx7808",
+        "title": "结束建筑安全危机取得重大进展",
+        "oneLine": "风险提醒：《结束建筑安全危机取得重大进展》我们使用必要的 Cookie 以使本网站正常运行。",
         "importance": "B",
         "credibility": "官方来源",
         "tags": [
           "B",
-          "industry",
-          "china",
-          "consumer",
-          "operations"
+          "mustKnow",
+          "risk",
+          "world",
+          "policy",
+          "local"
         ],
         "industries": [
-          "operationsGrowth",
-          "consumerBrand",
-          "financeInvestment",
-          "ecommerceRetail",
-          "generalPublic"
+          "generalPublic",
+          "localLife"
         ],
-        "section": "industry",
+        "section": "risk",
         "body": {
-          "background": "数据来源于全国 31 个省（区、市）约 500 个市县、近 12 万家价格调查点，包括商场（店）、超市、农贸（生鲜）市场、服务网点和互联网电商等。按照统计制度安排， 2026 年 1 月起，我国 CPI 开始编制和发布以 2025 年为基期的价格指数。食品价格下降 1.7% ，非食品价格上涨 1.5% ；",
-          "keyProgress": "消费品价格上涨 1.0% ，服务价格上涨 0.8% 。食品中，鲜菜价格下降 8.1% ，影响 CPI 下降约 0.14 个百分点；畜肉类价格下降 3.7% ，影响 CPI 下降约 0.15 个百分点，其中猪肉价格下降 10.0% ；鲜果价格下降 1.5% ，影响 CPI 下降约 0.03 个百分点；",
-          "whyItMatters": "“居民消费价格变化”反映了需求、成本或市场节奏的一次变化。它不一定马上改变日常生活，但会影响选品、定价、投放、库存和内容方向。",
-          "userRelevance": "如果你从事运营增长、消费品牌、金融投资、电商零售，“居民消费价格变化”可用于观察需求和成本变化，并辅助定价、选品、投放或经营节奏判断。",
-          "whatToWatch": "接下来要看“居民消费价格变化”是否出现更细的城市、行业、平台或企业数据，以及这一变化能否连续保持。"
+          "background": "透明度（数据、信息自由发布与企业报告）。然而，在格伦费尔塔悲剧发生九年后的今天，仍有太多建筑存在不安全饰面，太多人感到被困其中。自该计划发布以来，据报道又有超过 470 栋建筑完成了饰面修复——帮助约 35,000 名居民在家中感到更加安全。",
+          "keyProgress": "我们使用必要的 Cookie 以使本网站正常运行。我们希望设置额外的 Cookie，以了解您如何使用 GOV.UK、记住您的设置并改进政府服务。我们还使用其他网站设置的 Cookie，以便帮助我们提供来自其服务的内容。您可以随时更改 Cookie 设置。",
+          "whyItMatters": "“结束建筑安全危机取得重大进展”的直接价值是帮助你判断是否需要调整出行、居住或工作安排。影响地区、持续时间、预警等级和官方避险建议比事件热度更重要。",
+          "userRelevance": "对于“结束建筑安全危机取得重大进展”，如果你所在地区出现同类预警，应优先确认当地通知、交通变化和避险要求；其他地区通常无需因此改变日常安排。",
+          "whatToWatch": "接下来要看“结束建筑安全危机取得重大进展”的影响范围是否扩大、预警等级是否变化，以及是否出现与你所在城市相关的提醒。"
         },
         "sourceLinks": [
           {
-            "title": "国家统计局数据发布",
-            "url": "https://www.stats.gov.cn/sj/zxfb/202610/t20261014_1965477.html",
-            "sourceId": "stats-cn-data",
-            "publishedAt": "2026-10-14T00:00:00+08:00",
+            "title": "GOV.UK News and Communications",
+            "url": "https://www.gov.uk/government/news/major-milestone-reached-in-ending-building-safety-crisis",
+            "sourceId": "gov-uk-news",
+            "publishedAt": "2026-10-14T14:29:08.000Z",
             "language": "zh",
-            "originalLanguage": "zh",
-            "translationStatus": "not-needed",
-            "fetchedAt": "2026-10-14T07:18:24.475Z",
-            "sourceMethod": "web",
-            "verificationStatus": "confirmed"
-          },
-          {
-            "title": "国家统计局数据发布",
-            "url": "https://www.stats.gov.cn/sj/zxfb/202610/t20261014_1965476.html",
-            "sourceId": "stats-cn-data",
-            "publishedAt": "2026-10-14T00:00:00+08:00",
-            "language": "zh",
-            "originalLanguage": "zh",
-            "translationStatus": "not-needed",
-            "fetchedAt": "2026-10-14T07:18:24.475Z",
-            "sourceMethod": "web",
+            "originalLanguage": "en",
+            "translationStatus": "translated",
+            "fetchedAt": "2026-10-15T07:09:49.614Z",
+            "sourceMethod": "rss",
             "verificationStatus": "confirmed"
           }
         ],
         "images": [
           {
-            "url": "https://www.stats.gov.cn/sj/zxfb/202610/W020261014318705176416_ORIGIN.jpg",
-            "sourceUrl": "https://www.stats.gov.cn/sj/zxfb/202610/t20261014_1965477.html"
-          },
-          {
-            "url": "https://www.stats.gov.cn/sj/zxfb/202610/W020261014318705385259_ORIGIN.jpg",
-            "sourceUrl": "https://www.stats.gov.cn/sj/zxfb/202610/t20261014_1965477.html"
-          },
-          {
-            "url": "https://www.stats.gov.cn/sj/zxfb/202610/W020261014318705722616_ORIGIN.jpg",
-            "sourceUrl": "https://www.stats.gov.cn/sj/zxfb/202610/t20261014_1965477.html"
+            "url": "https://assets.publishing.service.gov.uk/media/6acf8d05a57ddfe32196acf7/s300_Hi_rise_cladding.jpg",
+            "sourceUrl": "https://www.gov.uk/government/news/major-milestone-reached-in-ending-building-safety-crisis"
           }
         ],
-        "generatedAt": "2026-10-14T02:00:00.000Z"
+        "generatedAt": "2026-10-15T02:00:00.000Z"
       },
       {
-        "id": "draft-real-xinhua-tech-p9o66e",
-        "title": "中国科研团队找到原子尺度自旋探测的新方法",
-        "oneLine": "趋势信号：记者从中国科学技术大学获悉，科研团队将拓扑材料制成扫描隧道显微镜针尖，发展出原子尺度自旋探测新方法，并获得钾钒硒氧表面存在二维d波交错磁序的直接实验证据，这一针尖在未来有望成为观察电子自旋的“原子级放大镜”。",
+        "id": "draft-real-gov-uk-news-1qx5ocz",
+        "title": "构建将工作场所安全数据商业化的能力",
+        "oneLine": "风险提醒：《构建将工作场所安全数据商业化的能力》我们使用必要的 Cookie 以使本网站正常运行。",
+        "importance": "B",
+        "credibility": "官方来源",
+        "tags": [
+          "B",
+          "mustKnow",
+          "risk",
+          "world",
+          "policy",
+          "local"
+        ],
+        "industries": [
+          "generalPublic",
+          "localLife"
+        ],
+        "section": "risk",
+        "body": {
+          "background": "出生、死亡、婚姻和护理 | 企业和自雇人士 | 儿童保育和育儿 | 公民身份和在英国生活 | 犯罪、司法和法律 | 残障人士 | 驾驶和交通 | 教育和学习 | 雇佣人员 | 环境和乡村 | 住房和地方服务 | 金钱和税收 | 护照、旅行和在国外生活 | 签证和移民 | 工作、工作和养老金 部门 | 部门、机构和公共机构 | 新闻 | 新闻故事、演讲、信件和通知 | 指导和监管 | 详细指导、法规和规则 | 研究和统计 | 报告、分析和官方统计 | 政策文件和咨询 | 咨询和战略 | 透明度 | 数据、信息自由发布和公司报告 | 工作场所健康和安全 在 GOTT 的支持下，英国健康与安全执行局（HSE）将《事故、疾病和危险事件报告规定》（RIDDOR）数据转化为一个测试版仪表板，帮助用户识别工作场所的安全风险和。",
+          "keyProgress": "英国健康与安全执行局（HSE）是英国大不列颠地区工作场所健康与安全的国家监管机构。HSE 探索如何通过开发交互式 RIDDOR 仪表板更主动地使用这些数据，将这个丰富的数据集转化为见解，帮助用户更容易地理解工作场所的健康与安全风险和趋势。因此，HSE 寻求支持，以更好地了解市场机会、制定商业提案，并建立将产品推向市场所需的组织能力。我们还使用其他网站设置的 Cookie，以便从他们的服务中向我们提供内容。",
+          "whyItMatters": "“构建将工作场所安全数据商业化的能力”的直接价值是帮助你判断是否需要调整出行、居住或工作安排。影响地区、持续时间、预警等级和官方避险建议比事件热度更重要。",
+          "userRelevance": "对于“构建将工作场所安全数据商业化的能力”，如果你所在地区出现同类预警，应优先确认当地通知、交通变化和避险要求；其他地区通常无需因此改变日常安排。",
+          "whatToWatch": "接下来要看“构建将工作场所安全数据商业化的能力”的影响范围是否扩大、预警等级是否变化，以及是否出现与你所在城市相关的提醒。"
+        },
+        "sourceLinks": [
+          {
+            "title": "GOV.UK News and Communications",
+            "url": "https://www.gov.uk/government/case-studies/building-the-capability-to-commercialise-workplace-safety-data",
+            "sourceId": "gov-uk-news",
+            "publishedAt": "2026-10-14T14:02:58.000Z",
+            "language": "zh",
+            "originalLanguage": "en",
+            "translationStatus": "translated",
+            "fetchedAt": "2026-10-15T07:09:49.614Z",
+            "sourceMethod": "rss",
+            "verificationStatus": "confirmed"
+          }
+        ],
+        "images": [
+          {
+            "url": "https://assets.publishing.service.gov.uk/media/6a8efb93df4246cf45e46584/s300_Untitled_design__2_.png",
+            "sourceUrl": "https://www.gov.uk/government/case-studies/building-the-capability-to-commercialise-workplace-safety-data"
+          }
+        ],
+        "generatedAt": "2026-10-15T02:00:00.000Z"
+      },
+      {
+        "id": "draft-cluster-real-xinhua-tech-1wmp8zj",
+        "title": "人工智能打开数字贸易新航道",
+        "oneLine": "趋势信号：在第五届全球数字贸易博览会（以下简称“数贸会”）上，一大批新技术、新产品、新方案集中首发，百余个人工智能应用场景成为展会最大亮点，折射出人工智能与数字贸易加速融合的蓬勃态势。",
+        "importance": "B",
+        "credibility": "多源确认",
+        "tags": [
+          "B",
+          "industry",
+          "technology",
+          "ai",
+          "product"
+        ],
+        "industries": [
+          "technologyEngineering",
+          "educationResearch",
+          "aiProduct",
+          "aiTechnology",
+          "productManagement",
+          "operationsGrowth"
+        ],
+        "section": "ai",
+        "body": {
+          "background": "人工智能已广泛应用于智能客服、精准营销、智慧物流和金融科技等领域，助力提升跨境服务响应能力、供需匹配效率和订单履约水平，推动数字贸易经营方式加快向智能化转变。中小企业受数据基础、专业人才和资金投入等因素制约，人工智能工具接入和持续运维成本高；作为引领新一轮科技革命和产业变革的重要引擎，人工智能正通过拓展贸易边界、重塑贸易模式、提升贸易能级，为数字贸易高质量发展注入新动能。",
+          "keyProgress": "把握人工智能发展机遇，推动技术创新赋能数字贸易，是我国培育外贸竞争新优势、加快由贸易大国向贸易强国转变的重要路径。我国依托国家数字服务出口基地，推动人工智能与云计算、软件开发、工业互联网等领域融合，有效完善算力供给和共性技术服务，夯实了数字技术服务跨境交付基础，增强了数字产品研发与行业解决方案供给能力。《国家人工智能产业综合标准化体系建设指南》对算法、芯片和应用场景等相关人工智能标准体系建设作出系统部署，《关于促进数据标注产业高质量发展的实施意见》着力推动重点行业数据标注和高质量数据集建设，从标准规范、数据供给等方面为人工智能在数字贸易领域的应用赋能创造有利条件。数据授权、知识产权和交易责任等规则有待细化，不同市场标准差异增加了跨境经营的复杂性。",
+          "whyItMatters": "“人工智能打开数字贸易新航道”能帮助你判断这项能力是否已经进入工程、产品或商业场景，并据此调整技术选型、产品规划、学习重点或职业判断。",
+          "userRelevance": "如果你从事技术研发、教育研究、AI 产品、AI 技术，可以重点判断“人工智能打开数字贸易新航道”是否已经具备产品落地、技术选型或业务合作价值。",
+          "whatToWatch": "接下来要看“人工智能打开数字贸易新航道”是否有更多可靠来源、量产或应用进展，以及它会不会从单点消息发展成持续趋势。"
+        },
+        "sourceLinks": [
+          {
+            "title": "新华网科技",
+            "url": "https://www.news.cn/tech/20261015/6486595c51084743badade89d19610e8/c.html",
+            "sourceId": "xinhua-tech",
+            "publishedAt": "2026-10-15T00:00:00+08:00",
+            "language": "zh",
+            "originalLanguage": "zh",
+            "translationStatus": "not-needed",
+            "fetchedAt": "2026-10-15T07:09:49.942Z",
+            "sourceMethod": "web",
+            "verificationStatus": "confirmed"
+          },
+          {
+            "title": "The Verge AI RSS",
+            "url": "https://www.theverge.com/ai-artificial-intelligence/1011311/the-ai-race-is-back-on",
+            "sourceId": "theverge-ai-rss",
+            "publishedAt": "2026-10-14T19:06:03.000Z",
+            "language": "zh",
+            "originalLanguage": "en",
+            "translationStatus": "translated",
+            "fetchedAt": "2026-10-15T07:09:51.081Z",
+            "sourceMethod": "rss",
+            "verificationStatus": "pending"
+          }
+        ],
+        "images": [],
+        "generatedAt": "2026-10-15T02:00:00.000Z"
+      },
+      {
+        "id": "draft-real-xinhua-tech-1iaaiaq",
+        "title": "AI替代不了“手搓”的分量",
+        "oneLine": "最新进展：AI替代不了“手搓”的分量。",
         "importance": "B",
         "credibility": "主流媒体",
         "tags": [
           "B",
           "industry",
-          "technology"
+          "technology",
+          "ai",
+          "product"
         ],
         "industries": [
           "technologyEngineering",
-          "educationResearch"
+          "educationResearch",
+          "aiProduct",
+          "aiTechnology",
+          "productManagement",
+          "operationsGrowth"
         ],
-        "section": "industry",
+        "section": "ai",
         "body": {
-          "background": "此前，陈仙辉、王震宇团队在层状材料碘化铋单晶的单层和双层台阶处均观测到稳定且纯净的一维螺旋边界通道，其层间杂化耦合极弱，为利用同族拓扑材料构筑边界态针尖提供了实验思路。随后，团队将这一方法用于交错磁体候选材料钾钒硒氧的研究。陈仙辉介绍，该工作展示了拓扑量子材料作为物态测量探针的潜力：拓扑边界态不仅可以被观测，还可以用于探测其他材料的自旋相关电子态。",
-          "keyProgress": "这一研究由中国科学技术大学物理学院陈仙辉教授、王震宇教授团队联合该校化学与材料科学学院向斌教授、香港科技大学刘军伟教授等合作者共同完成。相关成果于13日晚发表于国际学术期刊《自然》。自旋是电子的一种基本属性，与材料的磁性密切相关。要深入了解一种材料的磁性，除了观察原子如何排列，还需要研究电子自旋的分布。",
-          "whyItMatters": "“中国科研团队找到原子尺度自旋探测的新方法”能帮助你判断这项能力是否已经进入工程、产品或商业场景，并据此调整技术选型、产品规划、学习重点或职业判断。",
-          "userRelevance": "如果你从事技术研发、教育研究，可以重点判断“中国科研团队找到原子尺度自旋探测的新方法”是否已经具备产品落地、技术选型或业务合作价值。",
-          "whatToWatch": "接下来要看“中国科研团队找到原子尺度自旋探测的新方法”是否有更多可靠来源、量产或应用进展，以及它会不会从单点消息发展成持续趋势。"
+          "background": "赛场外，一个问题引人深思：在人工智能飞速发展，重复性、标准化岗位正被智能设备与算法程序替代的今天，我们为何还需要这些“手搓”出来的技能？答案，恰恰藏在“手搓”二字的分量里。不少设计公司引入AI辅助设计，能让设计效率提升几十倍乃至上百倍。",
+          "keyProgress": "但AI始终存在清晰边界，人的价值永远无法被简单替代。他们用行动证明，掌握扎实专业技能的人，不会被人工智能取代，反而能够成为驾驭AI的“指挥官”。当然，让“手搓”技能在AI时代持续焕发光彩，单凭个体努力远远不够，制度与平台的支撑必不可少。今年，上海启动人工智能推介官培训认证工作，正是以主动作为应对时代变革的有益探索。",
+          "whyItMatters": "“AI替代不了手搓的分量”能帮助你判断这项能力是否已经进入工程、产品或商业场景，并据此调整技术选型、产品规划、学习重点或职业判断。",
+          "userRelevance": "如果你从事技术研发、教育研究、AI 产品、AI 技术，可以重点判断“AI替代不了手搓的分量”是否已经具备产品落地、技术选型或业务合作价值。",
+          "whatToWatch": "接下来要看“AI替代不了手搓的分量”是否有更多可靠来源、量产或应用进展，以及它会不会从单点消息发展成持续趋势。"
         },
         "sourceLinks": [
           {
             "title": "新华网科技",
-            "url": "https://www.news.cn/tech/20261014/a175bbb6a2114f4eb30857789c848b3d/c.html",
+            "url": "https://www.news.cn/tech/20261015/2a09ab11417041368acbb0ec4675efbf/c.html",
             "sourceId": "xinhua-tech",
-            "publishedAt": "2026-10-14T00:00:00+08:00",
+            "publishedAt": "2026-10-15T00:00:00+08:00",
             "language": "zh",
             "originalLanguage": "zh",
             "translationStatus": "not-needed",
-            "fetchedAt": "2026-10-14T07:18:13.455Z",
+            "fetchedAt": "2026-10-15T07:09:49.942Z",
+            "sourceMethod": "web",
+            "verificationStatus": "confirmed"
+          }
+        ],
+        "images": [],
+        "generatedAt": "2026-10-15T02:00:00.000Z"
+      },
+      {
+        "id": "draft-cluster-real-techcrunch-ai-rss-1n84jg7",
+        "title": "Ricursive Intelligence押注AI设计的芯片，以应对算力危机",
+        "oneLine": "趋势信号：Recursive Intelligence 创始人安娜·戈尔德（Anna Goldie）和阿扎利亚·米尔霍塞尼（Azalia Mirhoseini）认为，更高效的 AI 芯片设计有助于解决算力危机。",
+        "importance": "B",
+        "credibility": "待确认",
+        "tags": [
+          "B",
+          "industry",
+          "ai",
+          "technology",
+          "product"
+        ],
+        "industries": [
+          "aiProduct",
+          "aiTechnology",
+          "productManagement",
+          "technologyEngineering",
+          "educationResearch"
+        ],
+        "section": "ai",
+        "body": {
+          "background": "“我认为一切转变的方式是，人类带来伟大的想法和创造性思维，而执行则由 AI 完成，”戈尔德说，“这种情况正发生在芯片设计、软件开发和其他领域。例如，创始人此前开发的 AI 系统 AlphaChip 产生了一种圆形的、“甜甜圈状”的芯片组件排列方式，起初令工程师们惊讶，但最终被证明是成功的。这种方法允许 AI 创建复杂的图案，包括波浪形设计，两人表示计划在未来分享更多关于此的内容。",
+          "keyProgress": "周三，两位创始人在 TechCrunch Disrupt 大会上登台，详细介绍了其初创公司如何开发能够设计芯片、从每次迭代中学习并改进后续设计的 AI，旨在自动化并加速芯片设计流程。“人们普遍认为，未来五年内对算力的需求将至少增长 10,000 倍，这甚至可能有些保守，”戈尔德在台上表示，“因此，我们不想建造 10,000 倍多的数据中心。” 尽管有些人可能对由 AI 设计芯片的想法感到恐惧，但戈尔德辩称，让 AI 处理芯片设计将使人类能够专注于开发应用和探索新可能性，从而扩展计算所能实现的成就。” 创始人表示，AI 正在通过发现优于传统方法的非传统布局来挑战传统的芯片设计方法。",
+          "whyItMatters": "“Ricursive Intelligence押注AI设计的芯片，以应对算力危机”能帮助你判断这项能力是否已经进入工程、产品或商业场景，并据此调整技术选型、产品规划、学习重点或职业判断。",
+          "userRelevance": "如果你从事AI 产品、AI 技术、产品管理、技术研发，可以重点判断“Ricursive Intelligence押注AI设计的芯片，以应对算力危机”是否已经具备产品落地、技术选型或业务合作价值。",
+          "whatToWatch": "接下来要看“Ricursive Intelligence押注AI设计的芯片，以应对算力危机”是否有更多可靠来源、量产或应用进展，以及它会不会从单点消息发展成持续趋势。"
+        },
+        "sourceLinks": [
+          {
+            "title": "TechCrunch AI RSS",
+            "url": "https://techcrunch.com/2026/10/14/ricursive-intelligence-is-betting-on-ai-designed-chips-to-help-solve-the-compute-crisis/",
+            "sourceId": "techcrunch-ai-rss",
+            "publishedAt": "2026-10-15T01:01:32.000Z",
+            "language": "zh",
+            "originalLanguage": "en",
+            "translationStatus": "translated",
+            "fetchedAt": "2026-10-15T07:09:50.993Z",
+            "sourceMethod": "rss",
+            "verificationStatus": "pending"
+          }
+        ],
+        "images": [
+          {
+            "url": "https://techcrunch.com/wp-content/uploads/2026/10/55590280204_c3c082685c_o.jpg?w=680",
+            "sourceUrl": "https://techcrunch.com/2026/10/14/ricursive-intelligence-is-betting-on-ai-designed-chips-to-help-solve-the-compute-crisis/"
+          }
+        ],
+        "generatedAt": "2026-10-15T02:00:00.000Z"
+      },
+      {
+        "id": "draft-cluster-real-techcrunch-ai-rss-r2k2rz",
+        "title": "Gudea利用人工智能帮助组织在社交媒体危机爆发前加以预防",
+        "oneLine": "趋势信号：每天，社交媒体和全球网站上的对话都在不断展开。",
+        "importance": "B",
+        "credibility": "待确认",
+        "tags": [
+          "B",
+          "industry",
+          "ai",
+          "technology",
+          "product"
+        ],
+        "industries": [
+          "aiProduct",
+          "aiTechnology",
+          "productManagement",
+          "technologyEngineering",
+          "educationResearch"
+        ],
+        "section": "ai",
+        "body": {
+          "background": "Gudea 不仅仅统计帖子数量，其人工智能会分析行为、关系以及信息在包括 X、Reddit 和 TikTok 在内的 500 多个主流和边缘网站及平台上的传播路径。Gudea 不只是告诉公司提及量正在上升，而是提供增长背后的背景信息，以便决策者确定是否以及如何回应。”他补充道：“许多首席通信官或首席媒体/营销官正在使用遗留工具试图了解发生了什么。",
+          "keyProgress": "与传统仅追踪提及量、标签和展示次数等指标的社会聆听平台不同，Gudea 旨在向组织展示是谁在推动对话、信息如何流动、故事获得关注的速度有多快以及其可能的发展方向。首席执行官兼创始人 Keith Presley 表示：“这些大型行业并不明白，他们可以采取主动措施来捍卫自己的声誉和品牌。一条看似微不足道的帖子——无论是涉及人工智能生成的虚假信息、仇恨言论还是破坏性谣言——都可能迅速演变成更大的公共争议。Gudea 是一家追踪故事和谣言在网络上传播的公司，自称为“互联网的暴风雪追踪器”，它正利用人工智能帮助组织在事态升级为危机之前发现潜在的麻烦。",
+          "whyItMatters": "“Gudea利用人工智能帮助组织在社交媒体危机爆发前加以预防”能帮助你判断这项能力是否已经进入工程、产品或商业场景，并据此调整技术选型、产品规划、学习重点或职业判断。",
+          "userRelevance": "如果你从事AI 产品、AI 技术、产品管理、技术研发，可以重点判断“Gudea利用人工智能帮助组织在社交媒体危机爆发前加以预防”是否已经具备产品落地、技术选型或业务合作价值。",
+          "whatToWatch": "接下来要看“Gudea利用人工智能帮助组织在社交媒体危机爆发前加以预防”是否有更多可靠来源、量产或应用进展，以及它会不会从单点消息发展成持续趋势。"
+        },
+        "sourceLinks": [
+          {
+            "title": "TechCrunch AI RSS",
+            "url": "https://techcrunch.com/2026/10/14/gudea-leverages-ai-to-help-organizations-prevent-social-media-crises-before-they-erupt/",
+            "sourceId": "techcrunch-ai-rss",
+            "publishedAt": "2026-10-15T00:00:00.000Z",
+            "language": "zh",
+            "originalLanguage": "en",
+            "translationStatus": "translated",
+            "fetchedAt": "2026-10-15T07:09:50.993Z",
+            "sourceMethod": "rss",
+            "verificationStatus": "pending"
+          }
+        ],
+        "images": [],
+        "generatedAt": "2026-10-15T02:00:00.000Z"
+      },
+      {
+        "id": "draft-real-cas-science-news-1x8cq8e",
+        "title": "研究阐明海藻糖-6-磷酸受体与信号转导机制",
+        "oneLine": "最新进展：研究阐明海藻糖-6-磷酸受体与信号转导机制。",
+        "importance": "B",
+        "credibility": "官方来源",
+        "tags": [
+          "B",
+          "industry",
+          "technology",
+          "education"
+        ],
+        "industries": [
+          "technologyEngineering",
+          "educationResearch",
+          "communicationsResearch"
+        ],
+        "section": "industry",
+        "body": {
+          "background": "近日，中国科学院分子植物科学卓越创新中心破解了这一谜题。研究证实没有催化活性的“假酶”——Ⅱ型海藻糖 -6- 磷酸合酶（ TPS-II ）是 T6P 直接受体，揭示了 TPS-II 感知 T6P 信号、调控 SnRK1 、重编程下游代谢的分子机制。研究发现， TPS-II 在结合 T6P 后会发生构象变化，促进其与 SnRK1 催化亚基 KIN10/11 的直接相互作用。",
+          "keyProgress": "其中，海藻糖 -6- 磷酸（ T6P ）被称为植物“胰岛素”，能够反映植物体内蔗糖水平，调控糖分分配、营养物质积累及开花分枝等性状。T6P 的前体物质 DMNB-T6P 能够提高小麦等作物的产量。但植物如何识别和传递 T6P 信号并通过该信号调控代谢“总枢纽” SnRK1 的活性一直未知。这补齐了植物碳信号传导通路的关键一环，为作物产量提升与高碳汇植物创制提供了新的分子靶点与理论支撑。",
+          "whyItMatters": "“研究阐明海藻糖-6-磷酸受体与信号转导机制”提供了一个具体的研究进展信号。它是否重要，要看实验指标、可复现性、开源材料和真实应用，而不能只看论文标题。",
+          "userRelevance": "如果你是博士生、通信研究人员或工程师，可以重点查看“研究阐明海藻糖-6-磷酸受体与信号转导机制”的方法、实验条件和指标是否可复现；其他用户无需把单篇研究直接理解为成熟产品。",
+          "whatToWatch": "接下来要看“研究阐明海藻糖-6-磷酸受体与信号转导机制”是否公开论文全文、代码或完整实验条件，以及是否得到独立复现和实际应用。"
+        },
+        "sourceLinks": [
+          {
+            "title": "中国科学院科研动态",
+            "url": "https://www.cas.cn/syky/202610/t20261015_5122280.shtml",
+            "sourceId": "cas-science-news",
+            "publishedAt": "2026-10-15T00:00:00+08:00",
+            "language": "zh",
+            "originalLanguage": "zh",
+            "translationStatus": "not-needed",
+            "fetchedAt": "2026-10-15T07:09:45.362Z",
             "sourceMethod": "web",
             "verificationStatus": "confirmed"
           }
         ],
         "images": [
           {
-            "url": "https://www.news.cn/tech/20261014/a175bbb6a2114f4eb30857789c848b3d/20261014a175bbb6a2114f4eb30857789c848b3d_c5a3e38fd3fb4155997a0157b9e510f7.png",
-            "sourceUrl": "https://www.news.cn/tech/20261014/a175bbb6a2114f4eb30857789c848b3d/c.html"
+            "url": "https://www.cas.cn/syky/202610/W020261015404816917234.jpg",
+            "sourceUrl": "https://www.cas.cn/syky/202610/t20261015_5122280.shtml"
           }
         ],
-        "generatedAt": "2026-10-14T02:00:00.000Z"
+        "generatedAt": "2026-10-15T02:00:00.000Z"
       },
       {
-        "id": "draft-real-cnbc-world-rss-2kgi0e",
-        "title": "FBI逮捕一名沙特籍OpenAI员工，涉嫌在会议室安装录音设备",
-        "oneLine": "政策变化：据美国司法部（DOJ）和OpenAI公司发布的信息，一名OpenAI员工因在公司高管会议室发现“精密录音设备”而被捕。",
+        "id": "draft-real-cnbc-world-rss-118bjn3",
+        "title": "Meta和谷歌支持的Jio Platforms将在印度进行历史性IPO，最高融资32亿美元",
+        "oneLine": "政策变化：由Meta和Google支持的印度最大电信运营商Jio Platforms正计划通过首次公开募股（IPO）筹集高达3020亿卢比（约32亿美元）的资金。",
         "importance": "B",
         "credibility": "待确认",
         "tags": [
@@ -960,39 +981,34 @@
         ],
         "section": "industry",
         "body": {
-          "background": "司法部周二发布的声明称，35岁的沙特阿拉伯国民阿卜杜勒拉赫曼·阿尔福赞（Abdulrahman Alfozan）于10月9日与此事有关被逮捕。司法部称，一个与阿尔福赞配偶相关的聊天机器人账户——该账户“与阿尔福赞本人的聊天机器人账户共享多个标识符和属性”——被用于……OpenAI在帖子中表示，该设备是一名员工在发现前数天放置的，联邦调查局（FBI）“迅速采取行动实施了逮捕”，涉事员工已被解雇。",
-          "keyProgress": "根据其网站信息，阿尔福赞还是专注于中东和北非地区的风险投资公司Raed Ventures的合伙人。OpenAI在帖子中表示：“目前，我们没有迹象表明该个体不当访问或泄露模型权重、源代码或客户数据。司法部还称，约在10月5日，在OpenAI大楼内发现了属于阿尔福赞的一个包。FBI局长卡什·帕特尔（Kash Patel）在一份声明中表示，阿尔福赞“涉嫌在其雇主的高管会议室内隐藏秘密录音设备，以窃取关于该公司超级智能技术的敏感通信内容”。",
-          "whyItMatters": "“FBI逮捕一名沙特籍OpenAI员工，涉嫌在会议室安装录音设备”如果继续发展，可能通过能源价格、航运、贸易、汇率或市场预期传导到国内。了解它的意义在于判断后续风险，而不只停留在事件本身。",
-          "userRelevance": "即使你不在沙特，“FBI逮捕一名沙特籍OpenAI员工，涉嫌在会议室安装录音设备”也可能通过能源价格、国际航运、贸易成本和市场预期间接影响国内生活与工作判断。",
-          "whatToWatch": "接下来要看“FBI逮捕一名沙特籍OpenAI员工，涉嫌在会议室安装录音设备”是否出现更细的城市、行业、平台或企业数据，以及这一变化能否连续保持。"
+          "background": "若以价格区间上限计算，Jio Platforms的估值约为1080亿美元，远低于此前预期。据其母公司Reliance Industries在交易所公告中称，Jio Platforms将于10月21日至10月23日期间发售2.7亿股股票，发行价区间为每股1,065至1,119卢比。此次股份发售将成为按卢比计算印度史上最大规模的IPO，但按美元计则为第二大，略低于2024年现代汽车（Hyundai Motors）IPO所筹得的33亿美元。",
+          "keyProgress": "根据印度市场情报公司Prime Database提供的估算，Jio原预计通过IPO筹集约3770亿卢比。Jio是印度最大的电信公司，拥有超过5亿用户，但在当前定价下，其估值将低于印度第二大运营商Bharti Airtel。据LSEG数据，Bharti Airtel市值为1175亿美元。上周六，马斯克指责安巴尼阻碍Starlink在印度的启动，以维持其对印度市场的“垄断性剥削”。",
+          "whyItMatters": "“Meta和谷歌支持的Jio Platforms将在印度进行历史性IPO，最高融资32亿美元”如果继续发展，可能通过能源价格、航运、贸易、汇率或市场预期传导到国内。了解它的意义在于判断后续风险，而不只停留在事件本身。",
+          "userRelevance": "即使你不在印度，“Meta和谷歌支持的Jio Platforms将在印度进行历史性IPO，最高融资32亿美元”也可能通过能源价格、国际航运、贸易成本和市场预期间接影响国内生活与工作判断。",
+          "whatToWatch": "接下来要看“Meta和谷歌支持的Jio Platforms将在印度进行历史性IPO，最高融资32亿美元”是否出现更细的城市、行业、平台或企业数据，以及这一变化能否连续保持。"
         },
         "sourceLinks": [
           {
             "title": "CNBC World News RSS",
-            "url": "https://www.cnbc.com/2026/10/13/openai-employee-arrested-recording-device.html",
+            "url": "https://www.cnbc.com/2026/10/15/jio-ipo-meta-google-ambani-musk.html",
             "sourceId": "cnbc-world-rss",
-            "publishedAt": "2026-10-14T00:13:45.000Z",
+            "publishedAt": "2026-10-15T01:56:53.000Z",
             "language": "zh",
             "originalLanguage": "en",
             "translationStatus": "translated",
-            "fetchedAt": "2026-10-14T07:18:14.302Z",
+            "fetchedAt": "2026-10-15T07:09:49.823Z",
             "sourceMethod": "rss",
             "verificationStatus": "pending"
           }
         ],
-        "images": [
-          {
-            "url": "https://image.cnbcfm.com/api/v1/image/108405591-1791930955100-1791925662-48980552223-hd.jpg?v=1791930956&amp;w=750&amp;h=422&amp;vtcrop=y",
-            "sourceUrl": "https://www.cnbc.com/2026/10/13/openai-employee-arrested-recording-device.html"
-          }
-        ],
-        "generatedAt": "2026-10-14T02:00:00.000Z"
+        "images": [],
+        "generatedAt": "2026-10-15T02:00:00.000Z"
       }
     ],
     "estimatedReadMinutes": 29,
     "pageCount": 3,
-    "topCardId": "draft-real-xinhua-world-1blih3b",
-    "generatedAt": "2026-10-14T02:00:00.000Z",
+    "topCardId": "draft-real-xinhua-world-1bbivec",
+    "generatedAt": "2026-10-15T02:00:00.000Z",
     "pushSlots": [
       "08:30",
       "12:30",
@@ -1001,30 +1017,30 @@
     "edition": "morning",
     "editionLabel": "晨报",
     "coverageWindow": {
-      "start": "2026-10-13T00:00:00+08:00",
-      "end": "2026-10-14T10:00:00+08:00"
+      "start": "2026-10-14T00:00:00+08:00",
+      "end": "2026-10-15T10:00:00+08:00"
     },
     "editionCardIds": [
-      "draft-real-xinhua-world-1blih3b",
-      "draft-real-xinhua-world-1jlfjhp",
-      "draft-real-npr-world-rss-8dihca",
-      "draft-real-un-news-rss-awr7xs",
-      "draft-real-france24-middle-east-rss-5oh6l2",
-      "draft-real-france24-middle-east-rss-11rlrx2",
-      "draft-cluster-real-france24-middle-east-rss-1upeeef",
-      "draft-real-mofcom-trade-1gwc9pm",
-      "draft-real-mofcom-trade-1nieyc0",
-      "draft-real-xinhua-world-d6kozb",
-      "draft-real-gov-uk-news-pq214y",
-      "draft-real-gov-uk-news-17jk2ki",
-      "draft-real-gov-uk-news-ipck25",
-      "draft-real-gov-uk-news-w5mjwm",
-      "draft-real-xinhua-tech-dracls",
-      "draft-real-xinhua-tech-1vlote8",
-      "draft-cluster-real-xinhua-tech-sp38dk",
-      "draft-cluster-real-stats-cn-data-afkfvp",
-      "draft-real-xinhua-tech-p9o66e",
-      "draft-real-cnbc-world-rss-2kgi0e"
+      "draft-real-xinhua-world-1bbivec",
+      "draft-real-xinhua-world-5pi3bt",
+      "draft-real-xinhua-world-5prguz",
+      "draft-real-un-news-rss-tqs9lm",
+      "draft-real-npr-world-rss-1lynoce",
+      "draft-real-npr-world-rss-7jjo9d",
+      "draft-cluster-real-gov-uk-news-14mdrbg",
+      "draft-cluster-real-mofcom-trade-se42qz",
+      "draft-real-mofcom-trade-1l57yqq",
+      "draft-real-mofcom-trade-wq1p6e",
+      "draft-real-xinhua-world-1948iih",
+      "draft-cluster-real-france24-middle-east-rss-8nqrxh",
+      "draft-real-gov-uk-news-1fx7808",
+      "draft-real-gov-uk-news-1qx5ocz",
+      "draft-cluster-real-xinhua-tech-1wmp8zj",
+      "draft-real-xinhua-tech-1iaaiaq",
+      "draft-cluster-real-techcrunch-ai-rss-1n84jg7",
+      "draft-cluster-real-techcrunch-ai-rss-r2k2rz",
+      "draft-real-cas-science-news-1x8cq8e",
+      "draft-real-cnbc-world-rss-118bjn3"
     ],
     "carriedCardIds": []
   }

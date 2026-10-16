@@ -1,0 +1,327 @@
+{
+  "version": 1,
+  "date": "2026-10-16",
+  "generatedAt": "2026-10-16T07:07:59.738Z",
+  "status": "review",
+  "reviewMode": "generated",
+  "candidateSha256": "be808dfc11af0785961876d2157e358e461238dccdce455f6df357fcce96e217",
+  "counts": {
+    "cards": 20,
+    "pages": 3,
+    "rawItems": 345,
+    "freshCandidates": 292,
+    "publishableCards": 38,
+    "reviewableCards": 37,
+    "rejectedCards": 15,
+    "blockers": 0,
+    "warnings": 44
+  },
+  "findings": [
+    {
+      "level": "warning",
+      "code": "source-fetch-failures",
+      "message": "有 4 个来源抓取失败，需要确认是否影响当天覆盖面。"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "没有抓到完整正文，目前使用候选摘要回退。",
+      "cardId": "draft-real-france24-middle-east-rss-g8hyl9",
+      "cardTitle": "胡塞武装与利雅得之间的冲突升级：我们是如何走到这一步的？"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "原文信息量有限，需要确认是否足以支持卡片结论。",
+      "cardId": "draft-real-france24-middle-east-rss-g8hyl9",
+      "cardTitle": "胡塞武装与利雅得之间的冲突升级：我们是如何走到这一步的？"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "官方或主流媒体正文较短，但来源和事实可追溯，需要人工确认是否保留。",
+      "cardId": "draft-real-mem-cn-1wgo0dr",
+      "cardTitle": "预告 | 应急管理部定于10月16日上午10时举行季度例行新闻发布会"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "没有抓到完整正文，目前使用候选摘要回退。",
+      "cardId": "draft-cluster-real-france24-middle-east-rss-6ptk2o",
+      "cardTitle": "胡塞武装在袭击沙特阿美石油巨头后威胁升级冲突"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "原文篇幅较短且不是官方或主流来源，需要发布前复核。",
+      "cardId": "draft-cluster-real-france24-middle-east-rss-6ptk2o",
+      "cardTitle": "胡塞武装在袭击沙特阿美石油巨头后威胁升级冲突"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "原文篇幅较短且不是官方或主流来源，需要发布前复核。",
+      "cardId": "draft-cluster-real-xinhua-world-1yxlxu0",
+      "cardTitle": "沙特称胡塞武装袭击利雅得机场共致17死333伤"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "原文信息量有限，需要确认是否足以支持卡片结论。",
+      "cardId": "draft-real-xinhua-world-1itz1d",
+      "cardTitle": "特朗普称美国不会对伊朗动用核武器"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "官方或主流媒体正文较短，但来源和事实可追溯，需要人工确认是否保留。",
+      "cardId": "draft-real-xinhua-tech-t8wcsd",
+      "cardTitle": "外资机器人企业看好物理AI在华发展新机遇"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "没有抓到完整正文，目前使用候选摘要回退。",
+      "cardId": "draft-real-france24-asia-pacific-rss-zf55ro",
+      "cardTitle": "朝鲜在紧张局势升级之际试射潜射巡航导弹"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "原文信息量有限，需要确认是否足以支持卡片结论。",
+      "cardId": "draft-real-france24-asia-pacific-rss-zf55ro",
+      "cardTitle": "朝鲜在紧张局势升级之际试射潜射巡航导弹"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "一句话导读偏短，可能没有讲清楚核心事实。",
+      "cardId": "draft-real-xinhua-tech-1i0awlr",
+      "cardTitle": "AI替代不了“手搓”的分量"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "官方或主流媒体正文较短，但来源和事实可追溯，需要人工确认是否保留。",
+      "cardId": "draft-real-xinhua-tech-14grefc",
+      "cardTitle": "香港首个具身智能国际应用训练场开幕"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "原文信息量有限，需要确认是否足以支持卡片结论。",
+      "cardId": "draft-real-arxiv-cs-api-u16q6a",
+      "cardTitle": "学习引导大语言模型智能体与多智能体系统"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "一句话导读偏短，可能没有讲清楚核心事实。",
+      "cardId": "draft-cluster-real-theverge-ai-rss-4m6p6v",
+      "cardTitle": "科技反噬现已搬上大银幕"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "一句话导读偏短，可能没有讲清楚核心事实。",
+      "cardId": "draft-cluster-real-theverge-ai-rss-u0onn0",
+      "cardTitle": "朋友不会让朋友把数据喂给AI代理"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "一句话导读偏短，可能没有讲清楚核心事实。",
+      "cardId": "draft-real-eol-education-2j2076",
+      "cardTitle": "工程硕博士怎么读？就业如何？"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "原文信息量有限，需要确认是否足以支持卡片结论。",
+      "cardId": "draft-real-eol-education-6c2j6s",
+      "cardTitle": "教育部公布首批全国中小学科技教育实验区和实验校名单"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "原文信息量有限，需要确认是否足以支持卡片结论。",
+      "cardId": "draft-real-arxiv-cs-api-ck0qqi",
+      "cardTitle": "LIBERO-PeRM：个性化机器人操作基准测试"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "原文信息量有限，需要确认是否足以支持卡片结论。",
+      "cardId": "draft-real-arxiv-cs-api-ovwzni",
+      "cardTitle": "CoDA：数据引擎与行动策略的协同进化"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "原文信息量有限，需要确认是否足以支持卡片结论。",
+      "cardId": "draft-real-arxiv-cs-api-vwzxgb",
+      "cardTitle": "重新思考现代混合专家模型中的路由探索"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "原文信息量有限，需要确认是否足以支持卡片结论。",
+      "cardId": "draft-real-arxiv-cs-api-tayt2t",
+      "cardTitle": "FDE-Gym：AI交付的最后一公里"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "原文信息量有限，需要确认是否足以支持卡片结论。",
+      "cardId": "draft-real-arxiv-cs-api-uwlacx",
+      "cardTitle": "MLExpert：迈向自主机器学习工程的全能智能体模型"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "原文信息量有限，需要确认是否足以支持卡片结论。",
+      "cardId": "draft-real-arxiv-cs-api-1plxw5v",
+      "cardTitle": "GeoState：学习视图解耦的几何状态以进行3D世界建模"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "原文信息量有限，需要确认是否足以支持卡片结论。",
+      "cardId": "draft-real-arxiv-cs-api-1uyh5sw",
+      "cardTitle": "3DCodeVerse：将3D世界作为代码进行探索"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "原文信息量有限，需要确认是否足以支持卡片结论。",
+      "cardId": "draft-real-arxiv-cs-api-4boti0",
+      "cardTitle": "通过监督式游戏获得的熟练度"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "一句话导读偏短，可能没有讲清楚核心事实。",
+      "cardId": "draft-real-arxiv-cs-api-4boti0",
+      "cardTitle": "通过监督式游戏获得的熟练度"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "原文信息量有限，需要确认是否足以支持卡片结论。",
+      "cardId": "draft-real-arxiv-cs-api-123rvvl",
+      "cardTitle": "情绪如何在社交网络中传播并影响决策？——基于意见动力学视角"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "原文信息量有限，需要确认是否足以支持卡片结论。",
+      "cardId": "draft-real-arxiv-cs-api-15llog5",
+      "cardTitle": "超越英语的评估意识：当使用印度语言进行测试时，大型语言模型的行为是否有所不同？"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "原文信息量有限，需要确认是否足以支持卡片结论。",
+      "cardId": "draft-real-arxiv-cs-api-1q9m30i",
+      "cardTitle": "KnowGPO：面向搜索代理的知识分组策略优化"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "原文信息量有限，需要确认是否足以支持卡片结论。",
+      "cardId": "draft-real-arxiv-cs-api-x250pg",
+      "cardTitle": "为连续扩散语言模型设计Transformer"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "原文信息量有限，需要确认是否足以支持卡片结论。",
+      "cardId": "draft-real-arxiv-cs-api-wt2vni",
+      "cardTitle": "ACEdit：通过非对称条件实现稳定的多轮图像编辑"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "原文信息量有限，需要确认是否足以支持卡片结论。",
+      "cardId": "draft-real-arxiv-cs-api-17vg4lm",
+      "cardTitle": "《双重时光：时间序列推理的互补表征》"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "原文信息量有限，需要确认是否足以支持卡片结论。",
+      "cardId": "draft-real-arxiv-cs-api-15h61nq",
+      "cardTitle": "在去中心化智能体集群中学习自我编排"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "一句话导读偏短，可能没有讲清楚核心事实。",
+      "cardId": "draft-real-arxiv-cs-api-15h61nq",
+      "cardTitle": "在去中心化智能体集群中学习自我编排"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "原文信息量有限，需要确认是否足以支持卡片结论。",
+      "cardId": "draft-real-arxiv-cs-api-cru8t6",
+      "cardTitle": "AVC-Reward：以事件为中心的音视频一致性评估"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "原文信息量有限，需要确认是否足以支持卡片结论。",
+      "cardId": "draft-real-arxiv-cs-api-18x9s1i",
+      "cardTitle": "Gemini 4 Argon智能体团队击败《我的世界》"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "原文信息量有限，需要确认是否足以支持卡片结论。",
+      "cardId": "draft-real-arxiv-cs-api-1h0k7dr",
+      "cardTitle": "线性知识在微调前存在，但在微调后泛化"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "原文信息量有限，需要确认是否足以支持卡片结论。",
+      "cardId": "draft-real-arxiv-cs-api-pna0bq",
+      "cardTitle": "AI Consilium：大语言模型临床多学科第二意见的基准测试"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "原文信息量有限，需要确认是否足以支持卡片结论。",
+      "cardId": "draft-real-arxiv-cs-api-f673ks",
+      "cardTitle": "通过随机投影实现私有检索增强生成"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "一句话导读偏短，可能没有讲清楚核心事实。",
+      "cardId": "draft-real-arxiv-cs-api-f673ks",
+      "cardTitle": "通过随机投影实现私有检索增强生成"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "原文信息量有限，需要确认是否足以支持卡片结论。",
+      "cardId": "draft-real-arxiv-cs-api-12vmikb",
+      "cardTitle": "面向持续学习：通过子空间微调缓解遗忘"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "一句话导读偏短，可能没有讲清楚核心事实。",
+      "cardId": "draft-real-ieee-spectrum-rss-1lyvqpq",
+      "cardTitle": "追逐中国的独居石垄断地位"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "一句话导读偏短，可能没有讲清楚核心事实。",
+      "cardId": "draft-real-ieee-spectrum-rss-4erzgf",
+      "cardTitle": "放射性矿石能否打破中国对稀土的垄断？"
+    }
+  ]
+}

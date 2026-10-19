@@ -1,0 +1,1203 @@
+{
+  "schemaVersion": 2,
+  "publishedAt": "2026-10-19T02:00:00.000Z",
+  "issue": {
+    "id": "daily-public-2026-10-19",
+    "date": "2026-10-19",
+    "userId": "public",
+    "cards": [
+      {
+        "id": "draft-real-xinhua-world-jtqyiu",
+        "title": "新闻分析丨特朗普放松对俄制裁为何在美引发巨大反弹",
+        "oneLine": "最新进展：新闻分析丨特朗普放松对俄制裁为何在美引发巨大反弹。",
+        "importance": "S",
+        "credibility": "主流媒体",
+        "tags": [
+          "S",
+          "mustKnow",
+          "industry",
+          "world",
+          "policy"
+        ],
+        "industries": [
+          "generalPublic",
+          "financeInvestment",
+          "operationsGrowth",
+          "contentCreator"
+        ],
+        "section": "front",
+        "body": {
+          "background": "泽连斯基17日在社交媒体发文指责特朗普部分豁免对俄制裁“是错误的”，“只会让俄罗斯人受益”。专家指出，俄柴油产能在冲突背景下存在不确定性，美俄初步达成的俄柴油供应量与全球成品油贸易体量相比不值一提，且对消费端的影响具有滞后效应，难以在中期选举前起到抑价作用。鉴于特朗普政府此前多次调整涉俄乌政策，不排除其在中期选举后在俄乌问题上再度出现政策“反转”。",
+          "keyProgress": "美国国务卿鲁比奥17日对此回应称，总统特朗普暂缓对俄实施制裁措施，是为了“分析”制裁对世界和美国经济的影响。特朗普政府先是在9日宣布放松对俄柴油贸易制裁，并称已与俄方达成由俄向美及全球市场提供柴油的协议。不久后，乌克兰声称其使用的美国“星链”卫星互联网系统军用版“星盾”遭限速，并且未收到美方针对俄军弹道导弹袭击的早期预警。新华社记者 李东旭 摄 16日，特朗普签署行政令，豁免对俄罗斯实施的多项制裁措施，内容涉及他9月签署成法的《2026年格雷厄姆制裁俄罗斯和伊朗法案》中的大部分条款。",
+          "whyItMatters": "“新闻分析丨特朗普放松对俄制裁为何在美引发巨大反弹”如果继续发展，可能通过能源价格、航运、贸易、汇率或市场预期传导到国内。了解它的意义在于判断后续风险，而不只停留在事件本身。",
+          "userRelevance": "即使你不在事发地区，“新闻分析丨特朗普放松对俄制裁为何在美引发巨大反弹”也可能通过能源价格、国际航运、贸易成本和市场预期间接影响国内生活与工作判断。",
+          "whatToWatch": "接下来要看“新闻分析丨特朗普放松对俄制裁为何在美引发巨大反弹”是否出现新的官方信息、后续行动，以及它与中国出行、贸易或公共判断的关联是否扩大。"
+        },
+        "sourceLinks": [
+          {
+            "title": "新华网国际",
+            "url": "https://www.news.cn/world/20261018/2f92a4cd0fb84954b747682d955f6fd0/c.html",
+            "sourceId": "xinhua-world",
+            "publishedAt": "2026-10-18T00:00:00+08:00",
+            "language": "zh",
+            "originalLanguage": "zh",
+            "translationStatus": "not-needed",
+            "fetchedAt": "2026-10-19T07:30:56.851Z",
+            "sourceMethod": "web",
+            "verificationStatus": "confirmed"
+          }
+        ],
+        "images": [
+          {
+            "url": "https://www.news.cn/world/20261018/2f92a4cd0fb84954b747682d955f6fd0/202610182f92a4cd0fb84954b747682d955f6fd0_4a0d980dc0e04a5db0f691a44c51028d.JPG",
+            "sourceUrl": "https://www.news.cn/world/20261018/2f92a4cd0fb84954b747682d955f6fd0/c.html"
+          },
+          {
+            "url": "https://www.news.cn/world/20261018/2f92a4cd0fb84954b747682d955f6fd0/202610182f92a4cd0fb84954b747682d955f6fd0_1e8bb51e177b48b2990314c993127c4e.JPG",
+            "sourceUrl": "https://www.news.cn/world/20261018/2f92a4cd0fb84954b747682d955f6fd0/c.html"
+          }
+        ],
+        "generatedAt": "2026-10-19T02:00:00.000Z"
+      },
+      {
+        "id": "draft-cluster-real-france24-middle-east-rss-1gqpyyk",
+        "title": "特朗普在10月27日选举前支持陷入困境的以色列总理内塔尼亚胡",
+        "oneLine": "最新进展：特朗普在10月27日选举前支持陷入困境的以色列总理内塔尼亚胡。",
+        "importance": "S",
+        "credibility": "待确认",
+        "tags": [
+          "S",
+          "mustKnow",
+          "world",
+          "policy"
+        ],
+        "industries": [
+          "generalPublic"
+        ],
+        "section": "front",
+        "body": {
+          "background": "国际最新进展：这条英文来源需要完整整理为中文，并优先说明发生了什么变化、与中国的关系及后续风险。国际主流媒体 RSS 用于补充全球突发、政策、贸易、能源和科技事件，不能单独替代事实确认。美国总统唐纳德·特朗普周日表态支持以色列总理本雅明·内塔尼亚胡，为10月27日举行的以色列选举造势。",
+          "keyProgress": "重大国际变化可能通过外交、贸易、关税、能源、航运、安全或市场预期影响中国用户。是否推送取决于事件影响范围、严重程度，以及它是否会影响中国或形成全球共同认知。继续核对官方表态和第二个可靠来源，并关注局势变化、政策生效时间及对中国的传导路径。",
+          "whyItMatters": "“特朗普在10月27日选举前支持陷入困境的以色列总理内塔尼亚胡”如果继续发展，可能通过能源价格、航运、贸易、汇率或市场预期传导到国内。了解它的意义在于判断后续风险，而不只停留在事件本身。",
+          "userRelevance": "即使你不在美国、伊朗、以色列，“特朗普在10月27日选举前支持陷入困境的以色列总理内塔尼亚胡”也可能通过能源价格、国际航运、贸易成本和市场预期间接影响国内生活与工作判断。",
+          "whatToWatch": "接下来要看“特朗普在10月27日选举前支持陷入困境的以色列总理内塔尼亚胡”是否出现新的官方信息、后续行动，以及它与中国出行、贸易或公共判断的关联是否扩大。"
+        },
+        "sourceLinks": [
+          {
+            "title": "France 24 Middle East RSS",
+            "url": "https://www.france24.com/en/middle-east/20261018-trump-endorses-embattled-israeli-pm-netanyahu-ahead-of-october-27-election",
+            "sourceId": "france24-middle-east-rss",
+            "publishedAt": "2026-10-18T16:25:00.000Z",
+            "language": "zh",
+            "originalLanguage": "en",
+            "translationStatus": "translated",
+            "fetchedAt": "2026-10-19T07:30:56.673Z",
+            "sourceMethod": "rss",
+            "verificationStatus": "pending"
+          },
+          {
+            "title": "Sky News World RSS",
+            "url": "https://news.sky.com/story/trump-endorses-netanyahu-ahead-of-israeli-elections-calling-him-great-warrior-prime-minister-13600658",
+            "sourceId": "sky-world-rss",
+            "publishedAt": "2026-10-18T14:50:00.000Z",
+            "language": "zh",
+            "originalLanguage": "en",
+            "translationStatus": "translated",
+            "fetchedAt": "2026-10-19T07:30:56.561Z",
+            "sourceMethod": "rss",
+            "verificationStatus": "pending"
+          }
+        ],
+        "images": [
+          {
+            "url": "https://s.france24.com/media/display/7c3ce8c8-cb0e-11f1-946e-6313a763b466/w:1024/p:16x9/2026-10-18T155301Z-1509213277-RC2KQIA83EQP-RTRMADP-3-ISRAEL-ELECTION-TRUMP.jpg",
+            "sourceUrl": "https://www.france24.com/en/middle-east/20261018-trump-endorses-embattled-israeli-pm-netanyahu-ahead-of-october-27-election"
+          },
+          {
+            "url": "https://e3.365dm.com/26/10/1920x1080/skynews-benjamin-netanyahu_7379982.jpg?20261018161627",
+            "sourceUrl": "https://news.sky.com/story/trump-endorses-netanyahu-ahead-of-israeli-elections-calling-him-great-warrior-prime-minister-13600658"
+          }
+        ],
+        "generatedAt": "2026-10-19T02:00:00.000Z"
+      },
+      {
+        "id": "draft-real-xinhua-world-1l9cels",
+        "title": "泽连斯基称若乌“被要求”举行战时选举他将竞选连任",
+        "oneLine": "政策变化：乌克兰总统泽连斯基18日接受媒体采访时称，若美国和俄罗斯方面要求乌方在战争期间举行选举，他将竞选连任总统。",
+        "importance": "A",
+        "credibility": "主流媒体",
+        "tags": [
+          "A",
+          "mustKnow",
+          "industry",
+          "world",
+          "policy"
+        ],
+        "industries": [
+          "generalPublic",
+          "financeInvestment",
+          "operationsGrowth",
+          "contentCreator"
+        ],
+        "section": "front",
+        "body": {
+          "background": "泽连斯基当天在接受美国广播公司采访时说，是否举行总统选举首先要遵从乌克兰人民的选择。如果美国和俄罗斯坚持要求乌在战争期间举行选举，那么乌克兰还需要至少60天的停火。乌克兰将在停火期间尽最大努力修改法律并准备必要的安全基础设施。",
+          "keyProgress": "泽连斯基还表示，要确保乌军人员“能够而且必须”参加选举。自去年年初以来，美国总统特朗普及其团队与乌克兰当局就“战时选举”“泽连斯基支持率”和“合法性”等问题多次爆发激烈口水战。特朗普呼吁乌方尽快停火并举行总统选举。特朗普本月10日称“乌克兰应该换个总统”，暗示泽连斯基在结束俄乌冲突方面做得不够。",
+          "whyItMatters": "“泽连斯基称若乌被要求举行战时选举他将竞选连任”如果继续发展，可能通过能源价格、航运、贸易、汇率或市场预期传导到国内。了解它的意义在于判断后续风险，而不只停留在事件本身。",
+          "userRelevance": "即使你不在事发地区，“泽连斯基称若乌被要求举行战时选举他将竞选连任”也可能通过能源价格、国际航运、贸易成本和市场预期间接影响国内生活与工作判断。",
+          "whatToWatch": "接下来要看“泽连斯基称若乌被要求举行战时选举他将竞选连任”是否出现新的官方信息、后续行动，以及它与中国出行、贸易或公共判断的关联是否扩大。"
+        },
+        "sourceLinks": [
+          {
+            "title": "新华网国际",
+            "url": "https://www.news.cn/world/20261019/51768f4a33d7424e977224a0503a3b4d/c.html",
+            "sourceId": "xinhua-world",
+            "publishedAt": "2026-10-19T00:00:00+08:00",
+            "language": "zh",
+            "originalLanguage": "zh",
+            "translationStatus": "not-needed",
+            "fetchedAt": "2026-10-19T07:30:56.851Z",
+            "sourceMethod": "web",
+            "verificationStatus": "confirmed"
+          }
+        ],
+        "images": [],
+        "generatedAt": "2026-10-19T02:00:00.000Z"
+      },
+      {
+        "id": "draft-real-xinhua-world-1tq5uzn",
+        "title": "伊朗总统：绝不屈服于“侵略性”国家无理要求与霸凌",
+        "oneLine": "政策变化：据伊朗伊斯兰共和国通讯社18日报道，伊朗总统佩泽希齐扬当天强调，伊朗绝不会屈服于“侵略性”国家的无理要求和霸凌行径。",
+        "importance": "A",
+        "credibility": "主流媒体",
+        "tags": [
+          "A",
+          "mustKnow",
+          "industry",
+          "world",
+          "policy"
+        ],
+        "industries": [
+          "generalPublic",
+          "financeInvestment",
+          "operationsGrowth",
+          "contentCreator"
+        ],
+        "section": "front",
+        "body": {
+          "background": "伊朗军队网站18日发布声明回应美方近期发出的所谓使用“炸弹之母”的威胁，称伊朗武装部队已做好充分准备，随时可以应对任何威胁。美国有线电视新闻网15日凌晨援引多名美国官员的消息报道称，美军方已制定打击伊朗的新方案，其中包括考虑使用有“炸弹之母”之称的大型空爆炸弹打击伊朗核设施。佩泽希齐扬当天在首都德黑兰举行的伊朗伊斯兰议会会议上发表上述言论。",
+          "keyProgress": "佩泽希齐扬强调，伊朗人民将凭借团结、坚定和抵抗精神，继续走自己的路，即便为此付出生命也在所不惜。他还表示，伊朗政府和武装力量正致力于加强国家防御能力。伊朗最高国家安全委员会秘书穆赫辛·雷扎伊18日在社交媒体上说，伊朗武装力量已针对任何新的“冒险行径”制定了应对方案。伊朗全新的作战计划将不再遵循对方所熟悉的规则。",
+          "whyItMatters": "“伊朗总统：绝不屈服于侵略性国家无理要求与霸凌”如果继续发展，可能通过能源价格、航运、贸易、汇率或市场预期传导到国内。了解它的意义在于判断后续风险，而不只停留在事件本身。",
+          "userRelevance": "即使你不在伊朗，“伊朗总统：绝不屈服于侵略性国家无理要求与霸凌”也可能通过能源价格、国际航运、贸易成本和市场预期间接影响国内生活与工作判断。",
+          "whatToWatch": "接下来要看“伊朗总统：绝不屈服于侵略性国家无理要求与霸凌”是否出现新的官方信息、后续行动，以及它与中国出行、贸易或公共判断的关联是否扩大。"
+        },
+        "sourceLinks": [
+          {
+            "title": "新华网国际",
+            "url": "https://www.news.cn/world/20261019/5d681ab54a1947cfbaeb6c17034e14a7/c.html",
+            "sourceId": "xinhua-world",
+            "publishedAt": "2026-10-19T00:00:00+08:00",
+            "language": "zh",
+            "originalLanguage": "zh",
+            "translationStatus": "not-needed",
+            "fetchedAt": "2026-10-19T07:30:56.851Z",
+            "sourceMethod": "web",
+            "verificationStatus": "confirmed"
+          }
+        ],
+        "images": [],
+        "generatedAt": "2026-10-19T02:00:00.000Z"
+      },
+      {
+        "id": "draft-real-xinhua-world-2avsj5",
+        "title": "李强会见塔吉克斯坦总统拉赫蒙",
+        "oneLine": "最新进展：李强会见塔吉克斯坦总统拉赫蒙。",
+        "importance": "A",
+        "credibility": "主流媒体",
+        "tags": [
+          "A",
+          "mustKnow",
+          "industry",
+          "world",
+          "policy"
+        ],
+        "industries": [
+          "generalPublic",
+          "financeInvestment",
+          "operationsGrowth",
+          "contentCreator"
+        ],
+        "section": "front",
+        "body": {
+          "background": "10月19日上午，国务院总理李强在杜尚别会见塔吉克斯坦总统拉赫蒙。李强表示，当前，中塔正推动构建两国命运共同体。今年5月，习近平主席同拉赫蒙总统举行会晤，就双边关系发展进一步作出规划。",
+          "keyProgress": "李强指出，中方愿同塔方扩大双边贸易规模，加强基础设施、绿色矿产、互联互通等领域合作，拓展数字经济、人工智能等新兴产业合作，共同壮大经济增长动能。中方全力支持塔方办好此次上合组织总理会议，愿同各方一道推动上合组织更高质量发展。塔方坚定支持习近平主席提出的四大全球倡议，愿同中方加强在联合国、上合组织、中国－中亚机制等多边协作，推动塔中新时代全面战略合作伙伴关系不断迈上新台阶，共建两国命运共同体。中方珍视同塔方的深厚友谊，将始终从战略高度和长远角度看待中塔关系，愿同塔方巩固深化政治互信，坚定支持彼此核心利益，不断提升合作质效，在实现现代化的道路上持续携手前行。",
+          "whyItMatters": "“李强会见塔吉克斯坦总统拉赫蒙”如果继续发展，可能通过能源价格、航运、贸易、汇率或市场预期传导到国内。了解它的意义在于判断后续风险，而不只停留在事件本身。",
+          "userRelevance": "即使你不在事发地区，“李强会见塔吉克斯坦总统拉赫蒙”也可能通过能源价格、国际航运、贸易成本和市场预期间接影响国内生活与工作判断。",
+          "whatToWatch": "接下来要看“李强会见塔吉克斯坦总统拉赫蒙”是否出现新的官方信息、后续行动，以及它与中国出行、贸易或公共判断的关联是否扩大。"
+        },
+        "sourceLinks": [
+          {
+            "title": "新华网国际",
+            "url": "https://www.news.cn/world/20261019/78efa38da58046ef858431b8a184d435/c.html",
+            "sourceId": "xinhua-world",
+            "publishedAt": "2026-10-19T00:00:00+08:00",
+            "language": "zh",
+            "originalLanguage": "zh",
+            "translationStatus": "not-needed",
+            "fetchedAt": "2026-10-19T07:30:56.851Z",
+            "sourceMethod": "web",
+            "verificationStatus": "confirmed"
+          }
+        ],
+        "images": [],
+        "generatedAt": "2026-10-19T02:00:00.000Z"
+      },
+      {
+        "id": "draft-real-npr-world-rss-15xwzmo",
+        "title": "世界粮食计划署负责人称：“加沙的生活绝对残酷。”",
+        "oneLine": "政策变化：联合国世界粮食计划署表示，尽管在美国斡旋下哈马斯与以色列达成停火协议，加沙仍有140万人正遭受严重粮食短缺，而资金缺口迫使该机构削减关键援助。",
+        "importance": "A",
+        "credibility": "主流媒体",
+        "tags": [
+          "A",
+          "mustKnow",
+          "world",
+          "policy"
+        ],
+        "industries": [
+          "generalPublic"
+        ],
+        "section": "front",
+        "body": {
+          "background": "国际主流媒体 RSS 用于补充全球突发、政策、贸易、能源和科技事件，不能单独替代事实确认。",
+          "keyProgress": "世界粮食计划署负责人称：“加沙的生活绝对残酷。”。联合国世界粮食计划署表示，尽管在美国斡旋下哈马斯与以色列达成停火协议，加沙仍有140万人正遭受严重粮食短缺，资金缺口迫使该机构削减关键援助。",
+          "whyItMatters": "“世界粮食计划署负责人称：加沙的生活绝对残酷。”如果继续发展，可能通过能源价格、航运、贸易、汇率或市场预期传导到国内。了解它的意义在于判断后续风险，而不只停留在事件本身。",
+          "userRelevance": "即使你不在美国、以色列、加沙，“世界粮食计划署负责人称：加沙的生活绝对残酷。”也可能通过能源价格、国际航运、贸易成本和市场预期间接影响国内生活与工作判断。",
+          "whatToWatch": "接下来要看“世界粮食计划署负责人称：加沙的生活绝对残酷。”是否出现新的官方信息、后续行动，以及它与中国出行、贸易或公共判断的关联是否扩大。"
+        },
+        "sourceLinks": [
+          {
+            "title": "NPR World RSS",
+            "url": "https://www.npr.org/2026/10/18/nx-s1-6001709/life-is-absolutely-brutal-in-gaza-says-world-food-programme-head",
+            "sourceId": "npr-world-rss",
+            "publishedAt": "2026-10-18T21:00:08.000Z",
+            "language": "zh",
+            "originalLanguage": "en",
+            "translationStatus": "translated",
+            "fetchedAt": "2026-10-19T07:30:56.522Z",
+            "sourceMethod": "rss",
+            "verificationStatus": "confirmed"
+          }
+        ],
+        "images": [],
+        "generatedAt": "2026-10-19T02:00:00.000Z"
+      },
+      {
+        "id": "draft-real-un-news-rss-1w036fa",
+        "title": "纽约“时光机”：与时间赛跑，抢救百年声音与影像",
+        "oneLine": "最新进展：纽约“时光机”：与时间赛跑，抢救百年声音与影像。",
+        "importance": "B",
+        "credibility": "官方来源",
+        "tags": [
+          "B",
+          "mustKnow",
+          "world"
+        ],
+        "industries": [
+          "generalPublic"
+        ],
+        "section": "front",
+        "body": {
+          "background": "最令他感动的是美国非裔民权领袖马尔科姆·X（Malcolm X）的旅行影片，包括来自麦加的镜头。他希望，通过观看这样的影像，年轻人“会意识到在他们来到地球之前所发生事件的重要性”。”罗尼·多斯塔利（Rhony Dostaly）说。",
+          "keyProgress": "在林肯中心地下的一个地下室里，这位媒体保护工程师从过去抢救珍贵的瞬间。“我回到过去，抓取那些元素，让它们为今天的人们所用。”他和纽约公共图书馆（NYPL）的同事们正与时间赛跑，以保存胶片、磁带、光盘和圆筒中记录的超过一个世纪的音频和动态影像。这些记录正在腐烂，而能够播放它们的设备也在逐渐消失。",
+          "whyItMatters": "“纽约时光机：与时间赛跑，抢救百年声音与影像”如果继续发展，可能通过能源价格、航运、贸易、汇率或市场预期传导到国内。了解它的意义在于判断后续风险，而不只停留在事件本身。",
+          "userRelevance": "即使你不在事发地区，“纽约时光机：与时间赛跑，抢救百年声音与影像”也可能通过能源价格、国际航运、贸易成本和市场预期间接影响国内生活与工作判断。",
+          "whatToWatch": "接下来要看“纽约时光机：与时间赛跑，抢救百年声音与影像”是否出现新的官方信息、后续行动，以及它与中国出行、贸易或公共判断的关联是否扩大。"
+        },
+        "sourceLinks": [
+          {
+            "title": "联合国新闻 RSS",
+            "url": "https://news.un.org/feed/view/en/story/2026/10/1168608",
+            "sourceId": "un-news-rss",
+            "publishedAt": "2026-10-18T12:00:00.000Z",
+            "language": "zh",
+            "originalLanguage": "en",
+            "translationStatus": "translated",
+            "fetchedAt": "2026-10-19T07:30:57.810Z",
+            "sourceMethod": "rss",
+            "verificationStatus": "confirmed"
+          }
+        ],
+        "images": [
+          {
+            "url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/10/13-10-2026_Media%20Preservation%209.jpg/image560x340cropped.jpg",
+            "sourceUrl": "https://news.un.org/feed/view/en/story/2026/10/1168608"
+          }
+        ],
+        "generatedAt": "2026-10-19T02:00:00.000Z"
+      },
+      {
+        "id": "draft-real-gov-uk-news-170ynz7",
+        "title": "分享旅程，而非噪音：政府推出措施防止交通中的噪音和反社会行为",
+        "oneLine": "风险提醒：《分享旅程，而非噪音：政府推出措施防止交通中的噪音和反社会行为》我们使用必要的 Cookie 以使本网站正常运行。",
+        "importance": "B",
+        "credibility": "官方来源",
+        "tags": [
+          "B",
+          "mustKnow",
+          "risk",
+          "world",
+          "policy",
+          "local"
+        ],
+        "industries": [
+          "generalPublic",
+          "localLife"
+        ],
+        "section": "risk",
+        "body": {
+          "background": "**分类导航：** 出生、死亡、婚姻和护理 | 企业和自雇人士 | 儿童保育和育儿 | 公民身份和在英国生活 | 犯罪、司法和法律 | 残障人士 | 驾驶和交通 | 教育和学习 | 雇佣人员 | 环境和乡村 | 住房和地方服务 | 金钱和税收 | 护照、旅行和海外生活 | 签证和移民 | 工作、工作和养老金 | 部门 | 部门、机构和公共机构 **新闻：** 新闻故事、演讲、信函和通知 **指导和法规：** 详细指导、法规和规则 **研究和统计：** 报告、分析和官方统计数据 **政策文件和咨询：** 咨询和战略 **透明度：** 数据、信息自由发布和企业报告 **地方交通：** 公交乘客体验 打击公交车和火车上的滋扰行为将有助于让人们感到更安全、更舒适。",
+          "keyProgress": "我们使用必要的 Cookie 以使本网站正常运行。我们希望设置额外的 Cookie，以了解您如何使用 GOV.UK、记住您的设置并改善政府服务。我们还使用其他网站设置的 Cookie，以便向我们提供其服务的内容。您可以随时更改 Cookie 设置。",
+          "whyItMatters": "“分享旅程，而非噪音：政府推出措施防止交通中的噪音和反社会行为”的直接价值是帮助你判断是否需要调整出行、居住或工作安排。影响地区、持续时间、预警等级和官方避险建议比事件热度更重要。",
+          "userRelevance": "对于“分享旅程，而非噪音：政府推出措施防止交通中的噪音和反社会行为”，如果你所在地区出现同类预警，应优先确认当地通知、交通变化和避险要求；其他地区通常无需因此改变日常安排。",
+          "whatToWatch": "接下来要看“分享旅程，而非噪音：政府推出措施防止交通中的噪音和反社会行为”的影响范围是否扩大、预警等级是否变化，以及是否出现与你所在城市相关的提醒。"
+        },
+        "sourceLinks": [
+          {
+            "title": "GOV.UK News and Communications",
+            "url": "https://www.gov.uk/government/news/share-the-journey-not-the-noise-government-launches-measures-to-prevent-noise-and-antisocial-behaviour-on-transport",
+            "sourceId": "gov-uk-news",
+            "publishedAt": "2026-10-18T23:01:07.000Z",
+            "language": "zh",
+            "originalLanguage": "en",
+            "translationStatus": "translated",
+            "fetchedAt": "2026-10-19T07:30:56.467Z",
+            "sourceMethod": "rss",
+            "verificationStatus": "confirmed"
+          }
+        ],
+        "images": [
+          {
+            "url": "https://assets.publishing.service.gov.uk/media/6ad47b84dfa45fcb6753cb54/s300_train.jpg",
+            "sourceUrl": "https://www.gov.uk/government/news/share-the-journey-not-the-noise-government-launches-measures-to-prevent-noise-and-antisocial-behaviour-on-transport"
+          }
+        ],
+        "generatedAt": "2026-10-19T02:00:00.000Z"
+      },
+      {
+        "id": "draft-real-city-news-rss:%E4%B8%AD%E5%9B%BD-%E4%B8%8A%E6%B5%B7-1itvage",
+        "title": "今日上海 朱忠明会见高瓴创始人兼董事长张磊和跨国企业家、海外投资人代表 2026-10-19 今日上海",
+        "oneLine": "政策变化：上海市市长朱忠明10月18日会见了高瓴创始人兼董事长张磊和跨国企业家、海外投资人代表。",
+        "importance": "B",
+        "credibility": "待确认",
+        "tags": [
+          "B",
+          "industry",
+          "local",
+          "policy",
+          "china"
+        ],
+        "industries": [
+          "localLife",
+          "generalPublic",
+          "operationsGrowth"
+        ],
+        "section": "local",
+        "body": {
+          "background": "跨国企业和投资机构为上海经济社会发展作出了积极贡献，大家都长期看好中国、高度关注上海，希望与大家开展更深入的交流、更广泛的合作。期待与上海进一步深化合作，共同推动人工智能更好落地应用于实体经济，赋能制造业、现代服务业，携手促进生物医药等领域创新发展 与会企业家和投资人代表表示，每次来到上海，都像参加展现最新发展成果的“路演”，在这里看到了广阔机遇。上海人工智能创新生态具有得天独厚的发展优势，期待与上海进一步深化合作，共同推动人工智能更好落地应用于实体经济，赋能制造业、现代服务业，携手促进生物医药等领域创新发展。",
+          "keyProgress": "热忱期待跨国公司和投资机构加大在沪投资布局力度，推动更多面向全球市场的新技术、新业态、新模式在沪落地，并积极参与“AI+制造”等领域的高水平人才培养 朱忠明说，当前，我们正加快建设上海（长三角）国际科技创新中心，不断增强科技创新策源功能，推动科技创新和产业创新深度融合，大力发展集成电路、生物医药、人工智能三大先导产业，积极推进“AI+生命健康”。热忱期待跨国公司和投资机构加大在沪投资布局力度，推动更多面向全球市场的新技术、新业态、新模式在沪落地，并积极参与“AI+制造”等领域的高水平人才培养。上海正持续打造市场化、法治化、国际化的一流营商环境，欢迎跨国公司积极建言献策，帮助我们不断优化服务。全球企业越来越关注中国的技术创新，更期待将中国的创新能力带向全球。",
+          "whyItMatters": "“今日上海 朱忠明会见高瓴创始人兼董事长张磊和跨国企业家、海外投资人代表 2026-10-19 今”可能改变个人办事、出行、公共服务或行业规则。提前确认适用范围和生效时间，可以减少信息滞后带来的判断偏差。",
+          "userRelevance": "作为中国居民，你需要留意“今日上海 朱忠明会见高瓴创始人兼董事长张磊和跨国企业家、海外投资人代表 2026-10-19 今”是否改变办事、出行或公共服务规则；如果你从事本地生活、运营增长，还应关注行业执行细则。",
+          "whatToWatch": "接下来要看“今日上海 朱忠明会见高瓴创始人兼董事长张磊和跨国企业家、海外投资人代表 2026-10-19 今”是否补充执行细则、地方落地安排、时间节点或适用人群说明。"
+        },
+        "sourceLinks": [
+          {
+            "title": "直辖市·上海本地公开信息",
+            "url": "https://www.shanghai.gov.cn/nw4411/20261019/31ba1e19af5745a8bcc32ca0d8cedfab.html",
+            "sourceId": "city-news-rss:%E4%B8%AD%E5%9B%BD-%E4%B8%8A%E6%B5%B7",
+            "publishedAt": "2026-10-19T00:00:00+08:00",
+            "language": "zh",
+            "originalLanguage": "zh",
+            "translationStatus": "not-needed",
+            "fetchedAt": "2026-10-19T07:33:13.384Z",
+            "sourceMethod": "web",
+            "verificationStatus": "pending"
+          }
+        ],
+        "images": [
+          {
+            "url": "https://www.shanghai.gov.cn/cmsres/8c/8cac9cd5c8fa45a8b6b78e9982cc0739/56bdb46e9002e212524a10ecceb8f0cb.jpg",
+            "sourceUrl": "https://www.shanghai.gov.cn/nw4411/20261019/31ba1e19af5745a8bcc32ca0d8cedfab.html"
+          }
+        ],
+        "generatedAt": "2026-10-19T02:00:00.000Z"
+      },
+      {
+        "id": "draft-real-xinhua-tech-1anqs8l",
+        "title": "在工博会上看机器人“打工”",
+        "oneLine": "趋势信号：5台人形双臂机器人在同一工位上协同作业，机械臂精准穿扎带，误差控制在亚毫米级；",
+        "importance": "B",
+        "credibility": "主流媒体",
+        "tags": [
+          "B",
+          "industry",
+          "technology",
+          "ai",
+          "product"
+        ],
+        "industries": [
+          "technologyEngineering",
+          "educationResearch",
+          "aiProduct",
+          "aiTechnology",
+          "productManagement",
+          "operationsGrowth"
+        ],
+        "section": "ai",
+        "body": {
+          "background": "IDC发布的数据显示，2026年上半年，全球人形机器人出货量接近2.5万台，同比增长432.1%，其中中国市场超过1.9万台。另一侧，机器人自动为手机涂胶、拧紧，节拍不到10秒；不远处，一台复合机器人正在模拟光模块拔插检测…… 10月12日至16日，第二十六届中国国际工业博览会（以下简称“工博会”）在上海举行。",
+          "keyProgress": "艾利特机器人此次把整条“真产线”搬进了展厅：光模块精密装配机器人、手机柔性涂胶拧紧机器人、无人机全自动换电机器人……11大工站级应用围绕AI基础设施、AI终端和AI for Science三大板块展开，多台不同形态的机器人在同一套调度系统下协同作业。为此，艾利特将自研的工业级具身大模型“元启Primo”作为统一智能底座，驱动复合机器人、轮式人形机器人、协作机器人三大产品矩阵协同，让机器人从“按程序执行的专用设备”升级为“能理解环境、规划任务的具身智能体”。记者了解到，这套统一智能底座的落地路径，正沿AI产业链向高价值环节纵深延伸。在AI基础设施领域，艾利特方面称，已在AI光基建领域实现量产，覆盖光模块从组件、PCB到封装封测的全工艺段；",
+          "whyItMatters": "“在工博会上看机器人打工”能帮助你判断这项能力是否已经进入工程、产品或商业场景，并据此调整技术选型、产品规划、学习重点或职业判断。",
+          "userRelevance": "如果你从事技术研发、教育研究、AI 产品、AI 技术，可以重点判断“在工博会上看机器人打工”是否已经具备产品落地、技术选型或业务合作价值。",
+          "whatToWatch": "接下来要看“在工博会上看机器人打工”是否有更多可靠来源、量产或应用进展，以及它会不会从单点消息发展成持续趋势。"
+        },
+        "sourceLinks": [
+          {
+            "title": "新华网科技",
+            "url": "https://www.news.cn/tech/20261019/0c8d2f2a94164c62a2eef18ed8cd27ad/c.html",
+            "sourceId": "xinhua-tech",
+            "publishedAt": "2026-10-19T00:00:00+08:00",
+            "language": "zh",
+            "originalLanguage": "zh",
+            "translationStatus": "not-needed",
+            "fetchedAt": "2026-10-19T07:30:57.440Z",
+            "sourceMethod": "web",
+            "verificationStatus": "confirmed"
+          }
+        ],
+        "images": [],
+        "generatedAt": "2026-10-19T02:00:00.000Z"
+      },
+      {
+        "id": "draft-real-xinhua-tech-ykd147",
+        "title": "养老机器人加速迭代 科技助老开辟银发经济新赛道",
+        "oneLine": "趋势信号：近期，以养老机器人为代表的智慧康养产品正为“老有所养、老有所乐”注入创新动能，推动银发经济提质升级。",
+        "importance": "B",
+        "credibility": "主流媒体",
+        "tags": [
+          "B",
+          "industry",
+          "technology",
+          "ai",
+          "product"
+        ],
+        "industries": [
+          "technologyEngineering",
+          "educationResearch",
+          "aiProduct",
+          "aiTechnology",
+          "productManagement",
+          "operationsGrowth"
+        ],
+        "section": "ai",
+        "body": {
+          "background": "除了智能陪伴场景，出行辅助类机器人同样备受青睐，其中穿戴式外骨骼产品因便携性强、适配场景广，成为海内外采购商咨询的热点。工业和信息化部软件与集成电路促进中心日前发布的《智能养老服务机器人发展研究报告（2026版）》显示，当前我国养老服务机器人产业已初步形成体系，市场规模保持高速增长，预计2026年将突破百亿元。鼓励企业扎根真实养老场景开展技术攻关，针对不同身体状况老人的差异化需求开发细分产品，让科技真正融入老年人的日常生活。",
+          "keyProgress": "业内专家指出，作为银发经济与数字技术深度融合的核心赛道，我国养老机器人产业正步入加速迭代的关键期，落地场景从专业养老机构加速向社区、家庭下沉，消费需求持续释放。其中，国内版本不仅搭载AI智能医生，还可接入真人医生24小时在线服务，为居家老人提供便捷问诊渠道。”孚宝展位工作人员介绍，目前该款机器人第五代新产品已经推向市场，并出口至全球100多个国家和地区。“外骨骼机器人能够延长老人的自主生活半径，让老人能轻松走出家门，参与户外文旅、社交活动，有助于拓宽银发经济的消费边界，让消费场景从单纯的医疗照护，延伸至文旅、健身、社交等更广阔的领域。",
+          "whyItMatters": "“养老机器人加速迭代 科技助老开辟银发经济新赛道”能帮助你判断这项能力是否已经进入工程、产品或商业场景，并据此调整技术选型、产品规划、学习重点或职业判断。",
+          "userRelevance": "如果你从事技术研发、教育研究、AI 产品、AI 技术，可以重点判断“养老机器人加速迭代 科技助老开辟银发经济新赛道”是否已经具备产品落地、技术选型或业务合作价值。",
+          "whatToWatch": "接下来要看“养老机器人加速迭代 科技助老开辟银发经济新赛道”是否有更多可靠来源、量产或应用进展，以及它会不会从单点消息发展成持续趋势。"
+        },
+        "sourceLinks": [
+          {
+            "title": "新华网科技",
+            "url": "https://www.news.cn/tech/20261019/7eb7aa158dcf445bb70b4af94a811f14/c.html",
+            "sourceId": "xinhua-tech",
+            "publishedAt": "2026-10-19T00:00:00+08:00",
+            "language": "zh",
+            "originalLanguage": "zh",
+            "translationStatus": "not-needed",
+            "fetchedAt": "2026-10-19T07:30:57.440Z",
+            "sourceMethod": "web",
+            "verificationStatus": "confirmed"
+          }
+        ],
+        "images": [],
+        "generatedAt": "2026-10-19T02:00:00.000Z"
+      },
+      {
+        "id": "draft-real-xinhua-tech-lcvzpq",
+        "title": "第140届广交会：搭载人工智能技术新产品集中登场",
+        "oneLine": "趋势信号：正在广州举办的第140届中国进出口商品交易会上，AI产品成为现场最受关注的看点之一：从智能机器人到智慧教育、智慧办公，一批搭载人工智能技术的新产品集中登场。",
+        "importance": "B",
+        "credibility": "主流媒体",
+        "tags": [
+          "B",
+          "industry",
+          "technology",
+          "ai",
+          "product"
+        ],
+        "industries": [
+          "technologyEngineering",
+          "educationResearch",
+          "aiProduct",
+          "aiTechnology",
+          "productManagement",
+          "operationsGrowth"
+        ],
+        "section": "ai",
+        "body": {
+          "background": "从这里出发，中国制造向智能化、高端化加速升级，中国智造正以新的姿态走向世界。",
+          "keyProgress": "第140届广交会：搭载人工智能技术新产品集中登场。第140届广交会：搭载人工智能技术新产品集中登场",
+          "whyItMatters": "“第140届广交会：搭载人工智能技术新产品集中登场”能帮助你判断这项能力是否已经进入工程、产品或商业场景，并据此调整技术选型、产品规划、学习重点或职业判断。",
+          "userRelevance": "如果你从事技术研发、教育研究、AI 产品、AI 技术，可以重点判断“第140届广交会：搭载人工智能技术新产品集中登场”是否已经具备产品落地、技术选型或业务合作价值。",
+          "whatToWatch": "接下来要看“第140届广交会：搭载人工智能技术新产品集中登场”是否有更多可靠来源、量产或应用进展，以及它会不会从单点消息发展成持续趋势。"
+        },
+        "sourceLinks": [
+          {
+            "title": "新华网科技",
+            "url": "https://www.news.cn/tech/20261019/a8fa97af9abf449188801d4ed7547131/c.html",
+            "sourceId": "xinhua-tech",
+            "publishedAt": "2026-10-19T00:00:00+08:00",
+            "language": "zh",
+            "originalLanguage": "zh",
+            "translationStatus": "not-needed",
+            "fetchedAt": "2026-10-19T07:30:57.440Z",
+            "sourceMethod": "web",
+            "verificationStatus": "confirmed"
+          }
+        ],
+        "images": [],
+        "generatedAt": "2026-10-19T02:00:00.000Z"
+      },
+      {
+        "id": "draft-real-stats-cn-data-8awlz3",
+        "title": "前三季度经济运行总体平稳 高质量发展取得新成效",
+        "oneLine": "经营环境信号：从环比看，三季度国内生产总值增长 1.2% 。二、工业生产较快增长，装备制造业和高技术制造业支撑明显 前三季度，全国规模以上工业增加值同比增长 5.3% 。",
+        "importance": "B",
+        "credibility": "官方来源",
+        "tags": [
+          "B",
+          "industry",
+          "china",
+          "consumer",
+          "operations"
+        ],
+        "industries": [
+          "operationsGrowth",
+          "consumerBrand",
+          "financeInvestment",
+          "ecommerceRetail",
+          "generalPublic"
+        ],
+        "section": "industry",
+        "body": {
+          "background": "（2026年10月19日） 前三季度，在以习近平同志为核心的党中央坚强领导下，各地区各部门认真贯彻落实党中央、国务院决策部署，坚持稳中求进工作总基调，加大宏观政策调节力度，着力深化改革开放，因地制宜培育壮大新质生产力，有效化解风险隐患，国民经济顶住压力保持平稳运行，呈现动能向新、结构向优的发展态势，生产供给较快增长，对外贸易增势良好，就业物价总体稳定，民生保障有力有效，发展韧性和活力持续彰显。初步核算，前三季度国内生产总值 1071071 亿元，按不变价格计算，同比增长 4.6% 。分产业看，第一产业增加值 58994 亿元，同比增长 3.7% ；",
+          "keyProgress": "第二产业增加值 383822 亿元，增长 3.8% ；第三产业增加值 628255 亿元，增长 5.2% 。分季度看，一季度国内生产总值同比增长 5.0% ，二季度增长 4.3% ，三季度增长 4.5% 。一、农业生产形势较好，畜牧业平稳增长 前三季度，农业（种植业）增加值同比增长 3.6% 。",
+          "whyItMatters": "“前三季度经济运行总体平稳 高质量发展取得新成效”反映了需求、成本或市场节奏的一次变化。它不一定马上改变日常生活，但会影响选品、定价、投放、库存和内容方向。",
+          "userRelevance": "如果你从事运营增长、消费品牌、金融投资、电商零售，“前三季度经济运行总体平稳 高质量发展取得新成效”可用于观察需求和成本变化，并辅助定价、选品、投放或经营节奏判断。",
+          "whatToWatch": "接下来要看“前三季度经济运行总体平稳 高质量发展取得新成效”是否出现更细的城市、行业、平台或企业数据，以及这一变化能否连续保持。"
+        },
+        "sourceLinks": [
+          {
+            "title": "国家统计局数据发布",
+            "url": "https://www.stats.gov.cn/sj/zxfb/202610/t20261019_1965618.html",
+            "sourceId": "stats-cn-data",
+            "publishedAt": "2026-10-19T00:00:00+08:00",
+            "language": "zh",
+            "originalLanguage": "zh",
+            "translationStatus": "not-needed",
+            "fetchedAt": "2026-10-19T07:31:20.517Z",
+            "sourceMethod": "web",
+            "verificationStatus": "confirmed"
+          }
+        ],
+        "images": [
+          {
+            "url": "https://www.stats.gov.cn/sj/zxfb/202610/W020261019330122793931_ORIGIN.png",
+            "sourceUrl": "https://www.stats.gov.cn/sj/zxfb/202610/t20261019_1965618.html"
+          },
+          {
+            "url": "https://www.stats.gov.cn/sj/zxfb/202610/W020261019330122969367_ORIGIN.png",
+            "sourceUrl": "https://www.stats.gov.cn/sj/zxfb/202610/t20261019_1965618.html"
+          },
+          {
+            "url": "https://www.stats.gov.cn/sj/zxfb/202610/W020261019330123100116_ORIGIN.png",
+            "sourceUrl": "https://www.stats.gov.cn/sj/zxfb/202610/t20261019_1965618.html"
+          },
+          {
+            "url": "https://www.stats.gov.cn/sj/zxfb/202610/W020261019330123235604_ORIGIN.png",
+            "sourceUrl": "https://www.stats.gov.cn/sj/zxfb/202610/t20261019_1965618.html"
+          },
+          {
+            "url": "https://www.stats.gov.cn/sj/zxfb/202610/W020261019330123371747_ORIGIN.png",
+            "sourceUrl": "https://www.stats.gov.cn/sj/zxfb/202610/t20261019_1965618.html"
+          }
+        ],
+        "generatedAt": "2026-10-19T02:00:00.000Z"
+      },
+      {
+        "id": "draft-cluster-real-stats-cn-data-1dceqmf",
+        "title": "2026年9月份规模以上工业增加值增长5.5%",
+        "oneLine": "经营环境信号：从环比看， 9 月份，规模以上工业增加值比上月增长 0.61% 。根据季节调整模型自动修正结果，对2025年9月至2026年8月份规模以上工业增加值环比增速进行修订。",
+        "importance": "B",
+        "credibility": "官方来源",
+        "tags": [
+          "B",
+          "industry",
+          "china",
+          "consumer",
+          "operations"
+        ],
+        "industries": [
+          "operationsGrowth",
+          "consumerBrand",
+          "financeInvestment",
+          "ecommerceRetail",
+          "generalPublic"
+        ],
+        "section": "industry",
+        "body": {
+          "background": "出口交货值：是指工业企业自营（委托）出口（包括销往香港、澳门、台湾地区）或交给外贸部门出口的产品价值，以及外商来样、来料加工、来件装配和补偿贸易等生产的产品价值。日均产品产量：是以当月公布的规模以上工业企业总产量除以该月日历天数计算得到。规模以上工业的统计范围为年主营业务收入2000万元及以上的工业企业。",
+          "keyProgress": "9 月份，规模以上工业增加值同比实际增长 5.5% （增加值增速均为扣除价格因素的实际增长率），增速比上月加快 0.3 个百分点。1 — 9 月份，规模以上工业增加值同比增长 5.3% 。分三大门类看， 9 月份，采矿业增加值同比增长 1.3% ，制造业增长 6.0% ，电力、热力、燃气及水生产和供应业增长 5.6% 。分经济类型看， 9 月份，国有控股企业增加值同比增长 3.6% ；",
+          "whyItMatters": "“2026年9月份规模以上工业增加值增长5.5%”反映了需求、成本或市场节奏的一次变化。它不一定马上改变日常生活，但会影响选品、定价、投放、库存和内容方向。",
+          "userRelevance": "如果你从事运营增长、消费品牌、金融投资、电商零售，“2026年9月份规模以上工业增加值增长5.5%”可用于观察需求和成本变化，并辅助定价、选品、投放或经营节奏判断。",
+          "whatToWatch": "接下来要看“2026年9月份规模以上工业增加值增长5.5%”是否出现更细的城市、行业、平台或企业数据，以及这一变化能否连续保持。"
+        },
+        "sourceLinks": [
+          {
+            "title": "国家统计局数据发布",
+            "url": "https://www.stats.gov.cn/sj/zxfb/202610/t20261019_1965617.html",
+            "sourceId": "stats-cn-data",
+            "publishedAt": "2026-10-19T00:00:00+08:00",
+            "language": "zh",
+            "originalLanguage": "zh",
+            "translationStatus": "not-needed",
+            "fetchedAt": "2026-10-19T07:31:20.517Z",
+            "sourceMethod": "web",
+            "verificationStatus": "confirmed"
+          },
+          {
+            "title": "国家统计局数据发布",
+            "url": "https://www.stats.gov.cn/sj/zxfb/202610/t20261019_1965615.html",
+            "sourceId": "stats-cn-data",
+            "publishedAt": "2026-10-19T00:00:00+08:00",
+            "language": "zh",
+            "originalLanguage": "zh",
+            "translationStatus": "not-needed",
+            "fetchedAt": "2026-10-19T07:31:20.517Z",
+            "sourceMethod": "web",
+            "verificationStatus": "confirmed"
+          },
+          {
+            "title": "国家统计局数据发布",
+            "url": "https://www.stats.gov.cn/sj/zxfb/202610/t20261019_1965614.html",
+            "sourceId": "stats-cn-data",
+            "publishedAt": "2026-10-19T00:00:00+08:00",
+            "language": "zh",
+            "originalLanguage": "zh",
+            "translationStatus": "not-needed",
+            "fetchedAt": "2026-10-19T07:31:20.517Z",
+            "sourceMethod": "web",
+            "verificationStatus": "confirmed"
+          },
+          {
+            "title": "国家统计局数据发布",
+            "url": "https://www.stats.gov.cn/sj/zxfb/202610/t20261019_1965611.html",
+            "sourceId": "stats-cn-data",
+            "publishedAt": "2026-10-19T00:00:00+08:00",
+            "language": "zh",
+            "originalLanguage": "zh",
+            "translationStatus": "not-needed",
+            "fetchedAt": "2026-10-19T07:31:20.517Z",
+            "sourceMethod": "web",
+            "verificationStatus": "confirmed"
+          },
+          {
+            "title": "国家统计局数据发布",
+            "url": "https://www.stats.gov.cn/sj/zxfb/202610/t20261019_1965609.html",
+            "sourceId": "stats-cn-data",
+            "publishedAt": "2026-10-19T00:00:00+08:00",
+            "language": "zh",
+            "originalLanguage": "zh",
+            "translationStatus": "not-needed",
+            "fetchedAt": "2026-10-19T07:31:20.517Z",
+            "sourceMethod": "web",
+            "verificationStatus": "confirmed"
+          }
+        ],
+        "images": [
+          {
+            "url": "https://www.stats.gov.cn/sj/zxfb/202610/W020261019368813449367_ORIGIN.png",
+            "sourceUrl": "https://www.stats.gov.cn/sj/zxfb/202610/t20261019_1965617.html"
+          },
+          {
+            "url": "https://www.stats.gov.cn/sj/zxfb/202610/W020261019368813634157_ORIGIN.png",
+            "sourceUrl": "https://www.stats.gov.cn/sj/zxfb/202610/t20261019_1965617.html"
+          },
+          {
+            "url": "https://www.stats.gov.cn/sj/zxfb/202610/W020261019368813797613_ORIGIN.png",
+            "sourceUrl": "https://www.stats.gov.cn/sj/zxfb/202610/t20261019_1965617.html"
+          },
+          {
+            "url": "https://www.stats.gov.cn/sj/zxfb/202610/W020261019368813944842_ORIGIN.png",
+            "sourceUrl": "https://www.stats.gov.cn/sj/zxfb/202610/t20261019_1965617.html"
+          },
+          {
+            "url": "https://www.stats.gov.cn/sj/zxfb/202610/W020261019368814083562_ORIGIN.png",
+            "sourceUrl": "https://www.stats.gov.cn/sj/zxfb/202610/t20261019_1965617.html"
+          }
+        ],
+        "generatedAt": "2026-10-19T02:00:00.000Z"
+      },
+      {
+        "id": "draft-real-stats-cn-data-1mgr9ld",
+        "title": "2026年前三季度居民收入和消费支出情况",
+        "oneLine": "经营环境信号：前三季度，全国居民人均可支配收入 34230 元，比上年同期名义增长 5.3% ，扣除价格因素，实际增长 4.4% 。",
+        "importance": "B",
+        "credibility": "官方来源",
+        "tags": [
+          "B",
+          "industry",
+          "china",
+          "consumer",
+          "operations"
+        ],
+        "industries": [
+          "operationsGrowth",
+          "consumerBrand",
+          "financeInvestment",
+          "ecommerceRetail",
+          "generalPublic"
+        ],
+        "section": "industry",
+        "body": {
+          "background": "由于受城镇化和人口迁移等因素影响，各时期的分城乡、分地区人口构成发生变化，有时会导致全国居民的部分收支项目增速超出分城乡居民相应收支项目增速区间的现象发生。平均数既能直观反映总体情况，又能反映总体结构，便于不同群体收入水平的比较，但容易受极端数据影响；表 2 2026 年前三季度城乡居民收支主要数据 （一）城镇居民人均可支配收入 （二）城镇居民人均消费支出 （三）农村居民人均可支配收入 （四）农村居民人均消费支出 居民可支配收入是指居民可用于最终消费支出和储蓄的总和，即居民可用于自由支配的收入，既包括现金收入，也包括实物收入。",
+          "keyProgress": "分城乡看，城镇居民人均可支配收入 44945 元，增长（以下如无特别说明，均为同比名义增长） 4.5% ，扣除价格因素，实际增长 3.6% ；农村居民人均可支配收入 18809 元，增长 6.3% ，扣除价格因素，实际增长 5.6% 。人均经营净收入 5542 元，增长 6.6% ，占可支配收入的比重为 16.2% ；人均财产净收入 2671 元，增长 1.6% ，占可支配收入的比重为 7.8% ；",
+          "whyItMatters": "“2026年前三季度居民收入和消费支出情况”反映了需求、成本或市场节奏的一次变化。它不一定马上改变日常生活，但会影响选品、定价、投放、库存和内容方向。",
+          "userRelevance": "如果你从事运营增长、消费品牌、金融投资、电商零售，“2026年前三季度居民收入和消费支出情况”可用于观察需求和成本变化，并辅助定价、选品、投放或经营节奏判断。",
+          "whatToWatch": "接下来要看“2026年前三季度居民收入和消费支出情况”是否出现更细的城市、行业、平台或企业数据，以及这一变化能否连续保持。"
+        },
+        "sourceLinks": [
+          {
+            "title": "国家统计局数据发布",
+            "url": "https://www.stats.gov.cn/sj/zxfb/202610/t20261019_1965612.html",
+            "sourceId": "stats-cn-data",
+            "publishedAt": "2026-10-19T00:00:00+08:00",
+            "language": "zh",
+            "originalLanguage": "zh",
+            "translationStatus": "not-needed",
+            "fetchedAt": "2026-10-19T07:31:20.517Z",
+            "sourceMethod": "web",
+            "verificationStatus": "confirmed"
+          }
+        ],
+        "images": [
+          {
+            "url": "https://www.stats.gov.cn/sj/zxfb/202610/W020261019378038827591_ORIGIN.jpg",
+            "sourceUrl": "https://www.stats.gov.cn/sj/zxfb/202610/t20261019_1965612.html"
+          },
+          {
+            "url": "https://www.stats.gov.cn/sj/zxfb/202610/W020261019378039034089_ORIGIN.jpg",
+            "sourceUrl": "https://www.stats.gov.cn/sj/zxfb/202610/t20261019_1965612.html"
+          }
+        ],
+        "generatedAt": "2026-10-19T02:00:00.000Z"
+      },
+      {
+        "id": "draft-cluster-real-moe-cn-rynthg",
+        "title": "关于做好专业学位研究生以实践成果申请学位工作的意见",
+        "oneLine": "政策变化：支持专业学位研究生以实践成果申请学位，是研究生教育面向国家战略、融通实践创新的突破口，是深化学术学位与专业学位研究生教育分类发展，落实新时代教育评价改革要求的重要举措。",
+        "importance": "B",
+        "credibility": "官方来源",
+        "tags": [
+          "B",
+          "industry",
+          "education",
+          "policy",
+          "china"
+        ],
+        "industries": [
+          "teacher",
+          "educationResearch",
+          "generalPublic"
+        ],
+        "section": "industry",
+        "body": {
+          "background": "实践成果是专业学位博士、硕士学位授予的重要依据，需体现学位申请人掌握本专业类别(领域)专业知识的水平与开展本专业研究或实践创新的能力。二、充分发挥专业学位研究生教育指导委员会作用 1.发布本类别《专业学位研究生学位论文与申请学位实践成果基本要求(试行)》(以下简称《基本要求》)。《基本要求》是学位授予单位制定实施细则的重要参考依据，各教指委要切实做好发布和迭代更新工作。",
+          "keyProgress": "以实践成果申请学位，是推动学位评价改革的制度创新，充分体现出推动研究生教育分类发展、强化实践育人的鲜明导向。高质量推进以实践成果申请学位工作，是推动专业学位研究生培养从知识本位向能力贡献本位转变，重建培养机制、重构评价体系、重塑教育生态的重要抓手。要切实保障实践成果的水平与质量，特别是其在专业实践中的应用价值、创新特质及社会贡献，完善以实践成果申请学位的标准、机制和流程，强化对研究生解决实际问题能力的考察。国务院学位委员会办公室组织各专业学位研究生教育指导委员会(以下简称教指委)，立足本专业学位类别人才培养规律，研制相应博士、硕士专业学位类别《基本要求》，明确不同类型(形态)实践成果的来源与形式、内容结构、写作规范及评价参考要素等。",
+          "whyItMatters": "“关于做好专业学位研究生以实践成果申请学位工作的意见”可能影响学校治理、教师工作、课程安排或学生发展。教育从业者可以据此提前关注具体对象、地方执行方式和工作要求。",
+          "userRelevance": "如果你从事教师、教育研究或学校管理，可以重点关注“关于做好专业学位研究生以实践成果申请学位工作的意见”的具体对象、执行方式和地方落地节奏；其他用户可把它作为教育环境背景了解。",
+          "whatToWatch": "接下来要看“关于做好专业学位研究生以实践成果申请学位工作的意见”是否补充执行细则、地方落地安排、时间节点或适用人群说明。"
+        },
+        "sourceLinks": [
+          {
+            "title": "教育部",
+            "url": "http://www.moe.gov.cn/srcsite/A22/moe_826/202610/t20261019_1455041.html",
+            "sourceId": "moe-cn",
+            "publishedAt": "2026-10-19T00:00:00+08:00",
+            "language": "zh",
+            "originalLanguage": "zh",
+            "translationStatus": "not-needed",
+            "fetchedAt": "2026-10-19T07:31:06.035Z",
+            "sourceMethod": "web",
+            "verificationStatus": "confirmed"
+          },
+          {
+            "title": "教育部",
+            "url": "https://www.moe.gov.cn/jyb_xwfb/s271/202610/t20261019_1455091.html",
+            "sourceId": "moe-cn",
+            "publishedAt": "2026-10-19T00:00:00+08:00",
+            "language": "zh",
+            "originalLanguage": "zh",
+            "translationStatus": "not-needed",
+            "fetchedAt": "2026-10-19T07:31:06.035Z",
+            "sourceMethod": "web",
+            "verificationStatus": "confirmed"
+          },
+          {
+            "title": "中国教育在线要闻",
+            "url": "https://www.eol.cn/zhengce/wenjian/202610/t20261019_2783910.shtml",
+            "sourceId": "eol-education",
+            "publishedAt": "2026-10-19T00:00:00+08:00",
+            "language": "zh",
+            "originalLanguage": "zh",
+            "translationStatus": "not-needed",
+            "fetchedAt": "2026-10-19T07:31:06.816Z",
+            "sourceMethod": "web",
+            "verificationStatus": "pending"
+          },
+          {
+            "title": "中国教育在线要闻",
+            "url": "https://www.eol.cn/news/yaowen/202610/t20261019_2783905.shtml",
+            "sourceId": "eol-education",
+            "publishedAt": "2026-10-19T00:00:00+08:00",
+            "language": "zh",
+            "originalLanguage": "zh",
+            "translationStatus": "not-needed",
+            "fetchedAt": "2026-10-19T07:31:06.816Z",
+            "sourceMethod": "web",
+            "verificationStatus": "pending"
+          }
+        ],
+        "images": [
+          {
+            "url": "https://www.eol.cn/images/ad/2017_img/arrow.png",
+            "sourceUrl": "https://www.eol.cn/zhengce/wenjian/202610/t20261019_2783910.shtml"
+          },
+          {
+            "url": "https://www.eol.cn/images/ad/2017_img/phone.png",
+            "sourceUrl": "https://www.eol.cn/zhengce/wenjian/202610/t20261019_2783910.shtml"
+          },
+          {
+            "url": "https://img.eol.cn/e_images/gk/2020/newzsgk.jpg",
+            "sourceUrl": "https://www.eol.cn/zhengce/wenjian/202610/t20261019_2783910.shtml"
+          },
+          {
+            "url": "https://img.eol.cn/e_images/gk/2023/zsky2023.jpg",
+            "sourceUrl": "https://www.eol.cn/zhengce/wenjian/202610/t20261019_2783910.shtml"
+          },
+          {
+            "url": "https://www.eol.cn/e_images/index/2018/acabridge.png",
+            "sourceUrl": "https://www.eol.cn/zhengce/wenjian/202610/t20261019_2783910.shtml"
+          }
+        ],
+        "generatedAt": "2026-10-19T02:00:00.000Z"
+      },
+      {
+        "id": "draft-real-eol-education-lo92d7",
+        "title": "国考连续两年缩招，应届生的机会变少了吗？",
+        "oneLine": "最新进展：国考连续两年缩招，应届生的机会变少了吗。",
+        "importance": "B",
+        "credibility": "待确认",
+        "tags": [
+          "B",
+          "industry",
+          "education",
+          "policy",
+          "china"
+        ],
+        "industries": [
+          "teacher",
+          "educationResearch",
+          "generalPublic"
+        ],
+        "section": "industry",
+        "body": {
+          "background": "合作邮箱：bianji@eol.cn 官方微信ID：eoleoleol 近日，国家公务员局发布2027年度国考公告：2027年度国考计划招录3.57万人，比去年减少约2400人。应届生的报考机会，究竟发生了什么变化？去年，官方公布设置约2.6万个计划，主要招录应届高校毕业生；",
+          "keyProgress": "这意味着，对多数缺少工作经历的应届生而言，筛选职位仍应重点关注市地及以下直属机构，再逐项核对专业、学历、学位等要求。今年《报考指南》明确，符合条件的2025年、2026年普通高校毕业生，可以按应届高校毕业生对待。条件包括在规定的两年择业期内未落实工作单位，以及户口、档案、组织关系按要求保留。今年明确，考试开始15分钟后，禁止进入考场。",
+          "whyItMatters": "“国考连续两年缩招，应届生的机会变少了吗”可能影响学校治理、教师工作、课程安排或学生发展。教育从业者可以据此提前关注具体对象、地方执行方式和工作要求。",
+          "userRelevance": "如果你从事教师、教育研究或学校管理，可以重点关注“国考连续两年缩招，应届生的机会变少了吗”的具体对象、执行方式和地方落地节奏；其他用户可把它作为教育环境背景了解。",
+          "whatToWatch": "接下来要看“国考连续两年缩招，应届生的机会变少了吗”是否补充执行细则、地方落地安排、时间节点或适用人群说明。"
+        },
+        "sourceLinks": [
+          {
+            "title": "中国教育在线要闻",
+            "url": "https://www.eol.cn/news/guancha/202610/t20261019_2783813.shtml",
+            "sourceId": "eol-education",
+            "publishedAt": "2026-10-19T00:00:00+08:00",
+            "language": "zh",
+            "originalLanguage": "zh",
+            "translationStatus": "not-needed",
+            "fetchedAt": "2026-10-19T07:31:06.816Z",
+            "sourceMethod": "web",
+            "verificationStatus": "pending"
+          }
+        ],
+        "images": [
+          {
+            "url": "https://www.eol.cn/images/ad/2017_img/arrow.png",
+            "sourceUrl": "https://www.eol.cn/news/guancha/202610/t20261019_2783813.shtml"
+          },
+          {
+            "url": "https://www.eol.cn/images/ad/2017_img/phone.png",
+            "sourceUrl": "https://www.eol.cn/news/guancha/202610/t20261019_2783813.shtml"
+          },
+          {
+            "url": "https://img.eol.cn/e_images/gk/2020/newzsgk.jpg",
+            "sourceUrl": "https://www.eol.cn/news/guancha/202610/t20261019_2783813.shtml"
+          },
+          {
+            "url": "https://img.eol.cn/e_images/gk/2023/zsky2023.jpg",
+            "sourceUrl": "https://www.eol.cn/news/guancha/202610/t20261019_2783813.shtml"
+          },
+          {
+            "url": "https://www.eol.cn/e_images/index/2018/acabridge.png",
+            "sourceUrl": "https://www.eol.cn/news/guancha/202610/t20261019_2783813.shtml"
+          }
+        ],
+        "generatedAt": "2026-10-19T02:00:00.000Z"
+      },
+      {
+        "id": "draft-real-eol-education-774ds",
+        "title": "教育部关工委第七次工作会议暨成立35周年纪念大会召开",
+        "oneLine": "最新进展：教育部关工委第七次工作会议暨成立35周年纪念大会召开。",
+        "importance": "B",
+        "credibility": "待确认",
+        "tags": [
+          "B",
+          "industry",
+          "education",
+          "policy",
+          "china"
+        ],
+        "industries": [
+          "teacher",
+          "educationResearch",
+          "generalPublic"
+        ],
+        "section": "industry",
+        "body": {
+          "background": "合作邮箱：bianji@eol.cn 官方微信ID：eoleoleol 10月18日，教育部关工委第七次工作会议暨成立35周年纪念大会在京召开。第十届全国人大常委会副委员长、中国关工委主任顾秀莲，教育部党组成员、副部长杜江峰出席会议并讲话。教育部关工委顾问朱新均、田淑兰出席会议。",
+          "keyProgress": "杜江峰指出，各级教育系统关工委围绕大局谋划组织、结合实践创新发展，有力促进青少年思想政治工作入脑入心，有力推动教育改革重点任务落地见效，有力引领教育家精神赓续传承。他强调，作为推进教育强国建设的重要力量，各级教育系统关工委要组织广大“五老”发挥独特优势，在助力塑造立德树人新格局、促进学生健康全面发展、服务基础教育优质均衡发展和高素质教师队伍建设方面展现更大作为，各级教育行政部门和学校党组织要进一步加强对关工委工作的全面领导和支持保障。教育部关工委主任李卫红主持会议并作工作报告。顾秀莲指出，教育系统关工委始终走在全国关心下一代工作前列，是全国关工委系统的一面旗帜。",
+          "whyItMatters": "“教育部关工委第七次工作会议暨成立35周年纪念大会召开”可能影响学校治理、教师工作、课程安排或学生发展。教育从业者可以据此提前关注具体对象、地方执行方式和工作要求。",
+          "userRelevance": "如果你从事教师、教育研究或学校管理，可以重点关注“教育部关工委第七次工作会议暨成立35周年纪念大会召开”的具体对象、执行方式和地方落地节奏；其他用户可把它作为教育环境背景了解。",
+          "whatToWatch": "接下来要看“教育部关工委第七次工作会议暨成立35周年纪念大会召开”是否补充执行细则、地方落地安排、时间节点或适用人群说明。"
+        },
+        "sourceLinks": [
+          {
+            "title": "中国教育在线要闻",
+            "url": "https://www.eol.cn/news/yaowen/202610/t20261019_2783746.shtml",
+            "sourceId": "eol-education",
+            "publishedAt": "2026-10-19T00:00:00+08:00",
+            "language": "zh",
+            "originalLanguage": "zh",
+            "translationStatus": "not-needed",
+            "fetchedAt": "2026-10-19T07:31:06.816Z",
+            "sourceMethod": "web",
+            "verificationStatus": "pending"
+          }
+        ],
+        "images": [
+          {
+            "url": "https://www.eol.cn/images/ad/2017_img/arrow.png",
+            "sourceUrl": "https://www.eol.cn/news/yaowen/202610/t20261019_2783746.shtml"
+          },
+          {
+            "url": "https://www.eol.cn/images/ad/2017_img/phone.png",
+            "sourceUrl": "https://www.eol.cn/news/yaowen/202610/t20261019_2783746.shtml"
+          },
+          {
+            "url": "https://img.eol.cn/e_images/gk/2020/newzsgk.jpg",
+            "sourceUrl": "https://www.eol.cn/news/yaowen/202610/t20261019_2783746.shtml"
+          },
+          {
+            "url": "https://img.eol.cn/e_images/gk/2023/zsky2023.jpg",
+            "sourceUrl": "https://www.eol.cn/news/yaowen/202610/t20261019_2783746.shtml"
+          },
+          {
+            "url": "https://www.eol.cn/e_images/index/2018/acabridge.png",
+            "sourceUrl": "https://www.eol.cn/news/yaowen/202610/t20261019_2783746.shtml"
+          }
+        ],
+        "generatedAt": "2026-10-19T02:00:00.000Z"
+      },
+      {
+        "id": "draft-real-eol-education-1w4j24b",
+        "title": "武警士官学校正式更名为武警警士学院",
+        "oneLine": "政策变化：合作邮箱：bianji@eol.cn 官方微信ID：eoleoleol 10月18日，武警警士学院发布消息称，近日，武警警士学院举行武警部队向学院授旗仪式和揭牌仪式。",
+        "importance": "B",
+        "credibility": "待确认",
+        "tags": [
+          "B",
+          "industry",
+          "education",
+          "policy",
+          "china"
+        ],
+        "industries": [
+          "teacher",
+          "educationResearch",
+          "generalPublic"
+        ],
+        "section": "industry",
+        "body": {
+          "background": "原 武警士官学校正式更名为武警警士学院 ，是武警部队唯一一所独立办学的警士院校，开启新的历史征程。公开信息显示，该校办学历史可追溯至1984年，是武警部队首批“队改校”院校之一。2017年以原武警杭州士官学校、原武警石家庄士官学校为基础整合组建武警士官学校，主要面向信息通信、装备维修、后勤保障等领域培养专业警士人才。",
+          "keyProgress": "② 本站注明稿件来源为其他媒体的文/图等稿件均为转载稿，本站转载出于非商业性的教育和科研之目的，并不意味着赞同其观点或证实其内容的真实性。如转载稿涉及版权等问题，请作者在两周内速来电或来函联系。",
+          "whyItMatters": "“武警士官学校正式更名为武警警士学院”可能影响学校治理、教师工作、课程安排或学生发展。教育从业者可以据此提前关注具体对象、地方执行方式和工作要求。",
+          "userRelevance": "如果你从事教师、教育研究或学校管理，可以重点关注“武警士官学校正式更名为武警警士学院”的具体对象、执行方式和地方落地节奏；其他用户可把它作为教育环境背景了解。",
+          "whatToWatch": "接下来要看“武警士官学校正式更名为武警警士学院”是否补充执行细则、地方落地安排、时间节点或适用人群说明。"
+        },
+        "sourceLinks": [
+          {
+            "title": "中国教育在线要闻",
+            "url": "https://www.eol.cn/news/dongtai/202610/t20261019_2783833.shtml",
+            "sourceId": "eol-education",
+            "publishedAt": "2026-10-19T00:00:00+08:00",
+            "language": "zh",
+            "originalLanguage": "zh",
+            "translationStatus": "not-needed",
+            "fetchedAt": "2026-10-19T07:31:06.816Z",
+            "sourceMethod": "web",
+            "verificationStatus": "pending"
+          }
+        ],
+        "images": [
+          {
+            "url": "https://www.eol.cn/images/ad/2017_img/arrow.png",
+            "sourceUrl": "https://www.eol.cn/news/dongtai/202610/t20261019_2783833.shtml"
+          },
+          {
+            "url": "https://www.eol.cn/images/ad/2017_img/phone.png",
+            "sourceUrl": "https://www.eol.cn/news/dongtai/202610/t20261019_2783833.shtml"
+          },
+          {
+            "url": "https://img.eol.cn/e_images/gk/2020/newzsgk.jpg",
+            "sourceUrl": "https://www.eol.cn/news/dongtai/202610/t20261019_2783833.shtml"
+          },
+          {
+            "url": "https://img.eol.cn/e_images/gk/2023/zsky2023.jpg",
+            "sourceUrl": "https://www.eol.cn/news/dongtai/202610/t20261019_2783833.shtml"
+          },
+          {
+            "url": "https://www.eol.cn/e_images/index/2018/acabridge.png",
+            "sourceUrl": "https://www.eol.cn/news/dongtai/202610/t20261019_2783833.shtml"
+          }
+        ],
+        "generatedAt": "2026-10-19T02:00:00.000Z"
+      },
+      {
+        "id": "draft-real-eol-education-mp938z",
+        "title": "2027届秋招：哪些专业更吃香？",
+        "oneLine": "最新进展：2027届秋招：哪些专业更吃香。",
+        "importance": "B",
+        "credibility": "待确认",
+        "tags": [
+          "B",
+          "industry",
+          "education",
+          "policy",
+          "china"
+        ],
+        "industries": [
+          "teacher",
+          "educationResearch",
+          "generalPublic"
+        ],
+        "section": "industry",
+        "body": {
+          "background": "10月13日，智联招聘发布《2026年三季度人才市场热点快报》，基于招聘平台大数据，对今年秋招的招聘需求、岗位薪酬和人才供需情况进行了分析。比值越高，说明相对于求职人数，企业发布的招聘岗位越多。报告进一步梳理了招聘增长较快行业的从业者专业背景。",
+          "keyProgress": "合作邮箱：bianji@eol.cn 官方微信ID：eoleoleol 2027届高校毕业生秋季招聘正在进行。面对就业市场的变化，哪些岗位还在扩招？报告显示， 数据工程师面向应届生的招聘职位数同比增长57.4%，临床研究/试验增长50.6%，芯片工程师增长43.6%，人工智能工程师增长36.9% 。这些增长较快的岗位，主要集中在数字技术、芯片研发、生物医药等领域，反映出企业对专业技术人才的需求正在持续释放。",
+          "whyItMatters": "“2027届秋招：哪些专业更吃香”可能影响学校治理、教师工作、课程安排或学生发展。教育从业者可以据此提前关注具体对象、地方执行方式和工作要求。",
+          "userRelevance": "如果你从事教师、教育研究或学校管理，可以重点关注“2027届秋招：哪些专业更吃香”的具体对象、执行方式和地方落地节奏；其他用户可把它作为教育环境背景了解。",
+          "whatToWatch": "接下来要看“2027届秋招：哪些专业更吃香”是否补充执行细则、地方落地安排、时间节点或适用人群说明。"
+        },
+        "sourceLinks": [
+          {
+            "title": "中国教育在线要闻",
+            "url": "https://www.eol.cn/news/guancha/202610/t20261019_2783810.shtml",
+            "sourceId": "eol-education",
+            "publishedAt": "2026-10-19T00:00:00+08:00",
+            "language": "zh",
+            "originalLanguage": "zh",
+            "translationStatus": "not-needed",
+            "fetchedAt": "2026-10-19T07:31:06.816Z",
+            "sourceMethod": "web",
+            "verificationStatus": "pending"
+          }
+        ],
+        "images": [
+          {
+            "url": "https://www.eol.cn/images/ad/2017_img/arrow.png",
+            "sourceUrl": "https://www.eol.cn/news/guancha/202610/t20261019_2783810.shtml"
+          },
+          {
+            "url": "https://www.eol.cn/images/ad/2017_img/phone.png",
+            "sourceUrl": "https://www.eol.cn/news/guancha/202610/t20261019_2783810.shtml"
+          },
+          {
+            "url": "https://img.eol.cn/e_images/gk/2020/newzsgk.jpg",
+            "sourceUrl": "https://www.eol.cn/news/guancha/202610/t20261019_2783810.shtml"
+          },
+          {
+            "url": "https://img.eol.cn/e_images/gk/2023/zsky2023.jpg",
+            "sourceUrl": "https://www.eol.cn/news/guancha/202610/t20261019_2783810.shtml"
+          },
+          {
+            "url": "https://www.eol.cn/e_images/index/2018/acabridge.png",
+            "sourceUrl": "https://www.eol.cn/news/guancha/202610/t20261019_2783810.shtml"
+          }
+        ],
+        "generatedAt": "2026-10-19T02:00:00.000Z"
+      }
+    ],
+    "estimatedReadMinutes": 30,
+    "pageCount": 3,
+    "topCardId": "draft-real-xinhua-world-jtqyiu",
+    "generatedAt": "2026-10-19T02:00:00.000Z",
+    "pushSlots": [
+      "08:30",
+      "12:30",
+      "21:30"
+    ],
+    "edition": "morning",
+    "editionLabel": "晨报",
+    "coverageWindow": {
+      "start": "2026-10-18T00:00:00+08:00",
+      "end": "2026-10-19T10:00:00+08:00"
+    },
+    "editionCardIds": [
+      "draft-real-xinhua-world-jtqyiu",
+      "draft-cluster-real-france24-middle-east-rss-1gqpyyk",
+      "draft-real-xinhua-world-1l9cels",
+      "draft-real-xinhua-world-1tq5uzn",
+      "draft-real-xinhua-world-2avsj5",
+      "draft-real-npr-world-rss-15xwzmo",
+      "draft-real-un-news-rss-1w036fa",
+      "draft-real-gov-uk-news-170ynz7",
+      "draft-real-city-news-rss:%E4%B8%AD%E5%9B%BD-%E4%B8%8A%E6%B5%B7-1itvage",
+      "draft-real-xinhua-tech-1anqs8l",
+      "draft-real-xinhua-tech-ykd147",
+      "draft-real-xinhua-tech-lcvzpq",
+      "draft-real-stats-cn-data-8awlz3",
+      "draft-cluster-real-stats-cn-data-1dceqmf",
+      "draft-real-stats-cn-data-1mgr9ld",
+      "draft-cluster-real-moe-cn-rynthg",
+      "draft-real-eol-education-lo92d7",
+      "draft-real-eol-education-774ds",
+      "draft-real-eol-education-1w4j24b",
+      "draft-real-eol-education-mp938z"
+    ],
+    "carriedCardIds": []
+  }
+}

@@ -1,0 +1,327 @@
+{
+  "version": 1,
+  "date": "2026-10-20",
+  "generatedAt": "2026-10-20T07:32:26.108Z",
+  "status": "review",
+  "reviewMode": "generated",
+  "candidateSha256": "07020342d0e43f8c3062908a95029131ebe0b3394cf44ba1b47df4d8f5dbc407",
+  "counts": {
+    "cards": 20,
+    "pages": 3,
+    "rawItems": 313,
+    "freshCandidates": 265,
+    "publishableCards": 38,
+    "reviewableCards": 38,
+    "rejectedCards": 12,
+    "blockers": 0,
+    "warnings": 44
+  },
+  "findings": [
+    {
+      "level": "warning",
+      "code": "source-fetch-failures",
+      "message": "有 4 个来源抓取失败，需要确认是否影响当天覆盖面。"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "原文信息量有限，需要确认是否足以支持卡片结论。",
+      "cardId": "draft-real-xinhua-world-1ydv87e",
+      "cardTitle": "伊朗称122艘船只被列入霍尔木兹海峡“违规名单”"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "没有抓到完整正文，目前使用候选摘要回退。",
+      "cardId": "draft-real-france24-middle-east-rss-k6g0tf",
+      "cardTitle": "通胀持续挤压黎巴嫩家庭，经济危机难解"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "原文信息量有限，需要确认是否足以支持卡片结论。",
+      "cardId": "draft-real-france24-middle-east-rss-k6g0tf",
+      "cardTitle": "通胀持续挤压黎巴嫩家庭，经济危机难解"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "没有抓到完整正文，目前使用候选摘要回退。",
+      "cardId": "draft-real-france24-middle-east-rss-1hkos1h",
+      "cardTitle": "特朗普在10月27日选举前支持陷入困境的以色列总理内塔尼亚胡"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "原文信息量有限，需要确认是否足以支持卡片结论。",
+      "cardId": "draft-real-france24-middle-east-rss-1hkos1h",
+      "cardTitle": "特朗普在10月27日选举前支持陷入困境的以色列总理内塔尼亚胡"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "原文篇幅较短且不是官方或主流来源，需要发布前复核。",
+      "cardId": "draft-real-cnbc-world-rss-15dkh4i",
+      "cardTitle": "图片：超过50万人走上街头，法国抗议活动演变为暴力冲突"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "官方或主流媒体正文较短，但来源和事实可追溯，需要人工确认是否保留。",
+      "cardId": "draft-real-xinhua-world-148ug0l",
+      "cardTitle": "外交部：坚决反对菲方个别人恶意炒作涉华议题"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "一句话导读和事件背景重复度偏高，需要补充不同的上下文。",
+      "cardId": "draft-real-xinhua-world-148ug0l",
+      "cardTitle": "外交部：坚决反对菲方个别人恶意炒作涉华议题"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "一句话导读偏短，可能没有讲清楚核心事实。",
+      "cardId": "draft-real-gov-uk-news-1p6qmcf",
+      "cardTitle": "请就建筑规范第K部分的未来发表意见"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "官方或主流媒体正文较短，但来源和事实可追溯，需要人工确认是否保留。",
+      "cardId": "draft-real-npr-world-rss-18zsm9d",
+      "cardTitle": "世界粮食计划署负责人称：“加沙的生活绝对残酷。”"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "官方或主流媒体正文较短，但来源和事实可追溯，需要人工确认是否保留。",
+      "cardId": "draft-real-xinhua-tech-lmvlep",
+      "cardTitle": "第140届广交会：搭载人工智能技术新产品集中登场"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "原文信息量有限，需要确认是否足以支持卡片结论。",
+      "cardId": "draft-real-arxiv-cs-api-1wppxr4",
+      "cardTitle": "相同模拟，不同证据：检索工具输出在何处导致大语言模型智能体准确性下降"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "原文篇幅较短且不是官方或主流来源，需要发布前复核。",
+      "cardId": "draft-cluster-real-techcrunch-ai-rss-135ye6d",
+      "cardTitle": "据报道，Nscale 和 Anthropic 正在就又一笔价值 450 亿美元的算力交易进行谈判。"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "原文篇幅较短且不是官方或主流来源，需要发布前复核。",
+      "cardId": "draft-cluster-real-techcrunch-ai-rss-1maay1c",
+      "cardTitle": "Tenstorrent估值达62亿美元，以扩大开源AI芯片规模"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "原文篇幅较短且不是官方或主流来源，需要发布前复核。",
+      "cardId": "draft-cluster-real-techcrunch-ai-rss-1s8k2ac",
+      "cardTitle": "迪士尼同意雇佣Character AI的大部分员工"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "原文篇幅较短且不是官方或主流来源，需要发布前复核。",
+      "cardId": "draft-cluster-real-eol-education-g76ftq",
+      "cardTitle": "2025、2026年度学位点动态调整和自主审核结果公布"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "原文篇幅较短且不是官方或主流来源，需要发布前复核。",
+      "cardId": "draft-cluster-real-techcrunch-ai-rss-1bgcjuf",
+      "cardTitle": "Anthropic 表示，其将把 5% 的股份捐献给一个“公益基金”。"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "原文信息量有限，需要确认是否足以支持卡片结论。",
+      "cardId": "draft-cluster-real-theverge-ai-rss-1nolr03",
+      "cardTitle": "一名女子因阻挡配送机器人而在费城被捕"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "原文篇幅较短且不是官方或主流来源，需要发布前复核。",
+      "cardId": "draft-real-eol-education-o0i4od",
+      "cardTitle": "武警士官学校正式更名为武警警士学院"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "一句话导读偏短，可能没有讲清楚核心事实。",
+      "cardId": "draft-real-eol-education-1recxot",
+      "cardTitle": "2027届秋招：哪些专业更吃香？"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "原文信息量有限，需要确认是否足以支持卡片结论。",
+      "cardId": "draft-real-arxiv-cs-api-1uk787c",
+      "cardTitle": "OpenVLHarness：基于多模态记忆的真实世界视觉智能体工具使用"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "原文信息量有限，需要确认是否足以支持卡片结论。",
+      "cardId": "draft-real-arxiv-cs-api-hrovku",
+      "cardTitle": "基于视觉可归因的在线策略自蒸馏强化学习"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "原文信息量有限，需要确认是否足以支持卡片结论。",
+      "cardId": "draft-real-arxiv-cs-api-10bghpj",
+      "cardTitle": "CoopUQ：通过不确定性感知的协同预测实现鲁棒的多机器人社交导航"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "原文信息量有限，需要确认是否足以支持卡片结论。",
+      "cardId": "draft-real-arxiv-cs-api-qm4p5f",
+      "cardTitle": "物理 RSI 能力源自何处？——基于“大语言模型作为策略”的观测缩放定律"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "原文信息量有限，需要确认是否足以支持卡片结论。",
+      "cardId": "draft-real-arxiv-cs-api-w2e5x3",
+      "cardTitle": "WeAct：动态权重切换作为智能体动作"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "原文信息量有限，需要确认是否足以支持卡片结论。",
+      "cardId": "draft-real-arxiv-cs-api-1o4a1xa",
+      "cardTitle": "训练一个富有想象力的智能体"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "一句话导读偏短，可能没有讲清楚核心事实。",
+      "cardId": "draft-real-arxiv-cs-api-1o4a1xa",
+      "cardTitle": "训练一个富有想象力的智能体"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "原文信息量有限，需要确认是否足以支持卡片结论。",
+      "cardId": "draft-real-arxiv-cs-api-1f6qkgo",
+      "cardTitle": "AnyGoal：超越专家轨迹的世界模型泛化"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "原文信息量有限，需要确认是否足以支持卡片结论。",
+      "cardId": "draft-real-arxiv-cs-api-ilsbza",
+      "cardTitle": "LatComm：用于大语言模型间潜在通信的可复用上下文压缩"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "原文信息量有限，需要确认是否足以支持卡片结论。",
+      "cardId": "draft-real-arxiv-cs-api-15bt1pq",
+      "cardTitle": "长上下文线性注意力的克罗内克德尔塔规则"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "原文信息量有限，需要确认是否足以支持卡片结论。",
+      "cardId": "draft-real-arxiv-cs-api-1fpzsxj",
+      "cardTitle": "多项式系统的可控性是不可判定的，且不属于递归可枚举集"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "原文信息量有限，需要确认是否足以支持卡片结论。",
+      "cardId": "draft-real-arxiv-cs-api-1lj8pg2",
+      "cardTitle": "ProteinGeoBench：前沿结构生物学智能体擅长检索，却在几何理解上迷失"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "原文信息量有限，需要确认是否足以支持卡片结论。",
+      "cardId": "draft-real-arxiv-cs-api-1vcogv8",
+      "cardTitle": "野外环境中的智能体世界模型：计算机使用智能体环境合成"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "原文信息量有限，需要确认是否足以支持卡片结论。",
+      "cardId": "draft-real-arxiv-cs-api-agjyt7",
+      "cardTitle": "RefCraft：通过Web开发基准测试视觉参考条件化的智能体生成"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "原文信息量有限，需要确认是否足以支持卡片结论。",
+      "cardId": "draft-real-arxiv-cs-api-up8a4b",
+      "cardTitle": "AfriBED：面向低资源非洲语言的语音识别偏见评估数据集"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "原文信息量有限，需要确认是否足以支持卡片结论。",
+      "cardId": "draft-real-arxiv-cs-api-1ulw0mh",
+      "cardTitle": "最佳下一步行动：面向业务行动目标的因果约束离线强化学习"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "原文信息量有限，需要确认是否足以支持卡片结论。",
+      "cardId": "draft-real-arxiv-cs-api-16ur9f7",
+      "cardTitle": "数据中心振荡隔离与电网支撑：基本限制与源选择性控制"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "原文信息量有限，需要确认是否足以支持卡片结论。",
+      "cardId": "draft-real-arxiv-cs-api-1yy9bf7",
+      "cardTitle": "SOMA：使用系统一模型对系统二推理进行持续监控与干预"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "原文信息量有限，需要确认是否足以支持卡片结论。",
+      "cardId": "draft-real-arxiv-cs-api-htc3cp",
+      "cardTitle": "《电话游戏》：在“机器人战争”中利用博弈论和大语言模型对抗电话诈骗"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "原文信息量有限，需要确认是否足以支持卡片结论。",
+      "cardId": "draft-real-arxiv-cs-api-iym8ug",
+      "cardTitle": "通过李对称群实现精确模型降阶"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "一句话导读偏短，可能没有讲清楚核心事实。",
+      "cardId": "draft-real-arxiv-cs-api-iym8ug",
+      "cardTitle": "通过李对称群实现精确模型降阶"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "原文信息量有限，需要确认是否足以支持卡片结论。",
+      "cardId": "draft-real-arxiv-cs-api-ombx26",
+      "cardTitle": "模拟先验用于基于模型的强化学习在自主赛车中的快速适应"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "一句话导读偏短，可能没有讲清楚核心事实。",
+      "cardId": "draft-real-hr-dive-rss-qhaxzd",
+      "cardTitle": "管理飙升的医疗成本的三个建议"
+    }
+  ]
+}

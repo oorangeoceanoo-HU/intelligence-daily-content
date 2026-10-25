@@ -1,0 +1,833 @@
+{
+  "schemaVersion": 2,
+  "publishedAt": "2026-10-25T02:00:00.000Z",
+  "issue": {
+    "id": "daily-public-2026-10-25",
+    "date": "2026-10-25",
+    "userId": "public",
+    "cards": [
+      {
+        "id": "draft-real-xinhua-world-rl0cen",
+        "title": "八国外长呼吁重开霍尔木兹海峡",
+        "oneLine": "政策变化：土耳其、埃及、巴基斯坦、沙特阿拉伯、英国、法国、德国和意大利八国外交部长23日在土耳其举行会议，呼吁立即重新开放霍尔木兹海峡，反对对伊朗采取军事行动，并强调保障黑海海上航行安全。",
+        "importance": "S",
+        "credibility": "主流媒体",
+        "tags": [
+          "S",
+          "mustKnow",
+          "industry",
+          "world",
+          "policy"
+        ],
+        "industries": [
+          "generalPublic",
+          "financeInvestment",
+          "operationsGrowth",
+          "contentCreator"
+        ],
+        "section": "front",
+        "body": {
+          "background": "会议于23日下午在土耳其最大城市伊斯坦布尔举行，与会各方就地区冲突、海上航运安全及其对全球经济的影响等议题交换意见。土耳其外交部长费丹在会后表示，当前多场冲突持续影响全球能源供应、粮食安全和自由贸易。霍尔木兹海峡、曼德海峡和黑海等重要海上通道面临的风险进一步加剧了全球经济面临的压力。",
+          "keyProgress": "谈及乌克兰危机，费丹强调有必要推动停火并达成全面和平协议。与会各方一致认为，应通过对话防止冲突进一步扩大，并呼吁重新开放霍尔木兹海峡、停止对沙特阿拉伯的袭击。各方同时表示，反对对伊朗采取新的军事行动，认为此举可能导致冲突进一步蔓延。他还表示，在短期内难以实现停火的情况下，保障海上航行自由仍是重要诉求。",
+          "whyItMatters": "“霍尔木兹海峡局势”如果继续发展，可能通过能源价格、航运、贸易、汇率或市场预期传导到国内。了解它的意义在于判断后续风险，而不只停留在事件本身。",
+          "userRelevance": "即使你不在霍尔木兹海峡，“霍尔木兹海峡局势”也可能通过能源价格、国际航运、贸易成本和市场预期间接影响国内生活与工作判断。",
+          "whatToWatch": "接下来要看霍尔木兹海峡实际通航量、油价和保险成本是否继续变化，以及美伊双方是否出现新的正式行动。"
+        },
+        "sourceLinks": [
+          {
+            "title": "新华网国际",
+            "url": "https://www.news.cn/world/20261024/b4b7d56a6a2d4ae9a5e9d2857650533d/c.html",
+            "sourceId": "xinhua-world",
+            "publishedAt": "2026-10-24T00:00:00+08:00",
+            "language": "zh",
+            "originalLanguage": "zh",
+            "translationStatus": "not-needed",
+            "fetchedAt": "2026-10-25T07:26:19.522Z",
+            "sourceMethod": "web",
+            "verificationStatus": "confirmed"
+          }
+        ],
+        "images": [],
+        "generatedAt": "2026-10-25T02:00:00.000Z"
+      },
+      {
+        "id": "draft-real-xinhua-world-rdvhpw",
+        "title": "美国调整对加拿大商品加征关税适用范围",
+        "oneLine": "政策变化：白宫23日发布公告说，美国总统特朗普当日签署文件，调整对加拿大商品加征关税适用范围，相关调整将从美东时间10月30日开始生效。",
+        "importance": "S",
+        "credibility": "主流媒体",
+        "tags": [
+          "S",
+          "mustKnow",
+          "industry",
+          "world",
+          "policy"
+        ],
+        "industries": [
+          "generalPublic",
+          "financeInvestment",
+          "operationsGrowth",
+          "contentCreator"
+        ],
+        "section": "front",
+        "body": {
+          "background": "根据白宫发布的信息，相关调整依据《斯穆特-霍利关税法》第338条款作出，胶合板、漂白纸、纸板、塑料箱盒等商品将不再被额外征收50%的从价关税，而阀门、地毯等商品将被加征50%的从价关税。多家外媒分析，豁免加征关税的加拿大商品对美国缅因州至关重要，特朗普在国会中期选举压力下作出上述调整，旨在帮助共和党参议员苏珊·柯林斯在缅因州激烈的连任选战中争取支持。特朗普7月20日签署多个公告，依据《斯穆特-霍利关税法》第338条款对从加拿大进口的红酒、曲棍球棒和水泥等数百项特定商品加征50%关税。",
+          "keyProgress": "这条信息的核心变化围绕“美国调整对加拿大商品加征关税适用范围”展开，后续需要重点确认影响范围、执行节点和是否出现更多来源确认。",
+          "whyItMatters": "“美国调整对加拿大商品加征关税适用范围”如果继续发展，可能通过能源价格、航运、贸易、汇率或市场预期传导到国内。了解它的意义在于判断后续风险，而不只停留在事件本身。",
+          "userRelevance": "即使你不在美国，“美国调整对加拿大商品加征关税适用范围”也可能通过能源价格、国际航运、贸易成本和市场预期间接影响国内生活与工作判断。",
+          "whatToWatch": "接下来要看“美国调整对加拿大商品加征关税适用范围”是否出现新的官方信息、后续行动，以及它与中国出行、贸易或公共判断的关联是否扩大。"
+        },
+        "sourceLinks": [
+          {
+            "title": "新华网国际",
+            "url": "https://www.news.cn/world/20261024/df8148ce75724400aa0c63c0a7ab2ed9/c.html",
+            "sourceId": "xinhua-world",
+            "publishedAt": "2026-10-24T00:00:00+08:00",
+            "language": "zh",
+            "originalLanguage": "zh",
+            "translationStatus": "not-needed",
+            "fetchedAt": "2026-10-25T07:26:19.522Z",
+            "sourceMethod": "web",
+            "verificationStatus": "confirmed"
+          }
+        ],
+        "images": [],
+        "generatedAt": "2026-10-25T02:00:00.000Z"
+      },
+      {
+        "id": "draft-real-mofcom-trade-ubbkxu",
+        "title": "商务部新闻发言人就美发布新版对外投资限制拟议规则答记者问",
+        "oneLine": "政策变化：问：10月23日，美财政部发布新版对外投资限制拟议规则，征求公众评论意见。",
+        "importance": "S",
+        "credibility": "官方来源",
+        "tags": [
+          "S",
+          "industry",
+          "world",
+          "china",
+          "policy"
+        ],
+        "industries": [
+          "generalPublic",
+          "financeInvestment",
+          "operationsGrowth",
+          "ecommerceRetail",
+          "consumerBrand"
+        ],
+        "section": "industry",
+        "body": {
+          "background": "该拟议规则歧视性扩大对华投资限制范围，加大限制力度，是典型的泛化国家安全做法，违背两国元首达成的重要共识，干扰中美两国企业正常经贸合作，破坏国际经贸秩序。中方对此表示严重关切、坚决反对，将密切关注事态后续发展，保留采取相应措施的权利。中国拥有超大规模市场，蕴含巨大消费和投资潜力，投资中国就是投资未来。",
+          "keyProgress": "中方敦促美方尊重市场经济规律，停止泛化国家安全概念，停止将经贸问题政治化、武器化，为中美经贸合作创造良好环境。学习宣传贯彻党的二十大精神 国家层面海外综合服务平台 提振消费专项行动 政策集成和综合解读专栏 优化营商环境-国际贸易专题 外资企业问题诉求收集办理 国际消费中心城市培育建设 丝路电商——电子商务国际合作 《区域全面经济伙伴关系协定》（RCEP） 市场运行与流通发展服务平台 2025年度网站工作年度报表美方限制对华投资，既不利于中美经贸合作，也会损害美国企业自身利益。",
+          "whyItMatters": "“商务部新闻发言人就美发布新版对外投资限制拟议规则答记者问”如果继续发展，可能通过能源价格、航运、贸易、汇率或市场预期传导到国内。了解它的意义在于判断后续风险，而不只停留在事件本身。",
+          "userRelevance": "即使你不在事发地区，“商务部新闻发言人就美发布新版对外投资限制拟议规则答记者问”也可能通过能源价格、国际航运、贸易成本和市场预期间接影响国内生活与工作判断。",
+          "whatToWatch": "接下来要看“商务部新闻发言人就美发布新版对外投资限制拟议规则答记者问”是否出现更细的城市、行业、平台或企业数据，以及这一变化能否连续保持。"
+        },
+        "sourceLinks": [
+          {
+            "title": "商务部新闻发布",
+            "url": "https://www.mofcom.gov.cn/xwfb/xwfyrth/art/2026/art_d56e28ed788c4c8a887875dbfc287fe3.html",
+            "sourceId": "mofcom-trade",
+            "publishedAt": "2026-10-24T00:00:00+08:00",
+            "language": "zh",
+            "originalLanguage": "zh",
+            "translationStatus": "not-needed",
+            "fetchedAt": "2026-10-25T07:26:21.718Z",
+            "sourceMethod": "web",
+            "verificationStatus": "confirmed"
+          }
+        ],
+        "images": [],
+        "generatedAt": "2026-10-25T02:00:00.000Z"
+      },
+      {
+        "id": "draft-real-xinhua-world-phijyu",
+        "title": "俄乌将为奥列什基人道主义行动同步停火",
+        "oneLine": "政策变化：据塔斯社24日报道，俄罗斯人权事务专员兰特拉托娃当天说，俄罗斯和乌克兰正按照已达成的约定，推进在赫尔松地区奥列什基开展人道主义行动的计划，双方将为此在当地同步停火。",
+        "importance": "A",
+        "credibility": "主流媒体",
+        "tags": [
+          "A",
+          "mustKnow",
+          "industry",
+          "world",
+          "policy"
+        ],
+        "industries": [
+          "generalPublic",
+          "financeInvestment",
+          "operationsGrowth",
+          "contentCreator"
+        ],
+        "section": "front",
+        "body": {
+          "background": "报道说，兰特拉托娃当天与乌方停火谈判首席代表、乌克兰最高拉达（议会）人权专员德米特罗·卢比涅茨举行线上会谈，讨论在奥列什基开展人道主义行动的细节。俄新社24日报道，俄罗斯联邦武装力量总参谋长瓦列里·格拉西莫夫23日宣布，俄军将在赫尔松方向停火，并从莫斯科时间10月27日4时起进入“静默”状态，以配合将在奥列什基开展的人道主义行动。兰特拉托娃在社交媒体上援引卢比涅茨的话称，乌军将从基辅时间10月27日4时起停火，与俄军停火时间一致。",
+          "keyProgress": "兰特拉托娃说，此次行动将优先向当地平民提供人道主义援助。美国白宫23日发表声明说，美方促成俄乌达成在奥列什基停火。白宫方面称，自俄乌冲突爆发以来，该市一直处于前线地带，大部分居民已离开，但仍有1700至2000人留守，多为无法离开的老年人，另有约50名儿童。",
+          "whyItMatters": "“俄乌将为奥列什基人道主义行动同步停火”如果继续发展，可能通过能源价格、航运、贸易、汇率或市场预期传导到国内。了解它的意义在于判断后续风险，而不只停留在事件本身。",
+          "userRelevance": "即使你不在事发地区，“俄乌将为奥列什基人道主义行动同步停火”也可能通过能源价格、国际航运、贸易成本和市场预期间接影响国内生活与工作判断。",
+          "whatToWatch": "接下来要看“俄乌将为奥列什基人道主义行动同步停火”是否出现新的官方信息、后续行动，以及它与中国出行、贸易或公共判断的关联是否扩大。"
+        },
+        "sourceLinks": [
+          {
+            "title": "新华网国际",
+            "url": "https://www.news.cn/world/20261025/696adb5f6c4d46869109019686463a56/c.html",
+            "sourceId": "xinhua-world",
+            "publishedAt": "2026-10-25T00:00:00+08:00",
+            "language": "zh",
+            "originalLanguage": "zh",
+            "translationStatus": "not-needed",
+            "fetchedAt": "2026-10-25T07:26:19.522Z",
+            "sourceMethod": "web",
+            "verificationStatus": "confirmed"
+          }
+        ],
+        "images": [],
+        "generatedAt": "2026-10-25T02:00:00.000Z"
+      },
+      {
+        "id": "draft-real-city-news-rss:%E4%B8%AD%E5%9B%BD-%E4%B8%8A%E6%B5%B7-izwwgk",
+        "title": "“蔷琵”还未平息 “烟花”已经生成 今年编号台风数已并列本世纪以来最多 2026-10-25 今日上海",
+        "oneLine": "风险提醒：继今年第30号台风&ldquo;蔷琵&rdquo;之后，今年第31号台风&ldquo;烟花&rdquo;于昨天凌晨在西北太平洋洋面生成。",
+        "importance": "A",
+        "credibility": "待确认",
+        "tags": [
+          "A",
+          "mustKnow",
+          "risk",
+          "industry",
+          "local",
+          "policy",
+          "china"
+        ],
+        "industries": [
+          "localLife",
+          "generalPublic",
+          "operationsGrowth"
+        ],
+        "section": "risk",
+        "body": {
+          "background": "实际上，台风&ldquo;蔷琵&rdquo;前晚在靠近我国台湾时路径忽然发生变化，走出了一个小&ldquo;折角&rdquo;。据中央气象台监测，目前的编号台风数量已追平2013年，今年与2013年并列21世纪以来编号台风最多年份。台风&ldquo;蔷琵&rdquo;外围云系仍在影响上海。",
+          "keyProgress": "根据上海市防汛办的统计数据，从前天8时至昨天17时，全市平均雨量63.6毫米，中心城区平均雨量68.2毫米。206个街镇（占比92%）超过50毫米，215个街镇（占比96%）超过25毫米，其中浦东金桥镇89.5毫米为最大。2个街镇（占比0.9%）超过8级风（17.2米/秒），9个街镇（占比4.0%）超过7级风（13.9米/秒），43个街镇（占比19.2%）超过6级风（10.8米/秒），其中崇明东滩8级风（19.5米/秒）为最大。截至记者发稿时，上海暂未出现积水内涝、树木倒伏、高空坠物等情况。",
+          "whyItMatters": "“蔷琵还未平息 烟花已经生成 今年编号台风数已并列本世纪以来最多 2026-10-25 今”的直接价值是帮助你判断是否需要调整出行、居住或工作安排。影响地区、持续时间、预警等级和官方避险建议比事件热度更重要。",
+          "userRelevance": "对于“蔷琵还未平息 烟花已经生成 今年编号台风数已并列本世纪以来最多 2026-10-25 今”，如果你居住、出行或有家人在上海，应及时查看当地预警和交通变化；不在相关地区时，通常无需改变日常安排。",
+          "whatToWatch": "接下来要看“蔷琵还未平息 烟花已经生成 今年编号台风数已并列本世纪以来最多 2026-10-25 今”的影响范围是否扩大、预警等级是否变化，以及是否出现与你所在城市相关的提醒。"
+        },
+        "sourceLinks": [
+          {
+            "title": "直辖市·上海本地公开信息",
+            "url": "https://www.shanghai.gov.cn/nw4411/20261025/f1e1bf40b1e24e47907ba78f9fea3d66.html",
+            "sourceId": "city-news-rss:%E4%B8%AD%E5%9B%BD-%E4%B8%8A%E6%B5%B7",
+            "publishedAt": "2026-10-25T00:00:00+08:00",
+            "language": "zh",
+            "originalLanguage": "zh",
+            "translationStatus": "not-needed",
+            "fetchedAt": "2026-10-25T07:28:32.130Z",
+            "sourceMethod": "web",
+            "verificationStatus": "pending"
+          }
+        ],
+        "images": [],
+        "generatedAt": "2026-10-25T02:00:00.000Z"
+      },
+      {
+        "id": "draft-real-xinhua-world-qwa6li",
+        "title": "中方：国际原子能机构应停止审议伊核问题",
+        "oneLine": "政策变化：中国常驻联合国副代表孙磊23日在联大审议“国际原子能机构年度报告”时发言，指出国际原子能机构应停止审议伊朗核问题。",
+        "importance": "B",
+        "credibility": "主流媒体",
+        "tags": [
+          "B",
+          "mustKnow",
+          "industry",
+          "world",
+          "policy"
+        ],
+        "industries": [
+          "generalPublic",
+          "financeInvestment",
+          "operationsGrowth",
+          "contentCreator"
+        ],
+        "section": "front",
+        "body": {
+          "background": "国际社会已充分认识到有关问题的复杂性与敏感性，应在平等和相互尊重基础上，通过公开、透明、包容、可持续的政府间进程，寻求各方均可接受的解决方案。孙磊说，国际原子能机构应秉持客观公正立场，严格根据授权履行职责，为有关各方相向而行、恢复对话谈判提供协助。伊核问题最终要通过外交途径妥善解决，诉诸武力、制裁施压只会激化矛盾。",
+          "keyProgress": "孙磊指出，美英澳核潜艇合作违反《不扩散核武器条约》宗旨和目标，存在严重核扩散风险，对条约和国际原子能机构保障监督体系构成严峻挑战。伊朗作为《不扩散核武器条约》无核武器缔约国，应履行不发展核武器承诺。伊朗和平利用核能的合法权利应得到尊重。他说，核可伊朗核问题全面协议的安理会第2231号决议已到期终止，安理会及国际原子能机构应停止审议伊核问题，国际原子能机构总干事应停止提交有关报告。",
+          "whyItMatters": "“中方：国际原子能机构应停止审议伊核问题”如果继续发展，可能通过能源价格、航运、贸易、汇率或市场预期传导到国内。了解它的意义在于判断后续风险，而不只停留在事件本身。",
+          "userRelevance": "即使你不在事发地区，“中方：国际原子能机构应停止审议伊核问题”也可能通过能源价格、国际航运、贸易成本和市场预期间接影响国内生活与工作判断。",
+          "whatToWatch": "接下来要看“中方：国际原子能机构应停止审议伊核问题”是否出现新的官方信息、后续行动，以及它与中国出行、贸易或公共判断的关联是否扩大。"
+        },
+        "sourceLinks": [
+          {
+            "title": "新华网国际",
+            "url": "https://www.news.cn/world/20261024/118a2ddda59442f19a6103623cacc2ab/c.html",
+            "sourceId": "xinhua-world",
+            "publishedAt": "2026-10-24T00:00:00+08:00",
+            "language": "zh",
+            "originalLanguage": "zh",
+            "translationStatus": "not-needed",
+            "fetchedAt": "2026-10-25T07:26:19.522Z",
+            "sourceMethod": "web",
+            "verificationStatus": "confirmed"
+          }
+        ],
+        "images": [],
+        "generatedAt": "2026-10-25T02:00:00.000Z"
+      },
+      {
+        "id": "draft-real-xinhua-world-1vs0w2q",
+        "title": "国际观察丨两场选举临近，美以伊各怀什么心思",
+        "oneLine": "最新进展：国际观察丨两场选举临近，美以伊各怀什么心思。",
+        "importance": "B",
+        "credibility": "主流媒体",
+        "tags": [
+          "B",
+          "mustKnow",
+          "industry",
+          "world",
+          "policy"
+        ],
+        "industries": [
+          "generalPublic",
+          "financeInvestment",
+          "operationsGrowth",
+          "contentCreator"
+        ],
+        "section": "front",
+        "body": {
+          "background": "以色列反对党领导人拉皮德近日也对攻击伊朗表示反对，并批评内塔尼亚胡利用相关议题谋取选举利益。近日接连有油轮在试图通过海峡时遇袭或触雷。此前的战事证明，大规模军事打击无法打垮伊朗，在当前美以弹药库存告急、中东美军基地损失严重的情况下，美以再次对伊动武将更难达到目的。",
+          "keyProgress": "有报道说，正是由于美国总统特朗普反对，内塔尼亚胡指示军方筹划的新一轮对伊攻击计划未被实施。军事打击不仅难以化解矛盾，反而会加大局势失控风险，外交谈判和政治解决仍是停火止战的根本出路。以色列10月27日将举行议会选举，美国11月3日将迎来中期选举。两场选举日渐临近，美以与伊朗方面均同时释放强硬和克制信号。",
+          "whyItMatters": "“国际观察丨两场选举临近，美以伊各怀什么心思”如果继续发展，可能通过能源价格、航运、贸易、汇率或市场预期传导到国内。了解它的意义在于判断后续风险，而不只停留在事件本身。",
+          "userRelevance": "即使你不在事发地区，“国际观察丨两场选举临近，美以伊各怀什么心思”也可能通过能源价格、国际航运、贸易成本和市场预期间接影响国内生活与工作判断。",
+          "whatToWatch": "接下来要看“国际观察丨两场选举临近，美以伊各怀什么心思”是否出现新的官方信息、后续行动，以及它与中国出行、贸易或公共判断的关联是否扩大。"
+        },
+        "sourceLinks": [
+          {
+            "title": "新华网国际",
+            "url": "https://www.news.cn/world/20261024/a80d1ca126fc492c9a29760ae0f3c97d/c.html",
+            "sourceId": "xinhua-world",
+            "publishedAt": "2026-10-24T00:00:00+08:00",
+            "language": "zh",
+            "originalLanguage": "zh",
+            "translationStatus": "not-needed",
+            "fetchedAt": "2026-10-25T07:26:19.522Z",
+            "sourceMethod": "web",
+            "verificationStatus": "confirmed"
+          }
+        ],
+        "images": [
+          {
+            "url": "https://www.news.cn/world/20261024/a80d1ca126fc492c9a29760ae0f3c97d/20261024a80d1ca126fc492c9a29760ae0f3c97d_3175190a5ada443d950bffee498bbb2a.JPG",
+            "sourceUrl": "https://www.news.cn/world/20261024/a80d1ca126fc492c9a29760ae0f3c97d/c.html"
+          },
+          {
+            "url": "https://www.news.cn/world/20261024/a80d1ca126fc492c9a29760ae0f3c97d/20261024a80d1ca126fc492c9a29760ae0f3c97d_f6b2980bdef94ab4b155e989e8671694.JPG",
+            "sourceUrl": "https://www.news.cn/world/20261024/a80d1ca126fc492c9a29760ae0f3c97d/c.html"
+          },
+          {
+            "url": "https://www.news.cn/world/20261024/a80d1ca126fc492c9a29760ae0f3c97d/20261024a80d1ca126fc492c9a29760ae0f3c97d_bbcfb338a43f4555b7e8a4311ef0bab2.JPG",
+            "sourceUrl": "https://www.news.cn/world/20261024/a80d1ca126fc492c9a29760ae0f3c97d/c.html"
+          }
+        ],
+        "generatedAt": "2026-10-25T02:00:00.000Z"
+      },
+      {
+        "id": "draft-real-city-news-rss:%E4%B8%AD%E5%9B%BD-%E4%B8%8A%E6%B5%B7-11eb5h3",
+        "title": "上海以开放包容的姿态 发现新人给予扶持激励 让创作人才接续成长 托举每个逐梦造梦的身影 2026-10-25 今日上海",
+        "oneLine": "最新进展：上海以开放包容的姿态 发现新人给予扶持激励 让创作人才接续成长 托举每个逐梦造梦的身影 2026-10-25 今日上海。",
+        "importance": "B",
+        "credibility": "待确认",
+        "tags": [
+          "B",
+          "industry",
+          "local",
+          "policy",
+          "china"
+        ],
+        "industries": [
+          "localLife",
+          "generalPublic",
+          "operationsGrowth"
+        ],
+        "section": "local",
+        "body": {
+          "background": "作为新人新作选拔培育的重要机制，9月10日至20日，138件群文作品登上2026年上海市群文新人新作展评展演活动的舞台，接受大众的检验。依托电影发展研究院设立的&ldquo;青鸟&rdquo;作家导演起飞计划近日启动第三届征集。上一次是《我不是药神》的首次全国放映。",
+          "keyProgress": "上海电影人与上海出品电影，在华语电影市场中占据越来越重要的位置。上海电影集团启动的&ldquo;上影鲲鹏&rdquo;计划，以&ldquo;激发创意、培育人才、打造精品、引领未来&rdquo;为核心，加大力度支持青年影人。阅文平台数据显示，&ldquo;Z世代&rdquo;作家加速崛起，上半年新签约且收入超100万元的作家中，30岁以下占比达到57%，同比增长49%。&rdquo;阅文集团首席执行官兼总裁侯晓楠说，今年的新一届现实题材网络文学征文大赛，又有一批新人将在文学海洋中扬帆起航。",
+          "whyItMatters": "“上海以开放包容的姿态 发现新人给予扶持激励 让创作人才接续成长 托举每个逐梦造梦的身影 2026”可能改变个人办事、出行、公共服务或行业规则。提前确认适用范围和生效时间，可以减少信息滞后带来的判断偏差。",
+          "userRelevance": "作为中国居民，你需要留意“上海以开放包容的姿态 发现新人给予扶持激励 让创作人才接续成长 托举每个逐梦造梦的身影 2026”是否改变办事、出行或公共服务规则；如果你从事本地生活、运营增长，还应关注行业执行细则。",
+          "whatToWatch": "接下来要看“上海以开放包容的姿态 发现新人给予扶持激励 让创作人才接续成长 托举每个逐梦造梦的身影 2026”是否补充执行细则、地方落地安排、时间节点或适用人群说明。"
+        },
+        "sourceLinks": [
+          {
+            "title": "直辖市·上海本地公开信息",
+            "url": "https://www.shanghai.gov.cn/nw4411/20261025/633387b6f51040c1bf1ab88779aa0629.html",
+            "sourceId": "city-news-rss:%E4%B8%AD%E5%9B%BD-%E4%B8%8A%E6%B5%B7",
+            "publishedAt": "2026-10-25T00:00:00+08:00",
+            "language": "zh",
+            "originalLanguage": "zh",
+            "translationStatus": "not-needed",
+            "fetchedAt": "2026-10-25T07:28:32.130Z",
+            "sourceMethod": "web",
+            "verificationStatus": "pending"
+          }
+        ],
+        "images": [],
+        "generatedAt": "2026-10-25T02:00:00.000Z"
+      },
+      {
+        "id": "draft-real-city-news-rss:%E4%B8%AD%E5%9B%BD-%E4%B8%8A%E6%B5%B7-bqg0nq",
+        "title": "一张网球票根撬动17倍消费 闵行做深“赛票+”联动全域文旅 更把顶级赛事价值沉淀为城市发展动能 2026-10-25 今日上海",
+        "oneLine": "政策变化：10月18日，为期两周的2026年ATP1000上海大师赛在位于闵行区的旗忠网球中心落下帷幕。",
+        "importance": "B",
+        "credibility": "待确认",
+        "tags": [
+          "B",
+          "industry",
+          "local",
+          "policy",
+          "china"
+        ],
+        "industries": [
+          "localLife",
+          "generalPublic",
+          "operationsGrowth"
+        ],
+        "section": "local",
+        "body": {
+          "background": "近日，闵行在旗忠网球中心举办&ldquo;逐光赛场&middot;相约ATP&rdquo;企业家座谈会，邀请区内龙头外资企业、重点在谈项目共15家代表到场，一边沉浸式感受赛事氛围和区域环境，一边交流探讨合作发展机遇。数据显示，赛事全程观赛人次近25万，其中市外、国外观众占比近七成，赛事赞助收入、票房等均再创新高。赛场之外，来自闵行区的消息同样令人欣喜：今年，闵行区以ATP1000大师赛为引擎，联动市级资金发放5200万元&ldquo;悦购闵行&middot;动享申城&rdquo;消费券，截至10月18日，累计带动246万笔销售，销售额超过8.4亿元，综合撬动比1:17，预计活动整体带动销售额可达8.8亿元。",
+          "keyProgress": "今年，闵行区结合&ldquo;春申美好生活悦动季&rdquo;等活动，做深做实&ldquo;赛票+&rdquo;票根经济，打通&ldquo;赛旅住餐购&rdquo;消费全链条。比如，线下专门推出大师赛专属&ldquo;碰一碰&rdquo;消费券，共核销4.8万笔，核销金额1199万元，带动销售额1.28亿元，撬动比达到1:10。又如，推出&ldquo;球票+酒店&rdquo;组合套票，赛事期间旗忠周边酒店间夜数环比上月增长87%，酒店消费金额环比上月增长177%。首批护照市场价199元，早鸟价仅99元，服务周期贯穿2026年10月1日至2027年9月30日，一整年都有效。",
+          "whyItMatters": "“一张网球票根撬动17倍消费 闵行做深赛票+联动全域文旅 更把顶级赛事价值沉淀为城市发展动能”可能改变个人办事、出行、公共服务或行业规则。提前确认适用范围和生效时间，可以减少信息滞后带来的判断偏差。",
+          "userRelevance": "作为中国居民，你需要留意“一张网球票根撬动17倍消费 闵行做深赛票+联动全域文旅 更把顶级赛事价值沉淀为城市发展动能”是否改变办事、出行或公共服务规则；如果你从事本地生活、运营增长，还应关注行业执行细则。",
+          "whatToWatch": "接下来要看“一张网球票根撬动17倍消费 闵行做深赛票+联动全域文旅 更把顶级赛事价值沉淀为城市发展动能”是否补充执行细则、地方落地安排、时间节点或适用人群说明。"
+        },
+        "sourceLinks": [
+          {
+            "title": "直辖市·上海本地公开信息",
+            "url": "https://www.shanghai.gov.cn/nw4411/20261025/7de5a116854a4f5c90f2fe7c40fc5e52.html",
+            "sourceId": "city-news-rss:%E4%B8%AD%E5%9B%BD-%E4%B8%8A%E6%B5%B7",
+            "publishedAt": "2026-10-25T00:00:00+08:00",
+            "language": "zh",
+            "originalLanguage": "zh",
+            "translationStatus": "not-needed",
+            "fetchedAt": "2026-10-25T07:28:32.130Z",
+            "sourceMethod": "web",
+            "verificationStatus": "pending"
+          }
+        ],
+        "images": [],
+        "generatedAt": "2026-10-25T02:00:00.000Z"
+      },
+      {
+        "id": "draft-real-jyb-education-81k373",
+        "title": "于行走中，感悟伟大长征精神",
+        "oneLine": "政策变化：admin | 退出 用户中心 0 韶关学院联合新丰县第三中学在李任予故居开展长征精神主题现场教学。",
+        "importance": "B",
+        "credibility": "待确认",
+        "tags": [
+          "B",
+          "industry",
+          "education",
+          "policy",
+          "china"
+        ],
+        "industries": [
+          "teacher",
+          "educationResearch",
+          "generalPublic"
+        ],
+        "section": "industry",
+        "body": {
+          "background": "“25公里一路走下来，大家相互鼓劲，没有一个人掉队，这让我很受感动。韶关学院还积极开展红色志愿宣讲，引导学生讲述长征故事，从被动听课转向主动参与。“我受伤了，但还是想走到终点，你愿不愿意陪我走完这段路？",
+          "keyProgress": "与此同时，学校组织院系党支部书记、思政课教师、辅导员到红色教育基地进行现场备课，在实地研学中丰富教学内涵，提升思政教育的感染力与现场温度。韶关学院还尝试把人工智能等技术引入长征主题教学，通过“AI寻踪”、闯关打卡、VR“重走长征路”等方式，让历史场景更加可感可知。在“红途智启：AI赋能打造沉浸式思政课”实践教学活动中，学校生物与农业学院学生彭靖淳戴上VR眼镜，眼前出现白茫茫的雪山，脚下的模拟坡道狭窄陡峭。韶关学院供图 在广东省韶关市新丰县，长长的徒步队伍沿着乡间小路向前延伸。",
+          "whyItMatters": "“于行走中，感悟伟大长征精神”可能影响学校治理、教师工作、课程安排或学生发展。教育从业者可以据此提前关注具体对象、地方执行方式和工作要求。",
+          "userRelevance": "如果你从事教师、教育研究或学校管理，可以重点关注“于行走中，感悟伟大长征精神”的具体对象、执行方式和地方落地节奏；其他用户可把它作为教育环境背景了解。",
+          "whatToWatch": "接下来要看“于行走中，感悟伟大长征精神”是否补充执行细则、地方落地安排、时间节点或适用人群说明。"
+        },
+        "sourceLinks": [
+          {
+            "title": "中国教育新闻网",
+            "url": "http://www.jyb.cn/rmtzgjyb/202610/t20261025_2111534366.html",
+            "sourceId": "jyb-education",
+            "publishedAt": "2026-10-25T00:00:00+08:00",
+            "language": "zh",
+            "originalLanguage": "zh",
+            "translationStatus": "not-needed",
+            "fetchedAt": "2026-10-25T07:26:26.028Z",
+            "sourceMethod": "web",
+            "verificationStatus": "pending"
+          }
+        ],
+        "images": [
+          {
+            "url": "http://www.jyb.cn/rmtzgjyb/202610/W020261025251797101354.jpg",
+            "sourceUrl": "http://www.jyb.cn/rmtzgjyb/202610/t20261025_2111534366.html"
+          },
+          {
+            "url": "http://www.jyb.cn/rmtxwwyyq/xilanyouceshangbuAd/202208/W020240805447891565944.jpg",
+            "sourceUrl": "http://www.jyb.cn/rmtzgjyb/202610/t20261025_2111534366.html"
+          },
+          {
+            "url": "http://www.jyb.cn/rmtxwwyyq/xilanyoucezhongjianAd/202206/W020240805449508966760.jpg",
+            "sourceUrl": "http://www.jyb.cn/rmtzgjyb/202610/t20261025_2111534366.html"
+          },
+          {
+            "url": "http://www.jyb.cn/images/2018gongan.png",
+            "sourceUrl": "http://www.jyb.cn/rmtzgjyb/202610/t20261025_2111534366.html"
+          }
+        ],
+        "generatedAt": "2026-10-25T02:00:00.000Z"
+      },
+      {
+        "id": "draft-real-jyb-education-s7m59g",
+        "title": "生长出因材施教的育人智慧",
+        "oneLine": "政策变化：因材施教发生在判断与回应中 数学课上，我出示了一组计算题，要求学生用竖式计算：256÷32，256÷34。",
+        "importance": "B",
+        "credibility": "待确认",
+        "tags": [
+          "B",
+          "industry",
+          "education",
+          "policy",
+          "china"
+        ],
+        "industries": [
+          "teacher",
+          "educationResearch",
+          "generalPublic"
+        ],
+        "section": "industry",
+        "body": {
+          "background": "它发生在具体的题组、对话之中，只能在课堂现场被识别。因材施教里的“因”具有两层含义：一是“依据”——我们对学生的认知，是开展教学行动的现实依据；回到这节普通的家常课，我发现真正的因材施教，就发生在教师面对一道练习题、面对一名学生的发言时所作出的判断与回应之中。",
+          "keyProgress": "学生是具体的，教师因材施教的能力是在育人现场长出来的。本期推出“因材施教”专题，从一线教师的角度分享对因材施教的理解，围绕具体案例呈现教师如何在教育现场读懂学生、具体施教。面对有差异的学生，教师应当有差异地组织学习活动，让差异本身成为宝贵的教学资源。小晗之所以能让我惊喜，恰恰是因为他所展现的思维方式并不是教师课前就能准确预测的；",
+          "whyItMatters": "“生长出因材施教的育人智慧”可能影响学校治理、教师工作、课程安排或学生发展。教育从业者可以据此提前关注具体对象、地方执行方式和工作要求。",
+          "userRelevance": "如果你从事教师、教育研究或学校管理，可以重点关注“生长出因材施教的育人智慧”的具体对象、执行方式和地方落地节奏；其他用户可把它作为教育环境背景了解。",
+          "whatToWatch": "接下来要看“生长出因材施教的育人智慧”是否补充执行细则、地方落地安排、时间节点或适用人群说明。"
+        },
+        "sourceLinks": [
+          {
+            "title": "中国教育新闻网",
+            "url": "http://www.jyb.cn/rmtzgjyb/202610/t20261025_2111534365.html",
+            "sourceId": "jyb-education",
+            "publishedAt": "2026-10-25T00:00:00+08:00",
+            "language": "zh",
+            "originalLanguage": "zh",
+            "translationStatus": "not-needed",
+            "fetchedAt": "2026-10-25T07:26:26.028Z",
+            "sourceMethod": "web",
+            "verificationStatus": "pending"
+          }
+        ],
+        "images": [
+          {
+            "url": "http://www.jyb.cn/rmtzgjyb/202610/W020261025251789523947.jpg",
+            "sourceUrl": "http://www.jyb.cn/rmtzgjyb/202610/t20261025_2111534365.html"
+          },
+          {
+            "url": "http://www.jyb.cn/rmtzgjyb/202610/W020261025251790377101.jpg",
+            "sourceUrl": "http://www.jyb.cn/rmtzgjyb/202610/t20261025_2111534365.html"
+          },
+          {
+            "url": "http://www.jyb.cn/rmtxwwyyq/xilanyouceshangbuAd/202208/W020240805447891565944.jpg",
+            "sourceUrl": "http://www.jyb.cn/rmtzgjyb/202610/t20261025_2111534365.html"
+          },
+          {
+            "url": "http://www.jyb.cn/rmtxwwyyq/xilanyoucezhongjianAd/202206/W020240805449508966760.jpg",
+            "sourceUrl": "http://www.jyb.cn/rmtzgjyb/202610/t20261025_2111534365.html"
+          },
+          {
+            "url": "http://www.jyb.cn/images/2018gongan.png",
+            "sourceUrl": "http://www.jyb.cn/rmtzgjyb/202610/t20261025_2111534365.html"
+          }
+        ],
+        "generatedAt": "2026-10-25T02:00:00.000Z"
+      },
+      {
+        "id": "draft-real-jyb-education-p3vyq3",
+        "title": "用爱国精神擦亮学生心灵底色",
+        "oneLine": "最新进展：用爱国精神擦亮学生心灵底色。",
+        "importance": "B",
+        "credibility": "待确认",
+        "tags": [
+          "B",
+          "industry",
+          "education",
+          "policy",
+          "china"
+        ],
+        "industries": [
+          "teacher",
+          "educationResearch",
+          "generalPublic"
+        ],
+        "section": "industry",
+        "body": {
+          "background": "每年开展“靖宇标兵”评选，以身边典型带动全体学生。除了在全景式感受领悟，靖宇精神同样融入学生的专业学习。学校供图 “我就是冲着杨靖宇将军的母校来的！",
+          "keyProgress": "在学校思政课教师蒋玉晨的课堂上，他深挖靖宇精神丰富内涵，将其融入各个教学专题。毕业前，我又走了一次靖宇小径，参观了一次青年杨靖宇纪念馆。”河南工程学院艺术设计学院视觉传达与设计专业2026届学生张浩辉毕业临行前，再次来到他在校期间的精神地标。作为一名退伍军人大学生，他选择河南工程学院就读不仅是看中了学校强化应用型专业的定位，更在于学校近年来打造的思政品牌“靖宇将军做校友，胸怀家国天下”。",
+          "whyItMatters": "“用爱国精神擦亮学生心灵底色”可能影响学校治理、教师工作、课程安排或学生发展。教育从业者可以据此提前关注具体对象、地方执行方式和工作要求。",
+          "userRelevance": "如果你从事教师、教育研究或学校管理，可以重点关注“用爱国精神擦亮学生心灵底色”的具体对象、执行方式和地方落地节奏；其他用户可把它作为教育环境背景了解。",
+          "whatToWatch": "接下来要看“用爱国精神擦亮学生心灵底色”是否补充执行细则、地方落地安排、时间节点或适用人群说明。"
+        },
+        "sourceLinks": [
+          {
+            "title": "中国教育新闻网",
+            "url": "http://www.jyb.cn/rmtzgjyb/202610/t20261025_2111534367.html",
+            "sourceId": "jyb-education",
+            "publishedAt": "2026-10-25T00:00:00+08:00",
+            "language": "zh",
+            "originalLanguage": "zh",
+            "translationStatus": "not-needed",
+            "fetchedAt": "2026-10-25T07:26:26.028Z",
+            "sourceMethod": "web",
+            "verificationStatus": "pending"
+          }
+        ],
+        "images": [
+          {
+            "url": "http://www.jyb.cn/rmtzgjyb/202610/W020261025251803504686.jpg",
+            "sourceUrl": "http://www.jyb.cn/rmtzgjyb/202610/t20261025_2111534367.html"
+          },
+          {
+            "url": "http://www.jyb.cn/rmtxwwyyq/xilanyouceshangbuAd/202208/W020240805447891565944.jpg",
+            "sourceUrl": "http://www.jyb.cn/rmtzgjyb/202610/t20261025_2111534367.html"
+          },
+          {
+            "url": "http://www.jyb.cn/rmtxwwyyq/xilanyoucezhongjianAd/202206/W020240805449508966760.jpg",
+            "sourceUrl": "http://www.jyb.cn/rmtzgjyb/202610/t20261025_2111534367.html"
+          },
+          {
+            "url": "http://www.jyb.cn/images/2018gongan.png",
+            "sourceUrl": "http://www.jyb.cn/rmtzgjyb/202610/t20261025_2111534367.html"
+          }
+        ],
+        "generatedAt": "2026-10-25T02:00:00.000Z"
+      },
+      {
+        "id": "draft-real-jyb-education-12vwkm8",
+        "title": "当课件替代了绘本",
+        "oneLine": "最新进展：当课件替代了绘本。",
+        "importance": "B",
+        "credibility": "待确认",
+        "tags": [
+          "B",
+          "industry",
+          "education",
+          "policy",
+          "china"
+        ],
+        "industries": [
+          "teacher",
+          "educationResearch",
+          "generalPublic"
+        ],
+        "section": "industry",
+        "body": {
+          "background": "这让我想起了我参加工作的第四年，幼儿园开展青年教师好课评比，我也选择了绘本《好饿的毛毛虫》。我找来旧挂历做背景，用彩色硬卡纸做了各种食物，并按照故事发展顺序粘贴在书上，每一种食物中间都挖了个洞，又用卡纸做了一只“毛毛虫”，后面贴了一个环形圈圈，方便把手指套进去。（作者系江苏省南京市兴宁幼儿园副园长） 《中国教育报》2026年10月25日 第02版 永葆赶考清醒 赢得历史主动 哈尔滨创新工作方法开展教辅治理 云南印发幼儿园收费管理办法 识别问题归属，守住责任边界 生长出因材施教的育人智慧 于行走中，感悟伟大长征精神 互联网新闻信息服务许可证 10120170024 Copyright@2000- 2022 www.jyb.cn All Rights Reserved. 京公网安备 11010802025840号。",
+          "keyProgress": "admin | 退出 用户中心 0 小（1）班王老师坐在一体机旁，屏幕上播放着课件。毛毛虫慢慢爬行，每吃到一种食物就伴随着“啊呜，啊呜”的动画音效。看到此情此景，我产生了一个疑问：在这个数字课件介入的阅读活动中，孩子们究竟是在读一本书，还是在看一个动画？他们的手没有翻书，嘴巴也没有跟着说绘本中的语句。",
+          "whyItMatters": "“当课件替代了绘本”可能影响学校治理、教师工作、课程安排或学生发展。教育从业者可以据此提前关注具体对象、地方执行方式和工作要求。",
+          "userRelevance": "如果你从事教师、教育研究或学校管理，可以重点关注“当课件替代了绘本”的具体对象、执行方式和地方落地节奏；其他用户可把它作为教育环境背景了解。",
+          "whatToWatch": "接下来要看“当课件替代了绘本”是否补充执行细则、地方落地安排、时间节点或适用人群说明。"
+        },
+        "sourceLinks": [
+          {
+            "title": "中国教育新闻网",
+            "url": "http://www.jyb.cn/rmtzgjyb/202610/t20261025_2111534363.html",
+            "sourceId": "jyb-education",
+            "publishedAt": "2026-10-25T00:00:00+08:00",
+            "language": "zh",
+            "originalLanguage": "zh",
+            "translationStatus": "not-needed",
+            "fetchedAt": "2026-10-25T07:26:26.028Z",
+            "sourceMethod": "web",
+            "verificationStatus": "pending"
+          }
+        ],
+        "images": [
+          {
+            "url": "http://www.jyb.cn/rmtxwwyyq/xilanyouceshangbuAd/202208/W020240805447891565944.jpg",
+            "sourceUrl": "http://www.jyb.cn/rmtzgjyb/202610/t20261025_2111534363.html"
+          },
+          {
+            "url": "http://www.jyb.cn/rmtxwwyyq/xilanyoucezhongjianAd/202206/W020240805449508966760.jpg",
+            "sourceUrl": "http://www.jyb.cn/rmtzgjyb/202610/t20261025_2111534363.html"
+          },
+          {
+            "url": "http://www.jyb.cn/images/2018gongan.png",
+            "sourceUrl": "http://www.jyb.cn/rmtzgjyb/202610/t20261025_2111534363.html"
+          }
+        ],
+        "generatedAt": "2026-10-25T02:00:00.000Z"
+      },
+      {
+        "id": "draft-cluster-real-city-news-rss:%E4%B8%AD%E5%9B%BD-%E5%B9%BF%E5%B7%9E-uw7djv",
+        "title": "广州市举行AIGC视听产业系列发布活动",
+        "oneLine": "政策变化：手机端 关注 · 手机版 微信 关注 · 广州政府网 广州市与爱奇艺签署战略合作框架协议 10月24日上午，广州市AIGC视听产业系列发布活动在白云国际会堂举行。",
+        "importance": "C",
+        "credibility": "待确认",
+        "tags": [
+          "C",
+          "industry",
+          "local",
+          "policy",
+          "china"
+        ],
+        "industries": [
+          "localLife",
+          "generalPublic",
+          "operationsGrowth"
+        ],
+        "section": "industry",
+        "body": {
+          "background": "广州市副市长江智涛、爱奇艺首席执行官龚宇致辞并共同签署战略合作框架协议。会前，广州市市长孙志洋与龚宇就进一步深化合作进行交流。江智涛在致辞中表示，广州发展视听产业基础扎实、底气十足。",
+          "keyProgress": "此次与爱奇艺达成战略合作，必将助力广州在AIGC视听新赛道增创新优势，诚邀广大企业家投资广州、深耕湾区，开拓全球市场。龚宇说，广州具备打造AIGC视听产业高地的良好基础，爱奇艺将依托自身内容优势，与广州深化纪录片打造、AI影视创作营等合作，助力广州建设纪录片之城。活动现场，广州市政府与爱奇艺签署战略合作框架协议，双方将围绕AIGC产业布局、内容创作、生态培育、人才培养、城市品牌塑造等重点领域加强合作，共同推动广州数字文化产业高质量发展。省广播电视局局长王晓，省广播电视台台长李宜航，爱奇艺副总裁王兆楠等参加活动。",
+          "whyItMatters": "“广州市举行AIGC视听产业系列发布活动”可能改变个人办事、出行、公共服务或行业规则。提前确认适用范围和生效时间，可以减少信息滞后带来的判断偏差。",
+          "userRelevance": "作为中国居民，你需要留意“广州市举行AIGC视听产业系列发布活动”是否改变办事、出行或公共服务规则；如果你从事本地生活、运营增长，还应关注行业执行细则。",
+          "whatToWatch": "接下来要看“广州市举行AIGC视听产业系列发布活动”是否补充执行细则、地方落地安排、时间节点或适用人群说明。"
+        },
+        "sourceLinks": [
+          {
+            "title": "广东·广州本地公开信息",
+            "url": "https://www.gz.gov.cn/xw/gzyw/content/post_11068187.html",
+            "sourceId": "city-news-rss:%E4%B8%AD%E5%9B%BD-%E5%B9%BF%E5%B7%9E",
+            "publishedAt": "2026-10-25T00:00:00+08:00",
+            "language": "zh",
+            "originalLanguage": "zh",
+            "translationStatus": "not-needed",
+            "fetchedAt": "2026-10-25T07:28:39.860Z",
+            "sourceMethod": "web",
+            "verificationStatus": "pending"
+          },
+          {
+            "title": "广东·广州本地公开信息",
+            "url": "https://www.gz.gov.cn/zt/gzlfzgzld/gzld/content/post_11068184.html",
+            "sourceId": "city-news-rss:%E4%B8%AD%E5%9B%BD-%E5%B9%BF%E5%B7%9E",
+            "publishedAt": "2026-10-25T00:00:00+08:00",
+            "language": "zh",
+            "originalLanguage": "zh",
+            "translationStatus": "not-needed",
+            "fetchedAt": "2026-10-25T07:28:40.655Z",
+            "sourceMethod": "web",
+            "verificationStatus": "pending"
+          }
+        ],
+        "images": [
+          {
+            "url": "https://www.gz.gov.cn/global/ewm_mobile.jpg",
+            "sourceUrl": "https://www.gz.gov.cn/xw/gzyw/content/post_11068187.html"
+          },
+          {
+            "url": "https://www.gz.gov.cn/global/ewm_wx.jpg",
+            "sourceUrl": "https://www.gz.gov.cn/xw/gzyw/content/post_11068187.html"
+          },
+          {
+            "url": "https://www.gz.gov.cn/global/wzsyx.png",
+            "sourceUrl": "https://www.gz.gov.cn/xw/gzyw/content/post_11068187.html"
+          },
+          {
+            "url": "https://www.gz.gov.cn/global/27f6f788a35c4661a43aa7ce1ae91e7f.png",
+            "sourceUrl": "https://www.gz.gov.cn/xw/gzyw/content/post_11068187.html"
+          },
+          {
+            "url": "https://www.gz.gov.cn/global/easy_shb_gzh.jpg",
+            "sourceUrl": "https://www.gz.gov.cn/xw/gzyw/content/post_11068187.html"
+          }
+        ],
+        "generatedAt": "2026-10-25T02:00:00.000Z"
+      },
+      {
+        "id": "draft-real-city-news-rss:%E4%B8%AD%E5%9B%BD-%E5%B9%BF%E5%B7%9E-z6ft4y",
+        "title": "小批量、多规格、按需定制成采购新趋势 广州企业以新场景、新产线作答",
+        "oneLine": "最新进展：小批量、多规格、按需定制成采购新趋势 广州企业以新场景、新产线作答。",
+        "importance": "C",
+        "credibility": "待确认",
+        "tags": [
+          "C",
+          "industry",
+          "local",
+          "policy",
+          "china"
+        ],
+        "industries": [
+          "localLife",
+          "generalPublic",
+          "operationsGrowth"
+        ],
+        "section": "industry",
+        "body": {
+          "background": "这家1997年成立于广州花都狮岭的企业，从加工制造起步，如今已转型为科工贸一体的企业，是国家高新技术企业和国家电脑包行业标准起草单位，累计获得各类专利500多项，其生产的双重防盗背包此前曾获德国iF设计奖、红点奖和日本GoodDesign大奖。企业紧跟海外流行趋势开展新品开发，新增产线搭建柔性产能，可承接小批量试产订单，快速响应海外客户的新品需求。手机端 关注 · 手机版 微信 关注 · 广州政府网 2026-10-25 09:45:46 出新出海 小物件闯出大市场 “我能先下单200件，后续再加吗？",
+          "keyProgress": "一个潮流水杯的快速反应能力 新品定义场景之后，还要被市场看见——设计辨识度与快速反应能力，构成了出圈的第二道壁垒。与此同时，企业把展会现场当作市场调研的前哨：直面采购商收集一手信息，为后续产品迭代提供支撑。如今，不同区域、不同客群的需求千差万别，靠一套产品打天下的时代正在过去——适配能力与认证资质，是走向海外市场的第三道壁垒。对此，广州市优伟家居用品有限公司的打法是：一套产品矩阵，适配多元市场。",
+          "whyItMatters": "“小批量、多规格、按需定制成采购新趋势 广州企业以新场景、新产线作答”可能改变个人办事、出行、公共服务或行业规则。提前确认适用范围和生效时间，可以减少信息滞后带来的判断偏差。",
+          "userRelevance": "作为中国居民，你需要留意“小批量、多规格、按需定制成采购新趋势 广州企业以新场景、新产线作答”是否改变办事、出行或公共服务规则；如果你从事本地生活、运营增长，还应关注行业执行细则。",
+          "whatToWatch": "接下来要看“小批量、多规格、按需定制成采购新趋势 广州企业以新场景、新产线作答”是否补充执行细则、地方落地安排、时间节点或适用人群说明。"
+        },
+        "sourceLinks": [
+          {
+            "title": "广东·广州本地公开信息",
+            "url": "https://www.gz.gov.cn/zt/zgjckspjyh/xczj/content/post_11068185.html",
+            "sourceId": "city-news-rss:%E4%B8%AD%E5%9B%BD-%E5%B9%BF%E5%B7%9E",
+            "publishedAt": "2026-10-25T00:00:00+08:00",
+            "language": "zh",
+            "originalLanguage": "zh",
+            "translationStatus": "not-needed",
+            "fetchedAt": "2026-10-25T07:28:40.724Z",
+            "sourceMethod": "web",
+            "verificationStatus": "pending"
+          }
+        ],
+        "images": [
+          {
+            "url": "https://www.gz.gov.cn/global/ewm_mobile.jpg",
+            "sourceUrl": "https://www.gz.gov.cn/zt/zgjckspjyh/xczj/content/post_11068185.html"
+          },
+          {
+            "url": "https://www.gz.gov.cn/global/ewm_wx.jpg",
+            "sourceUrl": "https://www.gz.gov.cn/zt/zgjckspjyh/xczj/content/post_11068185.html"
+          },
+          {
+            "url": "https://www.gz.gov.cn/global/wzsyx.png",
+            "sourceUrl": "https://www.gz.gov.cn/zt/zgjckspjyh/xczj/content/post_11068185.html"
+          },
+          {
+            "url": "https://www.gz.gov.cn/ztglobal/gjsjhltx_r1_c1_s1.png",
+            "sourceUrl": "https://www.gz.gov.cn/zt/zgjckspjyh/xczj/content/post_11068185.html"
+          },
+          {
+            "url": "https://www.gz.gov.cn/img/1/1709/1709345/11068185.jpg",
+            "sourceUrl": "https://www.gz.gov.cn/zt/zgjckspjyh/xczj/content/post_11068185.html"
+          }
+        ],
+        "generatedAt": "2026-10-25T02:00:00.000Z"
+      }
+    ],
+    "estimatedReadMinutes": 23,
+    "pageCount": 3,
+    "topCardId": "draft-real-xinhua-world-rl0cen",
+    "generatedAt": "2026-10-25T02:00:00.000Z",
+    "pushSlots": [
+      "08:30",
+      "12:30",
+      "21:30"
+    ],
+    "edition": "morning",
+    "editionLabel": "晨报",
+    "coverageWindow": {
+      "start": "2026-10-24T00:00:00+08:00",
+      "end": "2026-10-25T10:00:00+08:00"
+    },
+    "editionCardIds": [
+      "draft-real-xinhua-world-rl0cen",
+      "draft-real-xinhua-world-rdvhpw",
+      "draft-real-mofcom-trade-ubbkxu",
+      "draft-real-xinhua-world-phijyu",
+      "draft-real-city-news-rss:%E4%B8%AD%E5%9B%BD-%E4%B8%8A%E6%B5%B7-izwwgk",
+      "draft-real-xinhua-world-qwa6li",
+      "draft-real-xinhua-world-1vs0w2q",
+      "draft-real-city-news-rss:%E4%B8%AD%E5%9B%BD-%E4%B8%8A%E6%B5%B7-11eb5h3",
+      "draft-real-city-news-rss:%E4%B8%AD%E5%9B%BD-%E4%B8%8A%E6%B5%B7-bqg0nq",
+      "draft-real-jyb-education-81k373",
+      "draft-real-jyb-education-s7m59g",
+      "draft-real-jyb-education-p3vyq3",
+      "draft-real-jyb-education-12vwkm8",
+      "draft-cluster-real-city-news-rss:%E4%B8%AD%E5%9B%BD-%E5%B9%BF%E5%B7%9E-uw7djv",
+      "draft-real-city-news-rss:%E4%B8%AD%E5%9B%BD-%E5%B9%BF%E5%B7%9E-z6ft4y"
+    ],
+    "carriedCardIds": []
+  }
+}

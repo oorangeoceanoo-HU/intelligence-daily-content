@@ -1,0 +1,43 @@
+{
+  "version": 1,
+  "date": "2026-11-08",
+  "generatedAt": "2026-11-08T09:15:47.322Z",
+  "status": "review",
+  "reviewMode": "generated",
+  "candidateSha256": "23a5e85f3f5d33a064650b30f4ff398ef5f25aed61c9bbc1239e6aaa4e8bab73",
+  "counts": {
+    "cards": 8,
+    "pages": 1,
+    "rawItems": 160,
+    "freshCandidates": 49,
+    "publishableCards": 7,
+    "reviewableCards": 1,
+    "rejectedCards": 41,
+    "blockers": 0,
+    "warnings": 4
+  },
+  "findings": [
+    {
+      "level": "warning",
+      "code": "compact-issue",
+      "message": "当天只有 8 条合格内容，将按原有日报结构发布精简版；系统不会用旧闻或其他行业内容凑数。"
+    },
+    {
+      "level": "warning",
+      "code": "translation-failures",
+      "message": "有 151 条英文或多语言候选没有完成中文化，当前翻译通道为 openai-compatible；这些候选已从最终日报排除。"
+    },
+    {
+      "level": "warning",
+      "code": "source-fetch-failures",
+      "message": "有 7 个来源抓取失败，需要确认是否影响当天覆盖面。"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "官方或主流媒体正文较短，但来源和事实可追溯，需要人工确认是否保留。",
+      "cardId": "draft-real-xinhua-world-10baf6j",
+      "cardTitle": "美国悬赏最高2000万美元征集伊朗核计划情报"
+    }
+  ]
+}

@@ -1,19 +1,121 @@
 {
   "schemaVersion": 2,
-  "publishedAt": "2026-11-08T02:00:00.000Z",
+  "publishedAt": "2026-11-09T02:00:00.000Z",
   "issue": {
-    "id": "daily-public-2026-11-08",
-    "date": "2026-11-08",
+    "id": "daily-public-2026-11-09",
+    "date": "2026-11-09",
     "userId": "public",
     "cards": [
       {
-        "id": "draft-real-xinhua-world-1k6cofm",
-        "title": "美国财政部制裁加拿大境内8家与伊朗有关联的企业",
-        "oneLine": "政策变化：美国财政部6日发布公告称，其下属的外国资产控制办公室对加拿大境内8家资金服务企业实施制裁，以加大对伊朗的经济施压。",
+        "id": "draft-real-mofcom-trade-ep1so1",
+        "title": "《出口中国能力发展报告》在第九届虹桥国际经济论坛首次发布",
+        "oneLine": "政策变化：下篇题为“合力提升出口中国能力”，由联合国贸易和发展会议国际贸易与商品司编写，首批选取10个贸易伙伴展开研究，分析各国对华出口表现和潜力，从经济基础设施、产业体系和贸易政策等维度评估其出口中国的能力，并针对提出参考建议，旨在帮助各国提升出口中国的能力，共享中国超大市场机遇。",
         "importance": "S",
-        "credibility": "主流媒体",
+        "credibility": "官方来源",
         "tags": [
           "S",
+          "industry",
+          "world",
+          "china",
+          "policy"
+        ],
+        "industries": [
+          "generalPublic",
+          "financeInvestment",
+          "operationsGrowth",
+          "ecommerceRetail",
+          "consumerBrand"
+        ],
+        "section": "industry",
+        "body": {
+          "background": "11月5日，《出口中国能力发展报告》在第九届虹桥国际经济论坛上发布，是虹桥国际经济论坛的旗舰报告之一，是中国为世界各国共享中国大市场提供的重要公共产品。《报告》包括上下两篇，上篇题为“与世界共享中国大市场机遇”，由中国社会科学院世界经济与政治研究所编写，概述世界出口中国的现状，并介绍中国为扩大各国对华出口采取的具体举措。学习宣传贯彻党的二十大精神 国家层面海外综合服务平台 提振消费专项行动 政策集成和综合解读专栏 优化营商环境-国际贸易专题 外资企业问题诉求收集办理 国际消费中心城市培育建设 丝路电商——电子商务国际合作 《区域全面经济伙伴关系协定》（RCEP） 市场运行与流通发展服务平台 2025年度网站工作年度报表",
+          "keyProgress": "《出口中国能力发展报告》在第九届虹桥国际经济论坛首次发布。商务部官方信息，用于确认关税、外贸、出口管制、跨境电商和对外经贸政策。",
+          "whyItMatters": "“出口中国能力发展报告在第九届虹桥国际经济论坛首次发布”如果继续发展，可能通过能源价格、航运、贸易、汇率或市场预期传导到国内。了解它的意义在于判断后续风险，而不只停留在事件本身。",
+          "userRelevance": "即使你不在中国，“出口中国能力发展报告在第九届虹桥国际经济论坛首次发布”也可能通过能源价格、国际航运、贸易成本和市场预期间接影响国内生活与工作判断。",
+          "whatToWatch": "接下来要看“出口中国能力发展报告在第九届虹桥国际经济论坛首次发布”是否出现更细的城市、行业、平台或企业数据，以及这一变化能否连续保持。"
+        },
+        "sourceLinks": [
+          {
+            "title": "商务部新闻发布",
+            "url": "https://www.mofcom.gov.cn/xwfb/rcxwfb/art/2026/art_301031d5ca8447a6bf8fd8478d8e1052.html",
+            "sourceId": "mofcom-trade",
+            "publishedAt": "2026-11-09T00:00:00+08:00",
+            "language": "zh",
+            "originalLanguage": "zh",
+            "translationStatus": "not-needed",
+            "fetchedAt": "2026-11-09T09:25:18.676Z",
+            "sourceMethod": "web",
+            "verificationStatus": "confirmed"
+          }
+        ],
+        "images": [],
+        "generatedAt": "2026-11-09T02:00:00.000Z"
+      },
+      {
+        "id": "draft-cluster-real-mofcom-trade-dsmhg0",
+        "title": "商务部新闻发言人就调整出口管制管控名单措施答记者问",
+        "oneLine": "政策变化：出口经营者如需向上述实体出口两用物项，应当根据《中华人民共和国两用物项出口管制条例》相关规定向商务部提出申请，商务部将依法依规进行审查，符合规定的将准予许可。",
+        "importance": "S",
+        "credibility": "官方来源",
+        "tags": [
+          "S",
+          "industry",
+          "world",
+          "china",
+          "policy"
+        ],
+        "industries": [
+          "generalPublic",
+          "financeInvestment",
+          "operationsGrowth",
+          "ecommerceRetail",
+          "consumerBrand"
+        ],
+        "section": "industry",
+        "body": {
+          "background": "答： 根据出口管制相关法律法规规定，商务部于 2025 年 4 月 4 日发布 2025 年 21 号公告，将 16 家美国实体列入出口管制管控名单，禁止向其出口两用物项。问： 有消息称，根据 中美第八轮经贸磋商共识 ， 中方将 调整一批 针对美国的非关税措施。请问在 出口管制管控名单 方面有什么考虑？",
+          "keyProgress": "为落实中美第八轮经贸磋商共识安排，中方决定自 2026 年 11 月 10 日起，继续暂停实施 2025 年 第 21 号公告的相关措施 2 个月 。学习宣传贯彻党的二十大精神 国家层面海外综合服务平台 提振消费专项行动 政策集成和综合解读专栏 优化营商环境-国际贸易专题 外资企业问题诉求收集办理 国际消费中心城市培育建设 丝路电商——电子商务国际合作 《区域全面经济伙伴关系协定》（RCEP） 市场运行与流通发展服务平台 2025年度网站工作年度报表",
+          "whyItMatters": "“商务部新闻发言人就调整出口管制管控名单措施答记者问”如果继续发展，可能通过能源价格、航运、贸易、汇率或市场预期传导到国内。了解它的意义在于判断后续风险，而不只停留在事件本身。",
+          "userRelevance": "即使你不在事发地区，“商务部新闻发言人就调整出口管制管控名单措施答记者问”也可能通过能源价格、国际航运、贸易成本和市场预期间接影响国内生活与工作判断。",
+          "whatToWatch": "接下来要看“商务部新闻发言人就调整出口管制管控名单措施答记者问”是否出现更细的城市、行业、平台或企业数据，以及这一变化能否连续保持。"
+        },
+        "sourceLinks": [
+          {
+            "title": "商务部新闻发布",
+            "url": "https://www.mofcom.gov.cn/xwfb/xwfyrth/art/2026/art_5baeb69ccc0f44cb83dea8ac587dd327.html",
+            "sourceId": "mofcom-trade",
+            "publishedAt": "2026-11-09T00:00:00+08:00",
+            "language": "zh",
+            "originalLanguage": "zh",
+            "translationStatus": "not-needed",
+            "fetchedAt": "2026-11-09T09:25:18.676Z",
+            "sourceMethod": "web",
+            "verificationStatus": "confirmed"
+          },
+          {
+            "title": "商务部新闻发布",
+            "url": "https://www.mofcom.gov.cn/xwfb/xwfyrth/art/2026/art_137cb86f6deb442c963c906c2ca97e79.html",
+            "sourceId": "mofcom-trade",
+            "publishedAt": "2026-11-09T00:00:00+08:00",
+            "language": "zh",
+            "originalLanguage": "zh",
+            "translationStatus": "not-needed",
+            "fetchedAt": "2026-11-09T09:25:18.676Z",
+            "sourceMethod": "web",
+            "verificationStatus": "confirmed"
+          }
+        ],
+        "images": [],
+        "generatedAt": "2026-11-09T02:00:00.000Z"
+      },
+      {
+        "id": "draft-real-xinhua-world-1r42yib",
+        "title": "以色列总统正式授权埃森科特组建新政府",
+        "oneLine": "政策变化：以色列总统赫尔佐格8日正式授权以色列国防军前总参谋长、正直党领导人加迪·埃森科特组建新政府。",
+        "importance": "A",
+        "credibility": "主流媒体",
+        "tags": [
+          "A",
           "mustKnow",
           "industry",
           "world",
@@ -27,167 +129,329 @@
         ],
         "section": "front",
         "body": {
-          "background": "美财政部指控这些企业帮助伊朗政府、与伊朗政府有联系的被制裁实体等，将资产转入伊朗或从伊朗转出。美财政部称，这些企业促成伊朗里亚尔及其他货币与数字资产之间的兑换，从而支持伊朗参与的国际贸易。公告说，当日的行动在美财政部下属金融犯罪执法网络与加拿大金融交易与报告分析中心协作下完成。",
-          "keyProgress": "根据公告，这8家企业位于美国、被美国的个人或实体所拥有、控制的财产及其权益将被冻结。这8家企业直接或间接拥有50%及以上权益的实体也将被冻结。除非经过授权或取得豁免，禁止美国个人和实体从事与被制裁对象相关联的交易，也禁止在美国境内进行相关交易。美国曾于8月24日对伊朗发起新一轮制裁措施，从当日起把对伊朗经济制裁范围扩大到航空、数字资产、黄金、航运和技术行业等5个领域。",
-          "whyItMatters": "“美国财政部制裁加拿大境内8家与伊朗有关联的企业”如果继续发展，可能通过能源价格、航运、贸易、汇率或市场预期传导到国内。了解它的意义在于判断后续风险，而不只停留在事件本身。",
-          "userRelevance": "即使你不在美国、伊朗，“美国财政部制裁加拿大境内8家与伊朗有关联的企业”也可能通过能源价格、国际航运、贸易成本和市场预期间接影响国内生活与工作判断。",
-          "whatToWatch": "接下来要看“美国财政部制裁加拿大境内8家与伊朗有关联的企业”是否出现新的官方信息、后续行动，以及它与中国出行、贸易或公共判断的关联是否扩大。"
+          "background": "此前，现任总理内塔尼亚胡领导的右翼阵营在10月27日举行的议会选举中失去多数席位。此前，埃森科特领导的正直党获得议会120名议员中67人的推荐组建新政府，内塔尼亚胡则获得46人推荐。11月8日，在耶路撒冷，以色列国防军前总参谋长、正直党领导人加迪·埃森科特在接受组阁授权后发表讲话。",
+          "keyProgress": "他呼吁建立新的领导层，重建民众信任。11月8日，在耶路撒冷，以色列总统赫尔佐格（右）与以色列国防军前总参谋长、正直党领导人加迪·埃森科特一同出席授权仪式。新华社记者 庞昕熠 摄 赫尔佐格在当天举行的授权仪式上呼吁组建一个“能够长期执政的稳定政府”，并强调团结的重要性。埃森科特表示，以色列正处于“关键时刻”，其在多条战线军事冲突中的目标“尚未实现”，在国际社会陷入“严重危机”，民主制度也面临严峻挑战。",
+          "whyItMatters": "“以色列总统正式授权埃森科特组建新政府”如果继续发展，可能通过能源价格、航运、贸易、汇率或市场预期传导到国内。了解它的意义在于判断后续风险，而不只停留在事件本身。",
+          "userRelevance": "即使你不在以色列，“以色列总统正式授权埃森科特组建新政府”也可能通过能源价格、国际航运、贸易成本和市场预期间接影响国内生活与工作判断。",
+          "whatToWatch": "接下来要看“以色列总统正式授权埃森科特组建新政府”是否出现新的官方信息、后续行动，以及它与中国出行、贸易或公共判断的关联是否扩大。"
         },
         "sourceLinks": [
           {
             "title": "新华网国际",
-            "url": "https://www.news.cn/world/20261107/adc342f91947423b9b2b5097985f47bb/c.html",
+            "url": "https://www.news.cn/world/20261109/6d8967f1917b49108869b93708ef3f4c/c.html",
             "sourceId": "xinhua-world",
-            "publishedAt": "2026-11-07T00:00:00+08:00",
+            "publishedAt": "2026-11-09T00:00:00+08:00",
             "language": "zh",
             "originalLanguage": "zh",
             "translationStatus": "not-needed",
-            "fetchedAt": "2026-11-08T08:45:38.546Z",
+            "fetchedAt": "2026-11-09T09:25:16.238Z",
             "sourceMethod": "web",
             "verificationStatus": "confirmed"
           }
         ],
-        "images": [],
-        "generatedAt": "2026-11-08T02:00:00.000Z"
-      },
-      {
-        "id": "draft-real-mofcom-trade-nuc1st",
-        "title": "何立峰与美国财政部长贝森特、贸易代表格里尔举行视频通话",
-        "oneLine": "政策变化：北京时间11月6日晚，中美经贸中方牵头人、国务院副总理何立峰与美方牵头人、美国财政部长贝森特和贸易代表格里尔举行视频通话。",
-        "importance": "S",
-        "credibility": "官方来源",
-        "tags": [
-          "S",
-          "industry",
-          "world",
-          "china",
-          "policy"
-        ],
-        "industries": [
-          "generalPublic",
-          "financeInvestment",
-          "operationsGrowth",
-          "ecommerceRetail",
-          "consumerBrand"
-        ],
-        "section": "industry",
-        "body": {
-          "background": "双方围绕落实好中美元首北京和华盛顿会晤重要共识和经贸磋商成果，就彼此关心的重要经贸问题进行了坦诚、深入、建设性的交流。中方就近期美对华经贸限制措施表达严正关切。双方同意在两国元首战略引领下，继续发挥好中美经贸磋商机制作用，持续加强合作，妥善管控分歧，推动中美经贸关系持续稳定向好发展，助力构建“基于尊重、公平、对等的中美建设性战略稳定关系”。",
-          "keyProgress": "学习宣传贯彻党的二十大精神 国家层面海外综合服务平台 提振消费专项行动 政策集成和综合解读专栏 优化营商环境-国际贸易专题 外资企业问题诉求收集办理 国际消费中心城市培育建设 丝路电商——电子商务国际合作 《区域全面经济伙伴关系协定》（RCEP） 市场运行与流通发展服务平台 2025年度网站工作年度报表",
-          "whyItMatters": "“何立峰与美国财政部长贝森特、贸易代表格里尔举行视频通话”如果继续发展，可能通过能源价格、航运、贸易、汇率或市场预期传导到国内。了解它的意义在于判断后续风险，而不只停留在事件本身。",
-          "userRelevance": "即使你不在美国，“何立峰与美国财政部长贝森特、贸易代表格里尔举行视频通话”也可能通过能源价格、国际航运、贸易成本和市场预期间接影响国内生活与工作判断。",
-          "whatToWatch": "接下来要看“何立峰与美国财政部长贝森特、贸易代表格里尔举行视频通话”是否出现更细的城市、行业、平台或企业数据，以及这一变化能否连续保持。"
-        },
-        "sourceLinks": [
+        "images": [
           {
-            "title": "商务部新闻发布",
-            "url": "https://www.mofcom.gov.cn/xwfb/ldrhd/art/2026/art_181968933abd4dd8afb0bdc4d86b6923.html",
-            "sourceId": "mofcom-trade",
-            "publishedAt": "2026-11-07T00:00:00+08:00",
-            "language": "zh",
-            "originalLanguage": "zh",
-            "translationStatus": "not-needed",
-            "fetchedAt": "2026-11-08T08:45:40.942Z",
-            "sourceMethod": "web",
-            "verificationStatus": "confirmed"
-          }
-        ],
-        "images": [],
-        "generatedAt": "2026-11-08T02:00:00.000Z"
-      },
-      {
-        "id": "draft-real-mofcom-trade-skhi0i",
-        "title": "商务部新闻发言人就美制裁中国企业答记者问",
-        "oneLine": "政策变化：《商务部新闻发言人就美制裁中国企业答记者问》问：美东时间11月5日，美国务院宣布制裁两家中国企业。",
-        "importance": "S",
-        "credibility": "官方来源",
-        "tags": [
-          "S",
-          "industry",
-          "world",
-          "china",
-          "policy"
-        ],
-        "industries": [
-          "generalPublic",
-          "financeInvestment",
-          "operationsGrowth",
-          "ecommerceRetail",
-          "consumerBrand"
-        ],
-        "section": "industry",
-        "body": {
-          "background": "问：美东时间11月5日，美国务院宣布制裁两家中国企业。有消息称，这是美首次以涉古巴为由对中国企业实施制裁。美方以涉及第三方为由，对中国企业采取单边制裁，违反国际法和国际关系基本准则，中方对此坚决反对。",
-          "keyProgress": "学习宣传贯彻党的二十大精神 国家层面海外综合服务平台 提振消费专项行动 政策集成和综合解读专栏 优化营商环境-国际贸易专题 外资企业问题诉求收集办理 国际消费中心城市培育建设 丝路电商——电子商务国际合作 《区域全面经济伙伴关系协定》（RCEP） 市场运行与流通发展服务平台 2025年度网站工作年度报表近期，美方升级对中方制裁打压，密集出台多项歧视性限制措施，严重损害中国企业权益，背离两国元首达成的重要共识，破坏中美经贸关系稳定。中方敦促美方尽快纠正错误做法，并保留采取必要措施、维护自身正当权益的权利。",
-          "whyItMatters": "“商务部新闻发言人就美制裁中国企业答记者问”如果继续发展，可能通过能源价格、航运、贸易、汇率或市场预期传导到国内。了解它的意义在于判断后续风险，而不只停留在事件本身。",
-          "userRelevance": "即使你不在中国，“商务部新闻发言人就美制裁中国企业答记者问”也可能通过能源价格、国际航运、贸易成本和市场预期间接影响国内生活与工作判断。",
-          "whatToWatch": "接下来要看“商务部新闻发言人就美制裁中国企业答记者问”是否出现更细的城市、行业、平台或企业数据，以及这一变化能否连续保持。"
-        },
-        "sourceLinks": [
+            "url": "https://www.news.cn/world/20261109/6d8967f1917b49108869b93708ef3f4c/uzhmWpT9EsKyscCa.jpeg",
+            "sourceUrl": "https://www.news.cn/world/20261109/6d8967f1917b49108869b93708ef3f4c/c.html"
+          },
           {
-            "title": "商务部新闻发布",
-            "url": "https://www.mofcom.gov.cn/xwfb/xwfyrth/art/2026/art_0a686e2464da49a58a076d9eab42187f.html",
-            "sourceId": "mofcom-trade",
-            "publishedAt": "2026-11-07T00:00:00+08:00",
-            "language": "zh",
-            "originalLanguage": "zh",
-            "translationStatus": "not-needed",
-            "fetchedAt": "2026-11-08T08:45:40.942Z",
-            "sourceMethod": "web",
-            "verificationStatus": "confirmed"
+            "url": "https://www.news.cn/world/20261109/6d8967f1917b49108869b93708ef3f4c/FnXya79M1f31IVJl.jpg",
+            "sourceUrl": "https://www.news.cn/world/20261109/6d8967f1917b49108869b93708ef3f4c/c.html"
+          },
+          {
+            "url": "https://www.news.cn/world/20261109/6d8967f1917b49108869b93708ef3f4c/8KvRsMADI2CKgrj3.jpg",
+            "sourceUrl": "https://www.news.cn/world/20261109/6d8967f1917b49108869b93708ef3f4c/c.html"
+          },
+          {
+            "url": "https://www.news.cn/world/20261109/6d8967f1917b49108869b93708ef3f4c/9yYmA1IfVcH5q6bg.jpg",
+            "sourceUrl": "https://www.news.cn/world/20261109/6d8967f1917b49108869b93708ef3f4c/c.html"
           }
         ],
-        "images": [],
-        "generatedAt": "2026-11-08T02:00:00.000Z"
+        "generatedAt": "2026-11-09T02:00:00.000Z"
       },
       {
-        "id": "draft-real-xinhua-world-10baf6j",
-        "title": "美国悬赏最高2000万美元征集伊朗核计划情报",
-        "oneLine": "政策变化：美军中央司令部6日发布信息，悬赏最高2000万美元征集伊朗核计划情报。",
-        "importance": "B",
+        "id": "draft-real-xinhua-world-o8tglk",
+        "title": "南非地方选举计票结束 非国大保住第一大党地位",
+        "oneLine": "政策变化：11月8日，在南非约翰内斯堡米德兰地区举行的地方选举结果公布仪式上，南非总统拉马福萨发表讲话。",
+        "importance": "A",
         "credibility": "主流媒体",
+        "tags": [
+          "A",
+          "mustKnow",
+          "industry",
+          "world",
+          "policy"
+        ],
+        "industries": [
+          "generalPublic",
+          "financeInvestment",
+          "operationsGrowth",
+          "contentCreator"
+        ],
+        "section": "front",
+        "body": {
+          "background": "根据南非独立选举委员会8日公布的选举结果，执政党非洲人国民大会（非国大）在地方政府选举中保住第一大党地位，但得票率降至不足31%，较2021年地方政府选举下跌接近15个百分点。新华社发（南非政府新闻办公室供图） 在当天下午于约翰内斯堡米德兰地区举行的地方选举结果公布仪式上，拉马福萨祝贺当选的议员。他强调，在没有任何党派赢得绝对多数的地区，各党派应寻求共同点，尽快组建市议会并按时通过预算案，确保市政稳定和基本服务不受政治分歧影响。",
+          "keyProgress": "对长期主政南非的非国大而言，如何改善地方治理、推动经济增长并重建公众信任，将直接关系其能否扭转支持率逐年下滑的态势。选举结果显示，在全部有效选票中，南非总统拉马福萨领导的非国大得票率为30.76%，该党主要竞争对手民主联盟得票率为24.64%。前总统祖马领导的民族之矛党首次参加地方政府选举，得票率9.77%。新华社发（南非政府新闻办公室供图） 据独立选举委员会统计，此次选举投票率为52%，高于2021年地方选举的45.9%。",
+          "whyItMatters": "“南非地方选举计票结束 非国大保住第一大党地位”如果继续发展，可能通过能源价格、航运、贸易、汇率或市场预期传导到国内。了解它的意义在于判断后续风险，而不只停留在事件本身。",
+          "userRelevance": "即使你不在事发地区，“南非地方选举计票结束 非国大保住第一大党地位”也可能通过能源价格、国际航运、贸易成本和市场预期间接影响国内生活与工作判断。",
+          "whatToWatch": "接下来要看“南非地方选举计票结束 非国大保住第一大党地位”是否出现新的官方信息、后续行动，以及它与中国出行、贸易或公共判断的关联是否扩大。"
+        },
+        "sourceLinks": [
+          {
+            "title": "新华网国际",
+            "url": "https://www.news.cn/world/20261109/bd2e086f269c47639def61210683e288/c.html",
+            "sourceId": "xinhua-world",
+            "publishedAt": "2026-11-09T00:00:00+08:00",
+            "language": "zh",
+            "originalLanguage": "zh",
+            "translationStatus": "not-needed",
+            "fetchedAt": "2026-11-09T09:25:16.238Z",
+            "sourceMethod": "web",
+            "verificationStatus": "confirmed"
+          }
+        ],
+        "images": [
+          {
+            "url": "https://www.news.cn/world/20261109/bd2e086f269c47639def61210683e288/PltFHtTCnCyZRxLL.jpeg",
+            "sourceUrl": "https://www.news.cn/world/20261109/bd2e086f269c47639def61210683e288/c.html"
+          },
+          {
+            "url": "https://www.news.cn/world/20261109/bd2e086f269c47639def61210683e288/aZxneLvk6wN7LbYA.jpeg",
+            "sourceUrl": "https://www.news.cn/world/20261109/bd2e086f269c47639def61210683e288/c.html"
+          },
+          {
+            "url": "https://www.news.cn/world/20261109/bd2e086f269c47639def61210683e288/smGfn3pWdKDSDrSV.jpeg",
+            "sourceUrl": "https://www.news.cn/world/20261109/bd2e086f269c47639def61210683e288/c.html"
+          }
+        ],
+        "generatedAt": "2026-11-09T02:00:00.000Z"
+      },
+      {
+        "id": "draft-cluster-real-xinhua-world-jyrhmu",
+        "title": "埃及吉萨列车相撞事故已致7死112伤",
+        "oneLine": "政策变化：《埃及吉萨列车相撞事故已致7死112伤》这是11月8日在埃及吉萨省拍摄的事故现场。",
+        "importance": "A",
+        "credibility": "主流媒体",
+        "tags": [
+          "A",
+          "mustKnow",
+          "industry",
+          "world",
+          "policy"
+        ],
+        "industries": [
+          "generalPublic",
+          "financeInvestment",
+          "operationsGrowth",
+          "contentCreator"
+        ],
+        "section": "front",
+        "body": {
+          "background": "埃及卫生部11月8日发表声明说，当天埃及吉萨省发生客运列车相撞事故，死亡人数已升至7人，受伤人数升至112人。新华社记者 辛梦晨 摄 pagebreak 11月8日，工作人员在埃及吉萨省的事故现场开展救援。这是11月8日在埃及吉萨省拍摄的事故现场。",
+          "keyProgress": "埃及吉萨列车相撞事故已致7死112伤。埃及吉萨列车相撞事故已致7死112伤",
+          "whyItMatters": "“埃及吉萨列车相撞事故已致7死112伤”如果继续发展，可能通过能源价格、航运、贸易、汇率或市场预期传导到国内。了解它的意义在于判断后续风险，而不只停留在事件本身。",
+          "userRelevance": "即使你不在事发地区，“埃及吉萨列车相撞事故已致7死112伤”也可能通过能源价格、国际航运、贸易成本和市场预期间接影响国内生活与工作判断。",
+          "whatToWatch": "接下来要看“埃及吉萨列车相撞事故已致7死112伤”是否出现新的官方信息、后续行动，以及它与中国出行、贸易或公共判断的关联是否扩大。"
+        },
+        "sourceLinks": [
+          {
+            "title": "新华网国际",
+            "url": "https://www.news.cn/world/20261109/490acae6dcbc468d8fe53acd9b43a516/c.html",
+            "sourceId": "xinhua-world",
+            "publishedAt": "2026-11-09T00:00:00+08:00",
+            "language": "zh",
+            "originalLanguage": "zh",
+            "translationStatus": "not-needed",
+            "fetchedAt": "2026-11-09T09:25:16.238Z",
+            "sourceMethod": "web",
+            "verificationStatus": "confirmed"
+          },
+          {
+            "title": "新华网国际",
+            "url": "https://www.news.cn/world/20261109/ee9e6c90635640aab78c68b0affae358/c.html",
+            "sourceId": "xinhua-world",
+            "publishedAt": "2026-11-09T00:00:00+08:00",
+            "language": "zh",
+            "originalLanguage": "zh",
+            "translationStatus": "not-needed",
+            "fetchedAt": "2026-11-09T09:25:16.238Z",
+            "sourceMethod": "web",
+            "verificationStatus": "confirmed"
+          }
+        ],
+        "images": [
+          {
+            "url": "https://www.news.cn/world/20261109/490acae6dcbc468d8fe53acd9b43a516/2026110999be386a0cce4182b2c27bfd4272898f_20261109c536987c026b4ab38f4ae5a295bb4dee.jpg",
+            "sourceUrl": "https://www.news.cn/world/20261109/490acae6dcbc468d8fe53acd9b43a516/c.html"
+          },
+          {
+            "url": "https://www.news.cn/world/20261109/490acae6dcbc468d8fe53acd9b43a516/2026110999be386a0cce4182b2c27bfd4272898f_202611091148182f383745a7b6cf49c78bda3d77.jpg",
+            "sourceUrl": "https://www.news.cn/world/20261109/490acae6dcbc468d8fe53acd9b43a516/c.html"
+          },
+          {
+            "url": "https://www.news.cn/world/20261109/490acae6dcbc468d8fe53acd9b43a516/2026110999be386a0cce4182b2c27bfd4272898f_20261109d8081323404d4ffb8acfd7d603a83f48.jpg",
+            "sourceUrl": "https://www.news.cn/world/20261109/490acae6dcbc468d8fe53acd9b43a516/c.html"
+          }
+        ],
+        "generatedAt": "2026-11-09T02:00:00.000Z"
+      },
+      {
+        "id": "draft-real-xinhua-world-1fc9sol",
+        "title": "美国一大学校园发生两起枪击事件致1死3伤",
+        "oneLine": "政策变化：据美国媒体报道，美国北卡罗来纳州温斯顿-塞勒姆州立大学校园内7日晚间发生两起枪击事件，造成1人死亡、3人受伤。",
+        "importance": "A",
+        "credibility": "主流媒体",
+        "tags": [
+          "A",
+          "mustKnow",
+          "industry",
+          "world",
+          "policy"
+        ],
+        "industries": [
+          "generalPublic",
+          "financeInvestment",
+          "operationsGrowth",
+          "contentCreator"
+        ],
+        "section": "front",
+        "body": {
+          "background": "温斯顿-塞勒姆警察局助理局长杰森·斯韦姆在8日举行的新闻发布会上表示，目前尚不清楚这两起枪击事件是否有关联。事发不久校园便进入封锁状态，并于8日清晨解除封锁。警方表示，未来几天将在校园内外增派警力。",
+          "keyProgress": "美国一大学校园发生两起枪击事件致1死3伤。美国一大学校园发生两起枪击事件致1死3伤",
+          "whyItMatters": "“美国一大学校园发生两起枪击事件致1死3伤”如果继续发展，可能通过能源价格、航运、贸易、汇率或市场预期传导到国内。了解它的意义在于判断后续风险，而不只停留在事件本身。",
+          "userRelevance": "即使你不在美国，“美国一大学校园发生两起枪击事件致1死3伤”也可能通过能源价格、国际航运、贸易成本和市场预期间接影响国内生活与工作判断。",
+          "whatToWatch": "接下来要看“美国一大学校园发生两起枪击事件致1死3伤”是否出现新的官方信息、后续行动，以及它与中国出行、贸易或公共判断的关联是否扩大。"
+        },
+        "sourceLinks": [
+          {
+            "title": "新华网国际",
+            "url": "https://www.news.cn/world/20261109/ca83d98d41db499bb286b8fbd189ccb4/c.html",
+            "sourceId": "xinhua-world",
+            "publishedAt": "2026-11-09T00:00:00+08:00",
+            "language": "zh",
+            "originalLanguage": "zh",
+            "translationStatus": "not-needed",
+            "fetchedAt": "2026-11-09T09:25:16.238Z",
+            "sourceMethod": "web",
+            "verificationStatus": "confirmed"
+          }
+        ],
+        "images": [],
+        "generatedAt": "2026-11-09T02:00:00.000Z"
+      },
+      {
+        "id": "draft-real-xinhua-world-c6w8jl",
+        "title": "伊朗媒体称格什姆岛遭美军袭击",
+        "oneLine": "政策变化：据伊朗塔斯尼姆通讯社8日晚报道，伊朗南部格什姆岛遭到美军袭击。",
+        "importance": "A",
+        "credibility": "主流媒体",
+        "tags": [
+          "A",
+          "mustKnow",
+          "industry",
+          "world",
+          "policy"
+        ],
+        "industries": [
+          "generalPublic",
+          "financeInvestment",
+          "operationsGrowth",
+          "contentCreator"
+        ],
+        "section": "front",
+        "body": {
+          "background": "报道还说，此前网络上有传言称锡里克岛和阿巴斯港也传出爆炸声，但目前掌握的信息显示，这两地爆炸与袭击无关，而是与伊朗为维护霍尔木兹海峡安全所采取的行动有关。伊朗伊斯兰共和国通讯社稍早前报道说，格什姆岛传出4声爆炸声。",
+          "keyProgress": "这条信息的核心变化围绕“伊朗媒体称格什姆岛遭美军袭击”展开，后续需要重点确认影响范围、执行节点和是否出现更多来源确认。",
+          "whyItMatters": "“伊朗媒体称格什姆岛遭美军袭击”如果继续发展，可能通过能源价格、航运、贸易、汇率或市场预期传导到国内。了解它的意义在于判断后续风险，而不只停留在事件本身。",
+          "userRelevance": "即使你不在伊朗，“伊朗媒体称格什姆岛遭美军袭击”也可能通过能源价格、国际航运、贸易成本和市场预期间接影响国内生活与工作判断。",
+          "whatToWatch": "接下来要看“伊朗媒体称格什姆岛遭美军袭击”是否出现新的官方信息、后续行动，以及它与中国出行、贸易或公共判断的关联是否扩大。"
+        },
+        "sourceLinks": [
+          {
+            "title": "新华网国际",
+            "url": "https://www.news.cn/world/20261109/0da1d0a64f43435293050fadeafd5fcc/c.html",
+            "sourceId": "xinhua-world",
+            "publishedAt": "2026-11-09T00:00:00+08:00",
+            "language": "zh",
+            "originalLanguage": "zh",
+            "translationStatus": "not-needed",
+            "fetchedAt": "2026-11-09T09:25:16.238Z",
+            "sourceMethod": "web",
+            "verificationStatus": "confirmed"
+          }
+        ],
+        "images": [],
+        "generatedAt": "2026-11-09T02:00:00.000Z"
+      },
+      {
+        "id": "draft-real-eol-education-15slwes",
+        "title": "浙江“十五五”教育发展规划：支持杭州筹办钱塘大学（暂名）",
+        "oneLine": "最新进展：浙江“十五五”教育发展规划：支持杭州筹办钱塘大学（暂名）。",
+        "importance": "B",
+        "credibility": "待确认",
         "tags": [
           "B",
-          "mustKnow",
           "industry",
-          "world",
-          "policy"
+          "local",
+          "education",
+          "policy",
+          "china"
         ],
         "industries": [
-          "generalPublic",
-          "financeInvestment",
-          "operationsGrowth",
-          "contentCreator"
+          "teacher",
+          "educationResearch",
+          "generalPublic"
         ],
-        "section": "front",
+        "section": "local",
         "body": {
-          "background": "美军中央司令部在社交媒体上发布帖文写道，美方“悬赏最高2000万美元，并提供可能的搬迁安置，征集有关伊朗核计划的信息，包括其设施、设备及相关人员（例如科学界人士）或上述任何对象动向的情报”。",
-          "keyProgress": "美国悬赏最高2000万美元征集伊朗核计划情报。美国悬赏最高2000万美元征集伊朗核计划情报",
-          "whyItMatters": "“美国悬赏最高2000万美元征集伊朗核计划情报”如果继续发展，可能通过能源价格、航运、贸易、汇率或市场预期传导到国内。了解它的意义在于判断后续风险，而不只停留在事件本身。",
-          "userRelevance": "即使你不在美国、伊朗，“美国悬赏最高2000万美元征集伊朗核计划情报”也可能通过能源价格、国际航运、贸易成本和市场预期间接影响国内生活与工作判断。",
-          "whatToWatch": "接下来要看“美国悬赏最高2000万美元征集伊朗核计划情报”是否出现新的官方信息、后续行动，以及它与中国出行、贸易或公共判断的关联是否扩大。"
+          "background": "合作邮箱：bianji@eol.cn 官方微信ID：eoleoleol 11月5日，浙江省教育厅发布关于印发浙江省“十五五”教育事业发展规划的通知。2025年1月，农夫山泉母公司养生堂集团董事长钟睒睒在公司年会上宣布，计划在未来十年捐赠400亿元人民币用于筹办杭州的“钱塘大学”。2026年3月，杭州市规划和自然资源局发布钱塘大学(暂名)校园建设项目(一期)建设工程规划许可证，面积为338676㎡。",
+          "keyProgress": "明确提出：加快推进高水平大学建设，支持浙江大学“一圈一网一高地”建设，支持西湖大学、宁波东方理工大学建设世界一流新型研究型大学，支持中国美术学院、宁波大学提升“双一流”建设水平，推动一批高校争创国家“双一流”高校， 支持杭州筹办钱塘大学(暂名) 。以习近平新时代中国特色社会主义思想为指导，全面贯彻落实党的二十大和二十届历次全会精神，深入学习贯彻习近平总书记关于教育的重要论述和考察浙江重要讲话精神特别是“4+1”重要要求，忠实践行“八八战略”，落实省委“132”总体工作部署，坚持教育优先发展，全面贯彻党的教育方针，牢牢把握教育的政治属性、人民属性、战略属性，锚定教育强省建设目标，紧扣擦亮“浙里优学”金名片，以办好人民满意的教育为价值导向，全面落实立德树人根本任务，加快建设高质量教育体系，为全面建成高水平创新型省份、高质量发展建设共同富裕示范区、率先呈现基本实现社会主义现代化的生动图景贡献教育力量。实施新时代立德树人工程，坚持全员全过程全方位全领域育人。",
+          "whyItMatters": "“浙江十五五教育发展规划：支持杭州筹办钱塘大学”可能影响学校治理、教师工作、课程安排或学生发展。教育从业者可以据此提前关注具体对象、地方执行方式和工作要求。",
+          "userRelevance": "如果你从事教师、教育研究或学校管理，可以重点关注“浙江十五五教育发展规划：支持杭州筹办钱塘大学”的具体对象、执行方式和地方落地节奏；其他用户可把它作为教育环境背景了解。",
+          "whatToWatch": "接下来要看“浙江十五五教育发展规划：支持杭州筹办钱塘大学”是否补充执行细则、地方落地安排、时间节点或适用人群说明。"
         },
         "sourceLinks": [
           {
-            "title": "新华网国际",
-            "url": "https://www.news.cn/world/20261107/d170c3ed7f8c4f6ea731cc0c07b1f4c8/c.html",
-            "sourceId": "xinhua-world",
-            "publishedAt": "2026-11-07T00:00:00+08:00",
+            "title": "中国教育在线要闻",
+            "url": "https://www.eol.cn/news/yaowen/202611/t20261109_2791903.shtml",
+            "sourceId": "eol-education",
+            "publishedAt": "2026-11-09T00:00:00+08:00",
             "language": "zh",
             "originalLanguage": "zh",
             "translationStatus": "not-needed",
-            "fetchedAt": "2026-11-08T08:45:38.546Z",
+            "fetchedAt": "2026-11-09T09:25:21.836Z",
             "sourceMethod": "web",
-            "verificationStatus": "confirmed"
+            "verificationStatus": "pending"
           }
         ],
-        "images": [],
-        "generatedAt": "2026-11-08T02:00:00.000Z"
+        "images": [
+          {
+            "url": "https://www.eol.cn/images/ad/2017_img/arrow.png",
+            "sourceUrl": "https://www.eol.cn/news/yaowen/202611/t20261109_2791903.shtml"
+          },
+          {
+            "url": "https://www.eol.cn/images/ad/2017_img/phone.png",
+            "sourceUrl": "https://www.eol.cn/news/yaowen/202611/t20261109_2791903.shtml"
+          },
+          {
+            "url": "https://img.eol.cn/e_images/gk/2020/newzsgk.jpg",
+            "sourceUrl": "https://www.eol.cn/news/yaowen/202611/t20261109_2791903.shtml"
+          },
+          {
+            "url": "https://img.eol.cn/e_images/gk/2023/zsky2023.jpg",
+            "sourceUrl": "https://www.eol.cn/news/yaowen/202611/t20261109_2791903.shtml"
+          },
+          {
+            "url": "https://www.eol.cn/e_images/index/2018/acabridge.png",
+            "sourceUrl": "https://www.eol.cn/news/yaowen/202611/t20261109_2791903.shtml"
+          }
+        ],
+        "generatedAt": "2026-11-09T02:00:00.000Z"
       },
       {
-        "id": "draft-cluster-real-city-news-rss:%E4%B8%AD%E5%9B%BD-%E4%B8%8A%E6%B5%B7-coq11d",
-        "title": "上海发布数字公共服务矩阵 2026-11-08 今日上海",
-        "oneLine": "政策变化：6日举办的2026上海数字城市活动月主题日上，上海集中发布数字公共服务领域四项成果：上海市数字公共服务全景图与白皮书（2026版）、2026上海市数字公共服务星级机构、2026上海市优秀数字服务官、阿发数字服务官智能体2.0。",
+        "id": "draft-real-city-news-rss:%E4%B8%AD%E5%9B%BD-%E4%B8%8A%E6%B5%B7-14wgahj",
+        "title": "一些跨国企业展台变化显示 进博会正从“首发”“首展”走向“首创”“首产” 发展新布局：在中国研发 在中国生产 2026-11-09 今日上海",
+        "oneLine": "政策变化：在第九届进博会上，全球植保巨头先正达把一座研发中心的模型摆在了展台&ldquo;C位&rdquo;，它就是落户上海金山的先正达植保中国创新中心。",
         "importance": "B",
         "credibility": "待确认",
         "tags": [
@@ -204,45 +468,92 @@
         ],
         "section": "local",
         "body": {
-          "background": "今年，上海首次开展数字公共服务星级机构综合评定工作，21家机构获评2026上海市数字公共服务星级机构。活动同步发布12位2026上海市优秀数字服务官。四项成果共同构成&ldquo;全景图谱指引+标杆机构阵地+一线人才队伍+AI智能赋能&rdquo;的完整数字公共服务能力矩阵。",
-          "keyProgress": "下一步，上海将持续完善数字公共服务&ldquo;1+N+X&rdquo;体系，不断扩大服务覆盖面，为上海实体经济数字化转型注入源源不断的服务动能。据介绍，上海市数字公共服务能力全景图归集了全市31家服务机构、1200余项数字产品供给以及24项核心服务能力。企业可以按照所属行业快速定位适配的服务站点与产品，为供需两端搭建清晰的信息桥梁。这批优秀代表长期扎根园区服务一线，为企业精准匹配数字化解决方案，弥合企业数字化转型当中的供需信息差。",
-          "whyItMatters": "“上海发布数字公共服务矩阵 2026-11-08 今日上海”可能改变个人办事、出行、公共服务或行业规则。提前确认适用范围和生效时间，可以减少信息滞后带来的判断偏差。",
-          "userRelevance": "作为中国居民，你需要留意“上海发布数字公共服务矩阵 2026-11-08 今日上海”是否改变办事、出行或公共服务规则；如果你从事本地生活、运营增长，还应关注行业执行细则。",
-          "whatToWatch": "接下来要看“上海发布数字公共服务矩阵 2026-11-08 今日上海”是否补充执行细则、地方落地安排、时间节点或适用人群说明。"
+          "background": "同一个展区的&ldquo;邻居&rdquo;达能，也在前几天正式启用了位于浦东的上海研发与创新中心。跨国企业相继把研发能力延伸至中国，折射出在华发展的新趋势：中国正从重要的销售市场，进一步成为跨国企业全球创新网络中的研发节点和成果策源地。从&ldquo;首展&rdquo;&ldquo;首发&rdquo;到&ldquo;首创&rdquo;&ldquo;首产&rdquo;，进博会展台上的变化，正是这一转向的缩影。",
+          "keyProgress": "同时，先正达在安徽合肥推进全球水稻技术创新中心，联动研发、生产和销售资源，推动中国水稻技术和品种走向海外。进博会上展示的AI辅助育种平台RiceNavi，已完成500多个水稻品种的基因解析。&ldquo;中国不仅是达能最重要的战略市场之一，也日益成为达能全球创新的重要来源。&rdquo;达能亚太地区总裁及中国CEO谢伟博表示，达能将加速面向中国和亚太市场的创新。",
+          "whyItMatters": "“一些跨国企业展台变化显示 进博会正从首发首展走向首创首产 发展新布局”可能改变个人办事、出行、公共服务或行业规则。提前确认适用范围和生效时间，可以减少信息滞后带来的判断偏差。",
+          "userRelevance": "作为中国居民，你需要留意“一些跨国企业展台变化显示 进博会正从首发首展走向首创首产 发展新布局”是否改变办事、出行或公共服务规则；如果你从事本地生活、运营增长，还应关注行业执行细则。",
+          "whatToWatch": "接下来要看“一些跨国企业展台变化显示 进博会正从首发首展走向首创首产 发展新布局”是否补充执行细则、地方落地安排、时间节点或适用人群说明。"
         },
         "sourceLinks": [
           {
             "title": "直辖市·上海本地公开信息",
-            "url": "https://www.shanghai.gov.cn/nw4411/20261108/46aa9ad6b03148a980c93fd3ebc33cab.html",
+            "url": "https://www.shanghai.gov.cn/nw4411/20261109/0bc1dc642c49454fb80592681db59424.html",
             "sourceId": "city-news-rss:%E4%B8%AD%E5%9B%BD-%E4%B8%8A%E6%B5%B7",
-            "publishedAt": "2026-11-08T00:00:00+08:00",
+            "publishedAt": "2026-11-09T00:00:00+08:00",
             "language": "zh",
             "originalLanguage": "zh",
             "translationStatus": "not-needed",
-            "fetchedAt": "2026-11-08T08:47:47.206Z",
-            "sourceMethod": "web",
-            "verificationStatus": "pending"
-          },
-          {
-            "title": "直辖市·上海本地公开信息",
-            "url": "https://www.shanghai.gov.cn/nw4411/20261108/31dac235c272447f9f2cb7ad8d964198.html",
-            "sourceId": "city-news-rss:%E4%B8%AD%E5%9B%BD-%E4%B8%8A%E6%B5%B7",
-            "publishedAt": "2026-11-08T00:00:00+08:00",
-            "language": "zh",
-            "originalLanguage": "zh",
-            "translationStatus": "not-needed",
-            "fetchedAt": "2026-11-08T08:47:47.206Z",
+            "fetchedAt": "2026-11-09T09:27:31.956Z",
             "sourceMethod": "web",
             "verificationStatus": "pending"
           }
         ],
         "images": [],
-        "generatedAt": "2026-11-08T02:00:00.000Z"
+        "generatedAt": "2026-11-09T02:00:00.000Z"
       },
       {
-        "id": "draft-real-eol-education-4m2vom",
-        "title": "教育部党组理论学习中心组举行集体学习会，专题学习贯彻党的二十届五中全会精神",
-        "oneLine": "政策变化：会议强调，学习宣传贯彻党的二十届五中全会精神，是教育系统当前和今后一个时期的重大政治任务，要从巩固党的长期执政地位、实现中华民族伟大复兴的战略高度，准确把握持之以恒推进全面从严治党的指导思想、重大原则、战略任务和重大举措，切实把思想和行动统一到全会精神和《决定》部署要求上来。",
+        "id": "draft-real-xinhua-tech-5o9iz1",
+        "title": "进博手记：AI跑得快，传统工业忙起来",
+        "oneLine": "趋势信号：人工智能（AI）向云端奔跑，工业在地面生长。",
+        "importance": "B",
+        "credibility": "主流媒体",
+        "tags": [
+          "B",
+          "industry",
+          "technology",
+          "ai",
+          "product"
+        ],
+        "industries": [
+          "technologyEngineering",
+          "educationResearch",
+          "aiProduct",
+          "aiTechnology",
+          "productManagement",
+          "operationsGrowth"
+        ],
+        "section": "ai",
+        "body": {
+          "background": "这意味着，一座500兆瓦的数据中心，相当于多出25兆瓦的电力用于IT负载，让更多电力真正转化为算力。压缩机、泵、风机、换热设备原本广泛应用于空调和工业制冷，如今随着AI算力需求增长，企业开始针对算力、数据中心高功率、高可靠性和节能要求改进产品。它看似不起眼，却关系着设施能否经受时间和环境的考验。",
+          "keyProgress": "展台上，一座白色沙盘模拟台展示着高密度AI万卡集群数据中心的解决方案，它像一条高效的“电力高速公路”，把电能又快又稳地送到成千上万张芯片身边，让算力中心吃得饱、跑得快。日本松下展示的散热思路是一边推动冷却液循环，一边加速空气流动，为算力中心及时带走热量。老技术遇上新场景，催生出新的产品和市场。更让人感叹的是，AI带来的产业变化甚至延伸到一层薄薄的涂料。",
+          "whyItMatters": "“进博手记：AI跑得快，传统工业忙起来”能帮助你判断这项能力是否已经进入工程、产品或商业场景，并据此调整技术选型、产品规划、学习重点或职业判断。",
+          "userRelevance": "如果你从事技术研发、教育研究、AI 产品、AI 技术，可以重点判断“进博手记：AI跑得快，传统工业忙起来”是否已经具备产品落地、技术选型或业务合作价值。",
+          "whatToWatch": "接下来要看“进博手记：AI跑得快，传统工业忙起来”是否有更多可靠来源、量产或应用进展，以及它会不会从单点消息发展成持续趋势。"
+        },
+        "sourceLinks": [
+          {
+            "title": "新华网科技",
+            "url": "https://www.news.cn/tech/20261109/46ed41b79bfc48c4bf4fd518c6e4ee6b/c.html",
+            "sourceId": "xinhua-tech",
+            "publishedAt": "2026-11-09T00:00:00+08:00",
+            "language": "zh",
+            "originalLanguage": "zh",
+            "translationStatus": "not-needed",
+            "fetchedAt": "2026-11-09T09:25:16.572Z",
+            "sourceMethod": "web",
+            "verificationStatus": "confirmed"
+          }
+        ],
+        "images": [
+          {
+            "url": "https://www.news.cn/tech/20261109/46ed41b79bfc48c4bf4fd518c6e4ee6b/2026110946ed41b79bfc48c4bf4fd518c6e4ee6b_202611092043ff325a9049a38a0f82da84dd75e0.jpg",
+            "sourceUrl": "https://www.news.cn/tech/20261109/46ed41b79bfc48c4bf4fd518c6e4ee6b/c.html"
+          },
+          {
+            "url": "https://www.news.cn/tech/20261109/46ed41b79bfc48c4bf4fd518c6e4ee6b/2026110946ed41b79bfc48c4bf4fd518c6e4ee6b_20261109c025d9441e8f46d19fbd041e433330c7.jpg",
+            "sourceUrl": "https://www.news.cn/tech/20261109/46ed41b79bfc48c4bf4fd518c6e4ee6b/c.html"
+          },
+          {
+            "url": "https://www.news.cn/tech/20261109/46ed41b79bfc48c4bf4fd518c6e4ee6b/2026110946ed41b79bfc48c4bf4fd518c6e4ee6b_2026110929db32b50618484487969b7ce3ad9b5e.jpg",
+            "sourceUrl": "https://www.news.cn/tech/20261109/46ed41b79bfc48c4bf4fd518c6e4ee6b/c.html"
+          }
+        ],
+        "generatedAt": "2026-11-09T02:00:00.000Z"
+      },
+      {
+        "id": "draft-real-eol-education-pm7adp",
+        "title": "《黑龙江省教育发展“十五五”规划》：启动高水平应用型本科高校“双优”建设",
+        "oneLine": "最新进展：《黑龙江省教育发展“十五五”规划》：启动高水平应用型本科高校“双优”建设。",
         "importance": "B",
         "credibility": "待确认",
         "tags": [
@@ -259,22 +570,22 @@
         ],
         "section": "industry",
         "body": {
-          "background": "合作邮箱：bianji@eol.cn 官方微信ID：eoleoleol 11月6日，教育部党组理论学习中心组举行“学习贯彻党的二十届五中全会精神”专题集体学习会，认真学习领会习近平总书记在全会上的重要讲话精神和《中共中央关于持之以恒推进全面从严治党若干重大问题的决定》，结合教育工作实际开展集体学习研讨。教育部党组书记、部长怀进鹏主持会议，部党组成员作交流发言。部党的建设和全面从严治党领导小组成员单位负责同志列席会议。",
-          "keyProgress": "要提高政治站位，深刻领悟“两个确立”的决定性意义，增强“四个意识”、坚定“四个自信”、做到“两个维护”，牢牢把握教育的政治属性、人民属性、战略属性，持续健全党中央重大决策部署落实机制，坚持和加强党对教育工作的全面领导，确保教育系统始终坚定正确办学方向和育人导向。要把增强党性作为根本性任务，强化对党忠诚教育，坚持用党的创新理论凝心铸魂，严格贯彻执行民主集中制，锻造堪当民族复兴重任的高素质干部队伍，建设上下贯通、执行有力的严密组织体系，全面提升教育系统党建工作质量。要驰而不息推进正风肃纪反腐，锲而不舍落实中央八项规定精神，走好新时代党的群众路线，统筹推进党风政风、师德师风、校风学风建设，建立健全常态化长效化纪律教育机制，营造更加风清气正的政治生态和育人环境。",
-          "whyItMatters": "“教育部党组理论学习中心组举行集体学习会，专题学习贯彻党的二十届五中全会精神”可能影响学校治理、教师工作、课程安排或学生发展。教育从业者可以据此提前关注具体对象、地方执行方式和工作要求。",
-          "userRelevance": "如果你从事教师、教育研究或学校管理，可以重点关注“教育部党组理论学习中心组举行集体学习会，专题学习贯彻党的二十届五中全会精神”的具体对象、执行方式和地方落地节奏；其他用户可把它作为教育环境背景了解。",
-          "whatToWatch": "接下来要看“教育部党组理论学习中心组举行集体学习会，专题学习贯彻党的二十届五中全会精神”是否补充执行细则、地方落地安排、时间节点或适用人群说明。"
+          "background": "合作邮箱：bianji@eol.cn 官方微信ID：eoleoleol 近日，黑龙江省人民政府发布关于印发《黑龙江省教育发展“十五五”规划》的通知。加强数智化升级改造，分学科领域开展人工智能教育教学研究，推行“人工智能+专业”建设。常态长效推进党政领导干部、先进典型进校园开展思想政治教育。",
+          "keyProgress": "规划提出，启动高水平应用型本科高校“双优”建设。推动高校与地方、行业企业共建区域产教融合创新平台、区域发展智库、工程技术研究中心、技术转移转化平台。同时，该规划强调健全完善学科专业设置调整优化机制。健全完善科技发展、国家战略需求牵引的学科专业设置调整优化机制，加快学科专业设置调整优化机制改革试点建设，加强省级统筹指导，动态优化学科专业“急需紧缺、前瞻布局、预警退出”三类清单，推动高校学科专业设置“一校一案”精准落地。",
+          "whyItMatters": "“黑龙江省教育发展十五五规划：启动高水平应用型本科高校双优建设”可能影响学校治理、教师工作、课程安排或学生发展。教育从业者可以据此提前关注具体对象、地方执行方式和工作要求。",
+          "userRelevance": "如果你从事教师、教育研究或学校管理，可以重点关注“黑龙江省教育发展十五五规划：启动高水平应用型本科高校双优建设”的具体对象、执行方式和地方落地节奏；其他用户可把它作为教育环境背景了解。",
+          "whatToWatch": "接下来要看“黑龙江省教育发展十五五规划：启动高水平应用型本科高校双优建设”是否补充执行细则、地方落地安排、时间节点或适用人群说明。"
         },
         "sourceLinks": [
           {
             "title": "中国教育在线要闻",
-            "url": "https://www.eol.cn/news/wuzhongquanhui/202611/t20261108_2791650.shtml",
+            "url": "https://www.eol.cn/news/yaowen/202611/t20261109_2791973.shtml",
             "sourceId": "eol-education",
-            "publishedAt": "2026-11-08T00:00:00+08:00",
+            "publishedAt": "2026-11-09T00:00:00+08:00",
             "language": "zh",
             "originalLanguage": "zh",
             "translationStatus": "not-needed",
-            "fetchedAt": "2026-11-08T08:45:44.179Z",
+            "fetchedAt": "2026-11-09T09:25:21.836Z",
             "sourceMethod": "web",
             "verificationStatus": "pending"
           }
@@ -282,31 +593,31 @@
         "images": [
           {
             "url": "https://www.eol.cn/images/ad/2017_img/arrow.png",
-            "sourceUrl": "https://www.eol.cn/news/wuzhongquanhui/202611/t20261108_2791650.shtml"
+            "sourceUrl": "https://www.eol.cn/news/yaowen/202611/t20261109_2791973.shtml"
           },
           {
             "url": "https://www.eol.cn/images/ad/2017_img/phone.png",
-            "sourceUrl": "https://www.eol.cn/news/wuzhongquanhui/202611/t20261108_2791650.shtml"
+            "sourceUrl": "https://www.eol.cn/news/yaowen/202611/t20261109_2791973.shtml"
           },
           {
             "url": "https://img.eol.cn/e_images/gk/2020/newzsgk.jpg",
-            "sourceUrl": "https://www.eol.cn/news/wuzhongquanhui/202611/t20261108_2791650.shtml"
+            "sourceUrl": "https://www.eol.cn/news/yaowen/202611/t20261109_2791973.shtml"
           },
           {
             "url": "https://img.eol.cn/e_images/gk/2023/zsky2023.jpg",
-            "sourceUrl": "https://www.eol.cn/news/wuzhongquanhui/202611/t20261108_2791650.shtml"
+            "sourceUrl": "https://www.eol.cn/news/yaowen/202611/t20261109_2791973.shtml"
           },
           {
             "url": "https://www.eol.cn/e_images/index/2018/acabridge.png",
-            "sourceUrl": "https://www.eol.cn/news/wuzhongquanhui/202611/t20261108_2791650.shtml"
+            "sourceUrl": "https://www.eol.cn/news/yaowen/202611/t20261109_2791973.shtml"
           }
         ],
-        "generatedAt": "2026-11-08T02:00:00.000Z"
+        "generatedAt": "2026-11-09T02:00:00.000Z"
       },
       {
-        "id": "draft-real-eol-education-13zzg8i",
-        "title": "中国社会科学院大学冷门绝学学院成立！",
-        "oneLine": "政策变化：合作邮箱：bianji@eol.cn 官方微信ID：eoleoleol 11月6日，中国社会科学院大学冷门绝学学院成立仪式暨全国冷门绝学联盟启动大会在京举办。",
+        "id": "draft-real-eol-education-1cerb5g",
+        "title": "教师招聘不卡“出身”，能做到吗？",
+        "oneLine": "政策变化：报考的门，正在向更多人打开 11月3日，宁波市北仑区面向2027届毕业生招聘170名事业编制教师，明确采取“公开报名、统一考试和择优聘用”的办法。",
         "importance": "B",
         "credibility": "待确认",
         "tags": [
@@ -323,22 +634,22 @@
         ],
         "section": "industry",
         "body": {
-          "background": "他特别强调，要坚持在马克思主义指导下开展中西古典学研究，持续探索如何将马克思主义理论落实到具体学术研究之中，实现研究议题、方法路径、观点理论的全方位突破。下午，大会设置五大平行论坛，分别围绕古文字与中华典籍文献、少数民族古文字文献学、中西古典学与文明互鉴、中国边疆学与边疆治理、绝学数智化与人才培养开展研讨。中国社会科学院副院长、党组成员赵芮，中国藏学研究中心总干事郑堆，全国哲学社会科学工作办公室负责同志出席会议并讲话，教育部相关部门同志，清华大学、中国人民大学、北京师范大学、复旦大学、南京大学、四川大学、南开大学、武汉大学、中山大学、吉林大学、山东大学、厦门大学、兰州大学、中央民族大学、中国藏学研究中心、中国西域研究中心、中国第一历史档案馆、新疆维吾尔自治区社会科学院、云南省社会科学院、内蒙古自治区社会科学院等。",
-          "keyProgress": "赵芮指出，中国社会科学院大学成立冷门绝学学院、倡议启动全国冷门绝学联盟，是中国社会科学院立足中华文明永续传承大局，落实文化强国战略部署的标志性举措，也是院党组统筹全院科教资源、布局国家基础学科、打造冷门绝学传承创新主阵地的制度性安排。他强调，作为我国冷门绝学研究的学术策源地与战略引领者，中国社会科学院始终以守护中华文脉、夯实文明根基为使命，奋力推动冷门绝学研究服务文明探源、边疆治理、文化安全和民族工作大局。郑堆对中国社会科学院大学冷门绝学学院成立、全国冷门绝学联盟正式启动表示热烈祝贺。全国冷门绝学联盟的成立，就是整合全国学术力量，推动冷门绝学协同攻关，实现文脉永续，为构建中国自主知识体系、讲好中华民族共同体历史故事夯实学术根基。",
-          "whyItMatters": "“中国社会科学院大学冷门绝学学院成立”可能影响学校治理、教师工作、课程安排或学生发展。教育从业者可以据此提前关注具体对象、地方执行方式和工作要求。",
-          "userRelevance": "如果你从事教师、教育研究或学校管理，可以重点关注“中国社会科学院大学冷门绝学学院成立”的具体对象、执行方式和地方落地节奏；其他用户可把它作为教育环境背景了解。",
-          "whatToWatch": "接下来要看“中国社会科学院大学冷门绝学学院成立”是否补充执行细则、地方落地安排、时间节点或适用人群说明。"
+          "background": "眼下，正值秋季校招季，各地教师招聘公告正密集发布。同一天，宁波市海曙区教育局也发布了招聘公告，公开招聘事业编制教师50名。今年4月，安徽绩溪县发布《2026年中职中小学新任教师公开招聘公告》明确，尚未取得学历学位证书的非全日制毕业生，可以提交学校或自考、成人教育主管部门出具的证明及承诺书。",
+          "keyProgress": "合作邮箱：bianji@eol.cn 官方微信ID：eoleoleol 11月6日，“教师招聘考试一视同仁”冲上热搜。规定在笔试合格人员中，“根据笔试成绩从高分到低分”，按招聘指标数的1:3确定面试对象。《2027年宁波市北仑区教育局公开招聘“港城教育英才”储备人才公告》 图源：宁波市北仑区教育局 把目光放到今年其他地方的招聘，变化还体现在非全日制学历人员的报名机会中。山东济宁市教育局则在今年3月份发布的“教育系统校园招聘公告”中专门提到，符合政策规定的非全日制研究生与全日制研究生享有平等就业机会。",
+          "whyItMatters": "“教师招聘不卡出身，能做到吗”可能影响学校治理、教师工作、课程安排或学生发展。教育从业者可以据此提前关注具体对象、地方执行方式和工作要求。",
+          "userRelevance": "如果你从事教师、教育研究或学校管理，可以重点关注“教师招聘不卡出身，能做到吗”的具体对象、执行方式和地方落地节奏；其他用户可把它作为教育环境背景了解。",
+          "whatToWatch": "接下来要看“教师招聘不卡出身，能做到吗”是否补充执行细则、地方落地安排、时间节点或适用人群说明。"
         },
         "sourceLinks": [
           {
             "title": "中国教育在线要闻",
-            "url": "https://www.eol.cn/news/dongtai/202611/t20261108_2791649.shtml",
+            "url": "https://www.eol.cn/news/guancha/202611/t20261109_2791763.shtml",
             "sourceId": "eol-education",
-            "publishedAt": "2026-11-08T00:00:00+08:00",
+            "publishedAt": "2026-11-09T00:00:00+08:00",
             "language": "zh",
             "originalLanguage": "zh",
             "translationStatus": "not-needed",
-            "fetchedAt": "2026-11-08T08:45:44.179Z",
+            "fetchedAt": "2026-11-09T09:25:21.836Z",
             "sourceMethod": "web",
             "verificationStatus": "pending"
           }
@@ -346,31 +657,31 @@
         "images": [
           {
             "url": "https://www.eol.cn/images/ad/2017_img/arrow.png",
-            "sourceUrl": "https://www.eol.cn/news/dongtai/202611/t20261108_2791649.shtml"
+            "sourceUrl": "https://www.eol.cn/news/guancha/202611/t20261109_2791763.shtml"
           },
           {
             "url": "https://www.eol.cn/images/ad/2017_img/phone.png",
-            "sourceUrl": "https://www.eol.cn/news/dongtai/202611/t20261108_2791649.shtml"
+            "sourceUrl": "https://www.eol.cn/news/guancha/202611/t20261109_2791763.shtml"
           },
           {
             "url": "https://img.eol.cn/e_images/gk/2020/newzsgk.jpg",
-            "sourceUrl": "https://www.eol.cn/news/dongtai/202611/t20261108_2791649.shtml"
+            "sourceUrl": "https://www.eol.cn/news/guancha/202611/t20261109_2791763.shtml"
           },
           {
             "url": "https://img.eol.cn/e_images/gk/2023/zsky2023.jpg",
-            "sourceUrl": "https://www.eol.cn/news/dongtai/202611/t20261108_2791649.shtml"
+            "sourceUrl": "https://www.eol.cn/news/guancha/202611/t20261109_2791763.shtml"
           },
           {
             "url": "https://www.eol.cn/e_images/index/2018/acabridge.png",
-            "sourceUrl": "https://www.eol.cn/news/dongtai/202611/t20261108_2791649.shtml"
+            "sourceUrl": "https://www.eol.cn/news/guancha/202611/t20261109_2791763.shtml"
           }
         ],
-        "generatedAt": "2026-11-08T02:00:00.000Z"
+        "generatedAt": "2026-11-09T02:00:00.000Z"
       },
       {
-        "id": "draft-real-eol-education-19xeimx",
-        "title": "第六届中国基础教育论坛暨中国教育学会第三十八次学术年会在福州举行",
-        "oneLine": "最新进展：第六届中国基础教育论坛暨中国教育学会第三十八次学术年会在福州举行。",
+        "id": "draft-real-eol-education-1rbupom",
+        "title": "高校横向课题，怎么变成了教师的“经费任务”？",
+        "oneLine": "最新进展：高校横向课题，怎么变成了教师的“经费任务”。",
         "importance": "B",
         "credibility": "待确认",
         "tags": [
@@ -387,22 +698,22 @@
         ],
         "section": "industry",
         "body": {
-          "background": "孟繁华、王定华分别主持主题发言、中国好课堂环节 根据论坛安排，11月8日上午举办47场平行分论坛，包括19场学科分论坛、DPD(博士、校长、局长)特别分论坛以及25场专题分论坛，下午举办46场平行微论坛。合作邮箱：bianji@eol.cn 官方微信ID：eoleoleol 11月7日，第六届中国基础教育论坛暨中国教育学会第三十八次学术年会在福建省福州市召开，会议为期2天，主题为“加快建设教育强国——聚焦学生创新能力培养”。教育部党组成员、副部长任友群通过视频方式致辞。",
-          "keyProgress": "本届论坛紧扣新时代基础教育改革发展的重要任务，回应了党和国家对创新人才培养提出的新要求，旨在聚焦学生创新能力培养的重点领域与关键环节，重在阐释政策、总结经验、分享成果、研讨问题、凝聚共识，推动学生创新能力培养落地见效，为全面提升育人水平、实现基础教育高质量发展提供有力支撑。优化教学方式，深入实施“人工智能+教育”行动，引导学生在解决实际问题中锤炼创新思维、增强实践能力；吕玉刚和杨银付分别主持开幕式、主旨报告和“校长星空”环节 左起：杨进、陈昱、李志伟、余党绪 在下午的大会主题发言环节，中国常驻联合国教科文组织原大使衔代表、中国驻法国大使馆教育处原公使衔参赞杨进，福州市委教育工委书记、市教育局党组书记、局长陈昱，北京景山学校教育集团党委书记、总校长李志伟，上海师范大学附属中学原副校长、上海市语文特级教师余党绪分别作精彩发言。",
-          "whyItMatters": "“第六届中国基础教育论坛暨中国教育学会第三十八次学术年会在福州举行”可能影响学校治理、教师工作、课程安排或学生发展。教育从业者可以据此提前关注具体对象、地方执行方式和工作要求。",
-          "userRelevance": "如果你从事教师、教育研究或学校管理，可以重点关注“第六届中国基础教育论坛暨中国教育学会第三十八次学术年会在福州举行”的具体对象、执行方式和地方落地节奏；其他用户可把它作为教育环境背景了解。",
-          "whatToWatch": "接下来要看“第六届中国基础教育论坛暨中国教育学会第三十八次学术年会在福州举行”是否补充执行细则、地方落地安排、时间节点或适用人群说明。"
+          "background": "今年8月，《中国社会科学报》刊发的一项调查显示，在117名受访高校教师中，近九成表示察觉到身边存在自费办理虚假横向课题的现象，17.95%的受访者承认曾亲身参与。原本用于推动高校与社会合作的横向课题，为什么在一些地方变成了教师必须完成的“经费任务”？横向课题则通常由企业、社会组织等外部单位委托，围绕技术研发、产品改进、政策咨询等实际需求开展研究。",
+          "keyProgress": "合作邮箱：bianji@eol.cn 官方微信ID：eoleoleol 为了完成科研考核，一些高校教师竟然要自己掏钱，给自己“买”科研项目。随着科研经费逐渐成为衡量高校科研实力的重要指标，一些学校开始将横向项目到账金额纳入教师职称评审、岗位聘任和年度考核，甚至将经费任务分解到院系和个人。原本由社会需求推动的科研合作，在部分高校逐渐变成了必须完成的数字指标。有教师为完成考核，自掏腰包 今年7月，《中国新闻周刊》调查发现，有中介在网络上公开推介虚假横向科研项目，甚至宣称可以操作金额达百万元的项目。",
+          "whyItMatters": "“高校横向课题，怎么变成了教师的经费任务”可能影响学校治理、教师工作、课程安排或学生发展。教育从业者可以据此提前关注具体对象、地方执行方式和工作要求。",
+          "userRelevance": "如果你从事教师、教育研究或学校管理，可以重点关注“高校横向课题，怎么变成了教师的经费任务”的具体对象、执行方式和地方落地节奏；其他用户可把它作为教育环境背景了解。",
+          "whatToWatch": "接下来要看“高校横向课题，怎么变成了教师的经费任务”是否补充执行细则、地方落地安排、时间节点或适用人群说明。"
         },
         "sourceLinks": [
           {
             "title": "中国教育在线要闻",
-            "url": "https://www.eol.cn/news/yaowen/202611/t20261108_2791646.shtml",
+            "url": "https://www.eol.cn/news/guancha/202611/t20261109_2791755.shtml",
             "sourceId": "eol-education",
-            "publishedAt": "2026-11-08T00:00:00+08:00",
+            "publishedAt": "2026-11-09T00:00:00+08:00",
             "language": "zh",
             "originalLanguage": "zh",
             "translationStatus": "not-needed",
-            "fetchedAt": "2026-11-08T08:45:44.179Z",
+            "fetchedAt": "2026-11-09T09:25:21.836Z",
             "sourceMethod": "web",
             "verificationStatus": "pending"
           }
@@ -410,32 +721,160 @@
         "images": [
           {
             "url": "https://www.eol.cn/images/ad/2017_img/arrow.png",
-            "sourceUrl": "https://www.eol.cn/news/yaowen/202611/t20261108_2791646.shtml"
+            "sourceUrl": "https://www.eol.cn/news/guancha/202611/t20261109_2791755.shtml"
           },
           {
             "url": "https://www.eol.cn/images/ad/2017_img/phone.png",
-            "sourceUrl": "https://www.eol.cn/news/yaowen/202611/t20261108_2791646.shtml"
+            "sourceUrl": "https://www.eol.cn/news/guancha/202611/t20261109_2791755.shtml"
           },
           {
             "url": "https://img.eol.cn/e_images/gk/2020/newzsgk.jpg",
-            "sourceUrl": "https://www.eol.cn/news/yaowen/202611/t20261108_2791646.shtml"
+            "sourceUrl": "https://www.eol.cn/news/guancha/202611/t20261109_2791755.shtml"
           },
           {
             "url": "https://img.eol.cn/e_images/gk/2023/zsky2023.jpg",
-            "sourceUrl": "https://www.eol.cn/news/yaowen/202611/t20261108_2791646.shtml"
+            "sourceUrl": "https://www.eol.cn/news/guancha/202611/t20261109_2791755.shtml"
           },
           {
             "url": "https://www.eol.cn/e_images/index/2018/acabridge.png",
-            "sourceUrl": "https://www.eol.cn/news/yaowen/202611/t20261108_2791646.shtml"
+            "sourceUrl": "https://www.eol.cn/news/guancha/202611/t20261109_2791755.shtml"
           }
         ],
-        "generatedAt": "2026-11-08T02:00:00.000Z"
+        "generatedAt": "2026-11-09T02:00:00.000Z"
+      },
+      {
+        "id": "draft-real-city-news-rss:%E4%B8%AD%E5%9B%BD-%E5%B9%BF%E5%B7%9E-1g0aufi",
+        "title": "孙志洋与参加广州轨道交通周的企业家代表座谈",
+        "oneLine": "政策变化：手机端 关注 · 手机版 微信 关注 · 广州政府网 11月8日下午，广州市市长孙志洋与来穗参加2026广州轨道交通周活动的企业家代表座谈交流。",
+        "importance": "C",
+        "credibility": "待确认",
+        "tags": [
+          "C",
+          "industry",
+          "local",
+          "policy",
+          "china"
+        ],
+        "industries": [
+          "localLife",
+          "generalPublic",
+          "operationsGrowth"
+        ],
+        "section": "industry",
+        "body": {
+          "background": "他们一致表示，各企业既是广州城市建设的参与者，也是广州城市发展的受益者。活动包括COMET 2026国际地铁协会广州会议、城市轨道交通业主领导人圆桌会议、2026中国国际城市轨道交通展览会三大行业核心专业活动，2026广州轨道交通周启动会、广州轨道交通产业生态大会、轨道交通人才专场招聘会三大城市主题活动，并配套举办N场形式多元的延伸配套活动，全面构建行业交流、招商推介与公众参与的立体化平台。孙志洋对各位企业家来穗参加2026广州轨道交通周表示欢迎，对各企业为广州城市能级提升和经济社会高质量发展作出的贡献表示感谢。",
+          "keyProgress": "他说，当前，广州正坚定扛牢习近平总书记、党中央赋予的使命任务，围绕“一村、两基、三旧、四好、五创”工作体系和“六张网”建设推进基础设施优化提升，以重大项目谋划储备和建设推进为牵引，持续做大产业增量，全面提升城市功能品质与综合承载力，扎实推动“产”“城”“人”高质量发展。欢迎各企业紧密对接广州“十五五”规划，把广州作为立足粤港澳大湾区、联通全球市场的重要支点和新技术新模式应用试验场，在城市有机更新与片区开发、工程建设运营管理一体化、先进工程装备制造等方面深化合作，谋划推进更多优势项目在穗落地，积极参与广州建设发展，共同开拓全球市场。未来，企业将抢抓粤港澳大湾区一体化建设机遇，立足轨道交通建设、片区规划设计、高端装备智能制造、建设运营管理等优势，精准对接广州发展需求，深入融入广州发展，推动央地互利共赢、共同发展。这为各企业继续深耕广州提供了更加广阔的空间。",
+          "whyItMatters": "“孙志洋与参加广州轨道交通周的企业家代表座谈”可能改变个人办事、出行、公共服务或行业规则。提前确认适用范围和生效时间，可以减少信息滞后带来的判断偏差。",
+          "userRelevance": "作为中国居民，你需要留意“孙志洋与参加广州轨道交通周的企业家代表座谈”是否改变办事、出行或公共服务规则；如果你从事本地生活、运营增长，还应关注行业执行细则。",
+          "whatToWatch": "接下来要看“孙志洋与参加广州轨道交通周的企业家代表座谈”是否补充执行细则、地方落地安排、时间节点或适用人群说明。"
+        },
+        "sourceLinks": [
+          {
+            "title": "广东·广州本地公开信息",
+            "url": "https://www.gz.gov.cn/xw/gzyw/content/post_11092194.html",
+            "sourceId": "city-news-rss:%E4%B8%AD%E5%9B%BD-%E5%B9%BF%E5%B7%9E",
+            "publishedAt": "2026-11-09T00:00:00+08:00",
+            "language": "zh",
+            "originalLanguage": "zh",
+            "translationStatus": "not-needed",
+            "fetchedAt": "2026-11-09T09:27:37.041Z",
+            "sourceMethod": "web",
+            "verificationStatus": "pending"
+          }
+        ],
+        "images": [
+          {
+            "url": "https://www.gz.gov.cn/global/ewm_mobile.jpg",
+            "sourceUrl": "https://www.gz.gov.cn/xw/gzyw/content/post_11092194.html"
+          },
+          {
+            "url": "https://www.gz.gov.cn/global/ewm_wx.jpg",
+            "sourceUrl": "https://www.gz.gov.cn/xw/gzyw/content/post_11092194.html"
+          },
+          {
+            "url": "https://www.gz.gov.cn/global/wzsyx.png",
+            "sourceUrl": "https://www.gz.gov.cn/xw/gzyw/content/post_11092194.html"
+          },
+          {
+            "url": "https://www.gz.gov.cn/global/27f6f788a35c4661a43aa7ce1ae91e7f.png",
+            "sourceUrl": "https://www.gz.gov.cn/xw/gzyw/content/post_11092194.html"
+          },
+          {
+            "url": "https://www.gz.gov.cn/global/easy_shb_gzh.jpg",
+            "sourceUrl": "https://www.gz.gov.cn/xw/gzyw/content/post_11092194.html"
+          }
+        ],
+        "generatedAt": "2026-11-09T02:00:00.000Z"
+      },
+      {
+        "id": "draft-real-city-news-rss:%E4%B8%AD%E5%9B%BD-%E5%B9%BF%E5%B7%9E-5ndowz",
+        "title": "2026广州轨道交通周启动 今年轨道交通产业产值锚定3200亿元目标",
+        "oneLine": "政策变化：手机端 关注 · 手机版 微信 关注 · 广州政府网 2026-11-09 09:51:50 广州加速建设世界级轨道交通产业集群 11月8日，2026广州轨道交通周启动会在广州举办，标志着2026广州轨道交通周正式启动。",
+        "importance": "C",
+        "credibility": "待确认",
+        "tags": [
+          "C",
+          "industry",
+          "local",
+          "policy",
+          "china"
+        ],
+        "industries": [
+          "localLife",
+          "generalPublic",
+          "operationsGrowth"
+        ],
+        "section": "industry",
+        "body": {
+          "background": "活动持续至11月13日，将开展2026中国国际城市轨道交通展览会（MetroTrans 2026）、城市轨道交通业主领导人圆桌会议（2026·广州）、COMET 2026国际地铁协会广州会议、2026广州轨道交通产业生态大会、轨道交通人才专场招聘会等活动，形成“3+3+N”系列活动。广州地铁以场景开放、项目落地为抓手，与全球产业链伙伴共享机遇、共赢发展，在技术创新、人才培养、经营拓展等方面开展更加广泛深入的合作。轨道交通周期间，市民可在广交会展馆D区，通过参加科普宣传活动、城轨研学体验活动、轨交文创主题市集等活动，近距离感受轨道交通发展成果。",
+          "keyProgress": "11月10日举行的产业生态大会，将实现“引进来”与“走出去”双循环市场合作，精准推动核心装备、智慧运维、具身智能、增材制造、建设施工、资本运营等一批补链延链企业落户广州，并与一批境外合作方签署战略合作协议。同日在广交会展馆举办的轨道交通人才专场招聘会，线上线下齐聚200余家优质企业，将提供近5000个岗位招聘需求。今年是“十五五”开局之年，也是广州“招商引资年”。2026广州轨道交通周以“场景开放促招商、项目落地促共赢”，向全球产业链伙伴开放轨道交通千亿级产业场景。",
+          "whyItMatters": "“2026广州轨道交通周启动 今年轨道交通产业产值锚定3200亿元目标”可能改变个人办事、出行、公共服务或行业规则。提前确认适用范围和生效时间，可以减少信息滞后带来的判断偏差。",
+          "userRelevance": "作为中国居民，你需要留意“2026广州轨道交通周启动 今年轨道交通产业产值锚定3200亿元目标”是否改变办事、出行或公共服务规则；如果你从事本地生活、运营增长，还应关注行业执行细则。",
+          "whatToWatch": "接下来要看“2026广州轨道交通周启动 今年轨道交通产业产值锚定3200亿元目标”是否补充执行细则、地方落地安排、时间节点或适用人群说明。"
+        },
+        "sourceLinks": [
+          {
+            "title": "广东·广州本地公开信息",
+            "url": "https://www.gz.gov.cn/zt/gzlfzgzld/gzld/content/post_11092321.html",
+            "sourceId": "city-news-rss:%E4%B8%AD%E5%9B%BD-%E5%B9%BF%E5%B7%9E",
+            "publishedAt": "2026-11-09T00:00:00+08:00",
+            "language": "zh",
+            "originalLanguage": "zh",
+            "translationStatus": "not-needed",
+            "fetchedAt": "2026-11-09T09:27:37.623Z",
+            "sourceMethod": "web",
+            "verificationStatus": "pending"
+          }
+        ],
+        "images": [
+          {
+            "url": "https://www.gz.gov.cn/global/ewm_mobile.jpg",
+            "sourceUrl": "https://www.gz.gov.cn/zt/gzlfzgzld/gzld/content/post_11092321.html"
+          },
+          {
+            "url": "https://www.gz.gov.cn/global/ewm_wx.jpg",
+            "sourceUrl": "https://www.gz.gov.cn/zt/gzlfzgzld/gzld/content/post_11092321.html"
+          },
+          {
+            "url": "https://www.gz.gov.cn/global/wzsyx.png",
+            "sourceUrl": "https://www.gz.gov.cn/zt/gzlfzgzld/gzld/content/post_11092321.html"
+          },
+          {
+            "url": "https://www.gz.gov.cn/img/1/1583/1583798/0.jpg",
+            "sourceUrl": "https://www.gz.gov.cn/zt/gzlfzgzld/gzld/content/post_11092321.html"
+          },
+          {
+            "url": "https://www.gz.gov.cn/img/1/1717/1717041/11092321.jpg",
+            "sourceUrl": "https://www.gz.gov.cn/zt/gzlfzgzld/gzld/content/post_11092321.html"
+          }
+        ],
+        "generatedAt": "2026-11-09T02:00:00.000Z"
       }
     ],
-    "estimatedReadMinutes": 14,
-    "pageCount": 1,
-    "topCardId": "draft-real-xinhua-world-1k6cofm",
-    "generatedAt": "2026-11-08T02:00:00.000Z",
+    "estimatedReadMinutes": 23,
+    "pageCount": 3,
+    "topCardId": "draft-real-mofcom-trade-ep1so1",
+    "generatedAt": "2026-11-09T02:00:00.000Z",
     "pushSlots": [
       "08:30",
       "12:30",
@@ -444,18 +883,25 @@
     "edition": "morning",
     "editionLabel": "晨报",
     "coverageWindow": {
-      "start": "2026-11-07T00:00:00+08:00",
-      "end": "2026-11-08T10:00:00+08:00"
+      "start": "2026-11-08T00:00:00+08:00",
+      "end": "2026-11-09T10:00:00+08:00"
     },
     "editionCardIds": [
-      "draft-real-xinhua-world-1k6cofm",
-      "draft-real-mofcom-trade-nuc1st",
-      "draft-real-mofcom-trade-skhi0i",
-      "draft-real-xinhua-world-10baf6j",
-      "draft-cluster-real-city-news-rss:%E4%B8%AD%E5%9B%BD-%E4%B8%8A%E6%B5%B7-coq11d",
-      "draft-real-eol-education-4m2vom",
-      "draft-real-eol-education-13zzg8i",
-      "draft-real-eol-education-19xeimx"
+      "draft-real-mofcom-trade-ep1so1",
+      "draft-cluster-real-mofcom-trade-dsmhg0",
+      "draft-real-xinhua-world-1r42yib",
+      "draft-real-xinhua-world-o8tglk",
+      "draft-cluster-real-xinhua-world-jyrhmu",
+      "draft-real-xinhua-world-1fc9sol",
+      "draft-real-xinhua-world-c6w8jl",
+      "draft-real-eol-education-15slwes",
+      "draft-real-city-news-rss:%E4%B8%AD%E5%9B%BD-%E4%B8%8A%E6%B5%B7-14wgahj",
+      "draft-real-xinhua-tech-5o9iz1",
+      "draft-real-eol-education-pm7adp",
+      "draft-real-eol-education-1cerb5g",
+      "draft-real-eol-education-1rbupom",
+      "draft-real-city-news-rss:%E4%B8%AD%E5%9B%BD-%E5%B9%BF%E5%B7%9E-1g0aufi",
+      "draft-real-city-news-rss:%E4%B8%AD%E5%9B%BD-%E5%B9%BF%E5%B7%9E-5ndowz"
     ],
     "carriedCardIds": []
   }

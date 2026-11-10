@@ -1,0 +1,129 @@
+{
+  "version": 1,
+  "date": "2026-11-10",
+  "generatedAt": "2026-11-10T10:57:30.489Z",
+  "status": "review",
+  "reviewMode": "generated",
+  "candidateSha256": "6c3d155b4b1bd76bda1dcef0d43adbbdede176d771eedf56313b046512b587cc",
+  "counts": {
+    "cards": 17,
+    "pages": 3,
+    "rawItems": 307,
+    "freshCandidates": 108,
+    "publishableCards": 20,
+    "reviewableCards": 14,
+    "rejectedCards": 63,
+    "blockers": 0,
+    "warnings": 16
+  },
+  "findings": [
+    {
+      "level": "warning",
+      "code": "translation-failures",
+      "message": "有 242 条英文或多语言候选没有完成中文化，当前翻译通道为 openai-compatible；这些候选已从最终日报排除。"
+    },
+    {
+      "level": "warning",
+      "code": "source-fetch-failures",
+      "message": "有 10 个来源抓取失败，需要确认是否影响当天覆盖面。"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "官方或主流媒体正文较短，但来源和事实可追溯，需要人工确认是否保留。",
+      "cardId": "draft-real-xinhua-world-1f2a6zm",
+      "cardTitle": "美国一大学校园发生两起枪击事件致1死3伤"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "官方或主流媒体正文较短，但来源和事实可追溯，需要人工确认是否保留。",
+      "cardId": "draft-real-xinhua-world-bwwmum",
+      "cardTitle": "伊朗媒体称格什姆岛遭美军袭击"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "官方或主流媒体正文较短，但来源和事实可追溯，需要人工确认是否保留。",
+      "cardId": "draft-real-xinhua-world-l3fgn0",
+      "cardTitle": "外交部：所谓“中国间谍”论调纯属污蔑抹黑"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "标题过长，移动端阅读时需要压缩成编辑标题。",
+      "cardId": "draft-real-city-news-rss:%E4%B8%AD%E5%9B%BD-%E4%B8%8A%E6%B5%B7-1u5b4im",
+      "cardTitle": "上海服务消费两条赛道扩张显著 体育消费 去年规模成为全国唯一破千亿元城市 银发消费 增速较其他一线城市高3.49个百分点 2026-11-10 今日上海"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "原文篇幅较短且不是官方或主流来源，需要发布前复核。",
+      "cardId": "draft-real-eol-education-10lcvij",
+      "cardTitle": "2026年国家社科基金年度项目立项名单公布"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "原文篇幅较短且不是官方或主流来源，需要发布前复核。",
+      "cardId": "draft-real-eol-education-taei4i",
+      "cardTitle": "河南拟培育48个优势特色本科专业集群"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "一句话导读偏短，可能没有讲清楚核心事实。",
+      "cardId": "draft-real-eol-education-1ua2ald",
+      "cardTitle": "400亿筹建新大学！为什么又是浙江？"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "一句话导读偏短，可能没有讲清楚核心事实。",
+      "cardId": "draft-real-jyb-education-1uhdjes",
+      "cardTitle": "让古法技艺活在数字时代"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "一句话导读偏短，可能没有讲清楚核心事实。",
+      "cardId": "draft-real-jyb-education-o56adq",
+      "cardTitle": "山东日照构建职普融通发展新生态"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "一句话导读偏短，可能没有讲清楚核心事实。",
+      "cardId": "draft-real-jyb-education-z7xe0b",
+      "cardTitle": "复刻铁路客运真实作业场景"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "一句话导读偏短，可能没有讲清楚核心事实。",
+      "cardId": "draft-real-jyb-education-tgpjne",
+      "cardTitle": "优质资源抵达不等于教育真正发生"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "原文篇幅较短且不是官方或主流来源，需要发布前复核。",
+      "cardId": "draft-real-eol-education-7sz4z",
+      "cardTitle": "国内首个！北京科技大学科技法学院在雄安新区成立"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "原文信息量有限，需要确认是否足以支持卡片结论。",
+      "cardId": "draft-real-eol-education-1xo6cyw",
+      "cardTitle": "北京47名市属高校教师去北大清华“上班”一年"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "一句话导读偏短，可能没有讲清楚核心事实。",
+      "cardId": "draft-real-eol-education-zgll6d",
+      "cardTitle": "小学老师转岗教初中，多地开始行动！"
+    }
+  ]
+}

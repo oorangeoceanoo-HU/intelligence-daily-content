@@ -1,117 +1,59 @@
 {
   "schemaVersion": 2,
-  "publishedAt": "2026-11-10T02:00:00.000Z",
+  "publishedAt": "2026-11-12T02:00:00.000Z",
   "issue": {
-    "id": "daily-public-2026-11-10",
-    "date": "2026-11-10",
+    "id": "daily-public-2026-11-12",
+    "date": "2026-11-12",
     "userId": "public",
     "cards": [
       {
-        "id": "draft-real-mofcom-trade-ep1so1",
-        "title": "《出口中国能力发展报告》在第九届虹桥国际经济论坛首次发布",
-        "oneLine": "政策变化：下篇题为“合力提升出口中国能力”，由联合国贸易和发展会议国际贸易与商品司编写，首批选取10个贸易伙伴展开研究，分析各国对华出口表现和潜力，从经济基础设施、产业体系和贸易政策等维度评估其出口中国的能力，并针对提出参考建议，旨在帮助各国提升出口中国的能力，共享中国超大市场机遇。",
+        "id": "draft-real-xinhua-world-3dgk3w",
+        "title": "伊朗：霍尔木兹海峡违规船舶被视为国家安全威胁",
+        "oneLine": "政策变化：根据国际海事组织10日转发的通函，伊朗方面警告，未遵守其在霍尔木兹海峡及波斯湾公布的航行安全要求的船舶，将被视为“对伊朗国家安全构成威胁”。",
         "importance": "S",
-        "credibility": "官方来源",
+        "credibility": "主流媒体",
         "tags": [
           "S",
+          "mustKnow",
           "industry",
           "world",
-          "china",
           "policy"
         ],
         "industries": [
           "generalPublic",
           "financeInvestment",
           "operationsGrowth",
-          "ecommerceRetail",
-          "consumerBrand"
+          "contentCreator"
         ],
-        "section": "industry",
+        "section": "front",
         "body": {
-          "background": "11月5日，《出口中国能力发展报告》在第九届虹桥国际经济论坛上发布，是虹桥国际经济论坛的旗舰报告之一，是中国为世界各国共享中国大市场提供的重要公共产品。《报告》包括上下两篇，上篇题为“与世界共享中国大市场机遇”，由中国社会科学院世界经济与政治研究所编写，概述世界出口中国的现状，并介绍中国为扩大各国对华出口采取的具体举措。学习宣传贯彻党的二十大精神 国家层面海外综合服务平台 提振消费专项行动 政策集成和综合解读专栏 优化营商环境-国际贸易专题 外资企业问题诉求收集办理 国际消费中心城市培育建设 丝路电商——电子商务国际合作 《区域全面经济伙伴关系协定》（RCEP） 市场运行与流通发展服务平台 2025年度网站工作年度报表",
-          "keyProgress": "《出口中国能力发展报告》在第九届虹桥国际经济论坛首次发布。商务部官方信息，用于确认关税、外贸、出口管制、跨境电商和对外经贸政策。",
-          "whyItMatters": "“出口中国能力发展报告在第九届虹桥国际经济论坛首次发布”如果继续发展，可能通过能源价格、航运、贸易、汇率或市场预期传导到国内。了解它的意义在于判断后续风险，而不只停留在事件本身。",
-          "userRelevance": "即使你不在中国，“出口中国能力发展报告在第九届虹桥国际经济论坛首次发布”也可能通过能源价格、国际航运、贸易成本和市场预期间接影响国内生活与工作判断。",
-          "whatToWatch": "接下来要看“出口中国能力发展报告在第九届虹桥国际经济论坛首次发布”是否出现更细的城市、行业、平台或企业数据，以及这一变化能否连续保持。"
+          "background": "新华社记者当天获得的这份通函显示，伊朗常驻国际海事组织代表穆萨维7日致信国际海事组织秘书长多明格斯称，伊朗作为沿海国，为应对当前安全威胁、维护国家安全和海上航行安全，已指定并公布“特定安全航线”，建立相应的“海上交通协调和管理机制”。船舶在相关措施框架下航行，须与伊朗主管部门协调，并全面遵守已公布的安全指令。伊朗是在回应科威特此前向国际海事组织提交的函件时作出上述表态的。",
+          "keyProgress": "科威特在函件中称，伊朗针对民用船舶的袭击行为严重威胁国际航行安全和全球能源供应，要求伊朗立即停止相关袭击，并就油轮遇袭事件作出说明。伊朗在函件中驳斥科威特，称当前波斯湾及霍尔木兹海峡危机是美国和以色列2月28日对伊朗发动军事行动的直接后果，美国对伊朗港口实施的海上封锁进一步危及地区航行安全。伊朗还指责科威特向针对伊朗的军事行动提供领土和设施，要求其停止参与针对伊朗的军事行动。国际海事组织9日转发的另一份通函显示，科威特政府指责伊朗8月29日在霍尔木兹海峡袭击科威特油轮“布尔甘”号。",
+          "whyItMatters": "“霍尔木兹海峡局势”如果继续发展，可能通过能源价格、航运、贸易、汇率或市场预期传导到国内。了解它的意义在于判断后续风险，而不只停留在事件本身。",
+          "userRelevance": "即使你不在伊朗、霍尔木兹海峡，“霍尔木兹海峡局势”也可能通过能源价格、国际航运、贸易成本和市场预期间接影响国内生活与工作判断。",
+          "whatToWatch": "接下来要看霍尔木兹海峡实际通航量、油价和保险成本是否继续变化，以及美伊双方是否出现新的正式行动。"
         },
         "sourceLinks": [
           {
-            "title": "商务部新闻发布",
-            "url": "https://www.mofcom.gov.cn/xwfb/rcxwfb/art/2026/art_301031d5ca8447a6bf8fd8478d8e1052.html",
-            "sourceId": "mofcom-trade",
-            "publishedAt": "2026-11-09T00:00:00+08:00",
+            "title": "新华网国际",
+            "url": "https://www.news.cn/world/20261111/0940207e16d946c1976d8fb5e492bc9d/c.html",
+            "sourceId": "xinhua-world",
+            "publishedAt": "2026-11-11T00:00:00+08:00",
             "language": "zh",
             "originalLanguage": "zh",
             "translationStatus": "not-needed",
-            "fetchedAt": "2026-11-10T10:14:30.047Z",
+            "fetchedAt": "2026-11-12T10:16:03.253Z",
             "sourceMethod": "web",
             "verificationStatus": "confirmed"
           }
         ],
         "images": [],
-        "generatedAt": "2026-11-10T02:00:00.000Z"
+        "generatedAt": "2026-11-12T02:00:00.000Z"
       },
       {
-        "id": "draft-cluster-real-mofcom-trade-dsmhg0",
-        "title": "商务部新闻发言人就调整出口管制管控名单措施答记者问",
-        "oneLine": "政策变化：出口经营者如需向上述实体出口两用物项，应当根据《中华人民共和国两用物项出口管制条例》相关规定向商务部提出申请，商务部将依法依规进行审查，符合规定的将准予许可。",
-        "importance": "S",
-        "credibility": "官方来源",
-        "tags": [
-          "S",
-          "industry",
-          "world",
-          "china",
-          "policy"
-        ],
-        "industries": [
-          "generalPublic",
-          "financeInvestment",
-          "operationsGrowth",
-          "ecommerceRetail",
-          "consumerBrand"
-        ],
-        "section": "industry",
-        "body": {
-          "background": "答： 根据出口管制相关法律法规规定，商务部于 2025 年 4 月 4 日发布 2025 年 21 号公告，将 16 家美国实体列入出口管制管控名单，禁止向其出口两用物项。问： 有消息称，根据 中美第八轮经贸磋商共识 ， 中方将 调整一批 针对美国的非关税措施。请问在 出口管制管控名单 方面有什么考虑？",
-          "keyProgress": "为落实中美第八轮经贸磋商共识安排，中方决定自 2026 年 11 月 10 日起，继续暂停实施 2025 年 第 21 号公告的相关措施 2 个月 。学习宣传贯彻党的二十大精神 国家层面海外综合服务平台 提振消费专项行动 政策集成和综合解读专栏 优化营商环境-国际贸易专题 外资企业问题诉求收集办理 国际消费中心城市培育建设 丝路电商——电子商务国际合作 《区域全面经济伙伴关系协定》（RCEP） 市场运行与流通发展服务平台 2025年度网站工作年度报表",
-          "whyItMatters": "“商务部新闻发言人就调整出口管制管控名单措施答记者问”如果继续发展，可能通过能源价格、航运、贸易、汇率或市场预期传导到国内。了解它的意义在于判断后续风险，而不只停留在事件本身。",
-          "userRelevance": "即使你不在事发地区，“商务部新闻发言人就调整出口管制管控名单措施答记者问”也可能通过能源价格、国际航运、贸易成本和市场预期间接影响国内生活与工作判断。",
-          "whatToWatch": "接下来要看“商务部新闻发言人就调整出口管制管控名单措施答记者问”是否出现更细的城市、行业、平台或企业数据，以及这一变化能否连续保持。"
-        },
-        "sourceLinks": [
-          {
-            "title": "商务部新闻发布",
-            "url": "https://www.mofcom.gov.cn/xwfb/xwfyrth/art/2026/art_5baeb69ccc0f44cb83dea8ac587dd327.html",
-            "sourceId": "mofcom-trade",
-            "publishedAt": "2026-11-09T00:00:00+08:00",
-            "language": "zh",
-            "originalLanguage": "zh",
-            "translationStatus": "not-needed",
-            "fetchedAt": "2026-11-10T10:14:30.047Z",
-            "sourceMethod": "web",
-            "verificationStatus": "confirmed"
-          },
-          {
-            "title": "商务部新闻发布",
-            "url": "https://www.mofcom.gov.cn/xwfb/xwfyrth/art/2026/art_137cb86f6deb442c963c906c2ca97e79.html",
-            "sourceId": "mofcom-trade",
-            "publishedAt": "2026-11-09T00:00:00+08:00",
-            "language": "zh",
-            "originalLanguage": "zh",
-            "translationStatus": "not-needed",
-            "fetchedAt": "2026-11-10T10:14:30.047Z",
-            "sourceMethod": "web",
-            "verificationStatus": "confirmed"
-          }
-        ],
-        "images": [],
-        "generatedAt": "2026-11-10T02:00:00.000Z"
-      },
-      {
-        "id": "draft-real-xinhua-world-1q5z164",
-        "title": "特朗普质疑美中期选举结果 民主党回应：迟早的事",
-        "oneLine": "政策变化：美国总统特朗普9日在社交媒体上发文，质疑美中期选举结果，这与他此前承认选举结果并愿同民主党合作的表态大相径庭。",
+        "id": "draft-real-xinhua-world-dw02ao",
+        "title": "也门胡塞武装称袭击沙特利雅得机场等设施",
+        "oneLine": "政策变化：萨那消息：也门胡塞武装11日称，该组织向位于沙特阿拉伯首都利雅得的哈立德国王国际机场发射了3枚巡航导弹，并使用无人机袭击了沙特西部一座石油泵站，两次行动均告成功。",
         "importance": "A",
         "credibility": "主流媒体",
         "tags": [
@@ -129,37 +71,37 @@
         ],
         "section": "front",
         "body": {
-          "background": "特朗普当时曾表示，绝对愿意接受选举结果，准备与民主党合作。美国参议院民主党领袖查克·舒默当天回应称，“特朗普可悲地重拾‘选举否认主义’，这是迟早的事”。特朗普在帖文中称：“真的有人相信这次‘选举’是公正的吗？",
-          "keyProgress": "一些提前投票的‘倾倒’量之大，以至于无论多少人去投票，都不可能获胜。” 舒默在社交媒体上转帖回应写道：“特朗普想怎么抱怨就怎么抱怨，但什么都挡不住这个无法回避的事实：在特朗普剩余两年总统任期内，他将遭遇民主党数十年来最大的国会多数席位优势，而这一切都因为他是一个史无前例的失败者。” 多家美国主流媒体测算，民主党在3日举行的美国中期选举中大获全胜，重获国会参议院和众议院控制权。",
-          "whyItMatters": "“特朗普质疑美中期选举结果 民主党回应：迟早的事”如果继续发展，可能通过能源价格、航运、贸易、汇率或市场预期传导到国内。了解它的意义在于判断后续风险，而不只停留在事件本身。",
-          "userRelevance": "即使你不在事发地区，“特朗普质疑美中期选举结果 民主党回应：迟早的事”也可能通过能源价格、国际航运、贸易成本和市场预期间接影响国内生活与工作判断。",
-          "whatToWatch": "接下来要看“特朗普质疑美中期选举结果 民主党回应：迟早的事”是否出现新的官方信息、后续行动，以及它与中国出行、贸易或公共判断的关联是否扩大。"
+          "background": "胡塞武装军事发言人叶海亚·萨雷亚当天在社交媒体上说，该组织使用3枚巡航导弹袭击了哈立德国王国际机场，另有一架无人机袭击了沙特红海沿岸重要石油枢纽延布地区的11号石油泵站。萨雷亚否认多国联军在麦加上空拦截胡塞武装无人机，称这一说法纯属捏造。他表示，胡塞武装的军事行动针对的是沙特石油设施和军事基地，而非伊斯兰教圣地。",
+          "keyProgress": "当天稍早时，沙特主导的多国联军发言人图尔基·马利基在社交媒体上说，沙特防空部队拦截并摧毁了3枚飞向利雅得地区的胡塞武装巡航导弹，在麦加地区和沙特南部地区拦截并摧毁了两架胡塞武装无人机。",
+          "whyItMatters": "“也门胡塞武装称袭击沙特利雅得机场等设施”如果继续发展，可能通过能源价格、航运、贸易、汇率或市场预期传导到国内。了解它的意义在于判断后续风险，而不只停留在事件本身。",
+          "userRelevance": "即使你不在沙特、也门，“也门胡塞武装称袭击沙特利雅得机场等设施”也可能通过能源价格、国际航运、贸易成本和市场预期间接影响国内生活与工作判断。",
+          "whatToWatch": "接下来要看“也门胡塞武装称袭击沙特利雅得机场等设施”是否出现新的官方信息、后续行动，以及它与中国出行、贸易或公共判断的关联是否扩大。"
         },
         "sourceLinks": [
           {
             "title": "新华网国际",
-            "url": "https://www.news.cn/world/20261110/89898181480549058b6a4cfe4e992bb4/c.html",
+            "url": "https://www.news.cn/world/20261112/3dbea0e60831465f8550d9a644bd2b44/c.html",
             "sourceId": "xinhua-world",
-            "publishedAt": "2026-11-10T00:00:00+08:00",
+            "publishedAt": "2026-11-12T00:00:00+08:00",
             "language": "zh",
             "originalLanguage": "zh",
             "translationStatus": "not-needed",
-            "fetchedAt": "2026-11-10T10:14:26.512Z",
+            "fetchedAt": "2026-11-12T10:16:03.253Z",
             "sourceMethod": "web",
             "verificationStatus": "confirmed"
           }
         ],
         "images": [],
-        "generatedAt": "2026-11-10T02:00:00.000Z"
+        "generatedAt": "2026-11-12T02:00:00.000Z"
       },
       {
-        "id": "draft-real-xinhua-world-o6d6of",
-        "title": "埃及吉萨列车相撞事故已致7死112伤",
-        "oneLine": "政策变化：埃及卫生部8日发表声明说，当天埃及吉萨省发生客运列车相撞事故，死亡人数已升至7人，受伤人数升至112人。",
-        "importance": "B",
+        "id": "draft-real-xinhua-world-r2j4cd",
+        "title": "美前总统拜登在爱尔兰遭抗议者扔牛奶盒 一男子被起诉",
+        "oneLine": "政策变化：据爱尔兰警方通报，美国前总统拜登10日在爱尔兰首都都柏林出席一场活动时，遭部分支持巴勒斯坦的抗议者扔掷牛奶盒等物品。",
+        "importance": "A",
         "credibility": "主流媒体",
         "tags": [
-          "B",
+          "A",
           "mustKnow",
           "industry",
           "world",
@@ -173,50 +115,37 @@
         ],
         "section": "front",
         "body": {
-          "background": "11月8日晚，在埃及吉萨省的客运列车车厢脱轨事故现场，工作人员开展救援工作。当地居民艾哈迈德·阿萨德告诉新华社记者，事故发生时，他正在田间劳作，突然听到一声巨响，随后发现一列行驶中的火车撞上了一列处于静止状态的火车。事故发生后，警方、消防和救护人员陆续赶到现场。",
-          "keyProgress": "11月8日晚，一名男子站在埃及吉萨省的客运列车车厢脱轨事故现场。新华社记者 辛梦晨 摄 埃及铁路局发表声明说，一列由吉萨开往法尤姆的火车追尾一列由开罗开往南部城市阿斯旺的列车，导致部分车厢脱轨。该局已向现场派出救援人员，清理现场并移走脱轨车厢，争取尽快恢复线路双向运行。新华社记者当天傍晚在现场看到，倾覆的车厢翻倒在铁路路基旁，救援人员正在展开搜救和清理工作。",
-          "whyItMatters": "“埃及吉萨列车相撞事故已致7死112伤”如果继续发展，可能通过能源价格、航运、贸易、汇率或市场预期传导到国内。了解它的意义在于判断后续风险，而不只停留在事件本身。",
-          "userRelevance": "即使你不在事发地区，“埃及吉萨列车相撞事故已致7死112伤”也可能通过能源价格、国际航运、贸易成本和市场预期间接影响国内生活与工作判断。",
-          "whatToWatch": "接下来要看“埃及吉萨列车相撞事故已致7死112伤”是否出现新的官方信息、后续行动，以及它与中国出行、贸易或公共判断的关联是否扩大。"
+          "background": "警方表示，被起诉男子50多岁，另外两名被捕男子已获释，未受到指控。警方逮捕3名男子，其中一人已被起诉。当拜登及其家人离开会场时，部分抗议者高呼“你手上沾着血”等口号，并向其扔掷牛奶盒等物品。",
+          "keyProgress": "据爱尔兰媒体报道，爱尔兰警方已启动“该国历史上最大规模”的安保行动。现场有牛奶溅出，安保人员撑伞进行防护。新华社记者在现场看到，多名抗议者发表演讲，批评拜登政府应对加沙冲突的政策，并高喊“真可耻”“解放巴勒斯坦”等口号。一位名为达拉的圣三一大学学生告诉记者，美国和欧盟应采取“切实行动保护巴勒斯坦平民”。",
+          "whyItMatters": "“美前总统拜登在爱尔兰遭抗议者扔牛奶盒 一男子被起诉”如果继续发展，可能通过能源价格、航运、贸易、汇率或市场预期传导到国内。了解它的意义在于判断后续风险，而不只停留在事件本身。",
+          "userRelevance": "即使你不在事发地区，“美前总统拜登在爱尔兰遭抗议者扔牛奶盒 一男子被起诉”也可能通过能源价格、国际航运、贸易成本和市场预期间接影响国内生活与工作判断。",
+          "whatToWatch": "接下来要看“美前总统拜登在爱尔兰遭抗议者扔牛奶盒 一男子被起诉”是否出现新的官方信息、后续行动，以及它与中国出行、贸易或公共判断的关联是否扩大。"
         },
         "sourceLinks": [
           {
             "title": "新华网国际",
-            "url": "https://www.news.cn/world/20261109/ee9e6c90635640aab78c68b0affae358/c.html",
+            "url": "https://www.news.cn/world/20261112/38bbfb6420a84179af9bb5db468598c9/c.html",
             "sourceId": "xinhua-world",
-            "publishedAt": "2026-11-09T00:00:00+08:00",
+            "publishedAt": "2026-11-12T00:00:00+08:00",
             "language": "zh",
             "originalLanguage": "zh",
             "translationStatus": "not-needed",
-            "fetchedAt": "2026-11-10T10:14:26.512Z",
+            "fetchedAt": "2026-11-12T10:16:03.253Z",
             "sourceMethod": "web",
             "verificationStatus": "confirmed"
           }
         ],
-        "images": [
-          {
-            "url": "https://www.news.cn/world/20261109/ee9e6c90635640aab78c68b0affae358/Q7wrB8Rr1LmOXmG5.jpeg",
-            "sourceUrl": "https://www.news.cn/world/20261109/ee9e6c90635640aab78c68b0affae358/c.html"
-          },
-          {
-            "url": "https://www.news.cn/world/20261109/ee9e6c90635640aab78c68b0affae358/nIgwZ4W3PSIlwSHi.jpeg",
-            "sourceUrl": "https://www.news.cn/world/20261109/ee9e6c90635640aab78c68b0affae358/c.html"
-          },
-          {
-            "url": "https://www.news.cn/world/20261109/ee9e6c90635640aab78c68b0affae358/MbnWDBN2mHEO1bRr.jpeg",
-            "sourceUrl": "https://www.news.cn/world/20261109/ee9e6c90635640aab78c68b0affae358/c.html"
-          }
-        ],
-        "generatedAt": "2026-11-10T02:00:00.000Z"
+        "images": [],
+        "generatedAt": "2026-11-12T02:00:00.000Z"
       },
       {
-        "id": "draft-cluster-real-xinhua-world-1ydwdvl",
-        "title": "南非地方选举计票结束 非国大保住第一大党地位",
-        "oneLine": "政策变化：11月8日，在南非约翰内斯堡米德兰地区举行的地方选举结果公布仪式上，南非总统拉马福萨发表讲话。",
-        "importance": "B",
+        "id": "draft-cluster-real-xinhua-world-aqt6xf",
+        "title": "外交部：中方就中俄美元首会晤同有关方保持着沟通",
+        "oneLine": "政策变化：外交部发言人毛宁12日在例行记者会上答问时表示，中美双方就两国元首互动保持着密切沟通。",
+        "importance": "A",
         "credibility": "主流媒体",
         "tags": [
-          "B",
+          "A",
           "mustKnow",
           "industry",
           "world",
@@ -230,106 +159,95 @@
         ],
         "section": "front",
         "body": {
-          "background": "根据南非独立选举委员会8日公布的选举结果，执政党非洲人国民大会（非国大）在地方政府选举中保住第一大党地位，但得票率降至不足31%，较2021年地方政府选举下跌接近15个百分点。新华社发（南非政府新闻办公室供图） 在当天下午于约翰内斯堡米德兰地区举行的地方选举结果公布仪式上，拉马福萨祝贺当选的议员。他强调，在没有任何党派赢得绝对多数的地区，各党派应寻求共同点，尽快组建市议会并按时通过预算案，确保市政稳定和基本服务不受政治分歧影响。",
-          "keyProgress": "对长期主政南非的非国大而言，如何改善地方治理、推动经济增长并重建公众信任，将直接关系其能否扭转支持率逐年下滑的态势。选举结果显示，在全部有效选票中，南非总统拉马福萨领导的非国大得票率为30.76%，该党主要竞争对手民主联盟得票率为24.64%。前总统祖马领导的民族之矛党首次参加地方政府选举，得票率9.77%。新华社发（南非政府新闻办公室供图） 据独立选举委员会统计，此次选举投票率为52%，高于2021年地方选举的45.9%。",
-          "whyItMatters": "“南非地方选举计票结束 非国大保住第一大党地位”如果继续发展，可能通过能源价格、航运、贸易、汇率或市场预期传导到国内。了解它的意义在于判断后续风险，而不只停留在事件本身。",
-          "userRelevance": "即使你不在事发地区，“南非地方选举计票结束 非国大保住第一大党地位”也可能通过能源价格、国际航运、贸易成本和市场预期间接影响国内生活与工作判断。",
-          "whatToWatch": "接下来要看“南非地方选举计票结束 非国大保住第一大党地位”是否出现新的官方信息、后续行动，以及它与中国出行、贸易或公共判断的关联是否扩大。"
+          "background": "中方愿同美方一道共同落实好两国元首重要共识，推动构建“基于尊重、公平、对等的中美建设性战略稳定关系”。",
+          "keyProgress": "外交部：中方就中俄美元首会晤同有关方保持着沟通。外交部：中方就中俄美元首会晤同有关方保持着沟通",
+          "whyItMatters": "“外交部：中方就中俄美元首会晤同有关方保持着沟通”如果继续发展，可能通过能源价格、航运、贸易、汇率或市场预期传导到国内。了解它的意义在于判断后续风险，而不只停留在事件本身。",
+          "userRelevance": "即使你不在事发地区，“外交部：中方就中俄美元首会晤同有关方保持着沟通”也可能通过能源价格、国际航运、贸易成本和市场预期间接影响国内生活与工作判断。",
+          "whatToWatch": "接下来要看“外交部：中方就中俄美元首会晤同有关方保持着沟通”是否出现新的官方信息、后续行动，以及它与中国出行、贸易或公共判断的关联是否扩大。"
         },
         "sourceLinks": [
           {
             "title": "新华网国际",
-            "url": "https://www.news.cn/world/20261109/bd2e086f269c47639def61210683e288/c.html",
+            "url": "https://www.news.cn/world/20261112/92c4976cd29d4b60b0ff864e6d4d8d92/c.html",
             "sourceId": "xinhua-world",
-            "publishedAt": "2026-11-09T00:00:00+08:00",
+            "publishedAt": "2026-11-12T00:00:00+08:00",
             "language": "zh",
             "originalLanguage": "zh",
             "translationStatus": "not-needed",
-            "fetchedAt": "2026-11-10T10:14:26.512Z",
+            "fetchedAt": "2026-11-12T10:16:03.253Z",
             "sourceMethod": "web",
             "verificationStatus": "confirmed"
           },
           {
             "title": "新华网国际",
-            "url": "https://www.news.cn/world/20261109/aec419c174be461dabfe9ec0ef092563/c.html",
+            "url": "https://www.news.cn/world/20261112/83a364c176fc4dddaeca2de1eeee14f4/c.html",
             "sourceId": "xinhua-world",
-            "publishedAt": "2026-11-09T00:00:00+08:00",
+            "publishedAt": "2026-11-12T00:00:00+08:00",
             "language": "zh",
             "originalLanguage": "zh",
             "translationStatus": "not-needed",
-            "fetchedAt": "2026-11-10T10:14:26.512Z",
+            "fetchedAt": "2026-11-12T10:16:03.253Z",
             "sourceMethod": "web",
             "verificationStatus": "confirmed"
           }
         ],
-        "images": [
-          {
-            "url": "https://www.news.cn/world/20261109/bd2e086f269c47639def61210683e288/PltFHtTCnCyZRxLL.jpeg",
-            "sourceUrl": "https://www.news.cn/world/20261109/bd2e086f269c47639def61210683e288/c.html"
-          },
-          {
-            "url": "https://www.news.cn/world/20261109/bd2e086f269c47639def61210683e288/aZxneLvk6wN7LbYA.jpeg",
-            "sourceUrl": "https://www.news.cn/world/20261109/bd2e086f269c47639def61210683e288/c.html"
-          },
-          {
-            "url": "https://www.news.cn/world/20261109/bd2e086f269c47639def61210683e288/smGfn3pWdKDSDrSV.jpeg",
-            "sourceUrl": "https://www.news.cn/world/20261109/bd2e086f269c47639def61210683e288/c.html"
-          }
-        ],
-        "generatedAt": "2026-11-10T02:00:00.000Z"
+        "images": [],
+        "generatedAt": "2026-11-12T02:00:00.000Z"
       },
       {
-        "id": "draft-real-xinhua-world-1f2a6zm",
-        "title": "美国一大学校园发生两起枪击事件致1死3伤",
-        "oneLine": "政策变化：据美国媒体报道，美国北卡罗来纳州温斯顿-塞勒姆州立大学校园内7日晚间发生两起枪击事件，造成1人死亡、3人受伤。",
+        "id": "draft-real-mem-cn-1efqmp1",
+        "title": "2026年全国应急管理系统自然灾害情况核定暨灾情管理工作推进会在浙江台州召开",
+        "oneLine": "风险提醒：11月10日，2026年全国应急管理系统自然灾害情况核定暨灾情管理工作推进会在浙江省台州市天台县召开。",
+        "importance": "A",
+        "credibility": "官方来源",
+        "tags": [
+          "A",
+          "risk",
+          "industry",
+          "disaster",
+          "publicSafety",
+          "china"
+        ],
+        "industries": [
+          "generalPublic",
+          "localLife",
+          "operationsGrowth"
+        ],
+        "section": "risk",
+        "body": {
+          "background": "会议深入学习贯彻党的二十届五中全会精神和习近平总书记关于防灾减灾救灾重要论述，认真贯彻落实应急管理部党委要求，全面梳理2026年全国自然灾害发生情况及特点，核定各地今年以来的灾害损失，总结全年灾情管理工作，部署2027年重点工作。会议总结2026年全国灾情管理工作总体情况，通报全国自然灾害发生情况和各地灾情统计报送情况，介绍重特大自然灾害损失评估工作开展情况，并组织地方核准核实本地区灾情。江苏、浙江、安徽、广西、重庆、西藏6省（区、市）及台州市介绍灾情管理方面的经验做法，与会人员围绕《自然灾害情况统计调查制度》修订、基层灾情统计报送等方面工作，进行了充分交流讨论。",
+          "keyProgress": "各省（自治区、直辖市）应急管理厅（局）和新疆生产建设兵团应急管理局派员参加会议。",
+          "whyItMatters": "“2026年全国应急管理系统自然灾害情况核定暨灾情管理工作推进会在浙江台州召开”的直接价值是帮助你判断是否需要调整出行、居住或工作安排。影响地区、持续时间、预警等级和官方避险建议比事件热度更重要。",
+          "userRelevance": "对于“2026年全国应急管理系统自然灾害情况核定暨灾情管理工作推进会在浙江台州召开”，如果你居住、出行或有家人在浙江，应及时查看当地预警和交通变化；不在相关地区时，通常无需改变日常安排。",
+          "whatToWatch": "接下来要看“2026年全国应急管理系统自然灾害情况核定暨灾情管理工作推进会在浙江台州召开”的影响范围是否扩大、预警等级是否变化，以及是否出现与你所在城市相关的提醒。"
+        },
+        "sourceLinks": [
+          {
+            "title": "应急管理部",
+            "url": "https://www.mem.gov.cn/xw/yjglbgzdt/202611/t20261112_739222.shtml",
+            "sourceId": "mem-cn",
+            "publishedAt": "2026-11-12T00:00:00+08:00",
+            "language": "zh",
+            "originalLanguage": "zh",
+            "translationStatus": "not-needed",
+            "fetchedAt": "2026-11-12T10:16:01.949Z",
+            "sourceMethod": "web",
+            "verificationStatus": "confirmed"
+          }
+        ],
+        "images": [],
+        "generatedAt": "2026-11-12T02:00:00.000Z"
+      },
+      {
+        "id": "draft-real-city-news-rss:%E4%B8%AD%E5%9B%BD-%E5%B9%BF%E5%B7%9E-3kv4sc",
+        "title": "广州天河完成区级地质灾害风险管控和监测预警平台建设",
+        "oneLine": "风险提醒：手机端 关注 · 手机版 微信 关注 · 广州政府网 地质灾害防治事关人民群众生命财产安全，天河区立足区域实际，先试先行，在区级层面搭建地质灾害风险管控和监测预警平台，推动地质灾害防治关口前移、力量下沉，着力构建风险管控与监测预警相衔接、线上监测与线下处置相协同的防御体系，提升基层防灾减灾救灾能力。",
         "importance": "B",
-        "credibility": "主流媒体",
+        "credibility": "待确认",
         "tags": [
           "B",
           "mustKnow",
-          "industry",
-          "world",
-          "policy"
-        ],
-        "industries": [
-          "generalPublic",
-          "financeInvestment",
-          "operationsGrowth",
-          "contentCreator"
-        ],
-        "section": "front",
-        "body": {
-          "background": "温斯顿-塞勒姆警察局助理局长杰森·斯韦姆在8日举行的新闻发布会上表示，目前尚不清楚这两起枪击事件是否有关联。事发不久校园便进入封锁状态，并于8日清晨解除封锁。警方表示，未来几天将在校园内外增派警力。",
-          "keyProgress": "美国一大学校园发生两起枪击事件致1死3伤。美国一大学校园发生两起枪击事件致1死3伤",
-          "whyItMatters": "“美国一大学校园发生两起枪击事件致1死3伤”如果继续发展，可能通过能源价格、航运、贸易、汇率或市场预期传导到国内。了解它的意义在于判断后续风险，而不只停留在事件本身。",
-          "userRelevance": "即使你不在美国，“美国一大学校园发生两起枪击事件致1死3伤”也可能通过能源价格、国际航运、贸易成本和市场预期间接影响国内生活与工作判断。",
-          "whatToWatch": "接下来要看“美国一大学校园发生两起枪击事件致1死3伤”是否出现新的官方信息、后续行动，以及它与中国出行、贸易或公共判断的关联是否扩大。"
-        },
-        "sourceLinks": [
-          {
-            "title": "新华网国际",
-            "url": "https://www.news.cn/world/20261109/ca83d98d41db499bb286b8fbd189ccb4/c.html",
-            "sourceId": "xinhua-world",
-            "publishedAt": "2026-11-09T00:00:00+08:00",
-            "language": "zh",
-            "originalLanguage": "zh",
-            "translationStatus": "not-needed",
-            "fetchedAt": "2026-11-10T10:14:26.512Z",
-            "sourceMethod": "web",
-            "verificationStatus": "confirmed"
-          }
-        ],
-        "images": [],
-        "generatedAt": "2026-11-10T02:00:00.000Z"
-      },
-      {
-        "id": "draft-real-city-news-rss:%E4%B8%AD%E5%9B%BD-%E4%B8%8A%E6%B5%B7-5cju1",
-        "title": "营造良好生态、强化基础支撑、优化资源配置、加强服务对接 陈吉宁走访“模速空间”成长型企业 2026-11-10 今日上海",
-        "oneLine": "政策变化：陈吉宁指出，要深入学习贯彻习近平总书记考察上海重要讲话精神和对上海工作重要指示要求，牢牢把握人工智能发展机遇，进一步营造良好生态、强化基础支撑、优化资源配置、加强服务对接，支持创新创业企业保持战略定力、着眼长远发展，找准赛道、加速突破、加快提升核心竞争力，更好融入和参与上海人工智能发展和治理创新高地。",
-        "importance": "B",
-        "credibility": "待确认",
-        "tags": [
-          "B",
+          "risk",
           "industry",
           "local",
           "policy",
@@ -340,48 +258,62 @@
           "generalPublic",
           "operationsGrowth"
         ],
-        "section": "local",
+        "section": "risk",
         "body": {
-          "background": "进一步把创新生态、产业生态营造好，不断提升服务响应的及时性精准性、政策举措的针对性有效性，让企业心无旁骛创新发展 陈吉宁先后走访了汇翮（上海）智能科技有限公司、上海辛普来思科技有限公司，听取企业创新创业基本情况和所在领域发展趋势介绍，就企业锚定细分赛道、开展技术研发、产品开发、场景应用及人才团队建设等作了具体了解，就技术方向、竞争优势、评测体系等与团队负责人展开交流，关切询问下一步发展还有哪些具体问题需要解决、哪些服务事项需要支持，就企业提出的实际需求一一作了回应，叮嘱相关部门和区要持续加强常态化对接，既要及时了解企业发展诉求，也要认真听取企业意见建议，进一步把创新生态、产业生态营造好，不断提升服务响应的及时性精准性、政策举措的针对性有效性，让企业心无旁骛创新发展。",
-          "keyProgress": "上海正按照习近平总书记的重要指示要求，把人工智能作为三大先导产业之一加力发展，加快建设人工智能发展和治理创新高地。上海将以更加开放的姿态、更加务实的行动、更加长远的目光，把发展的生态打造好，把基础性工作做到位，在算力、语料、场景、金融等方面提供体系化支撑，在重点领域建设一批“干湿闭环”高通量智能实验室，推动一批科技基础设施和公共服务平台智能化升级，加快人才集聚、资源汇聚、要素耦合，更好回应企业需求，助力效率提升，加速重大发现，更好支持企业牢牢把握科技创新主动权、抢占产业发展制高点，努力形成“众人拾柴火焰高”的发展合力，携手推动上海人工智能发展和治理创新高地取得新的更大突破。进一步明晰发展路径、锚定优势赛道、加力攻坚突破，持续提升核心竞争力，在同向同行中更好实现共赢发展 陈吉宁指出，当前，新一轮科技革命和产业变革加速突破，全球人工智能技术创新进入前所未有的活跃期。",
-          "whyItMatters": "“营造良好生态、强化基础支撑、优化资源配置、加强服务对接 陈吉宁走访模速空间成长型企业 202”可能改变个人办事、出行、公共服务或行业规则。提前确认适用范围和生效时间，可以减少信息滞后带来的判断偏差。",
-          "userRelevance": "作为中国居民，你需要留意“营造良好生态、强化基础支撑、优化资源配置、加强服务对接 陈吉宁走访模速空间成长型企业 202”是否改变办事、出行或公共服务规则；如果你从事本地生活、运营增长，还应关注行业执行细则。",
-          "whatToWatch": "接下来要看“营造良好生态、强化基础支撑、优化资源配置、加强服务对接 陈吉宁走访模速空间成长型企业 202”是否补充执行细则、地方落地安排、时间节点或适用人群说明。"
+          "background": "该平台聚焦地质灾害风险管控和监测预警核心需求，涵盖指挥调度一张图、作业移动一终端、基础地质空间数据库、隐患风险业务管理子系统、气象预警采集分析子系统、监测设备对接子系统、大数据管理子系统等7个模块，围绕风险隐患管理、监测预警、分析研判和协同处置等环节，整合相关数据资源，提升地质灾害风险智能预警和快速响应能力，标志着天河区在地质灾害防治数字化、智能化转型方面迈出重要一步，将进一步织密全区地质灾害防御监测网。按照工作部署，平台后续将整体接入天河区应急指挥调度中心，实现与全区应急指挥体系有效衔接，进一步打通监测预警与应急响应链条，提升统一指挥、协同联动和快速处置能力。",
+          "keyProgress": "广州天河完成区级地质灾害风险管控和监测预警平台建设。广州天河完成区级地质灾害风险管控和监测预警平台建设 - 广州市人民政府门户网站 - setTimeout(function(){var s = document.createElement(\"script\");s.type = \"text/javascript\";s.src = \"//statistics.gd.gov.cn/jsonp/post/sum?p。",
+          "whyItMatters": "“广州天河完成区级地质灾害风险管控和监测预警平台建设”的直接价值是帮助你判断是否需要调整出行、居住或工作安排。影响地区、持续时间、预警等级和官方避险建议比事件热度更重要。",
+          "userRelevance": "对于“广州天河完成区级地质灾害风险管控和监测预警平台建设”，如果你居住、出行或有家人在广州，应及时查看当地预警和交通变化；不在相关地区时，通常无需改变日常安排。",
+          "whatToWatch": "接下来要看“广州天河完成区级地质灾害风险管控和监测预警平台建设”的影响范围是否扩大、预警等级是否变化，以及是否出现与你所在城市相关的提醒。"
         },
         "sourceLinks": [
           {
-            "title": "直辖市·上海本地公开信息",
-            "url": "https://www.shanghai.gov.cn/nw4411/20261110/b28198a6a2034d808b386615c364e239.html",
-            "sourceId": "city-news-rss:%E4%B8%AD%E5%9B%BD-%E4%B8%8A%E6%B5%B7",
-            "publishedAt": "2026-11-10T00:00:00+08:00",
+            "title": "广东·广州本地公开信息",
+            "url": "https://www.gz.gov.cn/xw/zwlb/content/post_11099510.html",
+            "sourceId": "city-news-rss:%E4%B8%AD%E5%9B%BD-%E5%B9%BF%E5%B7%9E",
+            "publishedAt": "2026-11-12T00:00:00+08:00",
             "language": "zh",
             "originalLanguage": "zh",
             "translationStatus": "not-needed",
-            "fetchedAt": "2026-11-10T10:17:19.539Z",
+            "fetchedAt": "2026-11-12T10:18:26.159Z",
             "sourceMethod": "web",
             "verificationStatus": "pending"
           }
         ],
         "images": [
           {
-            "url": "https://www.shanghai.gov.cn/cmsres/71/714f695cc35743f7b55fed17daf47082/832e5dbae3a959d1899816e3db6e85e3.jpg",
-            "sourceUrl": "https://www.shanghai.gov.cn/nw4411/20261110/b28198a6a2034d808b386615c364e239.html"
+            "url": "https://www.gz.gov.cn/global/ewm_mobile.jpg",
+            "sourceUrl": "https://www.gz.gov.cn/xw/zwlb/content/post_11099510.html"
           },
           {
-            "url": "https://www.shanghai.gov.cn/cmsres/be/be2e350cfffa4160a975d278c435f4f4/5a86a4b4de443545f1b588009ae490c4.jpg",
-            "sourceUrl": "https://www.shanghai.gov.cn/nw4411/20261110/b28198a6a2034d808b386615c364e239.html"
+            "url": "https://www.gz.gov.cn/global/ewm_wx.jpg",
+            "sourceUrl": "https://www.gz.gov.cn/xw/zwlb/content/post_11099510.html"
+          },
+          {
+            "url": "https://www.gz.gov.cn/global/wzsyx.png",
+            "sourceUrl": "https://www.gz.gov.cn/xw/zwlb/content/post_11099510.html"
+          },
+          {
+            "url": "https://www.gz.gov.cn/global/27f6f788a35c4661a43aa7ce1ae91e7f.png",
+            "sourceUrl": "https://www.gz.gov.cn/xw/zwlb/content/post_11099510.html"
+          },
+          {
+            "url": "https://www.gz.gov.cn/global/easy_shb_gzh.jpg",
+            "sourceUrl": "https://www.gz.gov.cn/xw/zwlb/content/post_11099510.html"
           }
         ],
-        "generatedAt": "2026-11-10T02:00:00.000Z"
+        "generatedAt": "2026-11-12T02:00:00.000Z"
       },
       {
-        "id": "draft-real-city-news-rss:%E4%B8%AD%E5%9B%BD-%E4%B8%8A%E6%B5%B7-1eaiu7d",
-        "title": "4天进博会上海会议近80项成果落地 AI、出海成为场内热词 共话开放合作 激发消费新潜能 2026-11-10 今日上海",
-        "oneLine": "政策变化：2026进博会上海会议活动紧扣虹桥国际经济论坛&ldquo;稳定合作 共建开放型世界经济&rdquo;主题，提出&ldquo;开放中国与上海实践&rdquo;&ldquo;企业国际化与海外综合服务&rdquo;&ldquo;推动贸易创新发展&rdquo;&ldquo;绿色与可持续发展&rdquo;&。",
+        "id": "draft-real-city-news-rss:%E4%B8%AD%E5%9B%BD-%E5%B9%BF%E5%B7%9E-962wwj",
+        "title": "广州年底将建成1000个应急消防智能值守中心 实现“早预警、快处置”",
+        "oneLine": "风险提醒：11月10日，记者从广州市消防安全治理情况暨2026年消防宣传月新闻发布会上获悉，广州实化智能值守，在“九小场所”、老旧小区等六类低设防场所推广安装200万个联网式烟感报警器，将于今年底在基层建成1000个应急消防智能值守中心，以实现“早预警、快处置”。",
         "importance": "B",
         "credibility": "待确认",
         "tags": [
           "B",
+          "mustKnow",
+          "risk",
           "industry",
           "local",
           "policy",
@@ -392,78 +324,200 @@
           "generalPublic",
           "operationsGrowth"
         ],
-        "section": "local",
+        "section": "risk",
         "body": {
-          "background": "中国社会科学院&mdash;上海市人民政府上海研究院发布《上海开放发展报告（2026）》蓝皮书。在大宗商品国际资源配置研讨会上，大宗商品&ldquo;上海价格&rdquo;指数正式发布，覆盖品种包括原油、汽油、柴油、白银等十大类。会上同时发布数字信保专区，成立数字看板联合实验室，为企业装上海外经营&ldquo;风险预警器&rdquo;。",
-          "keyProgress": "&ldquo;希望推动更多乌兹别克斯坦优质产品进入中国电商平台，扩大国家馆和线上专区布局。宝马集团副总裁、首席可持续发展官格兰&middot;施密特认为，可持续发展是连接中国、德国乃至欧洲的重要桥梁，应通过开放合作将其转化为增长动力。在今年的各个活动会场，AI成为高频关键词。中国社会科学院大学教授、国务院原副秘书长江小涓认为，AI和数据驱动正成为科学和技术两种创新范式的汇聚点，并非替代既有科研范式，而是与其并存。",
-          "whyItMatters": "“4天进博会上海会议近80项成果落地 AI、出海成为场内热词 共话开放合作 激发消费新潜能 202”可能改变个人办事、出行、公共服务或行业规则。提前确认适用范围和生效时间，可以减少信息滞后带来的判断偏差。",
-          "userRelevance": "作为中国居民，你需要留意“4天进博会上海会议近80项成果落地 AI、出海成为场内热词 共话开放合作 激发消费新潜能 202”是否改变办事、出行或公共服务规则；如果你从事本地生活、运营增长，还应关注行业执行细则。",
-          "whatToWatch": "接下来要看“4天进博会上海会议近80项成果落地 AI、出海成为场内热词 共话开放合作 激发消费新潜能 202”是否补充执行细则、地方落地安排、时间节点或适用人群说明。"
+          "background": "翟羽介绍，广州聚焦专业市场、城中村、出租屋、“三合一”场所、电动自行车等火灾高风险领域，加强专项排查整治，启动简易执法程序，集中开展百日攻坚和常态夜查，累计出动力量5.7万人次，化解各类风险隐患11.7万处。白云区火警起数连续三年保持两位数降幅 发布会上，白云区消防救援局局长孙志远分享了辖区打通消防治理“最后一公里”的做法。”广州市消防救援局副局长马从波在发布会上透露，电动自行车火灾之所以容易致人死亡，主要是电池热失控后，几秒内就开始喷火，燃烧快、烟气大、毒性强、易爆炸、难扑灭。",
+          "keyProgress": "今年以来的火灾起数同比下降21.8%。“我们探索构建‘责任闭环+联防共治+精准治理+科技赋能+全民参与’五位一体的消防治理模式，推动治理重心下移、资源力量下沉、防范关口前移。”他介绍，白云区厘清29个部门204类行业消防安全监管边界，摸清全区73.6万家经营场所底数，建立ABCD四级火灾风险差异化管控，配套“三问”倒查机制，分类施策不搞“一刀切”。一旦探测到火情、电气异常，系统自动预警，警情秒级推送给网格员与一线值守力量，多方联动快速处置。",
+          "whyItMatters": "“广州年底将建成1000个应急消防智能值守中心 实现早预警、快处置”的直接价值是帮助你判断是否需要调整出行、居住或工作安排。影响地区、持续时间、预警等级和官方避险建议比事件热度更重要。",
+          "userRelevance": "对于“广州年底将建成1000个应急消防智能值守中心 实现早预警、快处置”，如果你居住、出行或有家人在广州，应及时查看当地预警和交通变化；不在相关地区时，通常无需改变日常安排。",
+          "whatToWatch": "接下来要看“广州年底将建成1000个应急消防智能值守中心 实现早预警、快处置”的影响范围是否扩大、预警等级是否变化，以及是否出现与你所在城市相关的提醒。"
         },
         "sourceLinks": [
           {
-            "title": "直辖市·上海本地公开信息",
-            "url": "https://www.shanghai.gov.cn/nw4411/20261110/489bc806444f44458e335f3a29d3bd3f.html",
-            "sourceId": "city-news-rss:%E4%B8%AD%E5%9B%BD-%E4%B8%8A%E6%B5%B7",
-            "publishedAt": "2026-11-10T00:00:00+08:00",
+            "title": "广东·广州本地公开信息",
+            "url": "https://www.gz.gov.cn/zwfw/zxfw/ggfw/content/post_11096639.html",
+            "sourceId": "city-news-rss:%E4%B8%AD%E5%9B%BD-%E5%B9%BF%E5%B7%9E",
+            "publishedAt": "2026-11-11T00:00:00+08:00",
             "language": "zh",
             "originalLanguage": "zh",
             "translationStatus": "not-needed",
-            "fetchedAt": "2026-11-10T10:17:19.539Z",
+            "fetchedAt": "2026-11-12T10:18:27.349Z",
             "sourceMethod": "web",
             "verificationStatus": "pending"
           }
         ],
-        "images": [],
-        "generatedAt": "2026-11-10T02:00:00.000Z"
+        "images": [
+          {
+            "url": "https://www.gz.gov.cn/global/ewm_mobile.jpg",
+            "sourceUrl": "https://www.gz.gov.cn/zwfw/zxfw/ggfw/content/post_11096639.html"
+          },
+          {
+            "url": "https://www.gz.gov.cn/global/ewm_wx.jpg",
+            "sourceUrl": "https://www.gz.gov.cn/zwfw/zxfw/ggfw/content/post_11096639.html"
+          },
+          {
+            "url": "https://www.gz.gov.cn/global/wzsyx.png",
+            "sourceUrl": "https://www.gz.gov.cn/zwfw/zxfw/ggfw/content/post_11096639.html"
+          },
+          {
+            "url": "https://www.gz.gov.cn/img/1/1718/1718250/11096639.png",
+            "sourceUrl": "https://www.gz.gov.cn/zwfw/zxfw/ggfw/content/post_11096639.html"
+          },
+          {
+            "url": "https://www.gz.gov.cn/global/27f6f788a35c4661a43aa7ce1ae91e7f.png",
+            "sourceUrl": "https://www.gz.gov.cn/zwfw/zxfw/ggfw/content/post_11096639.html"
+          }
+        ],
+        "generatedAt": "2026-11-12T02:00:00.000Z"
       },
       {
-        "id": "draft-real-city-news-rss:%E4%B8%AD%E5%9B%BD-%E4%B8%8A%E6%B5%B7-1u5b4im",
-        "title": "上海服务消费两条赛道扩张显著 体育消费 去年规模成为全国唯一破千亿元城市 银发消费 增速较其他一线城市高3.49个百分点 2026-11-10 今日上海",
-        "oneLine": "政策变化：昨天，&ldquo;智启文旅商，消费向新行&rdquo;研讨会在虹桥绿地铂瑞酒店举行，同步发布《国际消费中心城市评估指数报告》《上海商业发展报告（2026）》。",
+        "id": "draft-cluster-real-eol-education-qu15ir",
+        "title": "第24届中国国际人才交流大会在上海举行 谌贻琴出席开幕式并讲话",
+        "oneLine": "政策变化：合作邮箱：bianji@eol.cn 官方微信ID：eoleoleol 新华社上海11月11日电 第24届中国国际人才交流大会11日在上海开幕，国务委员谌贻琴出席开幕式并讲话。",
         "importance": "B",
         "credibility": "待确认",
         "tags": [
           "B",
           "industry",
           "local",
+          "education",
           "policy",
           "china"
         ],
         "industries": [
-          "localLife",
+          "teacher",
+          "educationResearch",
           "generalPublic",
+          "localLife",
           "operationsGrowth"
         ],
         "section": "local",
         "body": {
-          "background": "据预测，未来，空间情感化改造将受欢迎，比如使用留白空间、艺术展陈、主题剧场获取情绪体验；研讨会是2026进博会上海会议活动之一，由上海商业发展研究院、上海市开放战略研究中心联合主办，来自政府、高校、研究机构和企业界的代表们，围绕AI赋能文商旅融合、消费新场景培育和国际消费中心城市建设展开深入研讨。数据显示，2025年上海市社会消费品零售总额达16600.93亿元，总量位列全国城市第二，全年同比增速4.6%。",
-          "keyProgress": "全年居民消费价格指数（CPI）比上年上涨0.1%，扣除食品和能源价格的核心CPI上涨0.7%。体育消费与银发消费是推动上海服务消费规模扩张与质量升级的核心动力。2025年，上海体育消费总规模突破1093亿元，成为全国唯一破千亿元的城市；备老客群（50&mdash;59岁）及银发客群（60岁及以上）的服务消费金额同比增速为5.12%，较其他一线城市高出3.49个百分点。",
-          "whyItMatters": "“上海服务消费两条赛道扩张显著 体育消费 去年规模成为全国唯一破千亿元城市 银发消费 增速较其他一”可能改变个人办事、出行、公共服务或行业规则。提前确认适用范围和生效时间，可以减少信息滞后带来的判断偏差。",
-          "userRelevance": "作为中国居民，你需要留意“上海服务消费两条赛道扩张显著 体育消费 去年规模成为全国唯一破千亿元城市 银发消费 增速较其他一”是否改变办事、出行或公共服务规则；如果你从事本地生活、运营增长，还应关注行业执行细则。",
-          "whatToWatch": "接下来要看“上海服务消费两条赛道扩张显著 体育消费 去年规模成为全国唯一破千亿元城市 银发消费 增速较其他一”是否补充执行细则、地方落地安排、时间节点或适用人群说明。"
+          "background": "谌贻琴强调，习近平主席深刻指出，“要实行更加积极、更加开放、更加有效的人才政策”“热忱欢迎外国专家和优秀人才以各种方式参与中国现代化建设”。当前，中国经济发展持续向好，创新活力持续迸发，社会大局长期稳定，拥有适宜各类人才发展的无限生机和澎湃活力。中国“十五五”规划向世界发出合作邀约，中共二十届五中全会为推进中国式现代化提供坚强保障。",
+          "keyProgress": "谌贻琴表示，中国将持续完善海外引进人才支持保障机制，营造尊重、关心、支持外国人才创新创业的良好氛围，让有志于来华发展的各类人才各得其所、尽展所长。希望全球英才汇聚新时代中国，在中国式现代化舞台上大展宏图，在科技前沿探索中大显身手，在构建人类命运共同体实践中大有作为，共同创造美好未来，共同增进人类福祉。本次大会以“聚天下英才、谋合作共赢”为主题，来自120多个国家和地区的3100多名外国专家出席开幕式。② 本站注明稿件来源为其他媒体的文/图等稿件均为转载稿，本站转载出于非商业性的教育和科研之目的，并不意味着赞同其观点或证实其内容的真实性。",
+          "whyItMatters": "“第24届中国国际人才交流大会在上海举行 谌贻琴出席开幕式并讲话”可能影响学校治理、教师工作、课程安排或学生发展。教育从业者可以据此提前关注具体对象、地方执行方式和工作要求。",
+          "userRelevance": "如果你从事教师、教育研究或学校管理，可以重点关注“第24届中国国际人才交流大会在上海举行 谌贻琴出席开幕式并讲话”的具体对象、执行方式和地方落地节奏；其他用户可把它作为教育环境背景了解。",
+          "whatToWatch": "接下来要看“第24届中国国际人才交流大会在上海举行 谌贻琴出席开幕式并讲话”是否补充执行细则、地方落地安排、时间节点或适用人群说明。"
         },
         "sourceLinks": [
           {
-            "title": "直辖市·上海本地公开信息",
-            "url": "https://www.shanghai.gov.cn/nw4411/20261110/375b205044da4a24ad68f12ecbe6348f.html",
-            "sourceId": "city-news-rss:%E4%B8%AD%E5%9B%BD-%E4%B8%8A%E6%B5%B7",
-            "publishedAt": "2026-11-10T00:00:00+08:00",
+            "title": "中国教育在线要闻",
+            "url": "https://www.eol.cn/news/yaowen/202611/t20261112_2793373.shtml",
+            "sourceId": "eol-education",
+            "publishedAt": "2026-11-12T00:00:00+08:00",
             "language": "zh",
             "originalLanguage": "zh",
             "translationStatus": "not-needed",
-            "fetchedAt": "2026-11-10T10:17:19.539Z",
+            "fetchedAt": "2026-11-12T10:16:09.906Z",
+            "sourceMethod": "web",
+            "verificationStatus": "pending"
+          },
+          {
+            "title": "直辖市·上海本地公开信息",
+            "url": "https://www.shanghai.gov.cn/nw4411/20261112/90fbd1185daf4115aaa7cae1fd636aeb.html",
+            "sourceId": "city-news-rss:%E4%B8%AD%E5%9B%BD-%E4%B8%8A%E6%B5%B7",
+            "publishedAt": "2026-11-12T00:00:00+08:00",
+            "language": "zh",
+            "originalLanguage": "zh",
+            "translationStatus": "not-needed",
+            "fetchedAt": "2026-11-12T10:18:19.856Z",
             "sourceMethod": "web",
             "verificationStatus": "pending"
           }
         ],
-        "images": [],
-        "generatedAt": "2026-11-10T02:00:00.000Z"
+        "images": [
+          {
+            "url": "https://www.eol.cn/images/ad/2017_img/arrow.png",
+            "sourceUrl": "https://www.eol.cn/news/yaowen/202611/t20261112_2793373.shtml"
+          },
+          {
+            "url": "https://www.eol.cn/images/ad/2017_img/phone.png",
+            "sourceUrl": "https://www.eol.cn/news/yaowen/202611/t20261112_2793373.shtml"
+          },
+          {
+            "url": "https://img.eol.cn/e_images/gk/2020/newzsgk.jpg",
+            "sourceUrl": "https://www.eol.cn/news/yaowen/202611/t20261112_2793373.shtml"
+          },
+          {
+            "url": "https://img.eol.cn/e_images/gk/2023/zsky2023.jpg",
+            "sourceUrl": "https://www.eol.cn/news/yaowen/202611/t20261112_2793373.shtml"
+          },
+          {
+            "url": "https://www.eol.cn/e_images/index/2018/acabridge.png",
+            "sourceUrl": "https://www.eol.cn/news/yaowen/202611/t20261112_2793373.shtml"
+          }
+        ],
+        "generatedAt": "2026-11-12T02:00:00.000Z"
       },
       {
-        "id": "draft-real-xinhua-tech-14t3rjq",
-        "title": "在进博会上感受人工智能产业新脉动",
-        "oneLine": "这条信息主要围绕在进博会上感受人工智能产业新脉动展开，核心影响需要结合适用范围和时间节点判断。",
+        "id": "draft-real-eol-education-1335lef",
+        "title": "中国—白俄罗斯大学联盟第四次全体大会举行",
+        "oneLine": "政策变化：合作邮箱：bianji@eol.cn 官方微信ID：eoleoleol 11月11日，中国—白俄罗斯大学联盟第四次全体大会在上海举行。",
+        "importance": "B",
+        "credibility": "待确认",
+        "tags": [
+          "B",
+          "industry",
+          "local",
+          "education",
+          "policy",
+          "china"
+        ],
+        "industries": [
+          "teacher",
+          "educationResearch",
+          "generalPublic"
+        ],
+        "section": "local",
+        "body": {
+          "background": "教育部部长怀进鹏、白俄罗斯教育部部长伊万涅茨向会议作视频致辞。怀进鹏表示，在习近平主席和卢卡申科总统战略引领下，两国政治互信不断深化、各领域合作成果丰硕。希望双方携手同行，将中白大学联盟打造成为凝聚两国高等教育共识的对话窗口、支撑国家未来发展的合作载体、推进文明交流互鉴的友谊桥梁，共同构建可持续发展的中白大学合作生态系统，培养担当时代重任的复合型人才，更好服务两国经济社会发展。",
+          "keyProgress": "伊万涅茨表示，希望双方共同落实好两国元首共识，建好中白大学联盟，培育更多丰硕成果，为深化两国教育合作发挥更加积极的作用。本次会议由大连理工大学主办、华东师范大学承办，双方高校围绕人才培养、联合科研等达成多项合作共识。② 本站注明稿件来源为其他媒体的文/图等稿件均为转载稿，本站转载出于非商业性的教育和科研之目的，并不意味着赞同其观点或证实其内容的真实性。如转载稿涉及版权等问题，请作者在两周内速来电或来函联系。",
+          "whyItMatters": "“中国—白俄罗斯大学联盟第四次全体大会举行”可能影响学校治理、教师工作、课程安排或学生发展。教育从业者可以据此提前关注具体对象、地方执行方式和工作要求。",
+          "userRelevance": "如果你从事教师、教育研究或学校管理，可以重点关注“中国—白俄罗斯大学联盟第四次全体大会举行”的具体对象、执行方式和地方落地节奏；其他用户可把它作为教育环境背景了解。",
+          "whatToWatch": "接下来要看“中国—白俄罗斯大学联盟第四次全体大会举行”是否补充执行细则、地方落地安排、时间节点或适用人群说明。"
+        },
+        "sourceLinks": [
+          {
+            "title": "中国教育在线要闻",
+            "url": "https://www.eol.cn/news/yaowen/202611/t20261112_2793372.shtml",
+            "sourceId": "eol-education",
+            "publishedAt": "2026-11-12T00:00:00+08:00",
+            "language": "zh",
+            "originalLanguage": "zh",
+            "translationStatus": "not-needed",
+            "fetchedAt": "2026-11-12T10:16:09.906Z",
+            "sourceMethod": "web",
+            "verificationStatus": "pending"
+          }
+        ],
+        "images": [
+          {
+            "url": "https://www.eol.cn/images/ad/2017_img/arrow.png",
+            "sourceUrl": "https://www.eol.cn/news/yaowen/202611/t20261112_2793372.shtml"
+          },
+          {
+            "url": "https://www.eol.cn/images/ad/2017_img/phone.png",
+            "sourceUrl": "https://www.eol.cn/news/yaowen/202611/t20261112_2793372.shtml"
+          },
+          {
+            "url": "https://img.eol.cn/e_images/gk/2020/newzsgk.jpg",
+            "sourceUrl": "https://www.eol.cn/news/yaowen/202611/t20261112_2793372.shtml"
+          },
+          {
+            "url": "https://img.eol.cn/e_images/gk/2023/zsky2023.jpg",
+            "sourceUrl": "https://www.eol.cn/news/yaowen/202611/t20261112_2793372.shtml"
+          },
+          {
+            "url": "https://www.eol.cn/e_images/index/2018/acabridge.png",
+            "sourceUrl": "https://www.eol.cn/news/yaowen/202611/t20261112_2793372.shtml"
+          }
+        ],
+        "generatedAt": "2026-11-12T02:00:00.000Z"
+      },
+      {
+        "id": "draft-real-xinhua-tech-1035y09",
+        "title": "AI助力筛选高性能钙钛矿界面材料",
+        "oneLine": "趋势信号：记者10日从中国科学技术大学获悉，该校蔡逢春团队联合南方科技大学、香港城市大学等单位，建立了融合人工智能（AI）、高通量理论计算与专家知识的自组装单分子层（SAM）智能筛选框架，创新性构建8描述符综合排序体系，从庞大化学空间中系统发现兼具合成可行性与界面稳定性的高性能钙钛矿界面材料。",
         "importance": "B",
         "credibility": "主流媒体",
         "tags": [
@@ -483,144 +537,125 @@
         ],
         "section": "ai",
         "body": {
-          "background": "这些演示的背后，是西门子不断加深的本土创新布局步伐：开放在华5家工厂的6类生产场景，与中国企业共同开展实测；货架如何排列、设备怎样运行、物流是否顺畅，都可以在建设之前完成设计和仿真验证。这是记者在第九届中国国际进口博览会德国永恒力展台看到的一幕。",
-          "keyProgress": "以往需要多名专业工程师耗时两三周才能完成的工业设计，如今借助人工智能（AI）辅助编程，普通人也能参与初步设计和验证。行走在各大展区，AI产业发展新趋势扑面而来。各行各业的AI创新“浓度”显著提升—— 在技术装备展区，来自瑞士的迅达电梯展示了配备乘客安全智能响应系统的智慧扶梯。迅达中国现场营运总裁朱康正介绍，扶梯装上传感器，依靠AI视觉识别技术，结合边缘计算，可以及时预警乘客摔倒、逆行，或推着婴儿车等危险乘梯行为。",
-          "whyItMatters": "“在进博会上感受人工智能产业新脉动”能帮助你判断这项能力是否已经进入工程、产品或商业场景，并据此调整技术选型、产品规划、学习重点或职业判断。",
-          "userRelevance": "如果你从事技术研发、教育研究、AI 产品、AI 技术，可以重点判断“在进博会上感受人工智能产业新脉动”是否已经具备产品落地、技术选型或业务合作价值。",
-          "whatToWatch": "接下来要看“在进博会上感受人工智能产业新脉动”是否有更多可靠来源、量产或应用进展，以及它会不会从单点消息发展成持续趋势。"
+          "background": "他们并先选出24个片段，再通过模块化组装构建300个候选分子，随后经能级初筛获得124个候选分子后，将合成可行性、分子能级、空穴重组能、芳香性和杂原子含量等8项指标纳入综合评分，确定优先开展实验的候选分子。通常分子设计需要同时满足多种要求：能级要匹配，界面相互作用要合适，合成路线要可行，还要适应后续的溶液加工。某一项计算指标出色，并不意味着这个分子就能成为好用的器件材料。",
+          "keyProgress": "传统试错式开发周期长，难以兼顾多个相互制约的指标。为此，研究团队将合成可行性纳入筛选过程，使计算设计从一开始就与实验条件相衔接。研究人员从PubChem数据库收录的咔唑衍生物中提取出308个功能片段，这些片段对应超过9万种潜在组合结构。这一设计思路的重要性也得到了对照分析的支持。",
+          "whyItMatters": "“AI助力筛选高性能钙钛矿界面材料”能帮助你判断这项能力是否已经进入工程、产品或商业场景，并据此调整技术选型、产品规划、学习重点或职业判断。",
+          "userRelevance": "如果你从事技术研发、教育研究、AI 产品、AI 技术，可以重点判断“AI助力筛选高性能钙钛矿界面材料”是否已经具备产品落地、技术选型或业务合作价值。",
+          "whatToWatch": "接下来要看“AI助力筛选高性能钙钛矿界面材料”是否有更多可靠来源、量产或应用进展，以及它会不会从单点消息发展成持续趋势。"
         },
         "sourceLinks": [
           {
             "title": "新华网科技",
-            "url": "https://www.news.cn/tech/20261110/b1ef49b3d48d471a821d8dd51596bda2/c.html",
+            "url": "https://www.news.cn/tech/20261111/1758a7bf96c044e2bd69ba0aaf224515/c.html",
             "sourceId": "xinhua-tech",
-            "publishedAt": "2026-11-10T00:00:00+08:00",
+            "publishedAt": "2026-11-11T00:00:00+08:00",
             "language": "zh",
             "originalLanguage": "zh",
             "translationStatus": "not-needed",
-            "fetchedAt": "2026-11-10T10:14:26.894Z",
+            "fetchedAt": "2026-11-12T10:16:03.138Z",
             "sourceMethod": "web",
             "verificationStatus": "confirmed"
           }
         ],
         "images": [],
-        "generatedAt": "2026-11-10T02:00:00.000Z"
+        "generatedAt": "2026-11-12T02:00:00.000Z"
       },
       {
-        "id": "draft-real-xinhua-tech-5e9xa2",
-        "title": "进博手记：AI跑得快，传统工业忙起来",
-        "oneLine": "趋势信号：人工智能（AI）向云端奔跑，工业在地面生长。",
-        "importance": "B",
-        "credibility": "主流媒体",
-        "tags": [
-          "B",
-          "industry",
-          "technology",
-          "ai",
-          "product"
-        ],
-        "industries": [
-          "technologyEngineering",
-          "educationResearch",
-          "aiProduct",
-          "aiTechnology",
-          "productManagement",
-          "operationsGrowth"
-        ],
-        "section": "ai",
-        "body": {
-          "background": "这意味着，一座500兆瓦的数据中心，相当于多出25兆瓦的电力用于IT负载，让更多电力真正转化为算力。压缩机、泵、风机、换热设备原本广泛应用于空调和工业制冷，如今随着AI算力需求增长，企业开始针对算力、数据中心高功率、高可靠性和节能要求改进产品。它看似不起眼，却关系着设施能否经受时间和环境的考验。",
-          "keyProgress": "展台上，一座白色沙盘模拟台展示着高密度AI万卡集群数据中心的解决方案，它像一条高效的“电力高速公路”，把电能又快又稳地送到成千上万张芯片身边，让算力中心吃得饱、跑得快。日本松下展示的散热思路是一边推动冷却液循环，一边加速空气流动，为算力中心及时带走热量。老技术遇上新场景，催生出新的产品和市场。更让人感叹的是，AI带来的产业变化甚至延伸到一层薄薄的涂料。",
-          "whyItMatters": "“进博手记：AI跑得快，传统工业忙起来”能帮助你判断这项能力是否已经进入工程、产品或商业场景，并据此调整技术选型、产品规划、学习重点或职业判断。",
-          "userRelevance": "如果你从事技术研发、教育研究、AI 产品、AI 技术，可以重点判断“进博手记：AI跑得快，传统工业忙起来”是否已经具备产品落地、技术选型或业务合作价值。",
-          "whatToWatch": "接下来要看“进博手记：AI跑得快，传统工业忙起来”是否有更多可靠来源、量产或应用进展，以及它会不会从单点消息发展成持续趋势。"
-        },
-        "sourceLinks": [
-          {
-            "title": "新华网科技",
-            "url": "https://www.news.cn/tech/20261109/46ed41b79bfc48c4bf4fd518c6e4ee6b/c.html",
-            "sourceId": "xinhua-tech",
-            "publishedAt": "2026-11-09T00:00:00+08:00",
-            "language": "zh",
-            "originalLanguage": "zh",
-            "translationStatus": "not-needed",
-            "fetchedAt": "2026-11-10T10:14:26.894Z",
-            "sourceMethod": "web",
-            "verificationStatus": "confirmed"
-          }
-        ],
-        "images": [
-          {
-            "url": "https://www.news.cn/tech/20261109/46ed41b79bfc48c4bf4fd518c6e4ee6b/2026110946ed41b79bfc48c4bf4fd518c6e4ee6b_202611092043ff325a9049a38a0f82da84dd75e0.jpg",
-            "sourceUrl": "https://www.news.cn/tech/20261109/46ed41b79bfc48c4bf4fd518c6e4ee6b/c.html"
-          },
-          {
-            "url": "https://www.news.cn/tech/20261109/46ed41b79bfc48c4bf4fd518c6e4ee6b/2026110946ed41b79bfc48c4bf4fd518c6e4ee6b_20261109c025d9441e8f46d19fbd041e433330c7.jpg",
-            "sourceUrl": "https://www.news.cn/tech/20261109/46ed41b79bfc48c4bf4fd518c6e4ee6b/c.html"
-          },
-          {
-            "url": "https://www.news.cn/tech/20261109/46ed41b79bfc48c4bf4fd518c6e4ee6b/2026110946ed41b79bfc48c4bf4fd518c6e4ee6b_2026110929db32b50618484487969b7ce3ad9b5e.jpg",
-            "sourceUrl": "https://www.news.cn/tech/20261109/46ed41b79bfc48c4bf4fd518c6e4ee6b/c.html"
-          }
-        ],
-        "generatedAt": "2026-11-10T02:00:00.000Z"
-      },
-      {
-        "id": "draft-real-moe-cn-1fzyswp",
-        "title": "教育部办公厅关于成立全国数据职业教育教学指导委员会（2026—2030年）的通知",
-        "oneLine": "政策变化：据要素学科专业建设和数字人才队伍建设的意见》（发改数据〔2025〕1425号），进一步加强数据职业教育行业指导工作，经研究决定，成立全国数据职业教育教学指导委员会（2026—2030年）（以下简称数据行指委）。",
+        "id": "draft-real-cas-science-news-x5tps2",
+        "title": "研究将超子电偶极矩测量精度提高约1000倍",
+        "oneLine": "最新进展：研究将超子电偶极矩测量精度提高约1000倍。",
         "importance": "B",
         "credibility": "官方来源",
         "tags": [
           "B",
           "industry",
-          "education",
-          "policy",
-          "china"
+          "technology",
+          "education"
         ],
         "industries": [
-          "teacher",
-          "educationResearch",
-          "generalPublic"
+          "technologyEngineering",
+          "educationResearch"
         ],
         "section": "industry",
         "body": {
-          "background": "按照《全国行业职业教育教学指导委员会工作规程（试行）》，经推荐遴选，本届数据行指委设主任委员1人、副主任委员8人、秘书长1人、副秘书长2人，委员若干人，任期从2026年起至2030年底止，秘书处设在国家数据局数字科技和基础设施建设司。各地教育行政部门、职业院校和有关单位要积极支持数据行指委的工作，委员所在单位要为委员履职提供必要的支持。附件： 全国数据职业教育教学指导委员会（2026—2030年）组成人员名单。",
-          "keyProgress": "教育部办公厅关于成立全国数据职业教育教学指导委员会（2026—2030年）的通知。教育部办公厅关于成立全国数据职业教育教学指。",
-          "whyItMatters": "“教育部办公厅关于成立全国数据职业教育教学指导委员会的通知”可能影响学校治理、教师工作、课程安排或学生发展。教育从业者可以据此提前关注具体对象、地方执行方式和工作要求。",
-          "userRelevance": "如果你从事教师、教育研究或学校管理，可以重点关注“教育部办公厅关于成立全国数据职业教育教学指导委员会的通知”的具体对象、执行方式和地方落地节奏；其他用户可把它作为教育环境背景了解。",
-          "whatToWatch": "接下来要看“教育部办公厅关于成立全国数据职业教育教学指导委员会的通知”是否补充执行细则、地方落地安排、时间节点或适用人群说明。"
+          "background": "近日，中国科学院大学联合中国科学院高能物理研究所等， 利用北京谱仪III实验，将Λ超子电偶极矩的测量精度提高了约1000倍 ，打破了长期存在的测量瓶颈。研究利用量子纠缠，观测粒子产生和衰变的方向，开展全角分布分析，捕捉电偶极矩可能留下的微弱的不对称痕迹。在这一新水平下，团队开展了严格的检验。",
+          "keyProgress": "研究将超子电偶极矩测量精度提高约1000倍（视频由AI生成）宇宙早期曾产生大量物质和反物质，二者相遇便会湮灭、转化为能量。那为什么如今的宇宙还留存着大量物质？答案或许藏在物质与反物质之间细微的不对称中。",
+          "whyItMatters": "“研究将超子电偶极矩测量精度提高约1000倍”提供了一个具体的研究进展信号。它是否重要，要看实验指标、可复现性、开源材料和真实应用，而不能只看论文标题。",
+          "userRelevance": "如果你从事科研、工程或正在攻读相关学位，可以重点查看“研究将超子电偶极矩测量精度提高约1000倍”的实验条件、指标和可复现性；其他用户可把它作为技术趋势背景了解。",
+          "whatToWatch": "接下来要看“研究将超子电偶极矩测量精度提高约1000倍”是否公开论文全文、代码或完整实验条件，以及是否得到独立复现和实际应用。"
         },
         "sourceLinks": [
           {
-            "title": "教育部",
-            "url": "http://www.moe.gov.cn/srcsite/A07/moe_953/202611/t20261110_1457795.html",
-            "sourceId": "moe-cn",
-            "publishedAt": "2026-11-10T00:00:00+08:00",
+            "title": "中国科学院科研动态",
+            "url": "https://www.cas.cn/syky/202611/t20261112_5124059.shtml",
+            "sourceId": "cas-science-news",
+            "publishedAt": "2026-11-12T00:00:00+08:00",
             "language": "zh",
             "originalLanguage": "zh",
             "translationStatus": "not-needed",
-            "fetchedAt": "2026-11-10T10:14:37.038Z",
+            "fetchedAt": "2026-11-12T10:16:01.334Z",
             "sourceMethod": "web",
             "verificationStatus": "confirmed"
           }
         ],
         "images": [
           {
-            "url": "http://www.moe.gov.cn/srcsite/images/scy_jyb_lgo_03.png",
-            "sourceUrl": "http://www.moe.gov.cn/srcsite/A07/moe_953/202611/t20261110_1457795.html"
-          },
-          {
-            "url": "http://www.moe.gov.cn/images/red.png",
-            "sourceUrl": "http://www.moe.gov.cn/srcsite/A07/moe_953/202611/t20261110_1457795.html"
+            "url": "https://www.cas.cn/syky/202611/W020261112297170855828.jpg",
+            "sourceUrl": "https://www.cas.cn/syky/202611/t20261112_5124059.shtml"
           }
         ],
-        "generatedAt": "2026-11-10T02:00:00.000Z"
+        "generatedAt": "2026-11-12T02:00:00.000Z"
       },
       {
-        "id": "draft-real-eol-education-azozqe",
-        "title": "京东集团副总裁郑宇已任北京邮电大学人工智能学院院长",
-        "oneLine": "政策变化：郑宇在国际上开辟了“城市计算”(Urban Computing)领域和学科，提出了城市计算理论体系，是城市计算领域的先驱和奠基人，也是大数据和人工智能领域的领军人物和实践者。",
+        "id": "draft-real-cas-science-news-fpvxx1",
+        "title": "科学家发现植物镍元素传输机制",
+        "oneLine": "最新进展：科学家发现植物镍元素传输机制。",
+        "importance": "B",
+        "credibility": "官方来源",
+        "tags": [
+          "B",
+          "industry",
+          "technology",
+          "education"
+        ],
+        "industries": [
+          "technologyEngineering",
+          "educationResearch"
+        ],
+        "section": "industry",
+        "body": {
+          "background": "近日，中国科学院分子植物科学卓越创新中心等首次 鉴定出控制禾本科作物籽粒镍积累的关键转运蛋白ZmNAET1 ，揭开了玉米中镍运输的谜团，明确了镍对作物产量和种子萌发的重要影响。关键转运蛋白ZmNAET1基因功能受损时，玉米籽粒镍含量大幅下降，穗重、籽粒大小、淀粉含量和储藏后发芽率同步下降。该基因的天然差异，也可用于选育镍运输效率更高的材料。",
+          "keyProgress": "因此， 对一些本身籽粒镍含量偏低的玉米品种，或种植在碱性土壤等容易缺镍环境中的玉米 ，补镍有望缓解产量下降、种子发芽率低或萌发不齐等问题。产量不仅由氮、磷、钾等大量元素决定，微量元素也可能成为限制产量的“短板”。有研究发现，镍在植物中具有生理功能，但镍在植物中的运输机制及其对作物的作用，仍是植物微量元素营养领域的难题之一。科研人员比较不同玉米的基因差异和籽粒镍含量，找到了这个关键基因。",
+          "whyItMatters": "“科学家发现植物镍元素传输机制”提供了一个具体的研究进展信号。它是否重要，要看实验指标、可复现性、开源材料和真实应用，而不能只看论文标题。",
+          "userRelevance": "如果你从事科研、工程或正在攻读相关学位，可以重点查看“科学家发现植物镍元素传输机制”的实验条件、指标和可复现性；其他用户可把它作为技术趋势背景了解。",
+          "whatToWatch": "接下来要看“科学家发现植物镍元素传输机制”是否公开论文全文、代码或完整实验条件，以及是否得到独立复现和实际应用。"
+        },
+        "sourceLinks": [
+          {
+            "title": "中国科学院科研动态",
+            "url": "https://www.cas.cn/syky/202611/t20261112_5124060.shtml",
+            "sourceId": "cas-science-news",
+            "publishedAt": "2026-11-12T00:00:00+08:00",
+            "language": "zh",
+            "originalLanguage": "zh",
+            "translationStatus": "not-needed",
+            "fetchedAt": "2026-11-12T10:16:01.334Z",
+            "sourceMethod": "web",
+            "verificationStatus": "confirmed"
+          }
+        ],
+        "images": [
+          {
+            "url": "https://www.cas.cn/syky/202611/W020261112308883075902.jpg",
+            "sourceUrl": "https://www.cas.cn/syky/202611/t20261112_5124060.shtml"
+          }
+        ],
+        "generatedAt": "2026-11-12T02:00:00.000Z"
+      },
+      {
+        "id": "draft-real-eol-education-8tos52",
+        "title": "名城名校双向赋能！多所985高校密集落地苏州推进校地校企深度合作",
+        "oneLine": "政策变化：合作邮箱：bianji@eol.cn 官方微信ID：eoleoleol 近日，南京大学、中国人民大学、哈尔滨工业大学等多所985高校在苏州又有新动作。",
         "importance": "B",
         "credibility": "待确认",
         "tags": [
@@ -637,22 +672,22 @@
         ],
         "section": "industry",
         "body": {
-          "background": "合作邮箱：bianji@eol.cn 官方微信ID：eoleoleol 近日，北京邮电大学人工智能学院官网“学院领导”页面近日更新显示， 郑宇已任北邮人工智能学院院长 。公开资料显示，郑宇，教授，1979年出生，湖南衡阳人，国家“万人计划”科技创新领军人才、享受国务院特殊津贴专家，美国计算机协会会士(ACM Fellow)、国际电气电子工程师学会会士(IEEE Fellow)、ACM杰出科学家，西南交通大学人工智能研究院院长、京东集团副总裁、京东科技首席数据科学家、京东城市总裁、京东智能城市研究院院长，KDD China主席，全球高被引科学家、中国高被引学者，具有二十年中美领先科技公司的管理和产品研发经验。",
-          "keyProgress": "同时也是上海交通大学讲座教授(Chair Professor)、南京大学、香港科技大学、香港理工大学、重庆大学等多所知名高校的客座教授。郑宇本硕博均就读于西南交通大学，他长期在母校西南交通大学担任人工智能研究院院长，也是上海交通大学讲座教授，南京大学、香港科技大学、香港理工大学、重庆大学等多所高校的客座教授。在加入京东集团之前，在微软亚洲研究院工作12年，是城市计算领域负责人；他开创了京东智能城市业务板块，为全国70多个城市提供服务，获得京东集团最高奖项“CEO特别奖”。",
-          "whyItMatters": "“京东集团副总裁郑宇已任北京邮电大学人工智能学院院长”可能影响学校治理、教师工作、课程安排或学生发展。教育从业者可以据此提前关注具体对象、地方执行方式和工作要求。",
-          "userRelevance": "如果你从事教师、教育研究或学校管理，可以重点关注“京东集团副总裁郑宇已任北京邮电大学人工智能学院院长”的具体对象、执行方式和地方落地节奏；其他用户可把它作为教育环境背景了解。",
-          "whatToWatch": "接下来要看“京东集团副总裁郑宇已任北京邮电大学人工智能学院院长”是否补充执行细则、地方落地安排、时间节点或适用人群说明。"
+          "background": "双方将依托南京大学在高层次人才、基础研究、学科交叉和技术创新等方面的综合优势，协同蓝芯算力在CPU+AI智通融合架构高性能服务器芯片研发领域的能力，构建产学研用深度融合的一体化创新体系，开展关键技术研发、科技成果转化、高端人才培养与汇聚、智慧应用方案落地，为下一代芯片硬件开发与蓝芯算力产品工业场景及生态应用搭建对接平台。基地的设立，是中国人民大学社会学院与吴江区委社会工作部深化校地战略合作、推进人才培养和基层治理实践的重要载体，也将为学院师生开展田野调查、志愿服务等社会实践项目提供重要平台。现场，中国人民大学社会学院与吴江区委社会工作部正式签约，今后双方将在人才培养、课程培训、课题研究等方面开展务实合作，既服务地方基层治理主责主业，也反哺学院人才培养、学科发展与社会服务。",
+          "keyProgress": "此外， 昆仑元与哈尔滨工业大学苏州研究院战略合作暨AI HUB联合实验室签约仪式近日在吴中经开区举行 。双方将共建AI HUB联合实验室，围绕具身智能、人工智能技术深化合作，实行双向联聘、导师互通，落实校企“双导师制”，把人才培养真正嵌进真实课题。根据协议，双方将面向“十五五”，拓展人工智能、集成电路和汽车、能源环境等领域合作，共建高能级创新平台，启动实施新一轮苏州清华创新引领行动，支持清华校友团队在苏州创新创业，推动优质项目落地转化。如今，40所高校在苏州设立50余家研究院或高等教育研究院，C9高校全部都在苏州布局，苏州推动科技创新和产业创新深度融合的底气正日益雄厚。",
+          "whyItMatters": "“名城名校双向赋能！多所985高校密集落地苏州推进校地校企深度合作”可能影响学校治理、教师工作、课程安排或学生发展。教育从业者可以据此提前关注具体对象、地方执行方式和工作要求。",
+          "userRelevance": "如果你从事教师、教育研究或学校管理，可以重点关注“名城名校双向赋能！多所985高校密集落地苏州推进校地校企深度合作”的具体对象、执行方式和地方落地节奏；其他用户可把它作为教育环境背景了解。",
+          "whatToWatch": "接下来要看“名城名校双向赋能！多所985高校密集落地苏州推进校地校企深度合作”是否补充执行细则、地方落地安排、时间节点或适用人群说明。"
         },
         "sourceLinks": [
           {
             "title": "中国教育在线要闻",
-            "url": "https://www.eol.cn/news/dongtai/gxrs/202611/t20261110_2792526.shtml",
+            "url": "https://www.eol.cn/news/yaowen/202611/t20261112_2793798.shtml",
             "sourceId": "eol-education",
-            "publishedAt": "2026-11-10T00:00:00+08:00",
+            "publishedAt": "2026-11-12T00:00:00+08:00",
             "language": "zh",
             "originalLanguage": "zh",
             "translationStatus": "not-needed",
-            "fetchedAt": "2026-11-10T10:14:34.291Z",
+            "fetchedAt": "2026-11-12T10:16:09.906Z",
             "sourceMethod": "web",
             "verificationStatus": "pending"
           }
@@ -660,31 +695,31 @@
         "images": [
           {
             "url": "https://www.eol.cn/images/ad/2017_img/arrow.png",
-            "sourceUrl": "https://www.eol.cn/news/dongtai/gxrs/202611/t20261110_2792526.shtml"
+            "sourceUrl": "https://www.eol.cn/news/yaowen/202611/t20261112_2793798.shtml"
           },
           {
             "url": "https://www.eol.cn/images/ad/2017_img/phone.png",
-            "sourceUrl": "https://www.eol.cn/news/dongtai/gxrs/202611/t20261110_2792526.shtml"
+            "sourceUrl": "https://www.eol.cn/news/yaowen/202611/t20261112_2793798.shtml"
           },
           {
             "url": "https://img.eol.cn/e_images/gk/2020/newzsgk.jpg",
-            "sourceUrl": "https://www.eol.cn/news/dongtai/gxrs/202611/t20261110_2792526.shtml"
+            "sourceUrl": "https://www.eol.cn/news/yaowen/202611/t20261112_2793798.shtml"
           },
           {
             "url": "https://img.eol.cn/e_images/gk/2023/zsky2023.jpg",
-            "sourceUrl": "https://www.eol.cn/news/dongtai/gxrs/202611/t20261110_2792526.shtml"
+            "sourceUrl": "https://www.eol.cn/news/yaowen/202611/t20261112_2793798.shtml"
           },
           {
             "url": "https://www.eol.cn/e_images/index/2018/acabridge.png",
-            "sourceUrl": "https://www.eol.cn/news/dongtai/gxrs/202611/t20261110_2792526.shtml"
+            "sourceUrl": "https://www.eol.cn/news/yaowen/202611/t20261112_2793798.shtml"
           }
         ],
-        "generatedAt": "2026-11-10T02:00:00.000Z"
+        "generatedAt": "2026-11-12T02:00:00.000Z"
       },
       {
-        "id": "draft-cluster-real-eol-education-jsvo4z",
-        "title": "教育部、公安部、农业农村部部署实施服务乡村振兴高校招生专项计划",
-        "oneLine": "政策变化：为贯彻党中央、国务院关于统筹建立常态化防止返贫致贫机制促进乡村全面振兴的决策部署，落实《教育发展“十五五”规划》，按照县域普通高中振兴行动计划有关要求，决定从2030年高校招生起，将上述现行专项计划调整为服务乡村振兴高校招生专项计划(以下简称乡村振兴专项)，进一步建立健全分级负责、分层帮扶机制，推动。",
+        "id": "draft-real-eol-education-602gmk",
+        "title": "《技能人才评价条例》向社会公开征求意见",
+        "oneLine": "政策变化：合作邮箱：bianji@eol.cn 官方微信ID：eoleoleol 11月12日，人力资源社会保障部发布《技能人才评价条例(征求意见稿)》(以下简称征求意见稿)，从即日起至12月12日，向社会公开征求意见。",
         "importance": "B",
         "credibility": "待确认",
         "tags": [
@@ -701,46 +736,22 @@
         ],
         "section": "industry",
         "body": {
-          "background": "合作邮箱：bianji@eol.cn 官方微信ID：eoleoleol 近日，教育部、公安部、农业农村部联合印发《关于实施服务乡村振兴高校招生专项计划的通知》(以下简称《通知》)，对实施服务乡村振兴高校招生专项计划作出部署。其中，国家类实施区域为国家乡村振兴重点帮扶县和中西部地区省级乡村振兴重点帮扶县，以及西藏、新疆按国家有关规定确定的实施区域，由中央部门所属本科高校和各省(区、市)所属地方公办本科高校开展招生；地方类实施区域由有关省(区、市)结合省域内经济发展水平、基础教育水平等因素科学合理确定，主要由地方所属公办高校开展招生，中央部门所属本科高校对欠发达地区和教育基础薄弱地区适度予以支持。",
-          "keyProgress": "《通知》指出，2012年以来，各地和有关高校组织实施了重点高校面向农村和贫困地区招生专项计划，对于进一步拓宽农村和原贫困地区学生升学渠道、促进城乡区域入学机会公平，引导地方基础教育健康发展发挥了积极作用。《通知》对做好乡村振兴专项工作，提出了五方面要求。乡村振兴专项实施区域分为国家类、地方类。乡村振兴专项要求报考学生为应届毕业生，本人及其父亲或母亲或法定监护人具有实施区域当地连续户籍；",
-          "whyItMatters": "“教育部、公安部、农业农村部部署实施服务乡村振兴高校招生专项计划”可能影响学校治理、教师工作、课程安排或学生发展。教育从业者可以据此提前关注具体对象、地方执行方式和工作要求。",
-          "userRelevance": "如果你从事教师、教育研究或学校管理，可以重点关注“教育部、公安部、农业农村部部署实施服务乡村振兴高校招生专项计划”的具体对象、执行方式和地方落地节奏；其他用户可把它作为教育环境背景了解。",
-          "whatToWatch": "接下来要看“教育部、公安部、农业农村部部署实施服务乡村振兴高校招生专项计划”是否补充执行细则、地方落地安排、时间节点或适用人群说明。"
+          "background": "本条例所称技能人才，是指掌握专业知识和技能，在生产服务实践中具备相应实际操作能力的人员。本条例所称技能人才评价，是指对技能人才的职业道德、专业知识、技能水平和工作业绩等进行考评的活动。国务院人力资源社会保障行政部门会同有关部门编制国家职业分类大典，根据产业转型升级需求和职业发展趋势，动态更新职业分类信息，健全完善新职业信息发布制度。",
+          "keyProgress": "征求意见稿贯彻落实党中央、国务院决策部署，适应技能人才评价制度改革要求，建立健全评价标准、机构管理、考务规范、证书管理、协同监管等制度规则，全口径全过程规范技能人才评价活动。国家建立健全注重工匠精神培育和职业道德养成、以职业能力为导向、以工作业绩为重点的技能人才评价体系。第四条【职业技能等级制度和多元化评价机制】 国家建立健全职业技能等级制度，合理设置职业技能等级，实行分类考核评价，完善多元化评价机制，促进职业发展贯通，畅通技能人才职业发展通道。国家网信及国务院工业和信息化、公安、民政、市场监督管理等部门按照职责分工，做好技能人才评价相关工作。",
+          "whyItMatters": "“技能人才评价条例向社会公开征求意见”可能影响学校治理、教师工作、课程安排或学生发展。教育从业者可以据此提前关注具体对象、地方执行方式和工作要求。",
+          "userRelevance": "如果你从事教师、教育研究或学校管理，可以重点关注“技能人才评价条例向社会公开征求意见”的具体对象、执行方式和地方落地节奏；其他用户可把它作为教育环境背景了解。",
+          "whatToWatch": "接下来要看“技能人才评价条例向社会公开征求意见”是否补充执行细则、地方落地安排、时间节点或适用人群说明。"
         },
         "sourceLinks": [
           {
             "title": "中国教育在线要闻",
-            "url": "https://www.eol.cn/news/yaowen/202611/t20261110_2792250.shtml",
+            "url": "https://www.eol.cn/news/yaowen/202611/t20261112_2793780.shtml",
             "sourceId": "eol-education",
-            "publishedAt": "2026-11-10T00:00:00+08:00",
+            "publishedAt": "2026-11-12T00:00:00+08:00",
             "language": "zh",
             "originalLanguage": "zh",
             "translationStatus": "not-needed",
-            "fetchedAt": "2026-11-10T10:14:34.291Z",
-            "sourceMethod": "web",
-            "verificationStatus": "pending"
-          },
-          {
-            "title": "中国教育在线要闻",
-            "url": "https://www.eol.cn/syzt/tujie/202611/t20261110_2792508.shtml",
-            "sourceId": "eol-education",
-            "publishedAt": "2026-11-10T00:00:00+08:00",
-            "language": "zh",
-            "originalLanguage": "zh",
-            "translationStatus": "not-needed",
-            "fetchedAt": "2026-11-10T10:14:34.291Z",
-            "sourceMethod": "web",
-            "verificationStatus": "pending"
-          },
-          {
-            "title": "中国教育在线要闻",
-            "url": "https://www.eol.cn/e_html/kaoshi/xiangcun-zxjh/index.shtml",
-            "sourceId": "eol-education",
-            "publishedAt": "2026-11-10T00:00:00+08:00",
-            "language": "zh",
-            "originalLanguage": "zh",
-            "translationStatus": "not-needed",
-            "fetchedAt": "2026-11-10T10:14:34.291Z",
+            "fetchedAt": "2026-11-12T10:16:09.906Z",
             "sourceMethod": "web",
             "verificationStatus": "pending"
           }
@@ -748,232 +759,73 @@
         "images": [
           {
             "url": "https://www.eol.cn/images/ad/2017_img/arrow.png",
-            "sourceUrl": "https://www.eol.cn/news/yaowen/202611/t20261110_2792250.shtml"
+            "sourceUrl": "https://www.eol.cn/news/yaowen/202611/t20261112_2793780.shtml"
           },
           {
             "url": "https://www.eol.cn/images/ad/2017_img/phone.png",
-            "sourceUrl": "https://www.eol.cn/news/yaowen/202611/t20261110_2792250.shtml"
+            "sourceUrl": "https://www.eol.cn/news/yaowen/202611/t20261112_2793780.shtml"
           },
           {
             "url": "https://img.eol.cn/e_images/gk/2020/newzsgk.jpg",
-            "sourceUrl": "https://www.eol.cn/news/yaowen/202611/t20261110_2792250.shtml"
+            "sourceUrl": "https://www.eol.cn/news/yaowen/202611/t20261112_2793780.shtml"
           },
           {
             "url": "https://img.eol.cn/e_images/gk/2023/zsky2023.jpg",
-            "sourceUrl": "https://www.eol.cn/news/yaowen/202611/t20261110_2792250.shtml"
+            "sourceUrl": "https://www.eol.cn/news/yaowen/202611/t20261112_2793780.shtml"
           },
           {
             "url": "https://www.eol.cn/e_images/index/2018/acabridge.png",
-            "sourceUrl": "https://www.eol.cn/news/yaowen/202611/t20261110_2792250.shtml"
+            "sourceUrl": "https://www.eol.cn/news/yaowen/202611/t20261112_2793780.shtml"
           }
         ],
-        "generatedAt": "2026-11-10T02:00:00.000Z"
+        "generatedAt": "2026-11-12T02:00:00.000Z"
       },
       {
-        "id": "draft-cluster-real-eol-education-1q240n7",
-        "title": "国家发改委：支持新建若干所新型研究型大学",
-        "oneLine": "最新进展：国家发改委：支持新建若干所新型研究型大学。",
+        "id": "draft-real-cas-science-news-40mmp0",
+        "title": "研究提出红光驱动邻近激活光催化药物调控新策略",
+        "oneLine": "趋势信号：红光具有优异的组织穿透能力，但在活细胞体系中实现高效、低损伤的光催化药物激活仍面临挑战。",
         "importance": "B",
-        "credibility": "待确认",
+        "credibility": "官方来源",
         "tags": [
           "B",
           "industry",
-          "education",
-          "policy",
-          "china"
+          "technology",
+          "education"
         ],
         "industries": [
-          "teacher",
-          "educationResearch",
-          "generalPublic"
+          "technologyEngineering",
+          "educationResearch"
         ],
         "section": "industry",
         "body": {
-          "background": "合作邮箱：bianji@eol.cn 官方微信ID：eoleoleol 11月10日，国家发展改革委召开奋进“十五五”系列新闻发布会，介绍增进民生福祉有关情况。对此，国家发展改革委将会同教育部等有关部门，围绕“三个适应”积极开展工作，前瞻应对学龄人口总量和结构变化。近几年，不少家庭都感受到，上幼儿园、小学确实比以前更容易了。",
-          "keyProgress": "高等教育方面，将稳步扩大优质本科教育招生规模 ，健全中央投资支持与优质本科扩容挂钩机制，引导“双一流”高校将新增资源优先用于扩大本科招生。国家发展改革委将扩大学龄人口净流入城镇的教育资源供给，推动基本教育公共服务随人走，提升随迁子女在公办学校就读比例，减轻随迁子女家庭的教育支出负担。第一，适应学龄人口总量下行趋势，优化学前和义务教育资源配置 。“十四五”时期，我国幼儿园、小学、初中在校生减少将近1700万人。",
-          "whyItMatters": "“国家发改委：支持新建若干所新型研究型大学”可能影响学校治理、教师工作、课程安排或学生发展。教育从业者可以据此提前关注具体对象、地方执行方式和工作要求。",
-          "userRelevance": "如果你从事教师、教育研究或学校管理，可以重点关注“国家发改委：支持新建若干所新型研究型大学”的具体对象、执行方式和地方落地节奏；其他用户可把它作为教育环境背景了解。",
-          "whatToWatch": "接下来要看“国家发改委：支持新建若干所新型研究型大学”是否补充执行细则、地方落地安排、时间节点或适用人群说明。"
+          "background": "近日，中国科学院上海有机化学研究所联合 中国科学院理化技术研究所， 在红光驱动的邻近激活光催化药物调控研究中取得进展。这一体系通过偏向I型电子转移的光化学过程，产生超氧阴离子自由基与过氧化氢，进而驱动硼酸酯 笼蔽 药物发生生物正交脱硼羟基化反应。研究团队将硅罗丹明（SiR ）与 HaloTag 蛋白结合，构建了杂合光催化平台 Halo-SiR 。",
+          "keyProgress": "与HaloTag结合后，其吸收强度与荧光强度分别提升约7.8倍和9.3倍，模型反应15分钟内 产率 达99%以上。在线粒体中，Halo-SiR激活解偶联剂DNP-Bpin后，目标细胞的线粒体膜电位探针TMRE荧光信号在10分钟内下降90%以上，而邻近未表达催化剂的细胞在相同时间内仍保持较强信号。该平台借助 蛋白微环境稳定SiR的光活性开环两性离子态，调控其光化学行为，并结合遗传编码亚细胞定位技术，实现红光驱动的局部药物激活。经光敏剂筛选证实，SiR兼具优异的红光催化活性与良好的细胞相容性。",
+          "whyItMatters": "“研究提出红光驱动邻近激活光催化药物调控新策略”提供了一个具体的研究进展信号。它是否重要，要看实验指标、可复现性、开源材料和真实应用，而不能只看论文标题。",
+          "userRelevance": "如果你从事科研、工程或正在攻读相关学位，可以重点查看“研究提出红光驱动邻近激活光催化药物调控新策略”的实验条件、指标和可复现性；其他用户可把它作为技术趋势背景了解。",
+          "whatToWatch": "接下来要看“研究提出红光驱动邻近激活光催化药物调控新策略”是否公开论文全文、代码或完整实验条件，以及是否得到独立复现和实际应用。"
         },
         "sourceLinks": [
           {
-            "title": "中国教育在线要闻",
-            "url": "https://www.eol.cn/news/yaowen/202611/t20261110_2792410.shtml",
-            "sourceId": "eol-education",
-            "publishedAt": "2026-11-10T00:00:00+08:00",
+            "title": "中国科学院科研动态",
+            "url": "https://www.cas.cn/syky/202611/t20261111_5124014.shtml",
+            "sourceId": "cas-science-news",
+            "publishedAt": "2026-11-11T00:00:00+08:00",
             "language": "zh",
             "originalLanguage": "zh",
             "translationStatus": "not-needed",
-            "fetchedAt": "2026-11-10T10:14:34.291Z",
+            "fetchedAt": "2026-11-12T10:16:01.334Z",
             "sourceMethod": "web",
-            "verificationStatus": "pending"
-          },
-          {
-            "title": "中国教育在线要闻",
-            "url": "https://www.eol.cn/news/yaowen/202611/t20261110_2792297.shtml",
-            "sourceId": "eol-education",
-            "publishedAt": "2026-11-10T00:00:00+08:00",
-            "language": "zh",
-            "originalLanguage": "zh",
-            "translationStatus": "not-needed",
-            "fetchedAt": "2026-11-10T10:14:34.291Z",
-            "sourceMethod": "web",
-            "verificationStatus": "pending"
+            "verificationStatus": "confirmed"
           }
         ],
-        "images": [
-          {
-            "url": "https://www.eol.cn/images/ad/2017_img/arrow.png",
-            "sourceUrl": "https://www.eol.cn/news/yaowen/202611/t20261110_2792410.shtml"
-          },
-          {
-            "url": "https://www.eol.cn/images/ad/2017_img/phone.png",
-            "sourceUrl": "https://www.eol.cn/news/yaowen/202611/t20261110_2792410.shtml"
-          },
-          {
-            "url": "https://img.eol.cn/e_images/gk/2020/newzsgk.jpg",
-            "sourceUrl": "https://www.eol.cn/news/yaowen/202611/t20261110_2792410.shtml"
-          },
-          {
-            "url": "https://img.eol.cn/e_images/gk/2023/zsky2023.jpg",
-            "sourceUrl": "https://www.eol.cn/news/yaowen/202611/t20261110_2792410.shtml"
-          },
-          {
-            "url": "https://www.eol.cn/e_images/index/2018/acabridge.png",
-            "sourceUrl": "https://www.eol.cn/news/yaowen/202611/t20261110_2792410.shtml"
-          }
-        ],
-        "generatedAt": "2026-11-10T02:00:00.000Z"
-      },
-      {
-        "id": "draft-real-eol-education-1xsb17b",
-        "title": "教育部公示2026年度教育部人文社会科学研究专项项目评审结果",
-        "oneLine": "最新进展：教育部公示2026年度教育部人文社会科学研究专项项目评审结果。",
-        "importance": "B",
-        "credibility": "待确认",
-        "tags": [
-          "B",
-          "industry",
-          "education",
-          "policy",
-          "china"
-        ],
-        "industries": [
-          "teacher",
-          "educationResearch",
-          "generalPublic"
-        ],
-        "section": "industry",
-        "body": {
-          "background": "合作邮箱：bianji@eol.cn 官方微信ID：eoleoleol 关于2026年度教育部人文社会科学研究专项项目评审结果的公示 根据《教育部社科司关于2026年高校思政课教师研究专项一般项目申报工作的通知》《教育部社科司关于2026年度教育部人文社会科学研究专项任务项目(高校辅导员研究)申报工作的通知》《教育部社科司关于2026年度教育部人文社会科学研究专项任务项目(中国特色社会主义理论体系研究)申报工作的通知》和《教育部哲学社会科学研究项目管理办法》，现对2026年度教育部人文社会科学研究专项项目评审结果进行公示。公示时间为2026年11月9日至13日。公示期间，如有异议，请以书面方式向我司反映，并提供必要的证据材料，以便核实查证。",
-          "keyProgress": "1. 2026年度高校思想政治理论课教师研究专项一般项目评审结果公示一览表 2. 2026年度教育部人文社会科学研究专项任务项目(高校辅导员研究)评审结果公示一览表 3. 2026年度教育部人文社会科学研究专项任务项目(中国特色社会主义理论体系研究)评审结果公示一览表 ② 本站注明稿件来源为其他媒体的文/图等稿件均为转载稿，本站转载出于非商业性的教育和科研之目的，并不意味着赞同其观点或证实其内容的真实性。如转载稿涉及版权等问题，请作者在两周内速来电或来函联系。",
-          "whyItMatters": "“教育部公示2026年度教育部人文社会科学研究专项项目评审结果”可能影响学校治理、教师工作、课程安排或学生发展。教育从业者可以据此提前关注具体对象、地方执行方式和工作要求。",
-          "userRelevance": "如果你从事教师、教育研究或学校管理，可以重点关注“教育部公示2026年度教育部人文社会科学研究专项项目评审结果”的具体对象、执行方式和地方落地节奏；其他用户可把它作为教育环境背景了解。",
-          "whatToWatch": "接下来要看“教育部公示2026年度教育部人文社会科学研究专项项目评审结果”是否补充执行细则、地方落地安排、时间节点或适用人群说明。"
-        },
-        "sourceLinks": [
-          {
-            "title": "中国教育在线要闻",
-            "url": "https://www.eol.cn/news/yaowen/202611/t20261110_2792404.shtml",
-            "sourceId": "eol-education",
-            "publishedAt": "2026-11-10T00:00:00+08:00",
-            "language": "zh",
-            "originalLanguage": "zh",
-            "translationStatus": "not-needed",
-            "fetchedAt": "2026-11-10T10:14:34.291Z",
-            "sourceMethod": "web",
-            "verificationStatus": "pending"
-          }
-        ],
-        "images": [
-          {
-            "url": "https://www.eol.cn/images/ad/2017_img/arrow.png",
-            "sourceUrl": "https://www.eol.cn/news/yaowen/202611/t20261110_2792404.shtml"
-          },
-          {
-            "url": "https://www.eol.cn/images/ad/2017_img/phone.png",
-            "sourceUrl": "https://www.eol.cn/news/yaowen/202611/t20261110_2792404.shtml"
-          },
-          {
-            "url": "https://img.eol.cn/e_images/gk/2020/newzsgk.jpg",
-            "sourceUrl": "https://www.eol.cn/news/yaowen/202611/t20261110_2792404.shtml"
-          },
-          {
-            "url": "https://img.eol.cn/e_images/gk/2023/zsky2023.jpg",
-            "sourceUrl": "https://www.eol.cn/news/yaowen/202611/t20261110_2792404.shtml"
-          },
-          {
-            "url": "https://www.eol.cn/e_images/index/2018/acabridge.png",
-            "sourceUrl": "https://www.eol.cn/news/yaowen/202611/t20261110_2792404.shtml"
-          }
-        ],
-        "generatedAt": "2026-11-10T02:00:00.000Z"
-      },
-      {
-        "id": "draft-real-jyb-education-1uhdjes",
-        "title": "让古法技艺活在数字时代",
-        "oneLine": "最新进展：让古法技艺活在数字时代。",
-        "importance": "B",
-        "credibility": "待确认",
-        "tags": [
-          "B",
-          "industry",
-          "education",
-          "policy",
-          "china"
-        ],
-        "industries": [
-          "teacher",
-          "educationResearch",
-          "generalPublic"
-        ],
-        "section": "industry",
-        "body": {
-          "background": "在此背景下，行业迫切需要兼具文保底线思维、传统营造功底与数字修缮能力的复合型传统建筑工匠。对照“技术需求清单”，联合企业、科研院所开展技术攻关；在此基础上，学校还联动44家乡村建设工匠培训基地开展技能轮训与等级认定，形成“学历育人+社会培训”双轨培育体系。",
-          "keyProgress": "admin | 退出 用户中心 0 学校学生在制作3D打印飞天模型。学校供图 当前，我国建筑业正处于深度转型阶段，增长主线已从大规模新建转向城市有机更新、历史村落保护、老旧小区品质提升等存量赛道，行业发展的核心命题正从“建造”转向“存续”——即在改造、修缮、活化的过程中留住城乡文脉。最后，依托国家文物古迹保护准则、修缮工法等专业知识的学习，使学生树立“最小干预、修旧如旧”等科学的保护理念，推动文化认同从精神感召走向专业自觉。四个模块共形成24组模块化课程，系统推动教学从单一技能传授向文化认知、传统技艺、数字技术一体化培养模式全面转型。",
-          "whyItMatters": "“让古法技艺活在数字时代”可能影响学校治理、教师工作、课程安排或学生发展。教育从业者可以据此提前关注具体对象、地方执行方式和工作要求。",
-          "userRelevance": "如果你从事教师、教育研究或学校管理，可以重点关注“让古法技艺活在数字时代”的具体对象、执行方式和地方落地节奏；其他用户可把它作为教育环境背景了解。",
-          "whatToWatch": "接下来要看“让古法技艺活在数字时代”是否补充执行细则、地方落地安排、时间节点或适用人群说明。"
-        },
-        "sourceLinks": [
-          {
-            "title": "中国教育新闻网",
-            "url": "http://www.jyb.cn/rmtzgjyb/202611/t20261110_2111540181.html",
-            "sourceId": "jyb-education",
-            "publishedAt": "2026-11-10T00:00:00+08:00",
-            "language": "zh",
-            "originalLanguage": "zh",
-            "translationStatus": "not-needed",
-            "fetchedAt": "2026-11-10T10:14:37.992Z",
-            "sourceMethod": "web",
-            "verificationStatus": "pending"
-          }
-        ],
-        "images": [
-          {
-            "url": "http://www.jyb.cn/rmtzgjyb/202611/W020261110251820736500.jpg",
-            "sourceUrl": "http://www.jyb.cn/rmtzgjyb/202611/t20261110_2111540181.html"
-          },
-          {
-            "url": "http://www.jyb.cn/rmtxwwyyq/xilanyouceshangbuAd/202208/W020240805447891565944.jpg",
-            "sourceUrl": "http://www.jyb.cn/rmtzgjyb/202611/t20261110_2111540181.html"
-          },
-          {
-            "url": "http://www.jyb.cn/rmtxwwyyq/xilanyoucezhongjianAd/202206/W020240805449508966760.jpg",
-            "sourceUrl": "http://www.jyb.cn/rmtzgjyb/202611/t20261110_2111540181.html"
-          },
-          {
-            "url": "http://www.jyb.cn/images/2018gongan.png",
-            "sourceUrl": "http://www.jyb.cn/rmtzgjyb/202611/t20261110_2111540181.html"
-          }
-        ],
-        "generatedAt": "2026-11-10T02:00:00.000Z"
+        "images": [],
+        "generatedAt": "2026-11-12T02:00:00.000Z"
       }
     ],
-    "estimatedReadMinutes": 28,
+    "estimatedReadMinutes": 24,
     "pageCount": 3,
-    "topCardId": "draft-real-mofcom-trade-ep1so1",
-    "generatedAt": "2026-11-10T02:00:00.000Z",
+    "topCardId": "draft-real-xinhua-world-3dgk3w",
+    "generatedAt": "2026-11-12T02:00:00.000Z",
     "pushSlots": [
       "08:30",
       "12:30",
@@ -982,27 +834,25 @@
     "edition": "morning",
     "editionLabel": "晨报",
     "coverageWindow": {
-      "start": "2026-11-09T00:00:00+08:00",
-      "end": "2026-11-10T10:00:00+08:00"
+      "start": "2026-11-11T00:00:00+08:00",
+      "end": "2026-11-12T10:00:00+08:00"
     },
     "editionCardIds": [
-      "draft-real-mofcom-trade-ep1so1",
-      "draft-cluster-real-mofcom-trade-dsmhg0",
-      "draft-real-xinhua-world-1q5z164",
-      "draft-real-xinhua-world-o6d6of",
-      "draft-cluster-real-xinhua-world-1ydwdvl",
-      "draft-real-xinhua-world-1f2a6zm",
-      "draft-real-city-news-rss:%E4%B8%AD%E5%9B%BD-%E4%B8%8A%E6%B5%B7-5cju1",
-      "draft-real-city-news-rss:%E4%B8%AD%E5%9B%BD-%E4%B8%8A%E6%B5%B7-1eaiu7d",
-      "draft-real-city-news-rss:%E4%B8%AD%E5%9B%BD-%E4%B8%8A%E6%B5%B7-1u5b4im",
-      "draft-real-xinhua-tech-14t3rjq",
-      "draft-real-xinhua-tech-5e9xa2",
-      "draft-real-moe-cn-1fzyswp",
-      "draft-real-eol-education-azozqe",
-      "draft-cluster-real-eol-education-jsvo4z",
-      "draft-cluster-real-eol-education-1q240n7",
-      "draft-real-eol-education-1xsb17b",
-      "draft-real-jyb-education-1uhdjes"
+      "draft-real-xinhua-world-3dgk3w",
+      "draft-real-xinhua-world-dw02ao",
+      "draft-real-xinhua-world-r2j4cd",
+      "draft-cluster-real-xinhua-world-aqt6xf",
+      "draft-real-mem-cn-1efqmp1",
+      "draft-real-city-news-rss:%E4%B8%AD%E5%9B%BD-%E5%B9%BF%E5%B7%9E-3kv4sc",
+      "draft-real-city-news-rss:%E4%B8%AD%E5%9B%BD-%E5%B9%BF%E5%B7%9E-962wwj",
+      "draft-cluster-real-eol-education-qu15ir",
+      "draft-real-eol-education-1335lef",
+      "draft-real-xinhua-tech-1035y09",
+      "draft-real-cas-science-news-x5tps2",
+      "draft-real-cas-science-news-fpvxx1",
+      "draft-real-eol-education-8tos52",
+      "draft-real-eol-education-602gmk",
+      "draft-real-cas-science-news-40mmp0"
     ],
     "carriedCardIds": []
   }

@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "date": "2026-11-15",
+  "generatedAt": "2026-11-15T09:28:30.770Z",
+  "status": "blocked",
+  "reviewMode": "generated",
+  "candidateSha256": "ab70902ade0a92c669c65bc1b15b21685f5924a58fe46b82c75b16fcfdfa1bc9",
+  "counts": {
+    "cards": 6,
+    "pages": 1,
+    "rawItems": 158,
+    "freshCandidates": 51,
+    "publishableCards": 5,
+    "reviewableCards": 1,
+    "rejectedCards": 45,
+    "blockers": 1,
+    "warnings": 4
+  },
+  "findings": [
+    {
+      "level": "warning",
+      "code": "compact-issue",
+      "message": "当天只有 6 条合格内容，将按原有日报结构发布精简版；系统不会用旧闻或其他行业内容凑数。"
+    },
+    {
+      "level": "warning",
+      "code": "translation-failures",
+      "message": "有 147 条英文或多语言候选没有完成中文化，当前翻译通道为 openai-compatible；这些候选已从最终日报排除。"
+    },
+    {
+      "level": "blocker",
+      "code": "source-concentration",
+      "message": "xinhua-world 占 4/6 条，单一来源超过一半，不能视为覆盖充分。"
+    },
+    {
+      "level": "warning",
+      "code": "source-fetch-failures",
+      "message": "有 5 个来源抓取失败，需要确认是否影响当天覆盖面。"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "原文信息量有限，需要确认是否足以支持卡片结论。",
+      "cardId": "draft-real-xinhua-world-54mqdp",
+      "cardTitle": "埃及、土耳其和卡塔尔情报部门负责人讨论加沙停火"
+    }
+  ]
+}

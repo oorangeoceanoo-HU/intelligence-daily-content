@@ -1,27 +1,22 @@
 {
   "version": 1,
   "date": "2026-11-15",
-  "generatedAt": "2026-11-15T09:28:30.770Z",
+  "generatedAt": "2026-11-15T10:06:04.883Z",
   "status": "blocked",
   "reviewMode": "generated",
-  "candidateSha256": "ab70902ade0a92c669c65bc1b15b21685f5924a58fe46b82c75b16fcfdfa1bc9",
+  "candidateSha256": "f777e0530b1b41415b7dc5588189395e61138f93f2fa0f092b105537b0b7d1a3",
   "counts": {
-    "cards": 6,
-    "pages": 1,
-    "rawItems": 158,
-    "freshCandidates": 51,
-    "publishableCards": 5,
-    "reviewableCards": 1,
-    "rejectedCards": 45,
+    "cards": 15,
+    "pages": 3,
+    "rawItems": 176,
+    "freshCandidates": 68,
+    "publishableCards": 13,
+    "reviewableCards": 4,
+    "rejectedCards": 51,
     "blockers": 1,
-    "warnings": 4
+    "warnings": 6
   },
   "findings": [
-    {
-      "level": "warning",
-      "code": "compact-issue",
-      "message": "当天只有 6 条合格内容，将按原有日报结构发布精简版；系统不会用旧闻或其他行业内容凑数。"
-    },
     {
       "level": "warning",
       "code": "translation-failures",
@@ -30,7 +25,7 @@
     {
       "level": "blocker",
       "code": "source-concentration",
-      "message": "xinhua-world 占 4/6 条，单一来源超过一半，不能视为覆盖充分。"
+      "message": "jyb-education 占 9/15 条，单一来源超过一半，不能视为覆盖充分。"
     },
     {
       "level": "warning",
@@ -43,6 +38,27 @@
       "message": "原文信息量有限，需要确认是否足以支持卡片结论。",
       "cardId": "draft-real-xinhua-world-54mqdp",
       "cardTitle": "埃及、土耳其和卡塔尔情报部门负责人讨论加沙停火"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "一句话导读偏短，可能没有讲清楚核心事实。",
+      "cardId": "draft-real-jyb-education-g9jmix",
+      "cardTitle": "二〇二六世界中文大会全体会议举行"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "一句话导读偏短，可能没有讲清楚核心事实。",
+      "cardId": "draft-real-jyb-education-1qs0x4l",
+      "cardTitle": "产教协同培育复合型本土技能人才"
+    },
+    {
+      "level": "warning",
+      "code": "card-needs-human-review",
+      "message": "一句话导读偏短，可能没有讲清楚核心事实。",
+      "cardId": "draft-real-jyb-education-fd8v9q",
+      "cardTitle": "守住思考的主体性"
     }
   ]
 }

@@ -1,0 +1,917 @@
+{
+  "schemaVersion": 2,
+  "publishedAt": "2026-11-16T02:00:00.000Z",
+  "issue": {
+    "id": "daily-public-2026-11-16",
+    "date": "2026-11-16",
+    "userId": "public",
+    "cards": [
+      {
+        "id": "draft-real-xinhua-world-w1me9o",
+        "title": "伊朗：就霍尔木兹海峡航道与两个沿岸国家达成协议",
+        "oneLine": "政策变化：据伊朗塔斯尼姆通讯社15日报道，伊朗议会国家安全与外交政策委员会发言人卡什卡维说，该委员会已完成霍尔木兹海峡相关方案的专业审议，就有关通行航道“与两个沿岸国家达成协议”。",
+        "importance": "S",
+        "credibility": "主流媒体",
+        "tags": [
+          "S",
+          "mustKnow",
+          "industry",
+          "world",
+          "policy"
+        ],
+        "industries": [
+          "generalPublic",
+          "financeInvestment",
+          "operationsGrowth",
+          "contentCreator"
+        ],
+        "section": "front",
+        "body": {
+          "background": "卡什卡维表示，伊朗方面曾在伊首都德黑兰和阿曼首都马斯喀特举行多轮会谈。商定的航道将先以临时方式实施，之后转为永久性安排。目前，委员会已完成相关方案的专业审议，正等待议会主席团将其列入全体会议议程，提交表决。",
+          "keyProgress": "卡什卡维还表示，伊朗从未主动发动侵略，目前处于防御状态。根据国际法，伊方认为本国目前在波斯湾和阿曼湾地区都处于战争状态。",
+          "whyItMatters": "“霍尔木兹海峡局势”如果继续发展，可能通过能源价格、航运、贸易、汇率或市场预期传导到国内。了解它的意义在于判断后续风险，而不只停留在事件本身。",
+          "userRelevance": "即使你不在伊朗、霍尔木兹海峡，“霍尔木兹海峡局势”也可能通过能源价格、国际航运、贸易成本和市场预期间接影响国内生活与工作判断。",
+          "whatToWatch": "接下来要看霍尔木兹海峡实际通航量、油价和保险成本是否继续变化，以及美伊双方是否出现新的正式行动。"
+        },
+        "sourceLinks": [
+          {
+            "title": "新华网国际",
+            "url": "https://www.news.cn/world/20261115/9c4d27d058d74595876bbb55dc38c92f/c.html",
+            "sourceId": "xinhua-world",
+            "publishedAt": "2026-11-15T00:00:00+08:00",
+            "language": "zh",
+            "originalLanguage": "zh",
+            "translationStatus": "not-needed",
+            "fetchedAt": "2026-11-16T09:14:47.710Z",
+            "sourceMethod": "web",
+            "verificationStatus": "confirmed"
+          }
+        ],
+        "images": [],
+        "generatedAt": "2026-11-16T02:00:00.000Z"
+      },
+      {
+        "id": "draft-real-xinhua-world-kjhhrj",
+        "title": "古巴国家主席：古巴决心抵制任何外国军事侵略企图",
+        "oneLine": "最新进展：古巴国家主席：古巴决心抵制任何外国军事侵略企图。",
+        "importance": "A",
+        "credibility": "主流媒体",
+        "tags": [
+          "A",
+          "mustKnow",
+          "industry",
+          "world",
+          "policy"
+        ],
+        "industries": [
+          "generalPublic",
+          "financeInvestment",
+          "operationsGrowth",
+          "contentCreator"
+        ],
+        "section": "front",
+        "body": {
+          "background": "古巴国家主席迪亚斯-卡内尔13日表示，古巴决心抵制任何外国对古巴发动军事侵略的企图，并正为此进行准备。新华社发（华金·埃尔南德斯摄） pagebreak 11月14日，在古巴首都哈瓦那，行人经过一块写有“这里没人屈服”的标语牌。",
+          "keyProgress": "古巴国家主席：古巴决心抵制任何外国军事侵略企图。古巴国家主席：古巴决心抵制任何外国军事侵略企图",
+          "whyItMatters": "“古巴国家主席：古巴决心抵制任何外国军事侵略企图”如果继续发展，可能通过能源价格、航运、贸易、汇率或市场预期传导到国内。了解它的意义在于判断后续风险，而不只停留在事件本身。",
+          "userRelevance": "即使你不在事发地区，“古巴国家主席：古巴决心抵制任何外国军事侵略企图”也可能通过能源价格、国际航运、贸易成本和市场预期间接影响国内生活与工作判断。",
+          "whatToWatch": "接下来要看“古巴国家主席：古巴决心抵制任何外国军事侵略企图”是否出现新的官方信息、后续行动，以及它与中国出行、贸易或公共判断的关联是否扩大。"
+        },
+        "sourceLinks": [
+          {
+            "title": "新华网国际",
+            "url": "https://www.news.cn/world/20261116/3cd35293ae2343b5a12487402fdb5b11/c.html",
+            "sourceId": "xinhua-world",
+            "publishedAt": "2026-11-16T00:00:00+08:00",
+            "language": "zh",
+            "originalLanguage": "zh",
+            "translationStatus": "not-needed",
+            "fetchedAt": "2026-11-16T09:14:47.710Z",
+            "sourceMethod": "web",
+            "verificationStatus": "confirmed"
+          }
+        ],
+        "images": [
+          {
+            "url": "https://www.news.cn/world/20261116/3cd35293ae2343b5a12487402fdb5b11/2026111635c822745ff1424e9609e1ef6b7a6ab4_20261116396dca4bf2984be193f5ae4343ac61a6.jpg",
+            "sourceUrl": "https://www.news.cn/world/20261116/3cd35293ae2343b5a12487402fdb5b11/c.html"
+          },
+          {
+            "url": "https://www.news.cn/world/20261116/3cd35293ae2343b5a12487402fdb5b11/2026111635c822745ff1424e9609e1ef6b7a6ab4_2026111659d8ea26dc6d4ee090c15fb034b7ffc6.jpg",
+            "sourceUrl": "https://www.news.cn/world/20261116/3cd35293ae2343b5a12487402fdb5b11/c.html"
+          }
+        ],
+        "generatedAt": "2026-11-16T02:00:00.000Z"
+      },
+      {
+        "id": "draft-real-xinhua-world-x230kk",
+        "title": "外交部与新华社联合推出APEC创意视频丨APEC与你我有什么关系？",
+        "oneLine": "政策变化：亚太经合组织（APEC） 第三十三次领导人非正式会议即将启幕。",
+        "importance": "A",
+        "credibility": "主流媒体",
+        "tags": [
+          "A",
+          "mustKnow",
+          "industry",
+          "world",
+          "policy"
+        ],
+        "industries": [
+          "generalPublic",
+          "financeInvestment",
+          "operationsGrowth",
+          "contentCreator"
+        ],
+        "section": "front",
+        "body": {
+          "background": "APEC促进技术与市场需求对接， APEC推动互联互通持续升级， APEC会议上讨论的是“大事情”， 都会体现在身边发生的一些“小变化”。APEC汇聚了21个成员经济体， APEC推动贸易更开放， 也让农户产品香飘海外餐桌。外交部与新华社联合推出创意视频， 跟您聊聊APEC与你我的那些事儿。",
+          "keyProgress": "外交部与新华社联合推出APEC创意视频丨APEC与你我有什么关系？。外交部与新华社联合推出APEC创意视频丨APEC与你我有什么关系？",
+          "whyItMatters": "“外交部与新华社联合推出APEC创意视频丨APEC与你我有什么关系”如果继续发展，可能通过能源价格、航运、贸易、汇率或市场预期传导到国内。了解它的意义在于判断后续风险，而不只停留在事件本身。",
+          "userRelevance": "即使你不在事发地区，“外交部与新华社联合推出APEC创意视频丨APEC与你我有什么关系”也可能通过能源价格、国际航运、贸易成本和市场预期间接影响国内生活与工作判断。",
+          "whatToWatch": "接下来要看“外交部与新华社联合推出APEC创意视频丨APEC与你我有什么关系”是否出现新的官方信息、后续行动，以及它与中国出行、贸易或公共判断的关联是否扩大。"
+        },
+        "sourceLinks": [
+          {
+            "title": "新华网国际",
+            "url": "https://www.news.cn/world/20261116/7d79510b07f34d4398a6b6bc965a674e/c.html",
+            "sourceId": "xinhua-world",
+            "publishedAt": "2026-11-16T00:00:00+08:00",
+            "language": "zh",
+            "originalLanguage": "zh",
+            "translationStatus": "not-needed",
+            "fetchedAt": "2026-11-16T09:14:47.710Z",
+            "sourceMethod": "web",
+            "verificationStatus": "confirmed"
+          }
+        ],
+        "images": [],
+        "generatedAt": "2026-11-16T02:00:00.000Z"
+      },
+      {
+        "id": "draft-cluster-real-stats-cn-data-o0ut5z",
+        "title": "2026年1—10月份全国房地产市场基本情况",
+        "oneLine": "风险提醒：一、房地产开发投资完成情况 1 — 10 月份，全国房地产开发投资 57215 亿元，同比下降 21.6% （按可比口径计算，详见附注 5 ）；",
+        "importance": "A",
+        "credibility": "官方来源",
+        "tags": [
+          "A",
+          "risk",
+          "industry",
+          "china",
+          "consumer",
+          "operations"
+        ],
+        "industries": [
+          "operationsGrowth",
+          "consumerBrand",
+          "financeInvestment",
+          "ecommerceRetail",
+          "generalPublic",
+          "localLife"
+        ],
+        "section": "risk",
+        "body": {
+          "background": "房地产开发企业本年完成投资：指报告期内完成的全部用于房屋建设工程、土地开发工程的投资额以及公益性建筑和土地购置费等的投资。商品房待售面积：指报告期末已竣工的可供销售或出租的商品房屋建筑面积中，尚未销售或出租的商品房屋建筑面积，包括以前年度竣工和本期竣工的房屋面积，但不包括报告期已竣工的拆迁还建、统建代建、公共配套建筑、房地产公司自用及周转房等不可销售或出租的房屋面积。房地产开发企业本年到位资金：指房地产开发企业报告期内实际用于房地产开发的各种货币资金。",
+          "keyProgress": "其中，住宅投资 44102 亿元，下降 21.4% 。1 — 10 月份，房地产开发企业房屋施工面积 568164 万平方米，同比下降 13.0% 。其中，住宅施工面积 394637 万平方米，下降 13.3% 。房屋新开工面积 37036 万平方米，下降 24.4% 。",
+          "whyItMatters": "“2026年1—10月份全国房地产市场基本情况”的直接价值是帮助你判断是否需要调整出行、居住或工作安排。影响地区、持续时间、预警等级和官方避险建议比事件热度更重要。",
+          "userRelevance": "对于“2026年1—10月份全国房地产市场基本情况”，如果你所在地区出现同类预警，应优先确认当地通知、交通变化和避险要求；其他地区通常无需因此改变日常安排。",
+          "whatToWatch": "接下来要看“2026年1—10月份全国房地产市场基本情况”的影响范围是否扩大、预警等级是否变化，以及是否出现与你所在城市相关的提醒。"
+        },
+        "sourceLinks": [
+          {
+            "title": "国家统计局数据发布",
+            "url": "https://www.stats.gov.cn/sj/zxfb/202611/t20261116_1965840.html",
+            "sourceId": "stats-cn-data",
+            "publishedAt": "2026-11-16T00:00:00+08:00",
+            "language": "zh",
+            "originalLanguage": "zh",
+            "translationStatus": "not-needed",
+            "fetchedAt": "2026-11-16T09:14:54.777Z",
+            "sourceMethod": "web",
+            "verificationStatus": "confirmed"
+          },
+          {
+            "title": "应急管理部",
+            "url": "https://www.mem.gov.cn/xw/yjglbgzdt/202611/t20261116_739607.shtml",
+            "sourceId": "mem-cn",
+            "publishedAt": "2026-11-16T00:00:00+08:00",
+            "language": "zh",
+            "originalLanguage": "zh",
+            "translationStatus": "not-needed",
+            "fetchedAt": "2026-11-16T09:14:46.810Z",
+            "sourceMethod": "web",
+            "verificationStatus": "confirmed"
+          }
+        ],
+        "images": [
+          {
+            "url": "https://www.stats.gov.cn/sj/zxfb/202611/W020261116319507372943_ORIGIN.png",
+            "sourceUrl": "https://www.stats.gov.cn/sj/zxfb/202611/t20261116_1965840.html"
+          },
+          {
+            "url": "https://www.stats.gov.cn/sj/zxfb/202611/W020261116319507610743_ORIGIN.png",
+            "sourceUrl": "https://www.stats.gov.cn/sj/zxfb/202611/t20261116_1965840.html"
+          },
+          {
+            "url": "https://www.stats.gov.cn/sj/zxfb/202611/W020261116319508333593_ORIGIN.png",
+            "sourceUrl": "https://www.stats.gov.cn/sj/zxfb/202611/t20261116_1965840.html"
+          }
+        ],
+        "generatedAt": "2026-11-16T02:00:00.000Z"
+      },
+      {
+        "id": "draft-real-xinhua-world-qt2ywb",
+        "title": "巴林称遭伊朗无人机袭击 伊朗称“回应美国侵略”",
+        "oneLine": "政策变化：巴林国防军总司令部15日发表声明说，伊朗继续对巴林发动袭击，巴林防空系统当天拦截并摧毁多架伊朗无人机。",
+        "importance": "B",
+        "credibility": "主流媒体",
+        "tags": [
+          "B",
+          "mustKnow",
+          "industry",
+          "world",
+          "policy"
+        ],
+        "industries": [
+          "generalPublic",
+          "financeInvestment",
+          "operationsGrowth",
+          "contentCreator"
+        ],
+        "section": "front",
+        "body": {
+          "background": "新华社记者 沙达提 摄 巴林内政部当天两次发布安全警报，呼吁民众保持冷静，前往最近安全地点。巴加埃说，美国和以色列对伊朗发动的军事行动是造成霍尔木兹海峡通航受阻的原因，美国应对此负责。伊朗外交部发言人巴加埃同日表示，伊朗打击在巴林的美军基地是“回应美国侵略”。",
+          "keyProgress": "11月15日，在伊朗首都德黑兰，伊朗外交部发言人巴加埃出席例行记者会。巴林外交部发表声明，谴责伊朗“重新开始对巴林及地区国家发动罪恶袭击”。声明强调，巴林将采取一切必要措施，维护国家主权以及本国公民和境内居民安全。巴林国防军总司令部强调，国防军各作战部门和部队均处于最高戒备状态，已做好充分防御准备。",
+          "whyItMatters": "“巴林称遭伊朗无人机袭击 伊朗称回应美国侵略”如果继续发展，可能通过能源价格、航运、贸易、汇率或市场预期传导到国内。了解它的意义在于判断后续风险，而不只停留在事件本身。",
+          "userRelevance": "即使你不在美国、伊朗，“巴林称遭伊朗无人机袭击 伊朗称回应美国侵略”也可能通过能源价格、国际航运、贸易成本和市场预期间接影响国内生活与工作判断。",
+          "whatToWatch": "接下来要看“巴林称遭伊朗无人机袭击 伊朗称回应美国侵略”是否出现新的官方信息、后续行动，以及它与中国出行、贸易或公共判断的关联是否扩大。"
+        },
+        "sourceLinks": [
+          {
+            "title": "新华网国际",
+            "url": "https://www.news.cn/world/20261115/d25bb6ed51424ab99616f1efc7c3da84/c.html",
+            "sourceId": "xinhua-world",
+            "publishedAt": "2026-11-15T00:00:00+08:00",
+            "language": "zh",
+            "originalLanguage": "zh",
+            "translationStatus": "not-needed",
+            "fetchedAt": "2026-11-16T09:14:47.710Z",
+            "sourceMethod": "web",
+            "verificationStatus": "confirmed"
+          }
+        ],
+        "images": [
+          {
+            "url": "https://www.news.cn/world/20261115/d25bb6ed51424ab99616f1efc7c3da84/0Plx36o4vbN84SYv.jpeg",
+            "sourceUrl": "https://www.news.cn/world/20261115/d25bb6ed51424ab99616f1efc7c3da84/c.html"
+          },
+          {
+            "url": "https://www.news.cn/world/20261115/d25bb6ed51424ab99616f1efc7c3da84/af8r849tt8JDWvJd.jpeg",
+            "sourceUrl": "https://www.news.cn/world/20261115/d25bb6ed51424ab99616f1efc7c3da84/c.html"
+          },
+          {
+            "url": "https://www.news.cn/world/20261115/d25bb6ed51424ab99616f1efc7c3da84/vZ3vnLkfuD57BNxn.jpeg",
+            "sourceUrl": "https://www.news.cn/world/20261115/d25bb6ed51424ab99616f1efc7c3da84/c.html"
+          }
+        ],
+        "generatedAt": "2026-11-16T02:00:00.000Z"
+      },
+      {
+        "id": "draft-real-xinhua-tech-py817b",
+        "title": "开放协作托举人工智能普惠发展",
+        "oneLine": "趋势信号：“十五五”规划纲要提出，推动建立各国广泛参与的人工智能治理框架，共同构建平权、互信、多元、共赢的全球人工智能开放生态。",
+        "importance": "B",
+        "credibility": "主流媒体",
+        "tags": [
+          "B",
+          "industry",
+          "technology",
+          "ai",
+          "product"
+        ],
+        "industries": [
+          "technologyEngineering",
+          "educationResearch",
+          "aiProduct",
+          "aiTechnology",
+          "productManagement",
+          "operationsGrowth"
+        ],
+        "section": "ai",
+        "body": {
+          "background": "近日，2026年世界互联网大会乌镇峰会在浙江乌镇举行。面向政企用户对效率与安全的双重需求，在乌镇举行的2026年“互联网之光”博览会上，曙光云发布智能体协作平台OneBox。同时，要积极参与全球治理网络，依托国际合作开展本土人才培养。",
+          "keyProgress": "当前，各类开源大模型以低成本、高效能等优势，显著降低了人工智能技术的应用门槛，促进了技术普惠共享。数据显示，我国人工智能开源大模型全球累计下载量已突破100亿次，国家级人工智能开源社区汇聚用户超1100万、托管模型超7万个。外交基金会执行主任、日内瓦互联网平台负责人约万・库尔巴里贾认为，互联网取得巨大成功的关键在于其开源开放的底层架构，人工智能发展可以汲取互联网发展的成功经验。截至目前，阿里巴巴旗下的千问（Qwen）大模型开源超过470款模型，全球累计下载量突破40亿次。",
+          "whyItMatters": "“开放协作托举人工智能普惠发展”能帮助你判断这项能力是否已经进入工程、产品或商业场景，并据此调整技术选型、产品规划、学习重点或职业判断。",
+          "userRelevance": "如果你从事技术研发、教育研究、AI 产品、AI 技术，可以重点判断“开放协作托举人工智能普惠发展”是否已经具备产品落地、技术选型或业务合作价值。",
+          "whatToWatch": "接下来要看“开放协作托举人工智能普惠发展”是否有更多可靠来源、量产或应用进展，以及它会不会从单点消息发展成持续趋势。"
+        },
+        "sourceLinks": [
+          {
+            "title": "新华网科技",
+            "url": "https://www.news.cn/tech/20261116/5cbcec6ab97e433b8ab337accd6fdaaf/c.html",
+            "sourceId": "xinhua-tech",
+            "publishedAt": "2026-11-16T00:00:00+08:00",
+            "language": "zh",
+            "originalLanguage": "zh",
+            "translationStatus": "not-needed",
+            "fetchedAt": "2026-11-16T09:14:47.767Z",
+            "sourceMethod": "web",
+            "verificationStatus": "confirmed"
+          }
+        ],
+        "images": [],
+        "generatedAt": "2026-11-16T02:00:00.000Z"
+      },
+      {
+        "id": "draft-real-xinhua-tech-mqlzia",
+        "title": "人工智能创新生态“聚光成炬”",
+        "oneLine": "最新进展：人工智能创新生态“聚光成炬”。",
+        "importance": "B",
+        "credibility": "主流媒体",
+        "tags": [
+          "B",
+          "industry",
+          "technology",
+          "ai",
+          "product"
+        ],
+        "industries": [
+          "technologyEngineering",
+          "educationResearch",
+          "aiProduct",
+          "aiTechnology",
+          "productManagement",
+          "operationsGrowth"
+        ],
+        "section": "ai",
+        "body": {
+          "background": "日前，由合肥综合性国家科学中心人工智能研究院与华为联合主办的2026人工智能创新生态大会在安徽合肥举行。在技术路线上，端云一体与世界模型则备受关注。大会期间，合肥综合性国家科学中心人工智能研究院分别与华为、国仪量子、江苏集萃签约，开展技术协同攻关、人才联合培养等深度合作。",
+          "keyProgress": "记者 吴蔚 摄 人工智能（AI）的竞争，既是技术赛道的比拼，更是创新生态的较量。技术竞速 从智能医学到世界模型 “人工智能正开启充满无限可能的新时代，其发展更需要多学科交叉融合与多领域协同创新。中国科学技术大学校长常进指出，人工智能发展要推动算力、数据、模型、场景、人才系统贯通，高校需夯实基础研究、强化人才培养、打通成果转化“死亡之谷”。浙江大学医药学部学术委员会主任、脑机智能全国重点实验室首席科学家段树民认为，人脑高效低耗、远优于大数据训练的人工智能，其神经环路机制为AI提供了重要参考；",
+          "whyItMatters": "“人工智能创新生态聚光成炬”能帮助你判断这项能力是否已经进入工程、产品或商业场景，并据此调整技术选型、产品规划、学习重点或职业判断。",
+          "userRelevance": "如果你从事技术研发、教育研究、AI 产品、AI 技术，可以重点判断“人工智能创新生态聚光成炬”是否已经具备产品落地、技术选型或业务合作价值。",
+          "whatToWatch": "接下来要看“人工智能创新生态聚光成炬”是否有更多可靠来源、量产或应用进展，以及它会不会从单点消息发展成持续趋势。"
+        },
+        "sourceLinks": [
+          {
+            "title": "新华网科技",
+            "url": "https://www.news.cn/tech/20261116/e5277c93e3b5473d8281fa7aa8c0a721/c.html",
+            "sourceId": "xinhua-tech",
+            "publishedAt": "2026-11-16T00:00:00+08:00",
+            "language": "zh",
+            "originalLanguage": "zh",
+            "translationStatus": "not-needed",
+            "fetchedAt": "2026-11-16T09:14:47.767Z",
+            "sourceMethod": "web",
+            "verificationStatus": "confirmed"
+          }
+        ],
+        "images": [
+          {
+            "url": "https://www.news.cn/tech/20261116/e5277c93e3b5473d8281fa7aa8c0a721/20261116e5277c93e3b5473d8281fa7aa8c0a721_2026111613daa7f10329448eb35f1aae69f2430b.jpg",
+            "sourceUrl": "https://www.news.cn/tech/20261116/e5277c93e3b5473d8281fa7aa8c0a721/c.html"
+          }
+        ],
+        "generatedAt": "2026-11-16T02:00:00.000Z"
+      },
+      {
+        "id": "draft-real-xinhua-tech-tmsm2c",
+        "title": "天地一体布局 6G商用适时启动",
+        "oneLine": "最新进展：天地一体布局 6G商用适时启动。",
+        "importance": "B",
+        "credibility": "主流媒体",
+        "tags": [
+          "B",
+          "industry",
+          "technology",
+          "ai",
+          "product"
+        ],
+        "industries": [
+          "technologyEngineering",
+          "educationResearch",
+          "aiProduct",
+          "aiTechnology",
+          "productManagement",
+          "operationsGrowth"
+        ],
+        "section": "ai",
+        "body": {
+          "background": "近日，中国电信研究院、长飞公司联合中兴通讯共同完成全球首个千公里空芯光纤双向实时传输验证。中国移动日前发布6G智能应用共创行动，将进一步挖掘网联机器人、AI终端、沉浸式通信、空天地海一体、智能体群智协作等十大6G高价值场景领域，牵引6G网络技术创新。在构建天地一体的空间网络方面，我国正组织开展卫星物联网业务商用试验，两家民营企业获准开展相关试点业务，工业和信息化部将支持更多符合条件的企业申请卫星物联网业务商用试验。",
+          "keyProgress": "推进星地网络融合发展……随着《国家信息化“十五五”规划》《信息通信行业发展“十五五”规划》等专项规划对新一代通信网建设作出安排，头部企业正围绕光通信、卫星通信、6G等领域，加快关键核心技术攻关与产业链布局，推动新一代通信网向“智能底座”升级。中国电信、中国联通等多家企业展示了“6G全域智惠网络”、新一代通信网与算力深度融合的AIDN架构、直连天通卫星、低空经济能力体系等前沿成果，勾勒出空天地海一体化创新版图。例如，6G新引入了通信与AI融合、通信与感知融合、星地融合等新技术新场景，服务对象从人机物进一步扩展到智能体，服务空间从地面拓展到空天地，实现由“5G万物互联”到“6G万物智联”的跃升。《国家信息化“十五五”规划》提出，到2030年适时启动6G商用，智能互联网加快布局发展等。",
+          "whyItMatters": "“天地一体布局 6G商用适时启动”能帮助你判断这项能力是否已经进入工程、产品或商业场景，并据此调整技术选型、产品规划、学习重点或职业判断。",
+          "userRelevance": "如果你从事技术研发、教育研究、AI 产品、AI 技术，可以重点判断“天地一体布局 6G商用适时启动”是否已经具备产品落地、技术选型或业务合作价值。",
+          "whatToWatch": "接下来要看“天地一体布局 6G商用适时启动”是否有更多可靠来源、量产或应用进展，以及它会不会从单点消息发展成持续趋势。"
+        },
+        "sourceLinks": [
+          {
+            "title": "新华网科技",
+            "url": "https://www.news.cn/tech/20261116/33ea36d3987d4b9d9439b1637bda5d7b/c.html",
+            "sourceId": "xinhua-tech",
+            "publishedAt": "2026-11-16T00:00:00+08:00",
+            "language": "zh",
+            "originalLanguage": "zh",
+            "translationStatus": "not-needed",
+            "fetchedAt": "2026-11-16T09:14:47.767Z",
+            "sourceMethod": "web",
+            "verificationStatus": "confirmed"
+          }
+        ],
+        "images": [],
+        "generatedAt": "2026-11-16T02:00:00.000Z"
+      },
+      {
+        "id": "draft-real-stats-cn-data-1c96rh5",
+        "title": "10月份国民经济运行总体平稳、向新向优",
+        "oneLine": "经营环境信号：一、工业生产较快增长，装备制造业和高技术制造业支撑明显 10 月份，全国规模以上工业增加值同比增长 4.8% ，环比增长 0.21% 。1 — 10 月份，全国规模以上工业增加值同比增长 5.3% 。",
+        "importance": "B",
+        "credibility": "官方来源",
+        "tags": [
+          "B",
+          "industry",
+          "china",
+          "consumer",
+          "operations"
+        ],
+        "industries": [
+          "operationsGrowth",
+          "consumerBrand",
+          "financeInvestment",
+          "ecommerceRetail",
+          "generalPublic"
+        ],
+        "section": "industry",
+        "body": {
+          "background": "（ 2 ）规模以上工业的统计范围为年主营业务收入 2000 万元及以上的工业企业。由于规模以上工业企业范围每年发生变化，为保证本年数据与上年可比，计算产品产量等各项指标同比增长速度所采用的同期数与本期的企业统计范围尽可能相一致，和上年公布的数据存在口径差异。主要原因：一是统计单位范围发生变化。",
+          "keyProgress": "（ 2026 年 11 月 16 日） 10 月份，在以习近平同志为核心的党中央坚强领导下，各地区各部门认真贯彻落实党中央和国务院决策部署，坚持稳中求进工作总基调，强化存量政策和增量政策协同，扎实推进高质量发展，生产供给平稳增长，市场销售规模扩大，对外贸易快速增长，就业物价总体稳定，新质生产力茁壮成长，国民经济运行延续总体平稳、向新向优发展态势。分三大门类看，采矿业增加值同比增长 0.7% ，制造业增长 5.4% ，电力、热力、燃气及水生产和供应业增长 4.4% 。装备制造业增加值同比增长 10.6% ，高技术制造业增加值增长 17.6% ，分别快于全部规模以上工业增加值 5.8 和 12.8 个百分点。分经济类型看，国有控股企业增加值同比增长 2.1% ；",
+          "whyItMatters": "“10月份国民经济运行总体平稳、向新向优”反映了需求、成本或市场节奏的一次变化。它不一定马上改变日常生活，但会影响选品、定价、投放、库存和内容方向。",
+          "userRelevance": "如果你从事运营增长、消费品牌、金融投资、电商零售，“10月份国民经济运行总体平稳、向新向优”可用于观察需求和成本变化，并辅助定价、选品、投放或经营节奏判断。",
+          "whatToWatch": "接下来要看“10月份国民经济运行总体平稳、向新向优”是否出现更细的城市、行业、平台或企业数据，以及这一变化能否连续保持。"
+        },
+        "sourceLinks": [
+          {
+            "title": "国家统计局数据发布",
+            "url": "https://www.stats.gov.cn/sj/zxfb/202611/t20261116_1965844.html",
+            "sourceId": "stats-cn-data",
+            "publishedAt": "2026-11-16T00:00:00+08:00",
+            "language": "zh",
+            "originalLanguage": "zh",
+            "translationStatus": "not-needed",
+            "fetchedAt": "2026-11-16T09:14:54.777Z",
+            "sourceMethod": "web",
+            "verificationStatus": "confirmed"
+          }
+        ],
+        "images": [
+          {
+            "url": "https://www.stats.gov.cn/sj/zxfb/202611/W020261116322367152027_ORIGIN.png",
+            "sourceUrl": "https://www.stats.gov.cn/sj/zxfb/202611/t20261116_1965844.html"
+          },
+          {
+            "url": "https://www.stats.gov.cn/sj/zxfb/202611/W020261116322367379432_ORIGIN.png",
+            "sourceUrl": "https://www.stats.gov.cn/sj/zxfb/202611/t20261116_1965844.html"
+          },
+          {
+            "url": "https://www.stats.gov.cn/sj/zxfb/202611/W020261116322367541093_ORIGIN.png",
+            "sourceUrl": "https://www.stats.gov.cn/sj/zxfb/202611/t20261116_1965844.html"
+          },
+          {
+            "url": "https://www.stats.gov.cn/sj/zxfb/202611/W020261116322367738446_ORIGIN.png",
+            "sourceUrl": "https://www.stats.gov.cn/sj/zxfb/202611/t20261116_1965844.html"
+          },
+          {
+            "url": "https://www.stats.gov.cn/sj/zxfb/202611/W020261116322368016102_ORIGIN.png",
+            "sourceUrl": "https://www.stats.gov.cn/sj/zxfb/202611/t20261116_1965844.html"
+          }
+        ],
+        "generatedAt": "2026-11-16T02:00:00.000Z"
+      },
+      {
+        "id": "draft-cluster-real-stats-cn-data-3jjc5w",
+        "title": "2026年10月份规模以上工业增加值增长4.8%",
+        "oneLine": "经营环境信号：从环比看， 10 月份，规模以上工业增加值比上月增长 0.21% 。根据季节调整模型自动修正结果，对 2025 年 10 月至 2026 年 9 月份规模以上工业增加值环比增速进行修订。",
+        "importance": "B",
+        "credibility": "官方来源",
+        "tags": [
+          "B",
+          "industry",
+          "china",
+          "consumer",
+          "operations"
+        ],
+        "industries": [
+          "operationsGrowth",
+          "consumerBrand",
+          "financeInvestment",
+          "ecommerceRetail",
+          "generalPublic"
+        ],
+        "section": "industry",
+        "body": {
+          "background": "出口交货值：是指工业企业自营（委托）出口（包括销往香港、澳门、台湾地区）或交给外贸部门出口的产品价值，以及外商来样、来料加工、来件装配和补偿贸易等生产的产品价值。日均产品产量：是以当月公布的规模以上工业企业总产量除以该月日历天数计算得到。规模以上工业的统计范围为年主营业务收入 2000 万元及以上的工业企业。",
+          "keyProgress": "10 月份，规模以上工业增加值同比实际增长 4.8% （增加值增速均为扣除价格因素的实际增长率）。1 — 10 月份，规模以上工业增加值同比增长 5.3% 。分三大门类看， 10 月份，采矿业增加值同比增长 0.7% ，制造业增长 5.4% ，电力、热力、燃气及水生产和供应业增长 4.4% 。分经济类型看， 10 月份，国有控股企业增加值同比增长 2.1% ；",
+          "whyItMatters": "“2026年10月份规模以上工业增加值增长4.8%”反映了需求、成本或市场节奏的一次变化。它不一定马上改变日常生活，但会影响选品、定价、投放、库存和内容方向。",
+          "userRelevance": "如果你从事运营增长、消费品牌、金融投资、电商零售，“2026年10月份规模以上工业增加值增长4.8%”可用于观察需求和成本变化，并辅助定价、选品、投放或经营节奏判断。",
+          "whatToWatch": "接下来要看“2026年10月份规模以上工业增加值增长4.8%”是否出现更细的城市、行业、平台或企业数据，以及这一变化能否连续保持。"
+        },
+        "sourceLinks": [
+          {
+            "title": "国家统计局数据发布",
+            "url": "https://www.stats.gov.cn/sj/zxfb/202611/t20261116_1965842.html",
+            "sourceId": "stats-cn-data",
+            "publishedAt": "2026-11-16T00:00:00+08:00",
+            "language": "zh",
+            "originalLanguage": "zh",
+            "translationStatus": "not-needed",
+            "fetchedAt": "2026-11-16T09:14:54.777Z",
+            "sourceMethod": "web",
+            "verificationStatus": "confirmed"
+          },
+          {
+            "title": "国家统计局数据发布",
+            "url": "https://www.stats.gov.cn/sj/zxfb/202611/t20261116_1965839.html",
+            "sourceId": "stats-cn-data",
+            "publishedAt": "2026-11-16T00:00:00+08:00",
+            "language": "zh",
+            "originalLanguage": "zh",
+            "translationStatus": "not-needed",
+            "fetchedAt": "2026-11-16T09:14:54.777Z",
+            "sourceMethod": "web",
+            "verificationStatus": "confirmed"
+          },
+          {
+            "title": "国家统计局数据发布",
+            "url": "https://www.stats.gov.cn/sj/zxfb/202611/t20261116_1965836.html",
+            "sourceId": "stats-cn-data",
+            "publishedAt": "2026-11-16T00:00:00+08:00",
+            "language": "zh",
+            "originalLanguage": "zh",
+            "translationStatus": "not-needed",
+            "fetchedAt": "2026-11-16T09:14:54.777Z",
+            "sourceMethod": "web",
+            "verificationStatus": "confirmed"
+          }
+        ],
+        "images": [
+          {
+            "url": "https://www.stats.gov.cn/sj/zxfb/202611/W020261116321592204683_ORIGIN.png",
+            "sourceUrl": "https://www.stats.gov.cn/sj/zxfb/202611/t20261116_1965842.html"
+          },
+          {
+            "url": "https://www.stats.gov.cn/sj/zxfb/202611/W020261116321592417648_ORIGIN.png",
+            "sourceUrl": "https://www.stats.gov.cn/sj/zxfb/202611/t20261116_1965842.html"
+          },
+          {
+            "url": "https://www.stats.gov.cn/sj/zxfb/202611/W020261116321592591833_ORIGIN.png",
+            "sourceUrl": "https://www.stats.gov.cn/sj/zxfb/202611/t20261116_1965842.html"
+          },
+          {
+            "url": "https://www.stats.gov.cn/sj/zxfb/202611/W020261116321592744004_ORIGIN.png",
+            "sourceUrl": "https://www.stats.gov.cn/sj/zxfb/202611/t20261116_1965842.html"
+          },
+          {
+            "url": "https://www.stats.gov.cn/sj/zxfb/202611/W020261116321592901166_ORIGIN.png",
+            "sourceUrl": "https://www.stats.gov.cn/sj/zxfb/202611/t20261116_1965842.html"
+          }
+        ],
+        "generatedAt": "2026-11-16T02:00:00.000Z"
+      },
+      {
+        "id": "draft-real-cas-science-news-1qr55vp",
+        "title": "合肥研究院党委专题学习党的二十届五中全会精神",
+        "oneLine": "趋势信号：11月9日，中国科学院合肥物质科学研究院召开党委理论学习中心组学习（扩大）会议，专题学习宣传贯彻党的二十届五中全会精神。",
+        "importance": "B",
+        "credibility": "官方来源",
+        "tags": [
+          "B",
+          "industry",
+          "technology",
+          "education"
+        ],
+        "industries": [
+          "technologyEngineering",
+          "educationResearch"
+        ],
+        "section": "industry",
+        "body": {
+          "background": "会前，与会同志围绕习近平总书记在党的二十届五中全会上的重要讲话、中国共产党第二十届中央委员会第五次全体会议公报、《中共中央关于持之以恒推进全面从严治党若干重大问题的决定》等内容开展个人自学。会上，党委委员、纪委书记章骏平作重点发言。党委理论学习中心组成员把学习贯彻党的二十届五中全会精神与学习贯彻党的二十大和二十届历次全会精神结合起来，与学习贯彻习近平党建思想结合起来，联系工作实际逐一交流学习心得体会和落实举措。",
+          "keyProgress": "坚持以上率下，合肥研究院理论学习中心组带头学、所属各单位党委跟进学，推动学习覆盖到每个支部、每名党员。要坚持以党的政治建设为统领，紧扣“四个率先”“两加快一努力”目标要求，坚决扛起管党治党政治责任，把严的要求贯穿科技创新全过程，以全面从严治党新成效为抢占科技制高点提供坚强政治保障。列席人员代表结合岗位实际作了交流发言。会议认为，党的二十届五中全会是在基本实现社会主义现代化的关键时期召开的一次十分重要的会议。",
+          "whyItMatters": "“合肥研究院党委专题学习党的二十届五中全会精神”提供了一个具体的研究进展信号。它是否重要，要看实验指标、可复现性、开源材料和真实应用，而不能只看论文标题。",
+          "userRelevance": "如果你从事科研、工程或正在攻读相关学位，可以重点查看“合肥研究院党委专题学习党的二十届五中全会精神”的实验条件、指标和可复现性；其他用户可把它作为技术趋势背景了解。",
+          "whatToWatch": "接下来要看“合肥研究院党委专题学习党的二十届五中全会精神”是否公开论文全文、代码或完整实验条件，以及是否得到独立复现和实际应用。"
+        },
+        "sourceLinks": [
+          {
+            "title": "中国科学院科研动态",
+            "url": "https://www.cas.cn/djcx/gz/202611/t20261116_5124216.shtml",
+            "sourceId": "cas-science-news",
+            "publishedAt": "2026-11-16T00:00:00+08:00",
+            "language": "zh",
+            "originalLanguage": "zh",
+            "translationStatus": "not-needed",
+            "fetchedAt": "2026-11-16T09:14:46.421Z",
+            "sourceMethod": "web",
+            "verificationStatus": "confirmed"
+          }
+        ],
+        "images": [],
+        "generatedAt": "2026-11-16T02:00:00.000Z"
+      },
+      {
+        "id": "draft-real-mohurd-construction-smihc7",
+        "title": "吉尔吉斯斯坦总统扎帕罗夫会见中国、中亚五国建设部长和中国—中亚机制秘书长",
+        "oneLine": "政策变化：扎帕罗夫总统表示，中国—中亚机制的政治分量和现实意义持续增强，近年来机制框架下务实合作不断发展，提出了许多新倡议、确立了新的合作方向。",
+        "importance": "B",
+        "credibility": "官方来源",
+        "tags": [
+          "B",
+          "industry",
+          "policy",
+          "china",
+          "technology"
+        ],
+        "industries": [
+          "architectureBuiltEnvironment",
+          "technologyEngineering",
+          "generalPublic"
+        ],
+        "section": "industry",
+        "body": {
+          "background": "吉尔吉斯斯坦建筑、建设、住房和社区服务部部长奥伦塔耶夫主持会见，孙炜东秘书长受邀介绍了六国建设部门合作和建设部长会议情况。2026年11月12日，吉尔吉斯斯坦总统扎帕罗夫在比什凯克总统府会见出席第二届中国—中亚建设部长会议的中国、哈萨克斯坦、吉尔吉斯斯坦、塔吉克斯坦、土库曼斯坦、乌兹别克斯坦六国建设部长和中国—中亚机制秘书长孙炜东。《中国和中亚国家永久睦邻友好合作条约》的签署，对加强机制成员国间关系具有重要意义，为发展长期互利合作奠定了坚实基础。",
+          "keyProgress": "吉尔吉斯斯坦遵循可持续发展方针，经济保持稳健增长，正在积极实施“我的家”国家住房计划，通过发展住建基础设施和增强贷款可及性，在全国范围内建设可负担的居民住房。扎帕罗夫总统表示，吉方致力于深化中国—中亚机制下相关职能部门间合作，愿同各方共同实施大型合作项目，相信此次建设部长会议达成的共识将为中国与中亚国家务实合作发展注入新动力。孙炜东秘书长表示，中国—中亚建设部长会议机制拓展了中国中亚合作内涵，建设领域合作已成为中国—中亚机制下务实合作的重要新兴增长点，合作空间广、发展潜力大。本次部长会议达成的共识和签署的合作文件，不仅有利于推动六国建设领域合作，也有益于拉动中国中亚贸易和经济增长，提升国家新质生产力水平，增进人文理解和民心相通。",
+          "whyItMatters": "“吉尔吉斯斯坦总统扎帕罗夫会见中国、中亚五国建设部长和中国—中亚机制秘书长”可能改变项目机会、技术标准、公共空间或居住体验。建筑、工程与规划从业者应重点看适用地区、实施范围和地方配套安排。",
+          "userRelevance": "如果你从事建筑、工程或城市规划，或者居住在中国，可以重点关注“吉尔吉斯斯坦总统扎帕罗夫会见中国、中亚五国建设部长和中国—中亚机制秘书长”涉及的项目范围、建设标准和公共空间变化。",
+          "whatToWatch": "接下来要看“吉尔吉斯斯坦总统扎帕罗夫会见中国、中亚五国建设部长和中国—中亚机制秘书长”是否补充执行细则、地方落地安排、时间节点或适用人群说明。"
+        },
+        "sourceLinks": [
+          {
+            "title": "住房和城乡建设部",
+            "url": "https://www.mohurd.gov.cn/xinwen/gzdt/art/2026/art_364f28b3a88a43878ad997e2c2a52fca.html",
+            "sourceId": "mohurd-construction",
+            "publishedAt": "2026-11-16T00:00:00+08:00",
+            "language": "zh",
+            "originalLanguage": "zh",
+            "translationStatus": "not-needed",
+            "fetchedAt": "2026-11-16T09:14:46.972Z",
+            "sourceMethod": "web",
+            "verificationStatus": "confirmed"
+          }
+        ],
+        "images": [
+          {
+            "url": "https://www.mohurd.gov.cn/cms_files/filemanager/1150240553/picture/202610/Sc07173ff8a4b4c80971db5c0e15626da-850.jpg",
+            "sourceUrl": "https://www.mohurd.gov.cn/xinwen/gzdt/art/2026/art_364f28b3a88a43878ad997e2c2a52fca.html"
+          }
+        ],
+        "generatedAt": "2026-11-16T02:00:00.000Z"
+      },
+      {
+        "id": "draft-real-cas-science-news-160gzny",
+        "title": "研究揭示植物感应害虫新机制",
+        "oneLine": "最新进展：研究揭示植物感应害虫新机制。",
+        "importance": "B",
+        "credibility": "官方来源",
+        "tags": [
+          "B",
+          "industry",
+          "technology",
+          "education"
+        ],
+        "industries": [
+          "technologyEngineering",
+          "educationResearch"
+        ],
+        "section": "industry",
+        "body": {
+          "background": "近日，中国科学院分子植物科学卓越创新中心揭示了植物察觉昆虫侵害并启动防御的新机制。接收到“信号”后， 水稻就像是“感受”到叮咬一样，开始启动抗虫防御反应， 诱导防御相关基因表达，并合成抗虫化合物 。实验证实， 类似的分子过程也能在其他植物与害虫之间发生 ，是植物抵御不同昆虫侵害的广谱机制。",
+          "keyProgress": "那么， 植物被昆虫叮咬了， 会不会也有“感觉”，进而启动抗虫反应？昆虫取食分泌的消化酶，可以在植物体内分解成小分子，这或许能帮助植物察觉昆虫侵袭。稻绿蝽是广食性害虫，危害水稻等作物。研究发现，稻绿蝽取食时向植物组织释放T2核酸酶NVR1，降解植物核酸， 产生一类具有免疫活性的小分子——2′,3′-环核苷酸 。",
+          "whyItMatters": "“研究揭示植物感应害虫新机制”提供了一个具体的研究进展信号。它是否重要，要看实验指标、可复现性、开源材料和真实应用，而不能只看论文标题。",
+          "userRelevance": "如果你从事科研、工程或正在攻读相关学位，可以重点查看“研究揭示植物感应害虫新机制”的实验条件、指标和可复现性；其他用户可把它作为技术趋势背景了解。",
+          "whatToWatch": "接下来要看“研究揭示植物感应害虫新机制”是否公开论文全文、代码或完整实验条件，以及是否得到独立复现和实际应用。"
+        },
+        "sourceLinks": [
+          {
+            "title": "中国科学院科研动态",
+            "url": "https://www.cas.cn/syky/202611/t20261116_5124223.shtml",
+            "sourceId": "cas-science-news",
+            "publishedAt": "2026-11-16T00:00:00+08:00",
+            "language": "zh",
+            "originalLanguage": "zh",
+            "translationStatus": "not-needed",
+            "fetchedAt": "2026-11-16T09:14:46.421Z",
+            "sourceMethod": "web",
+            "verificationStatus": "confirmed"
+          }
+        ],
+        "images": [
+          {
+            "url": "https://www.cas.cn/syky/202611/W020261116361345263008.png",
+            "sourceUrl": "https://www.cas.cn/syky/202611/t20261116_5124223.shtml"
+          }
+        ],
+        "generatedAt": "2026-11-16T02:00:00.000Z"
+      },
+      {
+        "id": "draft-real-xinhua-tech-1gnc9cr",
+        "title": "具身智能：从“技术想象力”走向“交付确定性”",
+        "oneLine": "最新进展：具身智能：从“技术想象力”走向“交付确定性”。",
+        "importance": "B",
+        "credibility": "主流媒体",
+        "tags": [
+          "B",
+          "industry",
+          "technology"
+        ],
+        "industries": [
+          "technologyEngineering",
+          "educationResearch"
+        ],
+        "section": "industry",
+        "body": {
+          "background": "其中，银河通用已实现超千台规模商业部署，应用于多家制造企业的上下料、分拣、物料搬运等场景。中长期看，具身智能作为物理世界智能化的重要方向，产业趋势并未发生根本改变，优质企业有望持续获得产业资本与长期资金的青睐。近期举办的首届CMG世界机器人登泰山大赛开辟了山岳机器人实景测试全新场景，累计发布的100余个具身智能应用场景清单，覆盖森林防火、山地运维、文旅服务等领域。",
+          "keyProgress": "中国经济信息社刊发的《中经社信号|具身智能：从“技术想象力”走向“交付确定性”》报道称，近期，具身智能赛道的一级市场融资热度有所降温，反映出投资方更加看重具身智能企业的落地交付和持续获单能力。融资变奏：投资标尺转向“落地能力” 进入下半年，融资市场的关注重点加速向企业的真实场景落地能力转移。融资额下降并不意味着行业萎缩，而是正在筛选真正有场景、有订单、有回款的企业。行业正在依托真实复杂物理场景锚定下阶段技术方向，拓宽从算法原型到工程化产品的演进通道，推动具身智能迈向规模化落地新阶段。",
+          "whyItMatters": "“具身智能：从技术想象力走向交付确定性”能帮助你判断这项能力是否已经进入工程、产品或商业场景，并据此调整技术选型、产品规划、学习重点或职业判断。",
+          "userRelevance": "如果你从事技术研发、教育研究，可以重点判断“具身智能：从技术想象力走向交付确定性”是否已经具备产品落地、技术选型或业务合作价值。",
+          "whatToWatch": "接下来要看“具身智能：从技术想象力走向交付确定性”是否有更多可靠来源、量产或应用进展，以及它会不会从单点消息发展成持续趋势。"
+        },
+        "sourceLinks": [
+          {
+            "title": "新华网科技",
+            "url": "https://www.news.cn/tech/20261116/fc5a6409419e42a2871ba72b8f536bd2/c.html",
+            "sourceId": "xinhua-tech",
+            "publishedAt": "2026-11-16T00:00:00+08:00",
+            "language": "zh",
+            "originalLanguage": "zh",
+            "translationStatus": "not-needed",
+            "fetchedAt": "2026-11-16T09:14:47.767Z",
+            "sourceMethod": "web",
+            "verificationStatus": "confirmed"
+          }
+        ],
+        "images": [],
+        "generatedAt": "2026-11-16T02:00:00.000Z"
+      },
+      {
+        "id": "draft-cluster-real-moe-cn-332vgt",
+        "title": "首个国际职业教育标准《北京协议》以六种语言全文发布",
+        "oneLine": "政策变化：近日，我国牵头推动研制形成的首个国际职业教育标准《世界职业技术教育标准框架》（《北京协议》）以中文、英语、法语、俄语、西班牙语、阿拉伯语等6种语言全文发布。",
+        "importance": "B",
+        "credibility": "官方来源",
+        "tags": [
+          "B",
+          "industry",
+          "education",
+          "policy",
+          "china"
+        ],
+        "industries": [
+          "teacher",
+          "educationResearch",
+          "generalPublic"
+        ],
+        "section": "industry",
+        "body": {
+          "background": "《北京协议》以我国职业教育实践为基础，继承和深化“天津倡议”“天津共识”的核心理念，吸收世界职业教育发展经验，邀请70多个国家的教育部门、产业部门和行业协会参与协商讨论、完善形成，在2026年世界职业技术教育发展大会上由45国代表正式发布。《北京协议》是落实2024年世界职业技术教育发展大会“天津共识”“共同制定适应全球可持续发展和各国普遍认同的引领职业教育高质量发展的质量标准”的重要成果。该协议注重把现实关切凝聚为价值共识，把实践需要转化为行动指南，尊重各国国情、制度和职业教育发展阶段，打造多方共建、共享、共同完善的全球职教公共产品。",
+          "keyProgress": "在《北京协议》框架下，教育部以“通用+国别”“通用+领域”的形式，与认同认可《北京协议》的国家和机构签署职业教育合作谅解备忘录。截至目前，教育部已与15个国家职业教育管理部门签署合作谅解备忘录，我国相关机构与11个外方机构在通信、汽车等6个领域签署谅解备忘录，为世界职业教育搭建起一套可对话、可参照、可落地的国际通用话语体系。《世界职业技术教育标准框架》六种语言版",
+          "whyItMatters": "“首个国际职业教育标准北京协议以六种语言全文发布”可能影响学校治理、教师工作、课程安排或学生发展。教育从业者可以据此提前关注具体对象、地方执行方式和工作要求。",
+          "userRelevance": "如果你从事教师、教育研究或学校管理，可以重点关注“首个国际职业教育标准北京协议以六种语言全文发布”的具体对象、执行方式和地方落地节奏；其他用户可把它作为教育环境背景了解。",
+          "whatToWatch": "接下来要看“首个国际职业教育标准北京协议以六种语言全文发布”是否补充执行细则、地方落地安排、时间节点或适用人群说明。"
+        },
+        "sourceLinks": [
+          {
+            "title": "教育部",
+            "url": "http://www.moe.gov.cn/jyb_xwfb/gzdt_gzdt/s5987/202611/t20261116_1458395.html",
+            "sourceId": "moe-cn",
+            "publishedAt": "2026-11-16T00:00:00+08:00",
+            "language": "zh",
+            "originalLanguage": "zh",
+            "translationStatus": "not-needed",
+            "fetchedAt": "2026-11-16T09:14:51.866Z",
+            "sourceMethod": "web",
+            "verificationStatus": "confirmed"
+          },
+          {
+            "title": "中国教育在线要闻",
+            "url": "https://www.eol.cn/news/zjyw/202611/t20261116_2794923.shtml",
+            "sourceId": "eol-education",
+            "publishedAt": "2026-11-16T00:00:00+08:00",
+            "language": "zh",
+            "originalLanguage": "zh",
+            "translationStatus": "not-needed",
+            "fetchedAt": "2026-11-16T09:14:52.665Z",
+            "sourceMethod": "web",
+            "verificationStatus": "pending"
+          }
+        ],
+        "images": [
+          {
+            "url": "http://www.moe.gov.cn/images/scy_jyb_lgo_03.png",
+            "sourceUrl": "http://www.moe.gov.cn/jyb_xwfb/gzdt_gzdt/s5987/202611/t20261116_1458395.html"
+          },
+          {
+            "url": "http://www.moe.gov.cn/images/red.png",
+            "sourceUrl": "http://www.moe.gov.cn/jyb_xwfb/gzdt_gzdt/s5987/202611/t20261116_1458395.html"
+          }
+        ],
+        "generatedAt": "2026-11-16T02:00:00.000Z"
+      },
+      {
+        "id": "draft-real-eol-education-1kdn8bq",
+        "title": "2027江西研考报名人数11.25万人",
+        "oneLine": "政策变化：会议指出，要深入学习贯彻党的二十届五中全会精神，贯彻落实教育部2027年全国硕士研究生招生考试安全工作视频会议部署，进一步提高政治站位，以更高标准、更严要求做好我省研究生招生考试安全工作，确保实现“平安研考”工作目标。",
+        "importance": "B",
+        "credibility": "待确认",
+        "tags": [
+          "B",
+          "industry",
+          "education",
+          "policy",
+          "china"
+        ],
+        "industries": [
+          "teacher",
+          "educationResearch",
+          "generalPublic"
+        ],
+        "section": "industry",
+        "body": {
+          "background": "会议强调，要强化保密管理，抓实全方位风险排查、全流程闭环管控，坚决守牢试题试卷安全防线;要强化综合治理，压实全链条责任，协同开展专项行动，严打高科技作弊，维护考试公平公正;要强化考务管理，整肃考风考纪，严明工作纪律，规范考务组织实施;要强化应急处置，完善预案、细化流程，稳妥高效处置各类突发偶发事件;要强化考生服务，扎实做好政策宣传解读，提供合理考试便利，用心用情做好服务保障，营造温馨有序的考试环境。合作邮箱：bianji@eol.cn 官方微信ID：eoleoleol 11月13日，江苏省召开2027年硕士研究生招生工作会议，全面部署2027年硕士研究生招生工作。副省长孙洪山出席并讲话，省政府副秘书长杜章彪、省教育厅厅长郑磊出席会议。",
+          "keyProgress": "据悉，2027年全国硕士研究生招生考试将于2026年12月19日至20日举行，江西省研考报名人数为11.25万人。② 本站注明稿件来源为其他媒体的文/图等稿件均为转载稿，本站转载出于非商业性的教育和科研之目的，并不意味着赞同其观点或证实其内容的真实性。如转载稿涉及版权等问题，请作者在两周内速来电或来函联系。",
+          "whyItMatters": "“2027江西研考报名人数11.25万人”可能影响学校治理、教师工作、课程安排或学生发展。教育从业者可以据此提前关注具体对象、地方执行方式和工作要求。",
+          "userRelevance": "如果你从事教师、教育研究或学校管理，可以重点关注“2027江西研考报名人数11.25万人”的具体对象、执行方式和地方落地节奏；其他用户可把它作为教育环境背景了解。",
+          "whatToWatch": "接下来要看“2027江西研考报名人数11.25万人”是否补充执行细则、地方落地安排、时间节点或适用人群说明。"
+        },
+        "sourceLinks": [
+          {
+            "title": "中国教育在线要闻",
+            "url": "https://www.eol.cn/news/yaowen/202611/t20261116_2795114.shtml",
+            "sourceId": "eol-education",
+            "publishedAt": "2026-11-16T00:00:00+08:00",
+            "language": "zh",
+            "originalLanguage": "zh",
+            "translationStatus": "not-needed",
+            "fetchedAt": "2026-11-16T09:14:52.665Z",
+            "sourceMethod": "web",
+            "verificationStatus": "pending"
+          }
+        ],
+        "images": [
+          {
+            "url": "https://www.eol.cn/images/ad/2017_img/arrow.png",
+            "sourceUrl": "https://www.eol.cn/news/yaowen/202611/t20261116_2795114.shtml"
+          },
+          {
+            "url": "https://www.eol.cn/images/ad/2017_img/phone.png",
+            "sourceUrl": "https://www.eol.cn/news/yaowen/202611/t20261116_2795114.shtml"
+          },
+          {
+            "url": "https://img.eol.cn/e_images/gk/2020/newzsgk.jpg",
+            "sourceUrl": "https://www.eol.cn/news/yaowen/202611/t20261116_2795114.shtml"
+          },
+          {
+            "url": "https://img.eol.cn/e_images/gk/2023/zsky2023.jpg",
+            "sourceUrl": "https://www.eol.cn/news/yaowen/202611/t20261116_2795114.shtml"
+          },
+          {
+            "url": "https://www.eol.cn/e_images/index/2018/acabridge.png",
+            "sourceUrl": "https://www.eol.cn/news/yaowen/202611/t20261116_2795114.shtml"
+          }
+        ],
+        "generatedAt": "2026-11-16T02:00:00.000Z"
+      }
+    ],
+    "estimatedReadMinutes": 24,
+    "pageCount": 3,
+    "topCardId": "draft-real-xinhua-world-w1me9o",
+    "generatedAt": "2026-11-16T02:00:00.000Z",
+    "pushSlots": [
+      "08:30",
+      "12:30",
+      "21:30"
+    ],
+    "edition": "morning",
+    "editionLabel": "晨报",
+    "coverageWindow": {
+      "start": "2026-11-15T00:00:00+08:00",
+      "end": "2026-11-16T10:00:00+08:00"
+    },
+    "editionCardIds": [
+      "draft-real-xinhua-world-w1me9o",
+      "draft-real-xinhua-world-kjhhrj",
+      "draft-real-xinhua-world-x230kk",
+      "draft-cluster-real-stats-cn-data-o0ut5z",
+      "draft-real-xinhua-world-qt2ywb",
+      "draft-real-xinhua-tech-py817b",
+      "draft-real-xinhua-tech-mqlzia",
+      "draft-real-xinhua-tech-tmsm2c",
+      "draft-real-stats-cn-data-1c96rh5",
+      "draft-cluster-real-stats-cn-data-3jjc5w",
+      "draft-real-cas-science-news-1qr55vp",
+      "draft-real-mohurd-construction-smihc7",
+      "draft-real-cas-science-news-160gzny",
+      "draft-real-xinhua-tech-1gnc9cr",
+      "draft-cluster-real-moe-cn-332vgt",
+      "draft-real-eol-education-1kdn8bq"
+    ],
+    "carriedCardIds": []
+  }
+}

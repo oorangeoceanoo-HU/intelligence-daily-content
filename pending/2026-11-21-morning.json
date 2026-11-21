@@ -1,0 +1,826 @@
+{
+  "schemaVersion": 2,
+  "publishedAt": "2026-11-21T02:00:00.000Z",
+  "issue": {
+    "id": "daily-public-2026-11-21",
+    "date": "2026-11-21",
+    "userId": "public",
+    "cards": [
+      {
+        "id": "draft-cluster-real-mofcom-trade-1h7ec0y",
+        "title": "中新（加坡）签署关于启动双边自贸协定4.0版升级谈判的谅解备忘录",
+        "oneLine": "政策变化：11月20日，商务部部长王文涛与新加坡副总理兼能源、贸易及工业部长颜金勇签署《关于启动中国—新加坡自由贸易协定4.0版升级谈判的谅解备忘录》。",
+        "importance": "S",
+        "credibility": "官方来源",
+        "tags": [
+          "S",
+          "industry",
+          "world",
+          "china",
+          "policy"
+        ],
+        "industries": [
+          "generalPublic",
+          "financeInvestment",
+          "operationsGrowth",
+          "ecommerceRetail",
+          "consumerBrand"
+        ],
+        "section": "industry",
+        "body": {
+          "background": "双方同意在中国—东盟自贸区、《区域全面经济伙伴关系协定》、中国—新加坡自贸协定及升级议定书基础上，进一步在政府采购、数字相关经贸规则等双方共同感兴趣的领域开展谈判，以期进一步扩大中新经贸合作，推动双边关系深化发展。中国—新加坡自贸协定于 2008 年 10 月签署，并于 2018 年 11 月、2023 年 12 月两次升级，总体实施情况良好，对推动双边经贸合作发展发挥了重要作用。学习宣传贯彻党的二十大精神 国家层面海外综合服务平台 提振消费专项行动 政策集成和综合解读专栏 优化营商环境-国际贸易专题 外资企业问题诉求收集办理 国际消费中心城市培育建设 丝路电商——电子商务国际合作 《区域全面经济伙伴关系协定》（RCEP） 市场运行与流通发展服务平台 2025年度网站工作年度报表",
+          "keyProgress": "中新（加坡）签署关于启动双边自贸协定4.0版升级谈判的谅解备忘录。商务部官方信息，用于确认关税、外贸、出口管制、跨境电商和对外经贸政策。",
+          "whyItMatters": "“中新签署关于启动双边自贸协定4.0版升级谈判的谅解备忘录”如果继续发展，可能通过能源价格、航运、贸易、汇率或市场预期传导到国内。了解它的意义在于判断后续风险，而不只停留在事件本身。",
+          "userRelevance": "即使你不在事发地区，“中新签署关于启动双边自贸协定4.0版升级谈判的谅解备忘录”也可能通过能源价格、国际航运、贸易成本和市场预期间接影响国内生活与工作判断。",
+          "whatToWatch": "接下来要看“中新签署关于启动双边自贸协定4.0版升级谈判的谅解备忘录”是否出现更细的城市、行业、平台或企业数据，以及这一变化能否连续保持。"
+        },
+        "sourceLinks": [
+          {
+            "title": "商务部新闻发布",
+            "url": "https://www.mofcom.gov.cn/xwfb/bldhd/art/2026/art_70e5e9b43c9f41628bb30aa22ebd09a5.html",
+            "sourceId": "mofcom-trade",
+            "publishedAt": "2026-11-20T00:00:00+08:00",
+            "language": "zh",
+            "originalLanguage": "zh",
+            "translationStatus": "not-needed",
+            "fetchedAt": "2026-11-21T09:26:04.466Z",
+            "sourceMethod": "web",
+            "verificationStatus": "confirmed"
+          },
+          {
+            "title": "商务部新闻发布",
+            "url": "https://www.mofcom.gov.cn/xwfb/bldhd/art/2026/art_ffd622793ef4418d9ed10e78c85b8913.html",
+            "sourceId": "mofcom-trade",
+            "publishedAt": "2026-11-20T00:00:00+08:00",
+            "language": "zh",
+            "originalLanguage": "zh",
+            "translationStatus": "not-needed",
+            "fetchedAt": "2026-11-21T09:26:04.466Z",
+            "sourceMethod": "web",
+            "verificationStatus": "confirmed"
+          }
+        ],
+        "images": [],
+        "generatedAt": "2026-11-21T02:00:00.000Z"
+      },
+      {
+        "id": "draft-real-xinhua-world-16jnj02",
+        "title": "日媒：日本研究引进核潜艇及为“无核三原则”设例外",
+        "oneLine": "政策变化：草案提出“启动研究”引进核动力潜艇问题，并允许在紧急情况下将核武器运进日本。",
+        "importance": "A",
+        "credibility": "主流媒体",
+        "tags": [
+          "A",
+          "mustKnow",
+          "industry",
+          "world",
+          "policy"
+        ],
+        "industries": [
+          "generalPublic",
+          "financeInvestment",
+          "operationsGrowth",
+          "contentCreator"
+        ],
+        "section": "front",
+        "body": {
+          "background": "据日本共同社20日报道，日本政府为年底修订“安保三文件”拟定的草案内容曝光。报道援引多名相关人士的话说，该草案设想在2027至2031财年期间启动引进核动力潜艇相关项目，并以“调查研究费”的名义安排必要预算。报道说，引进核动力潜艇和调整“无核三原则”相关表述是此次修订“安保三文件”的主要议题。",
+          "keyProgress": "草案一方面声称坚持这一原则，另一方面又明确写入允许在紧急情况下运进核武器的例外情况。报道称，日本政府高层主张拥有核动力潜艇，认为可在艇上搭载导弹垂直发射装置，将其作为实施所谓“强化反击能力”的手段之一。日本首相高市早苗10月14日在国会答辩中暗示，可能在今年年底修订《国家安全保障战略》等“安保三文件”时，调整其中有关“无核三原则”的表述。日本多个民间团体11月18日共同向日本外务省提交诉求书，要求政府坚持“无核三原则”，随后又于20日向防卫省递交由4.7万名日本民众联合签名的材料，反对日本拥有核动力潜艇，要求政府撤回相关计划。",
+          "whyItMatters": "“日媒：日本研究引进核潜艇及为无核三原则设例外”如果继续发展，可能通过能源价格、航运、贸易、汇率或市场预期传导到国内。了解它的意义在于判断后续风险，而不只停留在事件本身。",
+          "userRelevance": "即使你不在日本，“日媒：日本研究引进核潜艇及为无核三原则设例外”也可能通过能源价格、国际航运、贸易成本和市场预期间接影响国内生活与工作判断。",
+          "whatToWatch": "接下来要看“日媒：日本研究引进核潜艇及为无核三原则设例外”是否出现新的官方信息、后续行动，以及它与中国出行、贸易或公共判断的关联是否扩大。"
+        },
+        "sourceLinks": [
+          {
+            "title": "新华网国际",
+            "url": "https://www.news.cn/world/20261121/57304bf61c2640c58e9fe42d2495ef08/c.html",
+            "sourceId": "xinhua-world",
+            "publishedAt": "2026-11-21T00:00:00+08:00",
+            "language": "zh",
+            "originalLanguage": "zh",
+            "translationStatus": "not-needed",
+            "fetchedAt": "2026-11-21T09:26:01.745Z",
+            "sourceMethod": "web",
+            "verificationStatus": "confirmed"
+          }
+        ],
+        "images": [],
+        "generatedAt": "2026-11-21T02:00:00.000Z"
+      },
+      {
+        "id": "draft-real-xinhua-world-2hfrnc",
+        "title": "伊朗外长：伊方仍愿通过外交途径解决与美国的争端",
+        "oneLine": "最新进展：伊朗外长：伊方仍愿通过外交途径解决与美国的争端。",
+        "importance": "A",
+        "credibility": "主流媒体",
+        "tags": [
+          "A",
+          "mustKnow",
+          "industry",
+          "world",
+          "policy"
+        ],
+        "industries": [
+          "generalPublic",
+          "financeInvestment",
+          "operationsGrowth",
+          "contentCreator"
+        ],
+        "section": "front",
+        "body": {
+          "background": "据《伊朗报》21日报道，伊朗外交部长阿拉格齐近日在接受该报专访时表示，伊朗仍希望通过外交途径解决与美国之间的争端。伊方仍对外交抱有希望，希望通过谈判达成“能够防止战事重演的持久、最终协议”，但不会接受一项“使对方能够宣称取得胜利”的协议。阿拉格齐还说，伊方此前通过斡旋方向美方提出“两天方案”，即若美国在第一天履行相关承诺，伊方在第二天就开放霍尔木兹海峡。",
+          "keyProgress": "鉴于此，伊方首先要求美方明确宣布愿意达成协议，并采取必要措施建立信任。该方案目前仍然有效，如果美方认真寻求达成协议，仍可将其作为推动谈判的基础。他说，伊方愿就有关条款的具体执行方式、时间表等进行谈判，甚至可以将原来“两天方案”中的时限进一步缩短至一天或两小时，但前提是伊方要求得到满足。” 在核问题上，阿拉格齐表示，伊方已明确划定红线，即有关核材料不得运出伊朗，且必须根据伊朗自身需求加以使用。",
+          "whyItMatters": "“伊朗外长：伊方仍愿通过外交途径解决与美国的争端”如果继续发展，可能通过能源价格、航运、贸易、汇率或市场预期传导到国内。了解它的意义在于判断后续风险，而不只停留在事件本身。",
+          "userRelevance": "即使你不在美国、伊朗，“伊朗外长：伊方仍愿通过外交途径解决与美国的争端”也可能通过能源价格、国际航运、贸易成本和市场预期间接影响国内生活与工作判断。",
+          "whatToWatch": "接下来要看“伊朗外长：伊方仍愿通过外交途径解决与美国的争端”是否出现新的官方信息、后续行动，以及它与中国出行、贸易或公共判断的关联是否扩大。"
+        },
+        "sourceLinks": [
+          {
+            "title": "新华网国际",
+            "url": "https://www.news.cn/world/20261121/2e0ac66d512742868a163fb4cd2f597d/c.html",
+            "sourceId": "xinhua-world",
+            "publishedAt": "2026-11-21T00:00:00+08:00",
+            "language": "zh",
+            "originalLanguage": "zh",
+            "translationStatus": "not-needed",
+            "fetchedAt": "2026-11-21T09:26:01.745Z",
+            "sourceMethod": "web",
+            "verificationStatus": "confirmed"
+          }
+        ],
+        "images": [],
+        "generatedAt": "2026-11-21T02:00:00.000Z"
+      },
+      {
+        "id": "draft-real-xinhua-world-i8kx",
+        "title": "埃森科特：若组建执政联盟失败将寻求建立“紧急政府”",
+        "oneLine": "政策变化：以色列正直党领导人加迪·埃森科特20日通过社交媒体发表声明说，如果与利库德集团或犹太宗教政党组建执政联盟的谈判失败，他将推动组建“国家紧急政府”。",
+        "importance": "A",
+        "credibility": "主流媒体",
+        "tags": [
+          "A",
+          "mustKnow",
+          "industry",
+          "world",
+          "policy"
+        ],
+        "industries": [
+          "generalPublic",
+          "financeInvestment",
+          "operationsGrowth",
+          "contentCreator"
+        ],
+        "section": "front",
+        "body": {
+          "background": "埃森科特称，他过去一周会见了多名以色列政党领导人，共同探讨组建新政府的途径，包括与犹太宗教政党组建联盟、与看守政府总理内塔尼亚胡领导的利库德集团组建联盟或组建“国家紧急政府”。这一提议此前遭到包括“以色列是我们的家园”党领导人阿维格多·利伯曼在内的部分埃森科特政治盟友反对。报道指出，“少数派政府”长期依赖外部支持，容易陷入施政受限、内部不和的困境，甚至面临垮台风险。",
+          "keyProgress": "据以色列媒体报道，组建“国家紧急政府”的方案可能是建立一个以反对派阵营四大政党联盟为基础的“少数派政府”。其中，与犹太宗教政党的谈判需确保满足以色列国防军兵役人力需求；利库德集团公开表态与实际行动之间存在巨大差距，但他仍将继续努力寻求达成协议。埃森科特说，如果组建多数派执政联盟的尝试失败，他将寻求组建一个“国家紧急政府”，并致力扩大其规模。",
+          "whyItMatters": "“埃森科特：若组建执政联盟失败将寻求建立紧急政府”如果继续发展，可能通过能源价格、航运、贸易、汇率或市场预期传导到国内。了解它的意义在于判断后续风险，而不只停留在事件本身。",
+          "userRelevance": "即使你不在事发地区，“埃森科特：若组建执政联盟失败将寻求建立紧急政府”也可能通过能源价格、国际航运、贸易成本和市场预期间接影响国内生活与工作判断。",
+          "whatToWatch": "接下来要看“埃森科特：若组建执政联盟失败将寻求建立紧急政府”是否出现新的官方信息、后续行动，以及它与中国出行、贸易或公共判断的关联是否扩大。"
+        },
+        "sourceLinks": [
+          {
+            "title": "新华网国际",
+            "url": "https://www.news.cn/world/20261121/940ea07a524141c8af71a8912fad7a63/c.html",
+            "sourceId": "xinhua-world",
+            "publishedAt": "2026-11-21T00:00:00+08:00",
+            "language": "zh",
+            "originalLanguage": "zh",
+            "translationStatus": "not-needed",
+            "fetchedAt": "2026-11-21T09:26:01.745Z",
+            "sourceMethod": "web",
+            "verificationStatus": "confirmed"
+          }
+        ],
+        "images": [],
+        "generatedAt": "2026-11-21T02:00:00.000Z"
+      },
+      {
+        "id": "draft-real-xinhua-world-w61lxb",
+        "title": "也门媒体：过去24小时沙特空袭造成至少41人死亡",
+        "oneLine": "政策变化：视台20日报道，在过去24小时里，沙特阿拉伯在也门各地发动的空袭造成至少41人死亡，其中包括11名儿童和7名妇女。",
+        "importance": "A",
+        "credibility": "主流媒体",
+        "tags": [
+          "A",
+          "mustKnow",
+          "industry",
+          "world",
+          "policy"
+        ],
+        "industries": [
+          "generalPublic",
+          "financeInvestment",
+          "operationsGrowth",
+          "contentCreator"
+        ],
+        "section": "front",
+        "body": {
+          "background": "自冲突升级以来，总死亡人数已达到438人，另有924人受伤。2014年，胡塞武装夺取萨那，也门政府被迫迁至南部城市亚丁。2015年，沙特主导的多国联军介入也门冲突，支持也门政府打击胡塞武装。",
+          "keyProgress": "与此同时，胡塞武装与沙特支持的也门政府军在多条战线的交火也日趋激烈。",
+          "whyItMatters": "“也门媒体：过去24小时沙特空袭造成至少41人死亡”如果继续发展，可能通过能源价格、航运、贸易、汇率或市场预期传导到国内。了解它的意义在于判断后续风险，而不只停留在事件本身。",
+          "userRelevance": "即使你不在沙特、也门，“也门媒体：过去24小时沙特空袭造成至少41人死亡”也可能通过能源价格、国际航运、贸易成本和市场预期间接影响国内生活与工作判断。",
+          "whatToWatch": "接下来要看“也门媒体：过去24小时沙特空袭造成至少41人死亡”是否出现新的官方信息、后续行动，以及它与中国出行、贸易或公共判断的关联是否扩大。"
+        },
+        "sourceLinks": [
+          {
+            "title": "新华网国际",
+            "url": "https://www.news.cn/world/20261121/10804b27c6314d239c0a32c1be77b3f3/c.html",
+            "sourceId": "xinhua-world",
+            "publishedAt": "2026-11-21T00:00:00+08:00",
+            "language": "zh",
+            "originalLanguage": "zh",
+            "translationStatus": "not-needed",
+            "fetchedAt": "2026-11-21T09:26:01.745Z",
+            "sourceMethod": "web",
+            "verificationStatus": "confirmed"
+          }
+        ],
+        "images": [],
+        "generatedAt": "2026-11-21T02:00:00.000Z"
+      },
+      {
+        "id": "draft-real-xinhua-world-1dnpmm3",
+        "title": "数万名日本民众签名反对日本拥有核潜艇",
+        "oneLine": "政策变化：日本多个民间团体20日向防卫省递交由4.7万名日本民众联合签名的材料，反对日本拥有核动力潜艇，要求政府撤回相关计划。",
+        "importance": "B",
+        "credibility": "主流媒体",
+        "tags": [
+          "B",
+          "mustKnow",
+          "industry",
+          "world",
+          "policy"
+        ],
+        "industries": [
+          "generalPublic",
+          "financeInvestment",
+          "operationsGrowth",
+          "contentCreator"
+        ],
+        "section": "front",
+        "body": {
+          "background": "此次联合签名活动的声明指出，日本作为唯一遭受过原子弹轰炸的国家，一直宣称有责任推动废除核武器，而拥有核动力潜艇无异于主动背弃这一承诺。记者从民间团体方面获悉，此次联合签名活动由“日本原子力资料情报室”等民间机构和组织共同发起，在约一个月时间内就征集到4.7万人签名。在递交联署材料后的记者会上，民间团体代表表示，日本政府一方面探讨引进核动力潜艇，另一方面又试图为“无核三原则”中“不运进”一项设置例外情况，这一系列相互关联的政策变化，可能从根本上改变日本作为无核武器国家的定位。",
+          "keyProgress": "另据日本媒体近期报道，日本政府正考虑在年内修订“安保三文件”中的《国家安全保障战略》时，对“无核三原则”设置例外情况，允许在紧急情况下将核武器运进日本。日本防卫大臣小泉进次郎多次表示，在讨论引进核动力潜艇问题时“不排除任何选项”。今年10月，日本首相高市早苗在国会表示，将就自卫队引进核潜艇展开“具体且现实的讨论”。",
+          "whyItMatters": "“数万名日本民众签名反对日本拥有核潜艇”如果继续发展，可能通过能源价格、航运、贸易、汇率或市场预期传导到国内。了解它的意义在于判断后续风险，而不只停留在事件本身。",
+          "userRelevance": "即使你不在日本，“数万名日本民众签名反对日本拥有核潜艇”也可能通过能源价格、国际航运、贸易成本和市场预期间接影响国内生活与工作判断。",
+          "whatToWatch": "接下来要看“数万名日本民众签名反对日本拥有核潜艇”是否出现新的官方信息、后续行动，以及它与中国出行、贸易或公共判断的关联是否扩大。"
+        },
+        "sourceLinks": [
+          {
+            "title": "新华网国际",
+            "url": "https://www.news.cn/world/20261120/8fc435e051104b8086e0228015376aa5/c.html",
+            "sourceId": "xinhua-world",
+            "publishedAt": "2026-11-20T00:00:00+08:00",
+            "language": "zh",
+            "originalLanguage": "zh",
+            "translationStatus": "not-needed",
+            "fetchedAt": "2026-11-21T09:26:01.745Z",
+            "sourceMethod": "web",
+            "verificationStatus": "confirmed"
+          }
+        ],
+        "images": [],
+        "generatedAt": "2026-11-21T02:00:00.000Z"
+      },
+      {
+        "id": "draft-cluster-real-city-news-rss:%E4%B8%AD%E5%9B%BD-%E4%B8%8A%E6%B5%B7-16d1ao1",
+        "title": "助力上海“五个中心”建设 市人大常委会会议表决通过5件法规和决定等 2026-11-21 今日上海",
+        "oneLine": "政策变化：《上海市开发区条例》贯彻落实中央部署和市委要求，支持保障开发区管理体制改革和服务能级提升，支持开发区率先在改革开放重要领域和关键环节创新探索、先行先试，助力上海&ldquo;五个中心&rdquo;建设和经济社会高质量发展。",
+        "importance": "B",
+        "credibility": "待确认",
+        "tags": [
+          "B",
+          "industry",
+          "local",
+          "policy",
+          "china"
+        ],
+        "industries": [
+          "localLife",
+          "generalPublic",
+          "operationsGrowth"
+        ],
+        "section": "local",
+        "body": {
+          "background": "受市人大常委会主任黄莉新委托，市人大常委会副主任郑钢淼主持全体会议。市十六届人大常委会第三十五次会议昨天闭会，表决通过《上海市开发区条例》等5件法规和决定，表决通过人事任免事项并举行宪法宣誓仪式。《上海市促进浦东新区商事调解规定》聚焦司法服务保障、商事调解组织发展、涉外服务能力提升等方面深化制度创新，助力打造国际商事纠纷解决优选地。",
+          "keyProgress": "《上海市促进科技成果转化条例》完善职务科技成果赋权、单列管理等改革事项法治支持，增设&ldquo;科技成果供给&rdquo;专章，助力上海（长三角）国际科技创新中心建设。会议指出，要深入学习贯彻党的二十届五中全会精神和习近平党建思想，深刻把握持之以恒推进全面从严治党的重大意义、指导思想、重大原则和任务举措，以高质量党建引领和推动新征程上海人大工作高质量发展。《上海市促进都市现代农业发展若干规定》聚力发展科技农业、绿色农业、质量农业、品牌农业，构建都市现代农业产业体系，为率先实现农业农村现代化提供法治保障。《上海市出租汽车条例》加强出租汽车管理，保障各方合法权益，促进出租汽车行业高质量发展。",
+          "whyItMatters": "“助力上海五个中心建设 市人大常委会会议表决通过5件法规和决定等 2026-11-21 今日上”可能改变个人办事、出行、公共服务或行业规则。提前确认适用范围和生效时间，可以减少信息滞后带来的判断偏差。",
+          "userRelevance": "作为中国居民，你需要留意“助力上海五个中心建设 市人大常委会会议表决通过5件法规和决定等 2026-11-21 今日上”是否改变办事、出行或公共服务规则；如果你从事本地生活、运营增长，还应关注行业执行细则。",
+          "whatToWatch": "接下来要看“助力上海五个中心建设 市人大常委会会议表决通过5件法规和决定等 2026-11-21 今日上”是否补充执行细则、地方落地安排、时间节点或适用人群说明。"
+        },
+        "sourceLinks": [
+          {
+            "title": "直辖市·上海本地公开信息",
+            "url": "https://www.shanghai.gov.cn/nw4411/20261121/eb556754c5a241b1ad553f27dc92bccf.html",
+            "sourceId": "city-news-rss:%E4%B8%AD%E5%9B%BD-%E4%B8%8A%E6%B5%B7",
+            "publishedAt": "2026-11-21T00:00:00+08:00",
+            "language": "zh",
+            "originalLanguage": "zh",
+            "translationStatus": "not-needed",
+            "fetchedAt": "2026-11-21T09:28:19.605Z",
+            "sourceMethod": "web",
+            "verificationStatus": "pending"
+          },
+          {
+            "title": "直辖市·上海本地公开信息",
+            "url": "https://www.shanghai.gov.cn/nw4411/20261121/10b57103189743beb21bdcb37c91e97c.html",
+            "sourceId": "city-news-rss:%E4%B8%AD%E5%9B%BD-%E4%B8%8A%E6%B5%B7",
+            "publishedAt": "2026-11-21T00:00:00+08:00",
+            "language": "zh",
+            "originalLanguage": "zh",
+            "translationStatus": "not-needed",
+            "fetchedAt": "2026-11-21T09:28:19.605Z",
+            "sourceMethod": "web",
+            "verificationStatus": "pending"
+          },
+          {
+            "title": "直辖市·上海本地公开信息",
+            "url": "https://www.shanghai.gov.cn/nw4411/20261121/fac8a14a1a0642e9a5f288e76abf45d3.html",
+            "sourceId": "city-news-rss:%E4%B8%AD%E5%9B%BD-%E4%B8%8A%E6%B5%B7",
+            "publishedAt": "2026-11-21T00:00:00+08:00",
+            "language": "zh",
+            "originalLanguage": "zh",
+            "translationStatus": "not-needed",
+            "fetchedAt": "2026-11-21T09:28:19.605Z",
+            "sourceMethod": "web",
+            "verificationStatus": "pending"
+          }
+        ],
+        "images": [],
+        "generatedAt": "2026-11-21T02:00:00.000Z"
+      },
+      {
+        "id": "draft-real-xinhua-tech-1qsyq3x",
+        "title": "我国将加快5G工厂建设 加强6G与工业融合前瞻研究",
+        "oneLine": "趋势信号：建成工业5G专网2.7万个，培育卓越级智能工厂750余家，领航级智能工厂49家，建成5G工厂1260家……记者从11月19日开幕的2026中国5G+工业互联网大会上获悉，当前我国“5G+工业互联网”正处在深化融合创新、规模化推广应用的关键阶段。",
+        "importance": "B",
+        "credibility": "主流媒体",
+        "tags": [
+          "B",
+          "industry",
+          "technology",
+          "ai",
+          "product"
+        ],
+        "industries": [
+          "technologyEngineering",
+          "educationResearch",
+          "aiProduct",
+          "aiTechnology",
+          "productManagement",
+          "operationsGrowth"
+        ],
+        "section": "ai",
+        "body": {
+          "background": "工业和信息化部将深入实施智能工厂梯度培育行动，支持领军企业建设领航级智能工厂，有序开展5G独立专网试点，加快5G工厂建设，启动新一批“5G+工业互联网”融合应用城市试点，加强6G与工业融合的前瞻研究。今年6月，工业和信息化部等八部门印发的《关于推动工业互联网高质量发展的实施意见》提出到2030年的发展目标，包括建设5万张工业5G专网、打造5个左右具有国际影响力的综合型平台、工业互联网核心产业增加值突破2.5万亿元等；据介绍，以人工智能为代表的新一代信息技术加速与各行业深度融合，对工业互联网网络、数据质量、平台调度等提出了新的更高的要求。",
+          "keyProgress": "当下，5G+工业互联网进入小批量、多品种、需求快速变化的阶段，柔性响应需求凸显，AI成为重要解决方案。如今，AI Agent能够理解工业知识，参与图纸拆解、工艺规划、生产排程等核心决策，并通过多智能体协同，实现生产决策的动态优化。浪潮云洲展区内，工作人员向记者介绍，人工智能时代，工业互联网平台由以连接为核心的基础设施，全面转向以价值创造为核心的智能中枢，“AI+工业互联网平台”成为工业赋能新范式。面对新的趋势，企业聚焦流程制造、离散制造等领域实现从单点智能到产业全域智能，已打造15个垂域大模型、43个行业智能体，未来加快工业互联网平台与大模型、智能体融合发展是布局重点。",
+          "whyItMatters": "“我国将加快5G工厂建设 加强6G与工业融合前瞻研究”能帮助你判断这项能力是否已经进入工程、产品或商业场景，并据此调整技术选型、产品规划、学习重点或职业判断。",
+          "userRelevance": "如果你从事技术研发、教育研究、AI 产品、AI 技术，可以重点判断“我国将加快5G工厂建设 加强6G与工业融合前瞻研究”是否已经具备产品落地、技术选型或业务合作价值。",
+          "whatToWatch": "接下来要看“我国将加快5G工厂建设 加强6G与工业融合前瞻研究”是否有更多可靠来源、量产或应用进展，以及它会不会从单点消息发展成持续趋势。"
+        },
+        "sourceLinks": [
+          {
+            "title": "新华网科技",
+            "url": "https://www.news.cn/tech/20261120/2243dc69a0334f379ba228e2afa49e55/c.html",
+            "sourceId": "xinhua-tech",
+            "publishedAt": "2026-11-20T00:00:00+08:00",
+            "language": "zh",
+            "originalLanguage": "zh",
+            "translationStatus": "not-needed",
+            "fetchedAt": "2026-11-21T09:26:01.876Z",
+            "sourceMethod": "web",
+            "verificationStatus": "confirmed"
+          }
+        ],
+        "images": [],
+        "generatedAt": "2026-11-21T02:00:00.000Z"
+      },
+      {
+        "id": "draft-cluster-real-cac-cn-16ahucc",
+        "title": "关于对《网络安全标识 消费类智能门锁安全要求》等3项网络安全标准实践指南公开征求意见的通知",
+        "oneLine": "政策变化：根据《全国网络安全标准化技术委员会〈网络安全标准实践指南〉文件管理办法》要求，秘书处现组织对《网络安全标识 消费类智能门锁安全要求》等3项网络安全标准实践指南面向社会公开征求意见。",
+        "importance": "B",
+        "credibility": "官方来源",
+        "tags": [
+          "B",
+          "industry",
+          "policy",
+          "china",
+          "operations"
+        ],
+        "industries": [
+          "contentCreator",
+          "generalPublic",
+          "operationsGrowth",
+          "productManagement"
+        ],
+        "section": "industry",
+        "body": {
+          "background": "如有意见或建议，请于2026年12月20日前反馈至秘书处。网安秘字〔2026〕132号 为推动《网络安全标识管理办法》落地实施，提升产品的网络安全能力，加强消费者权益保护，维护网络安全和公共利益，秘书处组织编制了《网络安全标识 消费类智能门锁安全要求》《网络安全标识 智能音箱安全要求》《网络安全标识 儿童智能手表安全要求》等3项网络安全标准实践指南征求意见稿。联系人：李霂琦 010-64102777 limq@cesi.cn 附件：3项网络安全标准实践指南征求意见稿文本 全国网络安全标准化技术委员会秘书处 网络安全标准实践指南——网络安全标识 消费类智能门锁安全要求（征求意见稿） 网络安全标准实践指南——网络安全标识 智能音箱安全要求（征求意见稿） 网络安全标准实践指南——网络安全标识 儿童智能手表安全要求（征。",
+          "keyProgress": "关于对《网络安全标识 消费类智能门锁安全要求》等3项网络安全标准实践指南公开征求意见的通知。关于对《网络安全标识 消费类智能门锁安全要求》等3项网络安全标准实践指南公开征求意见的通知",
+          "whyItMatters": "“关于对网络安全标识 消费类智能门锁安全要求等3项网络安全标准实践指南公开征求意见的通知”可能改变个人办事、出行、公共服务或行业规则。提前确认适用范围和生效时间，可以减少信息滞后带来的判断偏差。",
+          "userRelevance": "作为中国居民，你需要留意“关于对网络安全标识 消费类智能门锁安全要求等3项网络安全标准实践指南公开征求意见的通知”是否改变办事、出行或公共服务规则；如果你从事内容创作、运营增长、产品管理，还应关注行业执行细则。",
+          "whatToWatch": "接下来要看“关于对网络安全标识 消费类智能门锁安全要求等3项网络安全标准实践指南公开征求意见的通知”是否出现更细的城市、行业、平台或企业数据，以及这一变化能否连续保持。"
+        },
+        "sourceLinks": [
+          {
+            "title": "中央网信办 / 国家网信办",
+            "url": "https://www.cac.gov.cn/2026-11/20/c_1796931128243078.htm",
+            "sourceId": "cac-cn",
+            "publishedAt": "2026-11-20T00:00:00+08:00",
+            "language": "zh",
+            "originalLanguage": "zh",
+            "translationStatus": "not-needed",
+            "fetchedAt": "2026-11-21T09:26:01.350Z",
+            "sourceMethod": "web",
+            "verificationStatus": "confirmed"
+          },
+          {
+            "title": "中央网信办 / 国家网信办",
+            "url": "https://www.cac.gov.cn/2026-11/20/c_1796931132798351.htm",
+            "sourceId": "cac-cn",
+            "publishedAt": "2026-11-20T00:00:00+08:00",
+            "language": "zh",
+            "originalLanguage": "zh",
+            "translationStatus": "not-needed",
+            "fetchedAt": "2026-11-21T09:26:01.350Z",
+            "sourceMethod": "web",
+            "verificationStatus": "confirmed"
+          }
+        ],
+        "images": [],
+        "generatedAt": "2026-11-21T02:00:00.000Z"
+      },
+      {
+        "id": "draft-real-cas-science-news-5w351n",
+        "title": "中国科学院2026年“关键小事”调研攻关成果交流评选活动在京举办",
+        "oneLine": "最新进展：中国科学院2026年“关键小事”调研攻关成果交流评选活动在京举办。",
+        "importance": "B",
+        "credibility": "官方来源",
+        "tags": [
+          "B",
+          "industry",
+          "technology",
+          "education"
+        ],
+        "industries": [
+          "technologyEngineering",
+          "educationResearch"
+        ],
+        "section": "industry",
+        "body": {
+          "background": "各青年理论学习小组展示了前期初评遴选的42篇“关键小事”调研攻关成果，内容涵盖科研组织管理、科研范式变革、人才人事、青年工作、科研诚信、学生培养等方面，交流了坚持问题导向与目标导向精准选题、扎实开展调研的情况，提出了发展好建议、改革好点子，分享了参与调研攻关活动的实践收获与体会。中国科学院团委连续三年开展“关键小事”调研攻关活动以来，各单位以青年理论学习小组为主体组织年轻干部、青年科技骨干积极参与，形成多篇调研报告，很多建议举措已落地运用。11月17日，中国科学院2026年“关键小事”调研攻关成果交流评选活动在京举办，院机关有关部门负责同志、部分机关党委委员和院属单位党委负责同志担任评委。",
+          "keyProgress": "活动已成为强化青年政治引领的重要载体，加强青年实践锻炼的有力举措，推动党建工作与业务工作同向发力、同步推进、同台联动、同责共担的有效途径。机关党委副书记王晓虹对调研攻关成果作点评总结。下一步，院团委将坚持党建带团建，持续深化“关键小事”调研攻关，在以高质量党建促进高质量科技创新中展现新担当新作为。",
+          "whyItMatters": "“中国科学院2026年关键小事调研攻关成果交流评选活动在京举办”提供了一个具体的研究进展信号。它是否重要，要看实验指标、可复现性、开源材料和真实应用，而不能只看论文标题。",
+          "userRelevance": "如果你从事科研、工程或正在攻读相关学位，可以重点查看“中国科学院2026年关键小事调研攻关成果交流评选活动在京举办”的实验条件、指标和可复现性；其他用户可把它作为技术趋势背景了解。",
+          "whatToWatch": "接下来要看“中国科学院2026年关键小事调研攻关成果交流评选活动在京举办”是否公开论文全文、代码或完整实验条件，以及是否得到独立复现和实际应用。"
+        },
+        "sourceLinks": [
+          {
+            "title": "中国科学院科研动态",
+            "url": "https://www.cas.cn/djcx/gz/202611/t20261120_5124727.shtml",
+            "sourceId": "cas-science-news",
+            "publishedAt": "2026-11-20T00:00:00+08:00",
+            "language": "zh",
+            "originalLanguage": "zh",
+            "translationStatus": "not-needed",
+            "fetchedAt": "2026-11-21T09:25:59.694Z",
+            "sourceMethod": "web",
+            "verificationStatus": "confirmed"
+          }
+        ],
+        "images": [
+          {
+            "url": "https://www.cas.cn/djcx/gz/202611/W020261120612194399557.jpg",
+            "sourceUrl": "https://www.cas.cn/djcx/gz/202611/t20261120_5124727.shtml"
+          }
+        ],
+        "generatedAt": "2026-11-21T02:00:00.000Z"
+      },
+      {
+        "id": "draft-cluster-real-chrm-mohrss-1xq18w1",
+        "title": "重庆市 渝东北10区县发布569名高层次人才需求 一批创新平台集中揭牌",
+        "oneLine": "最新进展：重庆市 渝东北10区县发布569名高层次人才需求 一批创新平台集中揭牌。",
+        "importance": "B",
+        "credibility": "官方来源",
+        "tags": [
+          "B",
+          "industry",
+          "hr",
+          "policy",
+          "china"
+        ],
+        "industries": [
+          "hrRecruiting",
+          "generalPublic",
+          "teacher"
+        ],
+        "section": "industry",
+        "body": {
+          "background": "本届人才节集中发布人才需求清单、推出技术攻关榜单、揭牌高能级创新平台、签署产学研合作项目，并邀请院士专家开展主旨演讲，全方位集聚人才与创新资源，为渝东北三峡库区城镇群高质量发展赋能。重庆三峡融媒体中心记者 侯本艳 供图 活动现场正式发布《渝东北10区县2027年高层次人才和急需紧缺人才需求目录》。在“揭榜挂帅”科技项目发布环节，大会集中推出44项科技攻关榜单，发榜总金额达1.386亿元。",
+          "keyProgress": "校地合作“朋友圈”进一步扩容，首次大规模对接北京大学、清华大学等30余所高校，推动创新成果与库区应用场景深度结合，实现从“成果找落地”向“场景引人才”的转变。会上，院士专家围绕新材料、绿色低碳、大健康等领域作主旨报告，重点聚焦国家级科研平台成果与库区产业需求对接、前沿科技赋能库区绿色低碳转型、监管科学推动健康产业落地等方向，为三峡库区产业升级和高质量发展提供智力支撑。▲重庆国际人才交流大会·第四届重庆三峡人才节开幕式现场。据统计，渝东北10区县176家用人单位集中推出岗位519个，人才总需求1137人。",
+          "whyItMatters": "“重庆市 渝东北10区县发布569名高层次人才需求 一批创新平台集中揭牌”可能影响招聘节奏、人才供给、就业服务或用工判断。对 HR、招聘、求职和关注城市人才政策的人更有参考价值。",
+          "userRelevance": "如果你从事 HR、招聘或求职相关工作，可以重点关注“重庆市 渝东北10区县发布569名高层次人才需求 一批创新平台集中揭牌”涉及的岗位要求、人才供给和地方执行安排；其他用户可把它作为就业环境背景了解。",
+          "whatToWatch": "接下来要看“重庆市 渝东北10区县发布569名高层次人才需求 一批创新平台集中揭牌”是否补充执行细则、地方落地安排、时间节点或适用人群说明。"
+        },
+        "sourceLinks": [
+          {
+            "title": "中国人力资源市场网",
+            "url": "https://chrm.mohrss.gov.cn/announcement/%e6%b8%9d%e4%b8%9c%e5%8c%9710%e5%8c%ba%e5%8e%bf%e5%8f%91%e5%b8%83569%e5%90%8d%e9%ab%98%e5%b1%82%e6%ac%a1%e4%ba%ba%e6%89%8d%e9%9c%80%e6%b1%82-%e4%b8%80%e6%89%b9%e5%88%9b%e6%96%b0%e5%b9%b3%e5%8f%b0/",
+            "sourceId": "chrm-mohrss",
+            "publishedAt": "2026-11-20T00:00:00+08:00",
+            "language": "zh",
+            "originalLanguage": "zh",
+            "translationStatus": "not-needed",
+            "fetchedAt": "2026-11-21T09:26:12.687Z",
+            "sourceMethod": "web",
+            "verificationStatus": "confirmed"
+          },
+          {
+            "title": "中国人力资源市场网",
+            "url": "https://chrm.mohrss.gov.cn/announcement/%e6%b8%9d%e4%b8%9c%e5%8c%9710%e5%8c%ba%e5%8e%bf%e9%ab%98%e5%b1%82%e6%ac%a1%e4%ba%ba%e6%89%8d%e5%92%8c%e6%80%a5%e9%9c%80%e7%b4%a7%e7%bc%ba%e4%ba%ba%e6%89%8d%e9%9c%80%e6%b1%82%e7%9b%ae%e5%bd%95%e5%8f%91/",
+            "sourceId": "chrm-mohrss",
+            "publishedAt": "2026-11-20T00:00:00+08:00",
+            "language": "zh",
+            "originalLanguage": "zh",
+            "translationStatus": "not-needed",
+            "fetchedAt": "2026-11-21T09:26:12.687Z",
+            "sourceMethod": "web",
+            "verificationStatus": "confirmed"
+          }
+        ],
+        "images": [],
+        "generatedAt": "2026-11-21T02:00:00.000Z"
+      },
+      {
+        "id": "draft-real-chrm-mohrss-f6awxn",
+        "title": "四川省“15+N”重点产业建圈强链人才需求目录",
+        "oneLine": "政策变化：今年，由我厅立项，会同省建圈强链办、各链长办等，委托成都理工大学，首次编制“15+N”重点产业建圈强链人才需求目录（2026年），重点调查1621家产业链企业，准确掌握654类人才需求岗位，在此基础上，构建“人才需求指数”，划分重、中、轻3个程度进行量化分析，认定其中重度需求117类、中度287类。",
+        "importance": "B",
+        "credibility": "官方来源",
+        "tags": [
+          "B",
+          "industry",
+          "hr",
+          "policy",
+          "china"
+        ],
+        "industries": [
+          "hrRecruiting",
+          "generalPublic",
+          "teacher"
+        ],
+        "section": "industry",
+        "body": {
+          "background": "四川省人力资源和社会保障厅 附件： 四川省“15+N”重点产业链建圈强链人才需求目录（2026）.pdf",
+          "keyProgress": "四川省“15+N”重点产业建圈强链人才需求目录。四川省“15+N”重点产业建圈强链人才需求目录",
+          "whyItMatters": "“四川省15+N重点产业建圈强链人才需求目录”可能影响招聘节奏、人才供给、就业服务或用工判断。对 HR、招聘、求职和关注城市人才政策的人更有参考价值。",
+          "userRelevance": "如果你从事 HR、招聘或求职相关工作，可以重点关注“四川省15+N重点产业建圈强链人才需求目录”涉及的岗位要求、人才供给和地方执行安排；其他用户可把它作为就业环境背景了解。",
+          "whatToWatch": "接下来要看“四川省15+N重点产业建圈强链人才需求目录”是否补充执行细则、地方落地安排、时间节点或适用人群说明。"
+        },
+        "sourceLinks": [
+          {
+            "title": "中国人力资源市场网",
+            "url": "https://chrm.mohrss.gov.cn/announcement/%e5%9b%9b%e5%b7%9d%e7%9c%8115n%e9%87%8d%e7%82%b9%e4%ba%a7%e4%b8%9a%e5%bb%ba%e5%9c%88%e5%bc%ba%e9%93%be%e4%ba%ba%e6%89%8d%e9%9c%80%e6%b1%82%e7%9b%ae%e5%bd%95/",
+            "sourceId": "chrm-mohrss",
+            "publishedAt": "2026-11-20T00:00:00+08:00",
+            "language": "zh",
+            "originalLanguage": "zh",
+            "translationStatus": "not-needed",
+            "fetchedAt": "2026-11-21T09:26:12.687Z",
+            "sourceMethod": "web",
+            "verificationStatus": "confirmed"
+          }
+        ],
+        "images": [],
+        "generatedAt": "2026-11-21T02:00:00.000Z"
+      },
+      {
+        "id": "draft-real-eol-education-7l6fbt",
+        "title": "中国科学技术大学牛谦教授获2027年度巴克利奖",
+        "oneLine": "最新进展：中国科学技术大学牛谦教授获2027年度巴克利奖。",
+        "importance": "B",
+        "credibility": "待确认",
+        "tags": [
+          "B",
+          "industry",
+          "education",
+          "policy",
+          "china"
+        ],
+        "industries": [
+          "teacher",
+          "educationResearch",
+          "generalPublic"
+        ],
+        "section": "industry",
+        "body": {
+          "background": "合作邮箱：bianji@eol.cn 官方微信ID：eoleoleol 北京时间2026年11月19日，美国物理学会(American Physical Society)官网公布2027年度奥利弗·E·巴克利凝聚态物理奖获奖名单(2027 Oliver E. Buckley Condensed Matter Physics Prize)， 中国科学技术大学教授牛谦 与美国罗格斯大学教授David Vanderbilt共同获得。2008年受聘北京大学客座教授，2021年受聘中国科大杰出讲席教授。获奖理由为：因在量子几何、贝里相位效应以及固体中的拓扑量子相方面的开创性理论贡献，彻底改变了我们的理解。",
+          "keyProgress": "巴克利奖被视为国际凝聚态物理领域的最高奖。该奖于1952年设立，由美国电话电报公司贝尔实验室(AT&T Bell Laboratories)捐赠，奖金为2万美元。1953年，巴克利奖首次授奖，此后每年颁发一次，通常授予一人，但也可以由多人共享。巴克利奖由美国物理学会每年颁发，旨在表彰和鼓励领域内的杰出理论或实验贡献，评选标准强调必须是凝聚态物理领域“最重要”的贡献。",
+          "whyItMatters": "“中国科学技术大学牛谦教授获2027年度巴克利奖”可能影响学校治理、教师工作、课程安排或学生发展。教育从业者可以据此提前关注具体对象、地方执行方式和工作要求。",
+          "userRelevance": "如果你从事教师、教育研究或学校管理，可以重点关注“中国科学技术大学牛谦教授获2027年度巴克利奖”的具体对象、执行方式和地方落地节奏；其他用户可把它作为教育环境背景了解。",
+          "whatToWatch": "接下来要看“中国科学技术大学牛谦教授获2027年度巴克利奖”是否补充执行细则、地方落地安排、时间节点或适用人群说明。"
+        },
+        "sourceLinks": [
+          {
+            "title": "中国教育在线要闻",
+            "url": "https://www.eol.cn/news/dongtai/202611/t20261120_2797164.shtml",
+            "sourceId": "eol-education",
+            "publishedAt": "2026-11-20T00:00:00+08:00",
+            "language": "zh",
+            "originalLanguage": "zh",
+            "translationStatus": "not-needed",
+            "fetchedAt": "2026-11-21T09:26:08.578Z",
+            "sourceMethod": "web",
+            "verificationStatus": "pending"
+          }
+        ],
+        "images": [
+          {
+            "url": "https://www.eol.cn/images/ad/2017_img/arrow.png",
+            "sourceUrl": "https://www.eol.cn/news/dongtai/202611/t20261120_2797164.shtml"
+          },
+          {
+            "url": "https://www.eol.cn/images/ad/2017_img/phone.png",
+            "sourceUrl": "https://www.eol.cn/news/dongtai/202611/t20261120_2797164.shtml"
+          },
+          {
+            "url": "https://img.eol.cn/e_images/gk/2020/newzsgk.jpg",
+            "sourceUrl": "https://www.eol.cn/news/dongtai/202611/t20261120_2797164.shtml"
+          },
+          {
+            "url": "https://img.eol.cn/e_images/gk/2023/zsky2023.jpg",
+            "sourceUrl": "https://www.eol.cn/news/dongtai/202611/t20261120_2797164.shtml"
+          },
+          {
+            "url": "https://www.eol.cn/e_images/index/2018/acabridge.png",
+            "sourceUrl": "https://www.eol.cn/news/dongtai/202611/t20261120_2797164.shtml"
+          }
+        ],
+        "generatedAt": "2026-11-21T02:00:00.000Z"
+      },
+      {
+        "id": "draft-real-eol-education-srp434",
+        "title": "吉利控股集团董事长李书福：筹办芯位大学",
+        "oneLine": "政策变化：合作邮箱：bianji@eol.cn 官方微信ID：eoleoleol 11月20日，由吉利人才发展集团发起并主办的高等教育领域国际性论坛——2026年芯位教育论坛在海南三亚举行。",
+        "importance": "B",
+        "credibility": "待确认",
+        "tags": [
+          "B",
+          "industry",
+          "education",
+          "policy",
+          "china"
+        ],
+        "industries": [
+          "teacher",
+          "educationResearch",
+          "generalPublic"
+        ],
+        "section": "industry",
+        "body": {
+          "background": "此前，11月10日，国家发展改革委奋进“十五五”系列新闻发布会，国家发展改革委社会发展司副司长黄玮茹表示：“我们还将支持有条件的地方新建若干所新型研究型大学。吉利控股集团董事长李书福发表了题为《人才培养体系创新与大学能力结构重塑》的主旨演讲。李书福认为，当前世界正面临新型全球化与地缘政治挑战，为此吉利作为全球化企业“在确保全球合规经营的前提下，必须尽快培养新型全球化人才”。",
+          "keyProgress": "李书福透露，吉利旗下芯位科技筹备建设芯位大学，由吉利人才集团支持其本、硕、博学科建设，吉利控股集团将全面开放产业应用场景，建设高水平全球型新型研究型大学。“吉利控股集团将协同芯位大学面向全球招生，因地制宜为吉利培养世界各国的本土化人才，根据吉利在全球不同国家的不同项目，规划招生规模、生源质量、录取流程、专业方向及培养层次，为吉利控股在全球业务发展培养新型全球化人才”。李书福介绍，吉利旗下芯位科技就是人工智能时代产生的教育界科技企业，芯位科技筹备建设的芯位大学是非盈利公益性大学，芯位大学是人工智能时代的产物，主动对接人工智能科技，主动拥抱人工智能时代，主动融入人工智能文明。李书福透露，芯位大学正在探索人工智能时代与大学创新发展的现实可行性，“人工智能时代与三个校园组合”的教育培养理念是芯位大学可持续发展的成长路径，吉利人才集团支持芯位大学本、硕、博学科建设，支持芯位大学以人工智能科技为抓手，发展新型研究型大学，吉利控股集团向芯位大学全面开放应用场景，支持芯位大学建设高水平全球型新型研究型大学。",
+          "whyItMatters": "“吉利控股集团董事长李书福：筹办芯位大学”可能影响学校治理、教师工作、课程安排或学生发展。教育从业者可以据此提前关注具体对象、地方执行方式和工作要求。",
+          "userRelevance": "如果你从事教师、教育研究或学校管理，可以重点关注“吉利控股集团董事长李书福：筹办芯位大学”的具体对象、执行方式和地方落地节奏；其他用户可把它作为教育环境背景了解。",
+          "whatToWatch": "接下来要看“吉利控股集团董事长李书福：筹办芯位大学”是否补充执行细则、地方落地安排、时间节点或适用人群说明。"
+        },
+        "sourceLinks": [
+          {
+            "title": "中国教育在线要闻",
+            "url": "https://www.eol.cn/news/yaowen/202611/t20261120_2797112.shtml",
+            "sourceId": "eol-education",
+            "publishedAt": "2026-11-20T00:00:00+08:00",
+            "language": "zh",
+            "originalLanguage": "zh",
+            "translationStatus": "not-needed",
+            "fetchedAt": "2026-11-21T09:26:08.578Z",
+            "sourceMethod": "web",
+            "verificationStatus": "pending"
+          }
+        ],
+        "images": [
+          {
+            "url": "https://www.eol.cn/images/ad/2017_img/arrow.png",
+            "sourceUrl": "https://www.eol.cn/news/yaowen/202611/t20261120_2797112.shtml"
+          },
+          {
+            "url": "https://www.eol.cn/images/ad/2017_img/phone.png",
+            "sourceUrl": "https://www.eol.cn/news/yaowen/202611/t20261120_2797112.shtml"
+          },
+          {
+            "url": "https://img.eol.cn/e_images/gk/2020/newzsgk.jpg",
+            "sourceUrl": "https://www.eol.cn/news/yaowen/202611/t20261120_2797112.shtml"
+          },
+          {
+            "url": "https://img.eol.cn/e_images/gk/2023/zsky2023.jpg",
+            "sourceUrl": "https://www.eol.cn/news/yaowen/202611/t20261120_2797112.shtml"
+          },
+          {
+            "url": "https://www.eol.cn/e_images/index/2018/acabridge.png",
+            "sourceUrl": "https://www.eol.cn/news/yaowen/202611/t20261120_2797112.shtml"
+          }
+        ],
+        "generatedAt": "2026-11-21T02:00:00.000Z"
+      },
+      {
+        "id": "draft-real-eol-education-12xef5e",
+        "title": "北京信息科技大学领导班子调整",
+        "oneLine": "政策变化：合作邮箱：bianji@eol.cn 官方微信ID：eoleoleol 近日，北京信息科技大学召开党委常委会，校党委书记解江凌宣布北京市委市政府决定， 滕继辉同志任北京信息科技大学党委常委、纪委书记；",
+        "importance": "B",
+        "credibility": "待确认",
+        "tags": [
+          "B",
+          "industry",
+          "education",
+          "policy",
+          "china"
+        ],
+        "industries": [
+          "teacher",
+          "educationResearch",
+          "generalPublic"
+        ],
+        "section": "industry",
+        "body": {
+          "background": "罗洪斌同志任北京信息科技大学党委常委、副校长 。公开资料显示，滕继辉，女，汉族，1972年3月生，中共党员，研究生学历，法学硕士，政工师。曾任北京市纪委市监委派驻市委教育工委纪检监察组副组长，北京第二外国语学院党委常委、纪委书记等职务。",
+          "keyProgress": "2026年10月，任北京信息科技大学党委常委、纪委书记。学校官网介绍，罗洪斌，男，汉族，1977年1月出生，北京信息科技大学党委常委、副校长。负责发展战略规划工作、高教研究工作、外事工作(港澳台事务工作)、信息化建设工作、留学生工作，分管发展战略与规划处、高教研究室、全球事务处、学校港澳台事务办公室、信息与网络管理中心、国际交流学院，联系计算机学院(软件学院)、伊利诺伊工程学院。北京信息科技大学是北京市重点支持建设的高校，是一所信息类学科齐全、信息特色鲜明，以本科、研究生教育为主体的多科性大学。",
+          "whyItMatters": "“北京信息科技大学领导班子调整”可能影响学校治理、教师工作、课程安排或学生发展。教育从业者可以据此提前关注具体对象、地方执行方式和工作要求。",
+          "userRelevance": "如果你从事教师、教育研究或学校管理，可以重点关注“北京信息科技大学领导班子调整”的具体对象、执行方式和地方落地节奏；其他用户可把它作为教育环境背景了解。",
+          "whatToWatch": "接下来要看“北京信息科技大学领导班子调整”是否补充执行细则、地方落地安排、时间节点或适用人群说明。"
+        },
+        "sourceLinks": [
+          {
+            "title": "中国教育在线要闻",
+            "url": "https://www.eol.cn/news/dongtai/gxrs/202611/t20261120_2796970.shtml",
+            "sourceId": "eol-education",
+            "publishedAt": "2026-11-20T00:00:00+08:00",
+            "language": "zh",
+            "originalLanguage": "zh",
+            "translationStatus": "not-needed",
+            "fetchedAt": "2026-11-21T09:26:08.578Z",
+            "sourceMethod": "web",
+            "verificationStatus": "pending"
+          }
+        ],
+        "images": [
+          {
+            "url": "https://www.eol.cn/images/ad/2017_img/arrow.png",
+            "sourceUrl": "https://www.eol.cn/news/dongtai/gxrs/202611/t20261120_2796970.shtml"
+          },
+          {
+            "url": "https://www.eol.cn/images/ad/2017_img/phone.png",
+            "sourceUrl": "https://www.eol.cn/news/dongtai/gxrs/202611/t20261120_2796970.shtml"
+          },
+          {
+            "url": "https://img.eol.cn/e_images/gk/2020/newzsgk.jpg",
+            "sourceUrl": "https://www.eol.cn/news/dongtai/gxrs/202611/t20261120_2796970.shtml"
+          },
+          {
+            "url": "https://img.eol.cn/e_images/gk/2023/zsky2023.jpg",
+            "sourceUrl": "https://www.eol.cn/news/dongtai/gxrs/202611/t20261120_2796970.shtml"
+          },
+          {
+            "url": "https://www.eol.cn/e_images/index/2018/acabridge.png",
+            "sourceUrl": "https://www.eol.cn/news/dongtai/gxrs/202611/t20261120_2796970.shtml"
+          }
+        ],
+        "generatedAt": "2026-11-21T02:00:00.000Z"
+      }
+    ],
+    "estimatedReadMinutes": 25,
+    "pageCount": 3,
+    "topCardId": "draft-cluster-real-mofcom-trade-1h7ec0y",
+    "generatedAt": "2026-11-21T02:00:00.000Z",
+    "pushSlots": [
+      "08:30",
+      "12:30",
+      "21:30"
+    ],
+    "edition": "morning",
+    "editionLabel": "晨报",
+    "coverageWindow": {
+      "start": "2026-11-20T00:00:00+08:00",
+      "end": "2026-11-21T10:00:00+08:00"
+    },
+    "editionCardIds": [
+      "draft-cluster-real-mofcom-trade-1h7ec0y",
+      "draft-real-xinhua-world-16jnj02",
+      "draft-real-xinhua-world-2hfrnc",
+      "draft-real-xinhua-world-i8kx",
+      "draft-real-xinhua-world-w61lxb",
+      "draft-real-xinhua-world-1dnpmm3",
+      "draft-cluster-real-city-news-rss:%E4%B8%AD%E5%9B%BD-%E4%B8%8A%E6%B5%B7-16d1ao1",
+      "draft-real-xinhua-tech-1qsyq3x",
+      "draft-cluster-real-cac-cn-16ahucc",
+      "draft-real-cas-science-news-5w351n",
+      "draft-cluster-real-chrm-mohrss-1xq18w1",
+      "draft-real-chrm-mohrss-f6awxn",
+      "draft-real-eol-education-7l6fbt",
+      "draft-real-eol-education-srp434",
+      "draft-real-eol-education-12xef5e"
+    ],
+    "carriedCardIds": []
+  }
+}

@@ -1,76 +1,107 @@
 {
   "schemaVersion": 2,
-  "publishedAt": "2026-11-21T02:00:00.000Z",
+  "publishedAt": "2026-11-22T02:00:00.000Z",
   "issue": {
-    "id": "daily-public-2026-11-21",
-    "date": "2026-11-21",
+    "id": "daily-public-2026-11-22",
+    "date": "2026-11-22",
     "userId": "public",
     "cards": [
       {
-        "id": "draft-cluster-real-mofcom-trade-1h7ec0y",
-        "title": "中新（加坡）签署关于启动双边自贸协定4.0版升级谈判的谅解备忘录",
-        "oneLine": "政策变化：11月20日，商务部部长王文涛与新加坡副总理兼能源、贸易及工业部长颜金勇签署《关于启动中国—新加坡自由贸易协定4.0版升级谈判的谅解备忘录》。",
-        "importance": "S",
-        "credibility": "官方来源",
+        "id": "draft-real-xinhua-world-2z16wo",
+        "title": "伊美军事冲突持续 双方表态愿谈判达成协议",
+        "oneLine": "最新进展：伊美军事冲突持续 双方表态愿谈判达成协议。",
+        "importance": "A",
+        "credibility": "主流媒体",
         "tags": [
-          "S",
+          "A",
+          "mustKnow",
           "industry",
           "world",
-          "china",
           "policy"
         ],
         "industries": [
           "generalPublic",
           "financeInvestment",
           "operationsGrowth",
-          "ecommerceRetail",
-          "consumerBrand"
+          "contentCreator"
         ],
-        "section": "industry",
+        "section": "front",
         "body": {
-          "background": "双方同意在中国—东盟自贸区、《区域全面经济伙伴关系协定》、中国—新加坡自贸协定及升级议定书基础上，进一步在政府采购、数字相关经贸规则等双方共同感兴趣的领域开展谈判，以期进一步扩大中新经贸合作，推动双边关系深化发展。中国—新加坡自贸协定于 2008 年 10 月签署，并于 2018 年 11 月、2023 年 12 月两次升级，总体实施情况良好，对推动双边经贸合作发展发挥了重要作用。学习宣传贯彻党的二十大精神 国家层面海外综合服务平台 提振消费专项行动 政策集成和综合解读专栏 优化营商环境-国际贸易专题 外资企业问题诉求收集办理 国际消费中心城市培育建设 丝路电商——电子商务国际合作 《区域全面经济伙伴关系协定》（RCEP） 市场运行与流通发展服务平台 2025年度网站工作年度报表",
-          "keyProgress": "中新（加坡）签署关于启动双边自贸协定4.0版升级谈判的谅解备忘录。商务部官方信息，用于确认关税、外贸、出口管制、跨境电商和对外经贸政策。",
-          "whyItMatters": "“中新签署关于启动双边自贸协定4.0版升级谈判的谅解备忘录”如果继续发展，可能通过能源价格、航运、贸易、汇率或市场预期传导到国内。了解它的意义在于判断后续风险，而不只停留在事件本身。",
-          "userRelevance": "即使你不在事发地区，“中新签署关于启动双边自贸协定4.0版升级谈判的谅解备忘录”也可能通过能源价格、国际航运、贸易成本和市场预期间接影响国内生活与工作判断。",
-          "whatToWatch": "接下来要看“中新签署关于启动双边自贸协定4.0版升级谈判的谅解备忘录”是否出现更细的城市、行业、平台或企业数据，以及这一变化能否连续保持。"
+          "background": "近日，伊朗与美国持续发生军事冲突，伊朗称袭击美国在巴林境内的两处基地防空雷达，并击落美军无人机。革命卫队公布的行动视频显示，革命卫队发射了多架无人机。另据伊朗伊斯兰共和国广播电视台21日报道，伊朗军方当天发表声明说，伊朗防空部队20日晚在波斯湾上空拦截一架F-16战斗机并致其受损，迫使其紧急降落。",
+          "keyProgress": "伊朗正与包括卡塔尔在内的调解方保持接触，探讨能否再次推动外交途径解决与美国之间的冲突问题。只要美国能够满足该计划的条件，双方就能推动相关进程向前发展。加里巴巴迪表示，伊美目前尚未启动谈判。只要伊朗的要求在谈判中得到满足，“霍尔木兹海峡就会开放”。",
+          "whyItMatters": "“伊美军事冲突持续 双方表态愿谈判达成协议”如果继续发展，可能通过能源价格、航运、贸易、汇率或市场预期传导到国内。了解它的意义在于判断后续风险，而不只停留在事件本身。",
+          "userRelevance": "即使你不在事发地区，“伊美军事冲突持续 双方表态愿谈判达成协议”也可能通过能源价格、国际航运、贸易成本和市场预期间接影响国内生活与工作判断。",
+          "whatToWatch": "接下来要看“伊美军事冲突持续 双方表态愿谈判达成协议”是否出现新的官方信息、后续行动，以及它与中国出行、贸易或公共判断的关联是否扩大。"
         },
         "sourceLinks": [
           {
-            "title": "商务部新闻发布",
-            "url": "https://www.mofcom.gov.cn/xwfb/bldhd/art/2026/art_70e5e9b43c9f41628bb30aa22ebd09a5.html",
-            "sourceId": "mofcom-trade",
-            "publishedAt": "2026-11-20T00:00:00+08:00",
+            "title": "新华网国际",
+            "url": "https://www.news.cn/world/20261122/cea4d1a84b914143bad0d8e024b88258/c.html",
+            "sourceId": "xinhua-world",
+            "publishedAt": "2026-11-22T00:00:00+08:00",
             "language": "zh",
             "originalLanguage": "zh",
             "translationStatus": "not-needed",
-            "fetchedAt": "2026-11-21T09:26:04.466Z",
-            "sourceMethod": "web",
-            "verificationStatus": "confirmed"
-          },
-          {
-            "title": "商务部新闻发布",
-            "url": "https://www.mofcom.gov.cn/xwfb/bldhd/art/2026/art_ffd622793ef4418d9ed10e78c85b8913.html",
-            "sourceId": "mofcom-trade",
-            "publishedAt": "2026-11-20T00:00:00+08:00",
-            "language": "zh",
-            "originalLanguage": "zh",
-            "translationStatus": "not-needed",
-            "fetchedAt": "2026-11-21T09:26:04.466Z",
+            "fetchedAt": "2026-11-22T09:31:28.866Z",
             "sourceMethod": "web",
             "verificationStatus": "confirmed"
           }
         ],
         "images": [],
-        "generatedAt": "2026-11-21T02:00:00.000Z"
+        "generatedAt": "2026-11-22T02:00:00.000Z"
       },
       {
-        "id": "draft-real-xinhua-world-16jnj02",
-        "title": "日媒：日本研究引进核潜艇及为“无核三原则”设例外",
-        "oneLine": "政策变化：草案提出“启动研究”引进核动力潜艇问题，并允许在紧急情况下将核武器运进日本。",
+        "id": "draft-real-xinhua-world-16my29k",
+        "title": "伊朗总统：正进行的经济战远比军事冲突“更为艰难”",
+        "oneLine": "政策变化：据伊朗伊斯兰共和国通讯社21日报道，伊朗总统佩泽希齐扬当天表示，伊朗正卷入一场“无声”的经济战，这场战争远比军事冲突“更为艰难”。",
         "importance": "A",
         "credibility": "主流媒体",
         "tags": [
           "A",
+          "mustKnow",
+          "industry",
+          "world",
+          "policy"
+        ],
+        "industries": [
+          "generalPublic",
+          "financeInvestment",
+          "operationsGrowth",
+          "contentCreator"
+        ],
+        "section": "front",
+        "body": {
+          "background": "此外，伊朗内政部副部长阿里·泽尼万德21日在德黑兰举行的新闻发布会上说，美国对伊朗实施了海上封锁、陆路和空中限制，但这些限制未能阻断伊朗的贸易往来。他说，伊朗此前与邻国暂时关闭边境，并未对伊朗的边境贸易造成严重干扰。佩泽希齐扬在德黑兰出席一场会议时指出，敌人曾企图在伊朗制造饥荒并导致国内市场物资短缺，但未能得逞，伊朗的生产活动仍在继续。",
+          "keyProgress": "佩泽希齐扬说，伊朗的安全和军事力量已作出强有力回应。他呼吁全国在面对“敌人的入侵和不对等战争”时进一步加强团结与凝聚力。伊朗内政部正与周边国家进行磋商，跟进边境和贸易相关事宜，希望解决现有问题。",
+          "whyItMatters": "“伊朗总统：正进行的经济战远比军事冲突更为艰难”如果继续发展，可能通过能源价格、航运、贸易、汇率或市场预期传导到国内。了解它的意义在于判断后续风险，而不只停留在事件本身。",
+          "userRelevance": "即使你不在伊朗，“伊朗总统：正进行的经济战远比军事冲突更为艰难”也可能通过能源价格、国际航运、贸易成本和市场预期间接影响国内生活与工作判断。",
+          "whatToWatch": "接下来要看“伊朗总统：正进行的经济战远比军事冲突更为艰难”是否出现新的官方信息、后续行动，以及它与中国出行、贸易或公共判断的关联是否扩大。"
+        },
+        "sourceLinks": [
+          {
+            "title": "新华网国际",
+            "url": "https://www.news.cn/world/20261122/b839cb066b744febb6ca83f4071cbf1e/c.html",
+            "sourceId": "xinhua-world",
+            "publishedAt": "2026-11-22T00:00:00+08:00",
+            "language": "zh",
+            "originalLanguage": "zh",
+            "translationStatus": "not-needed",
+            "fetchedAt": "2026-11-22T09:31:28.866Z",
+            "sourceMethod": "web",
+            "verificationStatus": "confirmed"
+          }
+        ],
+        "images": [],
+        "generatedAt": "2026-11-22T02:00:00.000Z"
+      },
+      {
+        "id": "draft-real-xinhua-world-15zobm4",
+        "title": "日媒：日本研究引进核潜艇及为“无核三原则”设例外",
+        "oneLine": "政策变化：草案提出“启动研究”引进核动力潜艇问题，并允许在紧急情况下将核武器运进日本。",
+        "importance": "B",
+        "credibility": "主流媒体",
+        "tags": [
+          "B",
           "mustKnow",
           "industry",
           "world",
@@ -99,22 +130,22 @@
             "language": "zh",
             "originalLanguage": "zh",
             "translationStatus": "not-needed",
-            "fetchedAt": "2026-11-21T09:26:01.745Z",
+            "fetchedAt": "2026-11-22T09:31:28.866Z",
             "sourceMethod": "web",
             "verificationStatus": "confirmed"
           }
         ],
         "images": [],
-        "generatedAt": "2026-11-21T02:00:00.000Z"
+        "generatedAt": "2026-11-22T02:00:00.000Z"
       },
       {
         "id": "draft-real-xinhua-world-2hfrnc",
         "title": "伊朗外长：伊方仍愿通过外交途径解决与美国的争端",
         "oneLine": "最新进展：伊朗外长：伊方仍愿通过外交途径解决与美国的争端。",
-        "importance": "A",
+        "importance": "B",
         "credibility": "主流媒体",
         "tags": [
-          "A",
+          "B",
           "mustKnow",
           "industry",
           "world",
@@ -143,22 +174,22 @@
             "language": "zh",
             "originalLanguage": "zh",
             "translationStatus": "not-needed",
-            "fetchedAt": "2026-11-21T09:26:01.745Z",
+            "fetchedAt": "2026-11-22T09:31:28.866Z",
             "sourceMethod": "web",
             "verificationStatus": "confirmed"
           }
         ],
         "images": [],
-        "generatedAt": "2026-11-21T02:00:00.000Z"
+        "generatedAt": "2026-11-22T02:00:00.000Z"
       },
       {
         "id": "draft-real-xinhua-world-i8kx",
         "title": "埃森科特：若组建执政联盟失败将寻求建立“紧急政府”",
         "oneLine": "政策变化：以色列正直党领导人加迪·埃森科特20日通过社交媒体发表声明说，如果与利库德集团或犹太宗教政党组建执政联盟的谈判失败，他将推动组建“国家紧急政府”。",
-        "importance": "A",
+        "importance": "B",
         "credibility": "主流媒体",
         "tags": [
-          "A",
+          "B",
           "mustKnow",
           "industry",
           "world",
@@ -187,22 +218,22 @@
             "language": "zh",
             "originalLanguage": "zh",
             "translationStatus": "not-needed",
-            "fetchedAt": "2026-11-21T09:26:01.745Z",
+            "fetchedAt": "2026-11-22T09:31:28.866Z",
             "sourceMethod": "web",
             "verificationStatus": "confirmed"
           }
         ],
         "images": [],
-        "generatedAt": "2026-11-21T02:00:00.000Z"
+        "generatedAt": "2026-11-22T02:00:00.000Z"
       },
       {
-        "id": "draft-real-xinhua-world-w61lxb",
+        "id": "draft-real-xinhua-world-wq0tb9",
         "title": "也门媒体：过去24小时沙特空袭造成至少41人死亡",
         "oneLine": "政策变化：视台20日报道，在过去24小时里，沙特阿拉伯在也门各地发动的空袭造成至少41人死亡，其中包括11名儿童和7名妇女。",
-        "importance": "A",
+        "importance": "B",
         "credibility": "主流媒体",
         "tags": [
-          "A",
+          "B",
           "mustKnow",
           "industry",
           "world",
@@ -231,62 +262,18 @@
             "language": "zh",
             "originalLanguage": "zh",
             "translationStatus": "not-needed",
-            "fetchedAt": "2026-11-21T09:26:01.745Z",
+            "fetchedAt": "2026-11-22T09:31:28.866Z",
             "sourceMethod": "web",
             "verificationStatus": "confirmed"
           }
         ],
         "images": [],
-        "generatedAt": "2026-11-21T02:00:00.000Z"
+        "generatedAt": "2026-11-22T02:00:00.000Z"
       },
       {
-        "id": "draft-real-xinhua-world-1dnpmm3",
-        "title": "数万名日本民众签名反对日本拥有核潜艇",
-        "oneLine": "政策变化：日本多个民间团体20日向防卫省递交由4.7万名日本民众联合签名的材料，反对日本拥有核动力潜艇，要求政府撤回相关计划。",
-        "importance": "B",
-        "credibility": "主流媒体",
-        "tags": [
-          "B",
-          "mustKnow",
-          "industry",
-          "world",
-          "policy"
-        ],
-        "industries": [
-          "generalPublic",
-          "financeInvestment",
-          "operationsGrowth",
-          "contentCreator"
-        ],
-        "section": "front",
-        "body": {
-          "background": "此次联合签名活动的声明指出，日本作为唯一遭受过原子弹轰炸的国家，一直宣称有责任推动废除核武器，而拥有核动力潜艇无异于主动背弃这一承诺。记者从民间团体方面获悉，此次联合签名活动由“日本原子力资料情报室”等民间机构和组织共同发起，在约一个月时间内就征集到4.7万人签名。在递交联署材料后的记者会上，民间团体代表表示，日本政府一方面探讨引进核动力潜艇，另一方面又试图为“无核三原则”中“不运进”一项设置例外情况，这一系列相互关联的政策变化，可能从根本上改变日本作为无核武器国家的定位。",
-          "keyProgress": "另据日本媒体近期报道，日本政府正考虑在年内修订“安保三文件”中的《国家安全保障战略》时，对“无核三原则”设置例外情况，允许在紧急情况下将核武器运进日本。日本防卫大臣小泉进次郎多次表示，在讨论引进核动力潜艇问题时“不排除任何选项”。今年10月，日本首相高市早苗在国会表示，将就自卫队引进核潜艇展开“具体且现实的讨论”。",
-          "whyItMatters": "“数万名日本民众签名反对日本拥有核潜艇”如果继续发展，可能通过能源价格、航运、贸易、汇率或市场预期传导到国内。了解它的意义在于判断后续风险，而不只停留在事件本身。",
-          "userRelevance": "即使你不在日本，“数万名日本民众签名反对日本拥有核潜艇”也可能通过能源价格、国际航运、贸易成本和市场预期间接影响国内生活与工作判断。",
-          "whatToWatch": "接下来要看“数万名日本民众签名反对日本拥有核潜艇”是否出现新的官方信息、后续行动，以及它与中国出行、贸易或公共判断的关联是否扩大。"
-        },
-        "sourceLinks": [
-          {
-            "title": "新华网国际",
-            "url": "https://www.news.cn/world/20261120/8fc435e051104b8086e0228015376aa5/c.html",
-            "sourceId": "xinhua-world",
-            "publishedAt": "2026-11-20T00:00:00+08:00",
-            "language": "zh",
-            "originalLanguage": "zh",
-            "translationStatus": "not-needed",
-            "fetchedAt": "2026-11-21T09:26:01.745Z",
-            "sourceMethod": "web",
-            "verificationStatus": "confirmed"
-          }
-        ],
-        "images": [],
-        "generatedAt": "2026-11-21T02:00:00.000Z"
-      },
-      {
-        "id": "draft-cluster-real-city-news-rss:%E4%B8%AD%E5%9B%BD-%E4%B8%8A%E6%B5%B7-16d1ao1",
-        "title": "助力上海“五个中心”建设 市人大常委会会议表决通过5件法规和决定等 2026-11-21 今日上海",
-        "oneLine": "政策变化：《上海市开发区条例》贯彻落实中央部署和市委要求，支持保障开发区管理体制改革和服务能级提升，支持开发区率先在改革开放重要领域和关键环节创新探索、先行先试，助力上海&ldquo;五个中心&rdquo;建设和经济社会高质量发展。",
+        "id": "draft-real-city-news-rss:%E4%B8%AD%E5%9B%BD-%E4%B8%8A%E6%B5%B7-1y6erxh",
+        "title": "创业社区靠什么留住“超级个体” 政策红利、生态资源一站兑现 阿里亲橙超级创业者社区二期开业出租率即达96% 2026-11-22 今日上海",
+        "oneLine": "最新进展：创业社区靠什么留住“超级个体” 政策红利、生态资源一站兑现 阿里亲橙超级创业者社区二期开业出租率即达96% 2026-11-22 今日上海。",
         "importance": "B",
         "credibility": "待确认",
         "tags": [
@@ -303,496 +290,510 @@
         ],
         "section": "local",
         "body": {
-          "background": "受市人大常委会主任黄莉新委托，市人大常委会副主任郑钢淼主持全体会议。市十六届人大常委会第三十五次会议昨天闭会，表决通过《上海市开发区条例》等5件法规和决定，表决通过人事任免事项并举行宪法宣誓仪式。《上海市促进浦东新区商事调解规定》聚焦司法服务保障、商事调解组织发展、涉外服务能力提升等方面深化制度创新，助力打造国际商事纠纷解决优选地。",
-          "keyProgress": "《上海市促进科技成果转化条例》完善职务科技成果赋权、单列管理等改革事项法治支持，增设&ldquo;科技成果供给&rdquo;专章，助力上海（长三角）国际科技创新中心建设。会议指出，要深入学习贯彻党的二十届五中全会精神和习近平党建思想，深刻把握持之以恒推进全面从严治党的重大意义、指导思想、重大原则和任务举措，以高质量党建引领和推动新征程上海人大工作高质量发展。《上海市促进都市现代农业发展若干规定》聚力发展科技农业、绿色农业、质量农业、品牌农业，构建都市现代农业产业体系，为率先实现农业农村现代化提供法治保障。《上海市出租汽车条例》加强出租汽车管理，保障各方合法权益，促进出租汽车行业高质量发展。",
-          "whyItMatters": "“助力上海五个中心建设 市人大常委会会议表决通过5件法规和决定等 2026-11-21 今日上”可能改变个人办事、出行、公共服务或行业规则。提前确认适用范围和生效时间，可以减少信息滞后带来的判断偏差。",
-          "userRelevance": "作为中国居民，你需要留意“助力上海五个中心建设 市人大常委会会议表决通过5件法规和决定等 2026-11-21 今日上”是否改变办事、出行或公共服务规则；如果你从事本地生活、运营增长，还应关注行业执行细则。",
-          "whatToWatch": "接下来要看“助力上海五个中心建设 市人大常委会会议表决通过5件法规和决定等 2026-11-21 今日上”是否补充执行细则、地方落地安排、时间节点或适用人群说明。"
+          "background": "位于徐汇西岸的阿里亲橙超级创业者社区（Y/OUR SPACE）上海徐汇站二期日前启幕，开业出租率即达96%。落地西岸的这处社区，在徐汇区科委、龙华街道、西岸科创公司的支持下，精准聚焦大模型与智能体普及背景下崛起的OPC创业者群体。一方面，徐汇区已发布12条举措，为创业者保驾护航，涵盖工位费补贴、财务代理等专业综合服务第一年全免、最高10万元创业启动资金、算力先用后付、投融资支持等。",
+          "keyProgress": "一年多以前，亲橙超级创业者社区一期在阿里巴巴徐汇滨江园区试运营，至今已服务242支创业团队，目前留存的团队有159支，其中九成以上仍在从事AI相关业务，有26家企业从单人工位升级到独立办公室或更大的产业空间。在走进全国25座城市、建立32个创业站点后，超级创业者社区已链接和服务超过1万名创业者。从入驻企业结构看，社区一期和二期的产业赛道各有侧重：一期偏向已具备一定业务形态、需要生态资源加持的成长型团队，创业团队聚焦&ldquo;AI+电商&rdquo;&ldquo;AI+营销&rdquo;以及智能体开发，去年11月一期基本满租，入驻率一直保持在95%左右；新开业的二期更聚焦技术驱动的早期开发者，关注AI消费与服务创新。",
+          "whyItMatters": "“创业社区靠什么留住超级个体 政策红利、生态资源一站兑现 阿里亲橙超级创业者社区二期开业出租率”可能改变个人办事、出行、公共服务或行业规则。提前确认适用范围和生效时间，可以减少信息滞后带来的判断偏差。",
+          "userRelevance": "作为中国居民，你需要留意“创业社区靠什么留住超级个体 政策红利、生态资源一站兑现 阿里亲橙超级创业者社区二期开业出租率”是否改变办事、出行或公共服务规则；如果你从事本地生活、运营增长，还应关注行业执行细则。",
+          "whatToWatch": "接下来要看“创业社区靠什么留住超级个体 政策红利、生态资源一站兑现 阿里亲橙超级创业者社区二期开业出租率”是否补充执行细则、地方落地安排、时间节点或适用人群说明。"
         },
         "sourceLinks": [
           {
             "title": "直辖市·上海本地公开信息",
-            "url": "https://www.shanghai.gov.cn/nw4411/20261121/eb556754c5a241b1ad553f27dc92bccf.html",
+            "url": "https://www.shanghai.gov.cn/nw4411/20261122/830a69b6f3fb4f79a2b224006d15b77f.html",
             "sourceId": "city-news-rss:%E4%B8%AD%E5%9B%BD-%E4%B8%8A%E6%B5%B7",
-            "publishedAt": "2026-11-21T00:00:00+08:00",
+            "publishedAt": "2026-11-22T00:00:00+08:00",
             "language": "zh",
             "originalLanguage": "zh",
             "translationStatus": "not-needed",
-            "fetchedAt": "2026-11-21T09:28:19.605Z",
-            "sourceMethod": "web",
-            "verificationStatus": "pending"
-          },
-          {
-            "title": "直辖市·上海本地公开信息",
-            "url": "https://www.shanghai.gov.cn/nw4411/20261121/10b57103189743beb21bdcb37c91e97c.html",
-            "sourceId": "city-news-rss:%E4%B8%AD%E5%9B%BD-%E4%B8%8A%E6%B5%B7",
-            "publishedAt": "2026-11-21T00:00:00+08:00",
-            "language": "zh",
-            "originalLanguage": "zh",
-            "translationStatus": "not-needed",
-            "fetchedAt": "2026-11-21T09:28:19.605Z",
-            "sourceMethod": "web",
-            "verificationStatus": "pending"
-          },
-          {
-            "title": "直辖市·上海本地公开信息",
-            "url": "https://www.shanghai.gov.cn/nw4411/20261121/fac8a14a1a0642e9a5f288e76abf45d3.html",
-            "sourceId": "city-news-rss:%E4%B8%AD%E5%9B%BD-%E4%B8%8A%E6%B5%B7",
-            "publishedAt": "2026-11-21T00:00:00+08:00",
-            "language": "zh",
-            "originalLanguage": "zh",
-            "translationStatus": "not-needed",
-            "fetchedAt": "2026-11-21T09:28:19.605Z",
+            "fetchedAt": "2026-11-22T09:33:43.888Z",
             "sourceMethod": "web",
             "verificationStatus": "pending"
           }
         ],
         "images": [],
-        "generatedAt": "2026-11-21T02:00:00.000Z"
+        "generatedAt": "2026-11-22T02:00:00.000Z"
       },
       {
-        "id": "draft-real-xinhua-tech-1qsyq3x",
-        "title": "我国将加快5G工厂建设 加强6G与工业融合前瞻研究",
-        "oneLine": "趋势信号：建成工业5G专网2.7万个，培育卓越级智能工厂750余家，领航级智能工厂49家，建成5G工厂1260家……记者从11月19日开幕的2026中国5G+工业互联网大会上获悉，当前我国“5G+工业互联网”正处在深化融合创新、规模化推广应用的关键阶段。",
+        "id": "draft-real-jyb-education-1gvlnfn",
+        "title": "教师的专业底气从何而来",
+        "oneLine": "政策变化：admin | 退出 用户中心 0 ■建设高素质专业化教师队伍 本期关注：教师自我效能感 教师自我效能感，是教师对自己影响学生学习活动和学校教育结果的能力的一种主观判断和信心程度，是教师的重要内生动力。",
         "importance": "B",
-        "credibility": "主流媒体",
+        "credibility": "待确认",
         "tags": [
           "B",
           "industry",
-          "technology",
-          "ai",
-          "product"
+          "education",
+          "policy",
+          "china"
         ],
         "industries": [
-          "technologyEngineering",
+          "teacher",
           "educationResearch",
-          "aiProduct",
-          "aiTechnology",
-          "productManagement",
+          "generalPublic"
+        ],
+        "section": "industry",
+        "body": {
+          "background": "受挫之后，我沉下心扎进教学研究，品读名师课例，围绕课堂痛点开展微课题研究。听着她的倾诉，我想起20多年前那个同样受挫的自己。中国教育报好老师团队致力于研究教师发展规律，为提升教师内生动力研发出序列化课程与活动产品。",
+          "keyProgress": "本期聚焦教师自我效能感，将中国教育报好老师部分产品进行文字转化，力求在专业能力提升、自我反思意识增强、学习共同体作用发挥等方面给教师更多启发。在“做到”中看到“我能行” 林茂，天津市河头学校副校长、正高级教师，2026年“全国最美教师”，曾获全国思想品德·思想政治优质课大赛特等奖等 有人问我：你从“乡村草根”一路走到今天，自我效能感一直都很强吧？但从教的20年间，我慢慢明白一件事：教师的自我效能感，不是别人夸赞出来的，也不是证书堆砌出来的，它是在一次次“做到”中生长出来的。新教师培训会上，我鼓起勇气发言，一位前辈毫不留情地评价：“林茂，你不善于表达，不适合当老师。",
+          "whyItMatters": "“教师的专业底气从何而来”可能影响学校治理、教师工作、课程安排或学生发展。教育从业者可以据此提前关注具体对象、地方执行方式和工作要求。",
+          "userRelevance": "如果你从事教师、教育研究或学校管理，可以重点关注“教师的专业底气从何而来”的具体对象、执行方式和地方落地节奏；其他用户可把它作为教育环境背景了解。",
+          "whatToWatch": "接下来要看“教师的专业底气从何而来”是否补充执行细则、地方落地安排、时间节点或适用人群说明。"
+        },
+        "sourceLinks": [
+          {
+            "title": "中国教育新闻网",
+            "url": "http://www.jyb.cn/rmtzgjyb/202611/t20261122_2111545089.html",
+            "sourceId": "jyb-education",
+            "publishedAt": "2026-11-22T00:00:00+08:00",
+            "language": "zh",
+            "originalLanguage": "zh",
+            "translationStatus": "not-needed",
+            "fetchedAt": "2026-11-22T09:31:33.841Z",
+            "sourceMethod": "web",
+            "verificationStatus": "pending"
+          }
+        ],
+        "images": [
+          {
+            "url": "http://www.jyb.cn/rmtzgjyb/202611/W020261122251371343762.jpg",
+            "sourceUrl": "http://www.jyb.cn/rmtzgjyb/202611/t20261122_2111545089.html"
+          },
+          {
+            "url": "http://www.jyb.cn/rmtzgjyb/202611/W020261122251372423694.jpg",
+            "sourceUrl": "http://www.jyb.cn/rmtzgjyb/202611/t20261122_2111545089.html"
+          },
+          {
+            "url": "http://www.jyb.cn/rmtzgjyb/202611/W020261122251365526760.jpg",
+            "sourceUrl": "http://www.jyb.cn/rmtzgjyb/202611/t20261122_2111545089.html"
+          },
+          {
+            "url": "http://www.jyb.cn/rmtzgjyb/202611/W020261122251366257549.jpg",
+            "sourceUrl": "http://www.jyb.cn/rmtzgjyb/202611/t20261122_2111545089.html"
+          },
+          {
+            "url": "http://www.jyb.cn/rmtzgjyb/202611/W020261122251385872876.jpg",
+            "sourceUrl": "http://www.jyb.cn/rmtzgjyb/202611/t20261122_2111545089.html"
+          }
+        ],
+        "generatedAt": "2026-11-22T02:00:00.000Z"
+      },
+      {
+        "id": "draft-real-jyb-education-1xnssbb",
+        "title": "玉树：不让一个高原孩子成长“缺氧”",
+        "oneLine": "政策变化：到2017年，玉树市教育局调研发现，虽然新建了一批幼儿园，但牧区深处仍有300多个孩子跟着家人逐水草而居。",
+        "importance": "B",
+        "credibility": "待确认",
+        "tags": [
+          "B",
+          "industry",
+          "education",
+          "policy",
+          "china"
+        ],
+        "industries": [
+          "teacher",
+          "educationResearch",
+          "generalPublic"
+        ],
+        "section": "industry",
+        "body": {
+          "background": "2010年，玉树市发生7.1级强震。郭朝虹告诉记者，目前，免费午餐已覆盖全市19所幼儿园，1238个孩子、462名教职工从中受益。免费午餐只是玉树市幼儿园孩子享受的多元保障之一。",
+          "keyProgress": "扎西拉吉 供图 ■以幼有优育助力教育强国建设·保障学前教育优质普惠发展 “丢，丢，丢手绢，轻轻地放在小朋友的后面，大家不要告诉他……”轻风掠过巴塘草原，格桑花轻轻摇曳，在青海省玉树市禅古村幼儿园，教师和孩子们围成一个圈，正投入地玩丢手绢游戏。教师才松告诉记者，牧民住得远，遇上雨天道路难走，孩子就迟到了。2025年3月，“免费午餐”项目落地玉树市幼儿园，由玉树市教育局牵头搭建标准化执行体系，中国社会福利基金会提供全额餐费支持，餐标为在园幼儿及教职工每人每天6元。早在2011年，青海就出台了《三江源地区“1+9+3”教育经费保障补偿机制实施办法》，对三江源地区学前一年在园幼儿，每学年补助生均公用经费2200元，用于免除保教费等教育支出，同时给予每生每年1500元的生活补助。",
+          "whyItMatters": "“玉树：不让一个高原孩子成长缺氧”可能影响学校治理、教师工作、课程安排或学生发展。教育从业者可以据此提前关注具体对象、地方执行方式和工作要求。",
+          "userRelevance": "如果你从事教师、教育研究或学校管理，可以重点关注“玉树：不让一个高原孩子成长缺氧”的具体对象、执行方式和地方落地节奏；其他用户可把它作为教育环境背景了解。",
+          "whatToWatch": "接下来要看“玉树：不让一个高原孩子成长缺氧”是否补充执行细则、地方落地安排、时间节点或适用人群说明。"
+        },
+        "sourceLinks": [
+          {
+            "title": "中国教育新闻网",
+            "url": "http://www.jyb.cn/rmtzgjyb/202611/t20261122_2111545081.html",
+            "sourceId": "jyb-education",
+            "publishedAt": "2026-11-22T00:00:00+08:00",
+            "language": "zh",
+            "originalLanguage": "zh",
+            "translationStatus": "not-needed",
+            "fetchedAt": "2026-11-22T09:31:33.841Z",
+            "sourceMethod": "web",
+            "verificationStatus": "pending"
+          }
+        ],
+        "images": [
+          {
+            "url": "http://www.jyb.cn/rmtzgjyb/202611/W020261122251313450801.jpg",
+            "sourceUrl": "http://www.jyb.cn/rmtzgjyb/202611/t20261122_2111545081.html"
+          },
+          {
+            "url": "http://www.jyb.cn/rmtxwwyyq/xilanyouceshangbuAd/202208/W020240805447891565944.jpg",
+            "sourceUrl": "http://www.jyb.cn/rmtzgjyb/202611/t20261122_2111545081.html"
+          },
+          {
+            "url": "http://www.jyb.cn/rmtxwwyyq/xilanyoucezhongjianAd/202206/W020240805449508966760.jpg",
+            "sourceUrl": "http://www.jyb.cn/rmtzgjyb/202611/t20261122_2111545081.html"
+          },
+          {
+            "url": "http://www.jyb.cn/images/2018gongan.png",
+            "sourceUrl": "http://www.jyb.cn/rmtzgjyb/202611/t20261122_2111545081.html"
+          }
+        ],
+        "generatedAt": "2026-11-22T02:00:00.000Z"
+      },
+      {
+        "id": "draft-real-jyb-education-j4sh84",
+        "title": "穿反鞋子引发的“成长课”",
+        "oneLine": "政策变化：《穿反鞋子引发的“成长课”》这个环节的关键在于让幼儿从“被要求”变成“我想要”。",
+        "importance": "B",
+        "credibility": "待确认",
+        "tags": [
+          "B",
+          "industry",
+          "education",
+          "policy",
+          "china"
+        ],
+        "industries": [
+          "teacher",
+          "educationResearch",
+          "generalPublic"
+        ],
+        "section": "industry",
+        "body": {
+          "background": "共情唤醒了幼儿的学习需求，但仅凭感受还不够，幼儿还需要看得见、摸得着的“小帮手”。每周开展“穿鞋小明星”评选，鼓励同伴互相检查、彼此提醒。admin | 退出 用户中心 0 小班入园第二周，午睡起床后，乐乐一瘸一拐地跑过来说：“老师，脚不舒服！",
+          "keyProgress": "单纯靠教师反复提醒，幼儿难以内化判断方法，还容易形成依赖：鞋子穿反了找教师，而不是自己看、自己调。穿反鞋后不再直接找教师，而是自己脱下重新调整。从共情唤醒内需，借助标记降低难度，再到撤去支架自主练习，最后长效固化习惯，每一步都建立在对幼儿真实状态的观察之上。紧接着，朵朵、小宇也穿着反鞋走过来。",
+          "whyItMatters": "“穿反鞋子引发的成长课”可能影响学校治理、教师工作、课程安排或学生发展。教育从业者可以据此提前关注具体对象、地方执行方式和工作要求。",
+          "userRelevance": "如果你从事教师、教育研究或学校管理，可以重点关注“穿反鞋子引发的成长课”的具体对象、执行方式和地方落地节奏；其他用户可把它作为教育环境背景了解。",
+          "whatToWatch": "接下来要看“穿反鞋子引发的成长课”是否补充执行细则、地方落地安排、时间节点或适用人群说明。"
+        },
+        "sourceLinks": [
+          {
+            "title": "中国教育新闻网",
+            "url": "http://www.jyb.cn/rmtzgjyb/202611/t20261122_2111545088.html",
+            "sourceId": "jyb-education",
+            "publishedAt": "2026-11-22T00:00:00+08:00",
+            "language": "zh",
+            "originalLanguage": "zh",
+            "translationStatus": "not-needed",
+            "fetchedAt": "2026-11-22T09:31:33.841Z",
+            "sourceMethod": "web",
+            "verificationStatus": "pending"
+          }
+        ],
+        "images": [
+          {
+            "url": "http://www.jyb.cn/rmtxwwyyq/xilanyouceshangbuAd/202208/W020240805447891565944.jpg",
+            "sourceUrl": "http://www.jyb.cn/rmtzgjyb/202611/t20261122_2111545088.html"
+          },
+          {
+            "url": "http://www.jyb.cn/rmtxwwyyq/xilanyoucezhongjianAd/202206/W020240805449508966760.jpg",
+            "sourceUrl": "http://www.jyb.cn/rmtzgjyb/202611/t20261122_2111545088.html"
+          },
+          {
+            "url": "http://www.jyb.cn/images/2018gongan.png",
+            "sourceUrl": "http://www.jyb.cn/rmtzgjyb/202611/t20261122_2111545088.html"
+          }
+        ],
+        "generatedAt": "2026-11-22T02:00:00.000Z"
+      },
+      {
+        "id": "draft-real-jyb-education-2drqc5",
+        "title": "嵌入式照护：让照料与发展并进",
+        "oneLine": "政策变化：admin | 退出 用户中心 0 近年来，国家托育政策强调破解托育服务存在的“重照料、轻发展”问题，转向健康保障与能力发展并重。",
+        "importance": "B",
+        "credibility": "待确认",
+        "tags": [
+          "B",
+          "industry",
+          "education",
+          "policy",
+          "china"
+        ],
+        "industries": [
+          "teacher",
+          "educationResearch",
+          "generalPublic"
+        ],
+        "section": "industry",
+        "body": {
+          "background": "一事一议：研判需求设计分层支持策略 2—3岁幼儿个体差异突出，为兼顾个体帮扶与集体支持，幼儿园建立“一事一议”机制，以周为单位，围绕幼儿在生活、游戏中的具体事件开展个案追踪，解读行为背后潜藏的发展需求，设计适配的支持方式，让照护自然无痕。掌握这些信息后，教师在关键时段温和引导、正向鼓励，借助绘本开展游戏化干预，逐步降低宁宁对尿不湿的依赖，帮助他建立契合自身节奏的如厕习惯。家长也能直观看到幼儿在园的成长变化，更好配合园所开展共育。",
+          "keyProgress": "安吉游戏“儿童在前，教师在后”的课程实施路径，为托班婴幼儿照护提供了方法支撑。在县域推动下，浙江省安吉县梅溪幼儿园依托现有资源开设托班，积极探索托幼衔接新路径。为破解这一困境，幼儿园紧扣该年龄段幼儿发展特点，从“一月一历”“一事一议”“一幼一案”三个维度发力，将嵌入式照护融入一日生活全流程，推动新型保育理念落地。我园托班教师大多由幼教岗位转型而来，熟悉3—6岁幼儿教育，却对2—3岁幼儿发展规律缺少足够经验，日常照护容易缺少针对性与专业性。",
+          "whyItMatters": "“嵌入式照护：让照料与发展并进”可能影响学校治理、教师工作、课程安排或学生发展。教育从业者可以据此提前关注具体对象、地方执行方式和工作要求。",
+          "userRelevance": "如果你从事教师、教育研究或学校管理，可以重点关注“嵌入式照护：让照料与发展并进”的具体对象、执行方式和地方落地节奏；其他用户可把它作为教育环境背景了解。",
+          "whatToWatch": "接下来要看“嵌入式照护：让照料与发展并进”是否补充执行细则、地方落地安排、时间节点或适用人群说明。"
+        },
+        "sourceLinks": [
+          {
+            "title": "中国教育新闻网",
+            "url": "http://www.jyb.cn/rmtzgjyb/202611/t20261122_2111545086.html",
+            "sourceId": "jyb-education",
+            "publishedAt": "2026-11-22T00:00:00+08:00",
+            "language": "zh",
+            "originalLanguage": "zh",
+            "translationStatus": "not-needed",
+            "fetchedAt": "2026-11-22T09:31:33.841Z",
+            "sourceMethod": "web",
+            "verificationStatus": "pending"
+          }
+        ],
+        "images": [
+          {
+            "url": "http://www.jyb.cn/rmtxwwyyq/xilanyouceshangbuAd/202208/W020240805447891565944.jpg",
+            "sourceUrl": "http://www.jyb.cn/rmtzgjyb/202611/t20261122_2111545086.html"
+          },
+          {
+            "url": "http://www.jyb.cn/rmtxwwyyq/xilanyoucezhongjianAd/202206/W020240805449508966760.jpg",
+            "sourceUrl": "http://www.jyb.cn/rmtzgjyb/202611/t20261122_2111545086.html"
+          },
+          {
+            "url": "http://www.jyb.cn/images/2018gongan.png",
+            "sourceUrl": "http://www.jyb.cn/rmtzgjyb/202611/t20261122_2111545086.html"
+          }
+        ],
+        "generatedAt": "2026-11-22T02:00:00.000Z"
+      },
+      {
+        "id": "draft-real-jyb-education-fqcbis",
+        "title": "给孩子一个美丽的童年",
+        "oneLine": "政策变化：《给孩子一个美丽的童年》经过多轮打磨，提出双赛道路线、兼顾个体差异等支持策略。",
+        "importance": "B",
+        "credibility": "待确认",
+        "tags": [
+          "B",
+          "industry",
+          "education",
+          "policy",
+          "china"
+        ],
+        "industries": [
+          "teacher",
+          "educationResearch",
+          "generalPublic"
+        ],
+        "section": "industry",
+        "body": {
+          "background": "课间操时段，“快乐武动”音乐响起，孩子们精神抖擞，一招一式有模有样 开园伊始，园长王娟带领团队确立以“惠育”为核心的办园理念，立足孩子身体健康、心理健康、社会适应三大成长维度，依托游戏化、生活化、自然化路径开展活动，细化“五育”目标，推动孩子全面发展。每年9月全民国防教育月，孩子们化身“小小军人”，开展体能循环、闯关挑战 科学监测是践行“健康第一”理念的重要保障，保健教师用专业仪器监测孩子心率，动态调整运动强度。年轻教师马亚娟深有感触：“在情绪小屋和阅读活动中，我学会了观察孩子能否自我调节、是否愿意表达感受。",
+          "keyProgress": "教师张彦英介绍，孩子们的笑容越来越多了。”教学副园长单煜介绍，教师在反思中不断迭代，专业素养和课程实施能力实现了双提升。如今，教师个个练就了自主优化体育活动、解决现场突发问题的本领。同时，教师还养成了全程观察的习惯，依托真实观察记录调整活动难度、疏导孩子负面情绪、纠正其不良生活习惯，从看护者转变为观察者与支持者，保教工作更精细化、专业化。",
+          "whyItMatters": "“给孩子一个美丽的童年”可能影响学校治理、教师工作、课程安排或学生发展。教育从业者可以据此提前关注具体对象、地方执行方式和工作要求。",
+          "userRelevance": "如果你从事教师、教育研究或学校管理，可以重点关注“给孩子一个美丽的童年”的具体对象、执行方式和地方落地节奏；其他用户可把它作为教育环境背景了解。",
+          "whatToWatch": "接下来要看“给孩子一个美丽的童年”是否补充执行细则、地方落地安排、时间节点或适用人群说明。"
+        },
+        "sourceLinks": [
+          {
+            "title": "中国教育新闻网",
+            "url": "http://www.jyb.cn/rmtzgjyb/202611/t20261122_2111545082.html",
+            "sourceId": "jyb-education",
+            "publishedAt": "2026-11-22T00:00:00+08:00",
+            "language": "zh",
+            "originalLanguage": "zh",
+            "translationStatus": "not-needed",
+            "fetchedAt": "2026-11-22T09:31:33.841Z",
+            "sourceMethod": "web",
+            "verificationStatus": "pending"
+          }
+        ],
+        "images": [
+          {
+            "url": "http://www.jyb.cn/rmtxwwyyq/xilanyouceshangbuAd/202208/W020240805447891565944.jpg",
+            "sourceUrl": "http://www.jyb.cn/rmtzgjyb/202611/t20261122_2111545082.html"
+          },
+          {
+            "url": "http://www.jyb.cn/rmtxwwyyq/xilanyoucezhongjianAd/202206/W020240805449508966760.jpg",
+            "sourceUrl": "http://www.jyb.cn/rmtzgjyb/202611/t20261122_2111545082.html"
+          },
+          {
+            "url": "http://www.jyb.cn/images/2018gongan.png",
+            "sourceUrl": "http://www.jyb.cn/rmtzgjyb/202611/t20261122_2111545082.html"
+          }
+        ],
+        "generatedAt": "2026-11-22T02:00:00.000Z"
+      },
+      {
+        "id": "draft-real-jyb-education-syrhgt",
+        "title": "“小学俯下身”的意蕴",
+        "oneLine": "政策变化：2021年，教育部发布《关于大力推进幼儿园与小学科学衔接的指导意见》，不仅强调幼儿园与小学双向衔接，还在《小学入学适应教育指导要点》中，首次提出“学校为儿童适应做好准备”。",
+        "importance": "B",
+        "credibility": "待确认",
+        "tags": [
+          "B",
+          "industry",
+          "education",
+          "policy",
+          "china"
+        ],
+        "industries": [
+          "teacher",
+          "educationResearch",
+          "generalPublic"
+        ],
+        "section": "industry",
+        "body": {
+          "background": "可喜的是，一些变化正静悄悄地发生：幼小衔接工作会议放在小学、小学教师与幼儿园教师坐在一起培训、小学牵头开展幼小衔接相关活动……基层教育治理中的这些转变，无一不表明，“小学俯下身”，或将成为根治学前教育“小学化”的一剂“良药”。admin | 退出 用户中心 0 楼上管小学教育，楼下管学前教育。过去，两个部门像平行线，现在，楼上的经常下楼，一起商量事情……近期在基层走访，谈到幼小衔接工作时，发现不只行政部门爱“往下跑”，小学也常往幼儿园跑，“小学俯下身”，成了基层工作者挂在嘴边的话。",
+          "keyProgress": "2024年出台的学前教育法，进一步明确对小学的要求：“小学坚持按照课程标准零起点教学。一位小学校长深有感触地说：“幼儿园最让我们佩服的，是教师眼里有孩子，能观察并读懂孩子行为背后的需求。小学教师眼里也有孩子，但更多的是看教学目标是否达成。过去很长一段时间，无论是幼儿园还是小学，都认为幼小衔接是幼儿园单方面向上衔接，小学只需被动等待即可，这直接造成“剃头挑子一头热”的局面，学前教育“小学化”问题也因此屡禁不止。",
+          "whyItMatters": "“小学俯下身的意蕴”可能影响学校治理、教师工作、课程安排或学生发展。教育从业者可以据此提前关注具体对象、地方执行方式和工作要求。",
+          "userRelevance": "如果你从事教师、教育研究或学校管理，可以重点关注“小学俯下身的意蕴”的具体对象、执行方式和地方落地节奏；其他用户可把它作为教育环境背景了解。",
+          "whatToWatch": "接下来要看“小学俯下身的意蕴”是否补充执行细则、地方落地安排、时间节点或适用人群说明。"
+        },
+        "sourceLinks": [
+          {
+            "title": "中国教育新闻网",
+            "url": "http://www.jyb.cn/rmtzgjyb/202611/t20261122_2111545084.html",
+            "sourceId": "jyb-education",
+            "publishedAt": "2026-11-22T00:00:00+08:00",
+            "language": "zh",
+            "originalLanguage": "zh",
+            "translationStatus": "not-needed",
+            "fetchedAt": "2026-11-22T09:31:33.841Z",
+            "sourceMethod": "web",
+            "verificationStatus": "pending"
+          }
+        ],
+        "images": [
+          {
+            "url": "http://www.jyb.cn/rmtxwwyyq/xilanyouceshangbuAd/202208/W020240805447891565944.jpg",
+            "sourceUrl": "http://www.jyb.cn/rmtzgjyb/202611/t20261122_2111545084.html"
+          },
+          {
+            "url": "http://www.jyb.cn/rmtxwwyyq/xilanyoucezhongjianAd/202206/W020240805449508966760.jpg",
+            "sourceUrl": "http://www.jyb.cn/rmtzgjyb/202611/t20261122_2111545084.html"
+          },
+          {
+            "url": "http://www.jyb.cn/images/2018gongan.png",
+            "sourceUrl": "http://www.jyb.cn/rmtzgjyb/202611/t20261122_2111545084.html"
+          }
+        ],
+        "generatedAt": "2026-11-22T02:00:00.000Z"
+      },
+      {
+        "id": "draft-real-jyb-education-1187271",
+        "title": "在“做到”中看到“我能行”",
+        "oneLine": "最新进展：在“做到”中看到“我能行”。",
+        "importance": "B",
+        "credibility": "待确认",
+        "tags": [
+          "B",
+          "industry",
+          "education",
+          "policy",
+          "china"
+        ],
+        "industries": [
+          "teacher",
+          "educationResearch",
+          "generalPublic"
+        ],
+        "section": "industry",
+        "body": {
+          "background": "受挫之后，我沉下心扎进教学研究，品读名师课例，围绕课堂痛点开展微课题研究。但从教的20年间，我慢慢明白一件事：教师的自我效能感，不是别人夸赞出来的，也不是证书堆砌出来的，它是在一次次“做到”中生长出来的。20年前，我带着一口浓重的南方口音走上讲台，一开口，全班哄堂大笑。",
+          "keyProgress": "新教师培训会上，我鼓起勇气发言，一位前辈毫不留情地评价：“林茂，你不善于表达，不适合当老师。分数、名校未必是答案，而学生的成长，才是教师自我效能感的源泉。而教师效能感的稳固，在于真切看见：孩子因为教育，慢慢成为更好的自己。” 那天晚上，背井离乡的无助、无处安放的尴尬紧紧裹挟着我，我辗转难眠、反复追问：我是不是真的不适合当老师？",
+          "whyItMatters": "“在做到中看到我能行”可能影响学校治理、教师工作、课程安排或学生发展。教育从业者可以据此提前关注具体对象、地方执行方式和工作要求。",
+          "userRelevance": "如果你从事教师、教育研究或学校管理，可以重点关注“在做到中看到我能行”的具体对象、执行方式和地方落地节奏；其他用户可把它作为教育环境背景了解。",
+          "whatToWatch": "接下来要看“在做到中看到我能行”是否补充执行细则、地方落地安排、时间节点或适用人群说明。"
+        },
+        "sourceLinks": [
+          {
+            "title": "中国教育新闻网",
+            "url": "http://www.jyb.cn/rmtzgjyb/202611/t20261122_2111545091.html",
+            "sourceId": "jyb-education",
+            "publishedAt": "2026-11-22T00:00:00+08:00",
+            "language": "zh",
+            "originalLanguage": "zh",
+            "translationStatus": "not-needed",
+            "fetchedAt": "2026-11-22T09:31:33.841Z",
+            "sourceMethod": "web",
+            "verificationStatus": "pending"
+          }
+        ],
+        "images": [
+          {
+            "url": "http://www.jyb.cn/rmtzgjyb/202611/W020261122251371343762.jpg",
+            "sourceUrl": "http://www.jyb.cn/rmtzgjyb/202611/t20261122_2111545091.html"
+          },
+          {
+            "url": "http://www.jyb.cn/rmtzgjyb/202611/W020261122251372423694.jpg",
+            "sourceUrl": "http://www.jyb.cn/rmtzgjyb/202611/t20261122_2111545091.html"
+          },
+          {
+            "url": "http://www.jyb.cn/rmtxwwyyq/xilanyouceshangbuAd/202208/W020240805447891565944.jpg",
+            "sourceUrl": "http://www.jyb.cn/rmtzgjyb/202611/t20261122_2111545091.html"
+          },
+          {
+            "url": "http://www.jyb.cn/rmtxwwyyq/xilanyoucezhongjianAd/202206/W020240805449508966760.jpg",
+            "sourceUrl": "http://www.jyb.cn/rmtzgjyb/202611/t20261122_2111545091.html"
+          },
+          {
+            "url": "http://www.jyb.cn/images/2018gongan.png",
+            "sourceUrl": "http://www.jyb.cn/rmtzgjyb/202611/t20261122_2111545091.html"
+          }
+        ],
+        "generatedAt": "2026-11-22T02:00:00.000Z"
+      },
+      {
+        "id": "draft-real-city-news-rss:%E4%B8%AD%E5%9B%BD-%E5%B9%BF%E5%B7%9E-josq91",
+        "title": "广州文交会首日业界顶流前沿企业集中亮相",
+        "oneLine": "政策变化：手机端 关注 · 手机版 微信 关注 · 广州政府网 文物“活”起来 游戏“火”起来 11月20日，2026广州文化产业交易会（简称“文交会”）在广交会展馆D区启幕。",
+        "importance": "C",
+        "credibility": "待确认",
+        "tags": [
+          "C",
+          "industry",
+          "local",
+          "policy",
+          "china"
+        ],
+        "industries": [
+          "localLife",
+          "generalPublic",
           "operationsGrowth"
         ],
-        "section": "ai",
-        "body": {
-          "background": "工业和信息化部将深入实施智能工厂梯度培育行动，支持领军企业建设领航级智能工厂，有序开展5G独立专网试点，加快5G工厂建设，启动新一批“5G+工业互联网”融合应用城市试点，加强6G与工业融合的前瞻研究。今年6月，工业和信息化部等八部门印发的《关于推动工业互联网高质量发展的实施意见》提出到2030年的发展目标，包括建设5万张工业5G专网、打造5个左右具有国际影响力的综合型平台、工业互联网核心产业增加值突破2.5万亿元等；据介绍，以人工智能为代表的新一代信息技术加速与各行业深度融合，对工业互联网网络、数据质量、平台调度等提出了新的更高的要求。",
-          "keyProgress": "当下，5G+工业互联网进入小批量、多品种、需求快速变化的阶段，柔性响应需求凸显，AI成为重要解决方案。如今，AI Agent能够理解工业知识，参与图纸拆解、工艺规划、生产排程等核心决策，并通过多智能体协同，实现生产决策的动态优化。浪潮云洲展区内，工作人员向记者介绍，人工智能时代，工业互联网平台由以连接为核心的基础设施，全面转向以价值创造为核心的智能中枢，“AI+工业互联网平台”成为工业赋能新范式。面对新的趋势，企业聚焦流程制造、离散制造等领域实现从单点智能到产业全域智能，已打造15个垂域大模型、43个行业智能体，未来加快工业互联网平台与大模型、智能体融合发展是布局重点。",
-          "whyItMatters": "“我国将加快5G工厂建设 加强6G与工业融合前瞻研究”能帮助你判断这项能力是否已经进入工程、产品或商业场景，并据此调整技术选型、产品规划、学习重点或职业判断。",
-          "userRelevance": "如果你从事技术研发、教育研究、AI 产品、AI 技术，可以重点判断“我国将加快5G工厂建设 加强6G与工业融合前瞻研究”是否已经具备产品落地、技术选型或业务合作价值。",
-          "whatToWatch": "接下来要看“我国将加快5G工厂建设 加强6G与工业融合前瞻研究”是否有更多可靠来源、量产或应用进展，以及它会不会从单点消息发展成持续趋势。"
-        },
-        "sourceLinks": [
-          {
-            "title": "新华网科技",
-            "url": "https://www.news.cn/tech/20261120/2243dc69a0334f379ba228e2afa49e55/c.html",
-            "sourceId": "xinhua-tech",
-            "publishedAt": "2026-11-20T00:00:00+08:00",
-            "language": "zh",
-            "originalLanguage": "zh",
-            "translationStatus": "not-needed",
-            "fetchedAt": "2026-11-21T09:26:01.876Z",
-            "sourceMethod": "web",
-            "verificationStatus": "confirmed"
-          }
-        ],
-        "images": [],
-        "generatedAt": "2026-11-21T02:00:00.000Z"
-      },
-      {
-        "id": "draft-cluster-real-cac-cn-16ahucc",
-        "title": "关于对《网络安全标识 消费类智能门锁安全要求》等3项网络安全标准实践指南公开征求意见的通知",
-        "oneLine": "政策变化：根据《全国网络安全标准化技术委员会〈网络安全标准实践指南〉文件管理办法》要求，秘书处现组织对《网络安全标识 消费类智能门锁安全要求》等3项网络安全标准实践指南面向社会公开征求意见。",
-        "importance": "B",
-        "credibility": "官方来源",
-        "tags": [
-          "B",
-          "industry",
-          "policy",
-          "china",
-          "operations"
-        ],
-        "industries": [
-          "contentCreator",
-          "generalPublic",
-          "operationsGrowth",
-          "productManagement"
-        ],
         "section": "industry",
         "body": {
-          "background": "如有意见或建议，请于2026年12月20日前反馈至秘书处。网安秘字〔2026〕132号 为推动《网络安全标识管理办法》落地实施，提升产品的网络安全能力，加强消费者权益保护，维护网络安全和公共利益，秘书处组织编制了《网络安全标识 消费类智能门锁安全要求》《网络安全标识 智能音箱安全要求》《网络安全标识 儿童智能手表安全要求》等3项网络安全标准实践指南征求意见稿。联系人：李霂琦 010-64102777 limq@cesi.cn 附件：3项网络安全标准实践指南征求意见稿文本 全国网络安全标准化技术委员会秘书处 网络安全标准实践指南——网络安全标识 消费类智能门锁安全要求（征求意见稿） 网络安全标准实践指南——网络安全标识 智能音箱安全要求（征求意见稿） 网络安全标准实践指南——网络安全标识 儿童智能手表安全要求（征。",
-          "keyProgress": "关于对《网络安全标识 消费类智能门锁安全要求》等3项网络安全标准实践指南公开征求意见的通知。关于对《网络安全标识 消费类智能门锁安全要求》等3项网络安全标准实践指南公开征求意见的通知",
-          "whyItMatters": "“关于对网络安全标识 消费类智能门锁安全要求等3项网络安全标准实践指南公开征求意见的通知”可能改变个人办事、出行、公共服务或行业规则。提前确认适用范围和生效时间，可以减少信息滞后带来的判断偏差。",
-          "userRelevance": "作为中国居民，你需要留意“关于对网络安全标识 消费类智能门锁安全要求等3项网络安全标准实践指南公开征求意见的通知”是否改变办事、出行或公共服务规则；如果你从事内容创作、运营增长、产品管理，还应关注行业执行细则。",
-          "whatToWatch": "接下来要看“关于对网络安全标识 消费类智能门锁安全要求等3项网络安全标准实践指南公开征求意见的通知”是否出现更细的城市、行业、平台或企业数据，以及这一变化能否连续保持。"
+          "background": "国博携四项数字文博成果集中亮相，包括《北京八景图》VR体验、孝端皇后九龙九凤冠数字影像、《梦游夜宴》动态投影、庞贝古城沉浸影像。本届文交会由广州市人民政府主办，中共广州市委宣传部、广州市文化广电旅游局共同承办，为期三天，将持续至11月22日。展会规划展览面积超过4万平方米，吸引500余家境内外展商参展。",
+          "keyProgress": "展会聚焦文化新模式、新业态、新场景、新消费，全面汇聚境内外优质文化产业资源，全力推动展览展示与交易合作互促共赢。咖啡杯器手作体验让陶艺与咖啡消费碰撞出新意；来自云南普洱的咖啡树苗、庄园生豆等产品，推动上游产区与大湾区市场直接对接。步入展馆，“文化+科技”深度融合的气息扑面而来。",
+          "whyItMatters": "“广州文交会首日业界顶流前沿企业集中亮相”可能改变个人办事、出行、公共服务或行业规则。提前确认适用范围和生效时间，可以减少信息滞后带来的判断偏差。",
+          "userRelevance": "作为中国居民，你需要留意“广州文交会首日业界顶流前沿企业集中亮相”是否改变办事、出行或公共服务规则；如果你从事本地生活、运营增长，还应关注行业执行细则。",
+          "whatToWatch": "接下来要看“广州文交会首日业界顶流前沿企业集中亮相”是否补充执行细则、地方落地安排、时间节点或适用人群说明。"
         },
         "sourceLinks": [
           {
-            "title": "中央网信办 / 国家网信办",
-            "url": "https://www.cac.gov.cn/2026-11/20/c_1796931128243078.htm",
-            "sourceId": "cac-cn",
-            "publishedAt": "2026-11-20T00:00:00+08:00",
+            "title": "广东·广州本地公开信息",
+            "url": "https://www.gz.gov.cn/zlgz/wlzx/wthd/content/post_11114764.html",
+            "sourceId": "city-news-rss:%E4%B8%AD%E5%9B%BD-%E5%B9%BF%E5%B7%9E",
+            "publishedAt": "2026-11-21T00:00:00+08:00",
             "language": "zh",
             "originalLanguage": "zh",
             "translationStatus": "not-needed",
-            "fetchedAt": "2026-11-21T09:26:01.350Z",
-            "sourceMethod": "web",
-            "verificationStatus": "confirmed"
-          },
-          {
-            "title": "中央网信办 / 国家网信办",
-            "url": "https://www.cac.gov.cn/2026-11/20/c_1796931132798351.htm",
-            "sourceId": "cac-cn",
-            "publishedAt": "2026-11-20T00:00:00+08:00",
-            "language": "zh",
-            "originalLanguage": "zh",
-            "translationStatus": "not-needed",
-            "fetchedAt": "2026-11-21T09:26:01.350Z",
-            "sourceMethod": "web",
-            "verificationStatus": "confirmed"
-          }
-        ],
-        "images": [],
-        "generatedAt": "2026-11-21T02:00:00.000Z"
-      },
-      {
-        "id": "draft-real-cas-science-news-5w351n",
-        "title": "中国科学院2026年“关键小事”调研攻关成果交流评选活动在京举办",
-        "oneLine": "最新进展：中国科学院2026年“关键小事”调研攻关成果交流评选活动在京举办。",
-        "importance": "B",
-        "credibility": "官方来源",
-        "tags": [
-          "B",
-          "industry",
-          "technology",
-          "education"
-        ],
-        "industries": [
-          "technologyEngineering",
-          "educationResearch"
-        ],
-        "section": "industry",
-        "body": {
-          "background": "各青年理论学习小组展示了前期初评遴选的42篇“关键小事”调研攻关成果，内容涵盖科研组织管理、科研范式变革、人才人事、青年工作、科研诚信、学生培养等方面，交流了坚持问题导向与目标导向精准选题、扎实开展调研的情况，提出了发展好建议、改革好点子，分享了参与调研攻关活动的实践收获与体会。中国科学院团委连续三年开展“关键小事”调研攻关活动以来，各单位以青年理论学习小组为主体组织年轻干部、青年科技骨干积极参与，形成多篇调研报告，很多建议举措已落地运用。11月17日，中国科学院2026年“关键小事”调研攻关成果交流评选活动在京举办，院机关有关部门负责同志、部分机关党委委员和院属单位党委负责同志担任评委。",
-          "keyProgress": "活动已成为强化青年政治引领的重要载体，加强青年实践锻炼的有力举措，推动党建工作与业务工作同向发力、同步推进、同台联动、同责共担的有效途径。机关党委副书记王晓虹对调研攻关成果作点评总结。下一步，院团委将坚持党建带团建，持续深化“关键小事”调研攻关，在以高质量党建促进高质量科技创新中展现新担当新作为。",
-          "whyItMatters": "“中国科学院2026年关键小事调研攻关成果交流评选活动在京举办”提供了一个具体的研究进展信号。它是否重要，要看实验指标、可复现性、开源材料和真实应用，而不能只看论文标题。",
-          "userRelevance": "如果你从事科研、工程或正在攻读相关学位，可以重点查看“中国科学院2026年关键小事调研攻关成果交流评选活动在京举办”的实验条件、指标和可复现性；其他用户可把它作为技术趋势背景了解。",
-          "whatToWatch": "接下来要看“中国科学院2026年关键小事调研攻关成果交流评选活动在京举办”是否公开论文全文、代码或完整实验条件，以及是否得到独立复现和实际应用。"
-        },
-        "sourceLinks": [
-          {
-            "title": "中国科学院科研动态",
-            "url": "https://www.cas.cn/djcx/gz/202611/t20261120_5124727.shtml",
-            "sourceId": "cas-science-news",
-            "publishedAt": "2026-11-20T00:00:00+08:00",
-            "language": "zh",
-            "originalLanguage": "zh",
-            "translationStatus": "not-needed",
-            "fetchedAt": "2026-11-21T09:25:59.694Z",
-            "sourceMethod": "web",
-            "verificationStatus": "confirmed"
-          }
-        ],
-        "images": [
-          {
-            "url": "https://www.cas.cn/djcx/gz/202611/W020261120612194399557.jpg",
-            "sourceUrl": "https://www.cas.cn/djcx/gz/202611/t20261120_5124727.shtml"
-          }
-        ],
-        "generatedAt": "2026-11-21T02:00:00.000Z"
-      },
-      {
-        "id": "draft-cluster-real-chrm-mohrss-1xq18w1",
-        "title": "重庆市 渝东北10区县发布569名高层次人才需求 一批创新平台集中揭牌",
-        "oneLine": "最新进展：重庆市 渝东北10区县发布569名高层次人才需求 一批创新平台集中揭牌。",
-        "importance": "B",
-        "credibility": "官方来源",
-        "tags": [
-          "B",
-          "industry",
-          "hr",
-          "policy",
-          "china"
-        ],
-        "industries": [
-          "hrRecruiting",
-          "generalPublic",
-          "teacher"
-        ],
-        "section": "industry",
-        "body": {
-          "background": "本届人才节集中发布人才需求清单、推出技术攻关榜单、揭牌高能级创新平台、签署产学研合作项目，并邀请院士专家开展主旨演讲，全方位集聚人才与创新资源，为渝东北三峡库区城镇群高质量发展赋能。重庆三峡融媒体中心记者 侯本艳 供图 活动现场正式发布《渝东北10区县2027年高层次人才和急需紧缺人才需求目录》。在“揭榜挂帅”科技项目发布环节，大会集中推出44项科技攻关榜单，发榜总金额达1.386亿元。",
-          "keyProgress": "校地合作“朋友圈”进一步扩容，首次大规模对接北京大学、清华大学等30余所高校，推动创新成果与库区应用场景深度结合，实现从“成果找落地”向“场景引人才”的转变。会上，院士专家围绕新材料、绿色低碳、大健康等领域作主旨报告，重点聚焦国家级科研平台成果与库区产业需求对接、前沿科技赋能库区绿色低碳转型、监管科学推动健康产业落地等方向，为三峡库区产业升级和高质量发展提供智力支撑。▲重庆国际人才交流大会·第四届重庆三峡人才节开幕式现场。据统计，渝东北10区县176家用人单位集中推出岗位519个，人才总需求1137人。",
-          "whyItMatters": "“重庆市 渝东北10区县发布569名高层次人才需求 一批创新平台集中揭牌”可能影响招聘节奏、人才供给、就业服务或用工判断。对 HR、招聘、求职和关注城市人才政策的人更有参考价值。",
-          "userRelevance": "如果你从事 HR、招聘或求职相关工作，可以重点关注“重庆市 渝东北10区县发布569名高层次人才需求 一批创新平台集中揭牌”涉及的岗位要求、人才供给和地方执行安排；其他用户可把它作为就业环境背景了解。",
-          "whatToWatch": "接下来要看“重庆市 渝东北10区县发布569名高层次人才需求 一批创新平台集中揭牌”是否补充执行细则、地方落地安排、时间节点或适用人群说明。"
-        },
-        "sourceLinks": [
-          {
-            "title": "中国人力资源市场网",
-            "url": "https://chrm.mohrss.gov.cn/announcement/%e6%b8%9d%e4%b8%9c%e5%8c%9710%e5%8c%ba%e5%8e%bf%e5%8f%91%e5%b8%83569%e5%90%8d%e9%ab%98%e5%b1%82%e6%ac%a1%e4%ba%ba%e6%89%8d%e9%9c%80%e6%b1%82-%e4%b8%80%e6%89%b9%e5%88%9b%e6%96%b0%e5%b9%b3%e5%8f%b0/",
-            "sourceId": "chrm-mohrss",
-            "publishedAt": "2026-11-20T00:00:00+08:00",
-            "language": "zh",
-            "originalLanguage": "zh",
-            "translationStatus": "not-needed",
-            "fetchedAt": "2026-11-21T09:26:12.687Z",
-            "sourceMethod": "web",
-            "verificationStatus": "confirmed"
-          },
-          {
-            "title": "中国人力资源市场网",
-            "url": "https://chrm.mohrss.gov.cn/announcement/%e6%b8%9d%e4%b8%9c%e5%8c%9710%e5%8c%ba%e5%8e%bf%e9%ab%98%e5%b1%82%e6%ac%a1%e4%ba%ba%e6%89%8d%e5%92%8c%e6%80%a5%e9%9c%80%e7%b4%a7%e7%bc%ba%e4%ba%ba%e6%89%8d%e9%9c%80%e6%b1%82%e7%9b%ae%e5%bd%95%e5%8f%91/",
-            "sourceId": "chrm-mohrss",
-            "publishedAt": "2026-11-20T00:00:00+08:00",
-            "language": "zh",
-            "originalLanguage": "zh",
-            "translationStatus": "not-needed",
-            "fetchedAt": "2026-11-21T09:26:12.687Z",
-            "sourceMethod": "web",
-            "verificationStatus": "confirmed"
-          }
-        ],
-        "images": [],
-        "generatedAt": "2026-11-21T02:00:00.000Z"
-      },
-      {
-        "id": "draft-real-chrm-mohrss-f6awxn",
-        "title": "四川省“15+N”重点产业建圈强链人才需求目录",
-        "oneLine": "政策变化：今年，由我厅立项，会同省建圈强链办、各链长办等，委托成都理工大学，首次编制“15+N”重点产业建圈强链人才需求目录（2026年），重点调查1621家产业链企业，准确掌握654类人才需求岗位，在此基础上，构建“人才需求指数”，划分重、中、轻3个程度进行量化分析，认定其中重度需求117类、中度287类。",
-        "importance": "B",
-        "credibility": "官方来源",
-        "tags": [
-          "B",
-          "industry",
-          "hr",
-          "policy",
-          "china"
-        ],
-        "industries": [
-          "hrRecruiting",
-          "generalPublic",
-          "teacher"
-        ],
-        "section": "industry",
-        "body": {
-          "background": "四川省人力资源和社会保障厅 附件： 四川省“15+N”重点产业链建圈强链人才需求目录（2026）.pdf",
-          "keyProgress": "四川省“15+N”重点产业建圈强链人才需求目录。四川省“15+N”重点产业建圈强链人才需求目录",
-          "whyItMatters": "“四川省15+N重点产业建圈强链人才需求目录”可能影响招聘节奏、人才供给、就业服务或用工判断。对 HR、招聘、求职和关注城市人才政策的人更有参考价值。",
-          "userRelevance": "如果你从事 HR、招聘或求职相关工作，可以重点关注“四川省15+N重点产业建圈强链人才需求目录”涉及的岗位要求、人才供给和地方执行安排；其他用户可把它作为就业环境背景了解。",
-          "whatToWatch": "接下来要看“四川省15+N重点产业建圈强链人才需求目录”是否补充执行细则、地方落地安排、时间节点或适用人群说明。"
-        },
-        "sourceLinks": [
-          {
-            "title": "中国人力资源市场网",
-            "url": "https://chrm.mohrss.gov.cn/announcement/%e5%9b%9b%e5%b7%9d%e7%9c%8115n%e9%87%8d%e7%82%b9%e4%ba%a7%e4%b8%9a%e5%bb%ba%e5%9c%88%e5%bc%ba%e9%93%be%e4%ba%ba%e6%89%8d%e9%9c%80%e6%b1%82%e7%9b%ae%e5%bd%95/",
-            "sourceId": "chrm-mohrss",
-            "publishedAt": "2026-11-20T00:00:00+08:00",
-            "language": "zh",
-            "originalLanguage": "zh",
-            "translationStatus": "not-needed",
-            "fetchedAt": "2026-11-21T09:26:12.687Z",
-            "sourceMethod": "web",
-            "verificationStatus": "confirmed"
-          }
-        ],
-        "images": [],
-        "generatedAt": "2026-11-21T02:00:00.000Z"
-      },
-      {
-        "id": "draft-real-eol-education-7l6fbt",
-        "title": "中国科学技术大学牛谦教授获2027年度巴克利奖",
-        "oneLine": "最新进展：中国科学技术大学牛谦教授获2027年度巴克利奖。",
-        "importance": "B",
-        "credibility": "待确认",
-        "tags": [
-          "B",
-          "industry",
-          "education",
-          "policy",
-          "china"
-        ],
-        "industries": [
-          "teacher",
-          "educationResearch",
-          "generalPublic"
-        ],
-        "section": "industry",
-        "body": {
-          "background": "合作邮箱：bianji@eol.cn 官方微信ID：eoleoleol 北京时间2026年11月19日，美国物理学会(American Physical Society)官网公布2027年度奥利弗·E·巴克利凝聚态物理奖获奖名单(2027 Oliver E. Buckley Condensed Matter Physics Prize)， 中国科学技术大学教授牛谦 与美国罗格斯大学教授David Vanderbilt共同获得。2008年受聘北京大学客座教授，2021年受聘中国科大杰出讲席教授。获奖理由为：因在量子几何、贝里相位效应以及固体中的拓扑量子相方面的开创性理论贡献，彻底改变了我们的理解。",
-          "keyProgress": "巴克利奖被视为国际凝聚态物理领域的最高奖。该奖于1952年设立，由美国电话电报公司贝尔实验室(AT&T Bell Laboratories)捐赠，奖金为2万美元。1953年，巴克利奖首次授奖，此后每年颁发一次，通常授予一人，但也可以由多人共享。巴克利奖由美国物理学会每年颁发，旨在表彰和鼓励领域内的杰出理论或实验贡献，评选标准强调必须是凝聚态物理领域“最重要”的贡献。",
-          "whyItMatters": "“中国科学技术大学牛谦教授获2027年度巴克利奖”可能影响学校治理、教师工作、课程安排或学生发展。教育从业者可以据此提前关注具体对象、地方执行方式和工作要求。",
-          "userRelevance": "如果你从事教师、教育研究或学校管理，可以重点关注“中国科学技术大学牛谦教授获2027年度巴克利奖”的具体对象、执行方式和地方落地节奏；其他用户可把它作为教育环境背景了解。",
-          "whatToWatch": "接下来要看“中国科学技术大学牛谦教授获2027年度巴克利奖”是否补充执行细则、地方落地安排、时间节点或适用人群说明。"
-        },
-        "sourceLinks": [
-          {
-            "title": "中国教育在线要闻",
-            "url": "https://www.eol.cn/news/dongtai/202611/t20261120_2797164.shtml",
-            "sourceId": "eol-education",
-            "publishedAt": "2026-11-20T00:00:00+08:00",
-            "language": "zh",
-            "originalLanguage": "zh",
-            "translationStatus": "not-needed",
-            "fetchedAt": "2026-11-21T09:26:08.578Z",
+            "fetchedAt": "2026-11-22T09:33:48.088Z",
             "sourceMethod": "web",
             "verificationStatus": "pending"
           }
         ],
         "images": [
           {
-            "url": "https://www.eol.cn/images/ad/2017_img/arrow.png",
-            "sourceUrl": "https://www.eol.cn/news/dongtai/202611/t20261120_2797164.shtml"
+            "url": "https://www.gz.gov.cn/global/ewm_mobile.jpg",
+            "sourceUrl": "https://www.gz.gov.cn/zlgz/wlzx/wthd/content/post_11114764.html"
           },
           {
-            "url": "https://www.eol.cn/images/ad/2017_img/phone.png",
-            "sourceUrl": "https://www.eol.cn/news/dongtai/202611/t20261120_2797164.shtml"
+            "url": "https://www.gz.gov.cn/global/ewm_wx.jpg",
+            "sourceUrl": "https://www.gz.gov.cn/zlgz/wlzx/wthd/content/post_11114764.html"
           },
           {
-            "url": "https://img.eol.cn/e_images/gk/2020/newzsgk.jpg",
-            "sourceUrl": "https://www.eol.cn/news/dongtai/202611/t20261120_2797164.shtml"
+            "url": "https://www.gz.gov.cn/global/wzsyx.png",
+            "sourceUrl": "https://www.gz.gov.cn/zlgz/wlzx/wthd/content/post_11114764.html"
           },
           {
-            "url": "https://img.eol.cn/e_images/gk/2023/zsky2023.jpg",
-            "sourceUrl": "https://www.eol.cn/news/dongtai/202611/t20261120_2797164.shtml"
+            "url": "https://www.gz.gov.cn/img/1/1724/1724298/11114764.jpg",
+            "sourceUrl": "https://www.gz.gov.cn/zlgz/wlzx/wthd/content/post_11114764.html"
           },
           {
-            "url": "https://www.eol.cn/e_images/index/2018/acabridge.png",
-            "sourceUrl": "https://www.eol.cn/news/dongtai/202611/t20261120_2797164.shtml"
+            "url": "https://www.gz.gov.cn/img/1/1724/1724299/11114764.jpg",
+            "sourceUrl": "https://www.gz.gov.cn/zlgz/wlzx/wthd/content/post_11114764.html"
           }
         ],
-        "generatedAt": "2026-11-21T02:00:00.000Z"
-      },
-      {
-        "id": "draft-real-eol-education-srp434",
-        "title": "吉利控股集团董事长李书福：筹办芯位大学",
-        "oneLine": "政策变化：合作邮箱：bianji@eol.cn 官方微信ID：eoleoleol 11月20日，由吉利人才发展集团发起并主办的高等教育领域国际性论坛——2026年芯位教育论坛在海南三亚举行。",
-        "importance": "B",
-        "credibility": "待确认",
-        "tags": [
-          "B",
-          "industry",
-          "education",
-          "policy",
-          "china"
-        ],
-        "industries": [
-          "teacher",
-          "educationResearch",
-          "generalPublic"
-        ],
-        "section": "industry",
-        "body": {
-          "background": "此前，11月10日，国家发展改革委奋进“十五五”系列新闻发布会，国家发展改革委社会发展司副司长黄玮茹表示：“我们还将支持有条件的地方新建若干所新型研究型大学。吉利控股集团董事长李书福发表了题为《人才培养体系创新与大学能力结构重塑》的主旨演讲。李书福认为，当前世界正面临新型全球化与地缘政治挑战，为此吉利作为全球化企业“在确保全球合规经营的前提下，必须尽快培养新型全球化人才”。",
-          "keyProgress": "李书福透露，吉利旗下芯位科技筹备建设芯位大学，由吉利人才集团支持其本、硕、博学科建设，吉利控股集团将全面开放产业应用场景，建设高水平全球型新型研究型大学。“吉利控股集团将协同芯位大学面向全球招生，因地制宜为吉利培养世界各国的本土化人才，根据吉利在全球不同国家的不同项目，规划招生规模、生源质量、录取流程、专业方向及培养层次，为吉利控股在全球业务发展培养新型全球化人才”。李书福介绍，吉利旗下芯位科技就是人工智能时代产生的教育界科技企业，芯位科技筹备建设的芯位大学是非盈利公益性大学，芯位大学是人工智能时代的产物，主动对接人工智能科技，主动拥抱人工智能时代，主动融入人工智能文明。李书福透露，芯位大学正在探索人工智能时代与大学创新发展的现实可行性，“人工智能时代与三个校园组合”的教育培养理念是芯位大学可持续发展的成长路径，吉利人才集团支持芯位大学本、硕、博学科建设，支持芯位大学以人工智能科技为抓手，发展新型研究型大学，吉利控股集团向芯位大学全面开放应用场景，支持芯位大学建设高水平全球型新型研究型大学。",
-          "whyItMatters": "“吉利控股集团董事长李书福：筹办芯位大学”可能影响学校治理、教师工作、课程安排或学生发展。教育从业者可以据此提前关注具体对象、地方执行方式和工作要求。",
-          "userRelevance": "如果你从事教师、教育研究或学校管理，可以重点关注“吉利控股集团董事长李书福：筹办芯位大学”的具体对象、执行方式和地方落地节奏；其他用户可把它作为教育环境背景了解。",
-          "whatToWatch": "接下来要看“吉利控股集团董事长李书福：筹办芯位大学”是否补充执行细则、地方落地安排、时间节点或适用人群说明。"
-        },
-        "sourceLinks": [
-          {
-            "title": "中国教育在线要闻",
-            "url": "https://www.eol.cn/news/yaowen/202611/t20261120_2797112.shtml",
-            "sourceId": "eol-education",
-            "publishedAt": "2026-11-20T00:00:00+08:00",
-            "language": "zh",
-            "originalLanguage": "zh",
-            "translationStatus": "not-needed",
-            "fetchedAt": "2026-11-21T09:26:08.578Z",
-            "sourceMethod": "web",
-            "verificationStatus": "pending"
-          }
-        ],
-        "images": [
-          {
-            "url": "https://www.eol.cn/images/ad/2017_img/arrow.png",
-            "sourceUrl": "https://www.eol.cn/news/yaowen/202611/t20261120_2797112.shtml"
-          },
-          {
-            "url": "https://www.eol.cn/images/ad/2017_img/phone.png",
-            "sourceUrl": "https://www.eol.cn/news/yaowen/202611/t20261120_2797112.shtml"
-          },
-          {
-            "url": "https://img.eol.cn/e_images/gk/2020/newzsgk.jpg",
-            "sourceUrl": "https://www.eol.cn/news/yaowen/202611/t20261120_2797112.shtml"
-          },
-          {
-            "url": "https://img.eol.cn/e_images/gk/2023/zsky2023.jpg",
-            "sourceUrl": "https://www.eol.cn/news/yaowen/202611/t20261120_2797112.shtml"
-          },
-          {
-            "url": "https://www.eol.cn/e_images/index/2018/acabridge.png",
-            "sourceUrl": "https://www.eol.cn/news/yaowen/202611/t20261120_2797112.shtml"
-          }
-        ],
-        "generatedAt": "2026-11-21T02:00:00.000Z"
-      },
-      {
-        "id": "draft-real-eol-education-12xef5e",
-        "title": "北京信息科技大学领导班子调整",
-        "oneLine": "政策变化：合作邮箱：bianji@eol.cn 官方微信ID：eoleoleol 近日，北京信息科技大学召开党委常委会，校党委书记解江凌宣布北京市委市政府决定， 滕继辉同志任北京信息科技大学党委常委、纪委书记；",
-        "importance": "B",
-        "credibility": "待确认",
-        "tags": [
-          "B",
-          "industry",
-          "education",
-          "policy",
-          "china"
-        ],
-        "industries": [
-          "teacher",
-          "educationResearch",
-          "generalPublic"
-        ],
-        "section": "industry",
-        "body": {
-          "background": "罗洪斌同志任北京信息科技大学党委常委、副校长 。公开资料显示，滕继辉，女，汉族，1972年3月生，中共党员，研究生学历，法学硕士，政工师。曾任北京市纪委市监委派驻市委教育工委纪检监察组副组长，北京第二外国语学院党委常委、纪委书记等职务。",
-          "keyProgress": "2026年10月，任北京信息科技大学党委常委、纪委书记。学校官网介绍，罗洪斌，男，汉族，1977年1月出生，北京信息科技大学党委常委、副校长。负责发展战略规划工作、高教研究工作、外事工作(港澳台事务工作)、信息化建设工作、留学生工作，分管发展战略与规划处、高教研究室、全球事务处、学校港澳台事务办公室、信息与网络管理中心、国际交流学院，联系计算机学院(软件学院)、伊利诺伊工程学院。北京信息科技大学是北京市重点支持建设的高校，是一所信息类学科齐全、信息特色鲜明，以本科、研究生教育为主体的多科性大学。",
-          "whyItMatters": "“北京信息科技大学领导班子调整”可能影响学校治理、教师工作、课程安排或学生发展。教育从业者可以据此提前关注具体对象、地方执行方式和工作要求。",
-          "userRelevance": "如果你从事教师、教育研究或学校管理，可以重点关注“北京信息科技大学领导班子调整”的具体对象、执行方式和地方落地节奏；其他用户可把它作为教育环境背景了解。",
-          "whatToWatch": "接下来要看“北京信息科技大学领导班子调整”是否补充执行细则、地方落地安排、时间节点或适用人群说明。"
-        },
-        "sourceLinks": [
-          {
-            "title": "中国教育在线要闻",
-            "url": "https://www.eol.cn/news/dongtai/gxrs/202611/t20261120_2796970.shtml",
-            "sourceId": "eol-education",
-            "publishedAt": "2026-11-20T00:00:00+08:00",
-            "language": "zh",
-            "originalLanguage": "zh",
-            "translationStatus": "not-needed",
-            "fetchedAt": "2026-11-21T09:26:08.578Z",
-            "sourceMethod": "web",
-            "verificationStatus": "pending"
-          }
-        ],
-        "images": [
-          {
-            "url": "https://www.eol.cn/images/ad/2017_img/arrow.png",
-            "sourceUrl": "https://www.eol.cn/news/dongtai/gxrs/202611/t20261120_2796970.shtml"
-          },
-          {
-            "url": "https://www.eol.cn/images/ad/2017_img/phone.png",
-            "sourceUrl": "https://www.eol.cn/news/dongtai/gxrs/202611/t20261120_2796970.shtml"
-          },
-          {
-            "url": "https://img.eol.cn/e_images/gk/2020/newzsgk.jpg",
-            "sourceUrl": "https://www.eol.cn/news/dongtai/gxrs/202611/t20261120_2796970.shtml"
-          },
-          {
-            "url": "https://img.eol.cn/e_images/gk/2023/zsky2023.jpg",
-            "sourceUrl": "https://www.eol.cn/news/dongtai/gxrs/202611/t20261120_2796970.shtml"
-          },
-          {
-            "url": "https://www.eol.cn/e_images/index/2018/acabridge.png",
-            "sourceUrl": "https://www.eol.cn/news/dongtai/gxrs/202611/t20261120_2796970.shtml"
-          }
-        ],
-        "generatedAt": "2026-11-21T02:00:00.000Z"
+        "generatedAt": "2026-11-22T02:00:00.000Z"
       }
     ],
-    "estimatedReadMinutes": 25,
+    "estimatedReadMinutes": 22,
     "pageCount": 3,
-    "topCardId": "draft-cluster-real-mofcom-trade-1h7ec0y",
-    "generatedAt": "2026-11-21T02:00:00.000Z",
+    "topCardId": "draft-real-xinhua-world-2z16wo",
+    "generatedAt": "2026-11-22T02:00:00.000Z",
     "pushSlots": [
       "08:30",
       "12:30",
@@ -801,25 +802,25 @@
     "edition": "morning",
     "editionLabel": "晨报",
     "coverageWindow": {
-      "start": "2026-11-20T00:00:00+08:00",
-      "end": "2026-11-21T10:00:00+08:00"
+      "start": "2026-11-21T00:00:00+08:00",
+      "end": "2026-11-22T10:00:00+08:00"
     },
     "editionCardIds": [
-      "draft-cluster-real-mofcom-trade-1h7ec0y",
-      "draft-real-xinhua-world-16jnj02",
+      "draft-real-xinhua-world-2z16wo",
+      "draft-real-xinhua-world-16my29k",
+      "draft-real-xinhua-world-15zobm4",
       "draft-real-xinhua-world-2hfrnc",
       "draft-real-xinhua-world-i8kx",
-      "draft-real-xinhua-world-w61lxb",
-      "draft-real-xinhua-world-1dnpmm3",
-      "draft-cluster-real-city-news-rss:%E4%B8%AD%E5%9B%BD-%E4%B8%8A%E6%B5%B7-16d1ao1",
-      "draft-real-xinhua-tech-1qsyq3x",
-      "draft-cluster-real-cac-cn-16ahucc",
-      "draft-real-cas-science-news-5w351n",
-      "draft-cluster-real-chrm-mohrss-1xq18w1",
-      "draft-real-chrm-mohrss-f6awxn",
-      "draft-real-eol-education-7l6fbt",
-      "draft-real-eol-education-srp434",
-      "draft-real-eol-education-12xef5e"
+      "draft-real-xinhua-world-wq0tb9",
+      "draft-real-city-news-rss:%E4%B8%AD%E5%9B%BD-%E4%B8%8A%E6%B5%B7-1y6erxh",
+      "draft-real-jyb-education-1gvlnfn",
+      "draft-real-jyb-education-1xnssbb",
+      "draft-real-jyb-education-j4sh84",
+      "draft-real-jyb-education-2drqc5",
+      "draft-real-jyb-education-fqcbis",
+      "draft-real-jyb-education-syrhgt",
+      "draft-real-jyb-education-1187271",
+      "draft-real-city-news-rss:%E4%B8%AD%E5%9B%BD-%E5%B9%BF%E5%B7%9E-josq91"
     ],
     "carriedCardIds": []
   }

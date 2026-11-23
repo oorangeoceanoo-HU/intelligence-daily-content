@@ -1,0 +1,837 @@
+{
+  "schemaVersion": 2,
+  "publishedAt": "2026-11-23T02:00:00.000Z",
+  "issue": {
+    "id": "daily-public-2026-11-23",
+    "date": "2026-11-23",
+    "userId": "public",
+    "cards": [
+      {
+        "id": "draft-real-xinhua-world-5bc9cz",
+        "title": "伊朗称两艘超大型油轮在霍尔木兹海峡附近触雷",
+        "oneLine": "政策变化：视台22日报道，伊朗伊斯兰革命卫队海军当天发表声明说，两艘“违规”航行的超大型油轮在霍尔木兹海峡附近海域触雷，发生爆炸并停止航行。",
+        "importance": "S",
+        "credibility": "主流媒体",
+        "tags": [
+          "S",
+          "mustKnow",
+          "industry",
+          "world",
+          "policy"
+        ],
+        "industries": [
+          "generalPublic",
+          "financeInvestment",
+          "operationsGrowth",
+          "contentCreator"
+        ],
+        "section": "front",
+        "body": {
+          "background": "声明说，这两艘油轮未遵守革命卫队海军发布的相关指令，在霍尔木兹海峡区域沿未经许可的航线航行，分别在盖奈姆岛北部和霍尔木兹海峡东部触及水雷，导致爆炸并停止航行。声明称，霍尔木兹海峡完全处于革命卫队海军的控制和监视之下，船只必须严格遵守革命卫队海军发布的指令和警告，不得擅自进入未经许可的航线或采取违反相关规定的行动。",
+          "keyProgress": "伊朗称两艘超大型油轮在霍尔木兹海峡附近触雷。伊朗称两艘超大型油轮在霍尔木兹海峡附近触雷",
+          "whyItMatters": "“霍尔木兹海峡局势”如果继续发展，可能通过能源价格、航运、贸易、汇率或市场预期传导到国内。了解它的意义在于判断后续风险，而不只停留在事件本身。",
+          "userRelevance": "即使你不在伊朗、霍尔木兹海峡，“霍尔木兹海峡局势”也可能通过能源价格、国际航运、贸易成本和市场预期间接影响国内生活与工作判断。",
+          "whatToWatch": "接下来要看霍尔木兹海峡实际通航量、油价和保险成本是否继续变化，以及美伊双方是否出现新的正式行动。"
+        },
+        "sourceLinks": [
+          {
+            "title": "新华网国际",
+            "url": "https://www.news.cn/world/20261123/d8cef432aff14bd7a3c56c1e0ca007e5/c.html",
+            "sourceId": "xinhua-world",
+            "publishedAt": "2026-11-23T00:00:00+08:00",
+            "language": "zh",
+            "originalLanguage": "zh",
+            "translationStatus": "not-needed",
+            "fetchedAt": "2026-11-23T10:29:52.181Z",
+            "sourceMethod": "web",
+            "verificationStatus": "confirmed"
+          }
+        ],
+        "images": [],
+        "generatedAt": "2026-11-23T02:00:00.000Z"
+      },
+      {
+        "id": "draft-real-xinhua-world-brgqiq",
+        "title": "肯尼亚与刚果（金）同意全面恢复外交关系",
+        "oneLine": "政策变化：肯尼亚总统鲁托与刚果（金）总统齐塞克迪22日在刚果（布）北部城市奥约举行的四方峰会上达成共识，两国同意通过恢复大使往来等措施推动全面恢复外交关系，加强经济合作，共同维护地区和平与稳定。",
+        "importance": "A",
+        "credibility": "主流媒体",
+        "tags": [
+          "A",
+          "mustKnow",
+          "industry",
+          "world",
+          "policy"
+        ],
+        "industries": [
+          "generalPublic",
+          "financeInvestment",
+          "operationsGrowth",
+          "contentCreator"
+        ],
+        "section": "front",
+        "body": {
+          "background": "据鲁托当天在社交媒体平台发布的峰会公报，两国领导人重申尊重国家主权、领土完整、不干涉内政、睦邻友好及和平解决争端等原则，承诺优先通过外交渠道及现有地区和非洲大陆相关机制解决共同关切和潜在分歧。2023年12月，刚果（金）前独立国家选举委员会主席科尔内耶·南加在肯尼亚首都内罗毕宣布成立包括反政府武装“M23运动”在内的政治军事联盟“刚果河联盟”，引发刚果（金）与肯尼亚之间的外交紧张，刚果（金）随后召回时任驻肯尼亚大使约翰·尼亚克鲁·卡隆加。公报说，双方同意通过持续磋商、外交对话及恢复大使往来等方式改善双边关系，并加强在大湖地区问题国际会议和东非共同体等地区机制框架内的合作，共同促进地区和平、安全与一体化进程。",
+          "keyProgress": "刚果（金）总统府当天在社交媒体平台发表声明说，两国领导人同意全面恢复外交关系，双方还同意加强贸易、投资等领域的经济合作，并深化在埃博拉疫情防控方面的协作。此次四方峰会由刚果（布）总统萨苏倡议召开，肯尼亚、刚果（布）和刚果（金）三国总统及多哥部长会议主席、非盟刚果（金）东部安全危机调解人福雷出席。卡隆加曾于2024年7月返回内罗毕履职，但于同月结束任期，刚果（金）驻肯尼亚使馆由临时代办主持工作至今。",
+          "whyItMatters": "“肯尼亚与刚果同意全面恢复外交关系”如果继续发展，可能通过能源价格、航运、贸易、汇率或市场预期传导到国内。了解它的意义在于判断后续风险，而不只停留在事件本身。",
+          "userRelevance": "即使你不在事发地区，“肯尼亚与刚果同意全面恢复外交关系”也可能通过能源价格、国际航运、贸易成本和市场预期间接影响国内生活与工作判断。",
+          "whatToWatch": "接下来要看“肯尼亚与刚果同意全面恢复外交关系”是否出现新的官方信息、后续行动，以及它与中国出行、贸易或公共判断的关联是否扩大。"
+        },
+        "sourceLinks": [
+          {
+            "title": "新华网国际",
+            "url": "https://www.news.cn/world/20261123/aafe7fb9acf64c78ae3c75ab825a352b/c.html",
+            "sourceId": "xinhua-world",
+            "publishedAt": "2026-11-23T00:00:00+08:00",
+            "language": "zh",
+            "originalLanguage": "zh",
+            "translationStatus": "not-needed",
+            "fetchedAt": "2026-11-23T10:29:52.181Z",
+            "sourceMethod": "web",
+            "verificationStatus": "confirmed"
+          }
+        ],
+        "images": [],
+        "generatedAt": "2026-11-23T02:00:00.000Z"
+      },
+      {
+        "id": "draft-real-xinhua-world-1d5fyqv",
+        "title": "以情报部门警告：打击伊朗或导致多战线爆发冲突",
+        "oneLine": "政策变化：据以色列媒体此前报道，内塔尼亚胡近期正在向特朗普施压，要求其尽快打击伊朗。",
+        "importance": "A",
+        "credibility": "主流媒体",
+        "tags": [
+          "A",
+          "mustKnow",
+          "industry",
+          "world",
+          "policy"
+        ],
+        "industries": [
+          "generalPublic",
+          "financeInvestment",
+          "operationsGrowth",
+          "contentCreator"
+        ],
+        "section": "front",
+        "body": {
+          "background": "视台22日报道，以色列情报机构近日警告称，以色列如果打击伊朗或导致多条战线上同时爆发冲突。据报道，以色列在等待美国总统特朗普就伊朗问题作出决定的同时也在密集地秘密讨论各种方案。在上周一次小范围讨论中，以色列军事情报部门曾发出警告称，以色列若打击伊朗，或导致在黎巴嫩、叙利亚和加沙地带的多条战线同时爆发冲突，而这与看守政府总理内塔尼亚胡所设想的对伊实施“仅持续数天的定点打击”计划不符。",
+          "keyProgress": "报道还说，以军总参谋长扎米尔22日在视察以军南部司令部时表示，以军需要增加兵力，以应对显著增大的作战挑战。一些以方高级官员甚至称以军可能且有能力“单干”。特朗普在美国福克斯新闻频道21日播出的采访节目中说，将寻求与伊朗达成一项永久性协议，并称没有考虑伊朗政权更迭。",
+          "whyItMatters": "“以情报部门警告：打击伊朗或导致多战线爆发冲突”如果继续发展，可能通过能源价格、航运、贸易、汇率或市场预期传导到国内。了解它的意义在于判断后续风险，而不只停留在事件本身。",
+          "userRelevance": "即使你不在伊朗，“以情报部门警告：打击伊朗或导致多战线爆发冲突”也可能通过能源价格、国际航运、贸易成本和市场预期间接影响国内生活与工作判断。",
+          "whatToWatch": "接下来要看“以情报部门警告：打击伊朗或导致多战线爆发冲突”是否出现新的官方信息、后续行动，以及它与中国出行、贸易或公共判断的关联是否扩大。"
+        },
+        "sourceLinks": [
+          {
+            "title": "新华网国际",
+            "url": "https://www.news.cn/world/20261123/66bb8ea55daa4fb0b43bccd087f01ddb/c.html",
+            "sourceId": "xinhua-world",
+            "publishedAt": "2026-11-23T00:00:00+08:00",
+            "language": "zh",
+            "originalLanguage": "zh",
+            "translationStatus": "not-needed",
+            "fetchedAt": "2026-11-23T10:29:52.181Z",
+            "sourceMethod": "web",
+            "verificationStatus": "confirmed"
+          }
+        ],
+        "images": [],
+        "generatedAt": "2026-11-23T02:00:00.000Z"
+      },
+      {
+        "id": "draft-real-xinhua-world-2z16wo",
+        "title": "伊美军事冲突持续 双方表态愿谈判达成协议",
+        "oneLine": "最新进展：伊美军事冲突持续 双方表态愿谈判达成协议。",
+        "importance": "B",
+        "credibility": "主流媒体",
+        "tags": [
+          "B",
+          "mustKnow",
+          "industry",
+          "world",
+          "policy"
+        ],
+        "industries": [
+          "generalPublic",
+          "financeInvestment",
+          "operationsGrowth",
+          "contentCreator"
+        ],
+        "section": "front",
+        "body": {
+          "background": "近日，伊朗与美国持续发生军事冲突，伊朗称袭击美国在巴林境内的两处基地防空雷达，并击落美军无人机。革命卫队公布的行动视频显示，革命卫队发射了多架无人机。另据伊朗伊斯兰共和国广播电视台21日报道，伊朗军方当天发表声明说，伊朗防空部队20日晚在波斯湾上空拦截一架F-16战斗机并致其受损，迫使其紧急降落。",
+          "keyProgress": "伊朗正与包括卡塔尔在内的调解方保持接触，探讨能否再次推动外交途径解决与美国之间的冲突问题。只要美国能够满足该计划的条件，双方就能推动相关进程向前发展。加里巴巴迪表示，伊美目前尚未启动谈判。只要伊朗的要求在谈判中得到满足，“霍尔木兹海峡就会开放”。",
+          "whyItMatters": "“伊美军事冲突持续 双方表态愿谈判达成协议”如果继续发展，可能通过能源价格、航运、贸易、汇率或市场预期传导到国内。了解它的意义在于判断后续风险，而不只停留在事件本身。",
+          "userRelevance": "即使你不在事发地区，“伊美军事冲突持续 双方表态愿谈判达成协议”也可能通过能源价格、国际航运、贸易成本和市场预期间接影响国内生活与工作判断。",
+          "whatToWatch": "接下来要看“伊美军事冲突持续 双方表态愿谈判达成协议”是否出现新的官方信息、后续行动，以及它与中国出行、贸易或公共判断的关联是否扩大。"
+        },
+        "sourceLinks": [
+          {
+            "title": "新华网国际",
+            "url": "https://www.news.cn/world/20261122/cea4d1a84b914143bad0d8e024b88258/c.html",
+            "sourceId": "xinhua-world",
+            "publishedAt": "2026-11-22T00:00:00+08:00",
+            "language": "zh",
+            "originalLanguage": "zh",
+            "translationStatus": "not-needed",
+            "fetchedAt": "2026-11-23T10:29:52.181Z",
+            "sourceMethod": "web",
+            "verificationStatus": "confirmed"
+          }
+        ],
+        "images": [],
+        "generatedAt": "2026-11-23T02:00:00.000Z"
+      },
+      {
+        "id": "draft-real-xinhua-world-16my29k",
+        "title": "伊朗总统：正进行的经济战远比军事冲突“更为艰难”",
+        "oneLine": "政策变化：据伊朗伊斯兰共和国通讯社21日报道，伊朗总统佩泽希齐扬当天表示，伊朗正卷入一场“无声”的经济战，这场战争远比军事冲突“更为艰难”。",
+        "importance": "B",
+        "credibility": "主流媒体",
+        "tags": [
+          "B",
+          "mustKnow",
+          "industry",
+          "world",
+          "policy"
+        ],
+        "industries": [
+          "generalPublic",
+          "financeInvestment",
+          "operationsGrowth",
+          "contentCreator"
+        ],
+        "section": "front",
+        "body": {
+          "background": "此外，伊朗内政部副部长阿里·泽尼万德21日在德黑兰举行的新闻发布会上说，美国对伊朗实施了海上封锁、陆路和空中限制，但这些限制未能阻断伊朗的贸易往来。他说，伊朗此前与邻国暂时关闭边境，并未对伊朗的边境贸易造成严重干扰。佩泽希齐扬在德黑兰出席一场会议时指出，敌人曾企图在伊朗制造饥荒并导致国内市场物资短缺，但未能得逞，伊朗的生产活动仍在继续。",
+          "keyProgress": "佩泽希齐扬说，伊朗的安全和军事力量已作出强有力回应。他呼吁全国在面对“敌人的入侵和不对等战争”时进一步加强团结与凝聚力。伊朗内政部正与周边国家进行磋商，跟进边境和贸易相关事宜，希望解决现有问题。",
+          "whyItMatters": "“伊朗总统：正进行的经济战远比军事冲突更为艰难”如果继续发展，可能通过能源价格、航运、贸易、汇率或市场预期传导到国内。了解它的意义在于判断后续风险，而不只停留在事件本身。",
+          "userRelevance": "即使你不在伊朗，“伊朗总统：正进行的经济战远比军事冲突更为艰难”也可能通过能源价格、国际航运、贸易成本和市场预期间接影响国内生活与工作判断。",
+          "whatToWatch": "接下来要看“伊朗总统：正进行的经济战远比军事冲突更为艰难”是否出现新的官方信息、后续行动，以及它与中国出行、贸易或公共判断的关联是否扩大。"
+        },
+        "sourceLinks": [
+          {
+            "title": "新华网国际",
+            "url": "https://www.news.cn/world/20261122/b839cb066b744febb6ca83f4071cbf1e/c.html",
+            "sourceId": "xinhua-world",
+            "publishedAt": "2026-11-22T00:00:00+08:00",
+            "language": "zh",
+            "originalLanguage": "zh",
+            "translationStatus": "not-needed",
+            "fetchedAt": "2026-11-23T10:29:52.181Z",
+            "sourceMethod": "web",
+            "verificationStatus": "confirmed"
+          }
+        ],
+        "images": [],
+        "generatedAt": "2026-11-23T02:00:00.000Z"
+      },
+      {
+        "id": "draft-real-eol-education-1s2edvq",
+        "title": "国际丝绸组织在杭州成立 浙江理工大学校长陈文兴任主席并发布倡议",
+        "oneLine": "政策变化：合作邮箱：bianji@eol.cn 官方微信ID：eoleoleol 国际丝绸组织成立大会11月20日在杭州举行。",
+        "importance": "B",
+        "credibility": "待确认",
+        "tags": [
+          "B",
+          "industry",
+          "local",
+          "education",
+          "policy",
+          "china"
+        ],
+        "industries": [
+          "teacher",
+          "educationResearch",
+          "generalPublic"
+        ],
+        "section": "local",
+        "body": {
+          "background": "在浙期间，张国清还就历史经典产业开展调研。会议上，国际丝绸组织主席、中国工程院院士、浙江理工大学校长陈文兴发布《全球丝绸产业发展倡议》，倡议立足千年丝绸文明根基与全球丝绸产业共同发展需求，传承丝路文明根脉、凝聚全球产业共识、构建多方共赢的产业生态，赋能全球丝绸产业高质量可持续发展。中共中央政治局委员、国务院副总理张国清出席成立大会并致辞。",
+          "keyProgress": "丝绸承载着数千年的技艺传承，是镌刻在人类文明长河中的华美印记，是共建“一带一路”、推动经贸往来与文化交流的重要载体。中方愿与各方一道，践行四大全球倡议，弘扬以和平合作、开放包容、互学互鉴、互利共赢为核心的丝路精神，共同推动全球丝绸产业繁荣发展。要在国际丝绸组织框架下搭建信息共享、供需对接、交流合作的公共服务平台，推动蚕桑资源培育、生产加工、贸易投资等领域务实合作，共建开放普惠的合作体系。要加强文化交流，推动丝绸技艺跨国展示、非遗传承人互访、设计师跨国联合创作等，促进各国丝绸技艺、设计理念与文化传统的相互交融，共织互学互鉴的友谊纽带。",
+          "whyItMatters": "“国际丝绸组织在杭州成立 浙江理工大学校长陈文兴任主席并发布倡议”可能影响学校治理、教师工作、课程安排或学生发展。教育从业者可以据此提前关注具体对象、地方执行方式和工作要求。",
+          "userRelevance": "如果你从事教师、教育研究或学校管理，可以重点关注“国际丝绸组织在杭州成立 浙江理工大学校长陈文兴任主席并发布倡议”的具体对象、执行方式和地方落地节奏；其他用户可把它作为教育环境背景了解。",
+          "whatToWatch": "接下来要看“国际丝绸组织在杭州成立 浙江理工大学校长陈文兴任主席并发布倡议”是否补充执行细则、地方落地安排、时间节点或适用人群说明。"
+        },
+        "sourceLinks": [
+          {
+            "title": "中国教育在线要闻",
+            "url": "https://www.eol.cn/news/yaowen/202611/t20261123_2797790.shtml",
+            "sourceId": "eol-education",
+            "publishedAt": "2026-11-23T00:00:00+08:00",
+            "language": "zh",
+            "originalLanguage": "zh",
+            "translationStatus": "not-needed",
+            "fetchedAt": "2026-11-23T10:29:59.411Z",
+            "sourceMethod": "web",
+            "verificationStatus": "pending"
+          }
+        ],
+        "images": [
+          {
+            "url": "https://www.eol.cn/images/ad/2017_img/arrow.png",
+            "sourceUrl": "https://www.eol.cn/news/yaowen/202611/t20261123_2797790.shtml"
+          },
+          {
+            "url": "https://www.eol.cn/images/ad/2017_img/phone.png",
+            "sourceUrl": "https://www.eol.cn/news/yaowen/202611/t20261123_2797790.shtml"
+          },
+          {
+            "url": "https://img.eol.cn/e_images/gk/2020/newzsgk.jpg",
+            "sourceUrl": "https://www.eol.cn/news/yaowen/202611/t20261123_2797790.shtml"
+          },
+          {
+            "url": "https://img.eol.cn/e_images/gk/2023/zsky2023.jpg",
+            "sourceUrl": "https://www.eol.cn/news/yaowen/202611/t20261123_2797790.shtml"
+          },
+          {
+            "url": "https://www.eol.cn/e_images/index/2018/acabridge.png",
+            "sourceUrl": "https://www.eol.cn/news/yaowen/202611/t20261123_2797790.shtml"
+          }
+        ],
+        "generatedAt": "2026-11-23T02:00:00.000Z"
+      },
+      {
+        "id": "draft-real-city-news-rss:%E4%B8%AD%E5%9B%BD-%E4%B8%8A%E6%B5%B7-xkz3m6",
+        "title": "招引三家龙头 崛起三个产业集群 新质生产力在闵行全域铺开 2026-11-23 今日上海",
+        "oneLine": "最新进展：招引三家龙头 崛起三个产业集群 新质生产力在闵行全域铺开 2026-11-23 今日上海。",
+        "importance": "B",
+        "credibility": "待确认",
+        "tags": [
+          "B",
+          "industry",
+          "local",
+          "policy",
+          "china"
+        ],
+        "industries": [
+          "localLife",
+          "generalPublic",
+          "operationsGrowth"
+        ],
+        "section": "local",
+        "body": {
+          "background": "两年间，闵行招商专班全程跟进，邀请核心成员、总部高管分批来华，走进恩格尔、博世力士乐、拓璞数控等龙头企业车间，实地感受上海高端装备产业的发展底蕴。&ldquo;落户五年最深的感受：闵行营商环境的软实力，已经转化为产业发展的硬支撑。达诺巴特亚太区总部项目的工地上，轰鸣了一个多月的打桩声渐渐停歇，项目开始进入深基坑开挖阶段，预计2027年正式投产。",
+          "keyProgress": "达诺巴特中国区首席执行官钟鹤鸣直言：&ldquo;在上海，闵行提供的不仅是一块工业用地，更是一个可以协同创新的产业生态圈。2026年9月15日，埃及顶级能源企业爱思威迪电气全资子公司正式在南虹桥揭牌运营，这是企业布局中国市场的首个总部平台，标志着跨国能源巨头正式将中国供应链、亚非贸易通道的核心枢纽落地闵行。依托品牌渠道优势，将中国光伏、电力设备、新能源技术批量输出中东、非洲市场，打通中外能源产业双向流通通道。谈及为何深耕闵行，季煦给出三大核心标准：绝佳的市场腹地、完备的生物医药配套、稳定优质的制度环境。",
+          "whyItMatters": "“招引三家龙头 崛起三个产业集群 新质生产力在闵行全域铺开 2026-11-23 今日上海”可能改变个人办事、出行、公共服务或行业规则。提前确认适用范围和生效时间，可以减少信息滞后带来的判断偏差。",
+          "userRelevance": "作为中国居民，你需要留意“招引三家龙头 崛起三个产业集群 新质生产力在闵行全域铺开 2026-11-23 今日上海”是否改变办事、出行或公共服务规则；如果你从事本地生活、运营增长，还应关注行业执行细则。",
+          "whatToWatch": "接下来要看“招引三家龙头 崛起三个产业集群 新质生产力在闵行全域铺开 2026-11-23 今日上海”是否补充执行细则、地方落地安排、时间节点或适用人群说明。"
+        },
+        "sourceLinks": [
+          {
+            "title": "直辖市·上海本地公开信息",
+            "url": "https://www.shanghai.gov.cn/nw4411/20261123/e089147fd4ae4c25b77d39ccc2d6dcb5.html",
+            "sourceId": "city-news-rss:%E4%B8%AD%E5%9B%BD-%E4%B8%8A%E6%B5%B7",
+            "publishedAt": "2026-11-23T00:00:00+08:00",
+            "language": "zh",
+            "originalLanguage": "zh",
+            "translationStatus": "not-needed",
+            "fetchedAt": "2026-11-23T10:32:04.460Z",
+            "sourceMethod": "web",
+            "verificationStatus": "pending"
+          }
+        ],
+        "images": [],
+        "generatedAt": "2026-11-23T02:00:00.000Z"
+      },
+      {
+        "id": "draft-real-xinhua-tech-1i9b6v9",
+        "title": "2026年全球脑机接口企业数量实现较快增长",
+        "oneLine": "趋势信号：11月21日至22日，2026脑机接口大会开幕式及多场论坛在北京市昌平区举办。",
+        "importance": "B",
+        "credibility": "主流媒体",
+        "tags": [
+          "B",
+          "industry",
+          "technology",
+          "ai",
+          "product"
+        ],
+        "industries": [
+          "technologyEngineering",
+          "educationResearch",
+          "aiProduct",
+          "aiTechnology",
+          "productManagement",
+          "operationsGrowth"
+        ],
+        "section": "ai",
+        "body": {
+          "background": "会上发布了《脑机接口创新发展研究报告（2026）》。报告认为，2026年，全球脑机接口取得新进展，企业数量实现较快增长。同时，行业格局出现新变化，信息通信和医疗行业头部企业开始进入赛道。",
+          "keyProgress": "2026年全球脑机接口企业数量实现较快增长。2026年全球脑机接口企业数量实现较快增长",
+          "whyItMatters": "“2026年全球脑机接口企业数量实现较快增长”能帮助你判断这项能力是否已经进入工程、产品或商业场景，并据此调整技术选型、产品规划、学习重点或职业判断。",
+          "userRelevance": "如果你从事技术研发、教育研究、AI 产品、AI 技术，可以重点判断“2026年全球脑机接口企业数量实现较快增长”是否已经具备产品落地、技术选型或业务合作价值。",
+          "whatToWatch": "接下来要看“2026年全球脑机接口企业数量实现较快增长”是否有更多可靠来源、量产或应用进展，以及它会不会从单点消息发展成持续趋势。"
+        },
+        "sourceLinks": [
+          {
+            "title": "新华网科技",
+            "url": "https://www.news.cn/tech/20261123/7a050416a9b34966aad066ccd4f4e0df/c.html",
+            "sourceId": "xinhua-tech",
+            "publishedAt": "2026-11-23T00:00:00+08:00",
+            "language": "zh",
+            "originalLanguage": "zh",
+            "translationStatus": "not-needed",
+            "fetchedAt": "2026-11-23T10:29:56.005Z",
+            "sourceMethod": "web",
+            "verificationStatus": "confirmed"
+          }
+        ],
+        "images": [],
+        "generatedAt": "2026-11-23T02:00:00.000Z"
+      },
+      {
+        "id": "draft-real-xinhua-tech-g372eb",
+        "title": "芯位科技锚定教育与AI共生 探索高等教育新实践",
+        "oneLine": "趋势信号：11月19日至21日，以“人工智能发展与高等教育变革”为主题的2026芯位教育论坛在海南三亚举办。",
+        "importance": "B",
+        "credibility": "主流媒体",
+        "tags": [
+          "B",
+          "industry",
+          "technology",
+          "ai",
+          "product"
+        ],
+        "industries": [
+          "technologyEngineering",
+          "educationResearch",
+          "aiProduct",
+          "aiTechnology",
+          "productManagement",
+          "operationsGrowth"
+        ],
+        "section": "ai",
+        "body": {
+          "background": "本次论坛由吉利人才发展集团主办，芯位科技、三亚学院、芯位人工智能学院等承办，吸引来自全球33个国家和地区的千余名政产学研各界代表参会，围绕AI时代大学发展、人才培养创新、产教融合与全球协同等核心议题展开深度交流。本次论坛既是前沿思想碰撞平台，也是芯位教育全球合作伙伴网络的聚力枢纽。作为专注AI数智赋能教育的科技企业，芯位科技以本次论坛为窗口，展现了以自主技术为底座、以创新模式为抓手，推动新时期高等教育的实践路径。",
+          "keyProgress": "“三个校园”+“三导师” 吉利控股集团董事长李书福表示，人工智能时代呼唤大学培养体系创新与能力转型，以“人工智能时代与三个校园组合”推动理论与实践紧密结合，让学生在实践中认知、感悟，在参与真实项目过程中锻炼成长。“跨界校园”打破校产壁垒，将卫星工厂、AI实验室等真实产业场景转化为教学载体，让企业从人才接收方变为培养共同设计者；“跨线校园”打通线上线下，依托芯位科技的“芯位AI”数智底座实现物理校园与数字空间双向赋能，让学习突破时空约束。吉利人才发展集团CEO兼芯位教育、芯位科技董事长、全球CEO陆丹认为，人工智能时代高校与企业的组织变革势在必行，大模型时代人才培养的核心需从知识积累转向能力生成，在论坛上，陆丹分享了芯位教育“AI+HI人机协同人才培养方案”的核心要义。",
+          "whyItMatters": "“芯位科技锚定教育与AI共生 探索高等教育新实践”能帮助你判断这项能力是否已经进入工程、产品或商业场景，并据此调整技术选型、产品规划、学习重点或职业判断。",
+          "userRelevance": "如果你从事技术研发、教育研究、AI 产品、AI 技术，可以重点判断“芯位科技锚定教育与AI共生 探索高等教育新实践”是否已经具备产品落地、技术选型或业务合作价值。",
+          "whatToWatch": "接下来要看“芯位科技锚定教育与AI共生 探索高等教育新实践”是否有更多可靠来源、量产或应用进展，以及它会不会从单点消息发展成持续趋势。"
+        },
+        "sourceLinks": [
+          {
+            "title": "新华网科技",
+            "url": "https://www.news.cn/tech/20261123/30cc4369d9ec457db5e096e794890bf5/c.html",
+            "sourceId": "xinhua-tech",
+            "publishedAt": "2026-11-23T00:00:00+08:00",
+            "language": "zh",
+            "originalLanguage": "zh",
+            "translationStatus": "not-needed",
+            "fetchedAt": "2026-11-23T10:29:56.005Z",
+            "sourceMethod": "web",
+            "verificationStatus": "confirmed"
+          }
+        ],
+        "images": [
+          {
+            "url": "https://www.news.cn/tech/20261123/30cc4369d9ec457db5e096e794890bf5/2026112330cc4369d9ec457db5e096e794890bf5_20261123a1ab3d3e27f04f1e985197041b674367.png",
+            "sourceUrl": "https://www.news.cn/tech/20261123/30cc4369d9ec457db5e096e794890bf5/c.html"
+          },
+          {
+            "url": "https://www.news.cn/tech/20261123/30cc4369d9ec457db5e096e794890bf5/2026112330cc4369d9ec457db5e096e794890bf5_202611233cffe0e270b04f2dbfded524e4b3a15b.png",
+            "sourceUrl": "https://www.news.cn/tech/20261123/30cc4369d9ec457db5e096e794890bf5/c.html"
+          },
+          {
+            "url": "https://www.news.cn/tech/20261123/30cc4369d9ec457db5e096e794890bf5/2026112330cc4369d9ec457db5e096e794890bf5_202611237b64e604f2aa4e4aa16bd1bf7e122cf3.png",
+            "sourceUrl": "https://www.news.cn/tech/20261123/30cc4369d9ec457db5e096e794890bf5/c.html"
+          }
+        ],
+        "generatedAt": "2026-11-23T02:00:00.000Z"
+      },
+      {
+        "id": "draft-real-xinhua-tech-1bhi0zk",
+        "title": "大咖云集探讨脑机接口未来发展方向",
+        "oneLine": "趋势信号：11月21日至22日，以“脑智芯联·机遇昌平”为主题的2026脑机接口大会在北京昌平成功举办。",
+        "importance": "B",
+        "credibility": "主流媒体",
+        "tags": [
+          "B",
+          "industry",
+          "technology",
+          "ai",
+          "product"
+        ],
+        "industries": [
+          "technologyEngineering",
+          "educationResearch",
+          "aiProduct",
+          "aiTechnology",
+          "productManagement",
+          "operationsGrowth"
+        ],
+        "section": "ai",
+        "body": {
+          "background": "会上集中发布了2026脑机接口标志性成果。《脑机接口创新发展研究报告（2026）》也正式公布，报告梳理了脑机接口产业概况与发展趋势。众多专家也在大会期间阐述了对脑机接口未来发展方向的展望。",
+          "keyProgress": "大咖云集探讨脑机接口未来发展方向。大咖云集探讨脑机接口未来发展方向",
+          "whyItMatters": "“大咖云集探讨脑机接口未来发展方向”能帮助你判断这项能力是否已经进入工程、产品或商业场景，并据此调整技术选型、产品规划、学习重点或职业判断。",
+          "userRelevance": "如果你从事技术研发、教育研究、AI 产品、AI 技术，可以重点判断“大咖云集探讨脑机接口未来发展方向”是否已经具备产品落地、技术选型或业务合作价值。",
+          "whatToWatch": "接下来要看“大咖云集探讨脑机接口未来发展方向”是否有更多可靠来源、量产或应用进展，以及它会不会从单点消息发展成持续趋势。"
+        },
+        "sourceLinks": [
+          {
+            "title": "新华网科技",
+            "url": "https://www.news.cn/tech/20261123/170ed32158d8424cb8c14992615a1f17/c.html",
+            "sourceId": "xinhua-tech",
+            "publishedAt": "2026-11-23T00:00:00+08:00",
+            "language": "zh",
+            "originalLanguage": "zh",
+            "translationStatus": "not-needed",
+            "fetchedAt": "2026-11-23T10:29:56.005Z",
+            "sourceMethod": "web",
+            "verificationStatus": "confirmed"
+          }
+        ],
+        "images": [
+          {
+            "url": "https://www.news.cn/tech/20261123/170ed32158d8424cb8c14992615a1f17/20261123170ed32158d8424cb8c14992615a1f17_ae9f9551f3e2407ba65c6b1cf3b7560a.png",
+            "sourceUrl": "https://www.news.cn/tech/20261123/170ed32158d8424cb8c14992615a1f17/c.html"
+          },
+          {
+            "url": "https://www.news.cn/tech/20261123/170ed32158d8424cb8c14992615a1f17/20261123170ed32158d8424cb8c14992615a1f17_65adc77c11d04e849a9c9da8b0ea0517.png",
+            "sourceUrl": "https://www.news.cn/tech/20261123/170ed32158d8424cb8c14992615a1f17/c.html"
+          }
+        ],
+        "generatedAt": "2026-11-23T02:00:00.000Z"
+      },
+      {
+        "id": "draft-real-xinhua-tech-1ymzdul",
+        "title": "国家所需，就是科研所向——中核集团中国辐射防护研究院前沿中心总工程师赵日",
+        "oneLine": "趋势信号：赵日（左）与团队讨论核医疗中的剂量学技术 以上图片均为中核集团提供 今年4月，2026年度中国青年五四奖章暨新时代青年先锋奖评选结果揭晓。",
+        "importance": "B",
+        "credibility": "主流媒体",
+        "tags": [
+          "B",
+          "industry",
+          "technology"
+        ],
+        "industries": [
+          "technologyEngineering",
+          "educationResearch"
+        ],
+        "section": "industry",
+        "body": {
+          "background": "许多老学长从20多岁起便扎根大山深处、戈壁荒原直至退休，他们不慕物质享受，放弃优越条件，一辈子只干一件事的坚守精神，给我极大触动。”赵日介绍，目前，该技术已集成到各类硬件产品中，广泛应用于核工业领域，创造经济效益上亿元。随着放射治疗、CT、核药等核技术在医疗中的应用增加，我国对射线精准控制的需求日益迫切，但此前缺乏系统的辐射剂量研究。",
+          "keyProgress": "8年来，赵日瞄准世界性难题，建立起国内唯一、国际领先的伽马射线探测分析技术；” “就像上学时数学考试最后一道大题，我就喜欢做难题” 2006年，赵日考入清华大学工程物理系核工程与核技术专业，适逢该系建立50周年。上世纪50年代，为培养原子能科技人才，清华大学启动原子能新专业筹建工作。赵日来到中辐院后，单位充分重视，在安家、科研启动等方面给予一系列具体支持。",
+          "whyItMatters": "“国家所需，就是科研所向——中核集团中国辐射防护研究院前沿中心总工程师赵日”能帮助你判断这项能力是否已经进入工程、产品或商业场景，并据此调整技术选型、产品规划、学习重点或职业判断。",
+          "userRelevance": "如果你从事技术研发、教育研究，可以重点判断“国家所需，就是科研所向——中核集团中国辐射防护研究院前沿中心总工程师赵日”是否已经具备产品落地、技术选型或业务合作价值。",
+          "whatToWatch": "接下来要看“国家所需，就是科研所向——中核集团中国辐射防护研究院前沿中心总工程师赵日”是否有更多可靠来源、量产或应用进展，以及它会不会从单点消息发展成持续趋势。"
+        },
+        "sourceLinks": [
+          {
+            "title": "新华网科技",
+            "url": "https://www.news.cn/tech/20261123/89c522d410374ccc824cb90f1e08ca0d/c.html",
+            "sourceId": "xinhua-tech",
+            "publishedAt": "2026-11-23T00:00:00+08:00",
+            "language": "zh",
+            "originalLanguage": "zh",
+            "translationStatus": "not-needed",
+            "fetchedAt": "2026-11-23T10:29:56.005Z",
+            "sourceMethod": "web",
+            "verificationStatus": "confirmed"
+          }
+        ],
+        "images": [
+          {
+            "url": "https://www.news.cn/tech/20261123/89c522d410374ccc824cb90f1e08ca0d/2026112389c522d410374ccc824cb90f1e08ca0d_2026112352ad7446219440bf9e0fd939308cbfa5.jpg",
+            "sourceUrl": "https://www.news.cn/tech/20261123/89c522d410374ccc824cb90f1e08ca0d/c.html"
+          },
+          {
+            "url": "https://www.news.cn/tech/20261123/89c522d410374ccc824cb90f1e08ca0d/2026112389c522d410374ccc824cb90f1e08ca0d_202611236f0d2659a7044208a27051725588a53e.jpg",
+            "sourceUrl": "https://www.news.cn/tech/20261123/89c522d410374ccc824cb90f1e08ca0d/c.html"
+          }
+        ],
+        "generatedAt": "2026-11-23T02:00:00.000Z"
+      },
+      {
+        "id": "draft-real-eol-education-1t6htjk",
+        "title": "《教材管理条例（征求意见稿）》面向社会公开征求意见",
+        "oneLine": "政策变化：合作邮箱：bianji@eol.cn 官方微信ID：eoleoleol 近日，教育部就《教材管理条例(征求意见稿)》面向社会公开征求意见。",
+        "importance": "B",
+        "credibility": "待确认",
+        "tags": [
+          "B",
+          "industry",
+          "education",
+          "policy",
+          "china"
+        ],
+        "industries": [
+          "teacher",
+          "educationResearch",
+          "generalPublic"
+        ],
+        "section": "industry",
+        "body": {
+          "background": "关于条例征求意见稿的出台背景，教育部有关负责人介绍，党的十八大以来，我国教材工作取得历史性成就、发生格局性变化。据介绍，条例征求意见稿以推进中国特色高质量教材体系建设为目标，以服务支撑教材工作实际需要为导向，全文共8章67条，主要包括坚持党的领导、完善教材工作体系、规范全链条管理、严格教材质量要求、加强支持保障等方面内容，构建起教材管理的法律规范。条例征求意见稿研制过程中，法律和教育领域多位资深专家参与，广泛开展调研，充分听取中央和国家机关、省级教育行政部门和大中小学校等各方意见，反复修改完善，严格履行评估审核程序，增强制度的针对性、实效性和前瞻性。",
+          "keyProgress": "面对新形势新任务，教材工作需要进一步发挥法治固根本、稳预期、利长远作用，完善协同治理机制，不断提升教材质量，加快建设中国特色高质量教材体系。经过长期实践，教材工作积累了许多行之有效的做法，有必要将成熟有效的政策措施和实践经验上升为法规制度，通过立法加强顶层设计，为教材事业高质量发展提供坚实法治保障。教育部关于《教材管理条例(征求意见稿)》公开征求意见的公告 为深入贯彻党的二十大和二十届历次全会精神，落实《教育强国建设规划纲要(2024—2035年)》和全国教材工作会议部署，加强教材建设和管理，推进中国特色高质量教材体系建设，教育部在深入调研与广泛征求意见基础上，研究形成《教材管理条例(征求意见稿)》。现面向社会公开征求意见，公众可通过以下途径和方式提出反馈意见： 一、通过信函方式将意见邮寄至：北京市西城区大木仓胡同35号教育部政策法规司(邮编：100816)。",
+          "whyItMatters": "“教材管理条例面向社会公开征求意见”可能影响学校治理、教师工作、课程安排或学生发展。教育从业者可以据此提前关注具体对象、地方执行方式和工作要求。",
+          "userRelevance": "如果你从事教师、教育研究或学校管理，可以重点关注“教材管理条例面向社会公开征求意见”的具体对象、执行方式和地方落地节奏；其他用户可把它作为教育环境背景了解。",
+          "whatToWatch": "接下来要看“教材管理条例面向社会公开征求意见”是否补充执行细则、地方落地安排、时间节点或适用人群说明。"
+        },
+        "sourceLinks": [
+          {
+            "title": "中国教育在线要闻",
+            "url": "https://www.eol.cn/news/yaowen/202611/t20261123_2797784.shtml",
+            "sourceId": "eol-education",
+            "publishedAt": "2026-11-23T00:00:00+08:00",
+            "language": "zh",
+            "originalLanguage": "zh",
+            "translationStatus": "not-needed",
+            "fetchedAt": "2026-11-23T10:29:59.411Z",
+            "sourceMethod": "web",
+            "verificationStatus": "pending"
+          }
+        ],
+        "images": [
+          {
+            "url": "https://www.eol.cn/images/ad/2017_img/arrow.png",
+            "sourceUrl": "https://www.eol.cn/news/yaowen/202611/t20261123_2797784.shtml"
+          },
+          {
+            "url": "https://www.eol.cn/images/ad/2017_img/phone.png",
+            "sourceUrl": "https://www.eol.cn/news/yaowen/202611/t20261123_2797784.shtml"
+          },
+          {
+            "url": "https://img.eol.cn/e_images/gk/2020/newzsgk.jpg",
+            "sourceUrl": "https://www.eol.cn/news/yaowen/202611/t20261123_2797784.shtml"
+          },
+          {
+            "url": "https://img.eol.cn/e_images/gk/2023/zsky2023.jpg",
+            "sourceUrl": "https://www.eol.cn/news/yaowen/202611/t20261123_2797784.shtml"
+          },
+          {
+            "url": "https://www.eol.cn/e_images/index/2018/acabridge.png",
+            "sourceUrl": "https://www.eol.cn/news/yaowen/202611/t20261123_2797784.shtml"
+          }
+        ],
+        "generatedAt": "2026-11-23T02:00:00.000Z"
+      },
+      {
+        "id": "draft-real-eol-education-32fy9c",
+        "title": "奖助学金陆续到账，全国学生资助管理中心提醒：认准官方渠道，提防诈骗套路",
+        "oneLine": "政策变化：套路一 假称“到账前审核” 谎称贷款或助学金发放前需“验资流水”“激活账户”，诱导转账或要求开启屏幕共享“指导操作”。",
+        "importance": "B",
+        "credibility": "待确认",
+        "tags": [
+          "B",
+          "industry",
+          "education",
+          "policy",
+          "china"
+        ],
+        "industries": [
+          "teacher",
+          "educationResearch",
+          "generalPublic"
+        ],
+        "section": "industry",
+        "body": {
+          "background": "近期，多地教育、公安部门及高校发布反诈预警：不法分子冒充学生资助管理中心、银行客服，以“完善贷款资料”“账户注销影响征信”“助学金余额退补”等话术，瞄准学生对到账、退补、注销流程不熟悉的情况行骗。为帮助学生及家长识别风险，全国学生资助管理中心授权全国教育辟谣平台发布防骗提醒。资助公告仅通过学校官网、校园官方平台及生源地学生资助管理中心官方渠道发布，工作人员不私聊索要身份证号、银行卡号等敏感信息。",
+          "keyProgress": "助学贷款办理与发放全程不收手续费、激活费、验资费，不要求学生向任何账户转账。正规资助不存在“先打款核验”，凡要求预先转账的，均为诈骗。银行不会通过电话、微信要求注销账户，也不会委托任何个人协助“修复征信”或远程操作账户。凡以“注销保征信”为名要求转账的，都是骗局。",
+          "whyItMatters": "“奖助学金陆续到账，全国学生资助管理中心提醒：认准官方渠道，提防诈骗套路”可能影响学校治理、教师工作、课程安排或学生发展。教育从业者可以据此提前关注具体对象、地方执行方式和工作要求。",
+          "userRelevance": "如果你从事教师、教育研究或学校管理，可以重点关注“奖助学金陆续到账，全国学生资助管理中心提醒：认准官方渠道，提防诈骗套路”的具体对象、执行方式和地方落地节奏；其他用户可把它作为教育环境背景了解。",
+          "whatToWatch": "接下来要看“奖助学金陆续到账，全国学生资助管理中心提醒：认准官方渠道，提防诈骗套路”是否补充执行细则、地方落地安排、时间节点或适用人群说明。"
+        },
+        "sourceLinks": [
+          {
+            "title": "中国教育在线要闻",
+            "url": "https://www.eol.cn/news/yaowen/202611/t20261123_2797664.shtml",
+            "sourceId": "eol-education",
+            "publishedAt": "2026-11-23T00:00:00+08:00",
+            "language": "zh",
+            "originalLanguage": "zh",
+            "translationStatus": "not-needed",
+            "fetchedAt": "2026-11-23T10:29:59.411Z",
+            "sourceMethod": "web",
+            "verificationStatus": "pending"
+          }
+        ],
+        "images": [
+          {
+            "url": "https://www.eol.cn/images/ad/2017_img/arrow.png",
+            "sourceUrl": "https://www.eol.cn/news/yaowen/202611/t20261123_2797664.shtml"
+          },
+          {
+            "url": "https://www.eol.cn/images/ad/2017_img/phone.png",
+            "sourceUrl": "https://www.eol.cn/news/yaowen/202611/t20261123_2797664.shtml"
+          },
+          {
+            "url": "https://img.eol.cn/e_images/gk/2020/newzsgk.jpg",
+            "sourceUrl": "https://www.eol.cn/news/yaowen/202611/t20261123_2797664.shtml"
+          },
+          {
+            "url": "https://img.eol.cn/e_images/gk/2023/zsky2023.jpg",
+            "sourceUrl": "https://www.eol.cn/news/yaowen/202611/t20261123_2797664.shtml"
+          },
+          {
+            "url": "https://www.eol.cn/e_images/index/2018/acabridge.png",
+            "sourceUrl": "https://www.eol.cn/news/yaowen/202611/t20261123_2797664.shtml"
+          }
+        ],
+        "generatedAt": "2026-11-23T02:00:00.000Z"
+      },
+      {
+        "id": "draft-real-eol-education-16b9juw",
+        "title": "2025年度北京市科学技术奖揭晓！这些高校成果入选",
+        "oneLine": "政策变化：合作邮箱：bianji@eol.cn 官方微信ID：eoleoleol 日前，2025年度北京市科学技术奖共评选出194个项目，包括北京市自然科学奖59项(一等奖15项、二等奖44项)、北京市技术发明奖26项(一等奖6项、二等奖20项)、北京市科学技术进步奖109项(一等奖29项、二等奖80项)。",
+        "importance": "B",
+        "credibility": "待确认",
+        "tags": [
+          "B",
+          "industry",
+          "education",
+          "policy",
+          "china"
+        ],
+        "industries": [
+          "teacher",
+          "educationResearch",
+          "generalPublic"
+        ],
+        "section": "industry",
+        "body": {
+          "background": "此外，还授予2项北京市突出贡献中关村奖、29项北京市杰出青年中关村奖、9项北京市国际合作中关村奖。首都高校及其附属医院作为完成单位获奖136项。其中作为第一完成单位共获97项，占授奖总数的50.0%，较2024年增加9项，同比增长10.2%，共有18所高校作为第一完成单位获奖。",
+          "keyProgress": "北京市杰出贡献中关村奖、杰出青年中关村奖中，首都高校及其附属医院科研人员获奖13项，较2024年增加2项，同比增加18.2%。2025年度北京市科学技术奖 自然科学奖 (高校获奖情况) 2025年度北京市科学技术奖 技术发明奖 (高校获奖情况) 2025年度北京市科学技术奖 科学技术进步奖 (高校获奖情况) 2025年度北京市科学技术奖 突出贡献中关村奖 杰出青年中关村奖 (高校获奖情况) ② 本站注明稿件来源为其他媒体的文/图等稿件均为转载稿，本站转载出于非商业性的教育和科研之目的，并不意味着赞同其观点或证实其内容的真实性。如转载稿涉及版权等问题，请作者在两周内速来电或来函联系。",
+          "whyItMatters": "“2025年度北京市科学技术奖揭晓！这些高校成果入选”可能影响学校治理、教师工作、课程安排或学生发展。教育从业者可以据此提前关注具体对象、地方执行方式和工作要求。",
+          "userRelevance": "如果你从事教师、教育研究或学校管理，可以重点关注“2025年度北京市科学技术奖揭晓！这些高校成果入选”的具体对象、执行方式和地方落地节奏；其他用户可把它作为教育环境背景了解。",
+          "whatToWatch": "接下来要看“2025年度北京市科学技术奖揭晓！这些高校成果入选”是否补充执行细则、地方落地安排、时间节点或适用人群说明。"
+        },
+        "sourceLinks": [
+          {
+            "title": "中国教育在线要闻",
+            "url": "https://www.eol.cn/news/yaowen/202611/t20261123_2797654.shtml",
+            "sourceId": "eol-education",
+            "publishedAt": "2026-11-23T00:00:00+08:00",
+            "language": "zh",
+            "originalLanguage": "zh",
+            "translationStatus": "not-needed",
+            "fetchedAt": "2026-11-23T10:29:59.411Z",
+            "sourceMethod": "web",
+            "verificationStatus": "pending"
+          }
+        ],
+        "images": [
+          {
+            "url": "https://www.eol.cn/images/ad/2017_img/arrow.png",
+            "sourceUrl": "https://www.eol.cn/news/yaowen/202611/t20261123_2797654.shtml"
+          },
+          {
+            "url": "https://www.eol.cn/images/ad/2017_img/phone.png",
+            "sourceUrl": "https://www.eol.cn/news/yaowen/202611/t20261123_2797654.shtml"
+          },
+          {
+            "url": "https://img.eol.cn/e_images/gk/2020/newzsgk.jpg",
+            "sourceUrl": "https://www.eol.cn/news/yaowen/202611/t20261123_2797654.shtml"
+          },
+          {
+            "url": "https://img.eol.cn/e_images/gk/2023/zsky2023.jpg",
+            "sourceUrl": "https://www.eol.cn/news/yaowen/202611/t20261123_2797654.shtml"
+          },
+          {
+            "url": "https://www.eol.cn/e_images/index/2018/acabridge.png",
+            "sourceUrl": "https://www.eol.cn/news/yaowen/202611/t20261123_2797654.shtml"
+          }
+        ],
+        "generatedAt": "2026-11-23T02:00:00.000Z"
+      },
+      {
+        "id": "draft-real-city-news-rss:%E4%B8%AD%E5%9B%BD-%E5%B9%BF%E5%B7%9E-1nadr5c",
+        "title": "广州市人民政府关于简易修改电动自行车通行管理措施通告的通知",
+        "oneLine": "政策变化：《广州市人民政府关于简易修改电动自行车通行管理措施通告的通知》六、本通告自2026年12月15日起施行，有效期5年。",
+        "importance": "C",
+        "credibility": "待确认",
+        "tags": [
+          "C",
+          "industry",
+          "local",
+          "policy",
+          "china"
+        ],
+        "industries": [
+          "localLife",
+          "generalPublic",
+          "operationsGrowth"
+        ],
+        "section": "industry",
+        "body": {
+          "background": "手机端 关注 · 手机版 微信 关注 · 广州政府网 《广州市人民政府关于简易修改电动自行车通行管理措施通告的通知》政策解读 2026-11-23 穗府规〔2026〕10号 广州市人民政府关于简易修改电动自行车通行管理措施通告的通知 各区人民政府，市政府各部门、各直属机构： 根据《广东省行政规范性文件管理规定》，现因行政管理需要对《广州市人民政府关于电动自行车通行管理措施的通告》（穗府规〔2023〕4号）作不涉实体内容的简易修改，有效期5年。执行中遇到问题，请径向市公安局反映。",
+          "keyProgress": "广州市人民政府关于简易修改电动自行车通行管理措施通告的通知。广州市人民政府关于简易修改电动自行车通行管理措施通告的通知 - 广州市人民政府门户网站 - setTimeout(function(){var s = document.createElement(\"script\");s.type = \"text/javascript\";s.src = \"//statistics.gd.gov.cn/jsonp/post/s。",
+          "whyItMatters": "“广州市人民政府关于简易修改电动自行车通行管理措施通告的通知”可能改变个人办事、出行、公共服务或行业规则。提前确认适用范围和生效时间，可以减少信息滞后带来的判断偏差。",
+          "userRelevance": "作为中国居民，你需要留意“广州市人民政府关于简易修改电动自行车通行管理措施通告的通知”是否改变办事、出行或公共服务规则；如果你从事本地生活、运营增长，还应关注行业执行细则。",
+          "whatToWatch": "接下来要看“广州市人民政府关于简易修改电动自行车通行管理措施通告的通知”是否补充执行细则、地方落地安排、时间节点或适用人群说明。"
+        },
+        "sourceLinks": [
+          {
+            "title": "广东·广州本地公开信息",
+            "url": "https://www.gz.gov.cn/zwgk/fggw/szfwj/content/post_11114926.html",
+            "sourceId": "city-news-rss:%E4%B8%AD%E5%9B%BD-%E5%B9%BF%E5%B7%9E",
+            "publishedAt": "2026-11-23T00:00:00+08:00",
+            "language": "zh",
+            "originalLanguage": "zh",
+            "translationStatus": "not-needed",
+            "fetchedAt": "2026-11-23T10:32:09.121Z",
+            "sourceMethod": "web",
+            "verificationStatus": "pending"
+          }
+        ],
+        "images": [
+          {
+            "url": "https://www.gz.gov.cn/global/ewm_mobile.jpg",
+            "sourceUrl": "https://www.gz.gov.cn/zwgk/fggw/szfwj/content/post_11114926.html"
+          },
+          {
+            "url": "https://www.gz.gov.cn/global/ewm_wx.jpg",
+            "sourceUrl": "https://www.gz.gov.cn/zwgk/fggw/szfwj/content/post_11114926.html"
+          },
+          {
+            "url": "https://www.gz.gov.cn/global/wzsyx.png",
+            "sourceUrl": "https://www.gz.gov.cn/zwgk/fggw/szfwj/content/post_11114926.html"
+          },
+          {
+            "url": "https://www.gz.gov.cn/global/27f6f788a35c4661a43aa7ce1ae91e7f.png",
+            "sourceUrl": "https://www.gz.gov.cn/zwgk/fggw/szfwj/content/post_11114926.html"
+          },
+          {
+            "url": "https://www.gz.gov.cn/global/easy_shb_gzh.jpg",
+            "sourceUrl": "https://www.gz.gov.cn/zwgk/fggw/szfwj/content/post_11114926.html"
+          }
+        ],
+        "generatedAt": "2026-11-23T02:00:00.000Z"
+      }
+    ],
+    "estimatedReadMinutes": 23,
+    "pageCount": 3,
+    "topCardId": "draft-real-xinhua-world-5bc9cz",
+    "generatedAt": "2026-11-23T02:00:00.000Z",
+    "pushSlots": [
+      "08:30",
+      "12:30",
+      "21:30"
+    ],
+    "edition": "morning",
+    "editionLabel": "晨报",
+    "coverageWindow": {
+      "start": "2026-11-22T00:00:00+08:00",
+      "end": "2026-11-23T10:00:00+08:00"
+    },
+    "editionCardIds": [
+      "draft-real-xinhua-world-5bc9cz",
+      "draft-real-xinhua-world-brgqiq",
+      "draft-real-xinhua-world-1d5fyqv",
+      "draft-real-xinhua-world-2z16wo",
+      "draft-real-xinhua-world-16my29k",
+      "draft-real-eol-education-1s2edvq",
+      "draft-real-city-news-rss:%E4%B8%AD%E5%9B%BD-%E4%B8%8A%E6%B5%B7-xkz3m6",
+      "draft-real-xinhua-tech-1i9b6v9",
+      "draft-real-xinhua-tech-g372eb",
+      "draft-real-xinhua-tech-1bhi0zk",
+      "draft-real-xinhua-tech-1ymzdul",
+      "draft-real-eol-education-1t6htjk",
+      "draft-real-eol-education-32fy9c",
+      "draft-real-eol-education-16b9juw",
+      "draft-real-city-news-rss:%E4%B8%AD%E5%9B%BD-%E5%B9%BF%E5%B7%9E-1nadr5c"
+    ],
+    "carriedCardIds": []
+  }
+}

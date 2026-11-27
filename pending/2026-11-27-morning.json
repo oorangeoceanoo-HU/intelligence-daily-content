@@ -1,0 +1,893 @@
+{
+  "schemaVersion": 2,
+  "publishedAt": "2026-11-27T02:00:00.000Z",
+  "issue": {
+    "id": "daily-public-2026-11-27",
+    "date": "2026-11-27",
+    "userId": "public",
+    "cards": [
+      {
+        "id": "draft-real-xinhua-world-plbt4x",
+        "title": "通讯丨霍尔木兹海峡里的两重天",
+        "oneLine": "政策变化：11月15日，在霍尔木兹海峡水域，英国耐力游泳运动员刘易斯·皮尤下水前调整泳镜。",
+        "importance": "S",
+        "credibility": "主流媒体",
+        "tags": [
+          "S",
+          "mustKnow",
+          "industry",
+          "world",
+          "policy"
+        ],
+        "industries": [
+          "generalPublic",
+          "financeInvestment",
+          "operationsGrowth",
+          "contentCreator"
+        ],
+        "section": "front",
+        "body": {
+          "background": "受伊朗战事影响，霍尔木兹海峡一带袭船事件频发，但仍有船舶冒险通行。新华社发（刘易斯·皮尤基金会供图） 在回答“坐船也能看见海上发生的事，为什么要一次次下水”时，皮尤说，人在水里，能亲眼看见身边发生的一切，自己若没有下过水，恐怕很难讲给人听。结束在霍尔木兹海峡的游泳回到英国后，皮尤在伦敦接受采访。",
+          "keyProgress": "通讯｜霍尔木兹海峡里的两重天 在霍尔木兹海峡游泳时，刘易斯·皮尤向右侧换气，看见一艘遇袭的油轮冒着浓烟；向左侧换气，眼前是阿曼的群山和峡湾，鱼鹰从峭壁上俯冲而下，海豚在水中嬉戏。“每次（游泳时）向右换气，都像在看一部战争片。”皮尤对新华社记者说，“转向左边，就如同在看一部自然纪录片”。",
+          "whyItMatters": "“霍尔木兹海峡局势”如果继续发展，可能通过能源价格、航运、贸易、汇率或市场预期传导到国内。了解它的意义在于判断后续风险，而不只停留在事件本身。",
+          "userRelevance": "即使你不在霍尔木兹海峡，“霍尔木兹海峡局势”也可能通过能源价格、国际航运、贸易成本和市场预期间接影响国内生活与工作判断。",
+          "whatToWatch": "接下来要看霍尔木兹海峡实际通航量、油价和保险成本是否继续变化，以及美伊双方是否出现新的正式行动。"
+        },
+        "sourceLinks": [
+          {
+            "title": "新华网国际",
+            "url": "https://www.news.cn/world/20261126/2f329bae9b984f5b952e728e26eedb8a/c.html",
+            "sourceId": "xinhua-world",
+            "publishedAt": "2026-11-26T00:00:00+08:00",
+            "language": "zh",
+            "originalLanguage": "zh",
+            "translationStatus": "not-needed",
+            "fetchedAt": "2026-11-27T10:39:58.896Z",
+            "sourceMethod": "web",
+            "verificationStatus": "confirmed"
+          }
+        ],
+        "images": [
+          {
+            "url": "https://www.news.cn/world/20261126/2f329bae9b984f5b952e728e26eedb8a/bTVMQqDyugwBOa4w.jpg",
+            "sourceUrl": "https://www.news.cn/world/20261126/2f329bae9b984f5b952e728e26eedb8a/c.html"
+          },
+          {
+            "url": "https://www.news.cn/world/20261126/2f329bae9b984f5b952e728e26eedb8a/lWgfzas2vJOMVkqG.jpeg",
+            "sourceUrl": "https://www.news.cn/world/20261126/2f329bae9b984f5b952e728e26eedb8a/c.html"
+          },
+          {
+            "url": "https://www.news.cn/world/20261126/2f329bae9b984f5b952e728e26eedb8a/EnEAYv01MHUBpCFD.jpeg",
+            "sourceUrl": "https://www.news.cn/world/20261126/2f329bae9b984f5b952e728e26eedb8a/c.html"
+          },
+          {
+            "url": "https://www.news.cn/world/20261126/2f329bae9b984f5b952e728e26eedb8a/kRoUrmGRVrBW30Dy.jpeg",
+            "sourceUrl": "https://www.news.cn/world/20261126/2f329bae9b984f5b952e728e26eedb8a/c.html"
+          },
+          {
+            "url": "https://www.news.cn/world/20261126/2f329bae9b984f5b952e728e26eedb8a/W4VCpscSpALaYsj1.jpeg",
+            "sourceUrl": "https://www.news.cn/world/20261126/2f329bae9b984f5b952e728e26eedb8a/c.html"
+          }
+        ],
+        "generatedAt": "2026-11-27T02:00:00.000Z"
+      },
+      {
+        "id": "draft-real-xinhua-world-1kceq2g",
+        "title": "商务部：希望欧方继续将更多中国企业移出制裁清单",
+        "oneLine": "政策变化：问：2026年11月26日，欧方发布公告，将玉沙集团有限公司移出欧盟涉俄出口管制制裁清单，请问商务部对此有何评论？",
+        "importance": "S",
+        "credibility": "主流媒体",
+        "tags": [
+          "S",
+          "mustKnow",
+          "industry",
+          "world",
+          "policy"
+        ],
+        "industries": [
+          "generalPublic",
+          "financeInvestment",
+          "operationsGrowth",
+          "contentCreator"
+        ],
+        "section": "front",
+        "body": {
+          "background": "欧方解除对相关中国企业的制裁措施，中方对此表示欢迎，这有利于为双方企业正常合作营造良好环境。希望欧方继续将更多中国企业移出制裁清单。近期，中方已收到相关欧盟企业移出出口管制管控名单的书面申请，正进行评估，并履行移单审查程序。",
+          "keyProgress": "商务部：希望欧方继续将更多中国企业移出制裁清单。商务部：希望欧方继续将更多中国企业移出制裁清单",
+          "whyItMatters": "“商务部：希望欧方继续将更多中国企业移出制裁清单”如果继续发展，可能通过能源价格、航运、贸易、汇率或市场预期传导到国内。了解它的意义在于判断后续风险，而不只停留在事件本身。",
+          "userRelevance": "即使你不在中国，“商务部：希望欧方继续将更多中国企业移出制裁清单”也可能通过能源价格、国际航运、贸易成本和市场预期间接影响国内生活与工作判断。",
+          "whatToWatch": "接下来要看“商务部：希望欧方继续将更多中国企业移出制裁清单”是否出现新的官方信息、后续行动，以及它与中国出行、贸易或公共判断的关联是否扩大。"
+        },
+        "sourceLinks": [
+          {
+            "title": "新华网国际",
+            "url": "https://www.news.cn/world/20261126/5cb31db8c9644c46a2a1a0b62c9b80b6/c.html",
+            "sourceId": "xinhua-world",
+            "publishedAt": "2026-11-26T00:00:00+08:00",
+            "language": "zh",
+            "originalLanguage": "zh",
+            "translationStatus": "not-needed",
+            "fetchedAt": "2026-11-27T10:39:58.896Z",
+            "sourceMethod": "web",
+            "verificationStatus": "confirmed"
+          }
+        ],
+        "images": [],
+        "generatedAt": "2026-11-27T02:00:00.000Z"
+      },
+      {
+        "id": "draft-real-xinhua-world-xtyzez",
+        "title": "中国驻日使馆提醒公民注意防范地震等自然灾害",
+        "oneLine": "风险提醒：中国驻日本大使馆27日发文提醒在日中国公民，注意防范地震等自然灾害，提前做好各项应急准备。",
+        "importance": "S",
+        "credibility": "主流媒体",
+        "tags": [
+          "S",
+          "mustKnow",
+          "risk",
+          "industry",
+          "world",
+          "policy",
+          "disaster"
+        ],
+        "industries": [
+          "generalPublic",
+          "financeInvestment",
+          "operationsGrowth",
+          "contentCreator"
+        ],
+        "section": "risk",
+        "body": {
+          "background": "日本政府于11月2日正式成立防灾厅，以应对可能发生的首都直下型地震、南海海槽地震等大规模自然灾害。提醒说，近期，日本熊本县、茨城县、千叶县、静冈县、北海道近海等地地震频发。鉴于上述情况，使馆提醒在日中国公民做好以下几方面准备：一是切实增强防范意识，对老旧住宅进行抗震性能检查，对室内家具等设施进行防震加固，熟悉附近避难所地址和逃生路线。",
+          "keyProgress": "三是密切关注地震动态、气象预警和防灾信息，利用手机APP等设置灾害提醒，积极通过“中国领事APP”或者微信“中国领事”小程序进行“海外公民登记”，以便及时得到救助。二是做好生活物资储备，建议储备至少一周所需的饮用水、食品、防灾急救用品等应急物资。如遇紧急情况，请及时报警并联系驻日使领馆求助。",
+          "whyItMatters": "“中国驻日使馆提醒公民注意防范地震等自然灾害”的直接价值是帮助你判断是否需要调整出行、居住或工作安排。影响地区、持续时间、预警等级和官方避险建议比事件热度更重要。",
+          "userRelevance": "对于“中国驻日使馆提醒公民注意防范地震等自然灾害”，如果你近期计划前往事发地区或与当地有工作、家人联系，需要留意后续预警；没有直接联系时，可把它作为区域风险背景了解。",
+          "whatToWatch": "接下来要看“中国驻日使馆提醒公民注意防范地震等自然灾害”的影响范围是否扩大、预警等级是否变化，以及是否出现与你所在城市相关的提醒。"
+        },
+        "sourceLinks": [
+          {
+            "title": "新华网国际",
+            "url": "https://www.news.cn/world/20261127/eb697a4a605f4b05a110609bb34bfc76/c.html",
+            "sourceId": "xinhua-world",
+            "publishedAt": "2026-11-27T00:00:00+08:00",
+            "language": "zh",
+            "originalLanguage": "zh",
+            "translationStatus": "not-needed",
+            "fetchedAt": "2026-11-27T10:39:58.896Z",
+            "sourceMethod": "web",
+            "verificationStatus": "confirmed"
+          }
+        ],
+        "images": [],
+        "generatedAt": "2026-11-27T02:00:00.000Z"
+      },
+      {
+        "id": "draft-cluster-real-mofcom-trade-16edkpg",
+        "title": "中国—丹麦经贸联委会第25次会议在丹麦哥本哈根召开",
+        "oneLine": "政策变化：11月26日下午，商务部副部长兼中华人民共和国国际贸易谈判副代表凌激与丹麦外交部常务国务秘书叶普在丹麦哥本哈根共同主持召开中国—丹麦经贸联委会第25次会议。",
+        "importance": "S",
+        "credibility": "官方来源",
+        "tags": [
+          "S",
+          "industry",
+          "world",
+          "china",
+          "policy"
+        ],
+        "industries": [
+          "generalPublic",
+          "financeInvestment",
+          "operationsGrowth",
+          "ecommerceRetail",
+          "consumerBrand"
+        ],
+        "section": "industry",
+        "body": {
+          "background": "中国驻丹麦大使王雪峰以及中丹两国经济界代表参加。凌激表示，近年来，中丹贸易保持增长，双向投资稳步扩大。中方愿与丹方深化绿色低碳、数字智能、医药健康、服务贸易等领域务实合作。",
+          "keyProgress": "中丹均支持自由贸易和多边贸易体制，中方愿推动中欧经贸关系向上平衡，欧方应审慎出台经贸限制措施，克制使用贸易救济工具，为中欧企业合作提供稳定性和确定性。学习宣传贯彻党的二十大精神 国家层面海外综合服务平台 提振消费专项行动 政策集成和综合解读专栏 优化营商环境-国际贸易专题 外资企业问题诉求收集办理 国际消费中心城市培育建设 丝路电商——电子商务国际合作 《区域全面经济伙伴关系协定》（RCEP） 市场运行与流通发展服务平台 2025年度网站工作年度报表希望丹方为中资企业在丹投资经营提供公平、非歧视性的营商环境。叶普表示，中国是丹麦最重要的经贸伙伴之一，丹中合作内涵不断丰富，中国充满活力的创新生态吸引不少丹麦企业对华投资，从事研发创新。",
+          "whyItMatters": "“中国—丹麦经贸联委会第25次会议在丹麦哥本哈根召开”如果继续发展，可能通过能源价格、航运、贸易、汇率或市场预期传导到国内。了解它的意义在于判断后续风险，而不只停留在事件本身。",
+          "userRelevance": "即使你不在中国，“中国—丹麦经贸联委会第25次会议在丹麦哥本哈根召开”也可能通过能源价格、国际航运、贸易成本和市场预期间接影响国内生活与工作判断。",
+          "whatToWatch": "接下来要看“中国—丹麦经贸联委会第25次会议在丹麦哥本哈根召开”是否出现更细的城市、行业、平台或企业数据，以及这一变化能否连续保持。"
+        },
+        "sourceLinks": [
+          {
+            "title": "商务部新闻发布",
+            "url": "https://www.mofcom.gov.cn/xwfb/bldhd/art/2026/art_c345500343614124875b760bcac9a9ed.html",
+            "sourceId": "mofcom-trade",
+            "publishedAt": "2026-11-27T00:00:00+08:00",
+            "language": "zh",
+            "originalLanguage": "zh",
+            "translationStatus": "not-needed",
+            "fetchedAt": "2026-11-27T10:40:02.638Z",
+            "sourceMethod": "web",
+            "verificationStatus": "confirmed"
+          },
+          {
+            "title": "商务部新闻发布",
+            "url": "https://www.mofcom.gov.cn/xwfb/bldhd/art/2026/art_659bd4c3639b4ff2b9e7adbc9480c3cf.html",
+            "sourceId": "mofcom-trade",
+            "publishedAt": "2026-11-27T00:00:00+08:00",
+            "language": "zh",
+            "originalLanguage": "zh",
+            "translationStatus": "not-needed",
+            "fetchedAt": "2026-11-27T10:40:02.638Z",
+            "sourceMethod": "web",
+            "verificationStatus": "confirmed"
+          }
+        ],
+        "images": [
+          {
+            "url": "https://www.mofcom.gov.cn/cms_files/filemanager/1077459795/picture/20269/Sd10ea4b8ed674a989dd5418df06ca01a-700.jpg",
+            "sourceUrl": "https://www.mofcom.gov.cn/xwfb/bldhd/art/2026/art_c345500343614124875b760bcac9a9ed.html"
+          }
+        ],
+        "generatedAt": "2026-11-27T02:00:00.000Z"
+      },
+      {
+        "id": "draft-real-mofcom-trade-1t1nvup",
+        "title": "《出口中国能力发展报告》国际研讨会在瑞士日内瓦成功举办",
+        "oneLine": "政策变化：当地时间11月25日上午，《出口中国能力发展报告》国际研讨会在日内瓦万国宫成功举办。",
+        "importance": "S",
+        "credibility": "官方来源",
+        "tags": [
+          "S",
+          "industry",
+          "world",
+          "china",
+          "policy"
+        ],
+        "industries": [
+          "generalPublic",
+          "financeInvestment",
+          "operationsGrowth",
+          "ecommerceRetail",
+          "consumerBrand"
+        ],
+        "section": "industry",
+        "body": {
+          "background": "中华人民共和国国际贸易谈判代表（正部长级）兼商务部副部长李成钢、联合国贸发会议代理秘书长马雷诺、中国常驻联合国日内瓦办事处和瑞士其他国际组织代表团临时代办李驰江大使出席并致辞。李成钢指出，中国持续扩大进口，与世界共享中国大市场、大机遇。2025年11月，中方启动“出口中国”系列活动。",
+          "keyProgress": "李成钢强调，《出口中国能力发展报告》为各国共享中国超大规模市场提供建议，有助于各国扩大对华出口，是中方为全球共享中国市场提供的重要公共产品。中方将始终坚持真正的多边主义，坚定维护以世贸组织为核心的多边贸易体制，推动全球经济治理体系改善完善，促进普惠包容的经济全球化，拓展国际经贸互利合作空间，让中国大市场更好惠及全球经济。马雷诺表示，贸易是推动经济增长、创造就业和实现可持续发展的重要力量。贸发会议将与中方进一步深化合作，共同推动包容性贸易和可持续发展。",
+          "whyItMatters": "“出口中国能力发展报告国际研讨会在瑞士日内瓦成功举办”如果继续发展，可能通过能源价格、航运、贸易、汇率或市场预期传导到国内。了解它的意义在于判断后续风险，而不只停留在事件本身。",
+          "userRelevance": "即使你不在中国，“出口中国能力发展报告国际研讨会在瑞士日内瓦成功举办”也可能通过能源价格、国际航运、贸易成本和市场预期间接影响国内生活与工作判断。",
+          "whatToWatch": "接下来要看“出口中国能力发展报告国际研讨会在瑞士日内瓦成功举办”是否出现更细的城市、行业、平台或企业数据，以及这一变化能否连续保持。"
+        },
+        "sourceLinks": [
+          {
+            "title": "商务部新闻发布",
+            "url": "https://www.mofcom.gov.cn/xwfb/bldhd/art/2026/art_115c0892e02e49cf88001316c0eb5ef5.html",
+            "sourceId": "mofcom-trade",
+            "publishedAt": "2026-11-26T00:00:00+08:00",
+            "language": "zh",
+            "originalLanguage": "zh",
+            "translationStatus": "not-needed",
+            "fetchedAt": "2026-11-27T10:40:02.638Z",
+            "sourceMethod": "web",
+            "verificationStatus": "confirmed"
+          }
+        ],
+        "images": [
+          {
+            "url": "https://www.mofcom.gov.cn/cms_files/filemanager/1077459795/picture/20269/S02874a56fd8c4f06881237e906c93fcc-700.jpg",
+            "sourceUrl": "https://www.mofcom.gov.cn/xwfb/bldhd/art/2026/art_115c0892e02e49cf88001316c0eb5ef5.html"
+          }
+        ],
+        "generatedAt": "2026-11-27T02:00:00.000Z"
+      },
+      {
+        "id": "draft-real-mofcom-trade-6slgpi",
+        "title": "商务部新闻发言人就欧方将玉沙集团有限公司移出欧盟涉俄出口管制制裁清单事答记者问",
+        "oneLine": "政策变化：问 ：2026年11月26日，欧方发布公告，将玉沙集团有限公司移出欧盟涉俄出口管制制裁清单，请问商务部对此有何评论？",
+        "importance": "S",
+        "credibility": "官方来源",
+        "tags": [
+          "S",
+          "industry",
+          "world",
+          "china",
+          "policy"
+        ],
+        "industries": [
+          "generalPublic",
+          "financeInvestment",
+          "operationsGrowth",
+          "ecommerceRetail",
+          "consumerBrand"
+        ],
+        "section": "industry",
+        "body": {
+          "background": "欧方解除对相关中国企业的制裁措施，中方对此表示欢迎，这有利于为双方企业正常合作营造良好环境。希望欧方继续将更多中国企业移出制裁清单。近期，中方已收到相关欧盟企业移出出口管制管控名单的书面申请，正进行评估，并履行移单审查程序。",
+          "keyProgress": "学习宣传贯彻党的二十大精神 国家层面海外综合服务平台 提振消费专项行动 政策集成和综合解读专栏 优化营商环境-国际贸易专题 外资企业问题诉求收集办理 国际消费中心城市培育建设 丝路电商——电子商务国际合作 《区域全面经济伙伴关系协定》（RCEP） 市场运行与流通发展服务平台 2025年度网站工作年度报表",
+          "whyItMatters": "“商务部新闻发言人就欧方将玉沙集团有限公司移出欧盟涉俄出口管制制裁清单事答记者问”如果继续发展，可能通过能源价格、航运、贸易、汇率或市场预期传导到国内。了解它的意义在于判断后续风险，而不只停留在事件本身。",
+          "userRelevance": "即使你不在欧盟，“商务部新闻发言人就欧方将玉沙集团有限公司移出欧盟涉俄出口管制制裁清单事答记者问”也可能通过能源价格、国际航运、贸易成本和市场预期间接影响国内生活与工作判断。",
+          "whatToWatch": "接下来要看“商务部新闻发言人就欧方将玉沙集团有限公司移出欧盟涉俄出口管制制裁清单事答记者问”是否出现更细的城市、行业、平台或企业数据，以及这一变化能否连续保持。"
+        },
+        "sourceLinks": [
+          {
+            "title": "商务部新闻发布",
+            "url": "https://www.mofcom.gov.cn/xwfb/xwfyrth/art/2026/art_796cdfb5a020442b926a279def0e878c.html",
+            "sourceId": "mofcom-trade",
+            "publishedAt": "2026-11-26T00:00:00+08:00",
+            "language": "zh",
+            "originalLanguage": "zh",
+            "translationStatus": "not-needed",
+            "fetchedAt": "2026-11-27T10:40:02.638Z",
+            "sourceMethod": "web",
+            "verificationStatus": "confirmed"
+          }
+        ],
+        "images": [],
+        "generatedAt": "2026-11-27T02:00:00.000Z"
+      },
+      {
+        "id": "draft-real-mofcom-trade-htvpwd",
+        "title": "商务部服贸司负责人解读《服务贸易发展“十五五”规划》",
+        "oneLine": "政策变化：《规划》还提出了未来十年的远景目标，即到2035年，全面形成服务贸易高质量发展格局，创新能力和开放水平大幅提升，我国服务贸易发展规模和国际竞争力稳居全球前列，对建成贸易强国和社会主义现代化建设的战略支撑和综合贡献进一步增强。",
+        "importance": "S",
+        "credibility": "官方来源",
+        "tags": [
+          "S",
+          "industry",
+          "world",
+          "china",
+          "policy"
+        ],
+        "industries": [
+          "generalPublic",
+          "financeInvestment",
+          "operationsGrowth",
+          "ecommerceRetail",
+          "consumerBrand"
+        ],
+        "section": "industry",
+        "body": {
+          "background": "2026年11月，商务部等8部门联合印发《服务贸易发展“十五五”规划》（以下简称《规划》）。“十五五”时期，国内外发展形势发生新变化，《规划》编制也呈现一些新特点。商务部将会同有关部门和各地方，立足职责定位，强化责任落实和工作协同，着力提升服务贸易法治化管理水平，完善风险防控体系，健全统计监测预测体系，夯实人才智力支撑，全力推进《规划》各项任务举措落到实处，并将对《规划》实施情况定期开展评估，确保目标任务如期完成。",
+          "keyProgress": "《国民经济和社会发展第十五个五年规划纲要》明确提出，大力发展服务贸易。为贯彻落实党中央、国务院决策部署，凝心聚力推动服务贸易高质量发展，商务部会同有关部门共同编制《规划》，对“十五五”时期服务贸易发展的方向和路径作出整体安排。“十四五”时期，我国有效应对一系列重大风险挑战，服务贸易创新发展取得重大成就。同时，人工智能等数字技术加速赋能，服务贸易对全球贸易增长的引擎作用增强。",
+          "whyItMatters": "“商务部服贸司负责人解读服务贸易发展十五五规划”如果继续发展，可能通过能源价格、航运、贸易、汇率或市场预期传导到国内。了解它的意义在于判断后续风险，而不只停留在事件本身。",
+          "userRelevance": "即使你不在事发地区，“商务部服贸司负责人解读服务贸易发展十五五规划”也可能通过能源价格、国际航运、贸易成本和市场预期间接影响国内生活与工作判断。",
+          "whatToWatch": "接下来要看“商务部服贸司负责人解读服务贸易发展十五五规划”是否出现更细的城市、行业、平台或企业数据，以及这一变化能否连续保持。"
+        },
+        "sourceLinks": [
+          {
+            "title": "商务部新闻发布",
+            "url": "https://www.mofcom.gov.cn/xwfb/sjfzrfb/art/2026/art_c0338aed34274384b2bcc6afb75a1106.html",
+            "sourceId": "mofcom-trade",
+            "publishedAt": "2026-11-26T00:00:00+08:00",
+            "language": "zh",
+            "originalLanguage": "zh",
+            "translationStatus": "not-needed",
+            "fetchedAt": "2026-11-27T10:40:02.638Z",
+            "sourceMethod": "web",
+            "verificationStatus": "confirmed"
+          }
+        ],
+        "images": [],
+        "generatedAt": "2026-11-27T02:00:00.000Z"
+      },
+      {
+        "id": "draft-real-xinhua-world-jifts3",
+        "title": "被批“毫无外交风范” 美大使被加拿大人请愿驱逐",
+        "oneLine": "政策变化：她说，广大加拿大人已明确表达其不受欢迎的态度，同时讽刺地祝他感恩节快乐，认为他“生活在另一个国家会更开心”。",
+        "importance": "A",
+        "credibility": "主流媒体",
+        "tags": [
+          "A",
+          "mustKnow",
+          "industry",
+          "world",
+          "policy"
+        ],
+        "industries": [
+          "generalPublic",
+          "financeInvestment",
+          "operationsGrowth",
+          "contentCreator"
+        ],
+        "section": "front",
+        "body": {
+          "background": "请愿书指认胡克斯特拉屡次发表损害加美关系的言论并干涉加拿大内政，包括将美国总统特朗普威胁吞并加拿大为美国“第51州”的言论“正常化”。请愿书呼吁加拿大政府正式宣布胡克斯特拉为“不受欢迎的人”，同时指派一个国会委员会对美国外交干涉加拿大内政的情况展开调查。由加拿大近30万民众实名联署、呼吁加政府驱逐美国驻加大使皮特·胡克斯特拉的请愿书26日已被提交加拿大国会众议院。",
+          "keyProgress": "请愿书还要求就胡克斯特拉不符合《维也纳外交关系公约》的行为模式向美方提出交涉。分析人士指出，加拿大政府实际执行“驱逐美国大使”的可能性几乎为零，但请愿书释放出极为明确、强烈对美不满的民意信号。加拿大绿党领袖伊丽莎白·梅当天将该请愿书提交至众议院。众议院网站显示，请愿书由285993人实名联署。",
+          "whyItMatters": "“被批毫无外交风范 美大使被加拿大人请愿驱逐”如果继续发展，可能通过能源价格、航运、贸易、汇率或市场预期传导到国内。了解它的意义在于判断后续风险，而不只停留在事件本身。",
+          "userRelevance": "即使你不在事发地区，“被批毫无外交风范 美大使被加拿大人请愿驱逐”也可能通过能源价格、国际航运、贸易成本和市场预期间接影响国内生活与工作判断。",
+          "whatToWatch": "接下来要看“被批毫无外交风范 美大使被加拿大人请愿驱逐”是否出现新的官方信息、后续行动，以及它与中国出行、贸易或公共判断的关联是否扩大。"
+        },
+        "sourceLinks": [
+          {
+            "title": "新华网国际",
+            "url": "https://www.news.cn/world/20261127/e8fee6801fd0472785510a40008f290d/c.html",
+            "sourceId": "xinhua-world",
+            "publishedAt": "2026-11-27T00:00:00+08:00",
+            "language": "zh",
+            "originalLanguage": "zh",
+            "translationStatus": "not-needed",
+            "fetchedAt": "2026-11-27T10:39:58.896Z",
+            "sourceMethod": "web",
+            "verificationStatus": "confirmed"
+          }
+        ],
+        "images": [],
+        "generatedAt": "2026-11-27T02:00:00.000Z"
+      },
+      {
+        "id": "draft-real-xinhua-tech-1h10lqh",
+        "title": "腾讯生命科学实验室以第一单位首登《Nature》 从头设计双靶点多肽，AI药物研发迎来双突破",
+        "oneLine": "趋势信号：11月26日，国际顶尖学术期刊《Nature》主刊正式刊发腾讯生命科学实验室主导完成的最新研究论文《De novo design of high-potency dual-target therapeutic peptides with ORIDTP》。",
+        "importance": "B",
+        "credibility": "主流媒体",
+        "tags": [
+          "B",
+          "industry",
+          "technology",
+          "ai",
+          "product"
+        ],
+        "industries": [
+          "technologyEngineering",
+          "educationResearch",
+          "aiProduct",
+          "aiTechnology",
+          "productManagement",
+          "operationsGrowth"
+        ],
+        "section": "ai",
+        "body": {
+          "background": "ORIDTP 是一个用于设计高活性双靶点肽的AI平台 双靶点多肽提供药物研发的热门方向 多肽是一类由少量氨基酸拼接而成的药物分子，大小和给药特性介于可口服的小分子药与大多需要注射给药的大分子抗体药之间。目前，它已广泛应用于代谢、肿瘤、内分泌等多个治疗领域。相比单靶点，双靶点能够通过单条分子同时作用于两个靶点，药效配比天然稳定，无需联合给药，有望实现更好的治疗效果。",
+          "keyProgress": "该研究构建的高活性双靶点治疗性多肽AI从头设计平台ORIDTP，为破解双靶点药物研发“创新空间窄、靶点平衡难、筛选效率低”三大难题，提供了有效解决方案。这是腾讯生命科学实验室首次以第一单位登上《Nature》主刊，标志着团队在AI双靶点治疗性多肽从头设计方向取得重要进展。其次是“靶点平衡难”，优化一个靶点的活性，往往伴随另一个靶点活性的下降，就好比“跷跷板”，把一头按下去，另一头就翘起来；依托这套算法体系，ORIDTP真正构建起“虚拟筛选与湿实验验证”的双层反馈闭环：首先在计算侧完成大规模初筛，快速淘汰低潜力分子，需要说明的是，该环节属于AI近似评估，预测结果不能等同于真实生物学效果；",
+          "whyItMatters": "“腾讯生命科学实验室以第一单位首登Nature 从头设计双靶点多肽，AI药物研发迎来双突破”能帮助你判断这项能力是否已经进入工程、产品或商业场景，并据此调整技术选型、产品规划、学习重点或职业判断。",
+          "userRelevance": "如果你从事技术研发、教育研究、AI 产品、AI 技术，可以重点判断“腾讯生命科学实验室以第一单位首登Nature 从头设计双靶点多肽，AI药物研发迎来双突破”是否已经具备产品落地、技术选型或业务合作价值。",
+          "whatToWatch": "接下来要看“腾讯生命科学实验室以第一单位首登Nature 从头设计双靶点多肽，AI药物研发迎来双突破”是否有更多可靠来源、量产或应用进展，以及它会不会从单点消息发展成持续趋势。"
+        },
+        "sourceLinks": [
+          {
+            "title": "新华网科技",
+            "url": "https://www.news.cn/tech/20261127/eca199a465d8474594770dc27e07ef57/c.html",
+            "sourceId": "xinhua-tech",
+            "publishedAt": "2026-11-27T00:00:00+08:00",
+            "language": "zh",
+            "originalLanguage": "zh",
+            "translationStatus": "not-needed",
+            "fetchedAt": "2026-11-27T10:39:58.905Z",
+            "sourceMethod": "web",
+            "verificationStatus": "confirmed"
+          }
+        ],
+        "images": [
+          {
+            "url": "https://www.news.cn/tech/20261127/eca199a465d8474594770dc27e07ef57/20261127eca199a465d8474594770dc27e07ef57_202611271fadef755d0f4590867fd779b69b443e.png",
+            "sourceUrl": "https://www.news.cn/tech/20261127/eca199a465d8474594770dc27e07ef57/c.html"
+          },
+          {
+            "url": "https://www.news.cn/tech/20261127/eca199a465d8474594770dc27e07ef57/20261127eca199a465d8474594770dc27e07ef57_20261127d0200a44d3df40338923e447a6a06d50.png",
+            "sourceUrl": "https://www.news.cn/tech/20261127/eca199a465d8474594770dc27e07ef57/c.html"
+          },
+          {
+            "url": "https://www.news.cn/tech/20261127/eca199a465d8474594770dc27e07ef57/20261127eca199a465d8474594770dc27e07ef57_20261127af21f2f5577e469eab6c277c6fc36d38.png",
+            "sourceUrl": "https://www.news.cn/tech/20261127/eca199a465d8474594770dc27e07ef57/c.html"
+          }
+        ],
+        "generatedAt": "2026-11-27T02:00:00.000Z"
+      },
+      {
+        "id": "draft-real-xinhua-tech-b2eyso",
+        "title": "我科研团队刷新量子增强精密测量世界纪录",
+        "oneLine": "趋势信号：记者26日从清华大学获悉，该校交叉信息院孙麓岩团队联合中国科学技术大学邹长铃和李明团队、浙江大学王浩华团队，在量子精密测量领域取得重要进展，创新实现Fock空间量子共焦显微方案，刷新非高斯态光子数、量子计量增益两项世界纪录。",
+        "importance": "B",
+        "credibility": "主流媒体",
+        "tags": [
+          "B",
+          "industry",
+          "technology",
+          "ai",
+          "product"
+        ],
+        "industries": [
+          "technologyEngineering",
+          "educationResearch",
+          "aiProduct",
+          "aiTechnology",
+          "productManagement",
+          "operationsGrowth"
+        ],
+        "section": "ai",
+        "body": {
+          "background": "科研团队创新研究思路，将经典共焦光学聚焦与共轭成像原理引入量子领域，搭建全新量子共焦系统，无需反转哈密顿量即可实现近似时间反演，操作流程不受光子数量级影响，攻克了高光子数量子态操控复杂、信息易丢失的行业痛点。传统测量存在经典精度极限，量子增强精密测量可突破瓶颈、应用前景广阔，但大规模量子态制备与微弱信号提取的难题长期制约技术实用化。实验中，团队在超导电路量子电动力学平台，确定性制备出平均光子数最高达500的Fock空间聚焦态，将光子数方差降至相干态的0.71%，实现超高精度压缩。",
+          "keyProgress": "依托自主研发的Fock空间扫描层析方法，量子态信息提取效率超90%。在位移传感测试中，该技术测量精度超越标准量子极限19.20&plusmn;0.20分贝，最小可分辨位移降至原有极限的1/9，大幅提升微弱信号探测能力。该成果一举解决大规模非经典量子探针制备、高维量子信号高效读取两大共性难题，搭建起简洁高效、可拓展的量子增强传感实验框架。此次突破有效打通了量子计量技术实用化关键环节，为暗物质探测、弱力探测、高端精密传感等前沿领域提供全新技术路径。",
+          "whyItMatters": "“我科研团队刷新量子增强精密测量世界纪录”能帮助你判断这项能力是否已经进入工程、产品或商业场景，并据此调整技术选型、产品规划、学习重点或职业判断。",
+          "userRelevance": "如果你从事技术研发、教育研究、AI 产品、AI 技术，可以重点判断“我科研团队刷新量子增强精密测量世界纪录”是否已经具备产品落地、技术选型或业务合作价值。",
+          "whatToWatch": "接下来要看“我科研团队刷新量子增强精密测量世界纪录”是否有更多可靠来源、量产或应用进展，以及它会不会从单点消息发展成持续趋势。"
+        },
+        "sourceLinks": [
+          {
+            "title": "新华网科技",
+            "url": "https://www.news.cn/tech/20261127/89d88698caeb4b59a5e14c56c11258a7/c.html",
+            "sourceId": "xinhua-tech",
+            "publishedAt": "2026-11-27T00:00:00+08:00",
+            "language": "zh",
+            "originalLanguage": "zh",
+            "translationStatus": "not-needed",
+            "fetchedAt": "2026-11-27T10:39:58.905Z",
+            "sourceMethod": "web",
+            "verificationStatus": "confirmed"
+          }
+        ],
+        "images": [],
+        "generatedAt": "2026-11-27T02:00:00.000Z"
+      },
+      {
+        "id": "draft-real-xinhua-tech-nbedws",
+        "title": "AI客服假扮真人骗了谁",
+        "oneLine": "趋势信号：今年“双11”大促期间，有商业机构的统计数据显示，八成左右的电商平台售前咨询已由AI客服承接。",
+        "importance": "B",
+        "credibility": "主流媒体",
+        "tags": [
+          "B",
+          "industry",
+          "technology",
+          "ai",
+          "product"
+        ],
+        "industries": [
+          "technologyEngineering",
+          "educationResearch",
+          "aiProduct",
+          "aiTechnology",
+          "productManagement",
+          "operationsGrowth"
+        ],
+        "section": "ai",
+        "body": {
+          "background": "商家强行用这样的AI客服回应消费者，会使消费者产生自身诉求被漠视、被敷衍的感受。不少消费者反映，想找人工客服咨询细节，接通的依然是冒充人工的AI客服。现实中，不少企业热衷于把AI客服打磨得接近真人，通过优化语气词、增加口语化表达、模拟思考停顿，弱化机器感，刻意抹平AI客服与人工客服之间的差别。",
+          "keyProgress": "似乎越让用户分不清对面是人还是机器，AI客服就打磨得越成功。但实际情况表明，伪装成真人的AI客服，并不具备处理复杂问题的能力。一旦用户诉求超出AI知识库范畴，就容易答非所问、输出错误信息。这份落差感会一点点消解掉消费者对商家的信任。",
+          "whyItMatters": "“AI客服假扮真人骗了谁”能帮助你判断这项能力是否已经进入工程、产品或商业场景，并据此调整技术选型、产品规划、学习重点或职业判断。",
+          "userRelevance": "如果你从事技术研发、教育研究、AI 产品、AI 技术，可以重点判断“AI客服假扮真人骗了谁”是否已经具备产品落地、技术选型或业务合作价值。",
+          "whatToWatch": "接下来要看“AI客服假扮真人骗了谁”是否有更多可靠来源、量产或应用进展，以及它会不会从单点消息发展成持续趋势。"
+        },
+        "sourceLinks": [
+          {
+            "title": "新华网科技",
+            "url": "https://www.news.cn/tech/20261127/97437b3a0882463f89f20e14730ef3c7/c.html",
+            "sourceId": "xinhua-tech",
+            "publishedAt": "2026-11-27T00:00:00+08:00",
+            "language": "zh",
+            "originalLanguage": "zh",
+            "translationStatus": "not-needed",
+            "fetchedAt": "2026-11-27T10:39:58.905Z",
+            "sourceMethod": "web",
+            "verificationStatus": "confirmed"
+          }
+        ],
+        "images": [],
+        "generatedAt": "2026-11-27T02:00:00.000Z"
+      },
+      {
+        "id": "draft-real-xinhua-tech-1pd7x6w",
+        "title": "国家数据局拟进一步完善数据规则赋能人工智能创新发展",
+        "oneLine": "趋势信号：记者从国家数据局获悉，为推动数据要素赋能人工智能创新发展，国家数据局26日发布《关于完善数据规则 赋能人工智能创新发展的若干意见》（公开征求意见稿），向社会公开征求意见。",
+        "importance": "B",
+        "credibility": "主流媒体",
+        "tags": [
+          "B",
+          "industry",
+          "technology",
+          "ai",
+          "product"
+        ],
+        "industries": [
+          "technologyEngineering",
+          "educationResearch",
+          "aiProduct",
+          "aiTechnology",
+          "productManagement",
+          "operationsGrowth"
+        ],
+        "section": "ai",
+        "body": {
+          "background": "征求意见稿围绕人工智能发展的数据要素需求，从三大方面提出十二项具体举措，明确推动数据产权制度在人工智能用数领域运用，数据有序、依法合规用于人工智能训练和推理；协调好数据处理者与受托方的关系，支持和鼓励为数据付费，建立人工智能企业输出的风险防控机制；完善数据流通责任认定和安全治理机制。",
+          "keyProgress": "征求意见稿还提出，相关部门将及时跟踪研究解决新业态新模式发展中的数据问题，不断完善适应人工智能发展的数据规则。",
+          "whyItMatters": "“国家数据局拟进一步完善数据规则赋能人工智能创新发展”能帮助你判断这项能力是否已经进入工程、产品或商业场景，并据此调整技术选型、产品规划、学习重点或职业判断。",
+          "userRelevance": "如果你从事技术研发、教育研究、AI 产品、AI 技术，可以重点判断“国家数据局拟进一步完善数据规则赋能人工智能创新发展”是否已经具备产品落地、技术选型或业务合作价值。",
+          "whatToWatch": "接下来要看“国家数据局拟进一步完善数据规则赋能人工智能创新发展”是否有更多可靠来源、量产或应用进展，以及它会不会从单点消息发展成持续趋势。"
+        },
+        "sourceLinks": [
+          {
+            "title": "新华网科技",
+            "url": "https://www.news.cn/tech/20261127/4ef661ba45154fc3b827a137d37e2c5d/c.html",
+            "sourceId": "xinhua-tech",
+            "publishedAt": "2026-11-27T00:00:00+08:00",
+            "language": "zh",
+            "originalLanguage": "zh",
+            "translationStatus": "not-needed",
+            "fetchedAt": "2026-11-27T10:39:58.905Z",
+            "sourceMethod": "web",
+            "verificationStatus": "confirmed"
+          }
+        ],
+        "images": [],
+        "generatedAt": "2026-11-27T02:00:00.000Z"
+      },
+      {
+        "id": "draft-real-stats-cn-data-1er91dl",
+        "title": "2026年1—10月份全国规模以上工业企业利润增长16.0%",
+        "oneLine": "经营环境信号：1 — 10 月份，全国规模以上工业企业实现利润总额 67373.6 亿元，同比增长 16.0% （按可比口径计算，详见附注二）。",
+        "importance": "B",
+        "credibility": "官方来源",
+        "tags": [
+          "B",
+          "industry",
+          "china",
+          "consumer",
+          "operations"
+        ],
+        "industries": [
+          "operationsGrowth",
+          "consumerBrand",
+          "financeInvestment",
+          "ecommerceRetail",
+          "generalPublic"
+        ],
+        "section": "industry",
+        "body": {
+          "background": "发生营业成本 100.72 万亿元，增长 6.2% ；3. 营业成本：指企业从事销售商品、提供劳务和让渡资产使用权等生产经营活动发生的实际成本。以及外购或委托加工完成验收入库用于销售的各种商品。",
+          "keyProgress": "1 — 10 月份，规模以上工业企业中，国有控股企业实现利润总额 21080.3 亿元，同比增长 13.0% ；股份制企业实现利润总额 52426.6 亿元，增长 21.4% ；外商及港澳台投资企业实现利润总额 14678.7 亿元，增长 0.2% ；私营企业实现利润总额 17589.3 亿元，增长 11.4% 。",
+          "whyItMatters": "“2026年1—10月份全国规模以上工业企业利润增长16.0%”反映了需求、成本或市场节奏的一次变化。它不一定马上改变日常生活，但会影响选品、定价、投放、库存和内容方向。",
+          "userRelevance": "如果你从事运营增长、消费品牌、金融投资、电商零售，“2026年1—10月份全国规模以上工业企业利润增长16.0%”可用于观察需求和成本变化，并辅助定价、选品、投放或经营节奏判断。",
+          "whatToWatch": "接下来要看“2026年1—10月份全国规模以上工业企业利润增长16.0%”是否出现更细的城市、行业、平台或企业数据，以及这一变化能否连续保持。"
+        },
+        "sourceLinks": [
+          {
+            "title": "国家统计局数据发布",
+            "url": "https://www.stats.gov.cn/sj/zxfb/202611/t20261127_1965949.html",
+            "sourceId": "stats-cn-data",
+            "publishedAt": "2026-11-27T00:00:00+08:00",
+            "language": "zh",
+            "originalLanguage": "zh",
+            "translationStatus": "not-needed",
+            "fetchedAt": "2026-11-27T10:40:22.589Z",
+            "sourceMethod": "web",
+            "verificationStatus": "confirmed"
+          }
+        ],
+        "images": [
+          {
+            "url": "https://www.stats.gov.cn/sj/zxfb/202611/W020261127316629347689_ORIGIN.png",
+            "sourceUrl": "https://www.stats.gov.cn/sj/zxfb/202611/t20261127_1965949.html"
+          },
+          {
+            "url": "https://www.stats.gov.cn/sj/zxfb/202611/W020261127316629503792_ORIGIN.png",
+            "sourceUrl": "https://www.stats.gov.cn/sj/zxfb/202611/t20261127_1965949.html"
+          },
+          {
+            "url": "https://www.stats.gov.cn/sj/zxfb/202611/W020261127316629659040_ORIGIN.png",
+            "sourceUrl": "https://www.stats.gov.cn/sj/zxfb/202611/t20261127_1965949.html"
+          }
+        ],
+        "generatedAt": "2026-11-27T02:00:00.000Z"
+      },
+      {
+        "id": "draft-real-eol-education-i4708p",
+        "title": "AI赋能教育！四川将大力推广“四川AI助教”",
+        "oneLine": "政策变化：合作邮箱：bianji@eol.cn 官方微信ID：eoleoleol 四川省教育厅日前印发《关于做好“四川AI助教”应用推广工作的通知》(以下简称《通知》)，要求各地各校要积极主动将“四川AI助教”推广应用纳入重点工作统筹部署，突出应用实效，赋能教学教研变革，加强教研指导，开展分层培训，提升教师应。",
+        "importance": "B",
+        "credibility": "待确认",
+        "tags": [
+          "B",
+          "industry",
+          "education",
+          "policy",
+          "china"
+        ],
+        "industries": [
+          "teacher",
+          "educationResearch",
+          "generalPublic"
+        ],
+        "section": "industry",
+        "body": {
+          "background": "课前重点推广教师利用“四川AI助教”开展教学资源准备、教学设计、课件设计、学习活动设计、分层作业设计和实验方案设计等；课中重点推广教师利用“四川AI助教”开展情境创设、课堂互动、标准语音示范、虚拟仿真实验、个性化学习协作等；课后重点支持教师利用“四川AI助教”开展智能出题组卷、课堂智能分析等。",
+          "keyProgress": "“四川AI助教”是“天府云教”核心应用之一，是专为全省中小学教师打造的公益普惠智能助手，由省级统一保障、统一平台、统一账号、全免费使用，聚焦教师智能教学教研全场景需求，运用人工智能等数智技术为教师减负增效、为教育提质赋能。推广“四川AI助教”，应突出应用导向，把“四川AI助教”在课前、课中、课后以及教研等核心应用场景作为重点。《通知》强调，各地各校要将“四川AI助教”应用纳入教师培训、校本研修、名师名校长工作室建设等必修内容，纳入全省中小学教师人工智能素养全覆盖培训统筹安排，分层分类开展培训。教育厅将依托四川中小学智慧教育平台搭建展示交流平台，遴选应用成效明显的区域、学校和教师优秀案例，推广典型经验。",
+          "whyItMatters": "“AI赋能教育！四川将大力推广四川AI助教”可能影响学校治理、教师工作、课程安排或学生发展。教育从业者可以据此提前关注具体对象、地方执行方式和工作要求。",
+          "userRelevance": "如果你从事教师、教育研究或学校管理，可以重点关注“AI赋能教育！四川将大力推广四川AI助教”的具体对象、执行方式和地方落地节奏；其他用户可把它作为教育环境背景了解。",
+          "whatToWatch": "接下来要看“AI赋能教育！四川将大力推广四川AI助教”是否补充执行细则、地方落地安排、时间节点或适用人群说明。"
+        },
+        "sourceLinks": [
+          {
+            "title": "中国教育在线要闻",
+            "url": "https://www.eol.cn/news/yaowen/202611/t20261127_2799977.shtml",
+            "sourceId": "eol-education",
+            "publishedAt": "2026-11-27T00:00:00+08:00",
+            "language": "zh",
+            "originalLanguage": "zh",
+            "translationStatus": "not-needed",
+            "fetchedAt": "2026-11-27T10:40:07.335Z",
+            "sourceMethod": "web",
+            "verificationStatus": "pending"
+          }
+        ],
+        "images": [
+          {
+            "url": "https://www.eol.cn/images/ad/2017_img/arrow.png",
+            "sourceUrl": "https://www.eol.cn/news/yaowen/202611/t20261127_2799977.shtml"
+          },
+          {
+            "url": "https://www.eol.cn/images/ad/2017_img/phone.png",
+            "sourceUrl": "https://www.eol.cn/news/yaowen/202611/t20261127_2799977.shtml"
+          },
+          {
+            "url": "https://img.eol.cn/e_images/gk/2020/newzsgk.jpg",
+            "sourceUrl": "https://www.eol.cn/news/yaowen/202611/t20261127_2799977.shtml"
+          },
+          {
+            "url": "https://img.eol.cn/e_images/gk/2023/zsky2023.jpg",
+            "sourceUrl": "https://www.eol.cn/news/yaowen/202611/t20261127_2799977.shtml"
+          },
+          {
+            "url": "https://www.eol.cn/e_images/index/2018/acabridge.png",
+            "sourceUrl": "https://www.eol.cn/news/yaowen/202611/t20261127_2799977.shtml"
+          }
+        ],
+        "generatedAt": "2026-11-27T02:00:00.000Z"
+      },
+      {
+        "id": "draft-real-eol-education-1ijkgwb",
+        "title": "陈子季｜价值共创：大学形态的第四次跃迁",
+        "oneLine": "政策变化：合作邮箱：bianji@eol.cn 官方微信ID：eoleoleol 价值共创： 大学形态的第四次跃迁 北京交通大学提出在雄安校区探索建设第四代大学后，引起了社会各界的广泛关注。",
+        "importance": "B",
+        "credibility": "待确认",
+        "tags": [
+          "B",
+          "industry",
+          "education",
+          "policy",
+          "china"
+        ],
+        "industries": [
+          "teacher",
+          "educationResearch",
+          "generalPublic"
+        ],
+        "section": "industry",
+        "body": {
+          "background": "大学不再仅承担保存知识、开展科研和单向输出成果的职能，而是深度嵌入区域创新生态，聚焦国家战略中的跨领域复杂难题，联合政府、企业、科研院所、社区等多元主体协同发力，共同创造价值。不再沿循学科惯性选题，而是围绕重大现实挑战组建团队开展攻关。师资可柔性流动，不再受校内编制单一约束。",
+          "keyProgress": "人工智能快速兴起，新一轮科技革命持续推进，中国式现代化又提出新的要求，高等教育正面临新的时代命题。重塑人才培养模式将真实项目融入课程体系，完善双导师机制，运用智能工具支撑个性化培养，弹性学制、学分银行等机制均可积极探索。优化师资结构打通双向流动通道，支持产业一线专家进校任教，也鼓励校内教师到产业一线挂职历练，灵活设置岗位形式，配套完善相应考核激励。培育新型校园文化包容跨学科协作，建立针对前沿探索宽容失败的容错纠错机制，逐步摒弃封闭的象牙塔思维。",
+          "whyItMatters": "“陈子季｜价值共创：大学形态的第四次跃迁”可能影响学校治理、教师工作、课程安排或学生发展。教育从业者可以据此提前关注具体对象、地方执行方式和工作要求。",
+          "userRelevance": "如果你从事教师、教育研究或学校管理，可以重点关注“陈子季｜价值共创：大学形态的第四次跃迁”的具体对象、执行方式和地方落地节奏；其他用户可把它作为教育环境背景了解。",
+          "whatToWatch": "接下来要看“陈子季｜价值共创：大学形态的第四次跃迁”是否补充执行细则、地方落地安排、时间节点或适用人群说明。"
+        },
+        "sourceLinks": [
+          {
+            "title": "中国教育在线要闻",
+            "url": "https://www.eol.cn/news/xueshu/hui/202611/t20261127_2799936.shtml",
+            "sourceId": "eol-education",
+            "publishedAt": "2026-11-27T00:00:00+08:00",
+            "language": "zh",
+            "originalLanguage": "zh",
+            "translationStatus": "not-needed",
+            "fetchedAt": "2026-11-27T10:40:07.335Z",
+            "sourceMethod": "web",
+            "verificationStatus": "pending"
+          }
+        ],
+        "images": [
+          {
+            "url": "https://www.eol.cn/images/ad/2017_img/arrow.png",
+            "sourceUrl": "https://www.eol.cn/news/xueshu/hui/202611/t20261127_2799936.shtml"
+          },
+          {
+            "url": "https://www.eol.cn/images/ad/2017_img/phone.png",
+            "sourceUrl": "https://www.eol.cn/news/xueshu/hui/202611/t20261127_2799936.shtml"
+          },
+          {
+            "url": "https://img.eol.cn/e_images/gk/2020/newzsgk.jpg",
+            "sourceUrl": "https://www.eol.cn/news/xueshu/hui/202611/t20261127_2799936.shtml"
+          },
+          {
+            "url": "https://img.eol.cn/e_images/gk/2023/zsky2023.jpg",
+            "sourceUrl": "https://www.eol.cn/news/xueshu/hui/202611/t20261127_2799936.shtml"
+          },
+          {
+            "url": "https://www.eol.cn/e_images/index/2018/acabridge.png",
+            "sourceUrl": "https://www.eol.cn/news/xueshu/hui/202611/t20261127_2799936.shtml"
+          }
+        ],
+        "generatedAt": "2026-11-27T02:00:00.000Z"
+      },
+      {
+        "id": "draft-real-eol-education-1e7r2sz",
+        "title": "山东省政府：降低中考难度，指标到校将逐步提至70%以上",
+        "oneLine": "最新进展：山东省政府：降低中考难度，指标到校将逐步提至70%以上。",
+        "importance": "B",
+        "credibility": "待确认",
+        "tags": [
+          "B",
+          "industry",
+          "education",
+          "policy",
+          "china"
+        ],
+        "industries": [
+          "teacher",
+          "educationResearch",
+          "generalPublic"
+        ],
+        "section": "industry",
+        "body": {
+          "background": "《意见》明确，到2030年，全省高中阶段教育完成率达到92%，公办高中招生录取比例较2025年提高10个以上百分点；学前教育毛入园率达到99%，公办幼儿园在园幼儿占比达到75%；全域通过学前教育普及普惠县和义务教育优质均衡发展县评估认定，适龄残疾儿童入学率稳定在100%。",
+          "keyProgress": "六大行动推进育人方式变革 《意见》在“完善立德树人机制”部分部署六项行动：实施新时代铸魂育人行动，推进大中小学思政课一体化和首课思政负责制，构建“党的创新理论主课堂、实践育人大课堂、网络育人新课堂”大思政体系；实施课程教学改革深化行动，科学压缩义务教育课时，健全自主选课学习日制度，全面开设人工智能通识课程；实施健康学校建设行动， 实行中小学生每天一节体育课、综合体育活动时间不低于2小时，严格执行小学上午上课时间一般不早于8:20、中学一般不早于8:00的规定 ，帮助学生至少掌握1项艺术特长；实施科技教育提质行动，完善拔尖创新后备人才发现和培养机制；",
+          "whyItMatters": "“山东省政府：降低中考难度，指标到校将逐步提至70%以上”可能影响学校治理、教师工作、课程安排或学生发展。教育从业者可以据此提前关注具体对象、地方执行方式和工作要求。",
+          "userRelevance": "如果你从事教师、教育研究或学校管理，可以重点关注“山东省政府：降低中考难度，指标到校将逐步提至70%以上”的具体对象、执行方式和地方落地节奏；其他用户可把它作为教育环境背景了解。",
+          "whatToWatch": "接下来要看“山东省政府：降低中考难度，指标到校将逐步提至70%以上”是否补充执行细则、地方落地安排、时间节点或适用人群说明。"
+        },
+        "sourceLinks": [
+          {
+            "title": "中国教育在线要闻",
+            "url": "https://chuzhong.eol.cn/news/202611/t20261127_2799857.shtml",
+            "sourceId": "eol-education",
+            "publishedAt": "2026-11-27T00:00:00+08:00",
+            "language": "zh",
+            "originalLanguage": "zh",
+            "translationStatus": "not-needed",
+            "fetchedAt": "2026-11-27T10:40:07.335Z",
+            "sourceMethod": "web",
+            "verificationStatus": "pending"
+          }
+        ],
+        "images": [
+          {
+            "url": "https://www.eol.cn/images/ad/2017_img/arrow.png",
+            "sourceUrl": "https://chuzhong.eol.cn/news/202611/t20261127_2799857.shtml"
+          },
+          {
+            "url": "https://www.eol.cn/images/ad/2017_img/phone.png",
+            "sourceUrl": "https://chuzhong.eol.cn/news/202611/t20261127_2799857.shtml"
+          },
+          {
+            "url": "https://img.eol.cn/e_images/gk/2020/newzsgk.jpg",
+            "sourceUrl": "https://chuzhong.eol.cn/news/202611/t20261127_2799857.shtml"
+          },
+          {
+            "url": "https://img.eol.cn/e_images/gk/2023/zsky2023.jpg",
+            "sourceUrl": "https://chuzhong.eol.cn/news/202611/t20261127_2799857.shtml"
+          },
+          {
+            "url": "https://www.eol.cn/e_images/index/2018/acabridge.png",
+            "sourceUrl": "https://chuzhong.eol.cn/news/202611/t20261127_2799857.shtml"
+          }
+        ],
+        "generatedAt": "2026-11-27T02:00:00.000Z"
+      }
+    ],
+    "estimatedReadMinutes": 24,
+    "pageCount": 3,
+    "topCardId": "draft-real-xinhua-world-plbt4x",
+    "generatedAt": "2026-11-27T02:00:00.000Z",
+    "pushSlots": [
+      "08:30",
+      "12:30",
+      "21:30"
+    ],
+    "edition": "morning",
+    "editionLabel": "晨报",
+    "coverageWindow": {
+      "start": "2026-11-26T00:00:00+08:00",
+      "end": "2026-11-27T10:00:00+08:00"
+    },
+    "editionCardIds": [
+      "draft-real-xinhua-world-plbt4x",
+      "draft-real-xinhua-world-1kceq2g",
+      "draft-real-xinhua-world-xtyzez",
+      "draft-cluster-real-mofcom-trade-16edkpg",
+      "draft-real-mofcom-trade-1t1nvup",
+      "draft-real-mofcom-trade-6slgpi",
+      "draft-real-mofcom-trade-htvpwd",
+      "draft-real-xinhua-world-jifts3",
+      "draft-real-xinhua-tech-1h10lqh",
+      "draft-real-xinhua-tech-b2eyso",
+      "draft-real-xinhua-tech-nbedws",
+      "draft-real-xinhua-tech-1pd7x6w",
+      "draft-real-stats-cn-data-1er91dl",
+      "draft-real-eol-education-i4708p",
+      "draft-real-eol-education-1ijkgwb",
+      "draft-real-eol-education-1e7r2sz"
+    ],
+    "carriedCardIds": []
+  }
+}

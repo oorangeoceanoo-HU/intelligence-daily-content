@@ -1,120 +1,11 @@
 {
   "schemaVersion": 2,
-  "publishedAt": "2026-11-27T02:00:00.000Z",
+  "publishedAt": "2026-11-28T02:00:00.000Z",
   "issue": {
-    "id": "daily-public-2026-11-27",
-    "date": "2026-11-27",
+    "id": "daily-public-2026-11-28",
+    "date": "2026-11-28",
     "userId": "public",
     "cards": [
-      {
-        "id": "draft-real-xinhua-world-plbt4x",
-        "title": "通讯丨霍尔木兹海峡里的两重天",
-        "oneLine": "政策变化：11月15日，在霍尔木兹海峡水域，英国耐力游泳运动员刘易斯·皮尤下水前调整泳镜。",
-        "importance": "S",
-        "credibility": "主流媒体",
-        "tags": [
-          "S",
-          "mustKnow",
-          "industry",
-          "world",
-          "policy"
-        ],
-        "industries": [
-          "generalPublic",
-          "financeInvestment",
-          "operationsGrowth",
-          "contentCreator"
-        ],
-        "section": "front",
-        "body": {
-          "background": "受伊朗战事影响，霍尔木兹海峡一带袭船事件频发，但仍有船舶冒险通行。新华社发（刘易斯·皮尤基金会供图） 在回答“坐船也能看见海上发生的事，为什么要一次次下水”时，皮尤说，人在水里，能亲眼看见身边发生的一切，自己若没有下过水，恐怕很难讲给人听。结束在霍尔木兹海峡的游泳回到英国后，皮尤在伦敦接受采访。",
-          "keyProgress": "通讯｜霍尔木兹海峡里的两重天 在霍尔木兹海峡游泳时，刘易斯·皮尤向右侧换气，看见一艘遇袭的油轮冒着浓烟；向左侧换气，眼前是阿曼的群山和峡湾，鱼鹰从峭壁上俯冲而下，海豚在水中嬉戏。“每次（游泳时）向右换气，都像在看一部战争片。”皮尤对新华社记者说，“转向左边，就如同在看一部自然纪录片”。",
-          "whyItMatters": "“霍尔木兹海峡局势”如果继续发展，可能通过能源价格、航运、贸易、汇率或市场预期传导到国内。了解它的意义在于判断后续风险，而不只停留在事件本身。",
-          "userRelevance": "即使你不在霍尔木兹海峡，“霍尔木兹海峡局势”也可能通过能源价格、国际航运、贸易成本和市场预期间接影响国内生活与工作判断。",
-          "whatToWatch": "接下来要看霍尔木兹海峡实际通航量、油价和保险成本是否继续变化，以及美伊双方是否出现新的正式行动。"
-        },
-        "sourceLinks": [
-          {
-            "title": "新华网国际",
-            "url": "https://www.news.cn/world/20261126/2f329bae9b984f5b952e728e26eedb8a/c.html",
-            "sourceId": "xinhua-world",
-            "publishedAt": "2026-11-26T00:00:00+08:00",
-            "language": "zh",
-            "originalLanguage": "zh",
-            "translationStatus": "not-needed",
-            "fetchedAt": "2026-11-27T10:39:58.896Z",
-            "sourceMethod": "web",
-            "verificationStatus": "confirmed"
-          }
-        ],
-        "images": [
-          {
-            "url": "https://www.news.cn/world/20261126/2f329bae9b984f5b952e728e26eedb8a/bTVMQqDyugwBOa4w.jpg",
-            "sourceUrl": "https://www.news.cn/world/20261126/2f329bae9b984f5b952e728e26eedb8a/c.html"
-          },
-          {
-            "url": "https://www.news.cn/world/20261126/2f329bae9b984f5b952e728e26eedb8a/lWgfzas2vJOMVkqG.jpeg",
-            "sourceUrl": "https://www.news.cn/world/20261126/2f329bae9b984f5b952e728e26eedb8a/c.html"
-          },
-          {
-            "url": "https://www.news.cn/world/20261126/2f329bae9b984f5b952e728e26eedb8a/EnEAYv01MHUBpCFD.jpeg",
-            "sourceUrl": "https://www.news.cn/world/20261126/2f329bae9b984f5b952e728e26eedb8a/c.html"
-          },
-          {
-            "url": "https://www.news.cn/world/20261126/2f329bae9b984f5b952e728e26eedb8a/kRoUrmGRVrBW30Dy.jpeg",
-            "sourceUrl": "https://www.news.cn/world/20261126/2f329bae9b984f5b952e728e26eedb8a/c.html"
-          },
-          {
-            "url": "https://www.news.cn/world/20261126/2f329bae9b984f5b952e728e26eedb8a/W4VCpscSpALaYsj1.jpeg",
-            "sourceUrl": "https://www.news.cn/world/20261126/2f329bae9b984f5b952e728e26eedb8a/c.html"
-          }
-        ],
-        "generatedAt": "2026-11-27T02:00:00.000Z"
-      },
-      {
-        "id": "draft-real-xinhua-world-1kceq2g",
-        "title": "商务部：希望欧方继续将更多中国企业移出制裁清单",
-        "oneLine": "政策变化：问：2026年11月26日，欧方发布公告，将玉沙集团有限公司移出欧盟涉俄出口管制制裁清单，请问商务部对此有何评论？",
-        "importance": "S",
-        "credibility": "主流媒体",
-        "tags": [
-          "S",
-          "mustKnow",
-          "industry",
-          "world",
-          "policy"
-        ],
-        "industries": [
-          "generalPublic",
-          "financeInvestment",
-          "operationsGrowth",
-          "contentCreator"
-        ],
-        "section": "front",
-        "body": {
-          "background": "欧方解除对相关中国企业的制裁措施，中方对此表示欢迎，这有利于为双方企业正常合作营造良好环境。希望欧方继续将更多中国企业移出制裁清单。近期，中方已收到相关欧盟企业移出出口管制管控名单的书面申请，正进行评估，并履行移单审查程序。",
-          "keyProgress": "商务部：希望欧方继续将更多中国企业移出制裁清单。商务部：希望欧方继续将更多中国企业移出制裁清单",
-          "whyItMatters": "“商务部：希望欧方继续将更多中国企业移出制裁清单”如果继续发展，可能通过能源价格、航运、贸易、汇率或市场预期传导到国内。了解它的意义在于判断后续风险，而不只停留在事件本身。",
-          "userRelevance": "即使你不在中国，“商务部：希望欧方继续将更多中国企业移出制裁清单”也可能通过能源价格、国际航运、贸易成本和市场预期间接影响国内生活与工作判断。",
-          "whatToWatch": "接下来要看“商务部：希望欧方继续将更多中国企业移出制裁清单”是否出现新的官方信息、后续行动，以及它与中国出行、贸易或公共判断的关联是否扩大。"
-        },
-        "sourceLinks": [
-          {
-            "title": "新华网国际",
-            "url": "https://www.news.cn/world/20261126/5cb31db8c9644c46a2a1a0b62c9b80b6/c.html",
-            "sourceId": "xinhua-world",
-            "publishedAt": "2026-11-26T00:00:00+08:00",
-            "language": "zh",
-            "originalLanguage": "zh",
-            "translationStatus": "not-needed",
-            "fetchedAt": "2026-11-27T10:39:58.896Z",
-            "sourceMethod": "web",
-            "verificationStatus": "confirmed"
-          }
-        ],
-        "images": [],
-        "generatedAt": "2026-11-27T02:00:00.000Z"
-      },
       {
         "id": "draft-real-xinhua-world-xtyzez",
         "title": "中国驻日使馆提醒公民注意防范地震等自然灾害",
@@ -153,16 +44,66 @@
             "language": "zh",
             "originalLanguage": "zh",
             "translationStatus": "not-needed",
-            "fetchedAt": "2026-11-27T10:39:58.896Z",
+            "fetchedAt": "2026-11-28T09:58:42.123Z",
             "sourceMethod": "web",
             "verificationStatus": "confirmed"
           }
         ],
         "images": [],
-        "generatedAt": "2026-11-27T02:00:00.000Z"
+        "generatedAt": "2026-11-28T02:00:00.000Z"
       },
       {
-        "id": "draft-cluster-real-mofcom-trade-16edkpg",
+        "id": "draft-real-mofcom-trade-1if3u61",
+        "title": "中华人民共和国国际贸易谈判副代表张力会见德国拜耳集团处方药事业部全球总裁斯蒂芬·奥尔里奇",
+        "oneLine": "政策变化：11月26日，中华人民共和国国际贸易谈判副代表张力会见德国拜耳集团处方药事业部全球总裁、欧洲制药工业协会联合会主席斯蒂芬·奥尔里奇，双方就拜耳在华投资发展、中欧医药产业合作等议题进行交流。",
+        "importance": "S",
+        "credibility": "官方来源",
+        "tags": [
+          "S",
+          "industry",
+          "world",
+          "china",
+          "policy"
+        ],
+        "industries": [
+          "generalPublic",
+          "financeInvestment",
+          "operationsGrowth",
+          "ecommerceRetail",
+          "consumerBrand"
+        ],
+        "section": "industry",
+        "body": {
+          "background": "张力表示，中国生物医药产业快速发展，市场规模巨大、政策支持有力、合作空间广阔，将为跨国医药企业在华发展提供丰富机遇。欢迎拜耳加大在华创新合作，深度融入中国产业链供应链，共享中国发展红利。希望欧洲制药工业协会联合会发挥行业桥梁作用，为中欧医药产业双向投资合作、人民健康福祉作出积极贡献。",
+          "keyProgress": "斯蒂芬·奥尔里奇表示，中国是全球重要的医药消费市场，正成为全球医药创新的主要策源地。拜耳将坚定扩大在华投资研发，持续深耕中国市场。学习宣传贯彻党的二十大精神 国家层面海外综合服务平台 提振消费专项行动 政策集成和综合解读专栏 优化营商环境-国际贸易专题 外资企业问题诉求收集办理 国际消费中心城市培育建设 丝路电商——电子商务国际合作 《区域全面经济伙伴关系协定》（RCEP） 市场运行与流通发展服务平台 2025年度网站工作年度报表欧中在生物医药领域拥有共同发展利益，欧洲制药工业协会联合会愿为欧中经贸关系稳定发展发挥积极作用。",
+          "whyItMatters": "“中华人民共和国国际贸易谈判副代表张力会见德国拜耳集团处方药事业部全球总裁斯蒂芬·奥尔里奇”如果继续发展，可能通过能源价格、航运、贸易、汇率或市场预期传导到国内。了解它的意义在于判断后续风险，而不只停留在事件本身。",
+          "userRelevance": "即使你不在德国，“中华人民共和国国际贸易谈判副代表张力会见德国拜耳集团处方药事业部全球总裁斯蒂芬·奥尔里奇”也可能通过能源价格、国际航运、贸易成本和市场预期间接影响国内生活与工作判断。",
+          "whatToWatch": "接下来要看“中华人民共和国国际贸易谈判副代表张力会见德国拜耳集团处方药事业部全球总裁斯蒂芬·奥尔里奇”是否出现更细的城市、行业、平台或企业数据，以及这一变化能否连续保持。"
+        },
+        "sourceLinks": [
+          {
+            "title": "商务部新闻发布",
+            "url": "https://www.mofcom.gov.cn/xwfb/bldhd/art/2026/art_a46bd5df3f8f41fa925839d5f63f3ac1.html",
+            "sourceId": "mofcom-trade",
+            "publishedAt": "2026-11-27T00:00:00+08:00",
+            "language": "zh",
+            "originalLanguage": "zh",
+            "translationStatus": "not-needed",
+            "fetchedAt": "2026-11-28T09:58:45.073Z",
+            "sourceMethod": "web",
+            "verificationStatus": "confirmed"
+          }
+        ],
+        "images": [
+          {
+            "url": "https://www.mofcom.gov.cn/cms_files/filemanager/1077459795/picture/20269/S5d775e52ddfa4c839767a3ac59de5063-700.jpg",
+            "sourceUrl": "https://www.mofcom.gov.cn/xwfb/bldhd/art/2026/art_a46bd5df3f8f41fa925839d5f63f3ac1.html"
+          }
+        ],
+        "generatedAt": "2026-11-28T02:00:00.000Z"
+      },
+      {
+        "id": "draft-cluster-real-mofcom-trade-16od6ef",
         "title": "中国—丹麦经贸联委会第25次会议在丹麦哥本哈根召开",
         "oneLine": "政策变化：11月26日下午，商务部副部长兼中华人民共和国国际贸易谈判副代表凌激与丹麦外交部常务国务秘书叶普在丹麦哥本哈根共同主持召开中国—丹麦经贸联委会第25次会议。",
         "importance": "S",
@@ -198,7 +139,7 @@
             "language": "zh",
             "originalLanguage": "zh",
             "translationStatus": "not-needed",
-            "fetchedAt": "2026-11-27T10:40:02.638Z",
+            "fetchedAt": "2026-11-28T09:58:45.073Z",
             "sourceMethod": "web",
             "verificationStatus": "confirmed"
           },
@@ -210,7 +151,7 @@
             "language": "zh",
             "originalLanguage": "zh",
             "translationStatus": "not-needed",
-            "fetchedAt": "2026-11-27T10:40:02.638Z",
+            "fetchedAt": "2026-11-28T09:58:45.073Z",
             "sourceMethod": "web",
             "verificationStatus": "confirmed"
           }
@@ -221,156 +162,117 @@
             "sourceUrl": "https://www.mofcom.gov.cn/xwfb/bldhd/art/2026/art_c345500343614124875b760bcac9a9ed.html"
           }
         ],
-        "generatedAt": "2026-11-27T02:00:00.000Z"
+        "generatedAt": "2026-11-28T02:00:00.000Z"
       },
       {
-        "id": "draft-real-mofcom-trade-1t1nvup",
-        "title": "《出口中国能力发展报告》国际研讨会在瑞士日内瓦成功举办",
-        "oneLine": "政策变化：当地时间11月25日上午，《出口中国能力发展报告》国际研讨会在日内瓦万国宫成功举办。",
-        "importance": "S",
-        "credibility": "官方来源",
+        "id": "draft-real-xinhua-world-1d6oc1b",
+        "title": "科威特召见伊朗大使 抗议伊朗“持续袭击”",
+        "oneLine": "政策变化：科威特外交部27日召见伊朗驻科大使，就前一天导致两名意大利公民死亡的无人机袭击事件提出抗议。",
+        "importance": "A",
+        "credibility": "主流媒体",
         "tags": [
-          "S",
+          "A",
+          "mustKnow",
           "industry",
           "world",
-          "china",
           "policy"
         ],
         "industries": [
           "generalPublic",
           "financeInvestment",
           "operationsGrowth",
-          "ecommerceRetail",
-          "consumerBrand"
+          "contentCreator"
         ],
-        "section": "industry",
+        "section": "front",
         "body": {
-          "background": "中华人民共和国国际贸易谈判代表（正部长级）兼商务部副部长李成钢、联合国贸发会议代理秘书长马雷诺、中国常驻联合国日内瓦办事处和瑞士其他国际组织代表团临时代办李驰江大使出席并致辞。李成钢指出，中国持续扩大进口，与世界共享中国大市场、大机遇。2025年11月，中方启动“出口中国”系列活动。",
-          "keyProgress": "李成钢强调，《出口中国能力发展报告》为各国共享中国超大规模市场提供建议，有助于各国扩大对华出口，是中方为全球共享中国市场提供的重要公共产品。中方将始终坚持真正的多边主义，坚定维护以世贸组织为核心的多边贸易体制，推动全球经济治理体系改善完善，促进普惠包容的经济全球化，拓展国际经贸互利合作空间，让中国大市场更好惠及全球经济。马雷诺表示，贸易是推动经济增长、创造就业和实现可持续发展的重要力量。贸发会议将与中方进一步深化合作，共同推动包容性贸易和可持续发展。",
-          "whyItMatters": "“出口中国能力发展报告国际研讨会在瑞士日内瓦成功举办”如果继续发展，可能通过能源价格、航运、贸易、汇率或市场预期传导到国内。了解它的意义在于判断后续风险，而不只停留在事件本身。",
-          "userRelevance": "即使你不在中国，“出口中国能力发展报告国际研讨会在瑞士日内瓦成功举办”也可能通过能源价格、国际航运、贸易成本和市场预期间接影响国内生活与工作判断。",
-          "whatToWatch": "接下来要看“出口中国能力发展报告国际研讨会在瑞士日内瓦成功举办”是否出现更细的城市、行业、平台或企业数据，以及这一变化能否连续保持。"
+          "background": "科威特外交部当日在社交媒体平台发表声明称，伊朗26日使用无人机袭击科威特一处重要设施，造成两名意大利公民死亡、一名科威特公民和一名巴基斯坦公民受伤，并造成严重财产损失。伊朗外交部长阿拉格齐26日称，当天发生的两名意大利公民在科威特身亡事件疑点重重。声明说，已向伊朗大使递交正式照会，抗议伊朗针对科威特的“持续袭击”。",
+          "keyProgress": "科外交部副大臣哈马德·马沙安在当日召见伊朗大使时表示，这些袭击公然侵犯科威特主权和领土完整，严重违反国际法和《联合国宪章》。马沙安强调，伊朗应对此类袭击及其后果承担全部责任，科威特保留其固有的自卫权，以及采取一切必要措施维护国家主权和安全、保障境内公民和居民安全的权利。他表示，伊朗随时准备与科威特和意大利合作，查明事件原因。伊朗武装部队否认当天袭击科威特重要设施。",
+          "whyItMatters": "“科威特召见伊朗大使 抗议伊朗持续袭击”如果继续发展，可能通过能源价格、航运、贸易、汇率或市场预期传导到国内。了解它的意义在于判断后续风险，而不只停留在事件本身。",
+          "userRelevance": "即使你不在伊朗，“科威特召见伊朗大使 抗议伊朗持续袭击”也可能通过能源价格、国际航运、贸易成本和市场预期间接影响国内生活与工作判断。",
+          "whatToWatch": "接下来要看“科威特召见伊朗大使 抗议伊朗持续袭击”是否出现新的官方信息、后续行动，以及它与中国出行、贸易或公共判断的关联是否扩大。"
         },
         "sourceLinks": [
           {
-            "title": "商务部新闻发布",
-            "url": "https://www.mofcom.gov.cn/xwfb/bldhd/art/2026/art_115c0892e02e49cf88001316c0eb5ef5.html",
-            "sourceId": "mofcom-trade",
-            "publishedAt": "2026-11-26T00:00:00+08:00",
+            "title": "新华网国际",
+            "url": "https://www.news.cn/world/20261128/3e5a1b31203742f191a90d5560ce54eb/c.html",
+            "sourceId": "xinhua-world",
+            "publishedAt": "2026-11-28T00:00:00+08:00",
             "language": "zh",
             "originalLanguage": "zh",
             "translationStatus": "not-needed",
-            "fetchedAt": "2026-11-27T10:40:02.638Z",
+            "fetchedAt": "2026-11-28T09:58:42.123Z",
+            "sourceMethod": "web",
+            "verificationStatus": "confirmed"
+          }
+        ],
+        "images": [],
+        "generatedAt": "2026-11-28T02:00:00.000Z"
+      },
+      {
+        "id": "draft-real-xinhua-world-1psknjd",
+        "title": "观天下丨乌克兰“三海联动”袭击俄舰船 引发战火外溢担忧",
+        "oneLine": "最新进展：观天下丨乌克兰“三海联动”袭击俄舰船 引发战火外溢担忧。",
+        "importance": "B",
+        "credibility": "主流媒体",
+        "tags": [
+          "B",
+          "mustKnow",
+          "industry",
+          "world",
+          "policy"
+        ],
+        "industries": [
+          "generalPublic",
+          "financeInvestment",
+          "operationsGrowth",
+          "contentCreator"
+        ],
+        "section": "front",
+        "body": {
+          "background": "加上早已受战火波及的黑海，一些分析师指出，这标志着乌方针对俄海上资产的远程袭击进入“三海联动”新阶段。新华社发（哈姆扎·图尔基亚摄） 11月22日凌晨，俄军20380型“守护”级轻型护卫舰“水星”号在班加西港停泊时遭多艘乌克兰无人艇攻击，发生剧烈爆炸，燃起大火，最终沉没。利比亚方面的消息称，至少10人受伤。",
+          "keyProgress": "波利扬斯基说，乌克兰无法独自对波罗的海和地中海的俄罗斯船只实施无人机和无人艇袭击，而是获得了一些北约国家的关键技术性支持，包括导航保障和目标引导。同时，乌方正系统性推进在多国建立基地。过去一周，俄罗斯军舰和商船在波罗的海、地中海接连遇袭。其中，俄军一艘新锐护卫舰在利比亚东部班加西港遭乌克兰无人艇击沉。",
+          "whyItMatters": "“观天下丨乌克兰三海联动袭击俄舰船 引发战火外溢担忧”如果继续发展，可能通过能源价格、航运、贸易、汇率或市场预期传导到国内。了解它的意义在于判断后续风险，而不只停留在事件本身。",
+          "userRelevance": "即使你不在乌克兰，“观天下丨乌克兰三海联动袭击俄舰船 引发战火外溢担忧”也可能通过能源价格、国际航运、贸易成本和市场预期间接影响国内生活与工作判断。",
+          "whatToWatch": "接下来要看“观天下丨乌克兰三海联动袭击俄舰船 引发战火外溢担忧”是否出现新的官方信息、后续行动，以及它与中国出行、贸易或公共判断的关联是否扩大。"
+        },
+        "sourceLinks": [
+          {
+            "title": "新华网国际",
+            "url": "https://www.news.cn/world/20261127/c22c886f7a9b44d4bfccc519198e4fc9/c.html",
+            "sourceId": "xinhua-world",
+            "publishedAt": "2026-11-27T00:00:00+08:00",
+            "language": "zh",
+            "originalLanguage": "zh",
+            "translationStatus": "not-needed",
+            "fetchedAt": "2026-11-28T09:58:42.123Z",
             "sourceMethod": "web",
             "verificationStatus": "confirmed"
           }
         ],
         "images": [
           {
-            "url": "https://www.mofcom.gov.cn/cms_files/filemanager/1077459795/picture/20269/S02874a56fd8c4f06881237e906c93fcc-700.jpg",
-            "sourceUrl": "https://www.mofcom.gov.cn/xwfb/bldhd/art/2026/art_115c0892e02e49cf88001316c0eb5ef5.html"
-          }
-        ],
-        "generatedAt": "2026-11-27T02:00:00.000Z"
-      },
-      {
-        "id": "draft-real-mofcom-trade-6slgpi",
-        "title": "商务部新闻发言人就欧方将玉沙集团有限公司移出欧盟涉俄出口管制制裁清单事答记者问",
-        "oneLine": "政策变化：问 ：2026年11月26日，欧方发布公告，将玉沙集团有限公司移出欧盟涉俄出口管制制裁清单，请问商务部对此有何评论？",
-        "importance": "S",
-        "credibility": "官方来源",
-        "tags": [
-          "S",
-          "industry",
-          "world",
-          "china",
-          "policy"
-        ],
-        "industries": [
-          "generalPublic",
-          "financeInvestment",
-          "operationsGrowth",
-          "ecommerceRetail",
-          "consumerBrand"
-        ],
-        "section": "industry",
-        "body": {
-          "background": "欧方解除对相关中国企业的制裁措施，中方对此表示欢迎，这有利于为双方企业正常合作营造良好环境。希望欧方继续将更多中国企业移出制裁清单。近期，中方已收到相关欧盟企业移出出口管制管控名单的书面申请，正进行评估，并履行移单审查程序。",
-          "keyProgress": "学习宣传贯彻党的二十大精神 国家层面海外综合服务平台 提振消费专项行动 政策集成和综合解读专栏 优化营商环境-国际贸易专题 外资企业问题诉求收集办理 国际消费中心城市培育建设 丝路电商——电子商务国际合作 《区域全面经济伙伴关系协定》（RCEP） 市场运行与流通发展服务平台 2025年度网站工作年度报表",
-          "whyItMatters": "“商务部新闻发言人就欧方将玉沙集团有限公司移出欧盟涉俄出口管制制裁清单事答记者问”如果继续发展，可能通过能源价格、航运、贸易、汇率或市场预期传导到国内。了解它的意义在于判断后续风险，而不只停留在事件本身。",
-          "userRelevance": "即使你不在欧盟，“商务部新闻发言人就欧方将玉沙集团有限公司移出欧盟涉俄出口管制制裁清单事答记者问”也可能通过能源价格、国际航运、贸易成本和市场预期间接影响国内生活与工作判断。",
-          "whatToWatch": "接下来要看“商务部新闻发言人就欧方将玉沙集团有限公司移出欧盟涉俄出口管制制裁清单事答记者问”是否出现更细的城市、行业、平台或企业数据，以及这一变化能否连续保持。"
-        },
-        "sourceLinks": [
+            "url": "https://www.news.cn/world/20261127/c22c886f7a9b44d4bfccc519198e4fc9/20261127c22c886f7a9b44d4bfccc519198e4fc9_5c9f88a5125a428fa2a3c538390757b2.JPG",
+            "sourceUrl": "https://www.news.cn/world/20261127/c22c886f7a9b44d4bfccc519198e4fc9/c.html"
+          },
           {
-            "title": "商务部新闻发布",
-            "url": "https://www.mofcom.gov.cn/xwfb/xwfyrth/art/2026/art_796cdfb5a020442b926a279def0e878c.html",
-            "sourceId": "mofcom-trade",
-            "publishedAt": "2026-11-26T00:00:00+08:00",
-            "language": "zh",
-            "originalLanguage": "zh",
-            "translationStatus": "not-needed",
-            "fetchedAt": "2026-11-27T10:40:02.638Z",
-            "sourceMethod": "web",
-            "verificationStatus": "confirmed"
-          }
-        ],
-        "images": [],
-        "generatedAt": "2026-11-27T02:00:00.000Z"
-      },
-      {
-        "id": "draft-real-mofcom-trade-htvpwd",
-        "title": "商务部服贸司负责人解读《服务贸易发展“十五五”规划》",
-        "oneLine": "政策变化：《规划》还提出了未来十年的远景目标，即到2035年，全面形成服务贸易高质量发展格局，创新能力和开放水平大幅提升，我国服务贸易发展规模和国际竞争力稳居全球前列，对建成贸易强国和社会主义现代化建设的战略支撑和综合贡献进一步增强。",
-        "importance": "S",
-        "credibility": "官方来源",
-        "tags": [
-          "S",
-          "industry",
-          "world",
-          "china",
-          "policy"
-        ],
-        "industries": [
-          "generalPublic",
-          "financeInvestment",
-          "operationsGrowth",
-          "ecommerceRetail",
-          "consumerBrand"
-        ],
-        "section": "industry",
-        "body": {
-          "background": "2026年11月，商务部等8部门联合印发《服务贸易发展“十五五”规划》（以下简称《规划》）。“十五五”时期，国内外发展形势发生新变化，《规划》编制也呈现一些新特点。商务部将会同有关部门和各地方，立足职责定位，强化责任落实和工作协同，着力提升服务贸易法治化管理水平，完善风险防控体系，健全统计监测预测体系，夯实人才智力支撑，全力推进《规划》各项任务举措落到实处，并将对《规划》实施情况定期开展评估，确保目标任务如期完成。",
-          "keyProgress": "《国民经济和社会发展第十五个五年规划纲要》明确提出，大力发展服务贸易。为贯彻落实党中央、国务院决策部署，凝心聚力推动服务贸易高质量发展，商务部会同有关部门共同编制《规划》，对“十五五”时期服务贸易发展的方向和路径作出整体安排。“十四五”时期，我国有效应对一系列重大风险挑战，服务贸易创新发展取得重大成就。同时，人工智能等数字技术加速赋能，服务贸易对全球贸易增长的引擎作用增强。",
-          "whyItMatters": "“商务部服贸司负责人解读服务贸易发展十五五规划”如果继续发展，可能通过能源价格、航运、贸易、汇率或市场预期传导到国内。了解它的意义在于判断后续风险，而不只停留在事件本身。",
-          "userRelevance": "即使你不在事发地区，“商务部服贸司负责人解读服务贸易发展十五五规划”也可能通过能源价格、国际航运、贸易成本和市场预期间接影响国内生活与工作判断。",
-          "whatToWatch": "接下来要看“商务部服贸司负责人解读服务贸易发展十五五规划”是否出现更细的城市、行业、平台或企业数据，以及这一变化能否连续保持。"
-        },
-        "sourceLinks": [
+            "url": "https://www.news.cn/world/20261127/c22c886f7a9b44d4bfccc519198e4fc9/20261127c22c886f7a9b44d4bfccc519198e4fc9_0f5d9282fe204e3ba3569f952e1b52d3.JPG",
+            "sourceUrl": "https://www.news.cn/world/20261127/c22c886f7a9b44d4bfccc519198e4fc9/c.html"
+          },
           {
-            "title": "商务部新闻发布",
-            "url": "https://www.mofcom.gov.cn/xwfb/sjfzrfb/art/2026/art_c0338aed34274384b2bcc6afb75a1106.html",
-            "sourceId": "mofcom-trade",
-            "publishedAt": "2026-11-26T00:00:00+08:00",
-            "language": "zh",
-            "originalLanguage": "zh",
-            "translationStatus": "not-needed",
-            "fetchedAt": "2026-11-27T10:40:02.638Z",
-            "sourceMethod": "web",
-            "verificationStatus": "confirmed"
+            "url": "https://www.news.cn/world/20261127/c22c886f7a9b44d4bfccc519198e4fc9/20261127c22c886f7a9b44d4bfccc519198e4fc9_27a868d9e8a842fe84a073916500111c.JPG",
+            "sourceUrl": "https://www.news.cn/world/20261127/c22c886f7a9b44d4bfccc519198e4fc9/c.html"
           }
         ],
-        "images": [],
-        "generatedAt": "2026-11-27T02:00:00.000Z"
+        "generatedAt": "2026-11-28T02:00:00.000Z"
       },
       {
-        "id": "draft-real-xinhua-world-jifts3",
+        "id": "draft-real-xinhua-world-j8g834",
         "title": "被批“毫无外交风范” 美大使被加拿大人请愿驱逐",
         "oneLine": "政策变化：她说，广大加拿大人已明确表达其不受欢迎的态度，同时讽刺地祝他感恩节快乐，认为他“生活在另一个国家会更开心”。",
-        "importance": "A",
+        "importance": "B",
         "credibility": "主流媒体",
         "tags": [
-          "A",
+          "B",
           "mustKnow",
           "industry",
           "world",
@@ -399,13 +301,13 @@
             "language": "zh",
             "originalLanguage": "zh",
             "translationStatus": "not-needed",
-            "fetchedAt": "2026-11-27T10:39:58.896Z",
+            "fetchedAt": "2026-11-28T09:58:42.123Z",
             "sourceMethod": "web",
             "verificationStatus": "confirmed"
           }
         ],
         "images": [],
-        "generatedAt": "2026-11-27T02:00:00.000Z"
+        "generatedAt": "2026-11-28T02:00:00.000Z"
       },
       {
         "id": "draft-real-xinhua-tech-1h10lqh",
@@ -445,7 +347,7 @@
             "language": "zh",
             "originalLanguage": "zh",
             "translationStatus": "not-needed",
-            "fetchedAt": "2026-11-27T10:39:58.905Z",
+            "fetchedAt": "2026-11-28T09:58:41.883Z",
             "sourceMethod": "web",
             "verificationStatus": "confirmed"
           }
@@ -464,7 +366,7 @@
             "sourceUrl": "https://www.news.cn/tech/20261127/eca199a465d8474594770dc27e07ef57/c.html"
           }
         ],
-        "generatedAt": "2026-11-27T02:00:00.000Z"
+        "generatedAt": "2026-11-28T02:00:00.000Z"
       },
       {
         "id": "draft-real-xinhua-tech-b2eyso",
@@ -504,13 +406,13 @@
             "language": "zh",
             "originalLanguage": "zh",
             "translationStatus": "not-needed",
-            "fetchedAt": "2026-11-27T10:39:58.905Z",
+            "fetchedAt": "2026-11-28T09:58:41.883Z",
             "sourceMethod": "web",
             "verificationStatus": "confirmed"
           }
         ],
         "images": [],
-        "generatedAt": "2026-11-27T02:00:00.000Z"
+        "generatedAt": "2026-11-28T02:00:00.000Z"
       },
       {
         "id": "draft-real-xinhua-tech-nbedws",
@@ -550,13 +452,13 @@
             "language": "zh",
             "originalLanguage": "zh",
             "translationStatus": "not-needed",
-            "fetchedAt": "2026-11-27T10:39:58.905Z",
+            "fetchedAt": "2026-11-28T09:58:41.883Z",
             "sourceMethod": "web",
             "verificationStatus": "confirmed"
           }
         ],
         "images": [],
-        "generatedAt": "2026-11-27T02:00:00.000Z"
+        "generatedAt": "2026-11-28T02:00:00.000Z"
       },
       {
         "id": "draft-real-xinhua-tech-1pd7x6w",
@@ -596,13 +498,257 @@
             "language": "zh",
             "originalLanguage": "zh",
             "translationStatus": "not-needed",
-            "fetchedAt": "2026-11-27T10:39:58.905Z",
+            "fetchedAt": "2026-11-28T09:58:41.883Z",
             "sourceMethod": "web",
             "verificationStatus": "confirmed"
           }
         ],
         "images": [],
-        "generatedAt": "2026-11-27T02:00:00.000Z"
+        "generatedAt": "2026-11-28T02:00:00.000Z"
+      },
+      {
+        "id": "draft-real-jyb-education-1izptqq",
+        "title": "基础研究科普将进一步提质增量",
+        "oneLine": "政策变化：意见提出，支持基础研究科普创作，实施“基础科学科普启明行动”，分学科、分群体开展体系化科普创作；",
+        "importance": "B",
+        "credibility": "待确认",
+        "tags": [
+          "B",
+          "industry",
+          "education",
+          "policy",
+          "china"
+        ],
+        "industries": [
+          "teacher",
+          "educationResearch",
+          "generalPublic"
+        ],
+        "section": "industry",
+        "body": {
+          "background": "admin | 退出 用户中心 0 新华社北京11月27日电（记者 温竞华）记者11月27日从中国科协获悉，中国科协、教育部、科技部、中国科学院、自然科学基金委近日联合印发关于进一步加强基础研究科普工作的意见，加快构建供给优质、传播高效、体系完备、协同联动的基础研究科普工作新格局。其中包括，鼓励各级各类科技计划设立科普项目，引导社会资本积极参与基础研究科普；据中国科协有关负责人介绍，意见从加强基础研究优质科普内容供给，激发青少年的好奇心、想象力、探求欲，营造有利于基础研究的社会氛围等方面作出工作部署。",
+          "keyProgress": "推进基础研究重大成果科普转化，鼓励高校、科研院所、科技企业等依托前沿科技和产业优势，建立重大基础研究成果同步科普机制，拓展丰富科普场景。为鼓励更多青少年投身基础研究，意见明确，推动基础研究科普从知识普及向兴趣激发、思维培育转变。在助力培养基础研究后备力量方面，意见提出，深入实施“中学生英才计划”，发现、培养具有基础研究潜力、学科特长、创新潜质的优秀中学生；实施“基础学科拔尖学生培养计划”，选拔培养基础学科拔尖人才；",
+          "whyItMatters": "“基础研究科普将进一步提质增量”可能影响学校治理、教师工作、课程安排或学生发展。教育从业者可以据此提前关注具体对象、地方执行方式和工作要求。",
+          "userRelevance": "如果你从事教师、教育研究或学校管理，可以重点关注“基础研究科普将进一步提质增量”的具体对象、执行方式和地方落地节奏；其他用户可把它作为教育环境背景了解。",
+          "whatToWatch": "接下来要看“基础研究科普将进一步提质增量”是否补充执行细则、地方落地安排、时间节点或适用人群说明。"
+        },
+        "sourceLinks": [
+          {
+            "title": "中国教育新闻网",
+            "url": "http://www.jyb.cn/rmtzgjyb/202611/t20261128_2111547743.html",
+            "sourceId": "jyb-education",
+            "publishedAt": "2026-11-28T00:00:00+08:00",
+            "language": "zh",
+            "originalLanguage": "zh",
+            "translationStatus": "not-needed",
+            "fetchedAt": "2026-11-28T09:58:48.757Z",
+            "sourceMethod": "web",
+            "verificationStatus": "pending"
+          }
+        ],
+        "images": [
+          {
+            "url": "http://www.jyb.cn/rmtxwwyyq/xilanyouceshangbuAd/202208/W020240805447891565944.jpg",
+            "sourceUrl": "http://www.jyb.cn/rmtzgjyb/202611/t20261128_2111547743.html"
+          },
+          {
+            "url": "http://www.jyb.cn/rmtxwwyyq/xilanyoucezhongjianAd/202206/W020240805449508966760.jpg",
+            "sourceUrl": "http://www.jyb.cn/rmtzgjyb/202611/t20261128_2111547743.html"
+          },
+          {
+            "url": "http://www.jyb.cn/images/2018gongan.png",
+            "sourceUrl": "http://www.jyb.cn/rmtzgjyb/202611/t20261128_2111547743.html"
+          }
+        ],
+        "generatedAt": "2026-11-28T02:00:00.000Z"
+      },
+      {
+        "id": "draft-real-jyb-education-16918oa",
+        "title": "课堂巡视不能只是“转一转”",
+        "oneLine": "政策变化：admin | 退出 用户中心 0 日前，笔者在一次青年教师赛课活动中发现，教师在学生独自做作业或小组合作学习时，虽然也会走到学生中间去，偶尔在个别学生旁边伏下身来，进行指导，但在课堂巡视结束之后，在接下来的教学过程中，并没有用到巡视过程中的任何内容，而是按照原先的预设完成教学进度。",
+        "importance": "B",
+        "credibility": "待确认",
+        "tags": [
+          "B",
+          "industry",
+          "education",
+          "policy",
+          "china"
+        ],
+        "industries": [
+          "teacher",
+          "educationResearch",
+          "generalPublic"
+        ],
+        "section": "industry",
+        "body": {
+          "background": "一些教师进行课堂巡视的时候，只是“转一转”。教师在课堂巡视中的价值，不在于教师在教室里走了几圈，而在于教师是不是带着目标去观察、结合发现调整或优化教学进度和策略，从而更好地促进教学目标的达成，提升学生的学习效果。教师不妨从以下四方面作出改变： 一是设好路线，让巡视有精度。",
+          "keyProgress": "在教学设计时，教师就应规划好路线，让课堂巡视从“随意走动”变为“有备而行”。巡视的重点关注对象是需要教师“点一下”的学困生。教师如果巡视从他们身边开始，轻声问一句“哪里卡住了”，或者拍拍肩膀说“别急，再想想”，这份被看见的感觉，比多讲一道题管用得多。关注完学困生，教师要适时起身看看全班的情况。",
+          "whyItMatters": "“课堂巡视不能只是转一转”可能影响学校治理、教师工作、课程安排或学生发展。教育从业者可以据此提前关注具体对象、地方执行方式和工作要求。",
+          "userRelevance": "如果你从事教师、教育研究或学校管理，可以重点关注“课堂巡视不能只是转一转”的具体对象、执行方式和地方落地节奏；其他用户可把它作为教育环境背景了解。",
+          "whatToWatch": "接下来要看“课堂巡视不能只是转一转”是否补充执行细则、地方落地安排、时间节点或适用人群说明。"
+        },
+        "sourceLinks": [
+          {
+            "title": "中国教育新闻网",
+            "url": "http://www.jyb.cn/rmtzgjyb/202611/t20261128_2111547754.html",
+            "sourceId": "jyb-education",
+            "publishedAt": "2026-11-28T00:00:00+08:00",
+            "language": "zh",
+            "originalLanguage": "zh",
+            "translationStatus": "not-needed",
+            "fetchedAt": "2026-11-28T09:58:48.757Z",
+            "sourceMethod": "web",
+            "verificationStatus": "pending"
+          }
+        ],
+        "images": [
+          {
+            "url": "http://www.jyb.cn/rmtxwwyyq/xilanyouceshangbuAd/202208/W020240805447891565944.jpg",
+            "sourceUrl": "http://www.jyb.cn/rmtzgjyb/202611/t20261128_2111547754.html"
+          },
+          {
+            "url": "http://www.jyb.cn/rmtxwwyyq/xilanyoucezhongjianAd/202206/W020240805449508966760.jpg",
+            "sourceUrl": "http://www.jyb.cn/rmtzgjyb/202611/t20261128_2111547754.html"
+          },
+          {
+            "url": "http://www.jyb.cn/images/2018gongan.png",
+            "sourceUrl": "http://www.jyb.cn/rmtzgjyb/202611/t20261128_2111547754.html"
+          }
+        ],
+        "generatedAt": "2026-11-28T02:00:00.000Z"
+      },
+      {
+        "id": "draft-cluster-real-jyb-education-owo8fc",
+        "title": "把运动的快乐传递给每个学生",
+        "oneLine": "政策变化：《把运动的快乐传递给每个学生》作为一所高中，长兴中学并不在要求范围内，却主动请缨。",
+        "importance": "B",
+        "credibility": "待确认",
+        "tags": [
+          "B",
+          "industry",
+          "education",
+          "policy",
+          "china"
+        ],
+        "industries": [
+          "teacher",
+          "educationResearch",
+          "generalPublic"
+        ],
+        "section": "industry",
+        "body": {
+          "background": "这是继学校陆续开展足球、篮球、排球班级联赛等赛事以来，又一次几乎“全员上场”的校园赛事。自2024年5月起，长兴县开展义务教育阶段学校“天体周赛”活动，即学生“每天一节体育活动课，每周一场比赛”。长兴县人口稠密，此前，生均运动场地不足一直是各校体育改革工作中的难点。",
+          "keyProgress": "该校体育教研组组长徐鑫说，像这样的校园赛事，比赛规则、赛程安排等都是依靠体育教师一点点琢磨出来的，如果要向着全员上场的目标发展，需要更多的支持。长兴县教育局在为各校配齐配好专职体育教师的同时，实施“优师锻造计划”，提高体育教师专业能力。此外，还专门对义务教育阶段学校70%以上的教师进行轮训，聚焦赛事组织、规则解读等内容，向着“人人都是体育工作者”的目标发展。这一次，从赛前动员到赛事组织再到后勤保障，由学校多个部门的教师分工完成，篮球赛制也随之升级迭代。",
+          "whyItMatters": "“把运动的快乐传递给每个学生”可能影响学校治理、教师工作、课程安排或学生发展。教育从业者可以据此提前关注具体对象、地方执行方式和工作要求。",
+          "userRelevance": "如果你从事教师、教育研究或学校管理，可以重点关注“把运动的快乐传递给每个学生”的具体对象、执行方式和地方落地节奏；其他用户可把它作为教育环境背景了解。",
+          "whatToWatch": "接下来要看“把运动的快乐传递给每个学生”是否补充执行细则、地方落地安排、时间节点或适用人群说明。"
+        },
+        "sourceLinks": [
+          {
+            "title": "中国教育新闻网",
+            "url": "http://www.jyb.cn/rmtzgjyb/202611/t20261128_2111547749.html",
+            "sourceId": "jyb-education",
+            "publishedAt": "2026-11-28T00:00:00+08:00",
+            "language": "zh",
+            "originalLanguage": "zh",
+            "translationStatus": "not-needed",
+            "fetchedAt": "2026-11-28T09:58:48.757Z",
+            "sourceMethod": "web",
+            "verificationStatus": "pending"
+          },
+          {
+            "title": "中国教育新闻网",
+            "url": "http://www.jyb.cn/rmtzgjyb/202611/t20261128_2111547739.html",
+            "sourceId": "jyb-education",
+            "publishedAt": "2026-11-28T00:00:00+08:00",
+            "language": "zh",
+            "originalLanguage": "zh",
+            "translationStatus": "not-needed",
+            "fetchedAt": "2026-11-28T09:58:48.757Z",
+            "sourceMethod": "web",
+            "verificationStatus": "pending"
+          }
+        ],
+        "images": [
+          {
+            "url": "http://www.jyb.cn/rmtzgjyb/202611/W020261128251521133690.jpg",
+            "sourceUrl": "http://www.jyb.cn/rmtzgjyb/202611/t20261128_2111547749.html"
+          },
+          {
+            "url": "http://www.jyb.cn/rmtzgjyb/202611/W020261128251521967826.jpg",
+            "sourceUrl": "http://www.jyb.cn/rmtzgjyb/202611/t20261128_2111547749.html"
+          },
+          {
+            "url": "http://www.jyb.cn/rmtxwwyyq/xilanyouceshangbuAd/202208/W020240805447891565944.jpg",
+            "sourceUrl": "http://www.jyb.cn/rmtzgjyb/202611/t20261128_2111547749.html"
+          },
+          {
+            "url": "http://www.jyb.cn/rmtxwwyyq/xilanyoucezhongjianAd/202206/W020240805449508966760.jpg",
+            "sourceUrl": "http://www.jyb.cn/rmtzgjyb/202611/t20261128_2111547749.html"
+          },
+          {
+            "url": "http://www.jyb.cn/images/2018gongan.png",
+            "sourceUrl": "http://www.jyb.cn/rmtzgjyb/202611/t20261128_2111547749.html"
+          }
+        ],
+        "generatedAt": "2026-11-28T02:00:00.000Z"
+      },
+      {
+        "id": "draft-real-jyb-education-1ti9sp6",
+        "title": "“卓越工程师培养改革五年实践成果申请学位展示”专区上线",
+        "oneLine": "最新进展：“卓越工程师培养改革五年实践成果申请学位展示”专区上线。",
+        "importance": "B",
+        "credibility": "待确认",
+        "tags": [
+          "B",
+          "industry",
+          "education",
+          "policy",
+          "china"
+        ],
+        "industries": [
+          "teacher",
+          "educationResearch",
+          "generalPublic"
+        ],
+        "section": "industry",
+        "body": {
+          "background": "admin | 退出 用户中心 0 本报讯（记者 郑翅）近日，“卓越工程师培养改革五年实践成果申请学位展示”专区在国家研究生智慧教育平台正式上线。3个板块分类呈现实践成果的多样形态，展现工程硕博士面向国家实际需求开展技术攻关、破解工程问题的实践探索。专区设置发展历程、制度保障体系、实践成果、特色专区4个主题展厅，系统呈现以实践成果申请学位的改革探索与实践成效。",
+          "keyProgress": "专区的上线，将以实践成果申请学位的改革探索转化为可看、可学、可借鉴的示范样板，集中展现改革的制度创新突破与实践探索成效，推动相关经验做法由点及面、从示范走向推广。发展历程展厅以时间轴串联改革关键节点，从顶层擘画到体系重构、从标准筑基到示范引领、从首批成果到纵深推进，系统展现以实践成果申请学位改革由点上突破到系统集成、由探索试点到制度定型的发展脉络。实践成果展厅设“重器铸剑”“数智赋能”“工艺匠心”3个板块，集中呈现26所高校的37项代表性实践成果，支持成果集中展示、分类检索与延伸阅读。“重器铸剑”聚焦工程装备与硬件系统，展示面向国家重大战略需求的装备、系统与关键部件成果；",
+          "whyItMatters": "“卓越工程师培养改革五年实践成果申请学位展示专区上线”可能影响学校治理、教师工作、课程安排或学生发展。教育从业者可以据此提前关注具体对象、地方执行方式和工作要求。",
+          "userRelevance": "如果你从事教师、教育研究或学校管理，可以重点关注“卓越工程师培养改革五年实践成果申请学位展示专区上线”的具体对象、执行方式和地方落地节奏；其他用户可把它作为教育环境背景了解。",
+          "whatToWatch": "接下来要看“卓越工程师培养改革五年实践成果申请学位展示专区上线”是否补充执行细则、地方落地安排、时间节点或适用人群说明。"
+        },
+        "sourceLinks": [
+          {
+            "title": "中国教育新闻网",
+            "url": "http://www.jyb.cn/rmtzgjyb/202611/t20261128_2111547748.html",
+            "sourceId": "jyb-education",
+            "publishedAt": "2026-11-28T00:00:00+08:00",
+            "language": "zh",
+            "originalLanguage": "zh",
+            "translationStatus": "not-needed",
+            "fetchedAt": "2026-11-28T09:58:48.757Z",
+            "sourceMethod": "web",
+            "verificationStatus": "pending"
+          }
+        ],
+        "images": [
+          {
+            "url": "http://www.jyb.cn/rmtxwwyyq/xilanyouceshangbuAd/202208/W020240805447891565944.jpg",
+            "sourceUrl": "http://www.jyb.cn/rmtzgjyb/202611/t20261128_2111547748.html"
+          },
+          {
+            "url": "http://www.jyb.cn/rmtxwwyyq/xilanyoucezhongjianAd/202206/W020240805449508966760.jpg",
+            "sourceUrl": "http://www.jyb.cn/rmtzgjyb/202611/t20261128_2111547748.html"
+          },
+          {
+            "url": "http://www.jyb.cn/images/2018gongan.png",
+            "sourceUrl": "http://www.jyb.cn/rmtzgjyb/202611/t20261128_2111547748.html"
+          }
+        ],
+        "generatedAt": "2026-11-28T02:00:00.000Z"
       },
       {
         "id": "draft-real-stats-cn-data-1er91dl",
@@ -641,7 +787,7 @@
             "language": "zh",
             "originalLanguage": "zh",
             "translationStatus": "not-needed",
-            "fetchedAt": "2026-11-27T10:40:22.589Z",
+            "fetchedAt": "2026-11-28T09:58:56.552Z",
             "sourceMethod": "web",
             "verificationStatus": "confirmed"
           }
@@ -660,205 +806,59 @@
             "sourceUrl": "https://www.stats.gov.cn/sj/zxfb/202611/t20261127_1965949.html"
           }
         ],
-        "generatedAt": "2026-11-27T02:00:00.000Z"
+        "generatedAt": "2026-11-28T02:00:00.000Z"
       },
       {
-        "id": "draft-real-eol-education-i4708p",
-        "title": "AI赋能教育！四川将大力推广“四川AI助教”",
-        "oneLine": "政策变化：合作邮箱：bianji@eol.cn 官方微信ID：eoleoleol 四川省教育厅日前印发《关于做好“四川AI助教”应用推广工作的通知》(以下简称《通知》)，要求各地各校要积极主动将“四川AI助教”推广应用纳入重点工作统筹部署，突出应用实效，赋能教学教研变革，加强教研指导，开展分层培训，提升教师应。",
+        "id": "draft-real-cas-science-news-oljzzq",
+        "title": "研究揭示2023年至2024年全球地表水变化成因",
+        "oneLine": "趋势信号：2023年和2024年是有器测记录以来最热的两年，全球平均气温较工业化前水平升高超1.5℃。",
         "importance": "B",
-        "credibility": "待确认",
+        "credibility": "官方来源",
         "tags": [
           "B",
           "industry",
-          "education",
-          "policy",
-          "china"
+          "technology",
+          "education"
         ],
         "industries": [
-          "teacher",
-          "educationResearch",
-          "generalPublic"
+          "technologyEngineering",
+          "educationResearch"
         ],
         "section": "industry",
         "body": {
-          "background": "课前重点推广教师利用“四川AI助教”开展教学资源准备、教学设计、课件设计、学习活动设计、分层作业设计和实验方案设计等；课中重点推广教师利用“四川AI助教”开展情境创设、课堂互动、标准语音示范、虚拟仿真实验、个性化学习协作等；课后重点支持教师利用“四川AI助教”开展智能出题组卷、课堂智能分析等。",
-          "keyProgress": "“四川AI助教”是“天府云教”核心应用之一，是专为全省中小学教师打造的公益普惠智能助手，由省级统一保障、统一平台、统一账号、全免费使用，聚焦教师智能教学教研全场景需求，运用人工智能等数智技术为教师减负增效、为教育提质赋能。推广“四川AI助教”，应突出应用导向，把“四川AI助教”在课前、课中、课后以及教研等核心应用场景作为重点。《通知》强调，各地各校要将“四川AI助教”应用纳入教师培训、校本研修、名师名校长工作室建设等必修内容，纳入全省中小学教师人工智能素养全覆盖培训统筹安排，分层分类开展培训。教育厅将依托四川中小学智慧教育平台搭建展示交流平台，遴选应用成效明显的区域、学校和教师优秀案例，推广典型经验。",
-          "whyItMatters": "“AI赋能教育！四川将大力推广四川AI助教”可能影响学校治理、教师工作、课程安排或学生发展。教育从业者可以据此提前关注具体对象、地方执行方式和工作要求。",
-          "userRelevance": "如果你从事教师、教育研究或学校管理，可以重点关注“AI赋能教育！四川将大力推广四川AI助教”的具体对象、执行方式和地方落地节奏；其他用户可把它作为教育环境背景了解。",
-          "whatToWatch": "接下来要看“AI赋能教育！四川将大力推广四川AI助教”是否补充执行细则、地方落地安排、时间节点或适用人群说明。"
+          "background": "西半球以降水亏缺主导，东半球则主要受蒸散发需求与储水变化调控。机制分析表明，2023年至2024年厄尔尼诺与热带北大西洋增暖协同发生， 北大西洋 海温异常强度约为历史厄尔尼诺事件的3倍。厄尔尼诺为触发因素，受全球变暖增强的大西洋强迫起到放大作用，二者共同扰动沃克环流，在南美洲北部引发大范围下沉气流和水汽通量辐散，加剧区域干旱。",
+          "keyProgress": "针对上述问题，中国科学院地理科学与资源研究所 联合国内外多家单位， 同化全球150个大型流域的实测径流数据，构建了基于五种机器学习模型的径流集合模拟框架，并结合120余万个湖泊、水库的卫星遥感数据，重建了1991年至2025年全球径流与地表活跃水体蓄水量时序变化，揭示了此次 地表水资源 骤减的驱动机制，为认识极端高温下全球地表水资源演变提供了科学依据。研究显示，2023年至2024年全球径流与地表活跃水体蓄水量同步下降，降幅为1991年以来最高。因此，亟需发展高分辨率气候—水文耦合模型，提升区域和全球水循环的预测预报能力，加强对突发性水危机的预警，增强人类社会应对极端水文事件的能力。极端增温是否会导致全球地表水资源骤减、其空间格局和驱动机制如何，是当前亟待回答的科学问题。",
+          "whyItMatters": "“研究揭示2023年至2024年全球地表水变化成因”提供了一个具体的研究进展信号。它是否重要，要看实验指标、可复现性、开源材料和真实应用，而不能只看论文标题。",
+          "userRelevance": "如果你从事科研、工程或正在攻读相关学位，可以重点查看“研究揭示2023年至2024年全球地表水变化成因”的实验条件、指标和可复现性；其他用户可把它作为技术趋势背景了解。",
+          "whatToWatch": "接下来要看“研究揭示2023年至2024年全球地表水变化成因”是否公开论文全文、代码或完整实验条件，以及是否得到独立复现和实际应用。"
         },
         "sourceLinks": [
           {
-            "title": "中国教育在线要闻",
-            "url": "https://www.eol.cn/news/yaowen/202611/t20261127_2799977.shtml",
-            "sourceId": "eol-education",
+            "title": "中国科学院科研动态",
+            "url": "https://www.cas.cn/syky/202611/t20261127_5125196.shtml",
+            "sourceId": "cas-science-news",
             "publishedAt": "2026-11-27T00:00:00+08:00",
             "language": "zh",
             "originalLanguage": "zh",
             "translationStatus": "not-needed",
-            "fetchedAt": "2026-11-27T10:40:07.335Z",
+            "fetchedAt": "2026-11-28T09:58:38.421Z",
             "sourceMethod": "web",
-            "verificationStatus": "pending"
+            "verificationStatus": "confirmed"
           }
         ],
         "images": [
           {
-            "url": "https://www.eol.cn/images/ad/2017_img/arrow.png",
-            "sourceUrl": "https://www.eol.cn/news/yaowen/202611/t20261127_2799977.shtml"
-          },
-          {
-            "url": "https://www.eol.cn/images/ad/2017_img/phone.png",
-            "sourceUrl": "https://www.eol.cn/news/yaowen/202611/t20261127_2799977.shtml"
-          },
-          {
-            "url": "https://img.eol.cn/e_images/gk/2020/newzsgk.jpg",
-            "sourceUrl": "https://www.eol.cn/news/yaowen/202611/t20261127_2799977.shtml"
-          },
-          {
-            "url": "https://img.eol.cn/e_images/gk/2023/zsky2023.jpg",
-            "sourceUrl": "https://www.eol.cn/news/yaowen/202611/t20261127_2799977.shtml"
-          },
-          {
-            "url": "https://www.eol.cn/e_images/index/2018/acabridge.png",
-            "sourceUrl": "https://www.eol.cn/news/yaowen/202611/t20261127_2799977.shtml"
+            "url": "https://www.cas.cn/syky/202611/W020261127540962042882_ORIGIN.jpg",
+            "sourceUrl": "https://www.cas.cn/syky/202611/t20261127_5125196.shtml"
           }
         ],
-        "generatedAt": "2026-11-27T02:00:00.000Z"
-      },
-      {
-        "id": "draft-real-eol-education-1ijkgwb",
-        "title": "陈子季｜价值共创：大学形态的第四次跃迁",
-        "oneLine": "政策变化：合作邮箱：bianji@eol.cn 官方微信ID：eoleoleol 价值共创： 大学形态的第四次跃迁 北京交通大学提出在雄安校区探索建设第四代大学后，引起了社会各界的广泛关注。",
-        "importance": "B",
-        "credibility": "待确认",
-        "tags": [
-          "B",
-          "industry",
-          "education",
-          "policy",
-          "china"
-        ],
-        "industries": [
-          "teacher",
-          "educationResearch",
-          "generalPublic"
-        ],
-        "section": "industry",
-        "body": {
-          "background": "大学不再仅承担保存知识、开展科研和单向输出成果的职能，而是深度嵌入区域创新生态，聚焦国家战略中的跨领域复杂难题，联合政府、企业、科研院所、社区等多元主体协同发力，共同创造价值。不再沿循学科惯性选题，而是围绕重大现实挑战组建团队开展攻关。师资可柔性流动，不再受校内编制单一约束。",
-          "keyProgress": "人工智能快速兴起，新一轮科技革命持续推进，中国式现代化又提出新的要求，高等教育正面临新的时代命题。重塑人才培养模式将真实项目融入课程体系，完善双导师机制，运用智能工具支撑个性化培养，弹性学制、学分银行等机制均可积极探索。优化师资结构打通双向流动通道，支持产业一线专家进校任教，也鼓励校内教师到产业一线挂职历练，灵活设置岗位形式，配套完善相应考核激励。培育新型校园文化包容跨学科协作，建立针对前沿探索宽容失败的容错纠错机制，逐步摒弃封闭的象牙塔思维。",
-          "whyItMatters": "“陈子季｜价值共创：大学形态的第四次跃迁”可能影响学校治理、教师工作、课程安排或学生发展。教育从业者可以据此提前关注具体对象、地方执行方式和工作要求。",
-          "userRelevance": "如果你从事教师、教育研究或学校管理，可以重点关注“陈子季｜价值共创：大学形态的第四次跃迁”的具体对象、执行方式和地方落地节奏；其他用户可把它作为教育环境背景了解。",
-          "whatToWatch": "接下来要看“陈子季｜价值共创：大学形态的第四次跃迁”是否补充执行细则、地方落地安排、时间节点或适用人群说明。"
-        },
-        "sourceLinks": [
-          {
-            "title": "中国教育在线要闻",
-            "url": "https://www.eol.cn/news/xueshu/hui/202611/t20261127_2799936.shtml",
-            "sourceId": "eol-education",
-            "publishedAt": "2026-11-27T00:00:00+08:00",
-            "language": "zh",
-            "originalLanguage": "zh",
-            "translationStatus": "not-needed",
-            "fetchedAt": "2026-11-27T10:40:07.335Z",
-            "sourceMethod": "web",
-            "verificationStatus": "pending"
-          }
-        ],
-        "images": [
-          {
-            "url": "https://www.eol.cn/images/ad/2017_img/arrow.png",
-            "sourceUrl": "https://www.eol.cn/news/xueshu/hui/202611/t20261127_2799936.shtml"
-          },
-          {
-            "url": "https://www.eol.cn/images/ad/2017_img/phone.png",
-            "sourceUrl": "https://www.eol.cn/news/xueshu/hui/202611/t20261127_2799936.shtml"
-          },
-          {
-            "url": "https://img.eol.cn/e_images/gk/2020/newzsgk.jpg",
-            "sourceUrl": "https://www.eol.cn/news/xueshu/hui/202611/t20261127_2799936.shtml"
-          },
-          {
-            "url": "https://img.eol.cn/e_images/gk/2023/zsky2023.jpg",
-            "sourceUrl": "https://www.eol.cn/news/xueshu/hui/202611/t20261127_2799936.shtml"
-          },
-          {
-            "url": "https://www.eol.cn/e_images/index/2018/acabridge.png",
-            "sourceUrl": "https://www.eol.cn/news/xueshu/hui/202611/t20261127_2799936.shtml"
-          }
-        ],
-        "generatedAt": "2026-11-27T02:00:00.000Z"
-      },
-      {
-        "id": "draft-real-eol-education-1e7r2sz",
-        "title": "山东省政府：降低中考难度，指标到校将逐步提至70%以上",
-        "oneLine": "最新进展：山东省政府：降低中考难度，指标到校将逐步提至70%以上。",
-        "importance": "B",
-        "credibility": "待确认",
-        "tags": [
-          "B",
-          "industry",
-          "education",
-          "policy",
-          "china"
-        ],
-        "industries": [
-          "teacher",
-          "educationResearch",
-          "generalPublic"
-        ],
-        "section": "industry",
-        "body": {
-          "background": "《意见》明确，到2030年，全省高中阶段教育完成率达到92%，公办高中招生录取比例较2025年提高10个以上百分点；学前教育毛入园率达到99%，公办幼儿园在园幼儿占比达到75%；全域通过学前教育普及普惠县和义务教育优质均衡发展县评估认定，适龄残疾儿童入学率稳定在100%。",
-          "keyProgress": "六大行动推进育人方式变革 《意见》在“完善立德树人机制”部分部署六项行动：实施新时代铸魂育人行动，推进大中小学思政课一体化和首课思政负责制，构建“党的创新理论主课堂、实践育人大课堂、网络育人新课堂”大思政体系；实施课程教学改革深化行动，科学压缩义务教育课时，健全自主选课学习日制度，全面开设人工智能通识课程；实施健康学校建设行动， 实行中小学生每天一节体育课、综合体育活动时间不低于2小时，严格执行小学上午上课时间一般不早于8:20、中学一般不早于8:00的规定 ，帮助学生至少掌握1项艺术特长；实施科技教育提质行动，完善拔尖创新后备人才发现和培养机制；",
-          "whyItMatters": "“山东省政府：降低中考难度，指标到校将逐步提至70%以上”可能影响学校治理、教师工作、课程安排或学生发展。教育从业者可以据此提前关注具体对象、地方执行方式和工作要求。",
-          "userRelevance": "如果你从事教师、教育研究或学校管理，可以重点关注“山东省政府：降低中考难度，指标到校将逐步提至70%以上”的具体对象、执行方式和地方落地节奏；其他用户可把它作为教育环境背景了解。",
-          "whatToWatch": "接下来要看“山东省政府：降低中考难度，指标到校将逐步提至70%以上”是否补充执行细则、地方落地安排、时间节点或适用人群说明。"
-        },
-        "sourceLinks": [
-          {
-            "title": "中国教育在线要闻",
-            "url": "https://chuzhong.eol.cn/news/202611/t20261127_2799857.shtml",
-            "sourceId": "eol-education",
-            "publishedAt": "2026-11-27T00:00:00+08:00",
-            "language": "zh",
-            "originalLanguage": "zh",
-            "translationStatus": "not-needed",
-            "fetchedAt": "2026-11-27T10:40:07.335Z",
-            "sourceMethod": "web",
-            "verificationStatus": "pending"
-          }
-        ],
-        "images": [
-          {
-            "url": "https://www.eol.cn/images/ad/2017_img/arrow.png",
-            "sourceUrl": "https://chuzhong.eol.cn/news/202611/t20261127_2799857.shtml"
-          },
-          {
-            "url": "https://www.eol.cn/images/ad/2017_img/phone.png",
-            "sourceUrl": "https://chuzhong.eol.cn/news/202611/t20261127_2799857.shtml"
-          },
-          {
-            "url": "https://img.eol.cn/e_images/gk/2020/newzsgk.jpg",
-            "sourceUrl": "https://chuzhong.eol.cn/news/202611/t20261127_2799857.shtml"
-          },
-          {
-            "url": "https://img.eol.cn/e_images/gk/2023/zsky2023.jpg",
-            "sourceUrl": "https://chuzhong.eol.cn/news/202611/t20261127_2799857.shtml"
-          },
-          {
-            "url": "https://www.eol.cn/e_images/index/2018/acabridge.png",
-            "sourceUrl": "https://chuzhong.eol.cn/news/202611/t20261127_2799857.shtml"
-          }
-        ],
-        "generatedAt": "2026-11-27T02:00:00.000Z"
+        "generatedAt": "2026-11-28T02:00:00.000Z"
       }
     ],
-    "estimatedReadMinutes": 24,
+    "estimatedReadMinutes": 25,
     "pageCount": 3,
-    "topCardId": "draft-real-xinhua-world-plbt4x",
-    "generatedAt": "2026-11-27T02:00:00.000Z",
+    "topCardId": "draft-real-xinhua-world-xtyzez",
+    "generatedAt": "2026-11-28T02:00:00.000Z",
     "pushSlots": [
       "08:30",
       "12:30",
@@ -867,26 +867,26 @@
     "edition": "morning",
     "editionLabel": "晨报",
     "coverageWindow": {
-      "start": "2026-11-26T00:00:00+08:00",
-      "end": "2026-11-27T10:00:00+08:00"
+      "start": "2026-11-27T00:00:00+08:00",
+      "end": "2026-11-28T10:00:00+08:00"
     },
     "editionCardIds": [
-      "draft-real-xinhua-world-plbt4x",
-      "draft-real-xinhua-world-1kceq2g",
       "draft-real-xinhua-world-xtyzez",
-      "draft-cluster-real-mofcom-trade-16edkpg",
-      "draft-real-mofcom-trade-1t1nvup",
-      "draft-real-mofcom-trade-6slgpi",
-      "draft-real-mofcom-trade-htvpwd",
-      "draft-real-xinhua-world-jifts3",
+      "draft-real-mofcom-trade-1if3u61",
+      "draft-cluster-real-mofcom-trade-16od6ef",
+      "draft-real-xinhua-world-1d6oc1b",
+      "draft-real-xinhua-world-1psknjd",
+      "draft-real-xinhua-world-j8g834",
       "draft-real-xinhua-tech-1h10lqh",
       "draft-real-xinhua-tech-b2eyso",
       "draft-real-xinhua-tech-nbedws",
       "draft-real-xinhua-tech-1pd7x6w",
+      "draft-real-jyb-education-1izptqq",
+      "draft-real-jyb-education-16918oa",
+      "draft-cluster-real-jyb-education-owo8fc",
+      "draft-real-jyb-education-1ti9sp6",
       "draft-real-stats-cn-data-1er91dl",
-      "draft-real-eol-education-i4708p",
-      "draft-real-eol-education-1ijkgwb",
-      "draft-real-eol-education-1e7r2sz"
+      "draft-real-cas-science-news-oljzzq"
     ],
     "carriedCardIds": []
   }
